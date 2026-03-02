@@ -1,0 +1,650 @@
+{
+  "country": "norway",
+  "source": {
+    "api": "https://data.udir.no/kl06/v201906/laereplaner-lk20/RLE01-03",
+    "curriculum": "LK20",
+    "license": "NLOD",
+    "lastSynced": "2026-03-02T21:20:31Z"
+  },
+  "subject": {
+    "code": "RLE01-03",
+    "name": {
+      "local": "Læreplan i kristendom, religion, livssyn og etikk (KRLE)",
+      "en": "Læreplan i kristendom, religion, livssyn og etikk (KRLE)"
+    },
+    "coreElements": [],
+    "gradeBands": [
+      {
+        "afterGrade": 4,
+        "label": {
+          "local": "Kompetansemål og vurdering 4. trinn",
+          "en": "Kompetansemål og vurdering 4. trinn"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM1958",
+            "text": {
+              "local": "utforske og beskrive hvordan kristendom og andre religioner og livssyn kommer til uttrykk lokalt og regionalt",
+              "en": "utforske og beskrive hvordan kristendom og andre religioner og livssyn kommer til uttrykk lokalt og regionalt"
+            },
+            "coreElements": [
+              "Kjennskap til religioner og livssyn",
+              "Utforsking av religioner og livssyn med ulike metoder",
+              "Kunne ta andres perspektiv"
+            ],
+            "verbs": [
+              "Utforske",
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM1990",
+            "text": {
+              "local": "samtale om og presentere sentrale fortellinger og trosforestillinger i kristen tradisjon",
+              "en": "samtale om og presentere sentrale fortellinger og trosforestillinger i kristen tradisjon"
+            },
+            "coreElements": [
+              "Kjennskap til religioner og livssyn",
+              "Utforsking av religioner og livssyn med ulike metoder"
+            ],
+            "verbs": [
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM1991",
+            "text": {
+              "local": "samtale om og presentere sentrale fortellinger og trosforestillinger i østlige og vestlige religiøse tradisjoner",
+              "en": "samtale om og presentere sentrale fortellinger og trosforestillinger i østlige og vestlige religiøse tradisjoner"
+            },
+            "coreElements": [
+              "Kjennskap til religioner og livssyn",
+              "Utforsking av religioner og livssyn med ulike metoder"
+            ],
+            "verbs": [
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM1980",
+            "text": {
+              "local": "sammenligne og presentere ulike årstider og høytider i kristendom og andre religions- og livssynstradisjoner, som kulturarv",
+              "en": "sammenligne og presentere ulike årstider og høytider i kristendom og andre religions- og livssynstradisjoner, som kulturarv"
+            },
+            "coreElements": [
+              "Kjennskap til religioner og livssyn",
+              "Utforsking av religioner og livssyn med ulike metoder",
+              "Kunne ta andres perspektiv"
+            ],
+            "verbs": [
+              "Sammenligne",
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM1981",
+            "text": {
+              "local": "samtale om og presentere estetiske uttrykk fra kristendom og andre religioner og livssyn",
+              "en": "samtale om og presentere estetiske uttrykk fra kristendom og andre religioner og livssyn"
+            },
+            "coreElements": [
+              "Kjennskap til religioner og livssyn",
+              "Utforsking av religioner og livssyn med ulike metoder"
+            ],
+            "verbs": [
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM1989",
+            "text": {
+              "local": "bruke enkle fagbegreper i arbeidet med religioner og livssyn",
+              "en": "bruke enkle fagbegreper i arbeidet med religioner og livssyn"
+            },
+            "coreElements": [
+              "Kjennskap til religioner og livssyn",
+              "Utforsking av religioner og livssyn med ulike metoder"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM1982",
+            "text": {
+              "local": "skille mellom ulike kilder til kunnskap om religioner og livssyn",
+              "en": "skille mellom ulike kilder til kunnskap om religioner og livssyn"
+            },
+            "coreElements": [
+              "Utforsking av religioner og livssyn med ulike metoder"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1987",
+            "text": {
+              "local": "beskrive og samtale om ulike måter å leve sammen på i familie og samfunn",
+              "en": "beskrive og samtale om ulike måter å leve sammen på i familie og samfunn"
+            },
+            "coreElements": [
+              "Utforsking av eksistensielle spørsmål og svar",
+              "Kunne ta andres perspektiv",
+              "Etisk refleksjon"
+            ],
+            "verbs": [
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM1983",
+            "text": {
+              "local": "samarbeide med andre i filosofisk samtale",
+              "en": "samarbeide med andre i filosofisk samtale"
+            },
+            "coreElements": [
+              "Utforsking av eksistensielle spørsmål og svar",
+              "Kunne ta andres perspektiv",
+              "Etisk refleksjon"
+            ],
+            "verbs": [
+              "Samarbeide"
+            ]
+          },
+          {
+            "code": "KM1984",
+            "text": {
+              "local": "identifisere og reflektere over etiske spørsmål",
+              "en": "identifisere og reflektere over etiske spørsmål"
+            },
+            "coreElements": [
+              "Kjennskap til religioner og livssyn",
+              "Kunne ta andres perspektiv",
+              "Etisk refleksjon"
+            ],
+            "verbs": [
+              "Reflektere"
+            ]
+          },
+          {
+            "code": "KM1986",
+            "text": {
+              "local": "utforske og samtale om etiske sider ved menneskers levesett og ressursbruk",
+              "en": "utforske og samtale om etiske sider ved menneskers levesett og ressursbruk"
+            },
+            "coreElements": [
+              "Utforsking av eksistensielle spørsmål og svar",
+              "Kunne ta andres perspektiv",
+              "Etisk refleksjon"
+            ],
+            "verbs": [
+              "Utforske"
+            ]
+          },
+          {
+            "code": "KM1985",
+            "text": {
+              "local": "sette seg inn i og formidle egne og andres tanker, følelser og erfaringer",
+              "en": "sette seg inn i og formidle egne og andres tanker, følelser og erfaringer"
+            },
+            "coreElements": [
+              "Kunne ta andres perspektiv",
+              "Etisk refleksjon"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1988",
+            "text": {
+              "local": "samtale om hva menneskeverd, respekt og toleranse betyr og hva det innebærer for hvordan vi lever sammen",
+              "en": "samtale om hva menneskeverd, respekt og toleranse betyr og hva det innebærer for hvordan vi lever sammen"
+            },
+            "coreElements": [
+              "Kunne ta andres perspektiv",
+              "Etisk refleksjon"
+            ],
+            "verbs": []
+          }
+        ]
+      },
+      {
+        "afterGrade": 7,
+        "label": {
+          "local": "Kompetansemål og vurdering 7. trinn",
+          "en": "Kompetansemål og vurdering 7. trinn"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM1992",
+            "text": {
+              "local": "gjøre rede for historien til kristendom og andre religioner og livssyn i Norge, inkludert samers og nasjonale minoriteters religions- og livssynshistorie",
+              "en": "gjøre rede for historien til kristendom og andre religioner og livssyn i Norge, inkludert samers og nasjonale minoriteters religions- og livssynshistorie"
+            },
+            "coreElements": [
+              "Kjennskap til religioner og livssyn",
+              "Utforsking av religioner og livssyn med ulike metoder",
+              "Kunne ta andres perspektiv"
+            ],
+            "verbs": [
+              "Gjøre rede for"
+            ]
+          },
+          {
+            "code": "KM1994",
+            "text": {
+              "local": "beskrive og presentere noen sentrale rituelle praksiser og etiske normer i kristendom",
+              "en": "beskrive og presentere noen sentrale rituelle praksiser og etiske normer i kristendom"
+            },
+            "coreElements": [
+              "Kjennskap til religioner og livssyn",
+              "Utforsking av religioner og livssyn med ulike metoder",
+              "Kunne ta andres perspektiv"
+            ],
+            "verbs": [
+              "Beskrive",
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM1960",
+            "text": {
+              "local": "beskrive og presentere noen sentrale rituelle praksiser og etiske normer fra østlige og vestlige religioner og livssynstradisjoner",
+              "en": "beskrive og presentere noen sentrale rituelle praksiser og etiske normer fra østlige og vestlige religioner og livssynstradisjoner"
+            },
+            "coreElements": [
+              "Kjennskap til religioner og livssyn",
+              "Utforsking av religioner og livssyn med ulike metoder",
+              "Kunne ta andres perspektiv"
+            ],
+            "verbs": [
+              "Beskrive",
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM1993",
+            "text": {
+              "local": "utforske og sammenligne tekster og materielle uttrykk som kilder til kunnskap om kulturarv knyttet til kristendom og ulike religions- og livssynstradisjoner",
+              "en": "utforske og sammenligne tekster og materielle uttrykk som kilder til kunnskap om kulturarv knyttet til kristendom og ulike religions- og livssynstradisjoner"
+            },
+            "coreElements": [
+              "Kjennskap til religioner og livssyn",
+              "Utforsking av religioner og livssyn med ulike metoder"
+            ],
+            "verbs": [
+              "Sammenligne",
+              "Utforske"
+            ]
+          },
+          {
+            "code": "KM1961",
+            "text": {
+              "local": "utforske og samtale om mangfold både innenfor kristne trossamfunn og andre religionssamfunn",
+              "en": "utforske og samtale om mangfold både innenfor kristne trossamfunn og andre religionssamfunn"
+            },
+            "coreElements": [
+              "Kjennskap til religioner og livssyn",
+              "Utforsking av religioner og livssyn med ulike metoder"
+            ],
+            "verbs": [
+              "Utforske"
+            ]
+          },
+          {
+            "code": "KM1976",
+            "text": {
+              "local": "bruke fagbegreper i arbeidet med religioner og livssyn",
+              "en": "bruke fagbegreper i arbeidet med religioner og livssyn"
+            },
+            "coreElements": [
+              "Kjennskap til religioner og livssyn",
+              "Utforsking av religioner og livssyn med ulike metoder",
+              "Etisk refleksjon"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM1978",
+            "text": {
+              "local": "gjøre rede for ulike syn på barndom, familie og samliv i religioner og livssyn",
+              "en": "gjøre rede for ulike syn på barndom, familie og samliv i religioner og livssyn"
+            },
+            "coreElements": [
+              "Kjennskap til religioner og livssyn",
+              "Utforsking av eksistensielle spørsmål og svar",
+              "Kunne ta andres perspektiv",
+              "Etisk refleksjon"
+            ],
+            "verbs": [
+              "Gjøre rede for"
+            ]
+          },
+          {
+            "code": "KM1995",
+            "text": {
+              "local": "bruke filosofiske tenkemåter i samtale og undring",
+              "en": "bruke filosofiske tenkemåter i samtale og undring"
+            },
+            "coreElements": [
+              "Utforsking av religioner og livssyn med ulike metoder",
+              "Utforsking av eksistensielle spørsmål og svar",
+              "Kunne ta andres perspektiv",
+              "Etisk refleksjon"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM1996",
+            "text": {
+              "local": "samtale om og formidle etiske ideer fra sentrale skikkelser i religiøse og livssynsbaserte tradisjoner",
+              "en": "samtale om og formidle etiske ideer fra sentrale skikkelser i religiøse og livssynsbaserte tradisjoner"
+            },
+            "coreElements": [
+              "Kjennskap til religioner og livssyn",
+              "Utforsking av eksistensielle spørsmål og svar",
+              "Etisk refleksjon"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1962",
+            "text": {
+              "local": "samtale om og formidle etiske ideer fra sentrale skikkelser i filosofihistorien",
+              "en": "samtale om og formidle etiske ideer fra sentrale skikkelser i filosofihistorien"
+            },
+            "coreElements": [
+              "Utforsking av eksistensielle spørsmål og svar",
+              "Etisk refleksjon"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1979",
+            "text": {
+              "local": "utforske og beskrive egne og andres perspektiver i etiske dilemmaer knyttet til hverdags- og samfunnsutfordringer",
+              "en": "utforske og beskrive egne og andres perspektiver i etiske dilemmaer knyttet til hverdags- og samfunnsutfordringer"
+            },
+            "coreElements": [
+              "Kunne ta andres perspektiv",
+              "Etisk refleksjon"
+            ],
+            "verbs": [
+              "Utforske",
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM1997",
+            "text": {
+              "local": "reflektere over eksistensielle spørsmål knyttet til menneskets levesett og levekår og klodens framtid",
+              "en": "reflektere over eksistensielle spørsmål knyttet til menneskets levesett og levekår og klodens framtid"
+            },
+            "coreElements": [
+              "Utforsking av eksistensielle spørsmål og svar",
+              "Kunne ta andres perspektiv",
+              "Etisk refleksjon"
+            ],
+            "verbs": [
+              "Reflektere"
+            ]
+          },
+          {
+            "code": "KM1959",
+            "text": {
+              "local": "gjøre rede for hva menneskerettighetene innebærer for ytringsfrihet, religionsfrihet og religiøse minoriteters situasjon i Norge",
+              "en": "gjøre rede for hva menneskerettighetene innebærer for ytringsfrihet, religionsfrihet og religiøse minoriteters situasjon i Norge"
+            },
+            "coreElements": [
+              "Kjennskap til religioner og livssyn",
+              "Kunne ta andres perspektiv",
+              "Etisk refleksjon"
+            ],
+            "verbs": [
+              "Gjøre rede for"
+            ]
+          }
+        ]
+      },
+      {
+        "afterGrade": 10,
+        "label": {
+          "local": "Kompetansemål og vurdering 10. trinn",
+          "en": "Kompetansemål og vurdering 10. trinn"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM1963",
+            "text": {
+              "local": "utforske og presentere sentrale trekk ved kristendom og andre religions- og livssynstradisjoner og deres utbredelse i dag",
+              "en": "utforske og presentere sentrale trekk ved kristendom og andre religions- og livssynstradisjoner og deres utbredelse i dag"
+            },
+            "coreElements": [
+              "Kjennskap til religioner og livssyn",
+              "Utforsking av religioner og livssyn med ulike metoder",
+              "Kunne ta andres perspektiv"
+            ],
+            "verbs": [
+              "Utforske",
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM1974",
+            "text": {
+              "local": "utforske og drøfte hvordan kristendom og andre religioner inngår i historiske endringsprosesser globalt og nasjonalt",
+              "en": "utforske og drøfte hvordan kristendom og andre religioner inngår i historiske endringsprosesser globalt og nasjonalt"
+            },
+            "coreElements": [
+              "Kjennskap til religioner og livssyn",
+              "Utforsking av religioner og livssyn med ulike metoder"
+            ],
+            "verbs": [
+              "Utforske",
+              "Drøfte"
+            ]
+          },
+          {
+            "code": "KM1975",
+            "text": {
+              "local": "undersøke og presentere sentrale ideer fra livssynshumanisme og andre ikke-religiøse livssyn",
+              "en": "undersøke og presentere sentrale ideer fra livssynshumanisme og andre ikke-religiøse livssyn"
+            },
+            "coreElements": [
+              "Kjennskap til religioner og livssyn",
+              "Utforsking av religioner og livssyn med ulike metoder"
+            ],
+            "verbs": [
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM1964",
+            "text": {
+              "local": "utforske og presentere religiøst mangfold og religiøse praksiser utenfor etablerte religionssamfunn",
+              "en": "utforske og presentere religiøst mangfold og religiøse praksiser utenfor etablerte religionssamfunn"
+            },
+            "coreElements": [
+              "Kjennskap til religioner og livssyn",
+              "Utforsking av religioner og livssyn med ulike metoder",
+              "Kunne ta andres perspektiv"
+            ],
+            "verbs": [
+              "Utforske",
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM1965",
+            "text": {
+              "local": "gjøre rede for og reflektere over samenes og andre urfolks religions- og livssynstradisjoner",
+              "en": "gjøre rede for og reflektere over samenes og andre urfolks religions- og livssynstradisjoner"
+            },
+            "coreElements": [
+              "Kjennskap til religioner og livssyn",
+              "Utforsking av religioner og livssyn med ulike metoder",
+              "Kunne ta andres perspektiv"
+            ],
+            "verbs": [
+              "Reflektere",
+              "Gjøre rede for"
+            ]
+          },
+          {
+            "code": "KM1967",
+            "text": {
+              "local": "bruke og drøfte fagbegreper om religioner og livssyn",
+              "en": "bruke og drøfte fagbegreper om religioner og livssyn"
+            },
+            "coreElements": [
+              "Kjennskap til religioner og livssyn",
+              "Utforsking av religioner og livssyn med ulike metoder",
+              "Etisk refleksjon"
+            ],
+            "verbs": [
+              "Drøfte",
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM1968",
+            "text": {
+              "local": "sammenligne og vurdere kritisk ulike kilder til kunnskap om religioner og livssyn",
+              "en": "sammenligne og vurdere kritisk ulike kilder til kunnskap om religioner og livssyn"
+            },
+            "coreElements": [
+              "Utforsking av religioner og livssyn med ulike metoder"
+            ],
+            "verbs": [
+              "Sammenligne",
+              "Vurdere"
+            ]
+          },
+          {
+            "code": "KM1966",
+            "text": {
+              "local": "gjøre rede for og reflektere over ulike syn på kjønn og seksualitet i kristendom og andre religioner og livssyn",
+              "en": "gjøre rede for og reflektere over ulike syn på kjønn og seksualitet i kristendom og andre religioner og livssyn"
+            },
+            "coreElements": [
+              "Kjennskap til religioner og livssyn",
+              "Utforsking av eksistensielle spørsmål og svar",
+              "Kunne ta andres perspektiv",
+              "Etisk refleksjon"
+            ],
+            "verbs": [
+              "Reflektere",
+              "Gjøre rede for"
+            ]
+          },
+          {
+            "code": "KM1973",
+            "text": {
+              "local": "utforske og presentere hvordan elementer fra kristendom og andre religioner og livssyn kommer til uttrykk i medier og populærkultur",
+              "en": "utforske og presentere hvordan elementer fra kristendom og andre religioner og livssyn kommer til uttrykk i medier og populærkultur"
+            },
+            "coreElements": [
+              "Kjennskap til religioner og livssyn",
+              "Utforsking av religioner og livssyn med ulike metoder"
+            ],
+            "verbs": [
+              "Utforske",
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM1977",
+            "text": {
+              "local": "utforske og sammenligne etiske ideer fra sentrale skikkelser i religiøse og livssynsbaserte tradisjoner",
+              "en": "utforske og sammenligne etiske ideer fra sentrale skikkelser i religiøse og livssynsbaserte tradisjoner"
+            },
+            "coreElements": [
+              "Kjennskap til religioner og livssyn",
+              "Utforsking av religioner og livssyn med ulike metoder",
+              "Etisk refleksjon"
+            ],
+            "verbs": [
+              "Sammenligne",
+              "Utforske"
+            ]
+          },
+          {
+            "code": "KM1998",
+            "text": {
+              "local": "utforske etiske ideer fra sentrale skikkelser i filosofihistorien og anvende ideene til å drøfte aktuelle etiske spørsmål",
+              "en": "utforske etiske ideer fra sentrale skikkelser i filosofihistorien og anvende ideene til å drøfte aktuelle etiske spørsmål"
+            },
+            "coreElements": [
+              "Etisk refleksjon"
+            ],
+            "verbs": [
+              "Utforske",
+              "Anvende",
+              "Drøfte"
+            ]
+          },
+          {
+            "code": "KM1969",
+            "text": {
+              "local": "utforske andres perspektiv og håndtere uenighet og meningsbrytning",
+              "en": "utforske andres perspektiv og håndtere uenighet og meningsbrytning"
+            },
+            "coreElements": [
+              "Kunne ta andres perspektiv",
+              "Etisk refleksjon"
+            ],
+            "verbs": [
+              "Utforske"
+            ]
+          },
+          {
+            "code": "KM1970",
+            "text": {
+              "local": "reflektere over eksistensielle spørsmål knyttet til det å vokse opp og leve i et mangfoldig og globalt samfunn",
+              "en": "reflektere over eksistensielle spørsmål knyttet til det å vokse opp og leve i et mangfoldig og globalt samfunn"
+            },
+            "coreElements": [
+              "Utforsking av eksistensielle spørsmål og svar",
+              "Kunne ta andres perspektiv",
+              "Etisk refleksjon"
+            ],
+            "verbs": [
+              "Reflektere"
+            ]
+          },
+          {
+            "code": "KM1971",
+            "text": {
+              "local": "identifisere og drøfte etiske problemstillinger knyttet til ulike former for kommunikasjon",
+              "en": "identifisere og drøfte etiske problemstillinger knyttet til ulike former for kommunikasjon"
+            },
+            "coreElements": [
+              "Kunne ta andres perspektiv",
+              "Etisk refleksjon"
+            ],
+            "verbs": [
+              "Drøfte"
+            ]
+          },
+          {
+            "code": "KM1972",
+            "text": {
+              "local": "identifisere og drøfte aktuelle etiske problemstillinger knyttet til menneskerettigheter, bærekraft og fattigdom",
+              "en": "identifisere og drøfte aktuelle etiske problemstillinger knyttet til menneskerettigheter, bærekraft og fattigdom"
+            },
+            "coreElements": [
+              "Kjennskap til religioner og livssyn",
+              "Kunne ta andres perspektiv",
+              "Etisk refleksjon"
+            ],
+            "verbs": [
+              "Drøfte"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

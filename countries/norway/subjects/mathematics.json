@@ -1,0 +1,1398 @@
+{
+  "country": "norway",
+  "source": {
+    "api": "https://data.udir.no/kl06/v201906/laereplaner-lk20/MAT01-05",
+    "curriculum": "LK20",
+    "license": "NLOD",
+    "lastSynced": "2026-03-02T21:17:47Z"
+  },
+  "subject": {
+    "code": "MAT01-05",
+    "name": {
+      "local": "Læreplan i matematikk 1.–10. trinn",
+      "en": "Curriculum for Mathematics year 1–10"
+    },
+    "coreElements": [],
+    "gradeBands": [
+      {
+        "afterGrade": 2,
+        "label": {
+          "local": "Kompetansemål og vurdering 2. trinn",
+          "en": "Competence aims and assessment year 2"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM198",
+            "text": {
+              "local": "ordne tall, mengder og former ut fra egenskaper, sammenligne dem og reflektere over om det kan gjøres på flere måter",
+              "en": "order numbers, sets and shapes based on their properties, compare them, and reflect on whether they can be ordered in more ways"
+            },
+            "coreElements": [
+              "Resonnering og argumentasjon",
+              "Representasjon og kommunikasjon"
+            ],
+            "verbs": [
+              "Sammenligne",
+              "Reflektere"
+            ]
+          },
+          {
+            "code": "KM266",
+            "text": {
+              "local": "utforske tall, mengder og telling i lek, natur, billedkunst, musikk og barnelitteratur, representere tallene på ulike måter og oversette mellom de ulike representasjonene",
+              "en": "explore numbers, sets and counting through play, nature, visual art, music and children’s literature, represent the numbers in different ways and translate between the different representations"
+            },
+            "coreElements": [
+              "Utforsking og problemløysing",
+              "Representasjon og kommunikasjon"
+            ],
+            "verbs": [
+              "Utforske"
+            ]
+          },
+          {
+            "code": "KM265",
+            "text": {
+              "local": "eksperimentere med telling både forlengs og baklengs, velge ulike startpunkter og ulik differanse og beskrive mønstre i tellingene",
+              "en": "experiment with counting, both up and down, choosing different starting points and various intervals, and describe patterns in the countings"
+            },
+            "coreElements": [
+              "Utforsking og problemløysing",
+              "Representasjon og kommunikasjon"
+            ],
+            "verbs": [
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM264",
+            "text": {
+              "local": "utforske og beskrive generelle egenskaper ved partall og oddetall",
+              "en": "explore and describe general properties of even and odd numbers"
+            },
+            "coreElements": [
+              "Utforsking og problemløysing",
+              "Abstraksjon og generalisering"
+            ],
+            "verbs": [
+              "Utforske",
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM263",
+            "text": {
+              "local": "beskrive posisjonssystemet ved hjelp av ulike representasjoner",
+              "en": "describe the positional system using different representations"
+            },
+            "coreElements": [
+              "Representasjon og kommunikasjon"
+            ],
+            "verbs": [
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM262",
+            "text": {
+              "local": "plassere tall på tallinjen og bruke tallinjen i regning og problemløsing",
+              "en": "place numbers on the number line, and use the number line for calculations and solving problems"
+            },
+            "coreElements": [
+              "Utforsking og problemløysing",
+              "Representasjon og kommunikasjon"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM261",
+            "text": {
+              "local": "utforske addisjon og subtraksjon og bruke dette til å formulere og løse problemer fra lek og egen hverdag",
+              "en": "explore addition and subtraction and use this to formulate and solve problems from play and one's own everyday life"
+            },
+            "coreElements": [
+              "Utforsking og problemløysing"
+            ],
+            "verbs": [
+              "Utforske",
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM260",
+            "text": {
+              "local": "utforske den kommutative og den assosiative egenskapen ved addisjon og bruke dette i hoderegning",
+              "en": "explore the commutative and associative properties of addition and use these in mental arithmetic"
+            },
+            "coreElements": [
+              "Utforsking og problemløysing",
+              "Abstraksjon og generalisering"
+            ],
+            "verbs": [
+              "Utforske",
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM259",
+            "text": {
+              "local": "kjenne igjen og beskrive repeterende enheter i mønstre og lage egne mønstre",
+              "en": "recognise and describe the repeating units in patterns, and make one’s own patterns"
+            },
+            "coreElements": [
+              "Resonnering og argumentasjon"
+            ],
+            "verbs": [
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM258",
+            "text": {
+              "local": "utforske, tegne og beskrive geometriske figurer fra sitt eget nærmiljø og argumentere for måter å sortere dem på etter egenskaper",
+              "en": "explore, draw and describe geometric shapes from one’s own local environment and argue for ways to sort them by properties"
+            },
+            "coreElements": [
+              "Utforsking og problemløysing",
+              "Resonnering og argumentasjon"
+            ],
+            "verbs": [
+              "Utforske",
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM255",
+            "text": {
+              "local": "måle og sammenligne størrelser som gjelder lengde og areal, ved hjelp av ikke-standardiserte og standardiserte måleenheter, beskrive hvordan og samtale om resultatene",
+              "en": "measure and compare quantities relating to length and area, using non-standard and standardised units of measurement, describe how and discuss the results"
+            },
+            "coreElements": [
+              "Utforsking og problemløysing",
+              "Resonnering og argumentasjon"
+            ],
+            "verbs": [
+              "Sammenligne",
+              "Beskrive",
+              "Måle"
+            ]
+          },
+          {
+            "code": "KM267",
+            "text": {
+              "local": "forklare hvordan man kan beskrive tid ved hjelp av klokke og kalender",
+              "en": "explain how to tell the time using a clock and calendar"
+            },
+            "coreElements": [
+              "Modellering og anvendingar"
+            ],
+            "verbs": [
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM257",
+            "text": {
+              "local": "lage og følge regler og trinnvise instruksjoner i lek og spill",
+              "en": "create and follow rules and step-by-step instructions during play and games"
+            },
+            "coreElements": [
+              "Utforsking og problemløysing",
+              "Abstraksjon og generalisering"
+            ],
+            "verbs": []
+          }
+        ]
+      },
+      {
+        "afterGrade": 3,
+        "label": {
+          "local": "Kompetansemål og vurdering 3. trinn",
+          "en": "Competence aims and assessment year 3"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM254",
+            "text": {
+              "local": "utvikle og bruke hensiktsmessige strategier for subtraksjon i praktiske situasjoner",
+              "en": "develop and use suitable strategies for subtracting in practical situations"
+            },
+            "coreElements": [
+              "Utforsking og problemløysing",
+              "Representasjon og kommunikasjon"
+            ],
+            "verbs": [
+              "Utvikle",
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM253",
+            "text": {
+              "local": "utforske og forklare sammenhenger mellom addisjon og subtraksjon og bruke det i hoderegning og problemløsing",
+              "en": "explore and explain relationships between addition and subtraction and use this in one’s own mental arithmetic and problem solving"
+            },
+            "coreElements": [
+              "Utforsking og problemløysing",
+              "Abstraksjon og generalisering"
+            ],
+            "verbs": [
+              "Utforske",
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM252",
+            "text": {
+              "local": "utforske multiplikasjon ved telling",
+              "en": "explore multiplication by counting"
+            },
+            "coreElements": [
+              "Utforsking og problemløysing"
+            ],
+            "verbs": [
+              "Utforske"
+            ]
+          },
+          {
+            "code": "KM251",
+            "text": {
+              "local": "eksperimentere med multiplikasjon og divisjon i hverdagssituasjoner",
+              "en": "experiment with multiplication and division in everyday situations"
+            },
+            "coreElements": [
+              "Utforsking og problemløysing"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM250",
+            "text": {
+              "local": "representere multiplikasjon på ulike måter og oversette mellom de ulike representasjonene",
+              "en": "represent multiplication in different ways and switch between the different representations"
+            },
+            "coreElements": [
+              "Representasjon og kommunikasjon"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM249",
+            "text": {
+              "local": "bruke kommutative, assosiative og distributive egenskaper til å utforske og beskrive strategier i multiplikasjon",
+              "en": "use commutative, associative and distributive properties to explore and describe strategies in multiplication"
+            },
+            "coreElements": [
+              "Utforsking og problemløysing",
+              "Abstraksjon og generalisering"
+            ],
+            "verbs": [
+              "Utforske",
+              "Bruke",
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM248",
+            "text": {
+              "local": "beskrive likhet og ulikhet i sammenligning av størrelser, mengder, uttrykk og tall og bruke likhets- og ulikhetstegn",
+              "en": "describe equality and inequality in comparing sizes, sets, expressions and numbers and use the symbol for equals and does not equal"
+            },
+            "coreElements": [
+              "Resonnering og argumentasjon"
+            ],
+            "verbs": [
+              "Bruke",
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM247",
+            "text": {
+              "local": "utforske likevekt og balanse i praktiske situasjoner, representere dette på ulike måter og oversette mellom de ulike representasjonene",
+              "en": "explore equilibrium and balance in practical situations, represent this in different ways and switch between the different representations"
+            },
+            "coreElements": [
+              "Utforsking og problemløysing",
+              "Representasjon og kommunikasjon"
+            ],
+            "verbs": [
+              "Utforske"
+            ]
+          },
+          {
+            "code": "KM269",
+            "text": {
+              "local": "bruke ulike måleenheter for lengde og masse i praktiske situasjoner og begrunne valget av måleenhet",
+              "en": "use different units of measurement for length and mass in practical situations and argue for the choice of unit of measurement"
+            },
+            "coreElements": [
+              "Modellering og anvendingar",
+              "Resonnering og argumentasjon"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM256",
+            "text": {
+              "local": "eksperimentere med og forklare plasseringer i koordinatsystemet",
+              "en": "experiment with and explain positions in the coordinate system"
+            },
+            "coreElements": [
+              "Utforsking og problemløysing"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM268",
+            "text": {
+              "local": "lage og følge regler og trinnvise instruksjoner i lek og spill knyttet til koordinatsystemet",
+              "en": "create and follow rules and step-by-step instructions in play and games related to the coordinate system"
+            },
+            "coreElements": [
+              "Utforsking og problemløysing",
+              "Abstraksjon og generalisering"
+            ],
+            "verbs": []
+          }
+        ]
+      },
+      {
+        "afterGrade": 4,
+        "label": {
+          "local": "Kompetansemål og vurdering 4. trinn",
+          "en": "Competence aims and assessment year 4"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM270",
+            "text": {
+              "local": "utforske og bruke målings- og delingsdivisjon i praktiske situasjoner",
+              "en": "explore and use measurement division and partitive division in practical situations"
+            },
+            "coreElements": [
+              "Utforsking og problemløysing"
+            ],
+            "verbs": [
+              "Utforske",
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM291",
+            "text": {
+              "local": "representere divisjon på ulike måter og oversette mellom de ulike representasjonene",
+              "en": "represent division in different ways and switch between the different representations"
+            },
+            "coreElements": [
+              "Representasjon og kommunikasjon"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM290",
+            "text": {
+              "local": "utforske, bruke og beskrive ulike divisjonsstrategier",
+              "en": "explore, use and describe different strategies for division"
+            },
+            "coreElements": [
+              "Utforsking og problemløysing",
+              "Representasjon og kommunikasjon"
+            ],
+            "verbs": [
+              "Utforske",
+              "Bruke",
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM289",
+            "text": {
+              "local": "utforske og forklare sammenhenger mellom de fire regneartene og bruke sammenhengene hensiktsmessig i utregninger",
+              "en": "explore and explain relationships between the four arithmetical operations and use the relationships in a suitable way in calculations"
+            },
+            "coreElements": [
+              "Utforsking og problemløysing",
+              "Resonnering og argumentasjon"
+            ],
+            "verbs": [
+              "Utforske",
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM288",
+            "text": {
+              "local": "modellere situasjoner fra sin egen hverdag og forklare tenkemåtene sine",
+              "en": "model situations from one’s own everyday life and explain one's own thought processes"
+            },
+            "coreElements": [
+              "Modellering og anvendingar"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM287",
+            "text": {
+              "local": "lage regneuttrykk til praktiske situasjoner og finne praktiske situasjoner som passer til oppgitte regneuttrykk",
+              "en": "make arithmetic expressions for practical situations and find practical situations that fit given arithmetic expressions"
+            },
+            "coreElements": [
+              "Modellering og anvendingar",
+              "Representasjon og kommunikasjon",
+              "Abstraksjon og generalisering"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM286",
+            "text": {
+              "local": "utforske, beskrive og sammenligne egenskaper ved to- og tredimensjonale figurer ved å bruke vinkler, kanter og hjørner",
+              "en": "explore, describe and compare properties of two and three dimensional figures using angles, edges and corners"
+            },
+            "coreElements": [
+              "Utforsking og problemløysing"
+            ],
+            "verbs": [
+              "Sammenligne",
+              "Utforske",
+              "Bruke",
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM285",
+            "text": {
+              "local": "bruke ikke-standardiserte måleenheter for areal og volum i praktiske situasjoner og begrunne valget av måleenhet",
+              "en": "use non-standard units of measurement for area and volume in practical situations and argue for the choice of unit of measurement"
+            },
+            "coreElements": [
+              "Utforsking og problemløysing",
+              "Resonnering og argumentasjon"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM284",
+            "text": {
+              "local": "utforske og beskrive strukturer og mønstre i lek og spill",
+              "en": "explore and describe structures and patterns in play and games"
+            },
+            "coreElements": [
+              "Utforsking og problemløysing",
+              "Abstraksjon og generalisering"
+            ],
+            "verbs": [
+              "Utforske",
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM283",
+            "text": {
+              "local": "lage algoritmer og uttrykke dem ved bruk av variabler, vilkår og løkker",
+              "en": "create algorithms and express them using variables, conditions and loops"
+            },
+            "coreElements": [
+              "Utforsking og problemløysing",
+              "Abstraksjon og generalisering"
+            ],
+            "verbs": []
+          }
+        ]
+      },
+      {
+        "afterGrade": 5,
+        "label": {
+          "local": "Kompetansemål og vurdering 5. trinn",
+          "en": "Competence aims and assessment year 5"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM282",
+            "text": {
+              "local": "utforske og forklare sammenhenger mellom brøker, desimaltall og prosent og bruke det i hoderegning",
+              "en": "explore and explain relationships between fractions, decimal numbers and percentages, and use these in mental arithmetic"
+            },
+            "coreElements": [
+              "Resonnering og argumentasjon",
+              "Abstraksjon og generalisering"
+            ],
+            "verbs": [
+              "Utforske",
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM281",
+            "text": {
+              "local": "beskrive brøk som del av en hel, som del av en mengde og som tall på tallinjen og vurdere og navngi størrelsene",
+              "en": "describe fractions as parts of the whole, as parts of a set and as numbers on the number line, and evaluate and name the quantities"
+            },
+            "coreElements": [
+              "Representasjon og kommunikasjon"
+            ],
+            "verbs": [
+              "Vurdere",
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM280",
+            "text": {
+              "local": "representere brøker på ulike måter og oversette mellom de ulike representasjonene",
+              "en": "represent fractions in different ways and switch between the different representations"
+            },
+            "coreElements": [
+              "Representasjon og kommunikasjon"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM279",
+            "text": {
+              "local": "utvikle og bruke ulike strategier for regning med positive tall og brøk og forklare tenkemåtene sine",
+              "en": "develop and use different strategies for calculations with positive numbers and fractions, and explain one’s own thought processes"
+            },
+            "coreElements": [
+              "Modellering og anvendingar"
+            ],
+            "verbs": [
+              "Utvikle",
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM278",
+            "text": {
+              "local": "formulere og løse problemer fra egen hverdag som har med brøk å gjøre",
+              "en": "formulate and solve problems from one’s own everyday life that are related to fractions"
+            },
+            "coreElements": [
+              "Utforsking og problemløysing"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM277",
+            "text": {
+              "local": "diskutere tilfeldighet og sannsynlighet i spill og praktiske situasjoner og knytte det til brøk",
+              "en": "discuss randomness and probability in games and practical situations and relate this to fractions"
+            },
+            "coreElements": [
+              "Utforsking og problemløysing",
+              "Resonnering og argumentasjon"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM273",
+            "text": {
+              "local": "løse ligninger og ulikheter gjennom logiske resonnementer og forklare hva det vil si at et tall er en løsning på en ligning",
+              "en": "solve equations and inequalities through logical reasoning and explain what it means that a number is a solution to an equation"
+            },
+            "coreElements": [
+              "Utforsking og problemløysing",
+              "Resonnering og argumentasjon"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM276",
+            "text": {
+              "local": "lage og løse oppgaver i regneark som omhandler personlig økonomi",
+              "en": "create and solve tasks in a spreadsheet related to personal finance"
+            },
+            "coreElements": [
+              "Modellering og anvendingar",
+              "Representasjon og kommunikasjon"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM274",
+            "text": {
+              "local": "formulere og løse problemer fra egen hverdag som har med tid å gjøre",
+              "en": "formulate and solve problems from one’s own everyday life that are related to time"
+            },
+            "coreElements": [
+              "Modellering og anvendingar"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM275",
+            "text": {
+              "local": "lage og programmere algoritmer med bruk av variabler, vilkår og løkker",
+              "en": "create and programme algorithms with the use of variables, conditions and loops"
+            },
+            "coreElements": [
+              "Utforsking og problemløysing",
+              "Abstraksjon og generalisering"
+            ],
+            "verbs": []
+          }
+        ]
+      },
+      {
+        "afterGrade": 6,
+        "label": {
+          "local": "Kompetansemål og vurdering 6. trinn",
+          "en": "Competence aims and assessment year 6"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM272",
+            "text": {
+              "local": "utforske, navngi og plassere desimaltall på tallinjen",
+              "en": "explore, name and place decimal numbers on the number line"
+            },
+            "coreElements": [
+              "Utforsking og problemløysing",
+              "Representasjon og kommunikasjon"
+            ],
+            "verbs": [
+              "Utforske"
+            ]
+          },
+          {
+            "code": "KM271",
+            "text": {
+              "local": "utforske strategier for regning med desimaltall og sammenligne med regnestrategier for hele tall",
+              "en": "explore strategies for calculating with decimal numbers and compare this with strategies for calculating with whole numbers"
+            },
+            "coreElements": [
+              "Resonnering og argumentasjon",
+              "Abstraksjon og generalisering"
+            ],
+            "verbs": [
+              "Sammenligne",
+              "Utforske"
+            ]
+          },
+          {
+            "code": "KM246",
+            "text": {
+              "local": "formulere og løse problemer fra sin egen hverdag som har med desimaltall, brøk og prosent å gjøre, og forklare egne tenkemåter",
+              "en": "formulate and solve problems from one’s own everyday life related to decimal numbers, fractions and percentages, and explain one’s own thought processes"
+            },
+            "coreElements": [
+              "Utforsking og problemløysing"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM245",
+            "text": {
+              "local": "beskrive egenskaper ved og minimumsdefinisjoner av to- og tredimensjonale figurer og forklare hvilke egenskaper figurene har felles, og hvilke egenskaper som skiller dem fra hverandre",
+              "en": "describe properties and minimum definitions of two and three dimensional figures, and explain what properties the figures have in common, and what properties distinguish them from one another"
+            },
+            "coreElements": [
+              "Resonnering og argumentasjon",
+              "Abstraksjon og generalisering"
+            ],
+            "verbs": [
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM216",
+            "text": {
+              "local": "utforske og beskrive symmetri i mønstre og utføre kongruensavbildninger med og uten koordinatsystem",
+              "en": "explore and describe symmetry in patterns and carry out congruent mapping with and without a coordinate system"
+            },
+            "coreElements": [
+              "Utforsking og problemløysing"
+            ],
+            "verbs": [
+              "Utforske",
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM244",
+            "text": {
+              "local": "måle radius, diameter og omkrets i sirkler og utforske og argumentere for sammenhengen",
+              "en": "measure the radius, diameter and circumference of circles, and explore and argue for how they are interrelated"
+            },
+            "coreElements": [
+              "Utforsking og problemløysing",
+              "Resonnering og argumentasjon"
+            ],
+            "verbs": [
+              "Utforske",
+              "Måle"
+            ]
+          },
+          {
+            "code": "KM220",
+            "text": {
+              "local": "utforske mål for areal og volum i praktiske situasjoner og representere dem på ulike måter",
+              "en": "explore measures for area and volume in practical situations and represent them in different ways"
+            },
+            "coreElements": [
+              "Utforsking og problemløysing",
+              "Representasjon og kommunikasjon"
+            ],
+            "verbs": [
+              "Utforske"
+            ]
+          },
+          {
+            "code": "KM218",
+            "text": {
+              "local": "bruke ulike strategier for å regne ut areal og omkrets og utforske sammenhenger mellom disse",
+              "en": "use different strategies to calculate area and circumference, and explore the relationships between these"
+            },
+            "coreElements": [
+              "Modellering og anvendingar"
+            ],
+            "verbs": [
+              "Utforske",
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM215",
+            "text": {
+              "local": "bruke variabler og formler til å uttrykke sammenhenger i praktiske situasjoner",
+              "en": "use variables and formulas to express relationships in practical situations"
+            },
+            "coreElements": [
+              "Representasjon og kommunikasjon",
+              "Abstraksjon og generalisering"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM217",
+            "text": {
+              "local": "bruke variabler, løkker, vilkår og funksjoner i programmering til å utforske geometriske figurer og mønstre",
+              "en": "use variables, loops, conditions and functions in programming to explore geometric figures and patterns"
+            },
+            "coreElements": [
+              "Utforsking og problemløysing",
+              "Abstraksjon og generalisering"
+            ],
+            "verbs": [
+              "Utforske",
+              "Bruke"
+            ]
+          }
+        ]
+      },
+      {
+        "afterGrade": 7,
+        "label": {
+          "local": "Kompetansemål og vurdering 7. trinn",
+          "en": "Competence aims and assessment year 7"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM214",
+            "text": {
+              "local": "utvikle og bruke hensiktsmessige strategier i regning med brøk, desimaltall og prosent og forklare tenkemåtene sine",
+              "en": "develop and use suitable strategies in calculations with fractions, decimal numbers and percentages, and explain one’s own thought processes"
+            },
+            "coreElements": [
+              "Utforsking og problemløysing",
+              "Resonnering og argumentasjon"
+            ],
+            "verbs": [
+              "Utvikle",
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM212",
+            "text": {
+              "local": "representere og bruke brøk, desimaltall og prosent på ulike måter og utforske de matematiske sammenhengene mellom disse representasjonsformene",
+              "en": "represent and use fractions, decimal numbers and percentages in different ways and explore the mathematical relationships between these representations"
+            },
+            "coreElements": [
+              "Utforsking og problemløysing",
+              "Representasjon og kommunikasjon"
+            ],
+            "verbs": [
+              "Utforske",
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM207",
+            "text": {
+              "local": "utforske negative tall i praktiske situasjoner",
+              "en": "explore negative numbers in practical situations"
+            },
+            "coreElements": [
+              "Utforsking og problemløysing"
+            ],
+            "verbs": [
+              "Utforske"
+            ]
+          },
+          {
+            "code": "KM206",
+            "text": {
+              "local": "bruke tallinje i regning med positive og negative tall",
+              "en": "use a number line in calculations with positive and negative numbers"
+            },
+            "coreElements": [
+              "Representasjon og kommunikasjon"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM213",
+            "text": {
+              "local": "bruke sammensatte regneuttrykk til å beskrive og utføre utregninger",
+              "en": "use compound mathematical expressions to describe and do calculations"
+            },
+            "coreElements": [
+              "Modellering og anvendingar",
+              "Abstraksjon og generalisering"
+            ],
+            "verbs": [
+              "Bruke",
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM209",
+            "text": {
+              "local": "bruke ulike strategier for å løse lineære ligninger og ulikheter og vurdere om løsninger er gyldige",
+              "en": "use different strategies to solve linear equations and inequalities, and evaluate whether the solutions are valid"
+            },
+            "coreElements": [
+              "Resonnering og argumentasjon"
+            ],
+            "verbs": [
+              "Vurdere",
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM211",
+            "text": {
+              "local": "utforske og bruke hensiktsmessige sentralmål i egne og andres statistiske undersøkelser",
+              "en": "explore and use suitable measures of central tendency in one’s own and others’ statistical inquiries"
+            },
+            "coreElements": [
+              "Utforsking og problemløysing",
+              "Modellering og anvendingar"
+            ],
+            "verbs": [
+              "Utforske",
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM210",
+            "text": {
+              "local": "logge, sortere, presentere og lese data i tabeller og diagrammer og begrunne valget av framstilling",
+              "en": "log, sort, present and read data in tables and diagrams, and argue for the choice of representation"
+            },
+            "coreElements": [
+              "Modellering og anvendingar"
+            ],
+            "verbs": [
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM219",
+            "text": {
+              "local": "lage og vurdere budsjett og regnskap ved å bruke regneark med cellereferanser og formler",
+              "en": "create and evaluate budgets and accounts by using spreadsheets with cell references and formulas"
+            },
+            "coreElements": [
+              "Modellering og anvendingar"
+            ],
+            "verbs": [
+              "Vurdere",
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM205",
+            "text": {
+              "local": "bruke programmering til å utforske data i tabeller og datasett",
+              "en": "use programming to explore data in tables and datasets"
+            },
+            "coreElements": [
+              "Utforsking og problemløysing"
+            ],
+            "verbs": [
+              "Utforske",
+              "Bruke"
+            ]
+          }
+        ]
+      },
+      {
+        "afterGrade": 8,
+        "label": {
+          "local": "Kompetansemål og vurdering 8. trinn",
+          "en": "Competence aims and assessment year 8"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM204",
+            "text": {
+              "local": "bruke potenser og kvadratrøtter i utforsking og problemløsing og argumentere for framgangsmåter og resultater",
+              "en": "use powers and square roots in exploration and problem solving, and argue for approaches and results"
+            },
+            "coreElements": [
+              "Utforsking og problemløysing",
+              "Resonnering og argumentasjon",
+              "Representasjon og kommunikasjon"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM208",
+            "text": {
+              "local": "utvikle og kommunisere strategier for hoderegning i utregninger",
+              "en": "develop and communicate strategies for mental arithmetic in calculations"
+            },
+            "coreElements": [
+              "Representasjon og kommunikasjon"
+            ],
+            "verbs": [
+              "Utvikle"
+            ]
+          },
+          {
+            "code": "KM203",
+            "text": {
+              "local": "utforske og beskrive primtallsfaktorisering og bruke det i brøkregning",
+              "en": "explore and describe prime number factorisation and use it while calculating with fractions"
+            },
+            "coreElements": [
+              "Modellering og anvendingar"
+            ],
+            "verbs": [
+              "Utforske",
+              "Bruke",
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM222",
+            "text": {
+              "local": "utforske algebraiske regneregler",
+              "en": "explore rules of algebra"
+            },
+            "coreElements": [
+              "Utforsking og problemløysing"
+            ],
+            "verbs": [
+              "Utforske"
+            ]
+          },
+          {
+            "code": "KM202",
+            "text": {
+              "local": "beskrive og generalisere mønstre med egne ord og algebraisk",
+              "en": "describe and generalise patterns in one’s own words and algebraically"
+            },
+            "coreElements": [
+              "Abstraksjon og generalisering"
+            ],
+            "verbs": [
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM242",
+            "text": {
+              "local": "lage og løse problemer som omhandler sammensatte måleenheter",
+              "en": "create and solve problems related to compound units of measurement"
+            },
+            "coreElements": [
+              "Modellering og anvendingar",
+              "Representasjon og kommunikasjon"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM200",
+            "text": {
+              "local": "lage og forklare regneuttrykk med tall, variabler og konstanter knyttet til praktiske situasjoner",
+              "en": "make and explain mathematical expressions with numbers, variables and constants related to practical situations"
+            },
+            "coreElements": [
+              "Modellering og anvendingar",
+              "Representasjon og kommunikasjon",
+              "Abstraksjon og generalisering"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM221",
+            "text": {
+              "local": "lage, løse og forklare ligninger knyttet til praktiske situasjoner",
+              "en": "create, solve and explain equations related to practical situations"
+            },
+            "coreElements": [
+              "Modellering og anvendingar"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM199",
+            "text": {
+              "local": "utforske, forklare og sammenligne funksjoner knyttet til praktiske situasjoner",
+              "en": "explore, explain and compare functions related to practical situations"
+            },
+            "coreElements": [
+              "Utforsking og problemløysing",
+              "Modellering og anvendingar",
+              "Resonnering og argumentasjon"
+            ],
+            "verbs": [
+              "Sammenligne",
+              "Utforske"
+            ]
+          },
+          {
+            "code": "KM232",
+            "text": {
+              "local": "representere funksjoner på ulike måter og vise sammenhenger mellom representasjonene",
+              "en": "represent functions in different ways and show the relationships between the representations"
+            },
+            "coreElements": [
+              "Representasjon og kommunikasjon",
+              "Abstraksjon og generalisering"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM201",
+            "text": {
+              "local": "utforske hvordan algoritmer kan skapes, testes og forbedres ved hjelp av programmering",
+              "en": "explore how algorithms can be created, tested and improved by means of programming"
+            },
+            "coreElements": [
+              "Utforsking og problemløysing"
+            ],
+            "verbs": [
+              "Utforske"
+            ]
+          }
+        ]
+      },
+      {
+        "afterGrade": 9,
+        "label": {
+          "local": "Kompetansemål og vurdering 9. trinn",
+          "en": "Competence aims and assessment year 9"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM241",
+            "text": {
+              "local": "beskrive, forklare og presentere strukturer og utviklinger i geometriske mønstre og i tallmønstre",
+              "en": "describe, explain and present structures and progressions in geometric and numerical patterns"
+            },
+            "coreElements": [
+              "Representasjon og kommunikasjon",
+              "Abstraksjon og generalisering"
+            ],
+            "verbs": [
+              "Beskrive",
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM239",
+            "text": {
+              "local": "utforske egenskapene ved ulike polygoner og forklare begrepene formlikhet og kongruens",
+              "en": "explore the properties of different polygons and explain the concepts similarity and congruence"
+            },
+            "coreElements": [
+              "Abstraksjon og generalisering"
+            ],
+            "verbs": [
+              "Utforske"
+            ]
+          },
+          {
+            "code": "KM240",
+            "text": {
+              "local": "utforske, beskrive og argumentere for sammenhenger mellom sidelengdene i trekanter",
+              "en": "explore, describe and argue for relationships between the length of the sides in triangles"
+            },
+            "coreElements": [
+              "Utforsking og problemløysing",
+              "Resonnering og argumentasjon"
+            ],
+            "verbs": [
+              "Utforske",
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM238",
+            "text": {
+              "local": "utforske og argumentere for hvordan det å endre forutsetninger i geometriske problemstillinger påvirker løsninger",
+              "en": "explore and argue for how changing the conditions in a geometric problem affects the solutions"
+            },
+            "coreElements": [
+              "Utforsking og problemløysing",
+              "Resonnering og argumentasjon"
+            ],
+            "verbs": [
+              "Utforske"
+            ]
+          },
+          {
+            "code": "KM237",
+            "text": {
+              "local": "utforske og argumentere for formler for areal og volum av tredimensjonale figurer",
+              "en": "explore and argue for formulas for area and volume of three-dimensional figures"
+            },
+            "coreElements": [
+              "Utforsking og problemløysing",
+              "Abstraksjon og generalisering"
+            ],
+            "verbs": [
+              "Utforske"
+            ]
+          },
+          {
+            "code": "KM235",
+            "text": {
+              "local": "tolke og kritisk vurdere statistiske framstillinger fra mediene og lokalsamfunnet",
+              "en": "interpret and critically evaluate statistical representations found in media and the local community"
+            },
+            "coreElements": [
+              "Modellering og anvendingar",
+              "Resonnering og argumentasjon",
+              "Representasjon og kommunikasjon"
+            ],
+            "verbs": [
+              "Tolke",
+              "Vurdere"
+            ]
+          },
+          {
+            "code": "KM234",
+            "text": {
+              "local": "finne og diskutere sentralmål og spredningsmål i reelle datasett",
+              "en": "find and discuss measures of central tendency and measures of variability in real datasets"
+            },
+            "coreElements": [
+              "Modellering og anvendingar"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM243",
+            "text": {
+              "local": "utforske og argumentere for hvordan framstillinger av tall og data kan brukes for å fremme ulike synspunkter",
+              "en": "explore and argue for how representations of numbers and data can be used to promote different points of view"
+            },
+            "coreElements": [
+              "Utforsking og problemløysing",
+              "Resonnering og argumentasjon",
+              "Representasjon og kommunikasjon"
+            ],
+            "verbs": [
+              "Utforske"
+            ]
+          },
+          {
+            "code": "KM233",
+            "text": {
+              "local": "beregne og vurdere sannsynlighet i statistikk og spill",
+              "en": "calculate and evaluate probability in statistics and games"
+            },
+            "coreElements": [
+              "Representasjon og kommunikasjon"
+            ],
+            "verbs": [
+              "Vurdere"
+            ]
+          },
+          {
+            "code": "KM236",
+            "text": {
+              "local": "simulere utfall i tilfeldige forsøk og beregne sannsynligheten for at noe skal inntreffe, ved å bruke programmering",
+              "en": "simulate outcomes in random events and calculate the probability that something will occur by using programming"
+            },
+            "coreElements": [
+              "Utforsking og problemløysing"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
+          }
+        ]
+      },
+      {
+        "afterGrade": 10,
+        "label": {
+          "local": "Kompetansemål og vurdering 10. trinn",
+          "en": "Competence aims and assessment year 10"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM231",
+            "text": {
+              "local": "utforske og generalisere multiplikasjon av polynomer algebraisk og geometrisk",
+              "en": "explore and generalise multiplication of polynomials algebraically and geometrically"
+            },
+            "coreElements": [
+              "Utforsking og problemløysing",
+              "Abstraksjon og generalisering"
+            ],
+            "verbs": [
+              "Utforske"
+            ]
+          },
+          {
+            "code": "KM229",
+            "text": {
+              "local": "utforske og sammenligne egenskaper ved ulike funksjoner ved å bruke digitale verktøy",
+              "en": "explore and compare the properties of different functions using digital tools"
+            },
+            "coreElements": [
+              "Utforsking og problemløysing",
+              "Abstraksjon og generalisering"
+            ],
+            "verbs": [
+              "Sammenligne",
+              "Utforske",
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM224",
+            "text": {
+              "local": "lage, løse og forklare ligningssett knyttet til praktiske situasjoner",
+              "en": "create, solve and explain equation sets related to practical situations"
+            },
+            "coreElements": [
+              "Modellering og anvendingar"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM228",
+            "text": {
+              "local": "regne ut stigningstallet til en lineær funksjon og bruke det til å forklare begrepene endring per enhet og gjennomsnittsfart",
+              "en": "calculate the slope of a linear function, and use it to explain the concepts change per unit and average speed"
+            },
+            "coreElements": [
+              "Modellering og anvendingar",
+              "Representasjon og kommunikasjon"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM226",
+            "text": {
+              "local": "utforske sammenhengen mellom konstant prosentvis endring, vekstfaktor og eksponentialfunksjoner",
+              "en": "explore the relationship between constant change by percentage, growth factors and exponential functions"
+            },
+            "coreElements": [
+              "Utforsking og problemløysing",
+              "Abstraksjon og generalisering"
+            ],
+            "verbs": [
+              "Utforske"
+            ]
+          },
+          {
+            "code": "KM227",
+            "text": {
+              "local": "hente ut og tolke relevant informasjon fra tekster om kjøp og salg og ulike typer lån og bruke det til å formulere og løse problemer",
+              "en": "extract and interpret relevant information from texts related to purchases, sales and different types of loans, and use this to formulate and solve problems"
+            },
+            "coreElements": [
+              "Utforsking og problemløysing",
+              "Representasjon og kommunikasjon"
+            ],
+            "verbs": [
+              "Tolke",
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM292",
+            "text": {
+              "local": "planlegge, utføre og presentere et utforskende arbeid knyttet til personlig økonomi",
+              "en": "plan, carry out and present an exploratory work related to one’s personal finances"
+            },
+            "coreElements": [
+              "Utforsking og problemløysing",
+              "Representasjon og kommunikasjon"
+            ],
+            "verbs": [
+              "Planlegge",
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM223",
+            "text": {
+              "local": "bruke funksjoner i modellering og argumentere for framgangsmåter og resultater",
+              "en": "use functions in modelling and argue for approaches and results"
+            },
+            "coreElements": [
+              "Modellering og anvendingar",
+              "Resonnering og argumentasjon"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM225",
+            "text": {
+              "local": "modellere situasjoner knyttet til reelle datasett, presentere resultatene og argumentere for at modellene er gyldige",
+              "en": "model situations related to real datasets, present the results and argue for the validity of the models"
+            },
+            "coreElements": [
+              "Modellering og anvendingar",
+              "Resonnering og argumentasjon",
+              "Representasjon og kommunikasjon"
+            ],
+            "verbs": [
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM293",
+            "text": {
+              "local": "utforske matematiske egenskaper og sammenhenger ved å bruke programmering",
+              "en": "explore mathematical properties and relationships by using programming"
+            },
+            "coreElements": [
+              "Utforsking og problemløysing"
+            ],
+            "verbs": [
+              "Utforske",
+              "Bruke"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

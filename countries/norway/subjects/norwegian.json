@@ -1,0 +1,1780 @@
+{
+  "country": "norway",
+  "source": {
+    "api": "https://data.udir.no/kl06/v201906/laereplaner-lk20/NOR01-06",
+    "curriculum": "LK20",
+    "license": "NLOD",
+    "lastSynced": "2026-03-02T21:18:29Z"
+  },
+  "subject": {
+    "code": "NOR01-06",
+    "name": {
+      "local": "Læreplan i norsk",
+      "en": "Curriculum for Norwegian"
+    },
+    "coreElements": [],
+    "gradeBands": [
+      {
+        "afterGrade": 2,
+        "label": {
+          "local": "Kompetansemål og vurdering 2. trinn",
+          "en": "Competence aims and assessment Year 2"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM1177",
+            "text": {
+              "local": "lytte til og samtale om skjønnlitteratur og sakprosa på bokmål og nynorsk",
+              "en": "listen to and talk about fiction and factual prose in both \"bokmål\" and \"nynorsk\""
+            },
+            "coreElements": [
+              "Tekst i kontekst"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1258",
+            "text": {
+              "local": "låne og lese bøker fra biblioteket",
+              "en": "borrow and read books from the library"
+            },
+            "coreElements": [
+              "Tekst i kontekst"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1268",
+            "text": {
+              "local": "uttrykke tekstopplevelser gjennom lek, sang, tegning, skriving og andre kreative aktiviteter",
+              "en": "express perceptions of texts through play, singing, drawing, writing and other creative activities"
+            },
+            "coreElements": [
+              "Tekst i kontekst"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1260",
+            "text": {
+              "local": "samtale om og beskrive hvordan ord vi bruker, kan påvirke andre",
+              "en": "talk about and describe how the words we use can affect others"
+            },
+            "coreElements": [
+              "Kritisk tilnærming til tekst"
+            ],
+            "verbs": [
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM1264",
+            "text": {
+              "local": "leke med rim og rytme og lytte ut språklyder og stavelser i ord",
+              "en": "play with rhyme and rhythm and listen to identify the various speech sounds and syllables in words"
+            },
+            "coreElements": [
+              "Tekst i kontekst",
+              "Språket som system og mulighet"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1263",
+            "text": {
+              "local": "trekke bokstavlyder sammen til ord under lesing og skriving",
+              "en": "combine letter sounds into words when reading and writing"
+            },
+            "coreElements": [
+              "Tekst i kontekst",
+              "Skriftlig tekstskaping"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1269",
+            "text": {
+              "local": "lese med sammenheng og forståelse på papir og digitalt og bruke enkle strategier for leseforståelse",
+              "en": "read with coherence and comprehension on paper and on screen and use simple strategies for reading comprehension"
+            },
+            "coreElements": [
+              "Tekst i kontekst"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM1267",
+            "text": {
+              "local": "lytte, ta ordet etter tur og begrunne egne meninger i samtaler",
+              "en": "listen, speak in turn and give grounds for one’s own opinions in conversations"
+            },
+            "coreElements": [
+              "Muntlig kommunikasjon"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1266",
+            "text": {
+              "local": "beskrive og fortelle muntlig og skriftlig",
+              "en": "describe and tell orally and in writing"
+            },
+            "coreElements": [
+              "Muntlig kommunikasjon",
+              "Skriftlig tekstskaping"
+            ],
+            "verbs": [
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM1262",
+            "text": {
+              "local": "skrive tekster for hånd og med tastatur",
+              "en": "write texts using pen and paper and using a keyboard"
+            },
+            "coreElements": [
+              "Skriftlig tekstskaping"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1265",
+            "text": {
+              "local": "bruke store og små bokstaver, punktum, spørsmålstegn og utropstegn i tekster og samtale om egne og andres tekster",
+              "en": "use upper-case and lower-case letters, periods, question marks and exclamation marks in texts and in conversations about one’s own and others’ texts"
+            },
+            "coreElements": [
+              "Skriftlig tekstskaping",
+              "Språket som system og mulighet"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM1257",
+            "text": {
+              "local": "lage tekster som kombinerer skrift med bilder",
+              "en": "create texts that combine text and pictures"
+            },
+            "coreElements": [
+              "Skriftlig tekstskaping"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1261",
+            "text": {
+              "local": "utforske og samtale om oppbygningen av og betydningen til ord og uttrykk",
+              "en": "explore and talk about the structure and meaning of words and expressions"
+            },
+            "coreElements": [
+              "Språket som system og mulighet"
+            ],
+            "verbs": [
+              "Utforske"
+            ]
+          },
+          {
+            "code": "KM1259",
+            "text": {
+              "local": "utforske eget talespråk og samtale om forskjeller og likheter mellom talespråk og skriftspråk",
+              "en": "explore one’s own spoken language and talk about differences and similarities between spoken language and written language"
+            },
+            "coreElements": [
+              "Språket som system og mulighet",
+              "Språklig mangfold"
+            ],
+            "verbs": [
+              "Utforske"
+            ]
+          }
+        ]
+      },
+      {
+        "afterGrade": 4,
+        "label": {
+          "local": "Kompetansemål og vurdering 4. trinn",
+          "en": "Competence aims and assessment Year 4"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM1270",
+            "text": {
+              "local": "lese og lytte til fortellinger, eventyr, sangtekster, faktabøker og andre tekster på bokmål og nynorsk og i oversettelse fra samiske og andre språk, og samtale om hva tekstene betyr for eleven",
+              "en": "read and listen to stories, fairy tales, lyrics, factual books and other texts in \"bokmål\" and \"nynorsk\" and in translation from Sami and other languages, and talk about what the texts mean to him or her"
+            },
+            "coreElements": [
+              "Tekst i kontekst"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1243",
+            "text": {
+              "local": "velge bøker fra bibliotek ut fra egne interesser og leseferdigheter",
+              "en": "choose books from the library based on one’s own interests and reading skills"
+            },
+            "coreElements": [
+              "Tekst i kontekst"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1245",
+            "text": {
+              "local": "lese tekster med flyt og forståelse og bruke lesestrategier målrettet for å lære",
+              "en": "read texts with fluency and comprehension and use reading strategies focused on learning"
+            },
+            "coreElements": [
+              "Tekst i kontekst"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM1251",
+            "text": {
+              "local": "utforske og formidle tekster gjennom samtale, skriving, lek, bevegelse og andre kreative uttrykk",
+              "en": "explore and present texts through conversation, writing, play, movement and other creative expressions"
+            },
+            "coreElements": [
+              "Tekst i kontekst"
+            ],
+            "verbs": [
+              "Utforske"
+            ]
+          },
+          {
+            "code": "KM1246",
+            "text": {
+              "local": "samtale om forskjellen mellom meninger og fakta i tekster",
+              "en": "talk about the difference between opinions and facts in texts"
+            },
+            "coreElements": [
+              "Kritisk tilnærming til tekst"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1256",
+            "text": {
+              "local": "holde muntlige presentasjoner med og uten digitale ressurser",
+              "en": "give oral presentations with and without digital resources"
+            },
+            "coreElements": [
+              "Muntlig kommunikasjon"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1254",
+            "text": {
+              "local": "kombinere ulike uttrykksformer i sammensatte tekster",
+              "en": "combine various forms of expression in multimedia texts"
+            },
+            "coreElements": [
+              "Muntlig kommunikasjon",
+              "Skriftlig tekstskaping"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1242",
+            "text": {
+              "local": "følge opp innspill fra andre i faglige samtaler og stille oppklarende og utdypende spørsmål",
+              "en": "follow up input from others in dialogues on subject-related matter and ask questions to clarify and elaborate"
+            },
+            "coreElements": [
+              "Muntlig kommunikasjon"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1247",
+            "text": {
+              "local": "beskrive, fortelle og argumentere muntlig og skriftlig og bruke språket på kreative måter",
+              "en": "describe, relate and reason both orally and in writing and use the language creatively"
+            },
+            "coreElements": [
+              "Muntlig kommunikasjon",
+              "Skriftlig tekstskaping",
+              "Språket som system og mulighet"
+            ],
+            "verbs": [
+              "Bruke",
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM1253",
+            "text": {
+              "local": "skrive tekster med funksjonell håndskrift og med tastatur",
+              "en": "write texts with functional handwriting and with the use of a keyboard"
+            },
+            "coreElements": [
+              "Skriftlig tekstskaping"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1252",
+            "text": {
+              "local": "bruke komma og andre skilletegn i tekster",
+              "en": "use commas and other punctuation marks in texts"
+            },
+            "coreElements": [
+              "Skriftlig tekstskaping",
+              "Språket som system og mulighet"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM1250",
+            "text": {
+              "local": "bruke fagspråk om setningsoppbygning og bøying av verb, substantiv og adjektiv i samtaler om språk og om egne og andres tekster",
+              "en": "use grammatical terms about syntax, verb conjugation and declension of nouns and adjectives in conversations about language and one’s own and others’ texts"
+            },
+            "coreElements": [
+              "Skriftlig tekstskaping",
+              "Språket som system og mulighet"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM1249",
+            "text": {
+              "local": "reflektere over hvordan språkbruken vår påvirker andre, og hvordan vi tilpasser og endrer språket i ulike situasjoner",
+              "en": "reflect on how our use of language affects others and how we adapt and change our language to different situations"
+            },
+            "coreElements": [
+              "Kritisk tilnærming til tekst",
+              "Språket som system og mulighet"
+            ],
+            "verbs": [
+              "Reflektere"
+            ]
+          },
+          {
+            "code": "KM1255",
+            "text": {
+              "local": "sammenligne ord og uttrykk i norsk og andre språk",
+              "en": "compare words and expressions in Norwegian and other languages"
+            },
+            "coreElements": [
+              "Språket som system og mulighet",
+              "Språklig mangfold"
+            ],
+            "verbs": [
+              "Sammenligne"
+            ]
+          },
+          {
+            "code": "KM1244",
+            "text": {
+              "local": "utforske og samtale om språklig variasjon og mangfold i nærmiljøet",
+              "en": "explore and talk about linguistic variation and diversity in the local environment"
+            },
+            "coreElements": [
+              "Språklig mangfold"
+            ],
+            "verbs": [
+              "Utforske"
+            ]
+          },
+          {
+            "code": "KM1248",
+            "text": {
+              "local": "utforske forskjeller og likheter mellom skriving på hovedmål og sidemål",
+              "en": "explore the differences and similarities between written Norwegian first-choice language and written Norwegian second-choice language"
+            },
+            "coreElements": [
+              "Skriftlig tekstskaping",
+              "Språklig mangfold"
+            ],
+            "verbs": [
+              "Utforske"
+            ]
+          }
+        ]
+      },
+      {
+        "afterGrade": 7,
+        "label": {
+          "local": "Kompetansemål og vurdering 7. trinn",
+          "en": "Competence aims and assessment Year 7"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM1297",
+            "text": {
+              "local": "lese lyrikk, noveller, fagtekster og annen skjønnlitteratur og sakprosa på bokmål og nynorsk, svensk og dansk og samtale om formål, form og innhold",
+              "en": "read poetry, short stories, factual texts and fiction in \"bokmål\" and \"nynorsk\", Swedish and Danish and talk about purpose, form and content"
+            },
+            "coreElements": [
+              "Tekst i kontekst"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1289",
+            "text": {
+              "local": "lese samiske tekster på norsk og samtale om verdiene som kommer til uttrykk, og hvordan stedsnavn og personnavn som inneholder de samiske bokstavene, uttales",
+              "en": "read Sami texts in Norwegian and talk about the values that are expressed and how place names and personal names that contain Sami letters are pronounced"
+            },
+            "coreElements": [
+              "Tekst i kontekst",
+              "Språklig mangfold"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1300",
+            "text": {
+              "local": "orientere seg i faglige kilder på bibliotek og digitalt, vurdere hvor pålitelige kildene er, og vise til kilder i egne tekster",
+              "en": "find information in subject-related sources in libraries and digital media, assess the reliability of the sources and refer to the sources in one’s own texts"
+            },
+            "coreElements": [
+              "Kritisk tilnærming til tekst",
+              "Muntlig kommunikasjon",
+              "Skriftlig tekstskaping"
+            ],
+            "verbs": [
+              "Vurdere"
+            ]
+          },
+          {
+            "code": "KM1302",
+            "text": {
+              "local": "bruke lesestrategier tilpasset formålet med lesingen",
+              "en": "use reading strategies adapted to the purpose of the reading"
+            },
+            "coreElements": [
+              "Tekst i kontekst",
+              "Kritisk tilnærming til tekst"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM1293",
+            "text": {
+              "local": "skrive tekster med funksjonell håndskrift og med flyt på tastatur",
+              "en": "write texts with functional handwriting and with fluid keyboard typing"
+            },
+            "coreElements": [
+              "Skriftlig tekstskaping"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1272",
+            "text": {
+              "local": "lytte til og videreutvikle innspill fra andre og begrunne egne standpunkter i samtaler",
+              "en": "listen to and develop input from others and justify one’s own points of views in conversations"
+            },
+            "coreElements": [
+              "Kritisk tilnærming til tekst",
+              "Muntlig kommunikasjon"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1291",
+            "text": {
+              "local": "reflektere etisk over hvordan eleven framstiller seg selv og andre i digitale medier",
+              "en": "reflect ethically on how he or she presents him or herself and others in digital media"
+            },
+            "coreElements": [
+              "Kritisk tilnærming til tekst"
+            ],
+            "verbs": [
+              "Reflektere"
+            ]
+          },
+          {
+            "code": "KM1287",
+            "text": {
+              "local": "presentere faglige emner muntlig med og uten digitale ressurser",
+              "en": "present subject-related topics orally with and without digital resources"
+            },
+            "coreElements": [
+              "Muntlig kommunikasjon"
+            ],
+            "verbs": [
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM1273",
+            "text": {
+              "local": "leke med språket og prøve ut ulike virkemidler og framstillingsmåter i muntlige og skriftlige tekster",
+              "en": "play with language and experiment with various language features, literary devices and types of presentation in oral and written texts"
+            },
+            "coreElements": [
+              "Muntlig kommunikasjon",
+              "Skriftlig tekstskaping",
+              "Språket som system og mulighet"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1292",
+            "text": {
+              "local": "beskrive, fortelle, argumentere og reflektere i ulike muntlige og skriftlige sjangre og for ulike formål",
+              "en": "describe, relate, reason and reflect in different oral and written genres and for different purposes"
+            },
+            "coreElements": [
+              "Muntlig kommunikasjon",
+              "Skriftlig tekstskaping"
+            ],
+            "verbs": [
+              "Reflektere",
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM1301",
+            "text": {
+              "local": "skrive tekster med tydelig struktur og mestre sentrale regler for rettskriving, ordbøying og tegnsetting",
+              "en": "write texts with a clear structure and master important rules for spelling, word inflection and punctuation"
+            },
+            "coreElements": [
+              "Skriftlig tekstskaping",
+              "Språket som system og mulighet"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1299",
+            "text": {
+              "local": "gi tilbakemelding på medelevers tekster ut fra kriterier og bruke tilbakemeldinger i bearbeiding av egne tekster",
+              "en": "provide feedback on the texts of fellow pupils based on criteria and use the feedback to revise one’s own texts"
+            },
+            "coreElements": [
+              "Skriftlig tekstskaping"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM1296",
+            "text": {
+              "local": "bruke fagspråk og kunnskap om ordklasser og setningsoppbygning i samtale om egne og andres tekster",
+              "en": "use subject-related terminology and knowledge about word classes and syntax in conversations about one’s own and others’ texts"
+            },
+            "coreElements": [
+              "Skriftlig tekstskaping",
+              "Språket som system og mulighet"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM1290",
+            "text": {
+              "local": "utforske og beskrive samspillet mellom skrift, bilder og andre uttrykksformer og lage egne sammensatte tekster",
+              "en": "explore and describe the interaction between writing, pictures and other forms of expression and create one’s own multimedia texts"
+            },
+            "coreElements": [
+              "Muntlig kommunikasjon",
+              "Skriftlig tekstskaping"
+            ],
+            "verbs": [
+              "Utforske",
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM1298",
+            "text": {
+              "local": "prøve ut skriving av tekster på sidemål",
+              "en": "experiment with writing texts in the second-choice language"
+            },
+            "coreElements": [
+              "Skriftlig tekstskaping"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1295",
+            "text": {
+              "local": "sammenligne talespråk i nærmiljøet med andre talespråkvarianter i Norge og med nabospråk",
+              "en": "compare the spoken language in the local environment with other varieties of spoken language in Norway and with neighbouring languages"
+            },
+            "coreElements": [
+              "Språket som system og mulighet",
+              "Språklig mangfold"
+            ],
+            "verbs": [
+              "Sammenligne"
+            ]
+          },
+          {
+            "code": "KM1294",
+            "text": {
+              "local": "utforske og reflektere over sammenhengen mellom språk og identitet",
+              "en": "explore and reflect on the relationship between language and identity"
+            },
+            "coreElements": [
+              "Språklig mangfold"
+            ],
+            "verbs": [
+              "Utforske",
+              "Reflektere"
+            ]
+          }
+        ]
+      },
+      {
+        "afterGrade": 10,
+        "label": {
+          "local": "Kompetansemål og vurdering 10. trinn",
+          "en": "Competence aims and assessment Year 10"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM1280",
+            "text": {
+              "local": "lese skjønnlitteratur og sakprosa på bokmål og nynorsk og i oversettelse fra samiske og andre språk, og reflektere over tekstenes formål, innhold, sjangertrekk og virkemidler",
+              "en": "read fiction and factual prose in \"bokmål\" and \"nynorsk\" and translations from Sami and other languages, and reflect on the purpose, content, genre features, language features and literary devices in the texts"
+            },
+            "coreElements": [
+              "Tekst i kontekst",
+              "Kritisk tilnærming til tekst"
+            ],
+            "verbs": [
+              "Reflektere"
+            ]
+          },
+          {
+            "code": "KM1276",
+            "text": {
+              "local": "sammenligne og tolke romaner, noveller, lyrikk og andre tekster ut fra historisk kontekst og egen samtid",
+              "en": "compare and interpret novels, short stories, poetry and other texts based on historical context and their contemporary period"
+            },
+            "coreElements": [
+              "Tekst i kontekst"
+            ],
+            "verbs": [
+              "Sammenligne",
+              "Tolke"
+            ]
+          },
+          {
+            "code": "KM1271",
+            "text": {
+              "local": "beskrive og reflektere over egen bruk av lesestrategier i lesing av skjønnlitteratur og sakprosa",
+              "en": "describe and reflect on one’s own use of reading strategies when reading fiction and factual texts"
+            },
+            "coreElements": [
+              "Tekst i kontekst",
+              "Kritisk tilnærming til tekst"
+            ],
+            "verbs": [
+              "Reflektere",
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM1241",
+            "text": {
+              "local": "lytte til og lese tekster på svensk og dansk og gjøre rede for innhold og språklige trekk",
+              "en": "listen to and read texts in Swedish and Danish and explain their content and language features"
+            },
+            "coreElements": [
+              "Tekst i kontekst"
+            ],
+            "verbs": [
+              "Gjøre rede for"
+            ]
+          },
+          {
+            "code": "KM1275",
+            "text": {
+              "local": "utforske og reflektere over hvordan tekster framstiller unges livssituasjon",
+              "en": "investigate and reflect on how texts present the life situation of young people"
+            },
+            "coreElements": [
+              "Tekst i kontekst"
+            ],
+            "verbs": [
+              "Utforske",
+              "Reflektere"
+            ]
+          },
+          {
+            "code": "KM1281",
+            "text": {
+              "local": "gjenkjenne og bruke språklige virkemidler og retoriske appellformer",
+              "en": "recognise and use language features, literary devices and rhetorical language"
+            },
+            "coreElements": [
+              "Kritisk tilnærming til tekst",
+              "Muntlig kommunikasjon",
+              "Skriftlig tekstskaping",
+              "Språket som system og mulighet"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM1283",
+            "text": {
+              "local": "bruke kilder på en kritisk måte, markere sitater og vise til kilder på en etterrettelig måte i egne tekster",
+              "en": "use sources critically, highlight quotes and refer to sources in a verifiable manner in one’s own texts"
+            },
+            "coreElements": [
+              "Kritisk tilnærming til tekst",
+              "Skriftlig tekstskaping"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM1274",
+            "text": {
+              "local": "utforske og vurdere hvordan digitale medier påvirker og endrer språk og kommunikasjon",
+              "en": "explore and assess how digital media affect and change language and communication"
+            },
+            "coreElements": [
+              "Kritisk tilnærming til tekst",
+              "Språket som system og mulighet"
+            ],
+            "verbs": [
+              "Utforske",
+              "Vurdere"
+            ]
+          },
+          {
+            "code": "KM1288",
+            "text": {
+              "local": "bruke fagspråk og argumentere saklig i diskusjoner, samtaler, muntlige presentasjoner og skriftlige framstillinger om norskfaglige og tverrfaglige temaer",
+              "en": "use appropriate terminology and argue in a reasoned way in discussions, conversations, oral presentations and written texts on interdisciplinary and subject-related topics"
+            },
+            "coreElements": [
+              "Muntlig kommunikasjon",
+              "Skriftlig tekstskaping"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM1285",
+            "text": {
+              "local": "informere, fortelle, argumentere og reflektere i ulike muntlige og skriftlige sjangre og for ulike formål tilpasset mottaker og medium",
+              "en": "inform, relate, reason and reflect in various oral and written genres and for different purposes and adapted to the receiver and the medium"
+            },
+            "coreElements": [
+              "Muntlig kommunikasjon",
+              "Skriftlig tekstskaping"
+            ],
+            "verbs": [
+              "Reflektere"
+            ]
+          },
+          {
+            "code": "KM1282",
+            "text": {
+              "local": "skrive tekster med funksjonell tekstbinding og riktig tegnsetting og mestre rettskriving og ordbøying på hovedmål og sidemål",
+              "en": "write texts with functional coherence and correct punctuation and master spelling and word inflection in the written first-choice and second-choice languages"
+            },
+            "coreElements": [
+              "Skriftlig tekstskaping",
+              "Språket som system og mulighet"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1279",
+            "text": {
+              "local": "bruke fagspråk og kunnskap om grammatikk, tekststruktur og sjanger i samtale om og bearbeiding av tekster",
+              "en": "use subject-related terminology and knowledge about grammar, text structure and genres in conversations on and revisions of texts"
+            },
+            "coreElements": [
+              "Skriftlig tekstskaping",
+              "Språket som system og mulighet"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM1286",
+            "text": {
+              "local": "uttrykke seg i ulike sjangre og eksperimentere med sjangre på kreative måter",
+              "en": "express him or herself in different genres and experiment with genres in a creative way"
+            },
+            "coreElements": [
+              "Muntlig kommunikasjon",
+              "Skriftlig tekstskaping",
+              "Språket som system og mulighet"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1284",
+            "text": {
+              "local": "lage sammensatte tekster og begrunne valg av uttrykksformer",
+              "en": "create multimedia texts and justify the choice of forms of expression"
+            },
+            "coreElements": [
+              "Muntlig kommunikasjon",
+              "Skriftlig tekstskaping"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1278",
+            "text": {
+              "local": "forklare den historiske bakgrunnen for bokmål og nynorsk og reflektere over statusen til de offisielle språkene i Norge i dag",
+              "en": "explain the historical background of \"bokmål\" and \"nynorsk\" and reflect on the status of the official languages in Norway today"
+            },
+            "coreElements": [
+              "Språklig mangfold"
+            ],
+            "verbs": [
+              "Reflektere"
+            ]
+          },
+          {
+            "code": "KM1277",
+            "text": {
+              "local": "utforske språklig variasjon og mangfold i Norge og reflektere over holdninger til ulike språk og talespråkvarianter",
+              "en": "explore linguistic variations and diversity in Norway and reflect on attitudes to different languages and language variants"
+            },
+            "coreElements": [
+              "Språklig mangfold"
+            ],
+            "verbs": [
+              "Utforske",
+              "Reflektere"
+            ]
+          }
+        ]
+      },
+      {
+        "afterGrade": 11,
+        "label": {
+          "local": "Kompetansemål og vurdering vg1 studieforberedende utdanningsprogram",
+          "en": "Competence aims and assessment vg1 programmes for general studies"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM1180",
+            "text": {
+              "local": "lese, analysere og tolke nyere skjønnlitteratur på bokmål og nynorsk og i oversettelse fra samiske og andre språk",
+              "en": "read, analyse and interpret newer works of fiction in \"bokmål\" and \"nynorsk\" and in translations from Sami and other languages"
+            },
+            "coreElements": [
+              "Tekst i kontekst"
+            ],
+            "verbs": [
+              "Tolke",
+              "Analysere"
+            ]
+          },
+          {
+            "code": "KM1179",
+            "text": {
+              "local": "reflektere over hvordan tekster framstiller møter mellom ulike kulturer",
+              "en": "reflect on how texts present encounters between different cultures"
+            },
+            "coreElements": [
+              "Tekst i kontekst"
+            ],
+            "verbs": [
+              "Reflektere"
+            ]
+          },
+          {
+            "code": "KM1183",
+            "text": {
+              "local": "gjøre rede for og reflektere over bruken av retoriske appellformer og språklige virkemidler i sakprosatekster",
+              "en": "explain and reflect on the use of rhetorical language, language features and literary devices in factual prose texts"
+            },
+            "coreElements": [
+              "Kritisk tilnærming til tekst"
+            ],
+            "verbs": [
+              "Reflektere",
+              "Gjøre rede for"
+            ]
+          },
+          {
+            "code": "KM1185",
+            "text": {
+              "local": "lytte til andre, bygge opp saklig argumentasjon og bruke retoriske appellformer i diskusjoner",
+              "en": "listen to others, construct well-reasoned arguments and use rhetorical language in discussions"
+            },
+            "coreElements": [
+              "Kritisk tilnærming til tekst",
+              "Muntlig kommunikasjon"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM1182",
+            "text": {
+              "local": "bruke ulike kilder på en kritisk, selvstendig og etterrettelig måte",
+              "en": "use different sources in a critical, independent and verifiable manner"
+            },
+            "coreElements": [
+              "Kritisk tilnærming til tekst"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM1184",
+            "text": {
+              "local": "greie ut om og drøfte norskfaglige eller tverrfaglige temaer muntlig",
+              "en": "explain and discuss Norwegian subject-related or interdisciplinary topics orally"
+            },
+            "coreElements": [
+              "Muntlig kommunikasjon"
+            ],
+            "verbs": [
+              "Drøfte"
+            ]
+          },
+          {
+            "code": "KM1223",
+            "text": {
+              "local": "skrive fagartikler som greier ut om og drøfter norskfaglige eller tverrfaglige temaer",
+              "en": "write articles that explain and discuss topics that relate to the Norwegian subject or interdisciplinary topics"
+            },
+            "coreElements": [
+              "Skriftlig tekstskaping"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1191",
+            "text": {
+              "local": "bruke fagspråk til å beskrive setningsoppbygningen og sammenhengen mellom setninger i arbeid med tekster",
+              "en": "use subject-related terminology to describe sentence structure and the relationship between sentences when working with texts"
+            },
+            "coreElements": [
+              "Skriftlig tekstskaping",
+              "Språket som system og mulighet"
+            ],
+            "verbs": [
+              "Bruke",
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM1209",
+            "text": {
+              "local": "kombinere virkemidler og uttrykksformer kreativt i egen tekstskaping",
+              "en": "combine language features, literary devices and forms of expression creatively in the creation of one’s own texts"
+            },
+            "coreElements": [
+              "Muntlig kommunikasjon",
+              "Skriftlig tekstskaping",
+              "Språket som system og mulighet"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1181",
+            "text": {
+              "local": "vurdere og bearbeide egne tekster ut fra tilbakemeldinger og faglige kriterier",
+              "en": "assess and revise one’s own texts based on feedback and subject-related criteria"
+            },
+            "coreElements": [
+              "Skriftlig tekstskaping"
+            ],
+            "verbs": [
+              "Vurdere"
+            ]
+          },
+          {
+            "code": "KM1208",
+            "text": {
+              "local": "skrive tekster med god struktur og tekstbinding og mestre tegnsetting og rettskriving på hovedmål og sidemål",
+              "en": "write texts with good structure and coherence and master punctuation and spelling in the written first-choice and second-choice languages"
+            },
+            "coreElements": [
+              "Skriftlig tekstskaping",
+              "Språket som system og mulighet"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1237",
+            "text": {
+              "local": "sammenligne særtrekk ved norsk med andre språk og vise hvordan språklige møter kan skape språkendringer",
+              "en": "compare distinctive features of Norwegian with other languages and demonstrate how language can be changed due to influence from other languages"
+            },
+            "coreElements": [
+              "Språket som system og mulighet",
+              "Språklig mangfold"
+            ],
+            "verbs": [
+              "Sammenligne"
+            ]
+          },
+          {
+            "code": "KM1178",
+            "text": {
+              "local": "gjøre rede for utbredelsen av de samiske språkene i Norge, fornorskingspolitikken og de språklige rettighetene samer har som urfolk",
+              "en": "explain the prevalence of the Sami languages in Norway, the Norwegianization policy and linguistic rights the Sami have as an indigenous people"
+            },
+            "coreElements": [
+              "Språklig mangfold"
+            ],
+            "verbs": [
+              "Gjøre rede for"
+            ]
+          }
+        ]
+      },
+      {
+        "afterGrade": 12,
+        "label": {
+          "local": "Kompetansemål og vurdering vg2 yrkesfaglige utdanningsprogram",
+          "en": "Competence aims and assessment vg2 vocational education programmes"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM1198",
+            "text": {
+              "local": "lese, analysere og tolke nyere skjønnlitteratur på bokmål og nynorsk og i oversettelse fra samiske og andre språk",
+              "en": "read, analyse and interpret newer works of fiction in \"bokmål\" and \"nynorsk\" and in translations from Sami and other languages"
+            },
+            "coreElements": [
+              "Tekst i kontekst"
+            ],
+            "verbs": [
+              "Tolke",
+              "Analysere"
+            ]
+          },
+          {
+            "code": "KM1197",
+            "text": {
+              "local": "reflektere over hvordan tekster framstiller møter mellom ulike kulturer",
+              "en": "reflect on how texts present encounters between different cultures"
+            },
+            "coreElements": [
+              "Tekst i kontekst"
+            ],
+            "verbs": [
+              "Reflektere"
+            ]
+          },
+          {
+            "code": "KM1204",
+            "text": {
+              "local": "gjøre rede for og reflektere over bruken av retoriske appellformer og språklige virkemidler i sakprosatekster",
+              "en": "explain and reflect on the use of rhetorical language and language features and literary devices in factual prose texts"
+            },
+            "coreElements": [
+              "Kritisk tilnærming til tekst"
+            ],
+            "verbs": [
+              "Reflektere",
+              "Gjøre rede for"
+            ]
+          },
+          {
+            "code": "KM1240",
+            "text": {
+              "local": "lytte til andre, bygge opp saklig argumentasjon og bruke retoriske appellformer i diskusjoner",
+              "en": "listen to others, construct reasoned arguments and use rhetorical language in discussions"
+            },
+            "coreElements": [
+              "Kritisk tilnærming til tekst",
+              "Muntlig kommunikasjon"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM1200",
+            "text": {
+              "local": "bruke ulike kilder på en kritisk, selvstendig og etterrettelig måte",
+              "en": "use different sources in a critical, independent and verifiable manner"
+            },
+            "coreElements": [
+              "Kritisk tilnærming til tekst"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM1207",
+            "text": {
+              "local": "kommunisere klart og forståelig muntlig og skriftlig i yrkesrelevante sjangre",
+              "en": "communicate clearly and comprehensibly, both orally and in writing, in vocationally relevant genres"
+            },
+            "coreElements": [
+              "Muntlig kommunikasjon",
+              "Skriftlig tekstskaping"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1205",
+            "text": {
+              "local": "bruke relevant fagspråk til å presentere, gjøre rede for og dokumentere faglige emner og arbeidsprosesser fra eget utdanningsprogram",
+              "en": "use relevant vocational terminology to present, explain and document subject-related topics and work processes in one’s own education programme"
+            },
+            "coreElements": [
+              "Muntlig kommunikasjon",
+              "Skriftlig tekstskaping"
+            ],
+            "verbs": [
+              "Gjøre rede for",
+              "Dokumentere",
+              "Bruke",
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM1202",
+            "text": {
+              "local": "orientere seg i faglitteratur fra eget yrkesfaglig område for å finne, kombinere og vurdere relevant informasjon",
+              "en": "read technical material from one’s own vocational field to find, combine and assess relevant information"
+            },
+            "coreElements": [
+              "Tekst i kontekst",
+              "Kritisk tilnærming til tekst"
+            ],
+            "verbs": [
+              "Vurdere"
+            ]
+          },
+          {
+            "code": "KM1196",
+            "text": {
+              "local": "kombinere virkemidler og uttrykksformer kreativt i egen tekstskaping",
+              "en": "combine language features and forms of expression creatively in the creation of one’s own texts"
+            },
+            "coreElements": [
+              "Muntlig kommunikasjon",
+              "Skriftlig tekstskaping",
+              "Språket som system og mulighet"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1199",
+            "text": {
+              "local": "vurdere og bearbeide egne tekster ut fra tilbakemeldinger og faglige kriterier",
+              "en": "assess and revise one’s own texts based on feedback and subject-related criteria"
+            },
+            "coreElements": [
+              "Skriftlig tekstskaping"
+            ],
+            "verbs": [
+              "Vurdere"
+            ]
+          },
+          {
+            "code": "KM1201",
+            "text": {
+              "local": "skrive tekster med god struktur og tekstbinding og mestre tegnsetting og rettskriving på hovedmål",
+              "en": "write texts with good structure and coherence and master punctuation and spelling in the written first-choice language"
+            },
+            "coreElements": [
+              "Skriftlig tekstskaping",
+              "Språket som system og mulighet"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1195",
+            "text": {
+              "local": "sammenligne særtrekk ved norsk med andre språk og vise hvordan språklige møter kan skape språkendringer",
+              "en": "compare distinctive features of Norwegian with other languages and demonstrate how language can be changed due to influence from other languages"
+            },
+            "coreElements": [
+              "Språket som system og mulighet",
+              "Språklig mangfold"
+            ],
+            "verbs": [
+              "Sammenligne"
+            ]
+          },
+          {
+            "code": "KM1203",
+            "text": {
+              "local": "gjøre rede for utbredelsen av de samiske språkene i Norge, fornorskingspolitikken og de språklige rettighetene samer har som urfolk",
+              "en": "explain the prevalence of the Sami languages in Norway, the Norwegianization policy and linguistic rights the Sami have as an indigenous people"
+            },
+            "coreElements": [
+              "Språklig mangfold"
+            ],
+            "verbs": [
+              "Gjøre rede for"
+            ]
+          }
+        ]
+      },
+      {
+        "afterGrade": 12,
+        "label": {
+          "local": "Kompetansemål og vurdering vg2 studieforberedende utdanningsprogram",
+          "en": "Competence aims and assessment vg2 programmes for general studies"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM1194",
+            "text": {
+              "local": "lese norrøne tekster i oversettelse og sammenligne dem med tekster fra nyere tid",
+              "en": "read Old Norse texts in translation and compare them to texts from more recent times"
+            },
+            "coreElements": [
+              "Tekst i kontekst"
+            ],
+            "verbs": [
+              "Sammenligne"
+            ]
+          },
+          {
+            "code": "KM1193",
+            "text": {
+              "local": "lese og tolke tekster fra 1500 til 1850 i kulturhistorisk kontekst og drøfte hvordan de er relevante i dag",
+              "en": "read and interpret texts from 1500 to 1850 in a cultural-history context and discuss their relevance today"
+            },
+            "coreElements": [
+              "Tekst i kontekst"
+            ],
+            "verbs": [
+              "Tolke",
+              "Drøfte"
+            ]
+          },
+          {
+            "code": "KM1206",
+            "text": {
+              "local": "utforske og reflektere over hvordan tekster fra romantikken og nasjonalromantikken framstiller menneske, natur og samfunn, og sammenligne med tekster fra nyere tid",
+              "en": "explore and reflect on how texts from romanticism and romantic nationalism present humankind, nature and society and compare them to texts from more recent times"
+            },
+            "coreElements": [
+              "Tekst i kontekst"
+            ],
+            "verbs": [
+              "Sammenligne",
+              "Utforske",
+              "Reflektere"
+            ]
+          },
+          {
+            "code": "KM1187",
+            "text": {
+              "local": "reflektere over sakprosatekster og gjøre rede for den retoriske situasjonen de er blitt til i",
+              "en": "reflect on factual prose texts and explain the rhetorical situation that has prompted them"
+            },
+            "coreElements": [
+              "Tekst i kontekst",
+              "Kritisk tilnærming til tekst"
+            ],
+            "verbs": [
+              "Reflektere",
+              "Gjøre rede for"
+            ]
+          },
+          {
+            "code": "KM1190",
+            "text": {
+              "local": "skrive fagartikler som gjør rede for og drøfter tekster i kontekst",
+              "en": "write subject-related articles that explain and discuss texts in context"
+            },
+            "coreElements": [
+              "Tekst i kontekst",
+              "Skriftlig tekstskaping"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1188",
+            "text": {
+              "local": "bruke tilbakemeldinger og kunnskap om språk, tekst og sjanger til å utvikle egne tekster",
+              "en": "use feedback and knowledge about language, text and genres to develop one’s own texts"
+            },
+            "coreElements": [
+              "Skriftlig tekstskaping",
+              "Språket som system og mulighet"
+            ],
+            "verbs": [
+              "Utvikle",
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM1192",
+            "text": {
+              "local": "bruke fagkunnskap og retoriske ferdigheter i norskfaglige diskusjoner og presentasjoner",
+              "en": "use subject-related knowledge and rhetorical skills in discussions and presentations relating to the Norwegian subject"
+            },
+            "coreElements": [
+              "Kritisk tilnærming til tekst",
+              "Muntlig kommunikasjon"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM1189",
+            "text": {
+              "local": "bruke fagspråk til å beskrive særtrekk ved norsk sammenlignet med svensk, dansk og norrønt",
+              "en": "use appropriate terminology in the subject to describe the distinctive features of Norwegian compared to Swedish, Danish and Old Norse"
+            },
+            "coreElements": [
+              "Språket som system og mulighet",
+              "Språklig mangfold"
+            ],
+            "verbs": [
+              "Bruke",
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM1186",
+            "text": {
+              "local": "gjøre rede for den historiske bakgrunnen for språksituasjonen i Norge i dag",
+              "en": "explain the historical background of the language situation in Norway today"
+            },
+            "coreElements": [
+              "Språklig mangfold"
+            ],
+            "verbs": [
+              "Gjøre rede for"
+            ]
+          }
+        ]
+      },
+      {
+        "afterGrade": 13,
+        "label": {
+          "local": "Kompetansemål og vurdering vg3 studieforberedende utdanningsprogram",
+          "en": "Competence aims and assessment vg3 programmes for general studies"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM1236",
+            "text": {
+              "local": "analysere og tolke romaner, noveller, drama, lyrikk og sakprosa på bokmål og nynorsk fra 1850 til i dag og reflektere over tekstene i lys av den kulturhistoriske konteksten og egen samtid",
+              "en": "analyse and interpret novels, short stories, plays, poetry and factual prose in \"bokmål\" and \"nynorsk\" from 1850 to the present and reflect on the texts in light of the cultural-history context and one’s own contemporary time"
+            },
+            "coreElements": [
+              "Tekst i kontekst"
+            ],
+            "verbs": [
+              "Tolke",
+              "Reflektere",
+              "Analysere"
+            ]
+          },
+          {
+            "code": "KM1235",
+            "text": {
+              "local": "utforske og reflektere over hvordan tekster fra den realistiske og den modernistiske tradisjonen framstiller menneske, natur og samfunn",
+              "en": "explore and reflect on how texts from the realist and modernist traditions present humankind, nature and society"
+            },
+            "coreElements": [
+              "Tekst i kontekst"
+            ],
+            "verbs": [
+              "Utforske",
+              "Reflektere"
+            ]
+          },
+          {
+            "code": "KM1227",
+            "text": {
+              "local": "skrive essay som utforsker og reflekterer over innhold i tekster",
+              "en": "write essays that explore and reflect on the content of texts"
+            },
+            "coreElements": [
+              "Skriftlig tekstskaping"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1234",
+            "text": {
+              "local": "skrive litterære tolkninger og sammenligninger",
+              "en": "write literary interpretations and comparisons"
+            },
+            "coreElements": [
+              "Skriftlig tekstskaping"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1233",
+            "text": {
+              "local": "analysere uttrykksformer i sammensatte tekster i ulike medier og vurdere samspillet mellom dem",
+              "en": "analyse forms of expression in multimedia texts in different media and assess how they interact"
+            },
+            "coreElements": [
+              "Kritisk tilnærming til tekst"
+            ],
+            "verbs": [
+              "Vurdere",
+              "Analysere"
+            ]
+          },
+          {
+            "code": "KM1230",
+            "text": {
+              "local": "bruke fagkunnskap og presist fagspråk i utforskende samtaler, diskusjoner og muntlige presentasjoner om norskfaglige emner",
+              "en": "use subject-related knowledge and precise terminology in exploratory conversations, discussions and oral presentations on topics relating to the Norwegian subject"
+            },
+            "coreElements": [
+              "Muntlig kommunikasjon"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM1231",
+            "text": {
+              "local": "skrive retoriske analyser og tolkninger av sakprosatekster",
+              "en": "write rhetorical analyses and interpretations of factual prose texts"
+            },
+            "coreElements": [
+              "Tekst i kontekst",
+              "Kritisk tilnærming til tekst",
+              "Skriftlig tekstskaping"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1229",
+            "text": {
+              "local": "mestre språklige formkrav på hovedmål og sidemål og skrive tekster med etterrettelig kildebruk og et presist og nyansert språk",
+              "en": "master language morphology rules in the written first-choice and second-choice languages and write texts with verifiable use of sources and precise and nuanced language"
+            },
+            "coreElements": [
+              "Kritisk tilnærming til tekst",
+              "Skriftlig tekstskaping",
+              "Språket som system og mulighet"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1228",
+            "text": {
+              "local": "orientere seg i faglitteratur, vurdere kilder kritisk og skrive fagartikler som greier ut om og drøfter norskfaglige emner",
+              "en": "read subject-related literature, assess sources critically and write articles that explain and discuss topics relating to the Norwegian subject"
+            },
+            "coreElements": [
+              "Kritisk tilnærming til tekst",
+              "Skriftlig tekstskaping"
+            ],
+            "verbs": [
+              "Vurdere"
+            ]
+          },
+          {
+            "code": "KM1232",
+            "text": {
+              "local": "gjøre rede for endringer i talespråk i Norge i dag og reflektere over sammenhenger mellom språk, kultur og identitet",
+              "en": "explain present-day changes in spoken Norwegian and reflect on relationships between language, culture and identity"
+            },
+            "coreElements": [
+              "Språklig mangfold"
+            ],
+            "verbs": [
+              "Reflektere",
+              "Gjøre rede for"
+            ]
+          }
+        ]
+      },
+      {
+        "afterGrade": 13,
+        "label": {
+          "local": "Kompetansemål og vurdering vg3 påbygging til generell studiekompetanse",
+          "en": "Competence aims and assessment vg3 supplementary programme for general university and college admissions certification"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM1226",
+            "text": {
+              "local": "lese norrøne tekster i oversettelse og sammenligne dem med tekster fra nyere tid",
+              "en": "read Old Norse texts in translation and compare them to texts from more recent times"
+            },
+            "coreElements": [
+              "Tekst i kontekst"
+            ],
+            "verbs": [
+              "Sammenligne"
+            ]
+          },
+          {
+            "code": "KM1225",
+            "text": {
+              "local": "lese og tolke tekster fra 1500 til 1850 i kulturhistorisk kontekst og drøfte hvordan de er relevante i dag",
+              "en": "read and interpret texts from 1500 to 1850 in a cultural-history context and discuss their relevance today"
+            },
+            "coreElements": [
+              "Tekst i kontekst"
+            ],
+            "verbs": [
+              "Tolke",
+              "Drøfte"
+            ]
+          },
+          {
+            "code": "KM1238",
+            "text": {
+              "local": "utforske og reflektere over hvordan tekster fra romantikken og nasjonalromantikken framstiller menneske, natur og samfunn, og sammenligne med tekster fra nyere tid",
+              "en": "investigate and reflect on how texts from the romantic and romantic nationalist periods present people, nature and society and compare them to texts from more recent times"
+            },
+            "coreElements": [
+              "Tekst i kontekst"
+            ],
+            "verbs": [
+              "Sammenligne",
+              "Utforske",
+              "Reflektere"
+            ]
+          },
+          {
+            "code": "KM1224",
+            "text": {
+              "local": "reflektere over sakprosatekster og gjøre rede for den retoriske situasjonen de er blitt til i",
+              "en": "reflect on factual prose texts and explain the rhetorical situation that has prompted them"
+            },
+            "coreElements": [
+              "Tekst i kontekst",
+              "Kritisk tilnærming til tekst"
+            ],
+            "verbs": [
+              "Reflektere",
+              "Gjøre rede for"
+            ]
+          },
+          {
+            "code": "KM1222",
+            "text": {
+              "local": "skrive fagartikler som gjør rede for og drøfter tekster i kontekst",
+              "en": "write subject-related articles that explain and discuss texts in context"
+            },
+            "coreElements": [
+              "Tekst i kontekst",
+              "Skriftlig tekstskaping"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1220",
+            "text": {
+              "local": "bruke tilbakemeldinger og kunnskap om språk, tekst og sjanger til å utvikle egne tekster",
+              "en": "use feedback and knowledge about language, text and genres to develop one’s own texts"
+            },
+            "coreElements": [
+              "Skriftlig tekstskaping",
+              "Språket som system og mulighet"
+            ],
+            "verbs": [
+              "Utvikle",
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM1219",
+            "text": {
+              "local": "bruke fagkunnskap og retoriske ferdigheter i norskfaglige diskusjoner og presentasjoner",
+              "en": "use subject-related knowledge and rhetorical skills in discussions and presentations"
+            },
+            "coreElements": [
+              "Kritisk tilnærming til tekst",
+              "Muntlig kommunikasjon"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM1218",
+            "text": {
+              "local": "bruke fagspråk til å beskrive særtrekk ved norsk sammenlignet med svensk, dansk og norrønt",
+              "en": "use appropriate subject-related terminology to describe special features of Norwegian compared to Swedish, Danish and Old Norse"
+            },
+            "coreElements": [
+              "Språket som system og mulighet",
+              "Språklig mangfold"
+            ],
+            "verbs": [
+              "Bruke",
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM1221",
+            "text": {
+              "local": "gjøre rede for den historiske bakgrunnen for språksituasjonen i Norge i dag",
+              "en": "explain the historical background of the language situation in Norway today"
+            },
+            "coreElements": [
+              "Språklig mangfold"
+            ],
+            "verbs": [
+              "Gjøre rede for"
+            ]
+          },
+          {
+            "code": "KM1217",
+            "text": {
+              "local": "analysere og tolke romaner, noveller, drama, lyrikk og sakprosa på bokmål og nynorsk fra 1850 til i dag og reflektere over tekstene i lys av den kulturhistoriske konteksten og elevens egen samtid",
+              "en": "analyse and interpret novels, short stories, plays, poetry and factual prose in \"bokmål\" and \"nynorsk\" from 1850 to the present day and reflect on the texts in light of the cultural-historical context and one’s contemporary time"
+            },
+            "coreElements": [
+              "Tekst i kontekst"
+            ],
+            "verbs": [
+              "Tolke",
+              "Reflektere",
+              "Analysere"
+            ]
+          },
+          {
+            "code": "KM1216",
+            "text": {
+              "local": "utforske og reflektere over hvordan tekster fra den realistiske og den modernistiske tradisjonen framstiller menneske, natur og samfunn",
+              "en": "explore and reflect on how texts from realism and modernism traditions present humankind, nature and society"
+            },
+            "coreElements": [
+              "Tekst i kontekst"
+            ],
+            "verbs": [
+              "Utforske",
+              "Reflektere"
+            ]
+          },
+          {
+            "code": "KM1239",
+            "text": {
+              "local": "skrive essay som utforsker og reflekterer over innhold i tekster",
+              "en": "write essays that explore and reflect on the content of texts"
+            },
+            "coreElements": [
+              "Skriftlig tekstskaping"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1303",
+            "text": {
+              "local": "skrive litterære tolkninger og sammenlikninger",
+              "en": "write literary interpretations and comparisons"
+            },
+            "coreElements": [
+              "Skriftlig tekstskaping"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1215",
+            "text": {
+              "local": "analysere uttrykksformer i sammensatte tekster i ulike medier og vurdere samspillet mellom dem",
+              "en": "analyse forms of expression in multimedia texts in various media and assess how they interact"
+            },
+            "coreElements": [
+              "Kritisk tilnærming til tekst"
+            ],
+            "verbs": [
+              "Vurdere",
+              "Analysere"
+            ]
+          },
+          {
+            "code": "KM1214",
+            "text": {
+              "local": "bruke fagkunnskap og presist fagspråk i utforskende samtaler, diskusjoner og muntlige presentasjoner om norskfaglige emner",
+              "en": "use subject-related knowledge and precise terminology in exploratory conversations, discussions and oral presentations on subject-related topics"
+            },
+            "coreElements": [
+              "Muntlig kommunikasjon"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM1213",
+            "text": {
+              "local": "skrive retoriske analyser og tolkninger av sakprosatekster",
+              "en": "write rhetorical analyses and interpretations of factual prose texts"
+            },
+            "coreElements": [
+              "Kritisk tilnærming til tekst",
+              "Skriftlig tekstskaping"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1212",
+            "text": {
+              "local": "mestre språklige formkrav på hovedmål og sidemål og skrive tekster med etterrettelig kildebruk og et presist og nyansert språk",
+              "en": "master morphological language rules in the written Norwegian first-choice and second-choice languages and write texts with verifiable use of sources and precise and nuanced language"
+            },
+            "coreElements": [
+              "Kritisk tilnærming til tekst",
+              "Skriftlig tekstskaping",
+              "Språket som system og mulighet"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1211",
+            "text": {
+              "local": "orientere seg i faglitteratur, vurdere kilder kritisk og skrive fagartikler som greier ut om og drøfter norskfaglige emner",
+              "en": "read subject-related literature, assess sources critically and write articles that explain and discuss subject-related topics"
+            },
+            "coreElements": [
+              "Kritisk tilnærming til tekst",
+              "Skriftlig tekstskaping"
+            ],
+            "verbs": [
+              "Vurdere"
+            ]
+          },
+          {
+            "code": "KM1210",
+            "text": {
+              "local": "gjøre rede for endringer i talespråk i Norge i dag og reflektere over sammenhenger mellom språk, kultur og identitet",
+              "en": "explain present-day changes in spoken Norwegian and reflect on relationships between language, culture and identity"
+            },
+            "coreElements": [
+              "Språklig mangfold"
+            ],
+            "verbs": [
+              "Reflektere",
+              "Gjøre rede for"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,880 @@
+{
+  "country": "norway",
+  "source": {
+    "api": "https://data.udir.no/kl06/v201906/laereplaner-lk20/KRO01-05",
+    "curriculum": "LK20",
+    "license": "NLOD",
+    "lastSynced": "2026-03-02T21:21:15Z"
+  },
+  "subject": {
+    "code": "KRO01-05",
+    "name": {
+      "local": "Læreplan i kroppsøving",
+      "en": "Curriculum in Physical education"
+    },
+    "coreElements": [],
+    "gradeBands": [
+      {
+        "afterGrade": 2,
+        "label": {
+          "local": "Kompetansemål og vurdering 2. trinn",
+          "en": "Competence aims and assessment Year 2"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM2029",
+            "text": {
+              "local": "utforske egen kroppslig bevegelse i lek og andre aktiviteter, alene og sammen med andre",
+              "en": "explore one’s own bodily movement in play and other activities, alone and together with others"
+            },
+            "coreElements": [
+              "Bevegelse og kroppsleg læring",
+              "Deltaking og samspel i bevegelsesaktivitetar"
+            ],
+            "verbs": [
+              "Utforske"
+            ]
+          },
+          {
+            "code": "KM2060",
+            "text": {
+              "local": "utforske og gjennomføre grunnleggende bevegelser som å krype, gå, løpe, hinke, satse, lande, vende og rulle i ulike miljøer ut fra egne forutsetninger",
+              "en": "explore and carry out basic movements such as to crawl, walk, run, hop on one leg, jump, land, turn and roll in different environments based on one’s own abilities"
+            },
+            "coreElements": [
+              "Bevegelse og kroppsleg læring"
+            ],
+            "verbs": [
+              "Utforske",
+              "Gjennomføre"
+            ]
+          },
+          {
+            "code": "KM2061",
+            "text": {
+              "local": "øve på å avlevere, ta imot og leke med ulike redskaper og balltyper",
+              "en": "practise in delivering, receiving and playing with different objects and types of ball"
+            },
+            "coreElements": [
+              "Bevegelse og kroppsleg læring"
+            ],
+            "verbs": [
+              "Øve"
+            ]
+          },
+          {
+            "code": "KM2062",
+            "text": {
+              "local": "leke og være med sammen med andre i aktivitet i varierte bevegelsesmiljøer",
+              "en": "play and interact with others in activities in a variety of movement environments"
+            },
+            "coreElements": [
+              "Deltaking og samspel i bevegelsesaktivitetar"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM2063",
+            "text": {
+              "local": "leke og utføre grunnleggende øvelser med tilvenning til vann, som å dykke, flyte, gli, skape framdrift, hoppe uti og orientere seg i vann",
+              "en": "play and perform basic exercises to get accustomed to water, such as to dive, float, glide, move through the water and jump into and orient oneself in water"
+            },
+            "coreElements": [
+              "Bevegelse og kroppsleg læring"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM2064",
+            "text": {
+              "local": "forstå og praktisere enkle regler for samspill i ulike bevegelsesaktiviteter",
+              "en": "understand and follow simple rules for interaction in various movement activities"
+            },
+            "coreElements": [
+              "Deltaking og samspel i bevegelsesaktivitetar"
+            ],
+            "verbs": [
+              "Forstå"
+            ]
+          },
+          {
+            "code": "KM2065",
+            "text": {
+              "local": "utforske naturen i nærmiljøet med varierte aktiviteter til ulike årstider",
+              "en": "explore nature in the local environment with a variety of activities in each of the seasons"
+            },
+            "coreElements": [
+              "Uteaktivitetar og naturferdsel"
+            ],
+            "verbs": [
+              "Utforske"
+            ]
+          },
+          {
+            "code": "KM2066",
+            "text": {
+              "local": "forstå og praktisere turregler og bruke klær etter vær og forhold i naturen",
+              "en": "understand and follow rules for hiking and wear the proper clothing according to the weather and outdoor conditions"
+            },
+            "coreElements": [
+              "Uteaktivitetar og naturferdsel"
+            ],
+            "verbs": [
+              "Forstå",
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM2067",
+            "text": {
+              "local": "øve på trygg ferdsel i trafikken",
+              "en": "practise safe behaviour in traffic"
+            },
+            "coreElements": [
+              "Uteaktivitetar og naturferdsel"
+            ],
+            "verbs": [
+              "Øve"
+            ]
+          },
+          {
+            "code": "KM2068",
+            "text": {
+              "local": "øve på trygg ferdsel ved vann og på å tilkalle hjelp",
+              "en": "practise safe behaviour when in the water and practise how to call for help"
+            },
+            "coreElements": [
+              "Uteaktivitetar og naturferdsel"
+            ],
+            "verbs": [
+              "Øve"
+            ]
+          }
+        ]
+      },
+      {
+        "afterGrade": 4,
+        "label": {
+          "local": "Kompetansemål og vurdering 4. trinn",
+          "en": "Competence aims and assessment Year 4"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM2069",
+            "text": {
+              "local": "utforske og gjennomføre leker, idrettsaktiviteter, danser og andre bevegelsesaktiviteter",
+              "en": "explore and play games, take part in sports activities, dancing and other movement activities"
+            },
+            "coreElements": [
+              "Deltaking og samspel i bevegelsesaktivitetar"
+            ],
+            "verbs": [
+              "Utforske",
+              "Gjennomføre"
+            ]
+          },
+          {
+            "code": "KM2070",
+            "text": {
+              "local": "bruke kroppen til å utforske aktiviteter og utvikle grunnleggende bevegelser",
+              "en": "use one's body to explore activities and develop basic movements"
+            },
+            "coreElements": [
+              "Bevegelse og kroppsleg læring"
+            ],
+            "verbs": [
+              "Utforske",
+              "Utvikle",
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM2071",
+            "text": {
+              "local": "øve på og bruke basisferdigheter som å føre, kaste, sprette, sparke og ta imot ball i ulike bevegelsesaktiviteter",
+              "en": "practise and use basic skills, such as running with, throwing, bouncing, kicking and catching a ball in various movement activities"
+            },
+            "coreElements": [
+              "Bevegelse og kroppsleg læring"
+            ],
+            "verbs": [
+              "Bruke",
+              "Øve"
+            ]
+          },
+          {
+            "code": "KM2072",
+            "text": {
+              "local": "være svømmedyktig ved å falle uti på dypt vann, svømme 100 meter på magen, og underveis dykke ned og hente en gjenstand med hendene, stoppe og hvile i 3 minutter (og samtidig flyte på magen, orientere seg, rulle over og flyte på ryggen), og deretter svømme 100 meter på rygg og ta seg opp på land",
+              "en": "show the ability to swim by falling into deep water, front stroke swimming 100 m, during which the pupil dives down and picks up an object with his or her hands, stopping and resting for three minutes (while keeping afloat on one's stomach, orienting oneself, rolling over, floating on one’s back), then swimming 100 m backstroke, and climbing ashore"
+            },
+            "coreElements": [
+              "Bevegelse og kroppsleg læring"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM2073",
+            "text": {
+              "local": "forstå og bruke regler for samhandling i spill og bevegelsesaktiviteter",
+              "en": "understand and follow rules for interaction in games and movement activities"
+            },
+            "coreElements": [
+              "Deltaking og samspel i bevegelsesaktivitetar"
+            ],
+            "verbs": [
+              "Forstå",
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM2074",
+            "text": {
+              "local": "forstå kroppslig ulikhet mellom seg selv og andre, og inkludere andre i ulike bevegelsesaktiviteter",
+              "en": "understand how one’s own body and others’ bodies are different, and include others in different movement activities"
+            },
+            "coreElements": [
+              "Deltaking og samspel i bevegelsesaktivitetar"
+            ],
+            "verbs": [
+              "Forstå"
+            ]
+          },
+          {
+            "code": "KM2075",
+            "text": {
+              "local": "utforske uteaktiviteter og samarbeide med andre under vekslende årstider i nærmiljøet",
+              "en": "explore outdoor activities and cooperate with others during the different seasons in the local environment"
+            },
+            "coreElements": [
+              "Deltaking og samspel i bevegelsesaktivitetar",
+              "Uteaktivitetar og naturferdsel"
+            ],
+            "verbs": [
+              "Utforske",
+              "Samarbeide"
+            ]
+          },
+          {
+            "code": "KM2076",
+            "text": {
+              "local": "lage og bruke kart for å orientere seg i kjent terreng",
+              "en": "make and use maps to orient oneself in familiar terrain"
+            },
+            "coreElements": [
+              "Uteaktivitetar og naturferdsel"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM2077",
+            "text": {
+              "local": "øve på trygg og sporløs ferdsel i naturen",
+              "en": "practise safe and sustainable nature wandering"
+            },
+            "coreElements": [
+              "Uteaktivitetar og naturferdsel"
+            ],
+            "verbs": [
+              "Øve"
+            ]
+          },
+          {
+            "code": "KM2078",
+            "text": {
+              "local": "forstå og følge regler i trafikken",
+              "en": "understand and follow traffic rules"
+            },
+            "coreElements": [],
+            "verbs": [
+              "Forstå"
+            ]
+          }
+        ]
+      },
+      {
+        "afterGrade": 7,
+        "label": {
+          "local": "Kompetansemål og vurdering 7. trinn",
+          "en": "Competence aims and assessment Year 7"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM2079",
+            "text": {
+              "local": "utforske og gjennomføre lek og spill sammen med andre i ulike bevegelsesaktiviteter",
+              "en": "explore, play and play games, and play together with others in various movement activities"
+            },
+            "coreElements": [
+              "Deltaking og samspel i bevegelsesaktivitetar"
+            ],
+            "verbs": [
+              "Utforske",
+              "Gjennomføre"
+            ]
+          },
+          {
+            "code": "KM2080",
+            "text": {
+              "local": "øve på sammensatte bevegelser, alene og sammen med andre",
+              "en": "practise complex movements, alone and together with others"
+            },
+            "coreElements": [
+              "Bevegelse og kroppsleg læring",
+              "Deltaking og samspel i bevegelsesaktivitetar"
+            ],
+            "verbs": [
+              "Øve"
+            ]
+          },
+          {
+            "code": "KM2081",
+            "text": {
+              "local": "gjennomføre aktiviteter ut fra egne interesser og forutsetninger i dans, friluftsliv, idrettsaktiviteter og andre bevegelsesaktiviteter",
+              "en": "take part in activities according to one’s own interests and abilities in dancing, outdoor life, sports activities and other movement activities"
+            },
+            "coreElements": [
+              "Bevegelse og kroppsleg læring"
+            ],
+            "verbs": [
+              "Gjennomføre"
+            ]
+          },
+          {
+            "code": "KM2082",
+            "text": {
+              "local": "bruke kart, digitale verktøy og tegn i naturen til å orientere seg i natur og nærmiljø",
+              "en": "use maps, digital tools and signs in nature to orient oneself in nature and the local environment"
+            },
+            "coreElements": [
+              "Uteaktivitetar og naturferdsel"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM2083",
+            "text": {
+              "local": "forstå og praktisere regler for aktivitet og spill og respektere resultatene",
+              "en": "understand and follow the rules for activities and games and respect the results"
+            },
+            "coreElements": [
+              "Deltaking og samspel i bevegelsesaktivitetar"
+            ],
+            "verbs": [
+              "Forstå"
+            ]
+          },
+          {
+            "code": "KM2084",
+            "text": {
+              "local": "forstå ulikheter mellom seg selv og andre og delta i bevegelsesaktiviteter som kan være tilpasset ikke bare egne forutsetninger, men også andres",
+              "en": "understand the differences between oneself and others and participate in movement activities that may be adapted to the abilities of others, not only one's personal preferences"
+            },
+            "coreElements": [
+              "Deltaking og samspel i bevegelsesaktivitetar"
+            ],
+            "verbs": [
+              "Forstå"
+            ]
+          },
+          {
+            "code": "KM2085",
+            "text": {
+              "local": "utføre grunnleggende teknikker i svømming på magen, på ryggen og under vann",
+              "en": "perform basic techniques in front stoke swimming, backstroke swimming and swimming under water"
+            },
+            "coreElements": [
+              "Bevegelse og kroppsleg læring"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM2086",
+            "text": {
+              "local": "vurdere sikkerhet i uteaktivitet og naturferdsel og gjennomføre selvberging i vann",
+              "en": "assess the safety of outdoor activities and nature wandering and learn self-rescue in water"
+            },
+            "coreElements": [
+              "Uteaktivitetar og naturferdsel"
+            ],
+            "verbs": [
+              "Vurdere",
+              "Gjennomføre"
+            ]
+          },
+          {
+            "code": "KM2059",
+            "text": {
+              "local": "bruke nærmiljøet og utforske lokale kulturer for friluftsliv",
+              "en": "use the local environment and explore local outdoor life cultures"
+            },
+            "coreElements": [
+              "Uteaktivitetar og naturferdsel"
+            ],
+            "verbs": [
+              "Utforske",
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM2058",
+            "text": {
+              "local": "gjøre rede for allemannsretten under ferdsel og opphold i naturen",
+              "en": "explain the public right of access in nature and behaviour in nature"
+            },
+            "coreElements": [
+              "Uteaktivitetar og naturferdsel"
+            ],
+            "verbs": [
+              "Gjøre rede for"
+            ]
+          },
+          {
+            "code": "KM2057",
+            "text": {
+              "local": "gjennomføre overnattingstur og reflektere over egne naturopplevelser",
+              "en": "go on overnight trips and reflect on one’s own experiences of nature"
+            },
+            "coreElements": [
+              "Uteaktivitetar og naturferdsel"
+            ],
+            "verbs": [
+              "Reflektere",
+              "Gjennomføre"
+            ]
+          }
+        ]
+      },
+      {
+        "afterGrade": 10,
+        "label": {
+          "local": "Kompetansemål og vurdering 10. trinn",
+          "en": "Competence aims and assessment Year 10"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM2042",
+            "text": {
+              "local": "utforske egne muligheter til trening, helse og velvære gjennom lek, dans, friluftsliv, idrettsaktiviteter og andre bevegelsesaktiviteter",
+              "en": "explore one’s own opportunities for exercising, health and well-being through play, dancing, outdoor life, sports activities and other movement activities"
+            },
+            "coreElements": [
+              "Bevegelse og kroppsleg læring",
+              "Deltaking og samspel i bevegelsesaktivitetar"
+            ],
+            "verbs": [
+              "Utforske"
+            ]
+          },
+          {
+            "code": "KM2030",
+            "text": {
+              "local": "trene på og utvikle ferdigheter i varierte bevegelsesaktiviteter",
+              "en": "exercise and develop skills in a variety of movement activities"
+            },
+            "coreElements": [
+              "Bevegelse og kroppsleg læring"
+            ],
+            "verbs": [
+              "Utvikle",
+              "Trene"
+            ]
+          },
+          {
+            "code": "KM2031",
+            "text": {
+              "local": "øve på og gjennomføre danseaktiviteter fra ungdomskulturer og andre kulturer, og sammen med medelever skape og presentere dansekomposisjoner",
+              "en": "practise and carry out dance activities from youth cultures and other cultures, and together with co-pupils create and present dance compositions"
+            },
+            "coreElements": [
+              "Deltaking og samspel i bevegelsesaktivitetar"
+            ],
+            "verbs": [
+              "Gjennomføre",
+              "Presentere",
+              "Øve"
+            ]
+          },
+          {
+            "code": "KM2032",
+            "text": {
+              "local": "reflektere over hvordan ulike framstillinger av kropp i media og samfunnet påvirker bevegelsesaktivitet, kroppsidentitet og selvbilde",
+              "en": "reflect on how different presentations of the body in media and society affect movement activity, and how the pupil sees his or her body and self-image"
+            },
+            "coreElements": [
+              "Bevegelse og kroppsleg læring"
+            ],
+            "verbs": [
+              "Reflektere"
+            ]
+          },
+          {
+            "code": "KM2033",
+            "text": {
+              "local": "planlegge og gjennomføre bevegelsesaktiviteter som kan gjennomføres ved skader eller sykdom",
+              "en": "plan and perform movement activities that can be carried out in the case of injury or illness"
+            },
+            "coreElements": [
+              "Bevegelse og kroppsleg læring"
+            ],
+            "verbs": [
+              "Gjennomføre",
+              "Planlegge"
+            ]
+          },
+          {
+            "code": "KM2034",
+            "text": {
+              "local": "bruke egne ferdigheter og kunnskaper på en slik måte at det kan medvirke til framgang for andre",
+              "en": "use one’s own skills and knowledge in a way that might help others to have progress"
+            },
+            "coreElements": [
+              "Bevegelse og kroppsleg læring",
+              "Deltaking og samspel i bevegelsesaktivitetar"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM2035",
+            "text": {
+              "local": "anerkjenne ulikhet mellom seg selv og andre i bevegelsesaktiviteter og inkludere alle, uavhengig av forutsetninger",
+              "en": "recognise differences between oneself and others in movement activities and include everyone, regardless background and abilities"
+            },
+            "coreElements": [
+              "Deltaking og samspel i bevegelsesaktivitetar"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM2036",
+            "text": {
+              "local": "forstå flere typer kart og digitale verktøy og bruke dem til å orientere seg i kjente og ukjente miljøer",
+              "en": "understand the use of several types of maps and digital tools and use them to orient oneself in familiar and unfamiliar terrain"
+            },
+            "coreElements": [
+              "Uteaktivitetar og naturferdsel"
+            ],
+            "verbs": [
+              "Forstå",
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM2040",
+            "text": {
+              "local": "utføre varierte svømmeteknikker og svømme en lengre distanse basert på egen målsetting",
+              "en": "perform a variety of swimming techniques and be able to swim a long distance based on one’s own goals"
+            },
+            "coreElements": [],
+            "verbs": []
+          },
+          {
+            "code": "KM2037",
+            "text": {
+              "local": "forstå og gjennomføre livredning i, på og ved vann ute i naturen",
+              "en": "understand and perform lifesaving in, on and by water out in nature"
+            },
+            "coreElements": [
+              "Uteaktivitetar og naturferdsel"
+            ],
+            "verbs": [
+              "Gjennomføre",
+              "Forstå"
+            ]
+          },
+          {
+            "code": "KM2041",
+            "text": {
+              "local": "forstå og gjennomføre livreddende førstehjelp",
+              "en": "understand and perform lifesaving first aid"
+            },
+            "coreElements": [],
+            "verbs": [
+              "Gjennomføre",
+              "Forstå"
+            ]
+          },
+          {
+            "code": "KM2038",
+            "text": {
+              "local": "gjennomføre friluftslivsaktiviteter til ulike årstider, også med overnatting ute, og reflektere over hva naturopplevelser kan bety for seg selv og andre",
+              "en": "practise outdoor life in all the seasons, including camping out, and reflect on what experiences in nature may mean for oneself and others"
+            },
+            "coreElements": [
+              "Deltaking og samspel i bevegelsesaktivitetar",
+              "Uteaktivitetar og naturferdsel"
+            ],
+            "verbs": [
+              "Reflektere",
+              "Gjennomføre"
+            ]
+          },
+          {
+            "code": "KM2039",
+            "text": {
+              "local": "vurdere risiko og sikkerhet ved ulike uteaktiviteter, og forstå og gjennomføre sporløs og trygg ferdsel",
+              "en": "assess the risk and safety of a variety of outdoor activities, understand and carry out sustainable and safe nature wandering"
+            },
+            "coreElements": [
+              "Uteaktivitetar og naturferdsel"
+            ],
+            "verbs": [
+              "Vurdere",
+              "Gjennomføre",
+              "Forstå"
+            ]
+          }
+        ]
+      },
+      {
+        "afterGrade": 11,
+        "label": {
+          "local": "Kompetansemål og vurdering vg1",
+          "en": "Competence aims and assessment vg1"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM2043",
+            "text": {
+              "local": "trene på og skape nye varianter av lek, bevegelsesaktivitet og dans sammen med andre",
+              "en": "exercise and create new varieties of play, movement activities and dance with others"
+            },
+            "coreElements": [
+              "Bevegelse og kroppsleg læring",
+              "Deltaking og samspel i bevegelsesaktivitetar"
+            ],
+            "verbs": [
+              "Trene"
+            ]
+          },
+          {
+            "code": "KM2056",
+            "text": {
+              "local": "planlegge og gjennomføre metoder for øvelse og trening for å oppnå individuelle mål, også når man ikke fullt ut kan delta i aktiviteten",
+              "en": "plan and follow methods for practising and exercising to achieve individual goals, including when one is not fully able to participate in the activity"
+            },
+            "coreElements": [
+              "Bevegelse og kroppsleg læring"
+            ],
+            "verbs": [
+              "Gjennomføre",
+              "Planlegge"
+            ]
+          },
+          {
+            "code": "KM2044",
+            "text": {
+              "local": "bruke egne ferdigheter og kunnskaper til å samarbeide og bidra til å gjøre andre gode i aktivitet og samspill",
+              "en": "use one’s own skills and knowledge to cooperate with others and contribute to making others good in activities and interaction"
+            },
+            "coreElements": [
+              "Deltaking og samspel i bevegelsesaktivitetar"
+            ],
+            "verbs": [
+              "Samarbeide",
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM2045",
+            "text": {
+              "local": "forebygge skader ved bevegelsesaktiviteter og utføre grunnleggende førstehjelp",
+              "en": "prevent injury in movement activities and perform basic first aid"
+            },
+            "coreElements": [
+              "Uteaktivitetar og naturferdsel"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM2046",
+            "text": {
+              "local": "bruke kart og digitale verktøy på en måte som sikrer trygg ferdsel for seg selv og for andre",
+              "en": "use maps and digital tools in a way that ensures safe nature wandering for oneself and others"
+            },
+            "coreElements": [
+              "Uteaktivitetar og naturferdsel"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM2047",
+            "text": {
+              "local": "bruke lokale tradisjoner for ferdsel i naturen under vekslende årstider",
+              "en": "use local traditions in nature wandering during all four seasons"
+            },
+            "coreElements": [
+              "Uteaktivitetar og naturferdsel"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
+          }
+        ]
+      },
+      {
+        "afterGrade": 12,
+        "label": {
+          "local": "Kompetansemål og vurdering vg2",
+          "en": "Competence aims and assessment vg2"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM2048",
+            "text": {
+              "local": "gjennomføre leker, idrettsaktiviteter og andre bevegelsesaktiviteter og forstå hvordan ulike aktiviteter påvirker og utvikler koordinasjon, styrke, utholdenhet og bevegelighet",
+              "en": "take part in games, sports activities and other movement activities and understand how different activities affect and develop coordination, strength, stamina and mobility"
+            },
+            "coreElements": [
+              "Bevegelse og kroppsleg læring"
+            ],
+            "verbs": [
+              "Gjennomføre",
+              "Forstå"
+            ]
+          },
+          {
+            "code": "KM2049",
+            "text": {
+              "local": "utføre trening på egen hånd og reflektere over hvordan fysisk aktivitet kan fremme god psykisk og fysisk helse og bidra til en helsefremmende livsstil etter avsluttet skolegang og i framtidig arbeidsliv",
+              "en": "exercise alone and reflect on how physical activity can promote good physical and mental health and contribute to a health-promoting lifestyle after completing school and in one’s future working life"
+            },
+            "coreElements": [
+              "Bevegelse og kroppsleg læring"
+            ],
+            "verbs": [
+              "Reflektere"
+            ]
+          },
+          {
+            "code": "KM2050",
+            "text": {
+              "local": "praktisere regler for å delta i ulike bevegelsesaktiviteter og medvirke til læring for andre",
+              "en": "follow rules for participating in different movement activities and contribute to learning for others"
+            },
+            "coreElements": [
+              "Deltaking og samspel i bevegelsesaktivitetar"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM2051",
+            "text": {
+              "local": "planlegge og gjennomføre uteaktiviteter til ulike årstider, der formålet er å ha gode naturopplevelser",
+              "en": "plan and carry out activities in outdoor life during the different seasons where the purpose is to have good experiences in nature"
+            },
+            "coreElements": [
+              "Uteaktivitetar og naturferdsel"
+            ],
+            "verbs": [
+              "Gjennomføre",
+              "Planlegge"
+            ]
+          },
+          {
+            "code": "KM2052",
+            "text": {
+              "local": "praktisere bærekraftig ferdsel i naturen og gjennomføre friluftslivsaktiviteter i nærområdet",
+              "en": "have a sustainable approach to nature wandering and find ways of practising outdoor life in the local area"
+            },
+            "coreElements": [
+              "Uteaktivitetar og naturferdsel"
+            ],
+            "verbs": [
+              "Gjennomføre"
+            ]
+          }
+        ]
+      },
+      {
+        "afterGrade": 13,
+        "label": {
+          "local": "Kompetansemål og vurdering vg3",
+          "en": "Competence aims and assessment vg3"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM2053",
+            "text": {
+              "local": "øve på og utvikle kunnskaper og ferdigheter i ulike bevegelsesaktiviteter ut fra egne forutsetninger",
+              "en": "practise and develop knowledge and skills in different movement activities based on one’s own background and abilities"
+            },
+            "coreElements": [
+              "Bevegelse og kroppsleg læring",
+              "Deltaking og samspel i bevegelsesaktivitetar"
+            ],
+            "verbs": [
+              "Utvikle",
+              "Øve"
+            ]
+          },
+          {
+            "code": "KM2054",
+            "text": {
+              "local": "planlegge, gjennomføre og vurdere egentrening og forklare hvordan dette kan medvirke til en fysisk aktiv og helsefremmende livsstil etter avsluttet skolegang",
+              "en": "plan, carry out and assess one's own exercising and explain how this may contribute to a physically active and health-promoting lifestyle after completing school"
+            },
+            "coreElements": [
+              "Bevegelse og kroppsleg læring"
+            ],
+            "verbs": [
+              "Vurdere",
+              "Gjennomføre",
+              "Planlegge"
+            ]
+          },
+          {
+            "code": "KM2055",
+            "text": {
+              "local": "beskrive og drøfte sammenhenger mellom bevegelse, kropp, trening og helse i samfunnet",
+              "en": "describe and discuss relationships between movement, body, exercise and health in society"
+            },
+            "coreElements": [
+              "Bevegelse og kroppsleg læring"
+            ],
+            "verbs": [
+              "Drøfte",
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM2087",
+            "text": {
+              "local": "samarbeide om å løse praktiske oppgaver i et læringsfellesskap og ut fra øvelse og aktivitet reflektere over hvordan egen medvirkning kan påvirke andre",
+              "en": "collaborate on solving practical tasks in a common learning community, and based on practising and activity, reflect on how one's own participation may affect others"
+            },
+            "coreElements": [
+              "Deltaking og samspel i bevegelsesaktivitetar"
+            ],
+            "verbs": [
+              "Samarbeide",
+              "Reflektere"
+            ]
+          },
+          {
+            "code": "KM2088",
+            "text": {
+              "local": "planlegge og gjennomføre uteaktiviteter og friluftslivsaktiviteter i nærområdet",
+              "en": "plan and carry out outdoor activities and outdoor life in the local area"
+            },
+            "coreElements": [
+              "Uteaktivitetar og naturferdsel"
+            ],
+            "verbs": [
+              "Gjennomføre",
+              "Planlegge"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

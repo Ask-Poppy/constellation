@@ -1,0 +1,66 @@
+{
+  "country": {
+    "code": "NO",
+    "name": {
+      "local": "Norge",
+      "en": "Norway"
+    }
+  },
+  "system": {
+    "curriculum": "Kunnskapsløftet 2020 (LK20)",
+    "compulsoryGrades": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "stages": [
+      {
+        "name": {
+          "local": "Barneskole",
+          "en": "Primary"
+        },
+        "grades": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "name": {
+          "local": "Ungdomsskole",
+          "en": "Lower secondary"
+        },
+        "grades": [
+          8,
+          9,
+          10
+        ]
+      }
+    ],
+    "competenceGoalCheckpoints": [
+      2,
+      4,
+      7,
+      10
+    ],
+    "gradingSystem": "No grades in primary (1-7). Grades 1-6 in lower secondary (8-10)."
+  },
+  "source": {
+    "authority": "Utdanningsdirektoratet (UDIR)",
+    "api": "https://data.udir.no/kl06/v201906/",
+    "website": "https://www.udir.no/lk20/",
+    "license": "NLOD (Norwegian Licence for Open Government Data)",
+    "lastSynced": "2026-03-02T21:21:24Z"
+  }
+}

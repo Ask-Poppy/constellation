@@ -1,0 +1,410 @@
+{
+  "country": "norway",
+  "source": {
+    "api": "https://data.udir.no/kl06/v201906/laereplaner-lk20/MHE01-02",
+    "curriculum": "LK20",
+    "license": "NLOD",
+    "lastSynced": "2026-03-02T21:21:24Z"
+  },
+  "subject": {
+    "code": "MHE01-02",
+    "name": {
+      "local": "Læreplan i mat og helse",
+      "en": "Curriculum for Food and Health"
+    },
+    "coreElements": [],
+    "gradeBands": [
+      {
+        "afterGrade": 4,
+        "label": {
+          "local": "Kompetansemål og vurdering 4. trinn",
+          "en": "Competence aims and assessment Year 4"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM1760",
+            "text": {
+              "local": "følge prinsipper for god hygiene i forbindelse med matlaging",
+              "en": "follow the principles of food hygiene when cooking"
+            },
+            "coreElements": [
+              "Helsefremjande kosthald"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1780",
+            "text": {
+              "local": "bruke redskaper, rom- og vektmål og enkle teknikker i forbindelse med matlaging",
+              "en": "use utensils, simple cooking techniques, and mass and volume measurements"
+            },
+            "coreElements": [
+              "Helsefremjande kosthald",
+              "Berekraftige matvanar og berekraftig forbruk"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM1779",
+            "text": {
+              "local": "kjenne igjen smaker i mat og undre seg over hvorfor smak er noe vi opplever ulikt",
+              "en": "recognise flavours in foods and question why we taste them differently"
+            },
+            "coreElements": [
+              "Helsefremjande kosthald",
+              "Mat og måltid som identitets- og kulturuttrykk"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1778",
+            "text": {
+              "local": "fortelle om hva som kjennetegner sunn og variert mat, og hvorfor det er viktig for helsen",
+              "en": "describe the characteristics of healthy and a wide variety of food and why they are important to health"
+            },
+            "coreElements": [
+              "Helsefremjande kosthald"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1784",
+            "text": {
+              "local": "utnytte lokale matvarer i matlaging og presentere leddene i produksjonskjeden fra råvare til måltid",
+              "en": "utilise local foods in cooking and present the parts of the supply chain from raw ingredients to meals"
+            },
+            "coreElements": [
+              "Berekraftige matvanar og berekraftig forbruk"
+            ],
+            "verbs": [
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM1783",
+            "text": {
+              "local": "sortere avfall i forbindelse med matlaging og forklare hvorfor det er viktig å gjøre det",
+              "en": "sort food waste and explain why it is important"
+            },
+            "coreElements": [
+              "Berekraftige matvanar og berekraftig forbruk"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1782",
+            "text": {
+              "local": "lage enkle måltider og bidra til å skape en trivelig ramme rundt måltider sammen med andre",
+              "en": "create simple meals and help create a pleasant frame around meals with others"
+            },
+            "coreElements": [
+              "Helsefremjande kosthald",
+              "Mat og måltid som identitets- og kulturuttrykk"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1777",
+            "text": {
+              "local": "samtale om måltidsskikker fra norsk og samisk kultur og fra andre kulturer, og om verdien av å spise sammen med andre",
+              "en": "talk about food customs in Norway, Samiland and other cultures and the value of eating with others"
+            },
+            "coreElements": [
+              "Helsefremjande kosthald",
+              "Mat og måltid som identitets- og kulturuttrykk"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1781",
+            "text": {
+              "local": "samtale om hvordan skolemåltidet kan bidra til en god skolehverdag",
+              "en": "talk about how school meals may contribute to having a good day at school"
+            },
+            "coreElements": [
+              "Helsefremjande kosthald",
+              "Mat og måltid som identitets- og kulturuttrykk"
+            ],
+            "verbs": []
+          }
+        ]
+      },
+      {
+        "afterGrade": 7,
+        "label": {
+          "local": "Kompetansemål og vurdering 7. trinn",
+          "en": "Competence aims and assessment Year 7"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM1776",
+            "text": {
+              "local": "bruke redskaper, grunnleggende teknikker og matlagingsmetoder til å lage trygg og bærekraftig mat som gir grunnlag for god helse",
+              "en": "to use utensils, basic techniques and cooking methods to make safe and sustainable food that lays the foundation for good health"
+            },
+            "coreElements": [
+              "Helsefremjande kosthald",
+              "Berekraftige matvanar og berekraftig forbruk"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM1767",
+            "text": {
+              "local": "bruke sansene til å utforske og vurdere matens smak og tekstur og til å utforske anretning av mat",
+              "en": "use their senses to explore and assess the flavour of food and texture, and explore food preparation"
+            },
+            "coreElements": [
+              "Helsefremjande kosthald"
+            ],
+            "verbs": [
+              "Utforske",
+              "Vurdere",
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM1774",
+            "text": {
+              "local": "kjenne igjen og gjøre rede for grunnsmaker i matvarer og fortelle om og diskutere hvordan smak kan påvirke matpreferanser og matvalg",
+              "en": "recognise and describe the basic flavours in foods, and explain and discuss how flavours can affect food preferences and food choices"
+            },
+            "coreElements": [
+              "Helsefremjande kosthald"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1775",
+            "text": {
+              "local": "bruke oppskrifter i matlaging og regne ut og vurdere mengden i porsjonene både med og uten bruk av digitale ressurser",
+              "en": "use recipes in cooking and calculate and assess the volume of portions both with and without using digital resources"
+            },
+            "coreElements": [
+              "Helsefremjande kosthald",
+              "Berekraftige matvanar og berekraftig forbruk"
+            ],
+            "verbs": [
+              "Vurdere",
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM1785",
+            "text": {
+              "local": "vise sammenhenger mellom matvaregrupper og næringsstoffer som er viktige for god helse",
+              "en": "demonstrate the relationship between food groups and nutrients important for good health"
+            },
+            "coreElements": [
+              "Helsefremjande kosthald"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1773",
+            "text": {
+              "local": "bruke matmerking og kostmodeller til å sette sammen et sunt, variert og bærekraftig kosthold og reflektere over valgene sine",
+              "en": "use food labelling and dietary models to put together a healthy, varied and sustainable diet and reflect on their choices"
+            },
+            "coreElements": [
+              "Helsefremjande kosthald",
+              "Berekraftige matvanar og berekraftig forbruk"
+            ],
+            "verbs": [
+              "Reflektere",
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM1771",
+            "text": {
+              "local": "bruke digitale ressurser til å sammenligne og drøfte produktinformasjon og reklame i ulike medier",
+              "en": "use digital resources to compare and discuss product information and advertisements in various media"
+            },
+            "coreElements": [
+              "Helsefremjande kosthald",
+              "Berekraftige matvanar og berekraftig forbruk"
+            ],
+            "verbs": [
+              "Sammenligne",
+              "Drøfte",
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM1770",
+            "text": {
+              "local": "utnytte matvarer og rester fra matlaging og reflektere over eget matforbruk",
+              "en": "use food and leftovers, and reflect on their own food consumption"
+            },
+            "coreElements": [
+              "Berekraftige matvanar og berekraftig forbruk"
+            ],
+            "verbs": [
+              "Reflektere"
+            ]
+          },
+          {
+            "code": "KM1769",
+            "text": {
+              "local": "utforske og presentere tradisjonelle norske og samiske metoder for å konservere mat og fortelle om råvarene som blir konservert",
+              "en": "explore and present traditional Norwegian and Sami food preservation methods and talk about the raw ingredients that are preserved"
+            },
+            "coreElements": [
+              "Berekraftige matvanar og berekraftig forbruk",
+              "Mat og måltid som identitets- og kulturuttrykk"
+            ],
+            "verbs": [
+              "Utforske",
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM1768",
+            "text": {
+              "local": "lage måltider fra ulike kulturer og fortelle om og utforske hvordan sosialt fellesskap og samhandling kan være med på å styrke god helse",
+              "en": "make meals from different cultures, and describe and explore how a social community and interaction may contribute to improved health"
+            },
+            "coreElements": [
+              "Helsefremjande kosthald",
+              "Mat og måltid som identitets- og kulturuttrykk"
+            ],
+            "verbs": [
+              "Utforske"
+            ]
+          }
+        ]
+      },
+      {
+        "afterGrade": 10,
+        "label": {
+          "local": "Kompetansemål og vurdering 10. trinn",
+          "en": "Competence aims and assessment Year 10"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM1766",
+            "text": {
+              "local": "planlegge og bruke egnede redskaper, teknikker og matlagingsmetoder til å lage trygg og bærekraftig mat som gir grunnlag for god helse",
+              "en": "plan and use suitable utensils, techniques and cooking methods to create safe and sustainable food that lays the foundation for good health"
+            },
+            "coreElements": [
+              "Helsefremjande kosthald",
+              "Berekraftige matvanar og berekraftig forbruk"
+            ],
+            "verbs": [
+              "Planlegge",
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM1765",
+            "text": {
+              "local": "bruke sansene til å vurdere kvaliteten på matvarer, utforske og kombinere smaker i matlagingen og forbedre oppskrifter, menyer og anretning av mat",
+              "en": "use their senses to assess the quality of foods, explore and combine flavours in cooking and improve recipes, menus and food preparation"
+            },
+            "coreElements": [
+              "Helsefremjande kosthald",
+              "Berekraftige matvanar og berekraftig forbruk",
+              "Mat og måltid som identitets- og kulturuttrykk"
+            ],
+            "verbs": [
+              "Utforske",
+              "Vurdere",
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM1764",
+            "text": {
+              "local": "drøfte hvordan kosthold kan bidra til god helse, og bruke digitale ressurser til å vurdere eget kosthold og til å velge sunne og varierte matvarer i forbindelse med matlaging",
+              "en": "discuss how diet may contribute to good health, and use digital resources to assess their own diet and to choose healthy and a variety of different foods when cooking"
+            },
+            "coreElements": [
+              "Helsefremjande kosthald",
+              "Berekraftige matvanar og berekraftig forbruk"
+            ],
+            "verbs": [
+              "Vurdere",
+              "Drøfte",
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM1763",
+            "text": {
+              "local": "gjøre rede for og kritisk vurdere påstander, råd og informasjon om kosthold og helse",
+              "en": "describe and critically assess claims, advice and information about diet and health"
+            },
+            "coreElements": [
+              "Helsefremjande kosthald"
+            ],
+            "verbs": [
+              "Vurdere",
+              "Gjøre rede for"
+            ]
+          },
+          {
+            "code": "KM1762",
+            "text": {
+              "local": "kritisk vurdere informasjon om matproduksjon og drøfte hvordan forbrukermakt kan påvirke lokal og global matproduksjon",
+              "en": "critically assess information about food production and discuss how consumer power can impact local and global food production"
+            },
+            "coreElements": [
+              "Berekraftige matvanar og berekraftig forbruk"
+            ],
+            "verbs": [
+              "Vurdere",
+              "Drøfte"
+            ]
+          },
+          {
+            "code": "KM1761",
+            "text": {
+              "local": "utforske klimaavtrykket til matvarer og gjøre rede for hvordan matvalg og matforbruk kan påvirke miljøet, klimaet og matsikkerheten",
+              "en": "explore the carbon footprint of foods, and describe how food choices and food consumption may impact the environment, climate and food safety"
+            },
+            "coreElements": [
+              "Helsefremjande kosthald",
+              "Berekraftige matvanar og berekraftig forbruk"
+            ],
+            "verbs": [
+              "Utforske",
+              "Gjøre rede for"
+            ]
+          },
+          {
+            "code": "KM1772",
+            "text": {
+              "local": "lage mat fra norsk og samisk kultur og fra andre kulturer og sammenligne og utforske råvarer og matlagingsmetoder som brukes i ulike matkulturer",
+              "en": "make food from Norway, Samiland and other cultures, and compare and explore raw ingredients and cooking methods used in different food cultures"
+            },
+            "coreElements": [
+              "Berekraftige matvanar og berekraftig forbruk",
+              "Mat og måltid som identitets- og kulturuttrykk"
+            ],
+            "verbs": [
+              "Sammenligne",
+              "Utforske"
+            ]
+          },
+          {
+            "code": "KM1786",
+            "text": {
+              "local": "vise gjennom matlaging og måltider hvordan identitet og fellesskap blir formidlet i ulike kulturer",
+              "en": "demonstrate how cooking and meals convey identity and community in different cultures"
+            },
+            "coreElements": [
+              "Mat og måltid som identitets- og kulturuttrykk"
+            ],
+            "verbs": []
+          }
+        ]
+      }
+    ]
+  }
+}

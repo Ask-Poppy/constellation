@@ -1,0 +1,983 @@
+{
+  "country": "norway",
+  "source": {
+    "api": "https://data.udir.no/kl06/v201906/laereplaner-lk20/SAF01-04",
+    "curriculum": "LK20",
+    "license": "NLOD",
+    "lastSynced": "2026-03-02T21:20:16Z"
+  },
+  "subject": {
+    "code": "SAF01-04",
+    "name": {
+      "local": "Læreplan i samfunnsfag",
+      "en": "Curriculum for Social Studies"
+    },
+    "coreElements": [],
+    "gradeBands": [
+      {
+        "afterGrade": 2,
+        "label": {
+          "local": "Kompetansemål og vurdering 2. trinn",
+          "en": "Competence aims and assessment year 2"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM1653",
+            "text": {
+              "local": "utvikle og presentere samfunnsfaglige spørsmål",
+              "en": "develop and present social-studies issues"
+            },
+            "coreElements": [
+              "Undring og utforsking",
+              "Samfunnskritisk tenking og samanhengar"
+            ],
+            "verbs": [
+              "Utvikle",
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM1654",
+            "text": {
+              "local": "samtale om hvordan ulike kilder, inkludert kart, kan gi informasjon om samfunnsfaglige spørsmål",
+              "en": "talk about how different sources, including maps, can provide information about social-studies issues"
+            },
+            "coreElements": [
+              "Undring og utforsking",
+              "Samfunnskritisk tenking og samanhengar"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1655",
+            "text": {
+              "local": "utforske og beskrive kulturminner og kultur- og naturlandskapet i nærmiljøet",
+              "en": "explore and describe the cultural heritage and cultural and natural landscape of the local community"
+            },
+            "coreElements": [
+              "Samfunnskritisk tenking og samanhengar",
+              "Berekraftige samfunn"
+            ],
+            "verbs": [
+              "Utforske",
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM1656",
+            "text": {
+              "local": "utforske og presentere hvordan mennesker levde for én til to menneskealdre siden",
+              "en": "explore and present the ways in which people lived one to two generations ago"
+            },
+            "coreElements": [
+              "Samfunnskritisk tenking og samanhengar",
+              "Berekraftige samfunn",
+              "Identitetsutvikling og fellesskap"
+            ],
+            "verbs": [
+              "Utforske",
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM1657",
+            "text": {
+              "local": "reflektere over hvorfor mennesker har ulike meninger og tar ulike valg",
+              "en": "reflect on why people have different opinions and make different choices"
+            },
+            "coreElements": [
+              "Samfunnskritisk tenking og samanhengar",
+              "Demokratiforståing og deltaking",
+              "Identitetsutvikling og fellesskap"
+            ],
+            "verbs": [
+              "Reflektere"
+            ]
+          },
+          {
+            "code": "KM1658",
+            "text": {
+              "local": "samtale om vennskap, tilhørighet og hva som påvirker relasjoner",
+              "en": "talk about friendship and belonging and what can have an impact on relations"
+            },
+            "coreElements": [
+              "Identitetsutvikling og fellesskap"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1681",
+            "text": {
+              "local": "beskrive og gi eksempler på mangfold i Norge, med vekt på ulike familieformer og folkegrupper, inkludert det samiske urfolket",
+              "en": "describe and give examples of diversity in Norway, with an emphasis on different types of families and communities, including the indigenous Sami people"
+            },
+            "coreElements": [
+              "Demokratiforståing og deltaking",
+              "Identitetsutvikling og fellesskap"
+            ],
+            "verbs": [
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM1659",
+            "text": {
+              "local": "utforske og gi eksempler på hvordan mennesker påvirker klima og miljø, og dokumentere hvordan påvirkningene kommer til syne i nærmiljøet",
+              "en": "explore and give examples of how people have impact on the climate and the environment, and document how this can be seen in the local community"
+            },
+            "coreElements": [
+              "Undring og utforsking",
+              "Samfunnskritisk tenking og samanhengar",
+              "Berekraftige samfunn"
+            ],
+            "verbs": [
+              "Utforske",
+              "Dokumentere"
+            ]
+          },
+          {
+            "code": "KM1660",
+            "text": {
+              "local": "presentere og gi eksempler på rettigheter barn har i Norge og verden, og hva barn kan gjøre ved brudd på disse rettighetene",
+              "en": "present and give examples of children’s rights in Norway and in the world, and what children can do when these rights are violated"
+            },
+            "coreElements": [
+              "Samfunnskritisk tenking og samanhengar",
+              "Demokratiforståing og deltaking",
+              "Identitetsutvikling og fellesskap"
+            ],
+            "verbs": [
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM1661",
+            "text": {
+              "local": "utforske og gi eksempler på hvordan barn kan påvirke beslutninger og samarbeide om demokratiske prosesser",
+              "en": "explore and give examples of how children can have an effect on decisions and collaborate on democratic processes"
+            },
+            "coreElements": [
+              "Undring og utforsking",
+              "Samfunnskritisk tenking og samanhengar",
+              "Demokratiforståing og deltaking"
+            ],
+            "verbs": [
+              "Utforske",
+              "Samarbeide"
+            ]
+          },
+          {
+            "code": "KM1662",
+            "text": {
+              "local": "samtale om muligheter og utfordringer ved digital samhandling",
+              "en": "talk about the opportunities and challenges involved in digital interaction"
+            },
+            "coreElements": [
+              "Identitetsutvikling og fellesskap"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1663",
+            "text": {
+              "local": "samtale om følelser, kropp, kjønn og seksualitet og hvordan egne og andres grenser kan uttrykkes og respekteres",
+              "en": "talk about emotions, bodies, gender and sexuality and how both one’s own and other peoples’ boundaries can be expressed and respected"
+            },
+            "coreElements": [
+              "Identitetsutvikling og fellesskap"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1697",
+            "text": {
+              "local": "utforske og gi eksempler på hvordan mennesker i ulike deler av verden påvirker hverandres liv",
+              "en": "explore and give examples of how people in different parts of the world can have an impact on each other’s lives"
+            },
+            "coreElements": [
+              "Demokratiforståing og deltaking",
+              "Berekraftige samfunn",
+              "Identitetsutvikling og fellesskap"
+            ],
+            "verbs": [
+              "Utforske"
+            ]
+          }
+        ]
+      },
+      {
+        "afterGrade": 4,
+        "label": {
+          "local": "Kompetansemål og vurdering 4. trinn",
+          "en": "Competence aims and assessment year 4"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM1672",
+            "text": {
+              "local": "utforske og presentere samfunnsfaglige spørsmål, søke etter informasjon i ulike kilder og vurdere hvor nyttig informasjonen er til å belyse spørsmålene",
+              "en": "explore and present social-studies-related topics, search for information in various sources and assess how useful the information that is to inform about the topics"
+            },
+            "coreElements": [
+              "Undring og utforsking",
+              "Samfunnskritisk tenking og samanhengar"
+            ],
+            "verbs": [
+              "Utforske",
+              "Vurdere",
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM1668",
+            "text": {
+              "local": "utforske kulturminner og hvordan mennesker levde i den tiden kulturminnene er fra, og sammenligne med hvordan vi lever i dag",
+              "en": "explore cultural heritage and how people lived during the time the cultural heritage is from, and compare this with how we live today"
+            },
+            "coreElements": [
+              "Samfunnskritisk tenking og samanhengar",
+              "Identitetsutvikling og fellesskap"
+            ],
+            "verbs": [
+              "Sammenligne",
+              "Utforske"
+            ]
+          },
+          {
+            "code": "KM1671",
+            "text": {
+              "local": "beskrive kultur- og naturlandskap i Norge og samtale om hvordan historiske og geografiske kilder, inkludert kart, kan gi informasjon om landskap",
+              "en": "describe cultural and natural landscapes in Norway and talk about how historical and geographical sources, including maps, can provide information about these landscapes"
+            },
+            "coreElements": [
+              "Samfunnskritisk tenking og samanhengar",
+              "Berekraftige samfunn"
+            ],
+            "verbs": [
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM1673",
+            "text": {
+              "local": "samtale om hvorfor det oppstår konflikter i skole- og nærmiljøet, lytte til andres mening og samarbeide med andre om å finne konstruktive løsninger",
+              "en": "talk about why conflicts arise in the school and local environment, listen to others’ opinions, and collaborate with them to find constructive solutions"
+            },
+            "coreElements": [
+              "Demokratiforståing og deltaking",
+              "Identitetsutvikling og fellesskap"
+            ],
+            "verbs": [
+              "Samarbeide"
+            ]
+          },
+          {
+            "code": "KM1669",
+            "text": {
+              "local": "presentere menneskerettigheter og rettigheter som barn har, og reflektere over hvorfor disse rettighetene finnes",
+              "en": "present human rights and children’s rights, and reflect on why we have these rights"
+            },
+            "coreElements": [
+              "Demokratiforståing og deltaking",
+              "Identitetsutvikling og fellesskap"
+            ],
+            "verbs": [
+              "Reflektere",
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM1670",
+            "text": {
+              "local": "presentere årsaker til at samene har urfolksstatus i Norge, og beskrive forskjellige former for samisk kultur- og samfunnsliv før og nå",
+              "en": "present reasons as to why the Sami people have been given indigenous status in Norway, and describe the different forms of Sami cultural and community life, both from the past and today"
+            },
+            "coreElements": [
+              "Samfunnskritisk tenking og samanhengar",
+              "Demokratiforståing og deltaking",
+              "Identitetsutvikling og fellesskap"
+            ],
+            "verbs": [
+              "Beskrive",
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM1678",
+            "text": {
+              "local": "utforske og gi eksempler på noen sider ved bærekraftig utvikling",
+              "en": "explore and give examples of some aspects of sustainability"
+            },
+            "coreElements": [
+              "Undring og utforsking",
+              "Samfunnskritisk tenking og samanhengar",
+              "Berekraftige samfunn"
+            ],
+            "verbs": [
+              "Utforske"
+            ]
+          },
+          {
+            "code": "KM1679",
+            "text": {
+              "local": "reflektere over sammenhengen mellom personlig økonomi og forbruk hos den enkelte",
+              "en": "reflect on the connections between personal finances and one’s own consumption"
+            },
+            "coreElements": [
+              "Samfunnskritisk tenking og samanhengar",
+              "Identitetsutvikling og fellesskap"
+            ],
+            "verbs": [
+              "Reflektere"
+            ]
+          },
+          {
+            "code": "KM1636",
+            "text": {
+              "local": "samtale om identitet, mangfold og fellesskap og reflektere over hvordan det kan oppleves ikke å være del av fellesskapet",
+              "en": "talk about identity, diversity and community, and reflect on what it might be like if one is not a part of the community"
+            },
+            "coreElements": [
+              "Samfunnskritisk tenking og samanhengar",
+              "Identitetsutvikling og fellesskap"
+            ],
+            "verbs": [
+              "Reflektere"
+            ]
+          },
+          {
+            "code": "KM1674",
+            "text": {
+              "local": "samtale om regler og normer for personvern, om deling og beskyttelse av informasjon og om hva det vil si å bruke dømmekraft i digital samhandling",
+              "en": "talk about the rules and norms for protection of privacy, the sharing and protection of information, and what it means to use one’s judgment in digital interaction"
+            },
+            "coreElements": [
+              "Undring og utforsking",
+              "Identitetsutvikling og fellesskap"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM1675",
+            "text": {
+              "local": "samtale om grenser knyttet til kropp, hva vold og seksuelle overgrep er, og hvor man kan få hjelp hvis man blir utsatt for vold og seksuelle overgrep",
+              "en": "talk about the boundaries related to the body, what violence and sexual abuse is, and how to obtain help if one has been the victim of violence and sexual abuse"
+            },
+            "coreElements": [
+              "Identitetsutvikling og fellesskap"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1676",
+            "text": {
+              "local": "reflektere over hvem som har makt, og hva et demokrati er, og utvikle forslag til hvordan man kan være med på å påvirke beslutninger",
+              "en": "reflect on which forces in society have power and what a democracy is, and develop proposals for how one can have an impact on decisions"
+            },
+            "coreElements": [
+              "Undring og utforsking",
+              "Samfunnskritisk tenking og samanhengar",
+              "Demokratiforståing og deltaking"
+            ],
+            "verbs": [
+              "Utvikle",
+              "Reflektere"
+            ]
+          },
+          {
+            "code": "KM1677",
+            "text": {
+              "local": "samtale om noen viktige offentlige institusjoner og virksomheter i Norge og reflektere over hva de betyr i livet til mennesker",
+              "en": "talk about some important public institutions and their functions in Norway, and reflect on how they affect people’s lives"
+            },
+            "coreElements": [
+              "Undring og utforsking",
+              "Demokratiforståing og deltaking",
+              "Identitetsutvikling og fellesskap"
+            ],
+            "verbs": [
+              "Reflektere"
+            ]
+          }
+        ]
+      },
+      {
+        "afterGrade": 7,
+        "label": {
+          "local": "Kompetansemål og vurdering 7. trinn",
+          "en": "Competence aims and assessment year 7"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM1680",
+            "text": {
+              "local": "gjennomføre en samfunnsfaglig undersøkelse og presentere resultatene ved hjelp av egnede digitale verktøy",
+              "en": "conduct social-studies-related research and present the findings using one’s own digital tools"
+            },
+            "coreElements": [
+              "Undring og utforsking",
+              "Samfunnskritisk tenking og samanhengar"
+            ],
+            "verbs": [
+              "Gjennomføre",
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM1686",
+            "text": {
+              "local": "presentere en aktuell nyhetssak og reflektere over forskjeller mellom fakta, meninger og kommersielt budskap i mediebildet",
+              "en": "present a news item on current affairs and reflect on the differences between facts, opinions and the commercial message in the media picture"
+            },
+            "coreElements": [
+              "Undring og utforsking",
+              "Samfunnskritisk tenking og samanhengar"
+            ],
+            "verbs": [
+              "Reflektere",
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM1685",
+            "text": {
+              "local": "sammenligne hvordan ulike kilder kan gi ulik informasjon om samme tema, og reflektere over hvordan kilder kan brukes til å påvirke og fremme bestemte syn",
+              "en": "compare how various sources can provide different information on the same topic, and reflect on how sources can be used to affect and promote particular views"
+            },
+            "coreElements": [
+              "Undring og utforsking",
+              "Samfunnskritisk tenking og samanhengar"
+            ],
+            "verbs": [
+              "Sammenligne",
+              "Reflektere"
+            ]
+          },
+          {
+            "code": "KM1684",
+            "text": {
+              "local": "utforske hvordan mennesker i fortiden livnærte seg, og samtale om hvordan sentrale endringer i livsgrunnlag og teknologi har påvirket og påvirker demografi, levekår og bosettingsmønstre",
+              "en": "explore how people in the past provided for themselves, and discuss how key changes in livelihoods and technology have had impact on and continue to have impact on demographics, living conditions and settlement patterns"
+            },
+            "coreElements": [
+              "Undring og utforsking",
+              "Samfunnskritisk tenking og samanhengar",
+              "Berekraftige samfunn",
+              "Identitetsutvikling og fellesskap"
+            ],
+            "verbs": [
+              "Utforske"
+            ]
+          },
+          {
+            "code": "KM1687",
+            "text": {
+              "local": "beskrive geografiske hovedtrekk i ulike deler av verden og reflektere over hvordan disse hovedtrekkene påvirker menneskene som bor der",
+              "en": "describe geographic features in different parts of the world and reflect on how these features have impact on the lives of the people who live there"
+            },
+            "coreElements": [
+              "Samfunnskritisk tenking og samanhengar",
+              "Berekraftige samfunn"
+            ],
+            "verbs": [
+              "Reflektere",
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM1682",
+            "text": {
+              "local": "reflektere over hvorfor konflikter oppstår, og drøfte hvordan den enkelte og samfunnet kan håndtere konflikter",
+              "en": "reflect on why conflicts arise, and discuss how both the individual and society can deal with conflicts"
+            },
+            "coreElements": [
+              "Samfunnskritisk tenking og samanhengar",
+              "Demokratiforståing og deltaking",
+              "Identitetsutvikling og fellesskap"
+            ],
+            "verbs": [
+              "Reflektere",
+              "Drøfte"
+            ]
+          },
+          {
+            "code": "KM1696",
+            "text": {
+              "local": "utforske ulike sider ved mangfold i Norge og reflektere over menneskers behov for å være seg selv og for å høre til i fellesskap",
+              "en": "explore various aspects of diversity in Norway and reflect on people’s need to be themselves and to belong to a community"
+            },
+            "coreElements": [
+              "Undring og utforsking",
+              "Demokratiforståing og deltaking",
+              "Identitetsutvikling og fellesskap"
+            ],
+            "verbs": [
+              "Utforske",
+              "Reflektere"
+            ]
+          },
+          {
+            "code": "KM1683",
+            "text": {
+              "local": "drøfte hva likeverd og likestilling betyr for et demokrati, og utvikle forslag til hvordan man kan motarbeide fordommer, rasisme og diskriminering",
+              "en": "discuss what equality and equal opportunities mean for a democracy, and develop proposals for how to counteract prejudice, racism and discrimination"
+            },
+            "coreElements": [
+              "Undring og utforsking",
+              "Samfunnskritisk tenking og samanhengar",
+              "Demokratiforståing og deltaking",
+              "Identitetsutvikling og fellesskap"
+            ],
+            "verbs": [
+              "Utvikle",
+              "Drøfte"
+            ]
+          },
+          {
+            "code": "KM1688",
+            "text": {
+              "local": "samtale om menneske- og likeverd og sammenligne hvordan menneskerettighetene er blitt og blir ivaretatt i ulike land",
+              "en": "talk about human values and equality, and compare how human rights have been established and implemented in various countries"
+            },
+            "coreElements": [
+              "Samfunnskritisk tenking og samanhengar",
+              "Demokratiforståing og deltaking",
+              "Identitetsutvikling og fellesskap"
+            ],
+            "verbs": [
+              "Sammenligne"
+            ]
+          },
+          {
+            "code": "KM1689",
+            "text": {
+              "local": "utforske hovedtrekk ved historien til samene og de nasjonale minoritetene i Norge og presentere rettigheter samene og de nasjonale minoritetene i Norge har i dag",
+              "en": "explore the main features in the history of the Sami people and the national minorities of Norway and make a presentation about the rights the Sami and national minorities of Norway have today"
+            },
+            "coreElements": [
+              "Samfunnskritisk tenking og samanhengar",
+              "Demokratiforståing og deltaking",
+              "Identitetsutvikling og fellesskap"
+            ],
+            "verbs": [
+              "Utforske",
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM1690",
+            "text": {
+              "local": "reflektere over hvordan kommersiell påvirkning kan virke inn på forbruk, personlig økonomi og selvbilde",
+              "en": "reflect on how commercialism can influence consumption, personal finances and one’s self-image"
+            },
+            "coreElements": [
+              "Samfunnskritisk tenking og samanhengar",
+              "Identitetsutvikling og fellesskap"
+            ],
+            "verbs": [
+              "Reflektere"
+            ]
+          },
+          {
+            "code": "KM1691",
+            "text": {
+              "local": "utforske og presentere en global utfordring ved bærekraftig utvikling og hvilke konsekvenser den kan ha, og utvikle forslag til hvordan man kan være med på å motvirke utfordringen, og hvordan samarbeid mellom land kan bidra",
+              "en": "explore and present a global challenge that is related to sustainability and what consequences this might have, and develop a proposal relating to how one can contribute to counteracting such challenges and how collaboration between countries may help"
+            },
+            "coreElements": [
+              "Undring og utforsking",
+              "Samfunnskritisk tenking og samanhengar",
+              "Demokratiforståing og deltaking",
+              "Berekraftige samfunn",
+              "Identitetsutvikling og fellesskap"
+            ],
+            "verbs": [
+              "Utforske",
+              "Utvikle",
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM1692",
+            "text": {
+              "local": "reflektere over hvordan egen og andre deltar i digital samhandling og drøfte hva det vil si å bruke dømmekraft, sett i lys av regler, normer og grenser",
+              "en": "reflect on how one and other people participate in digital interaction, and discuss what it means to use one’s judgment in the light of rules, norms and boundaries"
+            },
+            "coreElements": [
+              "Identitetsutvikling og fellesskap"
+            ],
+            "verbs": [
+              "Reflektere",
+              "Drøfte",
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM1693",
+            "text": {
+              "local": "reflektere over variasjoner i identiteter, seksuell orientering og kjønnsuttrykk og egne og andres grenser knyttet til følelser, kropp, kjønn og seksualitet og drøfte hva man kan gjøre om grenser blir brutt",
+              "en": "reflect on variations in identity, sexual orientation and gender expression, and one’s own and others’ boundaries in connection with emotions, the body, gender and sexuality and discuss what one can do if those boundaries are violated"
+            },
+            "coreElements": [
+              "Identitetsutvikling og fellesskap"
+            ],
+            "verbs": [
+              "Reflektere",
+              "Drøfte"
+            ]
+          },
+          {
+            "code": "KM1694",
+            "text": {
+              "local": "beskrive sentrale hendelser som har ført til det demokratiet vi har i Norge i dag, og sammenligne hvordan enkeltmennesker har mulighet til å påvirke i ulike styresett",
+              "en": "describe key events that have led to the democracy we have in Norway today and compare how individuals have the power to influence different systems of government"
+            },
+            "coreElements": [
+              "Samfunnskritisk tenking og samanhengar",
+              "Demokratiforståing og deltaking"
+            ],
+            "verbs": [
+              "Sammenligne",
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM1695",
+            "text": {
+              "local": "gi eksempler på hva lover, regler og normer er, og hvilken funksjon de har i samfunnet, og reflektere over konsekvenser av å bryte dem",
+              "en": "give examples of laws, rules and norms and how they function in society, and reflect on the consequences of any breaches of them"
+            },
+            "coreElements": [
+              "Undring og utforsking",
+              "Samfunnskritisk tenking og samanhengar"
+            ],
+            "verbs": [
+              "Reflektere"
+            ]
+          },
+          {
+            "code": "KM1667",
+            "text": {
+              "local": "reflektere over hvordan møter mellom mennesker har bidratt til å endre hvordan mennesker har tenkt og samfunn har vært organisert",
+              "en": "reflect on how encounters between people have contributed to changing the way people think, and also how different societies have been organised"
+            },
+            "coreElements": [
+              "Undring og utforsking",
+              "Samfunnskritisk tenking og samanhengar",
+              "Demokratiforståing og deltaking",
+              "Identitetsutvikling og fellesskap"
+            ],
+            "verbs": [
+              "Reflektere"
+            ]
+          }
+        ]
+      },
+      {
+        "afterGrade": 10,
+        "label": {
+          "local": "Kompetansemål og vurdering 10. trinn",
+          "en": "Competence aims and assessment year 10"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM1666",
+            "text": {
+              "local": "bruke samfunnsfaglige metoder og digitale ressurser i egne undersøkelser, presentere funn ved hjelp av digitale verktøy og drøfte hvor gyldige og relevante funnene er",
+              "en": "use social studies methods and digital resources in one’s own research, and present the findings using digital tools and discussing the validity and relevancy of the findings"
+            },
+            "coreElements": [
+              "Undring og utforsking",
+              "Samfunnskritisk tenking og samanhengar"
+            ],
+            "verbs": [
+              "Drøfte",
+              "Bruke",
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM1637",
+            "text": {
+              "local": "vurdere på hvilke måter ulike kilder gir informasjon om et samfunnsfaglig tema, og reflektere over hvordan algoritmer, ensrettede kilder eller mangel på kilder kan prege forståelsen vår",
+              "en": "assess the ways in which different sources provide information on social-studies-related topics, and reflect on how algorithms, biased sources or the lack of sources can affect our understanding"
+            },
+            "coreElements": [
+              "Undring og utforsking",
+              "Samfunnskritisk tenking og samanhengar",
+              "Demokratiforståing og deltaking"
+            ],
+            "verbs": [
+              "Vurdere",
+              "Reflektere"
+            ]
+          },
+          {
+            "code": "KM1664",
+            "text": {
+              "local": "drøfte hvordan framstillinger av fortiden, hendelser og grupper har påvirket og påvirker folks holdninger og handlinger",
+              "en": "discuss how the way we see the past, events and groups has had impact on and continues to impact people's actions and attitudes"
+            },
+            "coreElements": [
+              "Undring og utforsking",
+              "Samfunnskritisk tenking og samanhengar",
+              "Demokratiforståing og deltaking",
+              "Identitetsutvikling og fellesskap"
+            ],
+            "verbs": [
+              "Drøfte"
+            ]
+          },
+          {
+            "code": "KM1638",
+            "text": {
+              "local": "utforske hvordan teknologi har vært og fremdeles er en endringsfaktor, og drøfte innvirkningen teknologien har hatt og har på enkeltmennesker, samfunn og natur",
+              "en": "explore how technology has been and continues to be a factor for change, and discuss the influence technology has had and has on the individual, society and nature"
+            },
+            "coreElements": [
+              "Undring og utforsking",
+              "Samfunnskritisk tenking og samanhengar",
+              "Demokratiforståing og deltaking",
+              "Berekraftige samfunn",
+              "Identitetsutvikling og fellesskap"
+            ],
+            "verbs": [
+              "Utforske",
+              "Drøfte"
+            ]
+          },
+          {
+            "code": "KM1650",
+            "text": {
+              "local": "reflektere over hvordan mennesker har kjempet og kjemper for forandringer i samfunnet og samtidig har vært og er påvirket av geografiske forhold og historisk kontekst",
+              "en": "reflect on how people have fought and continue to fight for change in society while also having been and still being influenced by geographic conditions and historical contexts"
+            },
+            "coreElements": [
+              "Samfunnskritisk tenking og samanhengar",
+              "Demokratiforståing og deltaking",
+              "Berekraftige samfunn"
+            ],
+            "verbs": [
+              "Reflektere"
+            ]
+          },
+          {
+            "code": "KM1640",
+            "text": {
+              "local": "sammenligne hvordan politiske, geografiske og historiske forhold påvirker levekår, bosettingsmønstre og demografi i forskjellige deler av verden i dag",
+              "en": "compare how political, geographic and historical events affect living conditions, settlement patterns and demographics in different parts of the world today"
+            },
+            "coreElements": [
+              "Samfunnskritisk tenking og samanhengar",
+              "Berekraftige samfunn"
+            ],
+            "verbs": [
+              "Sammenligne"
+            ]
+          },
+          {
+            "code": "KM1665",
+            "text": {
+              "local": "gjøre rede for årsaker til og konsekvenser av sentrale historiske og nåtidige konflikter og reflektere over om endringer av noen forutsetninger kunne ha hindret konfliktene",
+              "en": "explain the causes and consequences of key historical and contemporary conflicts, and reflect on whether changes in certain conditions could have prevented the conflicts"
+            },
+            "coreElements": [
+              "Samfunnskritisk tenking og samanhengar",
+              "Demokratiforståing og deltaking",
+              "Berekraftige samfunn"
+            ],
+            "verbs": [
+              "Reflektere",
+              "Gjøre rede for"
+            ]
+          },
+          {
+            "code": "KM1641",
+            "text": {
+              "local": "gjøre rede for årsaker til og konsekvenser av terrorhandlinger og folkemord, som holocaust, og reflektere over hvordan ekstreme holdninger og ekstreme handlinger kan forebygges",
+              "en": "explain the causes and consequences of terrorism and genocide, such as the Holocaust, and reflect on how extremist attitudes and extremist acts can be prevented"
+            },
+            "coreElements": [
+              "Samfunnskritisk tenking og samanhengar",
+              "Demokratiforståing og deltaking",
+              "Identitetsutvikling og fellesskap"
+            ],
+            "verbs": [
+              "Reflektere",
+              "Gjøre rede for"
+            ]
+          },
+          {
+            "code": "KM1639",
+            "text": {
+              "local": "utforske og beskrive hvordan menneske- og urfolksrettigheter og andre internasjonale avtaler og samarbeid har betydning for nasjonal politikk, menneskers liv og likestilling og likeverd",
+              "en": "explore and describe how human rights and the rights of indigenous peoples, as well as other international treaties and international cooperation, are important for national policies, people’s lives, equal rights and equality"
+            },
+            "coreElements": [
+              "Undring og utforsking",
+              "Samfunnskritisk tenking og samanhengar",
+              "Demokratiforståing og deltaking",
+              "Berekraftige samfunn",
+              "Identitetsutvikling og fellesskap"
+            ],
+            "verbs": [
+              "Utforske",
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM1642",
+            "text": {
+              "local": "gjøre rede for fornorskningen av samene og de nasjonale minoritetene og urettferdigheten de har blitt utsatt for, og reflektere over hvilke konsekvenser det har hatt og har på individ- og samfunnsnivå",
+              "en": "explain the policy of Norwegianisation of the Sami people and national minorities, and the injustices they have been subjected to, and thus reflect on what consequences this has had and has on both the individual and societal level"
+            },
+            "coreElements": [
+              "Samfunnskritisk tenking og samanhengar",
+              "Demokratiforståing og deltaking",
+              "Identitetsutvikling og fellesskap"
+            ],
+            "verbs": [
+              "Reflektere",
+              "Gjøre rede for"
+            ]
+          },
+          {
+            "code": "KM1644",
+            "text": {
+              "local": "beskrive ulike dimensjoner ved bærekraftig utvikling og hvordan de påvirker hverandre, og presentere tiltak for mer bærekraftige samfunn",
+              "en": "describe different dimensions of sustainability and how they have an impact on each other, and present measures that can be taken to make societies more sustainable"
+            },
+            "coreElements": [
+              "Undring og utforsking",
+              "Samfunnskritisk tenking og samanhengar",
+              "Berekraftige samfunn"
+            ],
+            "verbs": [
+              "Beskrive",
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM1646",
+            "text": {
+              "local": "vurdere hvordan arbeid, inntekt og forbruk kan påvirke personlig økonomi, levestandard og livskvalitet",
+              "en": "assess how work, income and consumption can have an impact on one’s personal finances, standard of living and quality of life"
+            },
+            "coreElements": [
+              "Berekraftige samfunn",
+              "Identitetsutvikling og fellesskap"
+            ],
+            "verbs": [
+              "Vurdere"
+            ]
+          },
+          {
+            "code": "KM1643",
+            "text": {
+              "local": "reflektere over likheter og ulikheter i identiteter, levesett og kulturuttrykk og drøfte muligheter og utfordringer ved mangfold",
+              "en": "reflect on equalities and inequalities in identities, ways of life and cultural expressions, and discuss the opportunities and challenges related to diversity"
+            },
+            "coreElements": [
+              "Samfunnskritisk tenking og samanhengar",
+              "Identitetsutvikling og fellesskap"
+            ],
+            "verbs": [
+              "Reflektere",
+              "Drøfte"
+            ]
+          },
+          {
+            "code": "KM1645",
+            "text": {
+              "local": "utforske og reflektere over egne digitale spor og muligheten for å få slettet sporene og verne om egen og andres rett til privatliv, personvern og opphavsrett",
+              "en": "explore and reflect on one’s own digital footprint and the possibility of deleting one’s digital trail and the value of one’s own and others’ right to privacy, data protection and copyright"
+            },
+            "coreElements": [
+              "Identitetsutvikling og fellesskap"
+            ],
+            "verbs": [
+              "Utforske",
+              "Reflektere"
+            ]
+          },
+          {
+            "code": "KM1647",
+            "text": {
+              "local": "reflektere over hvordan identitet, selvbilde og egne grenser utvikles og utfordres i ulike fellesskap, og presentere forslag til hvordan man kan håndtere påvirkning og uønskede hendelser",
+              "en": "reflect on how identity, self-image and one’s own boundaries are developed and challenged in different environments, and present proposals for how one might deal with influence and unwanted events"
+            },
+            "coreElements": [
+              "Identitetsutvikling og fellesskap"
+            ],
+            "verbs": [
+              "Reflektere",
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM1648",
+            "text": {
+              "local": "reflektere over hvilke aktører som har makt i samfunnet i dag, og hvordan de begrunner standpunktene sine",
+              "en": "reflect on which forces in society have power today, and how they justify their positions"
+            },
+            "coreElements": [
+              "Samfunnskritisk tenking og samanhengar",
+              "Demokratiforståing og deltaking"
+            ],
+            "verbs": [
+              "Reflektere"
+            ]
+          },
+          {
+            "code": "KM1649",
+            "text": {
+              "local": "utforske ulike plattformer for digital samhandling og reflektere over hvordan digital deltakelse og samhandling påvirker formen på og innholdet i samfunnsdebatten",
+              "en": "explore different platforms for digital interaction and reflect on how digital participation and digital interaction affect the form and content of societal debates"
+            },
+            "coreElements": [
+              "Demokratiforståing og deltaking",
+              "Identitetsutvikling og fellesskap"
+            ],
+            "verbs": [
+              "Utforske",
+              "Reflektere"
+            ]
+          },
+          {
+            "code": "KM1651",
+            "text": {
+              "local": "beskrive sentrale lover, regler og normer og drøfte hvilke konsekvenser brudd på disse kan ha for den enkelte og for samfunnet på kort og lang sikt",
+              "en": "describe important laws, rules and norms and discuss the consequences any violation of these may have for the individual and for society, in both the short and long run"
+            },
+            "coreElements": [
+              "Undring og utforsking",
+              "Samfunnskritisk tenking og samanhengar",
+              "Identitetsutvikling og fellesskap"
+            ],
+            "verbs": [
+              "Drøfte",
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM1652",
+            "text": {
+              "local": "beskrive trekk ved det politiske systemet og velferdssamfunnet i Norge i dag og reflektere over sentrale utfordringer",
+              "en": "describe features of the political system and welfare state in Norway today and reflect on the key challenges"
+            },
+            "coreElements": [
+              "Undring og utforsking",
+              "Demokratiforståing og deltaking"
+            ],
+            "verbs": [
+              "Reflektere",
+              "Beskrive"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

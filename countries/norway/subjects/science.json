@@ -1,0 +1,2591 @@
+{
+  "country": "norway",
+  "source": {
+    "api": "https://data.udir.no/kl06/v201906/laereplaner-lk20/NAT01-04",
+    "curriculum": "LK20",
+    "license": "NLOD",
+    "lastSynced": "2026-03-02T21:19:56Z"
+  },
+  "subject": {
+    "code": "NAT01-04",
+    "name": {
+      "local": "Læreplan i naturfag",
+      "en": "Curriculum for Natural science"
+    },
+    "coreElements": [],
+    "gradeBands": [
+      {
+        "afterGrade": 2,
+        "label": {
+          "local": "Kompetansemål og vurdering 2. trinn",
+          "en": "Competence aims and assessment after Year 2"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM679",
+            "text": {
+              "local": "undre seg, utforske og lage spørsmål, og knytte dette til egne eller andres erfaringer",
+              "en": "query, explore and make questions and to link these to one's own or others’ experiences"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter"
+            ],
+            "verbs": [
+              "Utforske",
+              "Utforske"
+            ]
+          },
+          {
+            "code": "KM784",
+            "text": {
+              "local": "presentere funnene sine og beskrive hvordan eleven har kommet fram til dem",
+              "en": "present one’s findings and describe how one has arrived at them"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter"
+            ],
+            "verbs": [
+              "Beskrive",
+              "Presentere",
+              "Beskrive",
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM785",
+            "text": {
+              "local": "presentere egne ideer til teknologiske oppfinnelser",
+              "en": "present one’s own ideas for technological inventions"
+            },
+            "coreElements": [
+              "Teknologi"
+            ],
+            "verbs": [
+              "Presentere",
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM786",
+            "text": {
+              "local": "utforske og beskrive observerbare egenskaper til ulike objekter, materialer og stoffer og sortere etter egenskaper",
+              "en": "explore and describe observable properties of different objects, materials and substances and sort them according to their properties"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Energi og materie"
+            ],
+            "verbs": [
+              "Utforske",
+              "Beskrive",
+              "Utforske",
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM792",
+            "text": {
+              "local": "samtale om hvordan vi kan ta miljøbevisste valg og gjennomføre lokale miljøtiltak",
+              "en": "talk about how we can make environmentally aware choices and carry out local environmental initiatives"
+            },
+            "coreElements": [
+              "Jorda og livet på jorda"
+            ],
+            "verbs": [
+              "Gjennomføre"
+            ]
+          },
+          {
+            "code": "KM787",
+            "text": {
+              "local": "utforske et naturområde i nærmiljøet og beskrive hvordan noen organismer er tilpasset området og hverandre",
+              "en": "explore a local natural area and describe how some organisms are adapted to the area and to each other"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Jorda og livet på jorda"
+            ],
+            "verbs": [
+              "Utforske",
+              "Beskrive",
+              "Utforske",
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM788",
+            "text": {
+              "local": "oppleve naturen til ulike årstider, reflektere over hvordan naturen er i endring, og hvorfor året deles inn på ulike måter i norsk og samisk tradisjon",
+              "en": "experience nature during the different seasons, reflect on how nature is undergoing changes and why the year is divided in different ways in the Norwegian and Sami traditions"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Jorda og livet på jorda"
+            ],
+            "verbs": [
+              "Reflektere"
+            ]
+          },
+          {
+            "code": "KM789",
+            "text": {
+              "local": "planlegge og gjennomføre undersøkelser av vær og himmelfenomener og sammenligne målinger, observasjoner og værtegn gjennom året",
+              "en": "plan and carry out examinations of weather and sky phenomena and compare measurements, observations and weather signs throughout the year"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Jorda og livet på jorda"
+            ],
+            "verbs": [
+              "Sammenligne",
+              "Gjennomføre",
+              "Planlegge"
+            ]
+          },
+          {
+            "code": "KM790",
+            "text": {
+              "local": "utforske sansene gjennom lek ute og inne og samtale om hvordan sansene brukes til å samle informasjon",
+              "en": "explore the senses through indoor and outdoor play and talk about how the senses are used to collect information"
+            },
+            "coreElements": [
+              "Kropp og helse"
+            ],
+            "verbs": [
+              "Utforske",
+              "Utforske"
+            ]
+          },
+          {
+            "code": "KM791",
+            "text": {
+              "local": "gi eksempler på noen vanlige sykdommer og samtale om hva man kan gjøre for å verne kroppen mot smittsomme sykdommer",
+              "en": "give examples of some common diseases and talk about what can be done to protect the body from infectious diseases"
+            },
+            "coreElements": [
+              "Kropp og helse"
+            ],
+            "verbs": []
+          }
+        ]
+      },
+      {
+        "afterGrade": 4,
+        "label": {
+          "local": "Kompetansemål og vurdering 4. trinn",
+          "en": "Competence aims and assessment Year 4"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM793",
+            "text": {
+              "local": "undre seg, stille spørsmål og lage hypoteser og utforske disse for å finne svar",
+              "en": "query, ask questions, formulate hypotheses and explore them to find answers"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter"
+            ],
+            "verbs": [
+              "Utforske",
+              "Utforske"
+            ]
+          },
+          {
+            "code": "KM794",
+            "text": {
+              "local": "bruke tabeller og figurer til å organisere data, lage forklaringer basert på data og presentere funn",
+              "en": "use tables and figures to structure data, make explanations based on data and present findings"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter"
+            ],
+            "verbs": [
+              "Bruke",
+              "Presentere",
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM795",
+            "text": {
+              "local": "sammenligne modeller med observasjoner og samtale om hvorfor vi bruker modeller i naturfag",
+              "en": "compare models with observations and talk about how we use models in natural science"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter"
+            ],
+            "verbs": [
+              "Sammenligne"
+            ]
+          },
+          {
+            "code": "KM797",
+            "text": {
+              "local": "utforske teknologiske systemer som er satt sammen av ulike deler, og beskrive hvordan delene fungerer og virker sammen",
+              "en": "explore technological systems that are composed of different parts and describe how the parts function and work together"
+            },
+            "coreElements": [
+              "Teknologi"
+            ],
+            "verbs": [
+              "Utforske",
+              "Beskrive",
+              "Utforske",
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM798",
+            "text": {
+              "local": "designe og lage et produkt basert på en kravspesifikasjon",
+              "en": "design and make a product based on specifications"
+            },
+            "coreElements": [
+              "Teknologi"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM799",
+            "text": {
+              "local": "utforske og beskrive hvordan noen stoffer kan endre seg når de blandes med andre stoffer",
+              "en": "explore and describe how some substances can change when mixed with other substances"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Energi og materie"
+            ],
+            "verbs": [
+              "Utforske",
+              "Beskrive",
+              "Utforske",
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM800",
+            "text": {
+              "local": "utforske observerbare størrelser som fart og temperatur og knytte dem til energi",
+              "en": "explore observable quantities, such as speed and temperature, and connect them to energy"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Energi og materie"
+            ],
+            "verbs": [
+              "Utforske",
+              "Utforske"
+            ]
+          },
+          {
+            "code": "KM783",
+            "text": {
+              "local": "samtale om hva energi er, og utforske ulike energikjeder",
+              "en": "talk about what energy is and explore different energy chains"
+            },
+            "coreElements": [
+              "Teknologi",
+              "Energi og materie"
+            ],
+            "verbs": [
+              "Utforske",
+              "Utforske"
+            ]
+          },
+          {
+            "code": "KM796",
+            "text": {
+              "local": "utforske et naturområde og drøfte bærekraftig bruk av området",
+              "en": "explore an area in nature and discuss sustainable use of the area"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Jorda og livet på jorda"
+            ],
+            "verbs": [
+              "Utforske",
+              "Drøfte",
+              "Utforske"
+            ]
+          },
+          {
+            "code": "KM801",
+            "text": {
+              "local": "utforske og sammenligne ulike dyre- og plantearters tilpasninger til miljø og levesteder og drøfte hvorfor noen arter dør ut",
+              "en": "explore and compare how different species of animals and plants adapt to environments and habitats and discuss why some species become extinct"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Jorda og livet på jorda"
+            ],
+            "verbs": [
+              "Sammenligne",
+              "Utforske",
+              "Drøfte",
+              "Utforske"
+            ]
+          },
+          {
+            "code": "KM780",
+            "text": {
+              "local": "delta i høsting og bruk av naturressurser og drøfte hvordan naturressurser kan brukes på en bærekraftig måte",
+              "en": "participate in harvesting and using natural resources and explain how natural resources can be used in a sustainable way"
+            },
+            "coreElements": [
+              "Jorda og livet på jorda"
+            ],
+            "verbs": [
+              "Drøfte"
+            ]
+          },
+          {
+            "code": "KM782",
+            "text": {
+              "local": "gi eksempler på god dyrevelferd og reflektere over hvordan dyrs behov kan ivaretas",
+              "en": "give examples of good animal welfare and reflect on how to look after the needs of animals"
+            },
+            "coreElements": [
+              "Jorda og livet på jorda"
+            ],
+            "verbs": [
+              "Reflektere"
+            ]
+          },
+          {
+            "code": "KM763",
+            "text": {
+              "local": "utforske og beskrive vannets kretsløp og gjøre rede for hvorfor vann er viktig for livet på jorda",
+              "en": "explore and describe the water cycle and explain why water is important for life on Earth"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Jorda og livet på jorda"
+            ],
+            "verbs": [
+              "Utforske",
+              "Gjøre rede for",
+              "Beskrive",
+              "Utforske",
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM767",
+            "text": {
+              "local": "samtale om hva fysisk og psykisk helse er, og drøfte hvordan livsstil og trivsel påvirker helse",
+              "en": "talk about physical and mental health and explain how lifestyles and well-being affect health"
+            },
+            "coreElements": [
+              "Kropp og helse"
+            ],
+            "verbs": [
+              "Drøfte"
+            ]
+          },
+          {
+            "code": "KM764",
+            "text": {
+              "local": "samtale om likheter og ulikheter mellom kjønnene, om kjønnsidentitet og om menneskets reproduksjon",
+              "en": "talk about the similarities and differences between the genders, about gender identity and about human reproduction"
+            },
+            "coreElements": [
+              "Kropp og helse"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM766",
+            "text": {
+              "local": "beskrive hvordan muskler og skjelett fungerer, og knytte dette til bevegelse",
+              "en": "describe how the muscles and skeleton function and relate this to movement"
+            },
+            "coreElements": [
+              "Kropp og helse"
+            ],
+            "verbs": [
+              "Beskrive",
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM765",
+            "text": {
+              "local": "beskrive funksjoner i kroppens ytre forsvar og samtale om hvordan dette verner mot sykdom",
+              "en": "describe functions in the body’s external defence mechanisms and talk about how these protect against disease"
+            },
+            "coreElements": [
+              "Kropp og helse"
+            ],
+            "verbs": [
+              "Beskrive",
+              "Beskrive"
+            ]
+          }
+        ]
+      },
+      {
+        "afterGrade": 7,
+        "label": {
+          "local": "Kompetansemål og vurdering 7. trinn",
+          "en": "Competence aims and assessment Year 7"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM768",
+            "text": {
+              "local": "stille spørsmål og lage hypoteser om naturfaglige fenomener, identifisere variabler og samle data for å finne svar",
+              "en": "ask questions and formulate hypotheses about natural-science phenomena, identify variables and collect data to find answers"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM769",
+            "text": {
+              "local": "skille mellom observasjoner og slutninger, organisere data, bruke årsak-virkning-argumenter, trekke slutninger, vurdere feilkilder og presentere funn",
+              "en": "distinguish between observations and conclusions, structure data, use cause and effect arguments, draw conclusions, assess sources of errors and present findings"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter"
+            ],
+            "verbs": [
+              "Vurdere",
+              "Bruke",
+              "Presentere",
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM770",
+            "text": {
+              "local": "bruke og vurdere modeller som representerer fenomener man ikke kan observere direkte, og gjøre rede for hvorfor det brukes modeller i naturfag",
+              "en": "use and assess models that represent phenomena that cannot be observed directly and explain why models are used in natural science"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter"
+            ],
+            "verbs": [
+              "Vurdere",
+              "Gjøre rede for",
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM771",
+            "text": {
+              "local": "lese og forstå faremerking og reflektere over hensikten med disse",
+              "en": "read and understand hazard labelling and reflect on the purpose os such labelling"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter"
+            ],
+            "verbs": [
+              "Reflektere",
+              "Forstå"
+            ]
+          },
+          {
+            "code": "KM772",
+            "text": {
+              "local": "gi eksempler på hvordan naturvitenskapelig kunnskap er utviklet og utvikler seg",
+              "en": "give examples of how natural-science knowledge has developed and continues to develop"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM828",
+            "text": {
+              "local": "gi eksempler på hvordan tradisjonell kunnskap har bidratt og bidrar til naturvitenskapelig kunnskap",
+              "en": "give examples of how traditional knowledge has contributed and continues to contribute to natural-science knowledge"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM773",
+            "text": {
+              "local": "utforske, lage og programmere teknologiske systemer som består av deler som virker sammen",
+              "en": "explore, make and program technological systems that consist of parts that work together"
+            },
+            "coreElements": [
+              "Teknologi"
+            ],
+            "verbs": [
+              "Utforske",
+              "Utforske"
+            ]
+          },
+          {
+            "code": "KM774",
+            "text": {
+              "local": "designe og lage et produkt basert på brukerbehov",
+              "en": "design and make a product based on user needs"
+            },
+            "coreElements": [
+              "Teknologi"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM775",
+            "text": {
+              "local": "reflektere over hvordan teknologi kan løse utfordringer, skape muligheter og føre til nye dilemmaer",
+              "en": "reflect on how technology can solve challenges, create opportunities and lead to new dilemmas"
+            },
+            "coreElements": [
+              "Teknologi"
+            ],
+            "verbs": [
+              "Reflektere"
+            ]
+          },
+          {
+            "code": "KM776",
+            "text": {
+              "local": "utforske faseoverganger og kjemiske reaksjoner og beskrive hva som kjennetegner dem",
+              "en": "explore phase transitions and chemical reactions and describe their properties"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Energi og materie"
+            ],
+            "verbs": [
+              "Utforske",
+              "Beskrive",
+              "Utforske",
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM829",
+            "text": {
+              "local": "bruke partikkelmodellen til å forklare faseoverganger og egenskapene til faste stoffer, væsker og gasser",
+              "en": "use the particle model to explain phase transitions and the properties of solids, liquids and gases"
+            },
+            "coreElements": [
+              "Energi og materie"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM777",
+            "text": {
+              "local": "utforske elektriske og magnetiske krefter gjennom forsøk og samtale om hvordan vi utnytter elektrisk energi i dagliglivet",
+              "en": "explore electric and magnetic forces through experiments and talk about how we exploit electric energy in everyday life"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Teknologi",
+              "Energi og materie"
+            ],
+            "verbs": [
+              "Utforske",
+              "Utforske"
+            ]
+          },
+          {
+            "code": "KM778",
+            "text": {
+              "local": "gjøre rede for hvordan organismer kan deles inn i hovedgrupper, og gi eksempler på ulike organismers særtrekk",
+              "en": "explain how organisms can be divided into main groups and give examples of the special features of different organisms"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Jorda og livet på jorda"
+            ],
+            "verbs": [
+              "Gjøre rede for"
+            ]
+          },
+          {
+            "code": "KM830",
+            "text": {
+              "local": "gjøre rede for betydningen av biologisk mangfold og gjennomføre tiltak for å bevare det biologiske mangfoldet i nærmiljøet",
+              "en": "explain the importance of biological diversity and implement measures to protect biological diversity in the local community"
+            },
+            "coreElements": [
+              "Jorda og livet på jorda"
+            ],
+            "verbs": [
+              "Gjennomføre",
+              "Gjøre rede for"
+            ]
+          },
+          {
+            "code": "KM779",
+            "text": {
+              "local": "foreslå tiltak for å bevare det biologiske mangfoldet i nordområdene og gi eksempler på betydningen av tradisjonell kunnskap i naturforvaltning",
+              "en": "propose measures to preserve biological diversity in northern areas and give examples of the importance of traditional knowledge in nature management"
+            },
+            "coreElements": [
+              "Jorda og livet på jorda"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM781",
+            "text": {
+              "local": "utforske og beskrive ulike næringsnett og bruke dette til å diskutere samspill i naturen",
+              "en": "explore and describe different food cycles and use this to discuss synergy in nature"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Jorda og livet på jorda"
+            ],
+            "verbs": [
+              "Utforske",
+              "Bruke",
+              "Beskrive",
+              "Utforske",
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM803",
+            "text": {
+              "local": "beskrive og visualisere hvordan døgn, månefaser og årstider oppstår, og samtale om hvordan dette påvirker livet på jorda",
+              "en": "describe and visualise how day and night, moon phases and seasons arise and talk about the effect on life on Earth"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Jorda og livet på jorda"
+            ],
+            "verbs": [
+              "Beskrive",
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM823",
+            "text": {
+              "local": "gjøre rede for jordas forutsetninger for liv og sammenligne med andre himmellegemer i universet",
+              "en": "explain the conditions for life on Earth and compare these to other celestial bodies in the universe"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Jorda og livet på jorda"
+            ],
+            "verbs": [
+              "Sammenligne",
+              "Gjøre rede for"
+            ]
+          },
+          {
+            "code": "KM804",
+            "text": {
+              "local": "gjøre rede for hvordan det geologiske kretsløpet, platetektonikk og ytre krefter er med på å forme og endre ulike landskap",
+              "en": "explain how the geological cycle, plate tectonics and external forces help shape and change different landscapes"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Jorda og livet på jorda"
+            ],
+            "verbs": [
+              "Gjøre rede for"
+            ]
+          },
+          {
+            "code": "KM826",
+            "text": {
+              "local": "gjøre rede for fysiske og psykiske forandringer i puberteten og samtale om hvordan dette kan påvirke følelser, handlinger og seksualitet",
+              "en": "explain physical and mental changes during puberty and talk about how these can affect emotions, actions and sexuality"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Kropp og helse"
+            ],
+            "verbs": [
+              "Gjøre rede for"
+            ]
+          },
+          {
+            "code": "KM827",
+            "text": {
+              "local": "gjøre rede for noen av kroppens organsystemer og beskrive hvordan systemene virker sammen",
+              "en": "describe some of the body’s organ systems and describe how the systems work together"
+            },
+            "coreElements": [
+              "Kropp og helse"
+            ],
+            "verbs": [
+              "Gjøre rede for",
+              "Beskrive",
+              "Beskrive"
+            ]
+          }
+        ]
+      },
+      {
+        "afterGrade": 10,
+        "label": {
+          "local": "Kompetansemål og vurdering 10. trinn",
+          "en": "Competence aims and assessment Year 10"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM831",
+            "text": {
+              "local": "stille spørsmål og lage hypoteser om naturfaglige fenomener, identifisere avhengige og uavhengige variabler og samle data for å finne svar",
+              "en": "ask questions and formulate hypotheses about natural-science phenomena, identify dependent and independent variables and collect data to find answers"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM832",
+            "text": {
+              "local": "analysere og bruke innsamlede data til å lage forklaringer, drøfte forklaringene i lys av relevant teori og vurdere kvaliteten på egne og andres utforskinger",
+              "en": "analyse and use collected data to make explanations, discuss the explanations in the light of relevant theory and assess the quality of one’s own and others’ explorations"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter"
+            ],
+            "verbs": [
+              "Vurdere",
+              "Drøfte",
+              "Bruke",
+              "Analysere"
+            ]
+          },
+          {
+            "code": "KM833",
+            "text": {
+              "local": "bruke og lage modeller for å forutsi eller beskrive naturfaglige prosesser og systemer og gjøre rede for modellenes styrker og begrensninger",
+              "en": "use and make models to predict or describe natural-science processes and systems and explain the strengths and limitations of the models"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter"
+            ],
+            "verbs": [
+              "Gjøre rede for",
+              "Bruke",
+              "Beskrive",
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM834",
+            "text": {
+              "local": "delta i risikovurderinger knyttet til forsøk og følge sikkerhetstiltakene",
+              "en": "participate in risk assessments in relation to experiments and comply with safety measures"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM835",
+            "text": {
+              "local": "gi eksempler på dagsaktuell forskning og drøfte hvordan ny kunnskap genereres gjennom samarbeid og kritisk tilnærming til eksisterende kunnskap",
+              "en": "give examples of current research and explain how new knowledge is generated through collaboration and a critical approach to existing knowledge"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter"
+            ],
+            "verbs": [
+              "Drøfte"
+            ]
+          },
+          {
+            "code": "KM836",
+            "text": {
+              "local": "utforske, forstå og lage teknologiske systemer som består av en sender og en mottaker",
+              "en": "explore, understand and make technological systems that have a transmitter and receiver"
+            },
+            "coreElements": [
+              "Teknologi"
+            ],
+            "verbs": [
+              "Utforske",
+              "Forstå",
+              "Utforske"
+            ]
+          },
+          {
+            "code": "KM837",
+            "text": {
+              "local": "bruke programmering til å utforske naturfaglige fenomener",
+              "en": "use programming to explore natural-science phenomena"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Teknologi"
+            ],
+            "verbs": [
+              "Utforske",
+              "Bruke",
+              "Utforske"
+            ]
+          },
+          {
+            "code": "KM838",
+            "text": {
+              "local": "utforske kjemiske reaksjoner, forklare massebevaring og gjøre rede for betydninger av noen forbrenningsreaksjoner",
+              "en": "explore chemical reactions, explain mass conservation and explain the importance of some combustion reactions"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Energi og materie"
+            ],
+            "verbs": [
+              "Utforske",
+              "Gjøre rede for",
+              "Utforske"
+            ]
+          },
+          {
+            "code": "KM839",
+            "text": {
+              "local": "bruke atommodeller og periodesystemet til å gjøre rede for egenskaper til grunnstoffer og kjemiske forbindelser",
+              "en": "use atomic models and the periodic table to explain the properties of the elements and chemical compounds"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Energi og materie"
+            ],
+            "verbs": [
+              "Gjøre rede for",
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM840",
+            "text": {
+              "local": "beskrive drivhuseffekten og gjøre rede for faktorer som kan forårsake globale klimaendringer",
+              "en": "describe the greenhouse effect and explain factors that can cause global climate changes"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Energi og materie"
+            ],
+            "verbs": [
+              "Gjøre rede for",
+              "Beskrive",
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM841",
+            "text": {
+              "local": "gjøre rede for energibevaring og energikvalitet og utforske ulike måter å omdanne, transportere og lagre energi på",
+              "en": "explain energy conservation and energy quality and explore different ways to convert, transport and store energy"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Teknologi",
+              "Energi og materie"
+            ],
+            "verbs": [
+              "Utforske",
+              "Gjøre rede for",
+              "Utforske"
+            ]
+          },
+          {
+            "code": "KM842",
+            "text": {
+              "local": "drøfte hvordan energiproduksjon og energibruk kan påvirke miljøet lokalt og globalt",
+              "en": "explain how energy production and energy use can affect the environment locally and globally"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Teknologi",
+              "Energi og materie"
+            ],
+            "verbs": [
+              "Drøfte"
+            ]
+          },
+          {
+            "code": "KM825",
+            "text": {
+              "local": "beskrive hvordan forskere har kommet fram til evolusjonsteorien og bruke denne til å forklare utvikling av biologisk mangfold",
+              "en": "describe how researchers have arrived at evolution theory and use it to explain the development of biological diversity"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Jorda og livet på jorda"
+            ],
+            "verbs": [
+              "Bruke",
+              "Beskrive",
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM843",
+            "text": {
+              "local": "sammenligne celler hos ulike organismer og beskrive sammenhenger mellom oppbygning og funksjon",
+              "en": "compare cells in various organisms and describe the connections between structure and function"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Jorda og livet på jorda"
+            ],
+            "verbs": [
+              "Sammenligne",
+              "Beskrive",
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM824",
+            "text": {
+              "local": "utforske sammenhenger mellom abiotiske og biotiske faktorer i et økosystem og diskutere hvordan energi og materie omdannes i kretsløp",
+              "en": "explore connections between abiotic and biotic factors in an ecosystem and discuss how energy and matter are converted in cycles"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Jorda og livet på jorda"
+            ],
+            "verbs": [
+              "Utforske",
+              "Utforske"
+            ]
+          },
+          {
+            "code": "KM810",
+            "text": {
+              "local": "gi eksempler på og drøfte aktuelle dilemmaer knyttet til utnyttelse av naturressurser og tap av biologisk mangfold",
+              "en": "give examples of and discuss current dilemmas related to exploitation of natural resources and the loss of biological diversity"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Jorda og livet på jorda"
+            ],
+            "verbs": [
+              "Drøfte"
+            ]
+          },
+          {
+            "code": "KM822",
+            "text": {
+              "local": "gi eksempler på samers tradisjonelle kunnskap om naturen og diskutere hvordan denne kunnskapen kan bidra til bærekraftig forvaltning av naturen",
+              "en": "give examples of traditional Sami knowledge about nature and discuss how this knowledge can contribute to sustainable nature management"
+            },
+            "coreElements": [
+              "Jorda og livet på jorda"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM805",
+            "text": {
+              "local": "gjøre rede for hvordan fotosyntese og celleånding gir energi til alt levende gjennom karbonkretsløpet",
+              "en": "explain how photosynthesis and cellular respiration produce energy for all living organisms throughout the carbon cycle"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Energi og materie",
+              "Jorda og livet på jorda"
+            ],
+            "verbs": [
+              "Gjøre rede for"
+            ]
+          },
+          {
+            "code": "KM806",
+            "text": {
+              "local": "bruke platetektonikkteorien til å forklare jordas utvikling over tid og gi eksempler på observasjoner som støtter teorien",
+              "en": "use plate tectonic theory to explain the development of Earth over time and give examples of observations that support this theory"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Jorda og livet på jorda"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM807",
+            "text": {
+              "local": "drøfte spørsmål knyttet til seksuell og reproduktiv helse",
+              "en": "discuss questions relating to sexual and reproductive health"
+            },
+            "coreElements": [
+              "Kropp og helse"
+            ],
+            "verbs": [
+              "Drøfte"
+            ]
+          },
+          {
+            "code": "KM808",
+            "text": {
+              "local": "sammenligne nervesystemet og hormonsystemet og beskrive hvordan rusmidler, legemidler, miljøgifter og doping påvirker signalsystemene",
+              "en": "compare the nervous system and hormone system and describe how drugs, medicines, environmental toxins and doping affect the cell signalling systems"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Kropp og helse"
+            ],
+            "verbs": [
+              "Sammenligne",
+              "Beskrive",
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM809",
+            "text": {
+              "local": "beskrive kroppens immunforsvar og hvordan vaksiner virker, og gjøre rede for hva vaksiner betyr for folkehelsen",
+              "en": "describe the body’s immune system and how vaccines work and explain the importance of vaccines for public health"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Kropp og helse"
+            ],
+            "verbs": [
+              "Gjøre rede for",
+              "Beskrive",
+              "Beskrive"
+            ]
+          }
+        ]
+      },
+      {
+        "afterGrade": 11,
+        "label": {
+          "local": "Kompetansemål og vurdering vg1 studieforberedende utdanningsprogram",
+          "en": "Competence aims and assessment vg1 programmes for general studies"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM811",
+            "text": {
+              "local": "utforske en selvvalgt naturfaglig problemstilling, presentere funn og argumentere for valg av metoder",
+              "en": "explore a self-chosen natural-science research question, present findings and argue for the choice of methods"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter"
+            ],
+            "verbs": [
+              "Utforske",
+              "Presentere",
+              "Utforske",
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM812",
+            "text": {
+              "local": "risikovurdere egne forsøk og håndtere avfallet fra disse på en forsvarlig måte",
+              "en": "carry out risk assessment of one’s own experiments and manage the resulting waste in a suitable manner"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM813",
+            "text": {
+              "local": "drøfte hvordan utvikling av naturvitenskapelige hypoteser, modeller og teorier bidrar til at vi kan forstå og forklare verden",
+              "en": "discuss how the development of natural-science hypotheses, models and theories helps us to understand and explain the world"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter"
+            ],
+            "verbs": [
+              "Forstå",
+              "Drøfte"
+            ]
+          },
+          {
+            "code": "KM814",
+            "text": {
+              "local": "vurdere og lage programmer som modellerer naturfaglige fenomener",
+              "en": "assess and make programs that model natural-science phenomena"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Teknologi"
+            ],
+            "verbs": [
+              "Vurdere"
+            ]
+          },
+          {
+            "code": "KM818",
+            "text": {
+              "local": "utforske og beskrive noen sentrale bølgefenomener",
+              "en": "explore and describe some central wave phenomena"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Teknologi",
+              "Energi og materie"
+            ],
+            "verbs": [
+              "Utforske",
+              "Beskrive",
+              "Utforske",
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM739",
+            "text": {
+              "local": "forklare hovedprinsippene for trådløs kommunikasjon og gi eksempler på hva slik teknologi brukes til",
+              "en": "explain the main principles of wireless communication and give examples of applications of this technology"
+            },
+            "coreElements": [
+              "Teknologi",
+              "Energi og materie"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM817",
+            "text": {
+              "local": "utforske og beskrive elektromagnetisk og ioniserende stråling, og vurdere informasjon om stråling og helseeffekter av ulike strålingstyper",
+              "en": "explore and describe electromagnetic and ionising radiation and assess information about radiation and the effect on health of various types of radiation"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Energi og materie",
+              "Kropp og helse"
+            ],
+            "verbs": [
+              "Utforske",
+              "Vurdere",
+              "Beskrive",
+              "Utforske",
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM762",
+            "text": {
+              "local": "beskrive big bang-teorien om hvordan universet har oppstått og utviklet seg, og gjøre rede for observasjoner som støtter denne teorien",
+              "en": "describe the Big Bang theory, and the origin and development of the universe, and explain observations that support this theory"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Energi og materie",
+              "Jorda og livet på jorda"
+            ],
+            "verbs": [
+              "Gjøre rede for",
+              "Beskrive",
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM815",
+            "text": {
+              "local": "utforske og gjøre rede for sammenhenger mellom kjemiske bindinger og egenskaper til ulike stoffer",
+              "en": "explore and explain the connections between chemical bonds and the properties of different substances"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Energi og materie"
+            ],
+            "verbs": [
+              "Utforske",
+              "Gjøre rede for",
+              "Utforske"
+            ]
+          },
+          {
+            "code": "KM816",
+            "text": {
+              "local": "utforske egenskaper og reaksjoner til noen organiske og uorganiske karbonforbindelser, gi eksempler på anvendelser og gjøre rede for karbonets betydning for livet på jorda",
+              "en": "explore the properties and reactions of some organic and inorganic carbon compounds, give examples of applications and explain the importance of carbon for life on Earth"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Energi og materie",
+              "Jorda og livet på jorda"
+            ],
+            "verbs": [
+              "Utforske",
+              "Gjøre rede for",
+              "Utforske"
+            ]
+          },
+          {
+            "code": "KM821",
+            "text": {
+              "local": "gjøre rede for hvordan noen miljøgifter kan akkumuleres i næringskjeder, og vurdere tiltak for å ta vare på helse og miljø",
+              "en": "explain how some environmental toxins can accumulate in food chains and assess measures to protect health and the environment"
+            },
+            "coreElements": [
+              "Energi og materie",
+              "Jorda og livet på jorda",
+              "Kropp og helse"
+            ],
+            "verbs": [
+              "Vurdere",
+              "Gjøre rede for"
+            ]
+          },
+          {
+            "code": "KM761",
+            "text": {
+              "local": "gjøre rede for funksjonene til noen næringsstoffer og diskutere hvorfor et variert kosthold er viktig i et helse- og bærekraftsperspektiv",
+              "en": "explain the functions of some nutrients and discuss why a varied diet is important in a health and sustainability perspective"
+            },
+            "coreElements": [
+              "Energi og materie",
+              "Jorda og livet på jorda",
+              "Kropp og helse"
+            ],
+            "verbs": [
+              "Gjøre rede for"
+            ]
+          },
+          {
+            "code": "KM760",
+            "text": {
+              "local": "drøfte aktuelle helse- og livsstilsspørsmål og vurdere pålitelighet i informasjon fra ulike kilder",
+              "en": "discuss current health and lifestyle issues and assess the reliability of information from various sources"
+            },
+            "coreElements": [
+              "Kropp og helse"
+            ],
+            "verbs": [
+              "Vurdere",
+              "Drøfte"
+            ]
+          },
+          {
+            "code": "KM819",
+            "text": {
+              "local": "beskrive DNA og hvordan egenskaper arves, og gjøre rede for hvordan arv er en forutsetning for evolusjon",
+              "en": "describe DNA and how characteristics are inherited and explain how heredity is a precondition for evolution"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Energi og materie",
+              "Jorda og livet på jorda"
+            ],
+            "verbs": [
+              "Gjøre rede for",
+              "Beskrive",
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM700",
+            "text": {
+              "local": "gjøre rede for hvordan klimaendringer påvirker evolusjon, utbredelse av arter og biologisk mangfold",
+              "en": "explain how climate changes affect evolution, the prevalence of species and biological diversity"
+            },
+            "coreElements": [
+              "Jorda og livet på jorda"
+            ],
+            "verbs": [
+              "Gjøre rede for"
+            ]
+          },
+          {
+            "code": "KM820",
+            "text": {
+              "local": "gi eksempler på bruk av bioteknologi og drøfte etiske spørsmål knyttet til bioteknologi",
+              "en": "give examples of the use of biotechnology and discuss ethical questions related to biotechnology"
+            },
+            "coreElements": [
+              "Teknologi",
+              "Jorda og livet på jorda"
+            ],
+            "verbs": [
+              "Drøfte"
+            ]
+          }
+        ]
+      },
+      {
+        "afterGrade": 11,
+        "label": {
+          "local": "Kompetansemål og vurdering vg1 bygg- og anleggsteknikk",
+          "en": "Competence aims and assessment vg1 building and construction"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM701",
+            "text": {
+              "local": "utforske en selvvalgt problemstilling knyttet til eget utdanningsprogram, presentere funn og argumentere for valg av metoder",
+              "en": "explore a self-chosen research question relating to one’s own education programme, present findings and argue for the choice of methods"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter"
+            ],
+            "verbs": [
+              "Utforske",
+              "Presentere",
+              "Utforske",
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM702",
+            "text": {
+              "local": "risikovurdere egne forsøk og håndtere avfallet fra disse på en forsvarlig måte",
+              "en": "carry out risk assessment of one’s own experiments and manage the resulting waste in a suitable manner"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM705",
+            "text": {
+              "local": "utforske og presentere teknologi knyttet til eget utdanningsprogram og vurdere den i et bærekraftsperspektiv",
+              "en": "explore and present technology relating to one’s own education programme and assess it in a sustainability perspective"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Teknologi"
+            ],
+            "verbs": [
+              "Utforske",
+              "Vurdere",
+              "Presentere",
+              "Utforske",
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM703",
+            "text": {
+              "local": "drøfte aktuelle helse- og livsstilspørsmål og vurdere pålitelighet i informasjon fra ulike kilder",
+              "en": "discuss current health and lifestyle issues and assess the reliability of information from different sources"
+            },
+            "coreElements": [
+              "Kropp og helse"
+            ],
+            "verbs": [
+              "Vurdere",
+              "Drøfte"
+            ]
+          },
+          {
+            "code": "KM704",
+            "text": {
+              "local": "gjøre rede for funksjonene til noen næringsstoffer og diskutere hvorfor et variert kosthold er viktig i et helse- og bærekraftsperspektiv",
+              "en": "explain the functions of some nutrients and discuss why a varied diet is important in a health and sustainability perspective"
+            },
+            "coreElements": [
+              "Energi og materie",
+              "Jorda og livet på jorda",
+              "Kropp og helse"
+            ],
+            "verbs": [
+              "Gjøre rede for"
+            ]
+          },
+          {
+            "code": "KM706",
+            "text": {
+              "local": "undersøke egenskapene til ulike materialer og overflatebehandlinger og vurdere bruk av disse i et bærekraftsperspektiv",
+              "en": "explore the properties of different materials and surface treatments and assess their use in a sustainability perspective"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Energi og materie",
+              "Jorda og livet på jorda"
+            ],
+            "verbs": [
+              "Vurdere"
+            ]
+          },
+          {
+            "code": "KM707",
+            "text": {
+              "local": "bruke begrepene energiovergang, energibevaring og virkningsgrad til å vurdere energiøkonomisering i bygg",
+              "en": "use the concepts of energy transition, energy conservation and efficiency to assess energy economy in buildings"
+            },
+            "coreElements": [
+              "Energi og materie"
+            ],
+            "verbs": [
+              "Vurdere",
+              "Bruke"
+            ]
+          }
+        ]
+      },
+      {
+        "afterGrade": 11,
+        "label": {
+          "local": "Kompetansemål og vurdering vg1 elektro og datateknologi",
+          "en": "Competence aims and assessment vg1 electrical engineering and computer technology"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM708",
+            "text": {
+              "local": "utforske en selvvalgt problemstilling knyttet til eget utdanningsprogram, presentere funn og argumentere for valg av metoder",
+              "en": "explore a self-chosen research question relating to one’s own education programme, present findings and argue for the choice of methods"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter"
+            ],
+            "verbs": [
+              "Utforske",
+              "Presentere",
+              "Utforske",
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM709",
+            "text": {
+              "local": "risikovurdere egne forsøk og håndtere avfallet fra disse på en forsvarlig måte",
+              "en": "carry out risk assessment of one’s own experiments and manage the resulting waste in a suitable manner"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM712",
+            "text": {
+              "local": "utforske og presentere teknologi knyttet til eget utdanningsprogram og vurdere den i et bærekraftsperspektiv",
+              "en": "explore and present technology relating to one’s own education programme and assess it in a sustainability perspective"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Teknologi"
+            ],
+            "verbs": [
+              "Utforske",
+              "Vurdere",
+              "Presentere",
+              "Utforske",
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM710",
+            "text": {
+              "local": "drøfte aktuelle helse- og livsstilspørsmål og vurdere pålitelighet i informasjon fra ulike kilder",
+              "en": "discuss current health and lifestyle issues and assess the reliability of information from different sources"
+            },
+            "coreElements": [
+              "Kropp og helse"
+            ],
+            "verbs": [
+              "Vurdere",
+              "Drøfte"
+            ]
+          },
+          {
+            "code": "KM711",
+            "text": {
+              "local": "gjøre rede for funksjonene til noen næringsstoffer og diskutere hvorfor et variert kosthold er viktig i et helse- og bærekraftsperspektiv",
+              "en": "explain the functions of some nutrients and discuss why a varied diet is important in a health and sustainability perspective"
+            },
+            "coreElements": [
+              "Energi og materie",
+              "Jorda og livet på jorda",
+              "Kropp og helse"
+            ],
+            "verbs": [
+              "Gjøre rede for"
+            ]
+          },
+          {
+            "code": "KM713",
+            "text": {
+              "local": "gjøre rede for sammenhenger mellom elektrisk energi og effekt og presentere noen energieffektive løsninger i bygg",
+              "en": "explain the connections between electrical energy and effect and present some energy-efficient solutions in buildings"
+            },
+            "coreElements": [
+              "Energi og materie"
+            ],
+            "verbs": [
+              "Gjøre rede for",
+              "Presentere",
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM714",
+            "text": {
+              "local": "bruke begrepene vekselstrømteknologi, likestrømsteknologi, energilagring og virkningsgrad for å beskrive og drøfte metoder for bærekraftig energiproduksjon",
+              "en": "use the terms alternating current technology, direct current technology, energy storage and efficiency to describe and discuss methods for sustainable energy production"
+            },
+            "coreElements": [
+              "Teknologi",
+              "Energi og materie"
+            ],
+            "verbs": [
+              "Drøfte",
+              "Bruke",
+              "Beskrive",
+              "Beskrive"
+            ]
+          }
+        ]
+      },
+      {
+        "afterGrade": 11,
+        "label": {
+          "local": "Kompetansemål og vurdering vg1 frisør, blomster, interiør og eksponeringsdesign",
+          "en": "Competence aims and assessment vg1 hairdressing, floral, interior and retail design"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM723",
+            "text": {
+              "local": "utforske en selvvalgt problemstilling knyttet til eget utdanningsprogram, presentere funn og argumentere for valg av metoder",
+              "en": "explore a self-chosen research question relating to one’s own education programme, present findings and argue for the choice of methods"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter"
+            ],
+            "verbs": [
+              "Utforske",
+              "Presentere",
+              "Utforske",
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM724",
+            "text": {
+              "local": "risikovurdere egne forsøk og håndtere avfallet fra disse på en forsvarlig måte",
+              "en": "carry out risk assessment of one’s own experiments and manage the resulting waste in a suitable manner"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM725",
+            "text": {
+              "local": "utforske og presentere teknologi knyttet til eget utdanningsprogram og vurdere den i et bærekraftsperspektiv",
+              "en": "explore and present technology relating to one’s own education programme and assess it in a sustainability perspective"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Teknologi"
+            ],
+            "verbs": [
+              "Utforske",
+              "Vurdere",
+              "Presentere",
+              "Utforske",
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM726",
+            "text": {
+              "local": "drøfte aktuelle helse- og livsstilspørsmål og vurdere pålitelighet i informasjon fra ulike kilder",
+              "en": "discuss current health and lifestyle issues and assess the reliability of information from different sources"
+            },
+            "coreElements": [
+              "Kropp og helse"
+            ],
+            "verbs": [
+              "Vurdere",
+              "Drøfte"
+            ]
+          },
+          {
+            "code": "KM727",
+            "text": {
+              "local": "gjøre rede for funksjonene til noen næringsstoffer og diskutere hvorfor et variert kosthold er viktig i et helse- og bærekraftsperspektiv",
+              "en": "explain the functions of some nutrients and discuss why a varied diet is important in a health and sustainability perspective"
+            },
+            "coreElements": [
+              "Energi og materie",
+              "Jorda og livet på jorda",
+              "Kropp og helse"
+            ],
+            "verbs": [
+              "Gjøre rede for"
+            ]
+          },
+          {
+            "code": "KM728",
+            "text": {
+              "local": "undersøke og vurdere livsløpet til ulike produkter i et bærekraftsperspektiv",
+              "en": "examine and assess the life cycle of various products from a sustainability perspective"
+            },
+            "coreElements": [
+              "Jorda og livet på jorda"
+            ],
+            "verbs": [
+              "Vurdere"
+            ]
+          },
+          {
+            "code": "KM729",
+            "text": {
+              "local": "utforske egenskaper og reaksjoner til noen stoffer og stoffblandinger som er relevante for eget utdanningsprogram",
+              "en": "explore the properties and reactions of some substances and substance mixtures that are relevant to the education programme"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Energi og materie"
+            ],
+            "verbs": [
+              "Utforske",
+              "Utforske"
+            ]
+          }
+        ]
+      },
+      {
+        "afterGrade": 11,
+        "label": {
+          "local": "Kompetansemål og vurdering vg1 helse- og oppvekstfag",
+          "en": "Competence aims and assessment vg1 health and early development"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM715",
+            "text": {
+              "local": "utforske en selvvalgt problemstilling knyttet til eget utdanningsprogram, presentere funn og argumentere for valg av metoder",
+              "en": "explore a self-chosen research question relating to one’s own education programme, present findings and argue for the choice of methods"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter"
+            ],
+            "verbs": [
+              "Utforske",
+              "Presentere",
+              "Utforske",
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM716",
+            "text": {
+              "local": "risikovurdere egne forsøk og håndtere avfallet fra disse på en forsvarlig måte",
+              "en": "carry out risk assessment of one’s own experiments and manage the resulting waste in a suitable manner"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM699",
+            "text": {
+              "local": "utforske og presentere teknologi knyttet til eget utdanningsprogram og vurdere den i et bærekraftsperspektiv",
+              "en": "explore and present technology relating to their own education programme and assess it in a sustainability perspective"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Teknologi"
+            ],
+            "verbs": [
+              "Utforske",
+              "Vurdere",
+              "Presentere",
+              "Utforske",
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM687",
+            "text": {
+              "local": "drøfte aktuelle helse- og livsstilspørsmål og vurdere pålitelighet i informasjon fra ulike kilder",
+              "en": "discuss current health and lifestyle issues and assess the reliability of information from different sources"
+            },
+            "coreElements": [
+              "Kropp og helse"
+            ],
+            "verbs": [
+              "Vurdere",
+              "Drøfte"
+            ]
+          },
+          {
+            "code": "KM680",
+            "text": {
+              "local": "gjøre rede for funksjonene til noen næringsstoffer og diskutere hvorfor et variert kosthold er viktig i et helse- og bærekraftsperspektiv",
+              "en": "explain the functions of some nutrients and discuss why a varied diet is important in a health and sustainability perspective"
+            },
+            "coreElements": [
+              "Energi og materie",
+              "Kropp og helse"
+            ],
+            "verbs": [
+              "Gjøre rede for"
+            ]
+          },
+          {
+            "code": "KM697",
+            "text": {
+              "local": "utforske egenskaper og reaksjoner til noen stoffer og stoffblandinger som er relevante for eget utdanningsprogram",
+              "en": "explore the properties and reactions of some substances and substance mixtures that are relevant to the education programme"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Energi og materie"
+            ],
+            "verbs": [
+              "Utforske",
+              "Utforske"
+            ]
+          },
+          {
+            "code": "KM698",
+            "text": {
+              "local": "drøfte hvilken betydning mikroorganismer har for kropp og helse",
+              "en": "discuss the importance of microorganisms for the body and health"
+            },
+            "coreElements": [
+              "Kropp og helse"
+            ],
+            "verbs": [
+              "Drøfte"
+            ]
+          }
+        ]
+      },
+      {
+        "afterGrade": 11,
+        "label": {
+          "local": "Kompetansemål og vurdering vg1 håndverk, design og produktutvikling",
+          "en": "Competence aims and assessment vg1 crafts, design and product development"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM744",
+            "text": {
+              "local": "utforske en selvvalgt problemstilling knyttet til eget utdanningsprogram, presentere funn og argumentere for valg av metoder",
+              "en": "explore a self-chosen research question relating to one’s own education programme, present findings and argue for the choice of methods"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter"
+            ],
+            "verbs": [
+              "Utforske",
+              "Presentere",
+              "Utforske",
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM745",
+            "text": {
+              "local": "risikovurdere egne forsøk og håndtere avfallet fra disse på en forsvarlig måte",
+              "en": "carry out risk assessment of one’s own experiments and manage the resulting waste in a suitable manner"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM746",
+            "text": {
+              "local": "utforske og presentere teknologi knyttet til eget utdanningsprogram og vurdere den i et bærekraftsperspektiv",
+              "en": "explore and present technology relating to one’s own education programme and assess it in a sustainability perspective"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Teknologi"
+            ],
+            "verbs": [
+              "Utforske",
+              "Vurdere",
+              "Presentere",
+              "Utforske",
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM747",
+            "text": {
+              "local": "drøfte aktuelle helse- og livsstilspørsmål og vurdere pålitelighet i informasjon fra ulike kilder",
+              "en": "discuss current health and lifestyle issues and assess the reliability of information from different sources"
+            },
+            "coreElements": [
+              "Kropp og helse"
+            ],
+            "verbs": [
+              "Vurdere",
+              "Drøfte"
+            ]
+          },
+          {
+            "code": "KM748",
+            "text": {
+              "local": "gjøre rede for funksjonene til noen næringsstoffer og diskutere hvorfor et variert kosthold er viktig i et helse- og bærekraftsperspektiv",
+              "en": "explain the functions of some nutrients and discuss why a varied diet is important in a health and sustainability perspective"
+            },
+            "coreElements": [
+              "Energi og materie",
+              "Jorda og livet på jorda",
+              "Kropp og helse"
+            ],
+            "verbs": [
+              "Gjøre rede for"
+            ]
+          },
+          {
+            "code": "KM750",
+            "text": {
+              "local": "undersøke og vurdere livsløpet til ulike produkter i et bærekraftsperspektiv",
+              "en": "investigate and assess the life cycle of various products in a sustainability perspective"
+            },
+            "coreElements": [
+              "Energi og materie",
+              "Jorda og livet på jorda"
+            ],
+            "verbs": [
+              "Vurdere"
+            ]
+          },
+          {
+            "code": "KM749",
+            "text": {
+              "local": "undersøke egenskapene til ulike materialer og overflatebehandlinger og vurdere bruk av disse i et bærekraftsperspektiv",
+              "en": "explore the properties of different materials and surface treatments and assess their use from a sustainability perspective"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Energi og materie",
+              "Jorda og livet på jorda"
+            ],
+            "verbs": [
+              "Vurdere"
+            ]
+          }
+        ]
+      },
+      {
+        "afterGrade": 11,
+        "label": {
+          "local": "Kompetansemål og vurdering vg1 informasjonsteknologi og medieproduksjon",
+          "en": "Competence aims and assessment vg1 information technology and media production"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM751",
+            "text": {
+              "local": "utforske en selvvalgt problemstilling knyttet til eget utdanningsprogram, presentere funn og argumentere for valg av metoder",
+              "en": "explore a self-chosen research question relating to one’s own education programme, present findings and argue for the choice of methods"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter"
+            ],
+            "verbs": [
+              "Utforske",
+              "Presentere",
+              "Utforske",
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM752",
+            "text": {
+              "local": "risikovurdere egne forsøk og håndtere avfallet fra disse på en forsvarlig måte",
+              "en": "carry out risk assessment of one’s own experiments and manage the resulting waste in a suitable manner"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM753",
+            "text": {
+              "local": "utforske og presentere teknologi knyttet til eget utdanningsprogram og vurdere den i et bærekraftsperspektiv",
+              "en": "explore and present technology relating to one’s own education programme and assess it in a sustainability perspective"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Teknologi"
+            ],
+            "verbs": [
+              "Utforske",
+              "Vurdere",
+              "Presentere",
+              "Utforske",
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM754",
+            "text": {
+              "local": "drøfte aktuelle helse- og livsstilspørsmål og vurdere pålitelighet i informasjon fra ulike kilder",
+              "en": "discuss current health and lifestyle issues and assess the reliability of information from different sources"
+            },
+            "coreElements": [
+              "Kropp og helse"
+            ],
+            "verbs": [
+              "Vurdere",
+              "Drøfte"
+            ]
+          },
+          {
+            "code": "KM755",
+            "text": {
+              "local": "gjøre rede for funksjonene til noen næringsstoffer og diskutere hvorfor et variert kosthold er viktig i et helse- og bærekraftsperspektiv",
+              "en": "explain the functions of some nutrients and discuss why a varied diet is important in a health and sustainability perspective"
+            },
+            "coreElements": [
+              "Energi og materie",
+              "Kropp og helse"
+            ],
+            "verbs": [
+              "Gjøre rede for"
+            ]
+          },
+          {
+            "code": "KM756",
+            "text": {
+              "local": "beskrive ulike typer elektromagnetisk stråling og gi eksempler på hvordan stråling benyttes i trådløs kommunikasjon",
+              "en": "describe different types of electromagnetic radiation and give examples of how radiation is used in wireless communication"
+            },
+            "coreElements": [
+              "Teknologi",
+              "Energi og materie"
+            ],
+            "verbs": [
+              "Beskrive",
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM757",
+            "text": {
+              "local": "utforske bølgefenomener knyttet til lyd og akustikk",
+              "en": "explore wave phenomena relating to sound and acoustics"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Teknologi",
+              "Energi og materie"
+            ],
+            "verbs": [
+              "Utforske",
+              "Utforske"
+            ]
+          }
+        ]
+      },
+      {
+        "afterGrade": 11,
+        "label": {
+          "local": "Kompetansemål og vurdering vg1 naturbruk",
+          "en": "Competence aims and assessment vg1 agriculture, fishing and forestry"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM681",
+            "text": {
+              "local": "utforske en selvvalgt problemstilling knyttet til eget utdanningsprogram, presentere funn og argumentere for valg av metoder",
+              "en": "explore a self-chosen research question relating to one’s own education programme, present findings and argue for the choice of methods"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter"
+            ],
+            "verbs": [
+              "Utforske",
+              "Presentere",
+              "Utforske",
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM682",
+            "text": {
+              "local": "risikovurdere egne forsøk og håndtere avfallet fra disse på en forsvarlig måte",
+              "en": "carry out risk assessment of one’s own experiments and manage the resulting waste in a suitable manner"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM683",
+            "text": {
+              "local": "utforske og presentere teknologi knyttet til eget utdanningsprogram og vurdere den i et bærekraftsperspektiv",
+              "en": "explore and present technology relating to one’s own education programme and assess it in a sustainability perspective"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Teknologi"
+            ],
+            "verbs": [
+              "Utforske",
+              "Vurdere",
+              "Presentere",
+              "Utforske",
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM684",
+            "text": {
+              "local": "drøfte aktuelle helse- og livsstilspørsmål og vurdere pålitelighet i informasjon fra ulike kilder",
+              "en": "discuss current health and lifestyle issues and assess the reliability of information from different sources"
+            },
+            "coreElements": [
+              "Kropp og helse"
+            ],
+            "verbs": [
+              "Vurdere",
+              "Drøfte"
+            ]
+          },
+          {
+            "code": "KM685",
+            "text": {
+              "local": "gjøre rede for funksjonene til noen næringsstoffer og diskutere hvorfor et variert kosthold er viktig i et helse- og bærekraftsperspektiv",
+              "en": "explain the functions of some nutrients and discuss why a varied diet is important in a health and sustainability perspective"
+            },
+            "coreElements": [
+              "Energi og materie",
+              "Kropp og helse"
+            ],
+            "verbs": [
+              "Gjøre rede for"
+            ]
+          },
+          {
+            "code": "KM686",
+            "text": {
+              "local": "undersøke problemstillinger knyttet til arealbruk, gjøre rede for hvordan endringer kan påvirke økosystemer, og foreslå bærekraftige løsninger",
+              "en": "explore issues related to land use, explain how changes can affect ecosystems and propose sustainable solutions"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Jorda og livet på jorda"
+            ],
+            "verbs": [
+              "Gjøre rede for"
+            ]
+          },
+          {
+            "code": "KM688",
+            "text": {
+              "local": "gjøre rede for hvorfor noen grunnstoffer er viktige for liv, og vurdere hvordan menneskelig aktivitet kan påvirke kretsløpene til disse stoffene",
+              "en": "explain why some elements are important for life and assess how human activity can affect the cycles of these elements"
+            },
+            "coreElements": [
+              "Energi og materie",
+              "Jorda og livet på jorda"
+            ],
+            "verbs": [
+              "Vurdere",
+              "Gjøre rede for"
+            ]
+          }
+        ]
+      },
+      {
+        "afterGrade": 11,
+        "label": {
+          "local": "Kompetansemål og vurdering vg1 restaurant- og matfag",
+          "en": "Competence aims and assessment vg1 restaurant and food"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM696",
+            "text": {
+              "local": "utforske en selvvalgt problemstilling knyttet til eget utdanningsprogram, presentere funn og argumentere for valg av metoder",
+              "en": "explore a self-chosen research question relating to one’s own education programme, present findings and argue for the choice of methods"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter"
+            ],
+            "verbs": [
+              "Utforske",
+              "Presentere",
+              "Utforske",
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM689",
+            "text": {
+              "local": "risikovurdere egne forsøk og håndtere avfallet fra disse på en forsvarlig måte",
+              "en": "carry out risk assessment of one’s own experiments and manage the resulting waste in a suitable manner"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM690",
+            "text": {
+              "local": "utforske og presentere teknologi knyttet til eget utdanningsprogram og vurdere den i et bærekraftsperspektiv",
+              "en": "explore and present technology relating to one’s own education programme and assess it in a sustainability perspective"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Teknologi"
+            ],
+            "verbs": [
+              "Utforske",
+              "Vurdere",
+              "Presentere",
+              "Utforske",
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM691",
+            "text": {
+              "local": "drøfte aktuelle helse- og livsstilspørsmål og vurdere pålitelighet i informasjon fra ulike kilder",
+              "en": "discuss current health and lifestyle issues and assess the reliability of information from different sources"
+            },
+            "coreElements": [
+              "Kropp og helse"
+            ],
+            "verbs": [
+              "Vurdere",
+              "Drøfte"
+            ]
+          },
+          {
+            "code": "KM692",
+            "text": {
+              "local": "gjøre rede for funksjonene til noen næringsstoffer og diskutere hvorfor et variert kosthold er viktig i et helse- og bærekraftsperspektiv",
+              "en": "explain the functions of some nutrients and discuss why a varied diet is important in a health and sustainability perspective"
+            },
+            "coreElements": [
+              "Energi og materie",
+              "Kropp og helse"
+            ],
+            "verbs": [
+              "Gjøre rede for"
+            ]
+          },
+          {
+            "code": "KM693",
+            "text": {
+              "local": "utforske egenskaper og reaksjoner til noen stoffer og stoffblandinger som er relevante for eget utdanningsprogram",
+              "en": "explore the properties and reactions of some substances and substance mixtures that are relevant to the education programme"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Energi og materie"
+            ],
+            "verbs": [
+              "Utforske",
+              "Utforske"
+            ]
+          },
+          {
+            "code": "KM694",
+            "text": {
+              "local": "gjøre rede for mattrygghet og betydningen av mikroorganismer i matproduksjon, for driftshygiene og ved håndtering av mat",
+              "en": "explain food safety and the importance of microorganisms for food production, operations hygiene and food processing"
+            },
+            "coreElements": [
+              "Jorda og livet på jorda",
+              "Kropp og helse"
+            ],
+            "verbs": [
+              "Gjøre rede for"
+            ]
+          }
+        ]
+      },
+      {
+        "afterGrade": 11,
+        "label": {
+          "local": "Kompetansemål og vurdering vg1 salg, service og reiseliv",
+          "en": "Competence aims and assessment vg1 sales, service and tourism"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM758",
+            "text": {
+              "local": "utforske en selvvalgt problemstilling knyttet til eget utdanningsprogram, presentere funn og argumentere for valg av metoder",
+              "en": "explore a self-chosen research question relating to one’s own education programme, present findings and argue for the choice of methods"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter"
+            ],
+            "verbs": [
+              "Utforske",
+              "Presentere",
+              "Utforske",
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM741",
+            "text": {
+              "local": "risikovurdere egne forsøk og håndtere avfallet fra disse på en forsvarlig måte",
+              "en": "carry out risk assessment of one’s own experiments and manage the resulting waste in a suitable manner"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM759",
+            "text": {
+              "local": "utforske og presentere teknologi knyttet til eget utdanningsprogram og vurdere den i et bærekraftsperspektiv",
+              "en": "explore and present technology relating to one’s own education programme and assess it in a sustainability perspective"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Teknologi"
+            ],
+            "verbs": [
+              "Utforske",
+              "Vurdere",
+              "Presentere",
+              "Utforske",
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM740",
+            "text": {
+              "local": "drøfte aktuelle helse- og livsstilspørsmål og vurdere pålitelighet i informasjon fra ulike kilder",
+              "en": "discuss current health and lifestyle issues and assess the reliability of information from different sources"
+            },
+            "coreElements": [
+              "Kropp og helse"
+            ],
+            "verbs": [
+              "Vurdere",
+              "Drøfte"
+            ]
+          },
+          {
+            "code": "KM738",
+            "text": {
+              "local": "gjøre rede for funksjonene til noen næringsstoffer og diskutere hvorfor et variert kosthold er viktig i et helse- og bærekraftsperspektiv",
+              "en": "explain the functions of some nutrients and discuss why a varied diet is important in a health and sustainability perspective"
+            },
+            "coreElements": [
+              "Energi og materie",
+              "Kropp og helse"
+            ],
+            "verbs": [
+              "Gjøre rede for"
+            ]
+          },
+          {
+            "code": "KM721",
+            "text": {
+              "local": "undersøke ulike materialers og produkters livsløp og vurdere disse i et bærekraftsperspektiv",
+              "en": "explore the life cycle of various materials and products and assess them from a sustainability perspective"
+            },
+            "coreElements": [
+              "Energi og materie",
+              "Jorda og livet på jorda"
+            ],
+            "verbs": [
+              "Vurdere"
+            ]
+          },
+          {
+            "code": "KM722",
+            "text": {
+              "local": "gjøre rede for aktuelle miljøutfordringer knyttet til handel og reiseliv og drøfte disse i et bærekraftsperspektiv",
+              "en": "explain current environmental challenges relating to trade and tourism and discuss them from a sustainability perspective"
+            },
+            "coreElements": [
+              "Jorda og livet på jorda"
+            ],
+            "verbs": [
+              "Gjøre rede for",
+              "Drøfte"
+            ]
+          }
+        ]
+      },
+      {
+        "afterGrade": 11,
+        "label": {
+          "local": "Kompetansemål og vurdering vg1 teknologi- og industrifag",
+          "en": "Competence aims and assessment vg1 technical and industrial production"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM695",
+            "text": {
+              "local": "utforske en selvvalgt problemstilling knyttet til eget utdanningsprogram, presentere funn og argumentere for valg av metoder",
+              "en": "explore a self-chosen research question relating to one’s own education programme, present findings and argue for the choice of methods"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter"
+            ],
+            "verbs": [
+              "Utforske",
+              "Presentere",
+              "Utforske",
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM717",
+            "text": {
+              "local": "risikovurdere egne forsøk og håndtere avfallet fra disse på en forsvarlig måte",
+              "en": "carry out risk assessment of one’s own experiments and manage the resulting waste in a suitable manner"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM718",
+            "text": {
+              "local": "utforske og presentere teknologi knyttet til eget utdanningsprogram og vurdere den i et bærekraftsperspektiv",
+              "en": "explore and present technology relating to one’s own education programme and assess it in a sustainability perspective"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Teknologi"
+            ],
+            "verbs": [
+              "Utforske",
+              "Vurdere",
+              "Presentere",
+              "Utforske",
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM719",
+            "text": {
+              "local": "drøfte aktuelle helse- og livsstilspørsmål og vurdere pålitelighet i informasjon fra ulike kilder",
+              "en": "discuss current health and lifestyle issues and assess the reliability of information from different sources"
+            },
+            "coreElements": [
+              "Kropp og helse"
+            ],
+            "verbs": [
+              "Vurdere",
+              "Drøfte"
+            ]
+          },
+          {
+            "code": "KM720",
+            "text": {
+              "local": "gjøre rede for funksjonene til noen næringsstoffer og diskutere hvorfor et variert kosthold er viktig i et helse- og bærekraftsperspektiv",
+              "en": "explain the functions of some nutrients and discuss why a varied diet is important in a health and sustainability perspective"
+            },
+            "coreElements": [
+              "Energi og materie",
+              "Kropp og helse"
+            ],
+            "verbs": [
+              "Gjøre rede for"
+            ]
+          },
+          {
+            "code": "KM742",
+            "text": {
+              "local": "undersøke egenskapene til ulike materialer og overflatebehandlinger og vurdere bruk av disse i et bærekraftsperspektiv",
+              "en": "explore the properties of different materials and surface treatments and assess their use from a sustainability perspective"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Energi og materie",
+              "Jorda og livet på jorda"
+            ],
+            "verbs": [
+              "Vurdere"
+            ]
+          },
+          {
+            "code": "KM743",
+            "text": {
+              "local": "undersøke og vurdere ulike metoder for lagring og overføring av energi",
+              "en": "explore and assess different methods for storing and transferring energy"
+            },
+            "coreElements": [
+              "Energi og materie"
+            ],
+            "verbs": [
+              "Vurdere"
+            ]
+          }
+        ]
+      },
+      {
+        "afterGrade": 13,
+        "label": {
+          "local": "Kompetansemål og vurdering vg3 påbygging til generell studiekompetanse",
+          "en": "Competence aims and assessment vg3 supplementary programme for general university and college admissions certification"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM730",
+            "text": {
+              "local": "drøfte hvordan utvikling av naturvitenskapelige hypoteser, modeller og teorier bidrar til at vi kan forstå og forklare verden",
+              "en": "explain how the development of natural-science hypotheses, models and theories helps us to understand and explain the world"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter"
+            ],
+            "verbs": [
+              "Forstå",
+              "Drøfte"
+            ]
+          },
+          {
+            "code": "KM731",
+            "text": {
+              "local": "vurdere og lage programmer som modellerer naturfaglige fenomener",
+              "en": "assess and make programs that model natural-science phenomena"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Teknologi"
+            ],
+            "verbs": [
+              "Vurdere"
+            ]
+          },
+          {
+            "code": "KM732",
+            "text": {
+              "local": "beskrive big bang-teorien om hvordan universet har oppstått og utviklet seg, og gjøre rede for observasjoner som støtter denne teorien",
+              "en": "describe the Big Bang theory, and the origin and development of the universe, and explain observations that support this theory"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Energi og materie",
+              "Jorda og livet på jorda"
+            ],
+            "verbs": [
+              "Gjøre rede for",
+              "Beskrive",
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM733",
+            "text": {
+              "local": "utforske og beskrive elektromagnetisk og ioniserende stråling, og vurdere informasjon om stråling og helseeffekter av ulike strålingstyper",
+              "en": "explore and describe electromagnetic and ionising radiation and assess information on radiation and the health effects of various types of radiation"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Energi og materie",
+              "Kropp og helse"
+            ],
+            "verbs": [
+              "Utforske",
+              "Vurdere",
+              "Beskrive",
+              "Utforske",
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM734",
+            "text": {
+              "local": "utforske og beskrive noen sentrale bølgefenomener",
+              "en": "explore and describe some central wave phenomena"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Teknologi",
+              "Energi og materie"
+            ],
+            "verbs": [
+              "Utforske",
+              "Beskrive",
+              "Utforske",
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM802",
+            "text": {
+              "local": "forklare hovedprinsippene for trådløs kommunikasjon og gi eksempler på hva slik teknologi brukes til",
+              "en": "explain the main principles of wireless communication and give examples of applications of this technology"
+            },
+            "coreElements": [
+              "Teknologi",
+              "Energi og materie"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM735",
+            "text": {
+              "local": "beskrive DNA og hvordan egenskaper arves, og gjøre rede for hvordan arv er en forutsetning for evolusjon",
+              "en": "describe DNA and how characteristics are inherited and explain how heredity is a precondition for evolution"
+            },
+            "coreElements": [
+              "Naturvitenskapelige praksiser og tenkemåter",
+              "Energi og materie",
+              "Jorda og livet på jorda"
+            ],
+            "verbs": [
+              "Gjøre rede for",
+              "Beskrive",
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM844",
+            "text": {
+              "local": "gjøre rede for hvordan klimaendringer påvirker evolusjon, utbredelse av arter og biologisk mangfold",
+              "en": "explain how climate changes affect evolution, the prevalence of species and biological diversity"
+            },
+            "coreElements": [
+              "Jorda og livet på jorda"
+            ],
+            "verbs": [
+              "Gjøre rede for"
+            ]
+          },
+          {
+            "code": "KM736",
+            "text": {
+              "local": "gi eksempler på bruk av bioteknologi og drøfte etiske spørsmål knyttet til bioteknologi",
+              "en": "give examples of the use of biotechnology and discuss ethical questions related to biotechnology"
+            },
+            "coreElements": [
+              "Teknologi",
+              "Jorda og livet på jorda"
+            ],
+            "verbs": [
+              "Drøfte"
+            ]
+          },
+          {
+            "code": "KM737",
+            "text": {
+              "local": "gjøre rede for hvordan noen miljøgifter kan akkumuleres i næringskjeder, og vurdere tiltak for å ta vare på helse og miljø",
+              "en": "explain how some environmental toxins can accumulate in food chains and assess measures to protect health and the environment"
+            },
+            "coreElements": [
+              "Energi og materie",
+              "Jorda og livet på jorda",
+              "Kropp og helse"
+            ],
+            "verbs": [
+              "Vurdere",
+              "Gjøre rede for"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,626 @@
+{
+  "country": "norway",
+  "source": {
+    "api": "https://data.udir.no/kl06/v201906/laereplaner-lk20/KHV01-02",
+    "curriculum": "LK20",
+    "license": "NLOD",
+    "lastSynced": "2026-03-02T21:20:44Z"
+  },
+  "subject": {
+    "code": "KHV01-02",
+    "name": {
+      "local": "Læreplan i kunst og håndverk",
+      "en": "Curriculum for Art and crafts"
+    },
+    "coreElements": [],
+    "gradeBands": [
+      {
+        "afterGrade": 2,
+        "label": {
+          "local": "Kompetansemål og vurdering 2. trinn",
+          "en": "Competence aims and assessment Year 2"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM1787",
+            "text": {
+              "local": "bruke håndverksteknikker og håndverktøy i utforming av tre, leire og tekstil på en miljøbevisst og trygg måte",
+              "en": "use craft techniques and hand tools for shaping wood, clay and textiles in a safe and environmentally friend way"
+            },
+            "coreElements": [
+              "Håndverksferdigheter"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM1809",
+            "text": {
+              "local": "undersøke egenskaper ved materialer og dele sanseerfaringer",
+              "en": "investigate the characteristics of materials and share their sensory experiences"
+            },
+            "coreElements": [
+              "Håndverksferdigheter",
+              "Kunst- og designprosesser"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1810",
+            "text": {
+              "local": "utforske ulike visuelle uttrykk og bygge videre på andres ideer i eget skapende arbeid",
+              "en": "explore various visual expressions and build further on the ideas of others in their own creative work"
+            },
+            "coreElements": [
+              "Håndverksferdigheter",
+              "Kunst- og designprosesser",
+              "Visuell kommunikasjon",
+              "Kulturforståelse"
+            ],
+            "verbs": [
+              "Utforske"
+            ]
+          },
+          {
+            "code": "KM1811",
+            "text": {
+              "local": "eksperimentere med form, farge, rytme og kontrast",
+              "en": "experiment with shapes, colours, rhythm and contrasts"
+            },
+            "coreElements": [
+              "Kunst- og designprosesser",
+              "Visuell kommunikasjon"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1812",
+            "text": {
+              "local": "studere form gjennom å tegne, male og fotografere",
+              "en": "study shapes through drawing, painting and photography"
+            },
+            "coreElements": [
+              "Kunst- og designprosesser",
+              "Visuell kommunikasjon"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1815",
+            "text": {
+              "local": "skape fortellinger ved hjelp av digitale verktøy etter inspirasjon fra lokale og nasjonale kunstverk",
+              "en": "create stories with the aid of digital tools after being inspired by local and national art"
+            },
+            "coreElements": [
+              "Kunst- og designprosesser",
+              "Visuell kommunikasjon",
+              "Kulturforståelse"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1816",
+            "text": {
+              "local": "forestille seg og beskrive framtiden gjennom tegning og modeller",
+              "en": "imagine and describe the future through drawings and models"
+            },
+            "coreElements": [
+              "Kunst- og designprosesser",
+              "Visuell kommunikasjon",
+              "Kulturforståelse"
+            ],
+            "verbs": [
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM1813",
+            "text": {
+              "local": "planlegge og konstruere i naturmaterialer etter inspirasjon fra samisk og lokal byggeskikk",
+              "en": "plan and make constructions in natural materials after being inspired by Sami and local building customs"
+            },
+            "coreElements": [
+              "Håndverksferdigheter",
+              "Kunst- og designprosesser",
+              "Kulturforståelse"
+            ],
+            "verbs": [
+              "Planlegge"
+            ]
+          },
+          {
+            "code": "KM1814",
+            "text": {
+              "local": "vise fram og presentere objekter gjennom utstilling eller samling",
+              "en": "show and present objects through exhibitions or collections"
+            },
+            "coreElements": [
+              "Kunst- og designprosesser",
+              "Visuell kommunikasjon"
+            ],
+            "verbs": [
+              "Presentere"
+            ]
+          }
+        ]
+      },
+      {
+        "afterGrade": 4,
+        "label": {
+          "local": "Kompetansemål og vurdering 4. trinn",
+          "en": "Competence aims and assessment Year 4"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM1818",
+            "text": {
+              "local": "bruke håndverktøy og sammenføyningsteknikker i tre, leire og tekstil på en miljøbevisst og trygg måte",
+              "en": "use hand tools and joining techniques for wood, clay and textiles in a safe and environmentally friendly way"
+            },
+            "coreElements": [
+              "Håndverksferdigheter"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM1820",
+            "text": {
+              "local": "prøve ut ulike ideer og muligheter i gjenbruksmaterialer og formidle til andre hvordan man i egen hverdag kan bidra til å ivareta natur og miljø",
+              "en": "test different ideas and possibilities with recycled materials and convey to other others how they can help preserve nature and the environment in their daily lives"
+            },
+            "coreElements": [
+              "Håndverksferdigheter",
+              "Kunst- og designprosesser",
+              "Visuell kommunikasjon",
+              "Kulturforståelse"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1827",
+            "text": {
+              "local": "gjennomføre kunst- og designprosesser ved å søke inspirasjon, utforske muligheter, gjøre valg og lage egne produkter",
+              "en": "carry out art and design processes by seeking inspiration, exploring possibilities, making choices and making their own products"
+            },
+            "coreElements": [
+              "Håndverksferdigheter",
+              "Kunst- og designprosesser",
+              "Kulturforståelse"
+            ],
+            "verbs": [
+              "Utforske",
+              "Gjennomføre"
+            ]
+          },
+          {
+            "code": "KM1819",
+            "text": {
+              "local": "undersøke hvordan tradisjonshåndverk, inkludert samisk håndverk, utnytter naturmaterialers egenskaper, og bruke erfaringer til å lage enkle bruksgjenstander",
+              "en": "investigate how traditional crafts, including Sami crafts, utilise the characteristics of natural materials and use their experiences to make simple utensils"
+            },
+            "coreElements": [
+              "Håndverksferdigheter",
+              "Kunst- og designprosesser",
+              "Kulturforståelse"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM1821",
+            "text": {
+              "local": "samtale om bruk, funksjon og materialvalg i ulike bygninger og lage skisser med forslag til ny arkitektur",
+              "en": "talk about the use, function and choice of materials in various buildings and make sketches for proposed new architecture"
+            },
+            "coreElements": [
+              "Håndverksferdigheter",
+              "Kunst- og designprosesser",
+              "Kulturforståelse"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1822",
+            "text": {
+              "local": "tolke former og symboler fra ulike kulturer og bruke disse i visuelle uttrykk",
+              "en": "interpret shapes and symbols from different cultures and use them in visual expressions"
+            },
+            "coreElements": [
+              "Kunst- og designprosesser",
+              "Visuell kommunikasjon",
+              "Kulturforståelse"
+            ],
+            "verbs": [
+              "Tolke",
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM1823",
+            "text": {
+              "local": "tegne form og dybde ved bruk av virkemidler som overlapping og forminskning",
+              "en": "draw shapes and depth using techniques such as overlapping and reduction"
+            },
+            "coreElements": [
+              "Kunst- og designprosesser",
+              "Visuell kommunikasjon"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1824",
+            "text": {
+              "local": "bruke enkle komposisjonsprinsipper i fotografi og digitale verktøy",
+              "en": "use simple principles of composition for photography and digital tools"
+            },
+            "coreElements": [
+              "Kunst- og designprosesser",
+              "Visuell kommunikasjon"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM1825",
+            "text": {
+              "local": "utforske mangfold i motiver og visuelle uttrykk i kunst fra ulike verdensdeler og lage en digital presentasjon",
+              "en": "explore diversity in motifs and visual expression in art from different parts of the world and create a digital presentation"
+            },
+            "coreElements": [
+              "Kunst- og designprosesser",
+              "Visuell kommunikasjon",
+              "Kulturforståelse"
+            ],
+            "verbs": [
+              "Utforske"
+            ]
+          },
+          {
+            "code": "KM1826",
+            "text": {
+              "local": "formidle og vise fram eget arbeid gjennom utstilling",
+              "en": "convey and display their own work in an exhibition"
+            },
+            "coreElements": [
+              "Kunst- og designprosesser",
+              "Visuell kommunikasjon"
+            ],
+            "verbs": []
+          }
+        ]
+      },
+      {
+        "afterGrade": 7,
+        "label": {
+          "local": "Kompetansemål og vurdering 7. trinn",
+          "en": "Competence aims and assessment Year 7"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM1808",
+            "text": {
+              "local": "bruke ulike håndverktøy og elektriske verktøy for å bearbeide og sammenføye harde, plastiske og myke materialer på en trygg og miljøbevisst måte",
+              "en": "use various hand and electric tools to treat and join hard, plastic and soft materials in a safe and environmentally friendly way"
+            },
+            "coreElements": [
+              "Håndverksferdigheter"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM1807",
+            "text": {
+              "local": "undersøke materialene i ulike gjenstander og vurdere funksjon, holdbarhet og muligheter for reparasjon og gjenbruk",
+              "en": "investigate the materials of different objects and assess function, durability, and possibility for repair and recycling"
+            },
+            "coreElements": [
+              "Håndverksferdigheter",
+              "Kunst- og designprosesser"
+            ],
+            "verbs": [
+              "Vurdere"
+            ]
+          },
+          {
+            "code": "KM1806",
+            "text": {
+              "local": "bygge og eksperimentere med stabile konstruksjoner",
+              "en": "build and experiment with stable constructions"
+            },
+            "coreElements": [
+              "Håndverksferdigheter",
+              "Kunst- og designprosesser"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1788",
+            "text": {
+              "local": "bruke ulike strategier for idéutvikling og problemløsing",
+              "en": "use different concept development and problem-solving strategies"
+            },
+            "coreElements": [
+              "Kunst- og designprosesser",
+              "Visuell kommunikasjon"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM1805",
+            "text": {
+              "local": "bruke digitale verktøy til å planlegge og presentere prosesser og produkter",
+              "en": "use digital tools to plan and present processes and products"
+            },
+            "coreElements": [
+              "Kunst- og designprosesser",
+              "Visuell kommunikasjon"
+            ],
+            "verbs": [
+              "Planlegge",
+              "Bruke",
+              "Presentere"
+            ]
+          },
+          {
+            "code": "KM1789",
+            "text": {
+              "local": "tegne form, flate og rom ved hjelp av virkemidler som kontraster, skygge, proporsjoner og perspektiv",
+              "en": "draw shapes, surfaces and masses using techniques, such as contrast, shading, proportions and perspective"
+            },
+            "coreElements": [
+              "Kunst- og designprosesser",
+              "Visuell kommunikasjon"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1790",
+            "text": {
+              "local": "utforske og reflektere over hvordan følelser og meninger vises i kunst, og bruke symbolikk og farge til å uttrykke følelser og meninger i egne arbeider",
+              "en": "explore and reflect on how emotions and opinions are shown in art, and use symbolism and colours to express emotions and opinions in their own work"
+            },
+            "coreElements": [
+              "Håndverksferdigheter",
+              "Kunst- og designprosesser",
+              "Visuell kommunikasjon",
+              "Kulturforståelse"
+            ],
+            "verbs": [
+              "Utforske",
+              "Reflektere",
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM1791",
+            "text": {
+              "local": "analysere visuelle virkemidler i ulike medier og belyse et aktuelt tema gjennom foto eller infografikk",
+              "en": "analyse visual instruments in different types of media and highlight a current topic through photography or infographics"
+            },
+            "coreElements": [
+              "Kunst- og designprosesser",
+              "Visuell kommunikasjon",
+              "Kulturforståelse"
+            ],
+            "verbs": [
+              "Analysere"
+            ]
+          },
+          {
+            "code": "KM1792",
+            "text": {
+              "local": "beskrive mangfoldet i klestradisjoner eller gjenstander, inkludert samiske, og lage et produkt med inspirasjon fra kulturarv",
+              "en": "describe diversity in dress traditions or objects, including Sami, and make a product inspired by cultural heritage"
+            },
+            "coreElements": [
+              "Håndverksferdigheter",
+              "Kunst- og designprosesser",
+              "Visuell kommunikasjon",
+              "Kulturforståelse"
+            ],
+            "verbs": [
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM1793",
+            "text": {
+              "local": "undersøke hvordan kjønnsroller vises i kulturelle uttrykk før og nå, og lage visuelle uttrykk som utfordrer stereotypier",
+              "en": "investigate how gender roles in cultural expression are portrayed in the past and present, and create visual expressions that challenge stereotypes"
+            },
+            "coreElements": [
+              "Kunst- og designprosesser",
+              "Visuell kommunikasjon",
+              "Kulturforståelse"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1794",
+            "text": {
+              "local": "bruke programmering til å skape interaktivitet og visuelle uttrykk",
+              "en": "use programming to create interactivity and visual expressions"
+            },
+            "coreElements": [
+              "Kunst- og designprosesser",
+              "Visuell kommunikasjon"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM1795",
+            "text": {
+              "local": "designe og lage en utstilling som viser fram prosess og produkt",
+              "en": "design and create an exhibition displaying processes and products"
+            },
+            "coreElements": [
+              "Kunst- og designprosesser",
+              "Visuell kommunikasjon"
+            ],
+            "verbs": []
+          }
+        ]
+      },
+      {
+        "afterGrade": 10,
+        "label": {
+          "local": "Kompetansemål og vurdering 10. trinn",
+          "en": "Competence aims and assessment Year 10"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM1796",
+            "text": {
+              "local": "utforske muligheter innenfor håndverksteknikker og egnet teknologi ved å bearbeide og sammenføye harde, plastiske og myke materialer.",
+              "en": "explore the possibilities of craft techniques and appropriate technology by treating and joining hard, plastic and soft materials"
+            },
+            "coreElements": [
+              "Håndverksferdigheter"
+            ],
+            "verbs": [
+              "Utforske"
+            ]
+          },
+          {
+            "code": "KM1797",
+            "text": {
+              "local": "vurdere materialers holdbarhet og muligheter for reparasjon og gjenbruk, og bruke ulike verktøy og materialer på en hensiktsmessig og miljøbevisst måte",
+              "en": "assess the durability of materials and possibilities for repair and recycling, and use different tools and materials in an appropriate and environmentally friendly way."
+            },
+            "coreElements": [
+              "Håndverksferdigheter",
+              "Kunst- og designprosesser"
+            ],
+            "verbs": [
+              "Vurdere",
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM1798",
+            "text": {
+              "local": "utvikle løsninger gjennom en stegvis designprosess og vurdere holdbarhet, funksjon og estetisk uttrykk",
+              "en": "develop solutions through an incremental design process, and assess durability, function and aesthetic expression"
+            },
+            "coreElements": [
+              "Kunst- og designprosesser",
+              "Visuell kommunikasjon"
+            ],
+            "verbs": [
+              "Utvikle",
+              "Vurdere"
+            ]
+          },
+          {
+            "code": "KM1799",
+            "text": {
+              "local": "utforske hvordan digitale verktøy og ny teknologi kan gi muligheter for kommunikasjonsformer og opplevelser i skapende prosesser og produkter",
+              "en": "explore how digital tools and new technology may provide possibilities for different types of communication and experiences in creative processes and products"
+            },
+            "coreElements": [
+              "Håndverksferdigheter",
+              "Kunst- og designprosesser"
+            ],
+            "verbs": [
+              "Utforske"
+            ]
+          },
+          {
+            "code": "KM1800",
+            "text": {
+              "local": "visualisere form ved hjelp av frihåndstegninger, arbeidstegninger, modeller og digitale verktøy",
+              "en": "visualise shape with the aid of freehand drawings, blueprints, models and digital tools"
+            },
+            "coreElements": [
+              "Håndverksferdigheter",
+              "Kunst- og designprosesser",
+              "Visuell kommunikasjon"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1802",
+            "text": {
+              "local": "analysere hvordan identitet og stedstilhørighet kommuniseres i arkitektur, klestradisjoner, kunst eller gjenstander, og integrere kulturelle referanser i eget skapende arbeid",
+              "en": "analyse how identity and attachment to a place are communicated in architecture, dress traditions, art or objects, and integrate cultural references in their own creative work"
+            },
+            "coreElements": [
+              "Håndverksferdigheter",
+              "Kunst- og designprosesser",
+              "Visuell kommunikasjon",
+              "Kulturforståelse"
+            ],
+            "verbs": [
+              "Analysere"
+            ]
+          },
+          {
+            "code": "KM1803",
+            "text": {
+              "local": "undersøke hvordan kunst, inkludert samisk kunst, kan bidra i samfunnskritikk, og skape kunstuttrykk som belyser utfordringer i egen samtid",
+              "en": "investigate how art, including Sami art, can contribute to social criticism and create artistic expression to highlight issues in their own era"
+            },
+            "coreElements": [
+              "Kunst- og designprosesser",
+              "Visuell kommunikasjon",
+              "Kulturforståelse"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1804",
+            "text": {
+              "local": "reflektere kritisk over visuelle virkemidler og eksperimentere med ulike visuelle uttrykk i en skapende prosess",
+              "en": "critically reflect on visual instruments and experiment with different visual expressions in a creative process"
+            },
+            "coreElements": [
+              "Kunst- og designprosesser",
+              "Visuell kommunikasjon"
+            ],
+            "verbs": [
+              "Reflektere"
+            ]
+          },
+          {
+            "code": "KM1817",
+            "text": {
+              "local": "lage skisser til fornyelse av lokale omgivelser og modellere arkitektoniske løsninger som ivaretar ulike behov og interesser",
+              "en": "create sketches for the renovation of local areas and model architectural solutions that meet different needs and interests"
+            },
+            "coreElements": [
+              "Kunst- og designprosesser",
+              "Visuell kommunikasjon"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1801",
+            "text": {
+              "local": "fordype seg i en visuell uttrykksform og/eller en håndverksteknikk, utforske muligheter gjennom praktisk skapende arbeid og presentere valg fra idé til ferdig resultat",
+              "en": "become engaged in different types of visual expression and/or a craft technique, explore possibilities through practical creative work and present choices from idea to the final result"
+            },
+            "coreElements": [
+              "Kunst- og designprosesser",
+              "Visuell kommunikasjon"
+            ],
+            "verbs": [
+              "Utforske",
+              "Presentere"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
