@@ -4,7 +4,7 @@
     "api": "https://data.udir.no/kl06/v201906/laereplaner-lk20/MUS01-02",
     "curriculum": "LK20",
     "license": "NLOD",
-    "lastSynced": "2026-03-02T21:20:54Z"
+    "lastSynced": "2026-03-02T21:39:52Z"
   },
   "subject": {
     "code": "MUS01-02",
@@ -12,7 +12,52 @@
       "local": "Læreplan i musikk",
       "en": "Curriculum for Music"
     },
-    "coreElements": [],
+    "coreElements": [
+      {
+        "code": "KE190",
+        "name": {
+          "local": "Utøve musikk",
+          "en": "Performing music"
+        },
+        "description": {
+          "local": "Kjerneelementet utøve musikk legger vekt på elevenes aktive deltakelse med stemme, kropp og instrumenter i samspill, framføring og lek og i ulike musikalske uttrykk og sjangre. Kjerneelementet skal gi elevene erfaring med å spille, synge og danse i ulike sammenhenger. Kjerneelementet bidrar til at elevene gjennom kreative prosesser får øve seg i håndverk, uttrykk og formidling.",
+          "en": "The core element of performing music places emphasis on the pupils' active participation through voice, body and instruments in interaction, performing and playing together in different musical expressions and genres. The core element shall provide the pupils with the experience of playing, singing and dancing in different contexts. The core element contributes to giving the pupils training in crafts, expressions and presentations through creative processes."
+        }
+      },
+      {
+        "code": "KE191",
+        "name": {
+          "local": "Lage musikk",
+          "en": "Making music"
+        },
+        "description": {
+          "local": "Kjerneelementet lage musikk legger vekt på at elevene arbeider kreativt ved å organisere og sette sammen musikkens grunnelementer til noe nytt eller å omforme noe kjent. Kjerneelementet bidrar til å øve elevene i å uttrykke seg og å lytte bevisst i skapende prosesser. Elevene skal få erfaring med og opplæring i ulike måter å lage musikk på og bli i stand til å ta i bruk ulike improvisasjons- og komposisjonsteknikker, verktøy og metoder.",
+          "en": "The core element of making music emphasises the creative work of pupils through organising and combining the basic elements of music into something new or transforming something familiar. The core element contributes to training the pupils to express themselves and listen with focus on the creative processes. The pupils shall gain experience of and training in various ways of making music and shall also learn to use various improvisation and composing techniques, tools and methods."
+        }
+      },
+      {
+        "code": "KE192",
+        "name": {
+          "local": "Oppleve musikk",
+          "en": "Experiencing music"
+        },
+        "description": {
+          "local": "Kjerneelementet oppleve musikk legger vekt på at elevene lytter aktivt og sansende. Dette åpner for emosjonelle erfaringer fra det hverdagslige til de eksistensielle møtene med musikk, og gir elevene øvelse i å gi uttrykk for musikalske erfaringer. Kunnskap om og erfaring med musikk og musikalske virkemidler er utgangspunktet for en reflektert og utforskende tilnærming til musikkopplevelsen.",
+          "en": "The core element of experiencing music emphasises the pupils’ ability to listen actively and open their senses. This opens for emotional experiences ranging from everyday experiences to the existential encounters with music, and gives the pupils training in expressing their musical experiences. Knowledge about and experience with music and musical techniques is the point of departure for a reflected and exploratory approach to the experience of music."
+        }
+      },
+      {
+        "code": "KE193",
+        "name": {
+          "local": "Kulturforståelse",
+          "en": "Cultural understanding"
+        },
+        "description": {
+          "local": "Kjerneelementet kulturforståelse handler om hvordan sangen og musikken elevene utøver, lager og opplever, er forankret og har betydning i kulturen den springer ut av. Å kunne forstå egne og andres musikalske uttrykk, å utøve musikk, å lage musikk og å oppleve musikk både forutsetter og bidrar til kulturell kompetanse. Spill, sang og dans som estetiske uttrykk er påvirket av, og er uttrykk for, historiske og samfunnsmessige forhold. Musikkens mening skapes når musikk brukes i sosiale sammenhenger, og musikk gir mening til sosiale hendelser og ritualer.",
+          "en": "The core element of cultural understanding refers to how singing and music that are performed, made and experienced by the pupils are anchored in and are important to the culture they originate in. Being able to understand one’s own musical expressions and those of others, performing music, making music and experiencing music all require and contribute to musical competence. Playing, singing and dancing as aesthetic expressions are influenced by and are expressions of historical and societal circumstances. The meaning of music is created when music is used in social contexts, and music gives meaning to social events and rituals."
+        }
+      }
+    ],
     "gradeBands": [
       {
         "afterGrade": 2,

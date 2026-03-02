@@ -1,0 +1,206 @@
+{
+  "country": "finland",
+  "source": {
+    "api": "https://eperusteet.opintopolku.fi/eperusteet-service/api/external/peruste/419550/perusopetus/oppiaineet/478973",
+    "curriculum": "POPS 2014",
+    "license": "Open Government Data (Finland)",
+    "lastSynced": "2026-03-02T21:29:45Z"
+  },
+  "subject": {
+    "code": "TE",
+    "name": {
+      "local": "Terveystieto",
+      "en": "Health Education"
+    },
+    "coreElements": [
+      {
+        "code": "S1",
+        "name": {
+          "local": "S1 Terveyttä tukeva kasvu ja kehitys",
+          "en": ""
+        },
+        "description": {
+          "local": "Sisällöissä painotetaan terveyden eri osa-alueiden kokonaisvaltaista hahmottamista terveyden edistämisen ja sairauksien ehkäisyn näkökulmasta. Opetuksessa käsitellään elämänkulun sekä kasvun ja kehityksen yleisiä tunnuspiirteitä, monimuotoisuutta ja henkilökohtaisuutta. Kasvun ja kehityksen sisällöissä painottuvat identiteetin, minäkuvan ja itsetuntemuksen rakentuminen, seksuaalinen kehittyminen, huolenpidon sekä perheen ja läheisten merkitys, mielen hyvinvointi ja itsensä arvostaminen sekä turvataidot. Tunne- ja vuorovaikutustaitojen sisällöissä kiinnitetään huomiota vuorovaikutustilanteissa toimimiseen, tunteiden ilmaisuun ja niiden säätelyyn. Lisäksi perehdytään ristiriitojen, ongelmatilanteiden, stressin ja kriisien rakentavaan käsittelyyn.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S2",
+        "name": {
+          "local": "S2 Terveyttä tukevat ja kuluttavat tekijät sekä sairauksien ehkäisy",
+          "en": ""
+        },
+        "description": {
+          "local": "Sisältöjä valitaan syventäen tietoa ja ymmärrystä terveyttä tukevista voimavaroista ja sairauksia ehkäisevistä tekijöistä. Terveyteen liittyvistä tottumuksista käsitellään arkirytmi, uni, ravitsemus ja liikunta. Sisällöissä perehdytään seksuaalisuuteen, seksuaaliterveyden eri osa-alueisiin ja seksuaalisen kehityksen monimuotoisuuteen. Terveyden voimavaroista tarkastellaan mielenterveyttä, hyvinvointia tukevia ympäristöjä ja yhteisöjä sekä mielekästä vapaa-ajan toimintaa. Lisäksi käsitellään turvallisuustaitoja ja -valmiuksia, ensiaputaitoja, itsehoitoa sekä tuen ja avun hakemista. Sisältöjä valittaessa otetaan huomioon myös ajankohtaisia terveysilmiöitä sekä tarkastellaan terveyteen liittyvän tiedon luotettavuutta.\n\nTerveyden vaaratekijöistä nostetaan esiin liikkumattomuus ja passiivinen elämäntapa, ravitsemuksen ja nukkumisen ongelmat, kiusaaminen ja stressi. Sisällöissä otetaan huomioon nuoren mielen pahoinvointi, riippuvuudet sekä päihteet ja niiden käytön ehkäisy. Sairauksien ehkäisyyn liittyvistä sisällöistä valitaan keskeiset ja ajankohtaiset tartuntataudit sekä kansantaudit ja tapaturmat.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S3",
+        "name": {
+          "local": "S3 Terveys, yhteisöt, yhteiskunta ja kulttuuri",
+          "en": ""
+        },
+        "description": {
+          "local": "Sisällöissä otetaan esille opiskelu-, työ- ja toimintakyky nuoruudessa. Kestävää elämäntapaa tarkastellessa otetaan huomioon sosiaalinen kestävyys ja vastuullinen kuluttaminen. Elinympäristön terveysvaikutuksia käsiteltäessä nostetaan esille keskeisiä terveyden edistämisen ja sairauksien ehkäisyn keinoja, terveyspalvelut, kansalaistoiminta ja ympäristön terveysriskit.\n\nTietolähteitä, erilaisia terveysmarkkinoinnin ja vaikuttamisen keinoja tarkastellaan erityisesti tiedon luotettavuuden ja terveysvaikutusten näkökulmasta. Terveyden edistämisen sisällöissä otetaan huomioon kulttuurin terveyttä edistävä merkitys ja kulttuurinen herkkyys, kestävä elämäntapa, kansalaisten yhdenvertaisuus ja osallisuus sekä ihmisoikeuksien kunnioittaminen. Sisältöjä käsiteltäessä otetaan huomioon eri näkökulmia kuten lapsuus ja lasten oikeudet, vanhuus, vammaisuus tai pitkäaikaissairaus.",
+          "en": ""
+        }
+      }
+    ],
+    "gradeBands": [
+      {
+        "afterGrade": 9,
+        "label": {
+          "local": "Vuosiluokat 7–9",
+          "en": "Grades 7–9"
+        },
+        "competenceGoals": [
+          {
+            "code": "T1",
+            "text": {
+              "local": "T1 ohjata oppilasta ymmärtämään terveyden laaja-alaisuutta, terveyden edistämistä sekä elämänkulkua, kasvua ja kehitystä voimavaralähtöisesti",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S2",
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T2",
+            "text": {
+              "local": "T2 ohjata oppilasta kehittämään valmiuksiaan tunne- ja vuorovaikutustaidoissa ja kykyä toimia erilaisissa ristiriita- ja kriisitilanteissa",
+              "en": ""
+            },
+            "coreElements": [
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T3",
+            "text": {
+              "local": "T3 ohjata oppilasta kehittämään itsetuntemustaan, omien arvojen ja asenteiden sekä kehon ja mielen viestien tunnistamista ja säätelemään käyttäytymistään, oppimistaan ja opiskeluaan tukevia tekijöitä",
+              "en": ""
+            },
+            "coreElements": [
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T4",
+            "text": {
+              "local": "T4 ohjata oppilasta pohtimaan yksilöllisyyteen, yhteisöllisyyteen ja yhdenvertaisuuteen liittyviä kysymyksiä terveyden näkökulmasta sekä tukea oppilaan valmiuksia luoda vastuullisia ratkaisuja ihmisten välisissä vuorovaikutustilanteissa",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T5",
+            "text": {
+              "local": "T5 ohjata oppilasta syventämään ymmärrystään fyysisestä, psyykkisestä ja sosiaalisesta terveydestä ja niitä vahvistavista ja vaarantavista tekijöistä ja mekanismeista sekä tukea oppilaan valmiuksia käyttää näihin liittyviä käsitteitä asianmukaisesti",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S2",
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "",
+            "text": {
+              "local": "T 6 tukea oppilaan kehittymistä terveyteen ja sairauteen liittyvän tiedon hankkijana ja käyttäjänä sekä edistää valmiuksia toimia tarkoituksenmukaisesti terveyteen, turvallisuuteen ja sairauksiin liittyvissä tilanteissa",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T7",
+            "text": {
+              "local": "T7 ohjata oppilasta tunnistamaan ja arvioimaan omia terveyteen ja turvallisuuteen liittyviä tottumuksiaan, valintojaan ja niiden perusteluja sekä rohkaista oppilasta pohtimaan oman terveyden kannalta merkityksellisiä voimavaroja",
+              "en": ""
+            },
+            "coreElements": [
+              "S2",
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "",
+            "text": {
+              "local": "T 8 ohjata oppilasta tunnistamaan ja tarkastelemaan kriittisesti terveyteen ja sairauteen liittyviä ilmiöitä, niihin liittyviä arvoja ja normeja sekä arvioimaan tiedon luotettavuutta ja merkitystä",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S2",
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "",
+            "text": {
+              "local": "T 9 ohjata oppilasta ymmärtämään ympäristön, yhteisöjen, kulttuurin, ja tieto- ja viestintäteknologian merkitystä terveydelle ja hyvinvoinnille",
+              "en": ""
+            },
+            "coreElements": [
+              "S3"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "",
+            "text": {
+              "local": "T 10 ohjata oppilasta luomaan perustaa opiskelu-, toiminta- ja työkyvylle ja sen ylläpitämiselle sekä kuvaamaan terveyspalvelujen asianmukaista käyttöä",
+              "en": ""
+            },
+            "coreElements": [
+              "S2",
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "",
+            "text": {
+              "local": "T 11 ohjata oppilasta ymmärtämään ja arvioimaan perheen ja omaan elämänpiiriin kuuluvien ihmisten ja yhteisöjen edustamia terveyskäsityksiä, tunnistamaan niiden merkitystä itselle sekä muodostamaan kuvaa itselle sopivista oppimisen keinoista.",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S2",
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "",
+            "text": {
+              "local": "T 12 tukea oppilaan valmiuksia arvioida kriittisesti terveyteen ja sairauteen liittyvää viestintää sekä eritellä yksilön oikeuksia, vastuita ja vaikuttamiskeinoja terveyttä ja turvallisuutta koskevissa asioissa omassa oppimisympäristössä ja lähiyhteisöissä.",
+              "en": ""
+            },
+            "coreElements": [
+              "S3"
+            ],
+            "verbs": []
+          }
+        ]
+      }
+    ]
+  }
+}

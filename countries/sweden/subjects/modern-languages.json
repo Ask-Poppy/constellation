@@ -1,0 +1,2354 @@
+{
+  "country": "sweden",
+  "source": {
+    "api": "https://api.skolverket.se/syllabus/v1/subjects/GRGRMSP01",
+    "curriculum": "Lgr22",
+    "license": "CC0",
+    "lastSynced": "2026-03-02T21:29:53Z"
+  },
+  "subject": {
+    "code": "GRGRMSP01",
+    "name": {
+      "local": "Moderna språk",
+      "en": "Modern Languages"
+    },
+    "coreElements": [
+      {
+        "code": "",
+        "name": {
+          "local": "förståelse av målspråket i tal och skrift,",
+          "en": ""
+        },
+        "description": {
+          "local": "förståelse av målspråket i tal och skrift,",
+          "en": ""
+        }
+      },
+      {
+        "code": "",
+        "name": {
+          "local": "förmåga att formulera sig och kommunicera på målspråket i tal och skrift,",
+          "en": ""
+        },
+        "description": {
+          "local": "förmåga att formulera sig och kommunicera på målspråket i tal och skrift,",
+          "en": ""
+        }
+      },
+      {
+        "code": "",
+        "name": {
+          "local": "förmåga att anpassa språket efter olika syften, mottagare och sammanhang, och",
+          "en": ""
+        },
+        "description": {
+          "local": "förmåga att anpassa språket efter olika syften, mottagare och sammanhang, och",
+          "en": ""
+        }
+      },
+      {
+        "code": "",
+        "name": {
+          "local": "förståelse av kulturella och sociala förhållanden i olika sammanhang och områden där språket används.",
+          "en": ""
+        },
+        "description": {
+          "local": "förståelse av kulturella och sociala förhållanden i olika sammanhang och områden där språket används.",
+          "en": ""
+        }
+      }
+    ],
+    "gradeBands": [
+      {
+        "afterGrade": 6,
+        "label": {
+          "local": "Årskurs 4-6",
+          "en": "Years 4-6"
+        },
+        "competenceGoals": [
+          {
+            "code": "GRGRMSP01-4-6-1",
+            "text": {
+              "local": "Ämnesområden som är välbekanta för eleverna.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kommunikationens innehåll"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-6-2",
+            "text": {
+              "local": "Vardagliga situationer, intressen, personer och platser.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kommunikationens innehåll"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-6-3",
+            "text": {
+              "local": "Vardagsliv och levnadssätt i olika sammanhang och områden där språket används.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kommunikationens innehåll"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-6-4",
+            "text": {
+              "local": "Tydligt talat språk och enkla texter som är instruerande, beskrivande och kon­taktskapande, från olika medier, även i kombination med illustrationer.",
+              "en": ""
+            },
+            "coreElements": [
+              "Lyssna och läsa – reception"
+            ],
+            "verbs": [
+              "Beskriva",
+              "Skapa"
+            ]
+          },
+          {
+            "code": "GRGRMSP01-4-6-5",
+            "text": {
+              "local": "Enkla dialoger och samtal.",
+              "en": ""
+            },
+            "coreElements": [
+              "Lyssna och läsa – reception"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-6-6",
+            "text": {
+              "local": "Sånger och ramsor.",
+              "en": ""
+            },
+            "coreElements": [
+              "Lyssna och läsa – reception"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-6-7",
+            "text": {
+              "local": "Enkla meddelanden och enkel information.",
+              "en": ""
+            },
+            "coreElements": [
+              "Lyssna och läsa – reception"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-6-8",
+            "text": {
+              "local": "Strategier för att uppfatta betydelsebärande ord i tal, till exempel genom att gissa och dra slutsatser med hjälp av sammanhanget.",
+              "en": ""
+            },
+            "coreElements": [
+              "Lyssna och läsa – reception"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-6-9",
+            "text": {
+              "local": "Sökning av mycket enkel, tydlig information i anvisade källor av olika slag, till exempel för att hitta klockslag, platser och namn.",
+              "en": ""
+            },
+            "coreElements": [
+              "Lyssna och läsa – reception"
+            ],
+            "verbs": [
+              "Visa"
+            ]
+          },
+          {
+            "code": "GRGRMSP01-4-6-10",
+            "text": {
+              "local": "Språkliga företeelser i det språk eleverna möter, med betoning på uttal samt sam­bandet mellan skrift och uttal.",
+              "en": ""
+            },
+            "coreElements": [
+              "Lyssna och läsa – reception"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-6-11",
+            "text": {
+              "local": "Hur ord och vardagsfraser används i olika situationer.",
+              "en": ""
+            },
+            "coreElements": [
+              "Lyssna och läsa – reception"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-6-12",
+            "text": {
+              "local": "Enkla presentationer, meddelanden, beskrivningar och dialoger i tal och skrift.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala, skriva och samtala – produktion och interaktion"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-6-13",
+            "text": {
+              "local": "Strategier för att underlätta samtal, till exempel gester och frågor.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala, skriva och samtala – produktion och interaktion"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-6-14",
+            "text": {
+              "local": "Språkliga företeelser för att förtydliga kommunikationen med betoning på uttal.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala, skriva och samtala – produktion och interaktion"
+            ],
+            "verbs": []
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "E",
+            "text": {
+              "local": "Inom ramen för skolans valBetygskriterier för betyget E i slutet av årskurs 6Eleven lyssnar, och förstår vanliga, enkla ord och fraser i tydligt talat, enkelt språk i långsamt tempo om välbekanta ämnen. Eleven läser, och förstår vanliga, enkla ord och fraser i korta, enkla texter om välbekanta ämnen. I muntliga framställningar av olika slag formulerar sig eleven mycket enkelt och i huvudsak begripligt med enstaka vanliga ord och fraser. I skriftliga framställningar av olika slag formulerar sig eleven mycket enkelt och i huvudsak begripligt med enstaka vanliga ord och fraser. I interaktion uttrycker sig eleven mycket enkelt och i huvudsak begripligt med enstaka vanliga ord och fraser. Dessutom använder eleven strategier som i någon mån underlättar interaktionen. Eleven kommenterar på ett mycket enkelt sätt, på målspråket, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "D",
+            "text": {
+              "local": "Betygskriterier för betyget D i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan C och E.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "C",
+            "text": {
+              "local": "Betygskriterier för betyget C i slutet av årskurs 6Eleven lyssnar, och förstår enkla ord och fraser i tydligt talat, enkelt språk i långsamt tempo om välbekanta ämnen. Eleven läser, och förstår enkla ord och fraser i korta, enkla texter om välbekanta ämnen. I muntliga framställningar av olika slag formulerar sig eleven mycket enkelt och begripligt med vanliga ord och fraser. I skriftliga framställningar av olika slag formulerar sig eleven mycket enkelt och begripligt med vanliga ord och fraser. I interaktion uttrycker sig eleven mycket enkelt och begripligt med vanliga ord och fraser. Dessutom använder eleven strategier som i viss utsträckning underlättar interaktionen. Eleven kommenterar på ett mycket enkelt sätt, på målspråket, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "B",
+            "text": {
+              "local": "Betygskriterier för betyget B i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan A och C.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "A",
+            "text": {
+              "local": "Betygskriterier för betyget A i slutet av årskurs 6Eleven lyssnar, och förstår huvudsakligt innehåll och tydliga detaljer i tydligt talat, enkelt språk i långsamt tempo om välbekanta ämnen. Eleven läser, och förstår huvudsakligt innehåll och tydliga detaljer i korta, enkla texter om välbekanta ämnen. I muntliga framställningar av olika slag formulerar sig eleven enkelt och relativt tydligt med vanliga ord och fraser. I skriftliga framställningar av olika slag formulerar sig eleven enkelt och relativt tydligt med vanliga ord och fraser. I interaktion uttrycker sig eleven enkelt och relativt tydligt med vanliga ord och fraser. Dessutom använder eleven strategier som underlättar interaktionen. Eleven kommenterar på ett mycket enkelt sätt, på målspråket, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "E",
+            "text": {
+              "local": "Inom ramen för språkvalBetygskriterier för betyget E i slutet av årskurs 6Eleven lyssnar, och förstår vanliga, enkla ord och fraser i tydligt talat, enkelt språk i långsamt tempo om välbekanta ämnen. Eleven läser, och förstår vanliga, enkla ord och fraser i korta, enkla texter om välbekanta ämnen. I muntliga framställningar av olika slag formulerar sig eleven mycket enkelt och i huvudsak begripligt med enstaka vanliga ord och fraser. I skriftliga framställningar av olika slag formulerar sig eleven mycket enkelt och i huvudsak begripligt med enstaka vanliga ord och fraser. I interaktion uttrycker sig eleven mycket enkelt och i huvudsak begripligt med enstaka vanliga ord och fraser. Dessutom använder eleven strategier som i någon mån underlättar interaktionen. Eleven kommenterar på ett mycket enkelt sätt, på målspråket, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "D",
+            "text": {
+              "local": "Betygskriterier för betyget D i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan C och E.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "C",
+            "text": {
+              "local": "Betygskriterier för betyget C i slutet av årskurs 6Eleven lyssnar, och förstår enkla ord och fraser i tydligt talat, enkelt språk i långsamt tempo om välbekanta ämnen. Eleven läser, och förstår enkla ord och fraser i korta, enkla texter om välbekanta ämnen. I muntliga framställningar av olika slag formulerar sig eleven mycket enkelt och begripligt med vanliga ord och fraser. I skriftliga framställningar av olika slag formulerar sig eleven mycket enkelt och begripligt med vanliga ord och fraser. I interaktion uttrycker sig eleven mycket enkelt och begripligt med vanliga ord och fraser. Dessutom använder eleven strategier som i viss utsträckning underlättar interaktionen. Eleven kommenterar på ett mycket enkelt sätt, på målspråket, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "B",
+            "text": {
+              "local": "Betygskriterier för betyget B i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan A och C.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "A",
+            "text": {
+              "local": "Betygskriterier för betyget A i slutet av årskurs 6Eleven lyssnar, och förstår huvudsakligt innehåll och tydliga detaljer i tydligt talat, enkelt språk i långsamt tempo om välbekanta ämnen. Eleven läser, och förstår huvudsakligt innehåll och tydliga detaljer i korta, enkla texter om välbekanta ämnen. I muntliga framställningar av olika slag formulerar sig eleven enkelt och relativt tydligt med vanliga ord och fraser. I skriftliga framställningar av olika slag formulerar sig eleven enkelt och relativt tydligt med vanliga ord och fraser.  I interaktion uttrycker sig eleven enkelt och relativt tydligt med vanliga ord och fraser. Dessutom använder eleven strategier som underlättar interaktionen. Eleven kommenterar på ett mycket enkelt sätt, på målspråket, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "E",
+            "text": {
+              "local": "Inom ramen för skolans val, kinesiskaBetygskriterier för betyget E i slutet av årskurs 6Eleven lyssnar, och förstår vanliga, enkla ord i tydligt talad, enkel kinesiska i mycket långsamt tempo om välbekanta ämnen. I muntliga framställningar formulerar sig eleven mycket enkelt och i huvudsak begripligt med enstaka vanliga ord och fraser. I muntlig interaktion uttrycker sig eleven mycket enkelt och i huvudsak begripligt med enstaka vanliga ord och fraser. Dessutom använder eleven strategier som i någon mån underlättar interaktionen. Eleven läser, och förstår mycket vanliga ord i korta, enkla texter som handlar om välbekanta ämnen och som är skrivna med förenklade tecken. Eleven skriver några vanligt förekommande tecken för hand och med hjälp av digitala hjälpmedel. Eleven kommenterar på ett mycket enkelt sätt, på kinesiska, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "D",
+            "text": {
+              "local": "Betygskriterier för betyget D i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan C och E.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "C",
+            "text": {
+              "local": "Betygskriterier för betyget C i slutet av årskurs 6Eleven lyssnar, och förstår vanliga, enkla ord och fraser i tydligt talad, enkel kinesiska i mycket långsamt tempo om välbekanta ämnen. I muntliga framställningar formulerar sig eleven mycket enkelt och begripligt med enstaka vanliga ord och fraser. I muntlig interaktion uttrycker sig eleven mycket enkelt och begripligt med enstaka vanliga ord och fraser. Dessutom använder eleven strategier som i viss utsträckning underlättar interaktionen. Eleven läser, och förstår mycket vanliga ord i korta, enkla texter som handlar om välbekanta ämnen och som är skrivna med förenklade tecken. Eleven skriver några vanligt förekommande tecken för hand och med hjälp av digitala hjälpmedel. Eleven kommenterar på ett mycket enkelt sätt, på kinesiska, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "B",
+            "text": {
+              "local": "Betygskriterier för betyget B i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan A och C.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "A",
+            "text": {
+              "local": "Betygskriterier för betyget A i slutet av årskurs 6Eleven lyssnar, och förstår enkla ord och fraser i tydligt talad, enkel kinesiska i mycket långsamt tempo om välbekanta ämnen. I muntliga framställningar formulerar sig eleven enkelt och relativt tydligt med enstaka vanliga ord och fraser. I muntlig interaktion uttrycker sig eleven enkelt och relativt tydligt med enstaka vanliga ord och fraser. Dessutom använder eleven strategier som underlättar interaktionen. Eleven läser, och förstår vanliga ord i korta, enkla texter som handlar om välbekanta ämnen och som är skrivna med förenklade tecken. Eleven använder några vanligt förekommande tecken för att skriva mycket korta, enkla texter för hand och med hjälp av digitala hjälpmedel. Eleven kommenterar på ett mycket enkelt sätt, på kinesiska, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "E",
+            "text": {
+              "local": "Inom ramen för språkval, kinesiskaBetygskriterier för betyget E i slutet av årskurs 6Eleven lyssnar, och förstår vanliga, enkla ord i tydligt talad, enkel kinesiska i mycket långsamt tempo om välbekanta ämnen. I muntliga framställningar formulerar sig eleven mycket enkelt och i huvudsak begripligt med enstaka vanliga ord och fraser. I muntlig interaktion uttrycker sig eleven mycket enkelt och i huvudsak begripligt med enstaka vanliga ord och fraser. Dessutom använder eleven strategier som i någon mån underlättar interaktionen. Eleven läser, och förstår mycket vanliga ord i korta, enkla texter som handlar om välbekanta ämnen och som är skrivna med förenklade tecken. Eleven skriver några vanligt förekommande tecken för hand och med hjälp av digitala hjälpmedel. Eleven kommenterar på ett mycket enkelt sätt, på kinesiska, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "D",
+            "text": {
+              "local": "Betygskriterier för betyget D i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan C och E.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "C",
+            "text": {
+              "local": "Betygskriterier för betyget C i slutet av årskurs 6Eleven lyssnar, och förstår vanliga, enkla ord och fraser i tydligt talad, enkel kinesiska i mycket långsamt tempo om välbekanta ämnen. I muntliga framställningar formulerar sig eleven mycket enkelt och begripligt med enstaka vanliga ord och fraser. I muntlig interaktion uttrycker sig eleven mycket enkelt och begripligt med enstaka vanliga ord och fraser. Dessutom använder eleven strategier som i viss utsträckning underlättar interaktionen. Eleven läser, och förstår mycket vanliga ord i korta, enkla texter som handlar om välbekanta ämnen och som är skrivna med förenklade tecken. Eleven skriver några vanligt förekommande tecken för hand och med hjälp av digitala hjälpmedel. Eleven kommenterar på ett mycket enkelt sätt, på kinesiska, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "B",
+            "text": {
+              "local": "Betygskriterier för betyget B i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan A och C.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "A",
+            "text": {
+              "local": "Betygskriterier för betyget A i slutet av årskurs 6Eleven lyssnar, och förstår enkla ord och fraser i tydligt talad, enkel kinesiska i mycket långsamt tempo om välbekanta ämnen. I muntliga framställningar formulerar sig eleven enkelt och relativt tydligt med enstaka vanliga ord och fraser. I muntlig interaktion uttrycker sig eleven enkelt och relativt tydligt med enstaka vanliga ord och fraser. Dessutom använder eleven strategier som underlättar interaktionen. Eleven läser, och förstår vanliga ord i korta, enkla texter som handlar om välbekanta ämnen och som är skrivna med förenklade tecken. Eleven använder några vanligt förekommande tecken för att skriva mycket korta, enkla texter för hand och med hjälp av digitala hjälpmedel. Eleven kommenterar på ett mycket enkelt sätt, på kinesiska, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          }
+        ]
+      },
+      {
+        "afterGrade": 6,
+        "label": {
+          "local": "Årskurs 4-6",
+          "en": "Years 4-6"
+        },
+        "competenceGoals": [
+          {
+            "code": "GRGRMSP01-4-6-1",
+            "text": {
+              "local": "Ämnesområden som är välbekanta för eleverna.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kommunikationens innehåll"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-6-2",
+            "text": {
+              "local": "Vardagliga situationer, intressen, personer och platser.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kommunikationens innehåll"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-6-3",
+            "text": {
+              "local": "Vardagsliv och levnadssätt i olika sammanhang och områden där kinesiska an­vänds.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kommunikationens innehåll"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-6-4",
+            "text": {
+              "local": "Tydligt talat språk som är instruerande, beskrivande och kontaktskapande, från olika medier, även i kombination med illustrationer.",
+              "en": ""
+            },
+            "coreElements": [
+              "Lyssna – reception"
+            ],
+            "verbs": [
+              "Beskriva",
+              "Skapa"
+            ]
+          },
+          {
+            "code": "GRGRMSP01-4-6-5",
+            "text": {
+              "local": "Enkla dialoger och samtal.",
+              "en": ""
+            },
+            "coreElements": [
+              "Lyssna – reception"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-6-6",
+            "text": {
+              "local": "Sånger och ramsor.",
+              "en": ""
+            },
+            "coreElements": [
+              "Lyssna – reception"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-6-7",
+            "text": {
+              "local": "Enkla meddelanden och enkel information.",
+              "en": ""
+            },
+            "coreElements": [
+              "Lyssna – reception"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-6-8",
+            "text": {
+              "local": "Strategier för att uppfatta betydelsebärande ord till exempel genom att gissa och dra slutsatser med hjälp av sammanhanget.",
+              "en": ""
+            },
+            "coreElements": [
+              "Lyssna – reception"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-6-9",
+            "text": {
+              "local": "Språkliga företeelser i det språk eleverna möter, med betoning på uttal och in­tonation.",
+              "en": ""
+            },
+            "coreElements": [
+              "Lyssna – reception"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-6-10",
+            "text": {
+              "local": "Hur ord och vardagsfraser används i olika situationer.",
+              "en": ""
+            },
+            "coreElements": [
+              "Lyssna – reception"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-6-11",
+            "text": {
+              "local": "Pinyin som stöd för förståelse av det talade språk eleverna möter.",
+              "en": ""
+            },
+            "coreElements": [
+              "Lyssna – reception"
+            ],
+            "verbs": [
+              "Förstå"
+            ]
+          },
+          {
+            "code": "GRGRMSP01-4-6-12",
+            "text": {
+              "local": "Korta, enkla presentationer, meddelanden, beskrivningar och dialoger.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala och samtala – produktion och interaktion"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-6-13",
+            "text": {
+              "local": "Strategier för att underlätta samtal, däribland gester.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala och samtala – produktion och interaktion"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-6-14",
+            "text": {
+              "local": "Språkliga företeelser för att förtydliga kommunikationen med betoning på uttal och intonation.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala och samtala – produktion och interaktion"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-6-15",
+            "text": {
+              "local": "Pinyin som ett medel för att utveckla elevernas talade språk, även uttal och ord­förråd.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala och samtala – produktion och interaktion"
+            ],
+            "verbs": [
+              "Utveckla"
+            ]
+          },
+          {
+            "code": "GRGRMSP01-4-6-16",
+            "text": {
+              "local": "Enkla texter som är beskrivande, även i kombination med illustrationer.",
+              "en": ""
+            },
+            "coreElements": [
+              "Läsa – reception (förenklade kinesiska tecken)"
+            ],
+            "verbs": [
+              "Beskriva"
+            ]
+          },
+          {
+            "code": "GRGRMSP01-4-6-17",
+            "text": {
+              "local": "Enkla meddelanden och skrivna dialoger.",
+              "en": ""
+            },
+            "coreElements": [
+              "Läsa – reception (förenklade kinesiska tecken)"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-6-18",
+            "text": {
+              "local": "Olika hjälpmedel för läsning, till exempel pinyin, syntetiskt tal och elek­tro­niska ordböcker.",
+              "en": ""
+            },
+            "coreElements": [
+              "Läsa – reception (förenklade kinesiska tecken)"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-6-19",
+            "text": {
+              "local": "De förenklade tecknens uppbyggnad i de texter eleverna möter.",
+              "en": ""
+            },
+            "coreElements": [
+              "Läsa – reception (förenklade kinesiska tecken)"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-6-20",
+            "text": {
+              "local": "Korta, enkla texter, till exempel meddelanden.",
+              "en": ""
+            },
+            "coreElements": [
+              "Skriva – produktion och interaktion (förenklade kinesiska tecken)"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-6-21",
+            "text": {
+              "local": "Hur några vanligt förekommande tecken som är relevanta för kom­mu­nika­tionens innehåll skrivs för hand, även streckordning.",
+              "en": ""
+            },
+            "coreElements": [
+              "Skriva – produktion och interaktion (förenklade kinesiska tecken)"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-6-22",
+            "text": {
+              "local": "Pinyin och andra hjälpmedel, även digitala, som stöd för den skriftliga pro­duk­tionen och interaktionen.",
+              "en": ""
+            },
+            "coreElements": [
+              "Skriva – produktion och interaktion (förenklade kinesiska tecken)"
+            ],
+            "verbs": []
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "E",
+            "text": {
+              "local": "Inom ramen för skolans valBetygskriterier för betyget E i slutet av årskurs 6Eleven lyssnar, och förstår vanliga, enkla ord och fraser i tydligt talat, enkelt språk i långsamt tempo om välbekanta ämnen. Eleven läser, och förstår vanliga, enkla ord och fraser i korta, enkla texter om välbekanta ämnen. I muntliga framställningar av olika slag formulerar sig eleven mycket enkelt och i huvudsak begripligt med enstaka vanliga ord och fraser. I skriftliga framställningar av olika slag formulerar sig eleven mycket enkelt och i huvudsak begripligt med enstaka vanliga ord och fraser. I interaktion uttrycker sig eleven mycket enkelt och i huvudsak begripligt med enstaka vanliga ord och fraser. Dessutom använder eleven strategier som i någon mån underlättar interaktionen. Eleven kommenterar på ett mycket enkelt sätt, på målspråket, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "D",
+            "text": {
+              "local": "Betygskriterier för betyget D i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan C och E.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "C",
+            "text": {
+              "local": "Betygskriterier för betyget C i slutet av årskurs 6Eleven lyssnar, och förstår enkla ord och fraser i tydligt talat, enkelt språk i långsamt tempo om välbekanta ämnen. Eleven läser, och förstår enkla ord och fraser i korta, enkla texter om välbekanta ämnen. I muntliga framställningar av olika slag formulerar sig eleven mycket enkelt och begripligt med vanliga ord och fraser. I skriftliga framställningar av olika slag formulerar sig eleven mycket enkelt och begripligt med vanliga ord och fraser. I interaktion uttrycker sig eleven mycket enkelt och begripligt med vanliga ord och fraser. Dessutom använder eleven strategier som i viss utsträckning underlättar interaktionen. Eleven kommenterar på ett mycket enkelt sätt, på målspråket, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "B",
+            "text": {
+              "local": "Betygskriterier för betyget B i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan A och C.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "A",
+            "text": {
+              "local": "Betygskriterier för betyget A i slutet av årskurs 6Eleven lyssnar, och förstår huvudsakligt innehåll och tydliga detaljer i tydligt talat, enkelt språk i långsamt tempo om välbekanta ämnen. Eleven läser, och förstår huvudsakligt innehåll och tydliga detaljer i korta, enkla texter om välbekanta ämnen. I muntliga framställningar av olika slag formulerar sig eleven enkelt och relativt tydligt med vanliga ord och fraser. I skriftliga framställningar av olika slag formulerar sig eleven enkelt och relativt tydligt med vanliga ord och fraser. I interaktion uttrycker sig eleven enkelt och relativt tydligt med vanliga ord och fraser. Dessutom använder eleven strategier som underlättar interaktionen. Eleven kommenterar på ett mycket enkelt sätt, på målspråket, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "E",
+            "text": {
+              "local": "Inom ramen för språkvalBetygskriterier för betyget E i slutet av årskurs 6Eleven lyssnar, och förstår vanliga, enkla ord och fraser i tydligt talat, enkelt språk i långsamt tempo om välbekanta ämnen. Eleven läser, och förstår vanliga, enkla ord och fraser i korta, enkla texter om välbekanta ämnen. I muntliga framställningar av olika slag formulerar sig eleven mycket enkelt och i huvudsak begripligt med enstaka vanliga ord och fraser. I skriftliga framställningar av olika slag formulerar sig eleven mycket enkelt och i huvudsak begripligt med enstaka vanliga ord och fraser. I interaktion uttrycker sig eleven mycket enkelt och i huvudsak begripligt med enstaka vanliga ord och fraser. Dessutom använder eleven strategier som i någon mån underlättar interaktionen. Eleven kommenterar på ett mycket enkelt sätt, på målspråket, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "D",
+            "text": {
+              "local": "Betygskriterier för betyget D i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan C och E.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "C",
+            "text": {
+              "local": "Betygskriterier för betyget C i slutet av årskurs 6Eleven lyssnar, och förstår enkla ord och fraser i tydligt talat, enkelt språk i långsamt tempo om välbekanta ämnen. Eleven läser, och förstår enkla ord och fraser i korta, enkla texter om välbekanta ämnen. I muntliga framställningar av olika slag formulerar sig eleven mycket enkelt och begripligt med vanliga ord och fraser. I skriftliga framställningar av olika slag formulerar sig eleven mycket enkelt och begripligt med vanliga ord och fraser. I interaktion uttrycker sig eleven mycket enkelt och begripligt med vanliga ord och fraser. Dessutom använder eleven strategier som i viss utsträckning underlättar interaktionen. Eleven kommenterar på ett mycket enkelt sätt, på målspråket, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "B",
+            "text": {
+              "local": "Betygskriterier för betyget B i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan A och C.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "A",
+            "text": {
+              "local": "Betygskriterier för betyget A i slutet av årskurs 6Eleven lyssnar, och förstår huvudsakligt innehåll och tydliga detaljer i tydligt talat, enkelt språk i långsamt tempo om välbekanta ämnen. Eleven läser, och förstår huvudsakligt innehåll och tydliga detaljer i korta, enkla texter om välbekanta ämnen. I muntliga framställningar av olika slag formulerar sig eleven enkelt och relativt tydligt med vanliga ord och fraser. I skriftliga framställningar av olika slag formulerar sig eleven enkelt och relativt tydligt med vanliga ord och fraser.  I interaktion uttrycker sig eleven enkelt och relativt tydligt med vanliga ord och fraser. Dessutom använder eleven strategier som underlättar interaktionen. Eleven kommenterar på ett mycket enkelt sätt, på målspråket, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "E",
+            "text": {
+              "local": "Inom ramen för skolans val, kinesiskaBetygskriterier för betyget E i slutet av årskurs 6Eleven lyssnar, och förstår vanliga, enkla ord i tydligt talad, enkel kinesiska i mycket långsamt tempo om välbekanta ämnen. I muntliga framställningar formulerar sig eleven mycket enkelt och i huvudsak begripligt med enstaka vanliga ord och fraser. I muntlig interaktion uttrycker sig eleven mycket enkelt och i huvudsak begripligt med enstaka vanliga ord och fraser. Dessutom använder eleven strategier som i någon mån underlättar interaktionen. Eleven läser, och förstår mycket vanliga ord i korta, enkla texter som handlar om välbekanta ämnen och som är skrivna med förenklade tecken. Eleven skriver några vanligt förekommande tecken för hand och med hjälp av digitala hjälpmedel. Eleven kommenterar på ett mycket enkelt sätt, på kinesiska, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "D",
+            "text": {
+              "local": "Betygskriterier för betyget D i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan C och E.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "C",
+            "text": {
+              "local": "Betygskriterier för betyget C i slutet av årskurs 6Eleven lyssnar, och förstår vanliga, enkla ord och fraser i tydligt talad, enkel kinesiska i mycket långsamt tempo om välbekanta ämnen. I muntliga framställningar formulerar sig eleven mycket enkelt och begripligt med enstaka vanliga ord och fraser. I muntlig interaktion uttrycker sig eleven mycket enkelt och begripligt med enstaka vanliga ord och fraser. Dessutom använder eleven strategier som i viss utsträckning underlättar interaktionen. Eleven läser, och förstår mycket vanliga ord i korta, enkla texter som handlar om välbekanta ämnen och som är skrivna med förenklade tecken. Eleven skriver några vanligt förekommande tecken för hand och med hjälp av digitala hjälpmedel. Eleven kommenterar på ett mycket enkelt sätt, på kinesiska, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "B",
+            "text": {
+              "local": "Betygskriterier för betyget B i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan A och C.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "A",
+            "text": {
+              "local": "Betygskriterier för betyget A i slutet av årskurs 6Eleven lyssnar, och förstår enkla ord och fraser i tydligt talad, enkel kinesiska i mycket långsamt tempo om välbekanta ämnen. I muntliga framställningar formulerar sig eleven enkelt och relativt tydligt med enstaka vanliga ord och fraser. I muntlig interaktion uttrycker sig eleven enkelt och relativt tydligt med enstaka vanliga ord och fraser. Dessutom använder eleven strategier som underlättar interaktionen. Eleven läser, och förstår vanliga ord i korta, enkla texter som handlar om välbekanta ämnen och som är skrivna med förenklade tecken. Eleven använder några vanligt förekommande tecken för att skriva mycket korta, enkla texter för hand och med hjälp av digitala hjälpmedel. Eleven kommenterar på ett mycket enkelt sätt, på kinesiska, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "E",
+            "text": {
+              "local": "Inom ramen för språkval, kinesiskaBetygskriterier för betyget E i slutet av årskurs 6Eleven lyssnar, och förstår vanliga, enkla ord i tydligt talad, enkel kinesiska i mycket långsamt tempo om välbekanta ämnen. I muntliga framställningar formulerar sig eleven mycket enkelt och i huvudsak begripligt med enstaka vanliga ord och fraser. I muntlig interaktion uttrycker sig eleven mycket enkelt och i huvudsak begripligt med enstaka vanliga ord och fraser. Dessutom använder eleven strategier som i någon mån underlättar interaktionen. Eleven läser, och förstår mycket vanliga ord i korta, enkla texter som handlar om välbekanta ämnen och som är skrivna med förenklade tecken. Eleven skriver några vanligt förekommande tecken för hand och med hjälp av digitala hjälpmedel. Eleven kommenterar på ett mycket enkelt sätt, på kinesiska, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "D",
+            "text": {
+              "local": "Betygskriterier för betyget D i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan C och E.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "C",
+            "text": {
+              "local": "Betygskriterier för betyget C i slutet av årskurs 6Eleven lyssnar, och förstår vanliga, enkla ord och fraser i tydligt talad, enkel kinesiska i mycket långsamt tempo om välbekanta ämnen. I muntliga framställningar formulerar sig eleven mycket enkelt och begripligt med enstaka vanliga ord och fraser. I muntlig interaktion uttrycker sig eleven mycket enkelt och begripligt med enstaka vanliga ord och fraser. Dessutom använder eleven strategier som i viss utsträckning underlättar interaktionen. Eleven läser, och förstår mycket vanliga ord i korta, enkla texter som handlar om välbekanta ämnen och som är skrivna med förenklade tecken. Eleven skriver några vanligt förekommande tecken för hand och med hjälp av digitala hjälpmedel. Eleven kommenterar på ett mycket enkelt sätt, på kinesiska, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "B",
+            "text": {
+              "local": "Betygskriterier för betyget B i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan A och C.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "A",
+            "text": {
+              "local": "Betygskriterier för betyget A i slutet av årskurs 6Eleven lyssnar, och förstår enkla ord och fraser i tydligt talad, enkel kinesiska i mycket långsamt tempo om välbekanta ämnen. I muntliga framställningar formulerar sig eleven enkelt och relativt tydligt med enstaka vanliga ord och fraser. I muntlig interaktion uttrycker sig eleven enkelt och relativt tydligt med enstaka vanliga ord och fraser. Dessutom använder eleven strategier som underlättar interaktionen. Eleven läser, och förstår vanliga ord i korta, enkla texter som handlar om välbekanta ämnen och som är skrivna med förenklade tecken. Eleven använder några vanligt förekommande tecken för att skriva mycket korta, enkla texter för hand och med hjälp av digitala hjälpmedel. Eleven kommenterar på ett mycket enkelt sätt, på kinesiska, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          }
+        ]
+      },
+      {
+        "afterGrade": 9,
+        "label": {
+          "local": "Årskurs 4-9",
+          "en": "Years 4-9"
+        },
+        "competenceGoals": [
+          {
+            "code": "GRGRMSP01-4-9-1",
+            "text": {
+              "local": "Ämnesområden som är välbekanta för eleverna.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kommunikationens innehåll"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-9-2",
+            "text": {
+              "local": "Vardagliga situationer, intressen, personer och platser.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kommunikationens innehåll"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-9-3",
+            "text": {
+              "local": "Åsikter och känslor.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kommunikationens innehåll"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-9-4",
+            "text": {
+              "local": "Vardagsliv och levnadssätt i olika sammanhang och områden där språket an­vänds.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kommunikationens innehåll"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-9-5",
+            "text": {
+              "local": "Tydligt talat språk och enkla texter som är instruerande, beskrivande och kon­taktskapande, från olika medier, även i kombination med illustrationer.",
+              "en": ""
+            },
+            "coreElements": [
+              "Lyssna och läsa – reception"
+            ],
+            "verbs": [
+              "Beskriva",
+              "Skapa"
+            ]
+          },
+          {
+            "code": "GRGRMSP01-4-9-6",
+            "text": {
+              "local": "Dialoger och samtal.",
+              "en": ""
+            },
+            "coreElements": [
+              "Lyssna och läsa – reception"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-9-7",
+            "text": {
+              "local": "Berättelser och annan fiktion, även i talad eller dramatiserad form, samt sånger.",
+              "en": ""
+            },
+            "coreElements": [
+              "Lyssna och läsa – reception"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-9-8",
+            "text": {
+              "local": "Muntliga och skriftliga meddelanden samt information, till exempel på skylt­ar och i reklam.",
+              "en": ""
+            },
+            "coreElements": [
+              "Lyssna och läsa – reception"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-9-9",
+            "text": {
+              "local": "Strategier för att uppfatta betydelsebärande ord och dra slutsatser om inne­hållet, till exempel med hjälp av förförståelse och bilder.",
+              "en": ""
+            },
+            "coreElements": [
+              "Lyssna och läsa – reception"
+            ],
+            "verbs": [
+              "Förstå"
+            ]
+          },
+          {
+            "code": "GRGRMSP01-4-9-10",
+            "text": {
+              "local": "Olika sätt att orientera sig i anvisade muntliga och skriftliga källor av olika slag för att hitta enkel information att använda i egen produktion och interaktion.",
+              "en": ""
+            },
+            "coreElements": [
+              "Lyssna och läsa – reception"
+            ],
+            "verbs": [
+              "Använda",
+              "Visa"
+            ]
+          },
+          {
+            "code": "GRGRMSP01-4-9-11",
+            "text": {
+              "local": "Språkliga företeelser, däribland uttal, grammatiska strukturer och stavning, i det språk eleverna möter.",
+              "en": ""
+            },
+            "coreElements": [
+              "Lyssna och läsa – reception"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-9-12",
+            "text": {
+              "local": "Hur ord, fasta språkliga uttryck och vardagsfraser används i talat språk och tex­ter i olika situationer.",
+              "en": ""
+            },
+            "coreElements": [
+              "Lyssna och läsa – reception"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-9-13",
+            "text": {
+              "local": "Samtal och skrivande för kontakt och kommunikation.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala, skriva och samtala – produktion och interaktion"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-9-14",
+            "text": {
+              "local": "Presentationer, instruktioner, meddelanden, berättelser och beskrivningar i tal och skrift.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala, skriva och samtala – produktion och interaktion"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-9-15",
+            "text": {
+              "local": "Strategier för att underlätta samtal, däribland omformuleringar, gester och frå­gor.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala, skriva och samtala – produktion och interaktion"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-9-16",
+            "text": {
+              "local": "Språkliga företeelser, däribland uttal, ord, artighetsfraser och andra fasta språk­liga uttryck samt grammatiska strukturer och stavning i elevernas egen produktion och interaktion.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala, skriva och samtala – produktion och interaktion"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-9-17",
+            "text": {
+              "local": "Bearbetning av egna muntliga och skriftliga framställningar för att förtyd­liga kommunikationen.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala, skriva och samtala – produktion och interaktion"
+            ],
+            "verbs": []
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "E",
+            "text": {
+              "local": "Inom ramen för skolans valBetygskriterier för betyget E i slutet av årskurs 9Eleven lyssnar, och förstår vanliga ord och enkla fraser i tydligt talat, enkelt språk i långsamt tempo om vardagliga och välbekanta ämnen. Eleven läser, och förstår vanliga ord och enkla fraser i korta, enkla texter om vardagliga och välbekanta ämnen. Eleven hittar enkel information i anvisade muntliga och skriftliga källor samt använder på ett delvis relevant sätt det valda materialet i sin egen produktion och interaktion. I muntliga framställningar av olika slag formulerar sig eleven enkelt och begripligt med enstaka ord och fraser. I skriftliga framställningar av olika slag formulerar sig eleven enkelt och begripligt med enstaka ord och fraser. I interaktion uttrycker sig eleven enkelt och begripligt med enstaka ord och fraser. Dessutom använder eleven strategier som i någon mån underlättar och förbättrar interaktionen. Eleven kommenterar på ett mycket enkelt sätt, på målspråket, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "D",
+            "text": {
+              "local": "Betygskriterier för betyget D i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan C och E.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "C",
+            "text": {
+              "local": "Betygskriterier för betyget C i slutet av årskurs 9Eleven lyssnar, och förstår huvudsakligt innehåll och tydliga detaljer i tydligt talat, enkelt språk i långsamt tempo om vardagliga och välbekanta ämnen. Eleven läser, och förstår huvudsakligt innehåll och tydliga detaljer i korta, enkla texter om vardagliga och välbekanta ämnen. Eleven hittar enkel information i anvisade muntliga och skriftliga källor samt använder på ett relevant sätt det valda materialet i sin egen produktion och interaktion. I muntliga framställningar av olika slag formulerar sig eleven enkelt och relativt tydligt med fraser och meningar. I skriftliga framställningar av olika slag formulerar sig eleven enkelt och relativt tydligt med fraser och meningar. I interaktion uttrycker sig eleven enkelt och begripligt med ord, fraser och meningar. Dessutom använder eleven strategier som i viss utsträckning underlättar och förbättrar interaktionen. Eleven kommenterar på ett mycket enkelt sätt, på målspråket, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "B",
+            "text": {
+              "local": "Betygskriterier för betyget B i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan A och C.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "A",
+            "text": {
+              "local": "Betygskriterier för betyget A i slutet av årskurs 9Eleven lyssnar, och förstår huvudsakligt innehåll och väsentliga detaljer i tydligt talat, enkelt språk i långsamt tempo om vardagliga och välbekanta ämnen. Eleven läser, och förstår huvudsakligt innehåll och väsentliga detaljer i korta, enkla texter om vardagliga och välbekanta ämnen. Eleven hittar enkel information i anvisade muntliga och skriftliga källor samt använder på ett relevant och effektivt sätt det valda materialet i sin egen produktion och interaktion. I muntliga framställningar av olika slag formulerar sig eleven enkelt, relativt tydligt och till viss del sammanhängande. I skriftliga framställningar av olika slag formulerar sig eleven enkelt, relativt tydligt och till viss del sammanhängande. I interaktion uttrycker sig eleven enkelt och relativt tydligt med ord, fraser och meningar. Dessutom använder eleven strategier som underlättar och förbättrar interaktionen. Eleven kommenterar på ett enkelt sätt, på målspråket, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "E",
+            "text": {
+              "local": "Inom ramen för språkvalBetygskriterier för betyget E i slutet av årskurs 9Eleven lyssnar samt förstår och tolkar det mest väsentliga av innehållet i tydligt talat, enkelt språk i lugnt tempo om vardagliga och välbekanta ämnen. Eleven läser samt förstår och tolkar det mest väsentliga av innehållet i enkla texter om vardagliga och välbekanta ämnen. Eleven väljer enkel information från ett avgränsat urval av muntliga och skriftliga källor samt använder på ett delvis relevant sätt det valda materialet i sin egen produktion och interaktion. I muntliga framställningar av olika slag formulerar sig eleven enkelt och begripligt med fraser och meningar. I skriftliga framställningar av olika slag formulerar sig eleven enkelt och begripligt med fraser och meningar. I interaktion uttrycker sig eleven enkelt och begripligt med ord, fraser och meningar. Dessutom använder eleven strategier som i någon mån underlättar och förbättrar interaktionen. Eleven kommenterar på ett enkelt sätt, på målspråket, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "D",
+            "text": {
+              "local": "Betygskriterier för betyget D i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan C och E.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "C",
+            "text": {
+              "local": "Betygskriterier för betyget C i slutet av årskurs 9Eleven lyssnar samt förstår och tolkar huvudsakligt innehåll och tydliga detaljer i tydligt talat, enkelt språk i lugnt tempo om vardagliga och välbekanta ämnen. Eleven läser samt förstår och tolkar huvudsakligt innehåll och tydliga detaljer i enkla texter om vardagliga och välbekanta ämnen. Eleven väljer enkel information från ett avgränsat urval av muntliga och skriftliga källor samt använder på ett relevant sätt det valda materialet i sin egen produktion och interaktion. I muntliga framställningar av olika slag formulerar sig eleven enkelt, relativt tydligt och till viss del sammanhängande. I skriftliga framställningar av olika slag formulerar sig eleven enkelt, relativt tydligt och till viss del sammanhängande. I interaktion uttrycker sig eleven enkelt och relativt tydligt med ord, fraser och meningar. Dessutom använder eleven strategier som i viss utsträckning underlättar och förbättrar interaktionen. Eleven kommenterar på ett enkelt sätt, på målspråket, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "B",
+            "text": {
+              "local": "Betygskriterier för betyget B i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan A och C.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "A",
+            "text": {
+              "local": "Betygskriterier för betyget A i slutet av årskurs 9Eleven lyssnar samt förstår och tolkar helheten och väsentliga detaljer i tydligt talat, enkelt språk i lugnt tempo om vardagliga och välbekanta ämnen. Eleven läser samt förstår och tolkar helheten och väsentliga detaljer i enkla texter om vardagliga och välbekanta ämnen. Eleven väljer enkel information från ett avgränsat urval av muntliga och skriftliga källor samt använder på ett relevant och effektivt sätt det valda materialet i sin egen produktion och interaktion. I muntliga framställningar av olika slag formulerar sig eleven i någon mån varierat, relativt tydligt och relativt sammanhängande. I skriftliga framställningar av olika slag formulerar sig eleven i någon mån varierat, relativt tydligt och relativt sammanhängande. I interaktion uttrycker sig eleven relativt tydligt med ord, fraser och meningar samt i någon mån anpassat till syfte, mottagare och situation. Dessutom använder eleven strategier som underlättar och förbättrar interaktionen. Eleven kommenterar översiktligt, på målspråket, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "E",
+            "text": {
+              "local": "Inom ramen för skolans val, kinesiskaBetygskriterier för betyget E i slutet av årskurs 9Eleven lyssnar, och förstår vanliga ord och enkla fraser i tydligt talad, enkel kinesiska i mycket långsamt tempo om välbekanta ämnen. I muntliga framställningar av olika slag formulerar sig eleven enkelt och begripligt med enstaka ord och fraser. I muntlig interaktion uttrycker sig eleven enkelt och begripligt med enstaka ord och fraser. Dessutom använder eleven strategier som i någon mån underlättar och förbättrar interaktionen. Eleven läser, och förstår vanliga ord i korta, enkla texter som handlar om välbekanta ämnen och som är skrivna med förenklade tecken. Eleven använder några vanligt förekommande tecken för att med viss säkerhet skriva korta, enkla texter för hand och med hjälp av digitala hjälpmedel. Eleven kommenterar på ett mycket enkelt sätt, på kinesiska, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "D",
+            "text": {
+              "local": "Betygskriterier för betyget D i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan C och E.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "C",
+            "text": {
+              "local": "Betygskriterier för betyget C i slutet av årskurs 9Eleven lyssnar, och förstår huvudsakligt innehåll i tydligt talad, enkel kinesiska i mycket långsamt tempo om välbekanta ämnen. I muntliga framställningar av olika slag formulerar sig eleven enkelt och begripligt med fraser och meningar. I muntlig interaktion uttrycker sig eleven enkelt och begripligt med ord, fraser och meningar. Dessutom använder eleven strategier som i viss utsträckning underlättar och förbättrar interaktionen. Eleven läser, och förstår vanliga ord och enkla fraser i korta, enkla texter som handlar om välbekanta ämnen och som är skrivna med förenklade tecken. Eleven använder några vanligt förekommande tecken för att med säkerhet skriva korta, enkla texter för hand och med hjälp av digitala hjälpmedel. Eleven kommenterar på ett mycket enkelt sätt, på kinesiska, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "B",
+            "text": {
+              "local": "Betygskriterier för betyget B i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan A och C.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "A",
+            "text": {
+              "local": "Betygskriterier för betyget A i slutet av årskurs 9Eleven lyssnar, och förstår huvudsakligt innehåll och tydliga detaljer i tydligt talad, enkel kinesiska i mycket långsamt tempo om välbekanta ämnen. I muntliga framställningar av olika slag formulerar sig eleven enkelt och relativt tydligt med fraser och meningar. I muntlig interaktion uttrycker sig eleven enkelt och relativt tydligt med ord, fraser och meningar. Dessutom använder eleven strategier som underlättar och förbättrar interaktionen. Eleven läser, och förstår huvudsakligt innehåll i korta, enkla texter som handlar om välbekanta ämnen och som är skrivna med förenklade tecken. Eleven använder flera vanligt förekommande tecken för att med säkerhet skriva korta, enkla texter för hand och med hjälp av digitala hjälpmedel. Eleven kommenterar på ett enkelt sätt, på kinesiska, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "E",
+            "text": {
+              "local": "Inom ramen för språkval, kinesiskaBetygskriterier för betyget E i slutet av årskurs 9Eleven lyssnar, och förstår vanliga ord och enkla fraser i tydligt talad, enkel kinesiska i långsamt tempo om vardagliga och välbekanta ämnen. Eleven hittar enkel information i anvisade muntliga källor och använder på ett delvis relevant sätt det valda materialet i sin egen produktion och interaktion. I muntliga framställningar av olika slag formulerar sig eleven enkelt och begripligt med enstaka ord och fraser. I muntlig interaktion uttrycker sig eleven enkelt och begripligt med enstaka ord och fraser. Dessutom använder eleven strategier som i någon mån underlättar och förbättrar interaktionen. Eleven läser, och förstår vanliga ord och enkla fraser i korta, enkla texter som handlar om vardagliga och välbekanta ämnen och som är skrivna med förenklade tecken. Eleven hittar mycket enkel information i anvisade skriftliga källor och använder på ett delvis relevant sätt det valda materialet i sin egen produktion och interaktion. Eleven skriver med hjälp av digitala hjälpmedel och i viss utsträckning även för hand. I skriftliga framställningar med förenklade tecken formulerar sig eleven enkelt och begripligt med enstaka ord och fraser. I skriftlig interaktion med förenklade tecken uttrycker sig eleven enkelt och begripligt med enstaka ord och fraser. Eleven kommenterar på ett mycket enkelt sätt, på kinesiska, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "D",
+            "text": {
+              "local": "Betygskriterier för betyget D i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan C och E.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "C",
+            "text": {
+              "local": "Betygskriterier för betyget C i slutet av årskurs 9Eleven lyssnar, och förstår huvudsakligt innehåll och tydliga detaljer i tydligt talad, enkel kinesiska i långsamt tempo om vardagliga och välbekanta ämnen. Eleven hittar enkel information i anvisade muntliga källor och använder på ett relevant sätt det valda materialet i sin egen produktion och interaktion. I muntliga framställningar av olika slag formulerar sig eleven enkelt och relativt tydligt med fraser och meningar. I muntlig interaktion uttrycker sig eleven enkelt och begripligt med ord, fraser och meningar. Dessutom använder eleven strategier som i viss utsträckning underlättar och förbättrar interaktionen. Eleven läser, och förstår vanliga ord och enkla fraser i korta, enkla texter som handlar om vardagliga och välbekanta ämnen och som är skrivna med förenklade tecken. Eleven hittar mycket enkel information i anvisade skriftliga källor och använder på ett relevant sätt det valda materialet i sin egen produktion och interaktion. Eleven skriver med hjälp av digitala hjälpmedel och i viss utsträckning även för hand. I skriftliga framställningar med förenklade tecken formulerar sig eleven enkelt och relativt tydligt med fraser och meningar. I skriftlig interaktion med förenklade tecken uttrycker sig eleven enkelt och begripligt med ord, fraser och meningar. Eleven kommenterar på ett mycket enkelt sätt, på kinesiska, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "B",
+            "text": {
+              "local": "Betygskriterier för betyget B i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan A och C.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "A",
+            "text": {
+              "local": "Betygskriterier för betyget A i slutet av årskurs 9Eleven lyssnar, och förstår huvudsakligt innehåll och väsentliga detaljer i tydligt talad, enkel kinesiska i långsamt tempo om vardagliga och välbekanta ämnen. Eleven hittar enkel information i anvisade muntliga källor och använder på ett relevant och effektivt sätt det valda materialet i sin egen produktion och interaktion. I muntliga framställningar av olika slag formulerar sig eleven enkelt, relativt tydligt och till viss del sammanhängande. I muntlig interaktion uttrycker sig eleven enkelt och relativt tydligt med ord, fraser och meningar. Dessutom använder eleven strategier som underlättar och förbättrar interaktionen. Eleven läser, och förstår huvudsakligt innehåll och tydliga detaljer i korta, enkla texter som handlar om vardagliga och välbekanta ämnen och som är skrivna med förenklade tecken. Eleven hittar mycket enkel information i anvisade skriftliga källor och använder på ett relevant och effektivt sätt det valda materialet i sin egen produktion och interaktion. Eleven skriver med hjälp av digitala hjälpmedel och i viss utsträckning även för hand. I skriftliga framställningar med förenklade tecken formulerar sig eleven enkelt, relativt tydligt och till viss del sammanhängande. I skriftlig interaktion med förenklade tecken uttrycker sig eleven enkelt och relativt tydligt med ord, fraser och meningar. Eleven kommenterar på ett enkelt sätt, på kinesiska, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          }
+        ]
+      },
+      {
+        "afterGrade": 9,
+        "label": {
+          "local": "Årskurs 7-9",
+          "en": "Years 7-9"
+        },
+        "competenceGoals": [
+          {
+            "code": "GRGRMSP01-7-9-1",
+            "text": {
+              "local": "Ämnesområden som är välbekanta för eleverna.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kommunikationens innehåll"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-7-9-2",
+            "text": {
+              "local": "Vardagliga situationer, intressen, personer, platser, aktiviteter och hän­del­ser.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kommunikationens innehåll"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-7-9-3",
+            "text": {
+              "local": "Åsikter, känslor och erfarenheter.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kommunikationens innehåll"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-7-9-4",
+            "text": {
+              "local": "Vardagsliv, levnadssätt och sociala relationer i olika sammanhang och områden där språket används, även i jämförelse med egna erfarenheter och kunskaper. Målspråkets utbredning i världen.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kommunikationens innehåll"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-7-9-5",
+            "text": {
+              "local": "Tydligt talat språk och enkla texter som är instruerande, beskrivande och kontaktskapande, från olika medier.",
+              "en": ""
+            },
+            "coreElements": [
+              "Lyssna och läsa – reception"
+            ],
+            "verbs": [
+              "Beskriva",
+              "Skapa"
+            ]
+          },
+          {
+            "code": "GRGRMSP01-7-9-6",
+            "text": {
+              "local": "Dialoger, samtal och intervjuer.",
+              "en": ""
+            },
+            "coreElements": [
+              "Lyssna och läsa – reception"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-7-9-7",
+            "text": {
+              "local": "Berättelser och annan fiktion, även i talad eller dramatiserad form.",
+              "en": ""
+            },
+            "coreElements": [
+              "Lyssna och läsa – reception"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-7-9-8",
+            "text": {
+              "local": "Sånger och dikter.",
+              "en": ""
+            },
+            "coreElements": [
+              "Lyssna och läsa – reception"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-7-9-9",
+            "text": {
+              "local": "Muntliga och skriftliga meddelanden samt information, till exempel reklam, tidtabeller och notiser.",
+              "en": ""
+            },
+            "coreElements": [
+              "Lyssna och läsa – reception"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-7-9-10",
+            "text": {
+              "local": "Strategier för att uppfatta betydelsebärande ord och sammanhang samt för att anpassa lyssnande och läsning till framställningens form och innehåll.",
+              "en": ""
+            },
+            "coreElements": [
+              "Lyssna och läsa – reception"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-7-9-11",
+            "text": {
+              "local": "Sökning av enkel information i ett avgränsat urval av muntliga och skrift­liga källor av olika slag för användning i egen produktion och interaktion.",
+              "en": ""
+            },
+            "coreElements": [
+              "Lyssna och läsa – reception"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-7-9-12",
+            "text": {
+              "local": "Språkliga företeelser, däribland uttal, ord och fasta språkliga uttryck, gram­matiska strukturer och stavning, i det språk eleverna möter.",
+              "en": ""
+            },
+            "coreElements": [
+              "Lyssna och läsa – reception"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-7-9-13",
+            "text": {
+              "local": "Hur olika formuleringar används för att inleda och avsluta olika typer av fram­ställningar och samtal.",
+              "en": ""
+            },
+            "coreElements": [
+              "Lyssna och läsa – reception"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-7-9-14",
+            "text": {
+              "local": "Samtal och skrivande för kontakt och kommunikation.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala, skriva och samtala – produktion och interaktion"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-7-9-15",
+            "text": {
+              "local": "Presentationer, instruktioner, meddelanden, berättelser och beskrivningar i sam­manhängande tal och skrift.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala, skriva och samtala – produktion och interaktion"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-7-9-16",
+            "text": {
+              "local": "Strategier, däribland omformuleringar, frågor och stödjande fraser, för att bid­ra till och underlätta samtal och skriftlig interaktion, även digital.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala, skriva och samtala – produktion och interaktion"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-7-9-17",
+            "text": {
+              "local": "Språkliga företeelser, däribland uttal, ord, artighetsfraser, tilltalsord och an­dra fasta språkliga uttryck samt grammatiska strukturer och stavning i ele­vernas egen produktion och interaktion.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala, skriva och samtala – produktion och interaktion"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-7-9-18",
+            "text": {
+              "local": "Bearbetning av egna muntliga och skriftliga framställningar för att för­tyd­liga och anpassa kommunikationen efter syfte och mottagare.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala, skriva och samtala – produktion och interaktion"
+            ],
+            "verbs": []
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "E",
+            "text": {
+              "local": "Inom ramen för skolans valBetygskriterier för betyget E i slutet av årskurs 9Eleven lyssnar, och förstår vanliga ord och enkla fraser i tydligt talat, enkelt språk i långsamt tempo om vardagliga och välbekanta ämnen. Eleven läser, och förstår vanliga ord och enkla fraser i korta, enkla texter om vardagliga och välbekanta ämnen. Eleven hittar enkel information i anvisade muntliga och skriftliga källor samt använder på ett delvis relevant sätt det valda materialet i sin egen produktion och interaktion. I muntliga framställningar av olika slag formulerar sig eleven enkelt och begripligt med enstaka ord och fraser. I skriftliga framställningar av olika slag formulerar sig eleven enkelt och begripligt med enstaka ord och fraser. I interaktion uttrycker sig eleven enkelt och begripligt med enstaka ord och fraser. Dessutom använder eleven strategier som i någon mån underlättar och förbättrar interaktionen. Eleven kommenterar på ett mycket enkelt sätt, på målspråket, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "D",
+            "text": {
+              "local": "Betygskriterier för betyget D i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan C och E.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "C",
+            "text": {
+              "local": "Betygskriterier för betyget C i slutet av årskurs 9Eleven lyssnar, och förstår huvudsakligt innehåll och tydliga detaljer i tydligt talat, enkelt språk i långsamt tempo om vardagliga och välbekanta ämnen. Eleven läser, och förstår huvudsakligt innehåll och tydliga detaljer i korta, enkla texter om vardagliga och välbekanta ämnen. Eleven hittar enkel information i anvisade muntliga och skriftliga källor samt använder på ett relevant sätt det valda materialet i sin egen produktion och interaktion. I muntliga framställningar av olika slag formulerar sig eleven enkelt och relativt tydligt med fraser och meningar. I skriftliga framställningar av olika slag formulerar sig eleven enkelt och relativt tydligt med fraser och meningar. I interaktion uttrycker sig eleven enkelt och begripligt med ord, fraser och meningar. Dessutom använder eleven strategier som i viss utsträckning underlättar och förbättrar interaktionen. Eleven kommenterar på ett mycket enkelt sätt, på målspråket, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "B",
+            "text": {
+              "local": "Betygskriterier för betyget B i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan A och C.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "A",
+            "text": {
+              "local": "Betygskriterier för betyget A i slutet av årskurs 9Eleven lyssnar, och förstår huvudsakligt innehåll och väsentliga detaljer i tydligt talat, enkelt språk i långsamt tempo om vardagliga och välbekanta ämnen. Eleven läser, och förstår huvudsakligt innehåll och väsentliga detaljer i korta, enkla texter om vardagliga och välbekanta ämnen. Eleven hittar enkel information i anvisade muntliga och skriftliga källor samt använder på ett relevant och effektivt sätt det valda materialet i sin egen produktion och interaktion. I muntliga framställningar av olika slag formulerar sig eleven enkelt, relativt tydligt och till viss del sammanhängande. I skriftliga framställningar av olika slag formulerar sig eleven enkelt, relativt tydligt och till viss del sammanhängande. I interaktion uttrycker sig eleven enkelt och relativt tydligt med ord, fraser och meningar. Dessutom använder eleven strategier som underlättar och förbättrar interaktionen. Eleven kommenterar på ett enkelt sätt, på målspråket, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "E",
+            "text": {
+              "local": "Inom ramen för språkvalBetygskriterier för betyget E i slutet av årskurs 9Eleven lyssnar samt förstår och tolkar det mest väsentliga av innehållet i tydligt talat, enkelt språk i lugnt tempo om vardagliga och välbekanta ämnen. Eleven läser samt förstår och tolkar det mest väsentliga av innehållet i enkla texter om vardagliga och välbekanta ämnen. Eleven väljer enkel information från ett avgränsat urval av muntliga och skriftliga källor samt använder på ett delvis relevant sätt det valda materialet i sin egen produktion och interaktion. I muntliga framställningar av olika slag formulerar sig eleven enkelt och begripligt med fraser och meningar. I skriftliga framställningar av olika slag formulerar sig eleven enkelt och begripligt med fraser och meningar. I interaktion uttrycker sig eleven enkelt och begripligt med ord, fraser och meningar. Dessutom använder eleven strategier som i någon mån underlättar och förbättrar interaktionen. Eleven kommenterar på ett enkelt sätt, på målspråket, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "D",
+            "text": {
+              "local": "Betygskriterier för betyget D i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan C och E.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "C",
+            "text": {
+              "local": "Betygskriterier för betyget C i slutet av årskurs 9Eleven lyssnar samt förstår och tolkar huvudsakligt innehåll och tydliga detaljer i tydligt talat, enkelt språk i lugnt tempo om vardagliga och välbekanta ämnen. Eleven läser samt förstår och tolkar huvudsakligt innehåll och tydliga detaljer i enkla texter om vardagliga och välbekanta ämnen. Eleven väljer enkel information från ett avgränsat urval av muntliga och skriftliga källor samt använder på ett relevant sätt det valda materialet i sin egen produktion och interaktion. I muntliga framställningar av olika slag formulerar sig eleven enkelt, relativt tydligt och till viss del sammanhängande. I skriftliga framställningar av olika slag formulerar sig eleven enkelt, relativt tydligt och till viss del sammanhängande. I interaktion uttrycker sig eleven enkelt och relativt tydligt med ord, fraser och meningar. Dessutom använder eleven strategier som i viss utsträckning underlättar och förbättrar interaktionen. Eleven kommenterar på ett enkelt sätt, på målspråket, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "B",
+            "text": {
+              "local": "Betygskriterier för betyget B i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan A och C.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "A",
+            "text": {
+              "local": "Betygskriterier för betyget A i slutet av årskurs 9Eleven lyssnar samt förstår och tolkar helheten och väsentliga detaljer i tydligt talat, enkelt språk i lugnt tempo om vardagliga och välbekanta ämnen. Eleven läser samt förstår och tolkar helheten och väsentliga detaljer i enkla texter om vardagliga och välbekanta ämnen. Eleven väljer enkel information från ett avgränsat urval av muntliga och skriftliga källor samt använder på ett relevant och effektivt sätt det valda materialet i sin egen produktion och interaktion. I muntliga framställningar av olika slag formulerar sig eleven i någon mån varierat, relativt tydligt och relativt sammanhängande. I skriftliga framställningar av olika slag formulerar sig eleven i någon mån varierat, relativt tydligt och relativt sammanhängande. I interaktion uttrycker sig eleven relativt tydligt med ord, fraser och meningar samt i någon mån anpassat till syfte, mottagare och situation. Dessutom använder eleven strategier som underlättar och förbättrar interaktionen. Eleven kommenterar översiktligt, på målspråket, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "E",
+            "text": {
+              "local": "Inom ramen för skolans val, kinesiskaBetygskriterier för betyget E i slutet av årskurs 9Eleven lyssnar, och förstår vanliga ord och enkla fraser i tydligt talad, enkel kinesiska i mycket långsamt tempo om välbekanta ämnen. I muntliga framställningar av olika slag formulerar sig eleven enkelt och begripligt med enstaka ord och fraser. I muntlig interaktion uttrycker sig eleven enkelt och begripligt med enstaka ord och fraser. Dessutom använder eleven strategier som i någon mån underlättar och förbättrar interaktionen. Eleven läser, och förstår vanliga ord i korta, enkla texter som handlar om välbekanta ämnen och som är skrivna med förenklade tecken. Eleven använder några vanligt förekommande tecken för att med viss säkerhet skriva korta, enkla texter för hand och med hjälp av digitala hjälpmedel. Eleven kommenterar på ett mycket enkelt sätt, på kinesiska, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "D",
+            "text": {
+              "local": "Betygskriterier för betyget D i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan C och E.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "C",
+            "text": {
+              "local": "Betygskriterier för betyget C i slutet av årskurs 9Eleven lyssnar, och förstår huvudsakligt innehåll i tydligt talad, enkel kinesiska i mycket långsamt tempo om välbekanta ämnen. I muntliga framställningar av olika slag formulerar sig eleven enkelt och begripligt med fraser och meningar. I muntlig interaktion uttrycker sig eleven enkelt och begripligt med ord, fraser och meningar. Dessutom använder eleven strategier som i viss utsträckning underlättar och förbättrar interaktionen. Eleven läser, och förstår vanliga ord och enkla fraser i korta, enkla texter som handlar om välbekanta ämnen och som är skrivna med förenklade tecken. Eleven använder några vanligt förekommande tecken för att med säkerhet skriva korta, enkla texter för hand och med hjälp av digitala hjälpmedel. Eleven kommenterar på ett mycket enkelt sätt, på kinesiska, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "B",
+            "text": {
+              "local": "Betygskriterier för betyget B i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan A och C.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "A",
+            "text": {
+              "local": "Betygskriterier för betyget A i slutet av årskurs 9Eleven lyssnar, och förstår huvudsakligt innehåll och tydliga detaljer i tydligt talad, enkel kinesiska i mycket långsamt tempo om välbekanta ämnen. I muntliga framställningar av olika slag formulerar sig eleven enkelt och relativt tydligt med fraser och meningar. I muntlig interaktion uttrycker sig eleven enkelt och relativt tydligt med ord, fraser och meningar. Dessutom använder eleven strategier som underlättar och förbättrar interaktionen. Eleven läser, och förstår huvudsakligt innehåll i korta, enkla texter som handlar om välbekanta ämnen och som är skrivna med förenklade tecken. Eleven använder flera vanligt förekommande tecken för att med säkerhet skriva korta, enkla texter för hand och med hjälp av digitala hjälpmedel. Eleven kommenterar på ett enkelt sätt, på kinesiska, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "E",
+            "text": {
+              "local": "Inom ramen för språkval, kinesiskaBetygskriterier för betyget E i slutet av årskurs 9Eleven lyssnar, och förstår vanliga ord och enkla fraser i tydligt talad, enkel kinesiska i långsamt tempo om vardagliga och välbekanta ämnen. Eleven hittar enkel information i anvisade muntliga källor och använder på ett delvis relevant sätt det valda materialet i sin egen produktion och interaktion. I muntliga framställningar av olika slag formulerar sig eleven enkelt och begripligt med enstaka ord och fraser. I muntlig interaktion uttrycker sig eleven enkelt och begripligt med enstaka ord och fraser. Dessutom använder eleven strategier som i någon mån underlättar och förbättrar interaktionen. Eleven läser, och förstår vanliga ord och enkla fraser i korta, enkla texter som handlar om vardagliga och välbekanta ämnen och som är skrivna med förenklade tecken. Eleven hittar mycket enkel information i anvisade skriftliga källor och använder på ett delvis relevant sätt det valda materialet i sin egen produktion och interaktion. Eleven skriver med hjälp av digitala hjälpmedel och i viss utsträckning även för hand. I skriftliga framställningar med förenklade tecken formulerar sig eleven enkelt och begripligt med enstaka ord och fraser. I skriftlig interaktion med förenklade tecken uttrycker sig eleven enkelt och begripligt med enstaka ord och fraser. Eleven kommenterar på ett mycket enkelt sätt, på kinesiska, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "D",
+            "text": {
+              "local": "Betygskriterier för betyget D i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan C och E.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "C",
+            "text": {
+              "local": "Betygskriterier för betyget C i slutet av årskurs 9Eleven lyssnar, och förstår huvudsakligt innehåll och tydliga detaljer i tydligt talad, enkel kinesiska i långsamt tempo om vardagliga och välbekanta ämnen. Eleven hittar enkel information i anvisade muntliga källor och använder på ett relevant sätt det valda materialet i sin egen produktion och interaktion. I muntliga framställningar av olika slag formulerar sig eleven enkelt och relativt tydligt med fraser och meningar. I muntlig interaktion uttrycker sig eleven enkelt och begripligt med ord, fraser och meningar. Dessutom använder eleven strategier som i viss utsträckning underlättar och förbättrar interaktionen. Eleven läser, och förstår vanliga ord och enkla fraser i korta, enkla texter som handlar om vardagliga och välbekanta ämnen och som är skrivna med förenklade tecken. Eleven hittar mycket enkel information i anvisade skriftliga källor och använder på ett relevant sätt det valda materialet i sin egen produktion och interaktion. Eleven skriver med hjälp av digitala hjälpmedel och i viss utsträckning även för hand. I skriftliga framställningar med förenklade tecken formulerar sig eleven enkelt och relativt tydligt med fraser och meningar. I skriftlig interaktion med förenklade tecken uttrycker sig eleven enkelt och begripligt med ord, fraser och meningar. Eleven kommenterar på ett mycket enkelt sätt, på kinesiska, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "B",
+            "text": {
+              "local": "Betygskriterier för betyget B i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan A och C.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "A",
+            "text": {
+              "local": "Betygskriterier för betyget A i slutet av årskurs 9Eleven lyssnar, och förstår huvudsakligt innehåll och väsentliga detaljer i tydligt talad, enkel kinesiska i långsamt tempo om vardagliga och välbekanta ämnen. Eleven hittar enkel information i anvisade muntliga källor och använder på ett relevant och effektivt sätt det valda materialet i sin egen produktion och interaktion. I muntliga framställningar av olika slag formulerar sig eleven enkelt, relativt tydligt och till viss del sammanhängande. I muntlig interaktion uttrycker sig eleven enkelt och relativt tydligt med ord, fraser och meningar. Dessutom använder eleven strategier som underlättar och förbättrar interaktionen. Eleven läser, och förstår huvudsakligt innehåll och tydliga detaljer i korta, enkla texter som handlar om vardagliga och välbekanta ämnen och som är skrivna med förenklade tecken. Eleven hittar mycket enkel information i anvisade skriftliga källor och använder på ett relevant och effektivt sätt det valda materialet i sin egen produktion och interaktion. Eleven skriver med hjälp av digitala hjälpmedel och i viss utsträckning även för hand. I skriftliga framställningar med förenklade tecken formulerar sig eleven enkelt, relativt tydligt och till viss del sammanhängande. I skriftlig interaktion med förenklade tecken uttrycker sig eleven enkelt och relativt tydligt med ord, fraser och meningar. Eleven kommenterar på ett enkelt sätt, på kinesiska, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          }
+        ]
+      },
+      {
+        "afterGrade": 9,
+        "label": {
+          "local": "Årskurs 4-9",
+          "en": "Years 4-9"
+        },
+        "competenceGoals": [
+          {
+            "code": "GRGRMSP01-4-9-1",
+            "text": {
+              "local": "Ämnesområden som är välbekanta för eleverna.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kommunikationens innehåll"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-9-2",
+            "text": {
+              "local": "Vardagliga situationer, intressen, personer och platser.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kommunikationens innehåll"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-9-3",
+            "text": {
+              "local": "Vardagsliv och levnadssätt i olika sammanhang och områden där kinesiska används.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kommunikationens innehåll"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-9-4",
+            "text": {
+              "local": "Tydligt talat språk som är instruerande, beskrivande och kontaktskapande, från olika medier, även i kombination med illustrationer.",
+              "en": ""
+            },
+            "coreElements": [
+              "Lyssna – reception"
+            ],
+            "verbs": [
+              "Beskriva",
+              "Skapa"
+            ]
+          },
+          {
+            "code": "GRGRMSP01-4-9-5",
+            "text": {
+              "local": "Dialoger och samtal.",
+              "en": ""
+            },
+            "coreElements": [
+              "Lyssna – reception"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-9-6",
+            "text": {
+              "local": "Sånger och ramsor.",
+              "en": ""
+            },
+            "coreElements": [
+              "Lyssna – reception"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-9-7",
+            "text": {
+              "local": "Enkla meddelanden samt information.",
+              "en": ""
+            },
+            "coreElements": [
+              "Lyssna – reception"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-9-8",
+            "text": {
+              "local": "Strategier för att uppfatta betydelsebärande ord och dra slutsatser om innehållet.",
+              "en": ""
+            },
+            "coreElements": [
+              "Lyssna – reception"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-9-9",
+            "text": {
+              "local": "Språkliga företeelser i det språk eleverna möter, med betoning på grund­läg­gande satsstrukturer och uttal. Fonem och tonem.",
+              "en": ""
+            },
+            "coreElements": [
+              "Lyssna – reception"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-9-10",
+            "text": {
+              "local": "Hur ord och vardagsfraser används i olika situationer.",
+              "en": ""
+            },
+            "coreElements": [
+              "Lyssna – reception"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-9-11",
+            "text": {
+              "local": "Pinyin som stöd för förståelse av det talade språk eleverna möter.",
+              "en": ""
+            },
+            "coreElements": [
+              "Lyssna – reception"
+            ],
+            "verbs": [
+              "Förstå"
+            ]
+          },
+          {
+            "code": "GRGRMSP01-4-9-12",
+            "text": {
+              "local": "Enkla samtal för kontakt och kommunikation.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala och samtala – produktion och interaktion"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-9-13",
+            "text": {
+              "local": "Enkla presentationer, instruktioner, meddelanden och beskrivningar.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala och samtala – produktion och interaktion"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-9-14",
+            "text": {
+              "local": "Strategier för att underlätta samtal, däribland gester och frågor.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala och samtala – produktion och interaktion"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-9-15",
+            "text": {
+              "local": "Språkliga företeelser, med betoning på uttal, intonation och grundläggande sats­strukturer samt fasta språkliga uttryck, till exempel artighetsfraser, i ele­vernas egen produktion och interaktion.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala och samtala – produktion och interaktion"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-9-16",
+            "text": {
+              "local": "Pinyin som ett medel för att utveckla elevernas talade språk, även uttal och ord­förråd.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala och samtala – produktion och interaktion"
+            ],
+            "verbs": [
+              "Utveckla"
+            ]
+          },
+          {
+            "code": "GRGRMSP01-4-9-17",
+            "text": {
+              "local": "Enkla texter som är beskrivande och kontaktskapande, även i kombination med illustrationer.",
+              "en": ""
+            },
+            "coreElements": [
+              "Läsa – reception (förenklade kinesiska tecken)"
+            ],
+            "verbs": [
+              "Beskriva",
+              "Skapa"
+            ]
+          },
+          {
+            "code": "GRGRMSP01-4-9-18",
+            "text": {
+              "local": "Enkla meddelanden och skrivna dialoger.",
+              "en": ""
+            },
+            "coreElements": [
+              "Läsa – reception (förenklade kinesiska tecken)"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-9-19",
+            "text": {
+              "local": "Olika hjälpmedel för läsning, till exempel pinyin, syntetiskt tal och elektroniska ordböcker.",
+              "en": ""
+            },
+            "coreElements": [
+              "Läsa – reception (förenklade kinesiska tecken)"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-9-20",
+            "text": {
+              "local": "De förenklade tecknens ursprung, användning och uppbyggnad i de texter eleverna möter. Principer för streckordning och analys av teckendelar.",
+              "en": ""
+            },
+            "coreElements": [
+              "Läsa – reception (förenklade kinesiska tecken)"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-9-21",
+            "text": {
+              "local": "Enkla texter, till exempel presentationer, meddelanden och skrivna dia­lo­ger.",
+              "en": ""
+            },
+            "coreElements": [
+              "Skriva – produktion och interaktion (förenklade kinesiska tecken)"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-9-22",
+            "text": {
+              "local": "Hur vanligt förekommande tecken som är relevanta för kommunikationens inne­håll skrivs för hand, även streckordning.",
+              "en": ""
+            },
+            "coreElements": [
+              "Skriva – produktion och interaktion (förenklade kinesiska tecken)"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-4-9-23",
+            "text": {
+              "local": "Pinyin och andra hjälpmedel, även digitala, som stöd för den skriftliga pro­duk­tionen och interaktionen.",
+              "en": ""
+            },
+            "coreElements": [
+              "Skriva – produktion och interaktion (förenklade kinesiska tecken)"
+            ],
+            "verbs": []
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "E",
+            "text": {
+              "local": "Inom ramen för skolans valBetygskriterier för betyget E i slutet av årskurs 9Eleven lyssnar, och förstår vanliga ord och enkla fraser i tydligt talat, enkelt språk i långsamt tempo om vardagliga och välbekanta ämnen. Eleven läser, och förstår vanliga ord och enkla fraser i korta, enkla texter om vardagliga och välbekanta ämnen. Eleven hittar enkel information i anvisade muntliga och skriftliga källor samt använder på ett delvis relevant sätt det valda materialet i sin egen produktion och interaktion. I muntliga framställningar av olika slag formulerar sig eleven enkelt och begripligt med enstaka ord och fraser. I skriftliga framställningar av olika slag formulerar sig eleven enkelt och begripligt med enstaka ord och fraser. I interaktion uttrycker sig eleven enkelt och begripligt med enstaka ord och fraser. Dessutom använder eleven strategier som i någon mån underlättar och förbättrar interaktionen. Eleven kommenterar på ett mycket enkelt sätt, på målspråket, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "D",
+            "text": {
+              "local": "Betygskriterier för betyget D i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan C och E.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "C",
+            "text": {
+              "local": "Betygskriterier för betyget C i slutet av årskurs 9Eleven lyssnar, och förstår huvudsakligt innehåll och tydliga detaljer i tydligt talat, enkelt språk i långsamt tempo om vardagliga och välbekanta ämnen. Eleven läser, och förstår huvudsakligt innehåll och tydliga detaljer i korta, enkla texter om vardagliga och välbekanta ämnen. Eleven hittar enkel information i anvisade muntliga och skriftliga källor samt använder på ett relevant sätt det valda materialet i sin egen produktion och interaktion. I muntliga framställningar av olika slag formulerar sig eleven enkelt och relativt tydligt med fraser och meningar. I skriftliga framställningar av olika slag formulerar sig eleven enkelt och relativt tydligt med fraser och meningar. I interaktion uttrycker sig eleven enkelt och begripligt med ord, fraser och meningar. Dessutom använder eleven strategier som i viss utsträckning underlättar och förbättrar interaktionen. Eleven kommenterar på ett mycket enkelt sätt, på målspråket, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "B",
+            "text": {
+              "local": "Betygskriterier för betyget B i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan A och C.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "A",
+            "text": {
+              "local": "Betygskriterier för betyget A i slutet av årskurs 9Eleven lyssnar, och förstår huvudsakligt innehåll och väsentliga detaljer i tydligt talat, enkelt språk i långsamt tempo om vardagliga och välbekanta ämnen. Eleven läser, och förstår huvudsakligt innehåll och väsentliga detaljer i korta, enkla texter om vardagliga och välbekanta ämnen. Eleven hittar enkel information i anvisade muntliga och skriftliga källor samt använder på ett relevant och effektivt sätt det valda materialet i sin egen produktion och interaktion. I muntliga framställningar av olika slag formulerar sig eleven enkelt, relativt tydligt och till viss del sammanhängande. I skriftliga framställningar av olika slag formulerar sig eleven enkelt, relativt tydligt och till viss del sammanhängande. I interaktion uttrycker sig eleven enkelt och relativt tydligt med ord, fraser och meningar. Dessutom använder eleven strategier som underlättar och förbättrar interaktionen. Eleven kommenterar på ett enkelt sätt, på målspråket, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "E",
+            "text": {
+              "local": "Inom ramen för språkvalBetygskriterier för betyget E i slutet av årskurs 9Eleven lyssnar samt förstår och tolkar det mest väsentliga av innehållet i tydligt talat, enkelt språk i lugnt tempo om vardagliga och välbekanta ämnen. Eleven läser samt förstår och tolkar det mest väsentliga av innehållet i enkla texter om vardagliga och välbekanta ämnen. Eleven väljer enkel information från ett avgränsat urval av muntliga och skriftliga källor samt använder på ett delvis relevant sätt det valda materialet i sin egen produktion och interaktion. I muntliga framställningar av olika slag formulerar sig eleven enkelt och begripligt med fraser och meningar. I skriftliga framställningar av olika slag formulerar sig eleven enkelt och begripligt med fraser och meningar. I interaktion uttrycker sig eleven enkelt och begripligt med ord, fraser och meningar. Dessutom använder eleven strategier som i någon mån underlättar och förbättrar interaktionen. Eleven kommenterar på ett enkelt sätt, på målspråket, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "D",
+            "text": {
+              "local": "Betygskriterier för betyget D i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan C och E.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "C",
+            "text": {
+              "local": "Betygskriterier för betyget C i slutet av årskurs 9Eleven lyssnar samt förstår och tolkar huvudsakligt innehåll och tydliga detaljer i tydligt talat, enkelt språk i lugnt tempo om vardagliga och välbekanta ämnen. Eleven läser samt förstår och tolkar huvudsakligt innehåll och tydliga detaljer i enkla texter om vardagliga och välbekanta ämnen. Eleven väljer enkel information från ett avgränsat urval av muntliga och skriftliga källor samt använder på ett relevant sätt det valda materialet i sin egen produktion och interaktion. I muntliga framställningar av olika slag formulerar sig eleven enkelt, relativt tydligt och till viss del sammanhängande. I skriftliga framställningar av olika slag formulerar sig eleven enkelt, relativt tydligt och till viss del sammanhängande. I interaktion uttrycker sig eleven enkelt och relativt tydligt med ord, fraser och meningar. Dessutom använder eleven strategier som i viss utsträckning underlättar och förbättrar interaktionen. Eleven kommenterar på ett enkelt sätt, på målspråket, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "B",
+            "text": {
+              "local": "Betygskriterier för betyget B i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan A och C.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "A",
+            "text": {
+              "local": "Betygskriterier för betyget A i slutet av årskurs 9Eleven lyssnar samt förstår och tolkar helheten och väsentliga detaljer i tydligt talat, enkelt språk i lugnt tempo om vardagliga och välbekanta ämnen. Eleven läser samt förstår och tolkar helheten och väsentliga detaljer i enkla texter om vardagliga och välbekanta ämnen. Eleven väljer enkel information från ett avgränsat urval av muntliga och skriftliga källor samt använder på ett relevant och effektivt sätt det valda materialet i sin egen produktion och interaktion. I muntliga framställningar av olika slag formulerar sig eleven i någon mån varierat, relativt tydligt och relativt sammanhängande. I skriftliga framställningar av olika slag formulerar sig eleven i någon mån varierat, relativt tydligt och relativt sammanhängande. I interaktion uttrycker sig eleven relativt tydligt med ord, fraser och meningar samt i någon mån anpassat till syfte, mottagare och situation. Dessutom använder eleven strategier som underlättar och förbättrar interaktionen. Eleven kommenterar översiktligt, på målspråket, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "E",
+            "text": {
+              "local": "Inom ramen för skolans val, kinesiskaBetygskriterier för betyget E i slutet av årskurs 9Eleven lyssnar, och förstår vanliga ord och enkla fraser i tydligt talad, enkel kinesiska i mycket långsamt tempo om välbekanta ämnen. I muntliga framställningar av olika slag formulerar sig eleven enkelt och begripligt med enstaka ord och fraser. I muntlig interaktion uttrycker sig eleven enkelt och begripligt med enstaka ord och fraser. Dessutom använder eleven strategier som i någon mån underlättar och förbättrar interaktionen. Eleven läser, och förstår vanliga ord i korta, enkla texter som handlar om välbekanta ämnen och som är skrivna med förenklade tecken. Eleven använder några vanligt förekommande tecken för att med viss säkerhet skriva korta, enkla texter för hand och med hjälp av digitala hjälpmedel. Eleven kommenterar på ett mycket enkelt sätt, på kinesiska, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "D",
+            "text": {
+              "local": "Betygskriterier för betyget D i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan C och E.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "C",
+            "text": {
+              "local": "Betygskriterier för betyget C i slutet av årskurs 9Eleven lyssnar, och förstår huvudsakligt innehåll i tydligt talad, enkel kinesiska i mycket långsamt tempo om välbekanta ämnen. I muntliga framställningar av olika slag formulerar sig eleven enkelt och begripligt med fraser och meningar. I muntlig interaktion uttrycker sig eleven enkelt och begripligt med ord, fraser och meningar. Dessutom använder eleven strategier som i viss utsträckning underlättar och förbättrar interaktionen. Eleven läser, och förstår vanliga ord och enkla fraser i korta, enkla texter som handlar om välbekanta ämnen och som är skrivna med förenklade tecken. Eleven använder några vanligt förekommande tecken för att med säkerhet skriva korta, enkla texter för hand och med hjälp av digitala hjälpmedel. Eleven kommenterar på ett mycket enkelt sätt, på kinesiska, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "B",
+            "text": {
+              "local": "Betygskriterier för betyget B i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan A och C.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "A",
+            "text": {
+              "local": "Betygskriterier för betyget A i slutet av årskurs 9Eleven lyssnar, och förstår huvudsakligt innehåll och tydliga detaljer i tydligt talad, enkel kinesiska i mycket långsamt tempo om välbekanta ämnen. I muntliga framställningar av olika slag formulerar sig eleven enkelt och relativt tydligt med fraser och meningar. I muntlig interaktion uttrycker sig eleven enkelt och relativt tydligt med ord, fraser och meningar. Dessutom använder eleven strategier som underlättar och förbättrar interaktionen. Eleven läser, och förstår huvudsakligt innehåll i korta, enkla texter som handlar om välbekanta ämnen och som är skrivna med förenklade tecken. Eleven använder flera vanligt förekommande tecken för att med säkerhet skriva korta, enkla texter för hand och med hjälp av digitala hjälpmedel. Eleven kommenterar på ett enkelt sätt, på kinesiska, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "E",
+            "text": {
+              "local": "Inom ramen för språkval, kinesiskaBetygskriterier för betyget E i slutet av årskurs 9Eleven lyssnar, och förstår vanliga ord och enkla fraser i tydligt talad, enkel kinesiska i långsamt tempo om vardagliga och välbekanta ämnen. Eleven hittar enkel information i anvisade muntliga källor och använder på ett delvis relevant sätt det valda materialet i sin egen produktion och interaktion. I muntliga framställningar av olika slag formulerar sig eleven enkelt och begripligt med enstaka ord och fraser. I muntlig interaktion uttrycker sig eleven enkelt och begripligt med enstaka ord och fraser. Dessutom använder eleven strategier som i någon mån underlättar och förbättrar interaktionen. Eleven läser, och förstår vanliga ord och enkla fraser i korta, enkla texter som handlar om vardagliga och välbekanta ämnen och som är skrivna med förenklade tecken. Eleven hittar mycket enkel information i anvisade skriftliga källor och använder på ett delvis relevant sätt det valda materialet i sin egen produktion och interaktion. Eleven skriver med hjälp av digitala hjälpmedel och i viss utsträckning även för hand. I skriftliga framställningar med förenklade tecken formulerar sig eleven enkelt och begripligt med enstaka ord och fraser. I skriftlig interaktion med förenklade tecken uttrycker sig eleven enkelt och begripligt med enstaka ord och fraser. Eleven kommenterar på ett mycket enkelt sätt, på kinesiska, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "D",
+            "text": {
+              "local": "Betygskriterier för betyget D i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan C och E.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "C",
+            "text": {
+              "local": "Betygskriterier för betyget C i slutet av årskurs 9Eleven lyssnar, och förstår huvudsakligt innehåll och tydliga detaljer i tydligt talad, enkel kinesiska i långsamt tempo om vardagliga och välbekanta ämnen. Eleven hittar enkel information i anvisade muntliga källor och använder på ett relevant sätt det valda materialet i sin egen produktion och interaktion. I muntliga framställningar av olika slag formulerar sig eleven enkelt och relativt tydligt med fraser och meningar. I muntlig interaktion uttrycker sig eleven enkelt och begripligt med ord, fraser och meningar. Dessutom använder eleven strategier som i viss utsträckning underlättar och förbättrar interaktionen. Eleven läser, och förstår vanliga ord och enkla fraser i korta, enkla texter som handlar om vardagliga och välbekanta ämnen och som är skrivna med förenklade tecken. Eleven hittar mycket enkel information i anvisade skriftliga källor och använder på ett relevant sätt det valda materialet i sin egen produktion och interaktion. Eleven skriver med hjälp av digitala hjälpmedel och i viss utsträckning även för hand. I skriftliga framställningar med förenklade tecken formulerar sig eleven enkelt och relativt tydligt med fraser och meningar. I skriftlig interaktion med förenklade tecken uttrycker sig eleven enkelt och begripligt med ord, fraser och meningar. Eleven kommenterar på ett mycket enkelt sätt, på kinesiska, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "B",
+            "text": {
+              "local": "Betygskriterier för betyget B i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan A och C.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "A",
+            "text": {
+              "local": "Betygskriterier för betyget A i slutet av årskurs 9Eleven lyssnar, och förstår huvudsakligt innehåll och väsentliga detaljer i tydligt talad, enkel kinesiska i långsamt tempo om vardagliga och välbekanta ämnen. Eleven hittar enkel information i anvisade muntliga källor och använder på ett relevant och effektivt sätt det valda materialet i sin egen produktion och interaktion. I muntliga framställningar av olika slag formulerar sig eleven enkelt, relativt tydligt och till viss del sammanhängande. I muntlig interaktion uttrycker sig eleven enkelt och relativt tydligt med ord, fraser och meningar. Dessutom använder eleven strategier som underlättar och förbättrar interaktionen. Eleven läser, och förstår huvudsakligt innehåll och tydliga detaljer i korta, enkla texter som handlar om vardagliga och välbekanta ämnen och som är skrivna med förenklade tecken. Eleven hittar mycket enkel information i anvisade skriftliga källor och använder på ett relevant och effektivt sätt det valda materialet i sin egen produktion och interaktion. Eleven skriver med hjälp av digitala hjälpmedel och i viss utsträckning även för hand. I skriftliga framställningar med förenklade tecken formulerar sig eleven enkelt, relativt tydligt och till viss del sammanhängande. I skriftlig interaktion med förenklade tecken uttrycker sig eleven enkelt och relativt tydligt med ord, fraser och meningar. Eleven kommenterar på ett enkelt sätt, på kinesiska, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          }
+        ]
+      },
+      {
+        "afterGrade": 9,
+        "label": {
+          "local": "Årskurs 7-9",
+          "en": "Years 7-9"
+        },
+        "competenceGoals": [
+          {
+            "code": "GRGRMSP01-7-9-1",
+            "text": {
+              "local": "Ämnesområden som är välbekanta för eleverna.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kommunikationens innehåll"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-7-9-2",
+            "text": {
+              "local": "Vardagliga situationer, intressen, personer och platser.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kommunikationens innehåll"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-7-9-3",
+            "text": {
+              "local": "Åsikter och känslor.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kommunikationens innehåll"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-7-9-4",
+            "text": {
+              "local": "Vardagsliv, levnadssätt och sociala relationer i olika sammanhang och om­rå­den där kinesiska används, även i jämförelse med egna erfarenheter och kun­skaper. Kinesiskans utbredning i världen.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kommunikationens innehåll"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-7-9-5",
+            "text": {
+              "local": "Tydligt talat språk som är instruerande, beskrivande och kontaktskapande, från olika medier, även i kombination med illustrationer.",
+              "en": ""
+            },
+            "coreElements": [
+              "Lyssna – reception"
+            ],
+            "verbs": [
+              "Beskriva",
+              "Skapa"
+            ]
+          },
+          {
+            "code": "GRGRMSP01-7-9-6",
+            "text": {
+              "local": "Dialoger och samtal.",
+              "en": ""
+            },
+            "coreElements": [
+              "Lyssna – reception"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-7-9-7",
+            "text": {
+              "local": "Berättelser och annan fiktion, även i dramatiserad form, samt sånger.",
+              "en": ""
+            },
+            "coreElements": [
+              "Lyssna – reception"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-7-9-8",
+            "text": {
+              "local": "Meddelanden och information.",
+              "en": ""
+            },
+            "coreElements": [
+              "Lyssna – reception"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-7-9-9",
+            "text": {
+              "local": "Strategier för att uppfatta betydelsebärande ord och dra slutsatser om inne­hållet, till exempel med hjälp av förförståelse.",
+              "en": ""
+            },
+            "coreElements": [
+              "Lyssna – reception"
+            ],
+            "verbs": [
+              "Förstå"
+            ]
+          },
+          {
+            "code": "GRGRMSP01-7-9-10",
+            "text": {
+              "local": "Olika sätt att orientera sig i anvisade muntliga källor av olika slag för att hitta enkel information att använda i egen produktion och interaktion.",
+              "en": ""
+            },
+            "coreElements": [
+              "Lyssna – reception"
+            ],
+            "verbs": [
+              "Använda",
+              "Visa"
+            ]
+          },
+          {
+            "code": "GRGRMSP01-7-9-11",
+            "text": {
+              "local": "Språkliga företeelser, däribland uttal, intonation och grammatiska struk­tu­rer, i det språk eleverna möter. Fonem och tonem.",
+              "en": ""
+            },
+            "coreElements": [
+              "Lyssna – reception"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-7-9-12",
+            "text": {
+              "local": "Hur ord, fasta språkliga uttryck och vardagsfraser används i olika situa­tio­ner.",
+              "en": ""
+            },
+            "coreElements": [
+              "Lyssna – reception"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-7-9-13",
+            "text": {
+              "local": "Pinyin som stöd för förståelse av det talade språk eleverna möter.",
+              "en": ""
+            },
+            "coreElements": [
+              "Lyssna – reception"
+            ],
+            "verbs": [
+              "Förstå"
+            ]
+          },
+          {
+            "code": "GRGRMSP01-7-9-14",
+            "text": {
+              "local": "Samtal för kontakt och kommunikation.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala och samtala – produktion och interaktion"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-7-9-15",
+            "text": {
+              "local": "Presentationer, instruktioner, meddelanden och beskrivningar i sam­man­hängande tal.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala och samtala – produktion och interaktion"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-7-9-16",
+            "text": {
+              "local": "Strategier för att underlätta samtal, däribland omformuleringar, gester och frå­gor.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala och samtala – produktion och interaktion"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-7-9-17",
+            "text": {
+              "local": "Språkliga företeelser med betoning på uttal och intonation samt ord, artig­hets­fraser och andra fasta språkliga uttryck, i elevernas egen produktion och interaktion.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala och samtala – produktion och interaktion"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-7-9-18",
+            "text": {
+              "local": "Bearbetning av egna muntliga framställningar för att förtydliga kom­mu­ni­ka­tionen.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala och samtala – produktion och interaktion"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-7-9-19",
+            "text": {
+              "local": "Pinyin som ett medel för att utveckla elevernas talade språk, även uttal och ord­förråd.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala och samtala – produktion och interaktion"
+            ],
+            "verbs": [
+              "Utveckla"
+            ]
+          },
+          {
+            "code": "GRGRMSP01-7-9-20",
+            "text": {
+              "local": "Enkla texter som är instruerande, beskrivande, berättande och kontakt­ska­pan­de, även i kombination med illustrationer.",
+              "en": ""
+            },
+            "coreElements": [
+              "Läsa – reception (förenklade kinesiska tecken)"
+            ],
+            "verbs": [
+              "Beskriva"
+            ]
+          },
+          {
+            "code": "GRGRMSP01-7-9-21",
+            "text": {
+              "local": "Meddelanden och information, till exempel på skyltar.",
+              "en": ""
+            },
+            "coreElements": [
+              "Läsa – reception (förenklade kinesiska tecken)"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-7-9-22",
+            "text": {
+              "local": "Strategier för att använda hjälpmedel för läsning, till exempel pinyin, syn­te­tiskt tal och elektroniska ordböcker.",
+              "en": ""
+            },
+            "coreElements": [
+              "Läsa – reception (förenklade kinesiska tecken)"
+            ],
+            "verbs": [
+              "Använda"
+            ]
+          },
+          {
+            "code": "GRGRMSP01-7-9-23",
+            "text": {
+              "local": "Sökning av mycket enkel, tydlig information i anvisade skriftliga källor, till exempel för att hitta klockslag, platser och namn.",
+              "en": ""
+            },
+            "coreElements": [
+              "Läsa – reception (förenklade kinesiska tecken)"
+            ],
+            "verbs": [
+              "Visa"
+            ]
+          },
+          {
+            "code": "GRGRMSP01-7-9-24",
+            "text": {
+              "local": "De förenklade tecknens ursprung, användning och uppbyggnad i de texter ele­verna möter. Principer för streckordning och analys av teckendelar.",
+              "en": ""
+            },
+            "coreElements": [
+              "Läsa – reception (förenklade kinesiska tecken)"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-7-9-25",
+            "text": {
+              "local": "Presentationer, meddelanden, beskrivningar och skrivna dialoger.",
+              "en": ""
+            },
+            "coreElements": [
+              "Skriva – produktion och interaktion (förenklade kinesiska tecken)"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-7-9-26",
+            "text": {
+              "local": "Hur vanligt förekommande tecken som är relevanta för kommunikationens inne­håll skrivs för hand, även streckordning.",
+              "en": ""
+            },
+            "coreElements": [
+              "Skriva – produktion och interaktion (förenklade kinesiska tecken)"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRMSP01-7-9-27",
+            "text": {
+              "local": "Pinyin och andra hjälpmedel, även digitala, som stöd för den skriftliga pro­duk­tionen och interaktionen.",
+              "en": ""
+            },
+            "coreElements": [
+              "Skriva – produktion och interaktion (förenklade kinesiska tecken)"
+            ],
+            "verbs": []
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "E",
+            "text": {
+              "local": "Inom ramen för skolans valBetygskriterier för betyget E i slutet av årskurs 9Eleven lyssnar, och förstår vanliga ord och enkla fraser i tydligt talat, enkelt språk i långsamt tempo om vardagliga och välbekanta ämnen. Eleven läser, och förstår vanliga ord och enkla fraser i korta, enkla texter om vardagliga och välbekanta ämnen. Eleven hittar enkel information i anvisade muntliga och skriftliga källor samt använder på ett delvis relevant sätt det valda materialet i sin egen produktion och interaktion. I muntliga framställningar av olika slag formulerar sig eleven enkelt och begripligt med enstaka ord och fraser. I skriftliga framställningar av olika slag formulerar sig eleven enkelt och begripligt med enstaka ord och fraser. I interaktion uttrycker sig eleven enkelt och begripligt med enstaka ord och fraser. Dessutom använder eleven strategier som i någon mån underlättar och förbättrar interaktionen. Eleven kommenterar på ett mycket enkelt sätt, på målspråket, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "D",
+            "text": {
+              "local": "Betygskriterier för betyget D i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan C och E.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "C",
+            "text": {
+              "local": "Betygskriterier för betyget C i slutet av årskurs 9Eleven lyssnar, och förstår huvudsakligt innehåll och tydliga detaljer i tydligt talat, enkelt språk i långsamt tempo om vardagliga och välbekanta ämnen. Eleven läser, och förstår huvudsakligt innehåll och tydliga detaljer i korta, enkla texter om vardagliga och välbekanta ämnen. Eleven hittar enkel information i anvisade muntliga och skriftliga källor samt använder på ett relevant sätt det valda materialet i sin egen produktion och interaktion. I muntliga framställningar av olika slag formulerar sig eleven enkelt och relativt tydligt med fraser och meningar. I skriftliga framställningar av olika slag formulerar sig eleven enkelt och relativt tydligt med fraser och meningar. I interaktion uttrycker sig eleven enkelt och begripligt med ord, fraser och meningar. Dessutom använder eleven strategier som i viss utsträckning underlättar och förbättrar interaktionen. Eleven kommenterar på ett mycket enkelt sätt, på målspråket, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "B",
+            "text": {
+              "local": "Betygskriterier för betyget B i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan A och C.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "A",
+            "text": {
+              "local": "Betygskriterier för betyget A i slutet av årskurs 9Eleven lyssnar, och förstår huvudsakligt innehåll och väsentliga detaljer i tydligt talat, enkelt språk i långsamt tempo om vardagliga och välbekanta ämnen. Eleven läser, och förstår huvudsakligt innehåll och väsentliga detaljer i korta, enkla texter om vardagliga och välbekanta ämnen. Eleven hittar enkel information i anvisade muntliga och skriftliga källor samt använder på ett relevant och effektivt sätt det valda materialet i sin egen produktion och interaktion. I muntliga framställningar av olika slag formulerar sig eleven enkelt, relativt tydligt och till viss del sammanhängande. I skriftliga framställningar av olika slag formulerar sig eleven enkelt, relativt tydligt och till viss del sammanhängande. I interaktion uttrycker sig eleven enkelt och relativt tydligt med ord, fraser och meningar. Dessutom använder eleven strategier som underlättar och förbättrar interaktionen. Eleven kommenterar på ett enkelt sätt, på målspråket, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "E",
+            "text": {
+              "local": "Inom ramen för språkvalBetygskriterier för betyget E i slutet av årskurs 9Eleven lyssnar samt förstår och tolkar det mest väsentliga av innehållet i tydligt talat, enkelt språk i lugnt tempo om vardagliga och välbekanta ämnen. Eleven läser samt förstår och tolkar det mest väsentliga av innehållet i enkla texter om vardagliga och välbekanta ämnen. Eleven väljer enkel information från ett avgränsat urval av muntliga och skriftliga källor samt använder på ett delvis relevant sätt det valda materialet i sin egen produktion och interaktion. I muntliga framställningar av olika slag formulerar sig eleven enkelt och begripligt med fraser och meningar. I skriftliga framställningar av olika slag formulerar sig eleven enkelt och begripligt med fraser och meningar. I interaktion uttrycker sig eleven enkelt och begripligt med ord, fraser och meningar. Dessutom använder eleven strategier som i någon mån underlättar och förbättrar interaktionen. Eleven kommenterar på ett enkelt sätt, på målspråket, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "D",
+            "text": {
+              "local": "Betygskriterier för betyget D i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan C och E.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "C",
+            "text": {
+              "local": "Betygskriterier för betyget C i slutet av årskurs 9Eleven lyssnar samt förstår och tolkar huvudsakligt innehåll och tydliga detaljer i tydligt talat, enkelt språk i lugnt tempo om vardagliga och välbekanta ämnen. Eleven läser samt förstår och tolkar huvudsakligt innehåll och tydliga detaljer i enkla texter om vardagliga och välbekanta ämnen. Eleven väljer enkel information från ett avgränsat urval av muntliga och skriftliga källor samt använder på ett relevant sätt det valda materialet i sin egen produktion och interaktion. I muntliga framställningar av olika slag formulerar sig eleven enkelt, relativt tydligt och till viss del sammanhängande. I skriftliga framställningar av olika slag formulerar sig eleven enkelt, relativt tydligt och till viss del sammanhängande. I interaktion uttrycker sig eleven enkelt och relativt tydligt med ord, fraser och meningar. Dessutom använder eleven strategier som i viss utsträckning underlättar och förbättrar interaktionen. Eleven kommenterar på ett enkelt sätt, på målspråket, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "B",
+            "text": {
+              "local": "Betygskriterier för betyget B i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan A och C.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "A",
+            "text": {
+              "local": "Betygskriterier för betyget A i slutet av årskurs 9Eleven lyssnar samt förstår och tolkar helheten och väsentliga detaljer i tydligt talat, enkelt språk i lugnt tempo om vardagliga och välbekanta ämnen. Eleven läser samt förstår och tolkar helheten och väsentliga detaljer i enkla texter om vardagliga och välbekanta ämnen. Eleven väljer enkel information från ett avgränsat urval av muntliga och skriftliga källor samt använder på ett relevant och effektivt sätt det valda materialet i sin egen produktion och interaktion. I muntliga framställningar av olika slag formulerar sig eleven i någon mån varierat, relativt tydligt och relativt sammanhängande. I skriftliga framställningar av olika slag formulerar sig eleven i någon mån varierat, relativt tydligt och relativt sammanhängande. I interaktion uttrycker sig eleven relativt tydligt med ord, fraser och meningar samt i någon mån anpassat till syfte, mottagare och situation. Dessutom använder eleven strategier som underlättar och förbättrar interaktionen. Eleven kommenterar översiktligt, på målspråket, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "E",
+            "text": {
+              "local": "Inom ramen för skolans val, kinesiskaBetygskriterier för betyget E i slutet av årskurs 9Eleven lyssnar, och förstår vanliga ord och enkla fraser i tydligt talad, enkel kinesiska i mycket långsamt tempo om välbekanta ämnen. I muntliga framställningar av olika slag formulerar sig eleven enkelt och begripligt med enstaka ord och fraser. I muntlig interaktion uttrycker sig eleven enkelt och begripligt med enstaka ord och fraser. Dessutom använder eleven strategier som i någon mån underlättar och förbättrar interaktionen. Eleven läser, och förstår vanliga ord i korta, enkla texter som handlar om välbekanta ämnen och som är skrivna med förenklade tecken. Eleven använder några vanligt förekommande tecken för att med viss säkerhet skriva korta, enkla texter för hand och med hjälp av digitala hjälpmedel. Eleven kommenterar på ett mycket enkelt sätt, på kinesiska, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "D",
+            "text": {
+              "local": "Betygskriterier för betyget D i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan C och E.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "C",
+            "text": {
+              "local": "Betygskriterier för betyget C i slutet av årskurs 9Eleven lyssnar, och förstår huvudsakligt innehåll i tydligt talad, enkel kinesiska i mycket långsamt tempo om välbekanta ämnen. I muntliga framställningar av olika slag formulerar sig eleven enkelt och begripligt med fraser och meningar. I muntlig interaktion uttrycker sig eleven enkelt och begripligt med ord, fraser och meningar. Dessutom använder eleven strategier som i viss utsträckning underlättar och förbättrar interaktionen. Eleven läser, och förstår vanliga ord och enkla fraser i korta, enkla texter som handlar om välbekanta ämnen och som är skrivna med förenklade tecken. Eleven använder några vanligt förekommande tecken för att med säkerhet skriva korta, enkla texter för hand och med hjälp av digitala hjälpmedel. Eleven kommenterar på ett mycket enkelt sätt, på kinesiska, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "B",
+            "text": {
+              "local": "Betygskriterier för betyget B i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan A och C.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "A",
+            "text": {
+              "local": "Betygskriterier för betyget A i slutet av årskurs 9Eleven lyssnar, och förstår huvudsakligt innehåll och tydliga detaljer i tydligt talad, enkel kinesiska i mycket långsamt tempo om välbekanta ämnen. I muntliga framställningar av olika slag formulerar sig eleven enkelt och relativt tydligt med fraser och meningar. I muntlig interaktion uttrycker sig eleven enkelt och relativt tydligt med ord, fraser och meningar. Dessutom använder eleven strategier som underlättar och förbättrar interaktionen. Eleven läser, och förstår huvudsakligt innehåll i korta, enkla texter som handlar om välbekanta ämnen och som är skrivna med förenklade tecken. Eleven använder flera vanligt förekommande tecken för att med säkerhet skriva korta, enkla texter för hand och med hjälp av digitala hjälpmedel. Eleven kommenterar på ett enkelt sätt, på kinesiska, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "E",
+            "text": {
+              "local": "Inom ramen för språkval, kinesiskaBetygskriterier för betyget E i slutet av årskurs 9Eleven lyssnar, och förstår vanliga ord och enkla fraser i tydligt talad, enkel kinesiska i långsamt tempo om vardagliga och välbekanta ämnen. Eleven hittar enkel information i anvisade muntliga källor och använder på ett delvis relevant sätt det valda materialet i sin egen produktion och interaktion. I muntliga framställningar av olika slag formulerar sig eleven enkelt och begripligt med enstaka ord och fraser. I muntlig interaktion uttrycker sig eleven enkelt och begripligt med enstaka ord och fraser. Dessutom använder eleven strategier som i någon mån underlättar och förbättrar interaktionen. Eleven läser, och förstår vanliga ord och enkla fraser i korta, enkla texter som handlar om vardagliga och välbekanta ämnen och som är skrivna med förenklade tecken. Eleven hittar mycket enkel information i anvisade skriftliga källor och använder på ett delvis relevant sätt det valda materialet i sin egen produktion och interaktion. Eleven skriver med hjälp av digitala hjälpmedel och i viss utsträckning även för hand. I skriftliga framställningar med förenklade tecken formulerar sig eleven enkelt och begripligt med enstaka ord och fraser. I skriftlig interaktion med förenklade tecken uttrycker sig eleven enkelt och begripligt med enstaka ord och fraser. Eleven kommenterar på ett mycket enkelt sätt, på kinesiska, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "D",
+            "text": {
+              "local": "Betygskriterier för betyget D i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan C och E.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "C",
+            "text": {
+              "local": "Betygskriterier för betyget C i slutet av årskurs 9Eleven lyssnar, och förstår huvudsakligt innehåll och tydliga detaljer i tydligt talad, enkel kinesiska i långsamt tempo om vardagliga och välbekanta ämnen. Eleven hittar enkel information i anvisade muntliga källor och använder på ett relevant sätt det valda materialet i sin egen produktion och interaktion. I muntliga framställningar av olika slag formulerar sig eleven enkelt och relativt tydligt med fraser och meningar. I muntlig interaktion uttrycker sig eleven enkelt och begripligt med ord, fraser och meningar. Dessutom använder eleven strategier som i viss utsträckning underlättar och förbättrar interaktionen. Eleven läser, och förstår vanliga ord och enkla fraser i korta, enkla texter som handlar om vardagliga och välbekanta ämnen och som är skrivna med förenklade tecken. Eleven hittar mycket enkel information i anvisade skriftliga källor och använder på ett relevant sätt det valda materialet i sin egen produktion och interaktion. Eleven skriver med hjälp av digitala hjälpmedel och i viss utsträckning även för hand. I skriftliga framställningar med förenklade tecken formulerar sig eleven enkelt och relativt tydligt med fraser och meningar. I skriftlig interaktion med förenklade tecken uttrycker sig eleven enkelt och begripligt med ord, fraser och meningar. Eleven kommenterar på ett mycket enkelt sätt, på kinesiska, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "B",
+            "text": {
+              "local": "Betygskriterier för betyget B i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan A och C.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "A",
+            "text": {
+              "local": "Betygskriterier för betyget A i slutet av årskurs 9Eleven lyssnar, och förstår huvudsakligt innehåll och väsentliga detaljer i tydligt talad, enkel kinesiska i långsamt tempo om vardagliga och välbekanta ämnen. Eleven hittar enkel information i anvisade muntliga källor och använder på ett relevant och effektivt sätt det valda materialet i sin egen produktion och interaktion. I muntliga framställningar av olika slag formulerar sig eleven enkelt, relativt tydligt och till viss del sammanhängande. I muntlig interaktion uttrycker sig eleven enkelt och relativt tydligt med ord, fraser och meningar. Dessutom använder eleven strategier som underlättar och förbättrar interaktionen. Eleven läser, och förstår huvudsakligt innehåll och tydliga detaljer i korta, enkla texter som handlar om vardagliga och välbekanta ämnen och som är skrivna med förenklade tecken. Eleven hittar mycket enkel information i anvisade skriftliga källor och använder på ett relevant och effektivt sätt det valda materialet i sin egen produktion och interaktion. Eleven skriver med hjälp av digitala hjälpmedel och i viss utsträckning även för hand. I skriftliga framställningar med förenklade tecken formulerar sig eleven enkelt, relativt tydligt och till viss del sammanhängande. I skriftlig interaktion med förenklade tecken uttrycker sig eleven enkelt och relativt tydligt med ord, fraser och meningar. Eleven kommenterar på ett enkelt sätt, på kinesiska, förhållanden i olika sammanhang och områden där språket används.",
+              "en": ""
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

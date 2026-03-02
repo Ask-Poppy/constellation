@@ -1,0 +1,71 @@
+{
+  "country": {
+    "code": "FI",
+    "name": {
+      "local": "Suomi",
+      "en": "Finland"
+    }
+  },
+  "system": {
+    "curriculum": "Perusopetuksen opetussuunnitelman perusteet 2014 (POPS 2014)",
+    "compulsoryGrades": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "stages": [
+      {
+        "name": {
+          "local": "Vuosiluokat 1–2",
+          "en": "Grades 1–2"
+        },
+        "grades": [
+          1,
+          2
+        ]
+      },
+      {
+        "name": {
+          "local": "Vuosiluokat 3–6",
+          "en": "Grades 3–6"
+        },
+        "grades": [
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "name": {
+          "local": "Vuosiluokat 7–9",
+          "en": "Grades 7–9"
+        },
+        "grades": [
+          7,
+          8,
+          9
+        ]
+      }
+    ],
+    "competenceGoalCheckpoints": [
+      2,
+      6,
+      9
+    ],
+    "gradingSystem": "Verbal assessment in grades 1-3. Numerical grades (4-10) from grade 4 onward."
+  },
+  "source": {
+    "authority": "Opetushallitus (Finnish National Agency for Education)",
+    "api": "https://eperusteet.opintopolku.fi/eperusteet-service/api/external/",
+    "website": "https://eperusteet.opintopolku.fi/",
+    "license": "Open Government Data (Finland)",
+    "lastSynced": "2026-03-02T21:33:19Z"
+  }
+}

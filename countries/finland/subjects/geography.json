@@ -1,0 +1,302 @@
+{
+  "country": "finland",
+  "source": {
+    "api": "https://eperusteet.opintopolku.fi/eperusteet-service/api/external/peruste/419550/perusopetus/oppiaineet/478971",
+    "curriculum": "POPS 2014",
+    "license": "Open Government Data (Finland)",
+    "lastSynced": "2026-03-02T21:29:46Z"
+  },
+  "subject": {
+    "code": "GE",
+    "name": {
+      "local": "Maantieto",
+      "en": "Geography"
+    },
+    "coreElements": [
+      {
+        "code": "S1",
+        "name": {
+          "local": "S1 Maapallon karttakuva ja alueet",
+          "en": ""
+        },
+        "description": {
+          "local": "Sisällöt valitaan siten, että oppilaiden ymmärrys kartan peruskäsitteistä sekä erilaisista maasto- ja teemakartoista syvenee. Sisällöissä keskitytään koko maailman hahmottamiseen sekä Suomen, Euroopan ja maailman keskeisen paikannimistön omaksumiseen. Karttojen, paikkatiedon ja muun geomedian käyttö yhdistetään maantiedon kaikkien muiden sisältöjen opiskeluun.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S2",
+        "name": {
+          "local": "S2 Ajankohtainen muuttuva maailma",
+          "en": ""
+        },
+        "description": {
+          "local": "Seurataan ajankohtaisia uutisia maailman eri alueilta ja sijoitetaan uutiset kartalle. Pohditaan kriittisesti uutistapahtumien taustoja ja alueellisia merkityksiä. Uutisseuranta yhdistetään maantiedon muiden sisältöjen opiskeluun. Tutustutaan työelämässä ja yhteiskunnan eri osa-alueilla tarvittavaan maantieteelliseen osaamiseen.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S3",
+        "name": {
+          "local": "S3 Elämän perusedellytykset maapallolla",
+          "en": ""
+        },
+        "description": {
+          "local": "Sisällöt liittyvät planetaarisuuteen ja sen vaikutuksiin maapallolla. Käsitellään vuorokauden- ja vuodenaikojen vaihtelua sekä ilmasto- ja kasvillisuusvyöhykkeitä. Tarkastellaan elämän perusedellytyksiä kuten puhdasta ilmaa, vettä ja ravintoa, niiden esiintymistä ja kestävää käyttöä.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S4",
+        "name": {
+          "local": "S4 Muuttuvat maisemat ja elinympäristöt",
+          "en": ""
+        },
+        "description": {
+          "local": "Tarkastellaan oman kotiseudun erityispiirteitä sekä Suomen maisema-alueita. Tehdään kenttätutkimuksia omassa lähiympäristössä. Osallistutaan oman lähiympäristön monimuotoisuuden vaalimiseen sekä sen viihtyisyyden ja turvallisuuden suunnitteluun ja parantamiseen. Tutkitaan esimerkkien avulla maailman eri alueiden luonnon- ja kulttuurimaisemia.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S5",
+        "name": {
+          "local": "S5 Ihmiset ja kulttuurit maapallolla",
+          "en": ""
+        },
+        "description": {
+          "local": "Tutustutaan kulttuureihin, ihmisten elämään, asumiseen ja elinkeinoihin Suomessa, Euroopassa ja eri puolilla maailmaa. Tarkastellaan esimerkkien avulla, miten ympäristö vaikuttaa elinkeinoihin, asumiseen ja muuhun ihmisen toimintaan. Pohditaan ihmisoikeuksia ja hyvän elämän edellytyksiä erityisesti lasten ja nuorten näkökulmasta.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S6",
+        "name": {
+          "local": "S6 Kestävä elämäntapa ja luonnonvarojen kestävä käyttö",
+          "en": ""
+        },
+        "description": {
+          "local": "Keskitytään luonnonvarojen kestävään käyttöön ja biotalouden mahdollisuuksiin Suomessa ja muualla maailmassa. Tutkitaan tuotteiden elinkaaria sekä pohditaan omia kulutusvalintoja ja toimintaa vastuullisena kansalaisena. Perehdytään ympäristönmuutoksiin, erityisesti ilmastonmuutokseen ja luonnon monimuotoisuuden heikkenemiseen. Käsitellään ympäristön tilaa ja yhteistyömahdollisuuksia Itämeren alueella. Pohditaan esimerkkien avulla globalisaation vaikutuksia ja alueellisia kehityskysymyksiä.",
+          "en": ""
+        }
+      }
+    ],
+    "gradeBands": [
+      {
+        "afterGrade": 9,
+        "label": {
+          "local": "Vuosiluokat 7–9",
+          "en": "Grades 7–9"
+        },
+        "competenceGoals": [
+          {
+            "code": "T1",
+            "text": {
+              "local": "T1 tukea oppilaan jäsentyneen karttakuvan rakentumista maapallosta",
+              "en": ""
+            },
+            "coreElements": [
+              "S2",
+              "S1",
+              "S3",
+              "S5",
+              "S4",
+              "S6"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T2",
+            "text": {
+              "local": "T2 ohjata oppilasta tutkimaan luonnonmaantieteellisiä ilmiöitä sekä vertailemaan luonnonmaisemia Suomessa ja muualla maapallolla",
+              "en": ""
+            },
+            "coreElements": [
+              "S2",
+              "S1",
+              "S3",
+              "S4",
+              "S6"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T3",
+            "text": {
+              "local": "T3 ohjata oppilasta tutkimaan ihmismaantieteellisiä ilmiöitä ja kulttuurimaisemia sekä ymmärtämään erilaisia kulttuureita, elinkeinoja ja ihmisten elämää Suomessa ja maapallon eri alueilla",
+              "en": ""
+            },
+            "coreElements": [
+              "S2",
+              "S1",
+              "S3",
+              "S5",
+              "S4",
+              "S6"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T4",
+            "text": {
+              "local": "T4 kannustaa oppilasta pohtimaan ihmisen toiminnan ja luonnonympäristön välistä vuorovaikutusta sekä ymmärtämään luonnonvarojen kestävän käytön merkitys",
+              "en": ""
+            },
+            "coreElements": [
+              "S2",
+              "S1",
+              "S3",
+              "S5",
+              "S4",
+              "S6"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T5",
+            "text": {
+              "local": "T5 ohjata oppilasta kehittämään maantieteellistä ajattelutaitoa sekä kykyä esittää maantieteellisiä kysymyksiä",
+              "en": ""
+            },
+            "coreElements": [
+              "S2",
+              "S1",
+              "S3",
+              "S5",
+              "S4",
+              "S6"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T6",
+            "text": {
+              "local": "T6 ohjata oppilasta kehittämään tilatajua sekä symboleiden, mittasuhteiden, suuntien ja etäisyyksien ymmärrystä",
+              "en": ""
+            },
+            "coreElements": [
+              "S2",
+              "S1",
+              "S3",
+              "S5",
+              "S4",
+              "S6"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T7",
+            "text": {
+              "local": "T7 ohjata oppilasta harjaannuttamaan arkielämän geomediataitoja sekä lukemaan, tulkitsemaan ja laatimaan karttoja ja muita malleja maantieteellisistä ilmiöistä",
+              "en": ""
+            },
+            "coreElements": [
+              "S2",
+              "S1",
+              "S3",
+              "S5",
+              "S4",
+              "S6"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T8",
+            "text": {
+              "local": "T8 ohjata oppilasta kehittämään maantieteellisiä tutkimustaitoja",
+              "en": ""
+            },
+            "coreElements": [
+              "S2",
+              "S1",
+              "S3",
+              "S5",
+              "S4",
+              "S6"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T9",
+            "text": {
+              "local": "T9 harjaannuttaa oppilasta havainnoimaan ympäristöä ja siinä tapahtuvia muutoksia sekä aktivoida oppilasta seuraamaan ajankohtaisia tapahtumia omassa lähiympäristössä, Suomessa ja koko maailmassa",
+              "en": ""
+            },
+            "coreElements": [
+              "S2",
+              "S1",
+              "S3",
+              "S5",
+              "S4",
+              "S6"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T10",
+            "text": {
+              "local": "T10 tukea oppilasta kehittämään vuorovaikutus- ja ryhmätyötaitoja sekä argumentoimaan ja esittämään selkeästi maantieteellistä tietoa",
+              "en": ""
+            },
+            "coreElements": [
+              "S2",
+              "S1",
+              "S3",
+              "S5",
+              "S4",
+              "S6"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T11",
+            "text": {
+              "local": "T11 ohjata oppilasta vaalimaan luontoa, rakennettua ympäristöä ja niiden monimuotoisuutta sekä vahvistaa oppilaan osallistumisen ja vaikuttamisen taitoja",
+              "en": ""
+            },
+            "coreElements": [
+              "S2",
+              "S1",
+              "S3",
+              "S5",
+              "S4",
+              "S6"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T12",
+            "text": {
+              "local": "T12 tukea oppilasta kasvamaan aktiiviseksi, vastuullisesti toimivaksi ja kestävään elämäntapaan sitoutuneeksi kansalaiseksi",
+              "en": ""
+            },
+            "coreElements": [
+              "S2",
+              "S1",
+              "S3",
+              "S5",
+              "S4",
+              "S6"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T13",
+            "text": {
+              "local": "T13 ohjata oppilasta arvostamaan alueellista identiteettiään sekä luonnon, ihmistoiminnan ja kulttuurien moninaisuutta sekä kunnioittamaan ihmisoikeuksia kaikkialla maailmassa",
+              "en": ""
+            },
+            "coreElements": [
+              "S2",
+              "S1",
+              "S3",
+              "S5",
+              "S4",
+              "S6"
+            ],
+            "verbs": []
+          }
+        ]
+      }
+    ]
+  }
+}

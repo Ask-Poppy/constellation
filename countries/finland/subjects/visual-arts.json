@@ -1,0 +1,520 @@
+{
+  "country": "finland",
+  "source": {
+    "api": "https://eperusteet.opintopolku.fi/eperusteet-service/api/external/peruste/419550/perusopetus/oppiaineet/466342",
+    "curriculum": "POPS 2014",
+    "license": "Open Government Data (Finland)",
+    "lastSynced": "2026-03-02T21:29:48Z"
+  },
+  "subject": {
+    "code": "KU",
+    "name": {
+      "local": "Kuvataide",
+      "en": "Visual Arts"
+    },
+    "coreElements": [
+      {
+        "code": "S1",
+        "name": {
+          "local": "S1 Omat kuvakulttuurit",
+          "en": ""
+        },
+        "description": {
+          "local": "Opetuksen sisällöiksi valitaan oppilaiden tekemiä kuvia ja kuvakulttuureja, joihin he osallistuvat omaehtoisesti. Oppilaita rohkaistaan tutustumaan toistensa kuvakulttuureihin. Omia kuvakulttuureja käytetään kuvallisen työskentelyn lähtökohtana. Opetuksessa käsitellään omien kuvakulttuurien merkitystä oppilaiden arjessa, lähiympäristössä ja vuorovaikutuksessa.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S2",
+        "name": {
+          "local": "S2 Ympäristön kuvakulttuurit",
+          "en": ""
+        },
+        "description": {
+          "local": "Opetuksen sisällöt valitaan erilaisista ympäristöistä, esineistä, mediakulttuureista ja virtuaalimaailmoista. Sisältöjä valitaan monipuolisesti rakennetuista ja luonnon ympäristöistä sekä mediasta. Ympäristön kuvakulttuureja käytetään kuvallisen työskentelyn lähtökohtana. Opetuksessa keskitytään oppilaiden lähiympäristön ja sen medioiden käsittelyyn.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S3",
+        "name": {
+          "local": "S3 Taiteen maailmat",
+          "en": ""
+        },
+        "description": {
+          "local": "Opetuksen sisällöt valitaan eri aikoina, eri ympäristöissä ja eri kulttuureissa tuotetusta kuvataiteesta. Oppilaat tutustuvat kuvataiteen maailmaan tarkastelemalla erilaisia teoksia, aihepiirejä ja ilmiöitä. Taideteoksia käytetään kuvallisen työskentelyn lähtökohtana. Opetuksessa käsitellään taideteoksiin ja niiden kokemiseen liittyvää kulttuurista moninaisuutta.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S3",
+        "name": {
+          "local": "S3 Taiteen maailmat:",
+          "en": ""
+        },
+        "description": {
+          "local": "S3 Taiteen maailmat: Opetuksen sisällöt valitaan eri aikoina, eri ympäristöissä ja eri kulttuureissa tuotetusta kuvataiteesta. Oppilaat perehtyvät taiteelle ominaisiin toimintatapoihin, taiteen eri lajeihin sekä erilaisiin käsityksiin taiteesta. Taideteoksia käytetään kuvallisen työskentelyn lähtökohtana. Opetuksessa käsitellään kulttuuri-identiteetin vaikutusta taiteen tekemiseen ja vastaanottamiseen.",
+          "en": ""
+        }
+      }
+    ],
+    "gradeBands": [
+      {
+        "afterGrade": 2,
+        "label": {
+          "local": "Vuosiluokat 1–2",
+          "en": "Grades 1–2"
+        },
+        "competenceGoals": [
+          {
+            "code": "T1",
+            "text": {
+              "local": "T1 kannustaa oppilasta havainnoimaan taidetta, ympäristöä ja muuta visuaalista kulttuuria moniaistisesti ja kuvia tekemällä",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S2",
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T2",
+            "text": {
+              "local": "T2 rohkaista oppilasta keskustelemaan havainnoistaan ja ajatuksistaan",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S2",
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T3",
+            "text": {
+              "local": "T3 innostaa oppilasta ilmaisemaan havaintojaan ja ajatuksiaan erilaisten kuvallisten tuottamisen tapojen avulla",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S2",
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T4",
+            "text": {
+              "local": "T4 innostaa oppilasta kokeilemaan erilaisia materiaaleja ja tekniikoita sekä harjoittelemaan kuvallisia ilmaisutapoja",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S2",
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T5",
+            "text": {
+              "local": "T5 kannustaa oppilasta pitkäjänteiseen kuvalliseen työskentelyyn yksin ja yhdessä muiden kanssa",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S2",
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T6",
+            "text": {
+              "local": "T6 kannustaa oppilasta tarkastelemaan kuvallisen vaikuttamisen keinoja omissa ja muiden kuvissa",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S2",
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T7",
+            "text": {
+              "local": "T7 ohjata oppilasta käyttämään kuvataiteen käsitteistöä sekä tarkastelemaan erilaisia kuvatyyppejä",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S2",
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T8",
+            "text": {
+              "local": "T8 kannustaa oppilasta tunnistamaan erilaisia taiteen ja muun visuaalisen kulttuurin tuotteita lähiympäristössään",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S2",
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T9",
+            "text": {
+              "local": "T9 innostaa oppilasta tekemään kuvia oman elinympäristön, eri aikojen ja eri kulttuurien tarkastelun pohjalta",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S2",
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T10",
+            "text": {
+              "local": "T10 ohjata oppilasta tunnistamaan taiteessa, ympäristössä ja muussa visuaalisessa kulttuurissa ilmeneviä arvoja",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S2",
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T11",
+            "text": {
+              "local": "T11 kannustaa oppilasta ottamaan kuvailmaisussaan huomioon kulttuurinen moninaisuus ja kestävä kehitys",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S2",
+              "S1"
+            ],
+            "verbs": []
+          }
+        ]
+      },
+      {
+        "afterGrade": 6,
+        "label": {
+          "local": "Vuosiluokat 3–6",
+          "en": "Grades 3–6"
+        },
+        "competenceGoals": [
+          {
+            "code": "T1",
+            "text": {
+              "local": "T1 kannustaa oppilasta havainnoimaan taidetta, ympäristöä ja muuta visuaalista kulttuuria moniaistisesti ja erilaisia kuvallisia välineitä hyödyntäen",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S1",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T2",
+            "text": {
+              "local": "T2 rohkaista oppilasta keskustelemaan havainnoistaan ja ajatuksistaan sekä harjoittelemaan näkemystensä perustelemista",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S1",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T3",
+            "text": {
+              "local": "T3 innostaa oppilasta ilmaisemaan havaintojaan ja ajatuksiaan kuvallisesti ja muita tiedon tuottamisen tapoja käyttäen",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S1",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T4",
+            "text": {
+              "local": "T4 ohjata oppilasta käyttämään monipuolisesti erilaisia materiaaleja, tekniikoita ja ilmaisun keinoja sekä harjaannuttamaan kuvan tekemisen taitojaan",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S1",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T5",
+            "text": {
+              "local": "T5 ohjata oppilasta tavoitteelliseen kuvallisten taitojen kehittämiseen yksin ja yhteistyössä muiden kanssa",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S1",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T6",
+            "text": {
+              "local": "T6 ohjata oppilasta tutustumaan erilaisiin kuvallisen viestinnän tapoihin ja käyttämään kuvallisen vaikuttamisen keinoja omissa kuvissaan",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S1",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T7",
+            "text": {
+              "local": "T7 ohjata oppilasta tarkastelemaan kuvia eri lähtökohdista ja eri yhteyksissä sekä pohtimaan todellisuuden ja fiktion suhdetta",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S1",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T8",
+            "text": {
+              "local": "T8 ohjata oppilasta tarkastelemaan taidetta ja muuta visuaalista kulttuuria teoksen, tekijän ja katsojan näkökulmista sekä pohtimaan historiallisten ja kulttuuristen tekijöiden vaikutusta kuviin",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S1",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T9",
+            "text": {
+              "local": "T9 innostaa oppilasta kokeilemaan eri aikojen ja kulttuurien kuvailmaisun tapoja omissa kuvissaan",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S1",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T10",
+            "text": {
+              "local": "T10 ohjata oppilasta keskustelemaan taiteessa, ympäristössä ja muussa visuaalisessa kulttuurissa ilmenevistä arvoista",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S1",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T11",
+            "text": {
+              "local": "T11 kannustaa oppilasta ottamaan huomioon kulttuurinen moninaisuus ja kestävä kehitys kuvailmaisun sisältöjä ja toimintatapoja valitessaan",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S1",
+              "S2"
+            ],
+            "verbs": []
+          }
+        ]
+      },
+      {
+        "afterGrade": 9,
+        "label": {
+          "local": "Vuosiluokat 7–9",
+          "en": "Grades 7–9"
+        },
+        "competenceGoals": [
+          {
+            "code": "T1",
+            "text": {
+              "local": "T1 kannustaa oppilasta havainnoimaan, taidetta, ympäristöä ja muuta visuaalista kulttuuria moniaistisesti ja käyttämään monipuolisesti kuvallisen tuottamisen menetelmiä",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S1",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T2",
+            "text": {
+              "local": "T2 rohkaista oppilasta keskustelemaan omista ja muiden havainnoista ja ajatuksista sekä perustelemaan näkemyksiään",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S1",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T3",
+            "text": {
+              "local": "T3 innostaa oppilasta ilmaisemaan havaintojaan ja ajatuksiaan kuvallisesti erilaisia välineitä ja tiedon tuottamisen tapoja käyttäen eri ympäristöissä",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S1",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T4",
+            "text": {
+              "local": "T4 ohjata oppilasta soveltamaan erilaisia materiaaleja, tekniikoita ja ilmaisun keinoja sekä syventämään kuvallisen tuottamisen taitojaan",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S1",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T5",
+            "text": {
+              "local": "T5 ohjata oppilasta tutkivaan lähestymistapaan itsenäisessä ja yhteistoiminnallisessa kuvallisessa työskentelyssä",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S1",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T6",
+            "text": {
+              "local": "T6 rohkaista oppilasta ilmaisemaan mielipiteitään sekä soveltamaan kuvallisen viestinnän ja vaikuttamisen keinoja omissa kuvissaan",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S1",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T7",
+            "text": {
+              "local": "T7 ohjata oppilasta soveltamaan kuvallisia, sanallisia ja muita kuvatulkinnan menetelmiä",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S1",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T8",
+            "text": {
+              "local": "T8 ohjata oppilasta tarkastelemaan taiteen ja muun visuaalisen kulttuurin merkitystä yksilölle, yhteisölle ja yhteiskunnalle historian ja kulttuurin näkökulmista",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S1",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T9",
+            "text": {
+              "local": "T9 innostaa oppilasta soveltamaan eri aikojen ja kulttuurien kuvailmaisun tapoja kuvallisessa tuottamisessaan",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S1",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T10",
+            "text": {
+              "local": "T10 ohjata oppilasta ottamaan kantaa taiteessa, ympäristössä ja muussa visuaalisessa kulttuurissa ilmeneviin arvoihin",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S1",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T11",
+            "text": {
+              "local": "T11 kannustaa oppilasta ottamaan kuvailmaisussaan huomioon kulttuurinen moninaisuus ja kestävä kehitys sekä vaikuttamaan kuvien avulla",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S1",
+              "S2"
+            ],
+            "verbs": []
+          }
+        ]
+      }
+    ]
+  }
+}

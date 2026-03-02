@@ -4,7 +4,7 @@
     "api": "https://data.udir.no/kl06/v201906/laereplaner-lk20/KRO01-05",
     "curriculum": "LK20",
     "license": "NLOD",
-    "lastSynced": "2026-03-02T21:21:15Z"
+    "lastSynced": "2026-03-02T21:40:14Z"
   },
   "subject": {
     "code": "KRO01-05",
@@ -12,7 +12,41 @@
       "local": "Læreplan i kroppsøving",
       "en": "Curriculum in Physical education"
     },
-    "coreElements": [],
+    "coreElements": [
+      {
+        "code": "KE183",
+        "name": {
+          "local": "Bevegelse og kroppslig læring",
+          "en": "Movement and bodily learning"
+        },
+        "description": {
+          "local": "Elevene skal bli kjent med å være i bevegelse alene og sammen med andre ut fra egne interesser, intensjoner og forutsetninger. Elevene utforsker egen identitet og eget selvbilde, og reflekterer og tenker kritisk om sammenhengene mellom bevegelse, kropp, trening og helse. Kroppsøving gir rom for kroppslig læring gjennom lek og øving i friluftsliv, dans, idrettsaktiviteter og andre bevegelsesaktiviteter. Kroppslig læring handler om allsidig motorisk læring, utvikling av kroppsbevissthet og stimulering til bevegelsesglede.",
+          "en": "The pupils shall enjoy being in movement alone and with others, based on their own interests, intentions and abilities. The pupils shall explore their own identity and their self-image, and reflect and deliberate on the relationship between movement, body, fitness and health. Physical education opens for bodily learning through playing and practising in outdoor life (\"friluftsliv\"), dancing, sports activities and other activities involving movement. Bodily learning refers to developing all-round motor-skills and awareness of the body, and stimulating the joy of movement."
+        }
+      },
+      {
+        "code": "KE184",
+        "name": {
+          "local": "Deltakelse og samspill i bevegelsesaktiviteter",
+          "en": "Participation and interaction in movement activities"
+        },
+        "description": {
+          "local": "Elevene skal håndtere utfordringer og løse oppgaver i et læringsfellesskap og kunne reflektere over samspill, samhandling og likeverd. I mange bevegelsesaktiviteter er deltakelse, medvirkning og samarbeid nødvendig for å fremme læring hos seg selv og andre. Det innebærer å anerkjenne ulikhet og inkludere alle, uavhengig av forutsetninger.",
+          "en": "The pupils shall solve challenges and tasks in a common learning environment, and reflect on interaction and equality. In many movement activities participation, co-responsibility and cooperation are necessary to promote one’s own and others' learning. This means being open to differences and including everyone, regardless of background and abilities."
+        }
+      },
+      {
+        "code": "KE185",
+        "name": {
+          "local": "Uteaktiviteter og naturferdsel",
+          "en": "Outdoor activities and nature wandering"
+        },
+        "description": {
+          "local": "Elevene skal bruke nærområdet og utforske naturen gjennom varierte uteaktiviteter under vekslende årstider. Naturopplevelser og trygg og bærekraftig ferdsel står sentralt. I kroppsøving skal elevene få oppleve ulike kulturer innenfor friluftsliv, inkludert aktiviteter knyttet til samisk kultur.",
+          "en": "The pupils shall use the local area and explore nature through a variety of outdoor activities in all four seasons. Experiences in nature and safe and sustainable outdoor life/nature wandering are important for the pupils. In physical education the pupils shall experience different cultures in outdoor life, including activities relating to Sami culture."
+        }
+      }
+    ],
     "gradeBands": [
       {
         "afterGrade": 2,

@@ -1,0 +1,717 @@
+{
+  "country": "sweden",
+  "source": {
+    "api": "https://api.skolverket.se/syllabus/v1/subjects/GRGRMOD01",
+    "curriculum": "Lgr22",
+    "license": "CC0",
+    "lastSynced": "2026-03-02T21:29:37Z"
+  },
+  "subject": {
+    "code": "GRGRMOD01",
+    "name": {
+      "local": "Modersmål",
+      "en": "Mother Tongue"
+    },
+    "coreElements": [
+      {
+        "code": "",
+        "name": {
+          "local": "förmåga att formulera sig och kommunicera i tal och skrift, urskilja språkliga strukturer och följa språkliga normer,",
+          "en": ""
+        },
+        "description": {
+          "local": "förmåga att formulera sig och kommunicera i tal och skrift, urskilja språkliga strukturer och följa språkliga normer,",
+          "en": ""
+        }
+      },
+      {
+        "code": "",
+        "name": {
+          "local": "förmåga att anpassa språket efter olika syften, mottagare och sammanhang,",
+          "en": ""
+        },
+        "description": {
+          "local": "förmåga att anpassa språket efter olika syften, mottagare och sammanhang,",
+          "en": ""
+        }
+      },
+      {
+        "code": "",
+        "name": {
+          "local": "förmåga att läsa och analysera skönlitteratur och andra texter för olika syften,",
+          "en": ""
+        },
+        "description": {
+          "local": "förmåga att läsa och analysera skönlitteratur och andra texter för olika syften,",
+          "en": ""
+        }
+      },
+      {
+        "code": "",
+        "name": {
+          "local": "förmåga att använda sitt modersmål som ett medel för sin språkutveckling och sitt lärande, och",
+          "en": ""
+        },
+        "description": {
+          "local": "förmåga att använda sitt modersmål som ett medel för sin språkutveckling och sitt lärande, och",
+          "en": ""
+        }
+      },
+      {
+        "code": "",
+        "name": {
+          "local": "kunskaper om traditioner, kulturella företeelser och samhällsfrågor i områden där modersmålet talas i jämförelse med förhållanden i Sverige.",
+          "en": ""
+        },
+        "description": {
+          "local": "kunskaper om traditioner, kulturella företeelser och samhällsfrågor i områden där modersmålet talas i jämförelse med förhållanden i Sverige.",
+          "en": ""
+        }
+      }
+    ],
+    "gradeBands": [
+      {
+        "afterGrade": 3,
+        "label": {
+          "local": "Årskurs 1-3",
+          "en": "Years 1-3"
+        },
+        "competenceGoals": [
+          {
+            "code": "ML-1-3-1",
+            "text": {
+              "local": "Lässtrategier för att förstå och tolka texter från olika medier samt för att an­passa läsningen efter textens form och innehåll.",
+              "en": ""
+            },
+            "coreElements": [
+              "Läsa och skriva"
+            ],
+            "verbs": [
+              "Förstå",
+              "Tolka"
+            ]
+          },
+          {
+            "code": "ML-1-3-2",
+            "text": {
+              "local": "Strategier för skrivande av olika typer av texter om ämnen som är väl­be­kanta för eleven.",
+              "en": ""
+            },
+            "coreElements": [
+              "Läsa och skriva"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "ML-1-3-3",
+            "text": {
+              "local": "Läsriktning och skrivteckens form och ljud i jämförelse med svenska.",
+              "en": ""
+            },
+            "coreElements": [
+              "Läsa och skriva"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "ML-1-3-4",
+            "text": {
+              "local": "Ordföljd och interpunktion samt stavningsregler för vanligt förekommande ord i elevnära texter. Jämförelser med svenskans ordföljd, interpunktion och stavningsregler.",
+              "en": ""
+            },
+            "coreElements": [
+              "Läsa och skriva"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "ML-1-3-5",
+            "text": {
+              "local": "Samtal om vardagliga företeelser och händelser.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala, lyssna och samtala"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "ML-1-3-6",
+            "text": {
+              "local": "Muntliga presentationer och muntligt berättande med anpassning till olika mot­tagare. Bilder och andra hjälpmedel som kan stödja presentationen.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala, lyssna och samtala"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "ML-1-3-7",
+            "text": {
+              "local": "Uttal, betoning och satsmelodi samt uttalets betydelse för att göra sig för­stådd.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala, lyssna och samtala"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "ML-1-3-8",
+            "text": {
+              "local": "Modersmålets uttal i jämförelse med svenskans.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala, lyssna och samtala"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "ML-1-3-9",
+            "text": {
+              "local": "Berättande texter och poetiska texter för barn i form av bilderböcker, ka­pitelböcker, dikter, sagor och sägner från områden där modersmålet talas.",
+              "en": ""
+            },
+            "coreElements": [
+              "Texter"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "ML-1-3-10",
+            "text": {
+              "local": "Beskrivande och förklarande texter för barn med anknytning till traditioner och företeelser i områden där modersmålet talas.",
+              "en": ""
+            },
+            "coreElements": [
+              "Texter"
+            ],
+            "verbs": [
+              "Beskriva",
+              "Förklara"
+            ]
+          },
+          {
+            "code": "ML-1-3-11",
+            "text": {
+              "local": "Muntliga traditioner ur modersmålets tradition, till exempel rim, ramsor och gåtor.",
+              "en": ""
+            },
+            "coreElements": [
+              "Texter"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "ML-1-3-12",
+            "text": {
+              "local": "Ord och begrepp för att uttrycka känslor, kunskaper och åsikter.",
+              "en": ""
+            },
+            "coreElements": [
+              "Språkbruk"
+            ],
+            "verbs": [
+              "Uttrycka"
+            ]
+          },
+          {
+            "code": "ML-1-3-13",
+            "text": {
+              "local": "Ord och begrepp med anknytning till traditioner och företeelser i områden där modersmålet talas.",
+              "en": ""
+            },
+            "coreElements": [
+              "Språkbruk"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "ML-1-3-14",
+            "text": {
+              "local": "Traditioner och högtider som eleven möter i olika sammanhang.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kultur och samhälle"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "ML-1-3-15",
+            "text": {
+              "local": "Lekar och musik från områden där modersmålet talas.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kultur och samhälle"
+            ],
+            "verbs": []
+          }
+        ]
+      },
+      {
+        "afterGrade": 6,
+        "label": {
+          "local": "Årskurs 4-6",
+          "en": "Years 4-6"
+        },
+        "competenceGoals": [
+          {
+            "code": "ML-4-6-1",
+            "text": {
+              "local": "Lässtrategier för att förstå och tolka texter från olika medier samt för att urskilja texters budskap, både det direkt ut­talade och sådant som är indirekt uttryckt.",
+              "en": ""
+            },
+            "coreElements": [
+              "Läsa och skriva"
+            ],
+            "verbs": [
+              "Förstå",
+              "Tolka"
+            ]
+          },
+          {
+            "code": "ML-4-6-2",
+            "text": {
+              "local": "Strategier för skrivande av olika typer av texter med anpassning till deras upp­byggnad och språkliga drag.",
+              "en": ""
+            },
+            "coreElements": [
+              "Läsa och skriva"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "ML-4-6-3",
+            "text": {
+              "local": "Modersmålets grundläggande struktur i jämförelse med svenskans.",
+              "en": ""
+            },
+            "coreElements": [
+              "Läsa och skriva"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "ML-4-6-4",
+            "text": {
+              "local": "Ordböcker och andra hjälpmedel för stavning och ordförståelse.",
+              "en": ""
+            },
+            "coreElements": [
+              "Läsa och skriva"
+            ],
+            "verbs": [
+              "Förstå"
+            ]
+          },
+          {
+            "code": "ML-4-6-5",
+            "text": {
+              "local": "Samtal om egna och andras upplevelser samt om vardagliga företeelser och hän­delser.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala, lyssna och samtala"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "ML-4-6-6",
+            "text": {
+              "local": "Muntliga presentationer och muntligt berättande med anpassning till olika mot­tagare. Stödord, bilder, digitala medier och verktyg samt andra hjälp­me­del för att planera och genomföra en muntlig presentation.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala, lyssna och samtala"
+            ],
+            "verbs": [
+              "Föra",
+              "Planera"
+            ]
+          },
+          {
+            "code": "ML-4-6-7",
+            "text": {
+              "local": "Uttal, betoning och satsmelodi samt uttalets betydelse för att göra sig för­stådd.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala, lyssna och samtala"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "ML-4-6-8",
+            "text": {
+              "local": "Modersmålets uttal i jämförelse med svenskans.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala, lyssna och samtala"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "ML-4-6-9",
+            "text": {
+              "local": "Berättande texter och poetiska texter för barn och unga i form av skön­litte­ratur, sagor och sägner från områden där modersmålet talas. Texter som be­lyser människors villkor och identitets- och livsfrågor.",
+              "en": ""
+            },
+            "coreElements": [
+              "Texter"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "ML-4-6-10",
+            "text": {
+              "local": "Beskrivande, förklarande och instruerande texter för barn och unga med ank­nytning till traditioner och företeelser i områden där modersmålet talas.",
+              "en": ""
+            },
+            "coreElements": [
+              "Texter"
+            ],
+            "verbs": [
+              "Beskriva",
+              "Förklara"
+            ]
+          },
+          {
+            "code": "ML-4-6-11",
+            "text": {
+              "local": "Texters innehåll, typiska språkliga drag samt deras ord och begrepp.",
+              "en": ""
+            },
+            "coreElements": [
+              "Texter"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "ML-4-6-12",
+            "text": {
+              "local": "Ord och begrepp för att uttrycka känslor, kunskaper och åsikter. Ords och be­grepps nyanser och värdeladdning.",
+              "en": ""
+            },
+            "coreElements": [
+              "Språkbruk"
+            ],
+            "verbs": [
+              "Uttrycka"
+            ]
+          },
+          {
+            "code": "ML-4-6-13",
+            "text": {
+              "local": "Synonymer, motsatsord och andra relationer mellan ord.",
+              "en": ""
+            },
+            "coreElements": [
+              "Språkbruk"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "ML-4-6-14",
+            "text": {
+              "local": "Seder, bruk och traditioner i områden där modersmålet talas i jämförelse med svenska seder, bruk och traditioner.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kultur och samhälle"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "ML-4-6-15",
+            "text": {
+              "local": "Elevnära företeelser i områden där modersmålet talas i jämförelse med elev­nära företeelser i Sverige.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kultur och samhälle"
+            ],
+            "verbs": []
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "E",
+            "text": {
+              "local": "Betygskriterier för betyget E i slutet av årskurs 6Eleven samtalar om bekanta ämnen på ett sätt som till viss del upprätthåller samtalen. Dessutom förbereder och genomför eleven muntliga framställningar med i huvudsak fungerande inledning, innehåll och avslutning och viss anpassning till syfte och mottagare. Eleven skriver, utifrån modersmålets särdrag, olika slags texter med begripligt innehåll, i huvudsak fungerande struktur och viss språklig variation. Eleven följer grundläggande regler för språkriktighet med viss säkerhet. Eleven läser olika texter med visst flyt och visar grundläggande läsförståelse. Eleven för enkla resonemang om tydligt framträdande budskap i olika texter. Eleven beskriver på ett enkelt sätt likheter och skillnader i skriftspråk mellan modersmålet och svenska. Eleven beskriver på ett enkelt sätt, även utifrån egna erfarenheter eller kunskaper, om traditioner och företeelser med anknytning till områden där modersmålet talas.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "D",
+            "text": {
+              "local": "Betygskriterier för betyget D i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan C och E.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "C",
+            "text": {
+              "local": "Betygskriterier för betyget C i slutet av årskurs 6Eleven samtalar om bekanta ämnen på ett sätt som upprätthåller samtalen relativt väl. Dessutom förbereder och genomför eleven muntliga framställningar med fungerande inledning, innehåll och avslutning och relativt god anpassning till syfte och mottagare. Eleven skriver, utifrån modersmålets särdrag, olika slags texter med relativt tydligt innehåll, fungerande struktur och relativt god språklig variation. Eleven följer grundläggande regler för språkriktighet med relativt god säkerhet. Eleven läser olika texter med relativt gott flyt och visar god läsförståelse. Eleven för utvecklade resonemang om tydligt framträdande budskap i olika texter. Eleven beskriver på ett utvecklat sätt likheter och skillnader i skriftspråk mellan modersmålet och svenska. Eleven beskriver på ett utvecklat sätt, även utifrån egna erfarenheter eller kunskaper, om traditioner och företeelser med anknytning till områden där modersmålet talas.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "B",
+            "text": {
+              "local": "Betygskriterier för betyget B i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan A och C.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "A",
+            "text": {
+              "local": "Betygskriterier för betyget A i slutet av årskurs 6Eleven samtalar om bekanta ämnen på ett sätt som upprätthåller samtalen väl. Dessutom förbereder och genomför eleven muntliga framställningar med väl fungerande inledning, innehåll och avslutning och god anpassning till syfte och mottagare. Eleven skriver, utifrån modersmålets särdrag, olika slags texter med tydligt innehåll, väl fungerande struktur och god språklig variation. Eleven följer grundläggande regler för språkriktighet med god säkerhet. Eleven läser olika texter med gott flyt och visar mycket god läsförståelse. Eleven för välutvecklade resonemang om tydligt framträdande budskap i olika texter. Eleven beskriver på ett välutvecklat sätt likheter och skillnader i skriftspråk mellan modersmålet och svenska. Eleven beskriver på ett välutvecklat sätt, även utifrån egna erfarenheter eller kunskaper, om traditioner och företeelser med anknytning till områden där modersmålet talas.",
+              "en": ""
+            }
+          }
+        ]
+      },
+      {
+        "afterGrade": 9,
+        "label": {
+          "local": "Årskurs 7-9",
+          "en": "Years 7-9"
+        },
+        "competenceGoals": [
+          {
+            "code": "ML-7-9-1",
+            "text": {
+              "local": "Lässtrategier för att förstå, tolka och analysera olika typer av texter från oli­ka medier. Att urskilja texters syfte, avsändare och sammanhang. Att ur­­skilja innehåll som kan vara explicit eller implicit uttryckt i texten.",
+              "en": ""
+            },
+            "coreElements": [
+              "Läsa och skriva"
+            ],
+            "verbs": [
+              "Analysera",
+              "Förstå",
+              "Tolka"
+            ]
+          },
+          {
+            "code": "ML-7-9-2",
+            "text": {
+              "local": "Strategier för skrivande av olika typer av texter med anpassning till deras uppbyggnad och språkliga drag. Skapande av texter där ord, bild och ljud sam­spelar.",
+              "en": ""
+            },
+            "coreElements": [
+              "Läsa och skriva"
+            ],
+            "verbs": [
+              "Skapa"
+            ]
+          },
+          {
+            "code": "ML-7-9-3",
+            "text": {
+              "local": "Modersmålets grundläggande struktur i jämförelse med svenskan. Ordbildning och meningsbyggnad på modersmålet i jämförelse med sven­s­kan.",
+              "en": ""
+            },
+            "coreElements": [
+              "Läsa och skriva"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "ML-7-9-4",
+            "text": {
+              "local": "Hjälpmedel för informationssökning och ordförståelse.",
+              "en": ""
+            },
+            "coreElements": [
+              "Läsa och skriva"
+            ],
+            "verbs": [
+              "Förstå"
+            ]
+          },
+          {
+            "code": "ML-7-9-5",
+            "text": {
+              "local": "Samtal och diskussioner om ämnen som är välbekanta för eleven samt om tan­kar, känslor, åsikter och aktuella händelser.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala, lyssna och samtala"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "ML-7-9-6",
+            "text": {
+              "local": "Muntliga presentationer och muntligt berättande med anpassning av språk, in­ne­håll och disposition efter syfte och mottagare.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala, lyssna och samtala"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "ML-7-9-7",
+            "text": {
+              "local": "Uttal, betoning och satsmelodi i jämförelse med svenskan samt olika talade va­riationer av modersmålet.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala, lyssna och samtala"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "ML-7-9-8",
+            "text": {
+              "local": "Skönlitteratur för ungdomar från olika tider och områden där modersmålet ta­las. Texter som belyser människors villkor och identitets- och livsfrågor.",
+              "en": ""
+            },
+            "coreElements": [
+              "Texter"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "ML-7-9-9",
+            "text": {
+              "local": "Språkliga drag, ord och begrepp i skönlitteratur för ungdomar.",
+              "en": ""
+            },
+            "coreElements": [
+              "Texter"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "ML-7-9-10",
+            "text": {
+              "local": "Beskrivande, förklarande, instruerande och argumenterande texter, till exem­pel tidningsartiklar och arbetsbeskrivningar. Texternas syfte, innehåll och typiska språkliga drag.",
+              "en": ""
+            },
+            "coreElements": [
+              "Texter"
+            ],
+            "verbs": [
+              "Argumentera",
+              "Beskriva",
+              "Förklara"
+            ]
+          },
+          {
+            "code": "ML-7-9-11",
+            "text": {
+              "local": "Texter som kombinerar ord, bild och ljud och deras språkliga och drama­tur­giska komponenter, till exempel i tv-serier, teaterföreställningar och webb­texter.",
+              "en": ""
+            },
+            "coreElements": [
+              "Texter"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "ML-7-9-12",
+            "text": {
+              "local": "Ord och begrepp för att uttrycka känslor, kunskaper och åsikter. Ords och be­grepps nyanser och värdeladdning. Bildspråk och idiomatiska uttryck.",
+              "en": ""
+            },
+            "coreElements": [
+              "Språkbruk"
+            ],
+            "verbs": [
+              "Uttrycka"
+            ]
+          },
+          {
+            "code": "ML-7-9-13",
+            "text": {
+              "local": "Översättning av och jämförelser mellan ord, begrepp, fraser och texter på moder­smålet och på svenska.",
+              "en": ""
+            },
+            "coreElements": [
+              "Språkbruk"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "ML-7-9-14",
+            "text": {
+              "local": "Skillnader i språkanvändning beroende på syfte, mottagare och sam­man­hang. Språkets betydelse för att utöva inflytande.",
+              "en": ""
+            },
+            "coreElements": [
+              "Språkbruk"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "ML-7-9-15",
+            "text": {
+              "local": "Kulturella uttrycksformer från områden där modersmålet talas, till exempel bild­konst, musik och arkitektur.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kultur och samhälle"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "ML-7-9-16",
+            "text": {
+              "local": "Aktuella samhällsfrågor i områden där modersmålet talas, i jämförelse med lik­nande frågor i Sverige.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kultur och samhälle"
+            ],
+            "verbs": []
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "E",
+            "text": {
+              "local": "Betygskriterier för betyget E i slutet av årskurs 9Eleven samtalar om och diskuterar varierande ämnen på ett sätt som till viss del utvecklar samtalen och diskussionerna. Dessutom förbereder och genomför eleven muntliga framställningar med i huvudsak fungerande struktur, innehåll och viss anpassning till syfte, mottagare och sammanhang. Eleven skriver, utifrån modersmålets särdrag, olika slags texter med viss språklig variation, i huvudsak fungerande struktur och innehåll samt viss anpassning till texttyp, syfte, mottagare och sammanhang. Eleven följer grundläggande regler för språkriktighet med viss säkerhet. Eleven läser olika texter med flyt och visar grundläggande läsförståelse. Dessutom tolkar och för eleven enkla resonemang om budskap i olika texter. Eleven för enkla resonemang om likheter och skillnader i skriftspråk mellan modersmålet och svenska. Dessutom jämför och översätter eleven ord, begrepp och fraser mellan modersmålet och svenska på ett i huvudsak fungerande sätt. Eleven beskriver och resonerar på ett enkelt sätt om traditioner, kulturella företeelser och samhällsfrågor med anknytning till områden där modersmålet talas. Eleven gör då enkla jämförelser med förhållanden i Sverige, även utifrån egna erfarenheter eller kunskaper.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "D",
+            "text": {
+              "local": "Betygskriterier för betyget D i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan C och E.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "C",
+            "text": {
+              "local": "Betygskriterier för betyget C i slutet av årskurs 9Eleven samtalar om och diskuterar varierande ämnen på ett sätt som utvecklar samtalen och diskussionerna relativt väl. Dessutom förbereder och genomför eleven muntliga framställningar med fungerande struktur, innehåll och relativt god anpassning till syfte, mottagare och sammanhang.Eleven skriver, utifrån modersmålets särdrag, olika slags texter med relativt god språklig variation, fungerande struktur och innehåll samt relativt god anpassning till texttyp, syfte, mottagare och sammanhang. Eleven följer grundläggande regler för språkriktighet med relativt god säkerhet.Eleven läser olika texter med gott flyt och visar god läsförståelse. Dessutom tolkar och för eleven utvecklade resonemang om budskap i olika texter.Eleven för utvecklade resonemang om likheter och skillnader i skriftspråk mellan modersmålet och svenska. Dessutom jämför och översätter eleven ord, begrepp och fraser mellan modersmålet och svenska på ett fungerande sätt.Eleven beskriver och resonerar på ett utvecklat sätt om traditioner, kulturella företeelser och samhällsfrågor med anknytning till områden där modersmålet talas. Eleven gör då utvecklade jämförelser med förhållanden i Sverige, även utifrån egna erfarenheter eller kunskaper.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "B",
+            "text": {
+              "local": "Betygskriterier för betyget B i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan A och C.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "A",
+            "text": {
+              "local": "Betygskriterier för betyget A i slutet av årskurs 9Eleven samtalar om och diskuterar varierande ämnen på ett sätt som utvecklar samtalen och diskussionerna väl. Dessutom förbereder och genomför eleven muntliga framställningar med väl fungerande struktur, innehåll och god anpassning till syfte, mottagare och sammanhang. Eleven skriver, utifrån modersmålets särdrag, olika slags texter med god språklig variation, väl fungerande struktur och innehåll samt god anpassning till texttyp, syfte, mottagare och sammanhang. Eleven följer grundläggande regler för språkriktighet med god säkerhet. Eleven läser olika texter med mycket gott flyt och visar mycket god läsförståelse. Dessutom tolkar och för eleven välutvecklade resonemang om budskap i olika texter. Eleven för välutvecklade resonemang om likheter och skillnader i skriftspråk mellan modersmålet och svenska. Dessutom jämför och översätter eleven ord, begrepp och fraser mellan modersmålet och svenska på ett väl fungerande sätt. Eleven beskriver och resonerar på ett välutvecklat sätt om traditioner, kulturella företeelser och samhällsfrågor med anknytning till områden där modersmålet talas. Eleven gör då välutvecklade jämförelser med förhållanden i Sverige, även utifrån egna erfarenheter eller kunskaper.",
+              "en": ""
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "country": "finland",
+  "source": {
+    "api": "https://eperusteet.opintopolku.fi/eperusteet-service/api/external/peruste/419550/perusopetus/oppiaineet/600170",
+    "curriculum": "POPS 2014",
+    "license": "Open Government Data (Finland)",
+    "lastSynced": "2026-03-02T21:33:16Z"
+  },
+  "subject": {
+    "code": "VK",
+    "name": {
+      "local": "Englanti, A-oppimäärä",
+      "en": "Foreign Languages (English)"
+    },
+    "coreElements": [
+      {
+        "code": "S1",
+        "name": {
+          "local": "S1 Kasvu kulttuuriseen moninaisuuteen ja kielitietoisuuteen",
+          "en": ""
+        },
+        "description": {
+          "local": "Rakennetaan ymmärrystä maailman moni- ja rinnakkaiskielisyydestä sekä kielellisistä oikeuksista. Tutkitaan englannin kielen kehittymistä globaaliksi lingua francaksi. Otetaan selkoa joidenkin sellaisten maiden kulttuureista ja elämänmuodoista, joissa englanti on keskeisin yhteiskunnassa käytetty kieli. Käytetään sellaisia kielitiedon käsitteitä, jotka auttavat oppilaita englannin kielen opiskelussa sekä kielten välisessä vertailussa. Hankitaan tietoa joistakin englannin kielen varianteista.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S2",
+        "name": {
+          "local": "S2 Kielenopiskelutaidot",
+          "en": ""
+        },
+        "description": {
+          "local": "Vahvistetaan edelleen kieltenopiskelutaitoja. Harjoitellaan oppimateriaalin monipuolista käyttöä, sanastojen käyttöä, kokonaisuuksien hahmottamista, ryhmittelyä, tiedon hakemista ja tiedon luotettavuuden arviointia.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S3",
+        "name": {
+          "local": "S3 Kehittyvä kielitaito, taito toimia vuorovaikutuksessa, taito tulkita tekstejä, taito tuottaa tekstejä",
+          "en": ""
+        },
+        "description": {
+          "local": "Sisältöjä yhdessä valittaessa näkökulmana on nuoren toiminta englannin kielellä eri yhteisöissä, ajankohtaisuus, oppilaiden kiinnostuksen kohteet, suuntautuminen toisen asteen opintoihin sekä tutustuminen nuorten työelämässä ja opiskelussa tarvittavaan kielitaitoon sekä oppilaiden osallisuus ja toimijuus paikallisesti ja globaalisti. Otetaan huomioon englannin kielen levinneisyys ja asema globaalin kommunikaation kielenä. Sanastoa ja rakenteita opetellaan monenlaisista teksteistä, kuten kertovista, kuvaavista tai vaikuttavista teksteistä. Havainnoidaan ja harjoitellaan runsaasti erilaisia vuorovaikutustilanteita eri viestintäkanavia hyödyntäen.",
+          "en": ""
+        }
+      }
+    ],
+    "gradeBands": [
+      {
+        "afterGrade": 6,
+        "label": {
+          "local": "Vuosiluokat 3–6",
+          "en": "Grades 3–6"
+        },
+        "competenceGoals": [
+          {
+            "code": "T1",
+            "text": {
+              "local": "T1 ohjata oppilasta havaitsemaan lähiympäristön ja maailman kielellinen ja kulttuurinen runsaus sekä englannin asema globaalin viestinnän kielenä",
+              "en": ""
+            },
+            "coreElements": [
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T2",
+            "text": {
+              "local": "T2 motivoida oppilasta arvostamaan omaa kieli- ja kulttuuritaustaansa sekä maailman kielellistä ja kulttuurista moninaisuutta ja kohtaamaan ihmisiä ilman arvottavia ennakko-oletuksia",
+              "en": ""
+            },
+            "coreElements": [
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T3",
+            "text": {
+              "local": "T3 ohjata oppilasta havaitsemaan kieliä yhdistäviä ja erottavia ilmiöitä sekä tukea oppilaan kielellisen päättelykyvyn kehittymistä",
+              "en": ""
+            },
+            "coreElements": [
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T4",
+            "text": {
+              "local": "T4 ohjata oppilasta ymmärtämään, että englanniksi on saatavilla runsaasti aineistoa ja valitsemaan niistä omaa oppimistaan edistävää, sisällöltään ja vaikeustasoltaan sopivaa aineistoa",
+              "en": ""
+            },
+            "coreElements": [
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T5",
+            "text": {
+              "local": "T5 tutustua yhdessä opetuksen tavoitteisiin ja luoda salliva opiskeluilmapiiri, jossa tärkeintä on viestin välittyminen sekä kannustava yhdessä oppiminen",
+              "en": ""
+            },
+            "coreElements": [
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T6",
+            "text": {
+              "local": "T6 ohjata oppilasta ottamaan vastuuta omasta kielenopiskelustaan ja kannustaa harjaannuttamaan kielitaitoaan rohkeasti ja myös tieto- ja viestintäteknologiaa käyttäen sekä kokeilemaan, millaiset tavat oppia kieliä sopivat hänelle parhaiten",
+              "en": ""
+            },
+            "coreElements": [
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T7",
+            "text": {
+              "local": "T7 ohjata oppilasta harjoittelemaan vuorovaikutusta aihepiiriltään monenlaisissa tilanteissa rohkaisten viestinnän jatkumiseen mahdollisista katkoksista huolimatta",
+              "en": ""
+            },
+            "coreElements": [
+              "S3"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T8",
+            "text": {
+              "local": "T8 rohkaista oppilasta pitämään yllä viestintätilannetta käyttäen monenlaisia viestinnän jatkamisen keinoja",
+              "en": ""
+            },
+            "coreElements": [
+              "S3"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T9",
+            "text": {
+              "local": "T9 tukea oppilaan viestinnän kulttuurista sopivuutta tarjoamalla mahdollisuuksia harjoitella monipuolisia sosiaalisia tilanteita",
+              "en": ""
+            },
+            "coreElements": [
+              "S3"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T10",
+            "text": {
+              "local": "T10 ohjata oppilasta työskentelemään vaativuudeltaan monentasoisten puhuttujen ja kirjoitettujen tekstien parissa käyttäen erilaisia ymmärtämisstrategioita",
+              "en": ""
+            },
+            "coreElements": [
+              "S3"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T11",
+            "text": {
+              "local": "T11 tarjota oppilaalle mahdollisuuksia tuottaa puhetta ja kirjoitusta aihepiirejä laajentaen sekä kiinnittäen huomiota myös keskeisiin rakenteisiin ja ääntämisen perussääntöihin",
+              "en": ""
+            },
+            "coreElements": [
+              "S3"
+            ],
+            "verbs": []
+          }
+        ]
+      },
+      {
+        "afterGrade": 9,
+        "label": {
+          "local": "Vuosiluokat 7–9",
+          "en": "Grades 7–9"
+        },
+        "competenceGoals": [
+          {
+            "code": "T1",
+            "text": {
+              "local": "T1 edistää oppilaan taitoa pohtia englannin asemaan ja variantteihin liittyviä ilmiöitä ja arvoja antaa oppilaalle valmiuksia kehittää kulttuurienvälistä toimintakykyä",
+              "en": ""
+            },
+            "coreElements": [
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T2",
+            "text": {
+              "local": "T2 kannustaa löytämään kiinnostavia englanninkielisiä sisältöjä ja toimintaympäristöjä, jotka laajentavat käsitystä globalisoituvasta maailmasta ja siinä toimimisen mahdollisuuksista",
+              "en": ""
+            },
+            "coreElements": [
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T3",
+            "text": {
+              "local": "T3 ohjata oppilasta havaitsemaan, millaisia säännönmukaisuuksia englannin kielessä on, miten samoja asioita ilmaistaan muissa kielissä sekä käyttämään kielitiedon käsitteitä oppimisensa tukena",
+              "en": ""
+            },
+            "coreElements": [
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T4",
+            "text": {
+              "local": "T4 rohkaista oppilasta asettamaan tavoitteita, hyödyntämään monipuolisia tapoja oppia englantia ja arvioimaan oppimistaan itsenäisesti ja yhteistyössä sekä ohjata oppilasta myönteiseen vuorovaikutukseen, jossa tärkeintä on viestin välittyminen",
+              "en": ""
+            },
+            "coreElements": [
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T5",
+            "text": {
+              "local": "T5 kehittää oppilaan itsenäisyyttä soveltaa luovasti kielitaitoaan sekä jatkuvan kieltenopiskelun valmiuksia",
+              "en": ""
+            },
+            "coreElements": [
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T6",
+            "text": {
+              "local": "T6 rohkaista oppilasta osallistumaan keskusteluihin monenlaisista oppilaiden ikätasolle ja elämänkokemukseen sopivista aiheista, joissa käsitellään myös mielipiteitä",
+              "en": ""
+            },
+            "coreElements": [
+              "S3"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T7",
+            "text": {
+              "local": "T7 tukea oppilaan aloitteellisuutta viestinnässä, kompensaatiokeinojen käytössä ja merkitysneuvottelun käymisessä",
+              "en": ""
+            },
+            "coreElements": [
+              "S3"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T8",
+            "text": {
+              "local": "T8 auttaa oppilasta tunnistamaan viestinnän kulttuurisia piirteitä ja tukea oppilaiden rakentavaa kulttuurienvälistä viestintää",
+              "en": ""
+            },
+            "coreElements": [
+              "S3"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T9",
+            "text": {
+              "local": "T9 tarjota oppilaalle mahdollisuuksia kuulla ja lukea monenlaisia itselleen merkityksellisiä yleiskielisiä ja yleistajuisia tekstejä erilaisista lähteistä sekä tulkita niitä käyttäen erilaisia strategioita",
+              "en": ""
+            },
+            "coreElements": [
+              "S3"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T10",
+            "text": {
+              "local": "T10 ohjata oppilasta tuottamaan sekä puhuttua että kirjoitettua tekstiä erilaisiin tarkoituksiin yleisistä ja itselleen merkityksellisistä aiheista kiinnittäen huomiota rakenteiden monipuolisuuteen ja ohjaten hyvään ääntämiseen",
+              "en": ""
+            },
+            "coreElements": [
+              "S3"
+            ],
+            "verbs": []
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -4,7 +4,7 @@
     "api": "https://data.udir.no/kl06/v201906/laereplaner-lk20/MAT01-05",
     "curriculum": "LK20",
     "license": "NLOD",
-    "lastSynced": "2026-03-02T21:17:47Z"
+    "lastSynced": "2026-03-02T21:36:38Z"
   },
   "subject": {
     "code": "MAT01-05",
@@ -12,7 +12,74 @@
       "local": "Læreplan i matematikk 1.–10. trinn",
       "en": "Curriculum for Mathematics year 1–10"
     },
-    "coreElements": [],
+    "coreElements": [
+      {
+        "code": "KE12",
+        "name": {
+          "local": "Utforsking og problemløsing",
+          "en": "Exploration and problem solving"
+        },
+        "description": {
+          "local": "Utforsking i matematikk handler om at elevene leter etter mønstre, finner sammenhenger og diskuterer seg fram til en felles forståelse. Elevene skal legge mer vekt på strategiene og framgangsmåtene enn på løsningene. Problemløsing i matematikk handler om at elevene utvikler en metode for å løse et problem de ikke kjenner fra før. Algoritmisk tenkning er viktig i prosessen med å utvikle strategier og framgangsmåter for å løse problemer og innebærer å bryte ned et problem i delproblemer som kan løses systematisk. Videre innebærer det å vurdere om delproblemene best kan løses med eller uten digitale verktøy. Problemløsing handler også om å analysere og omforme kjente og ukjente problemer, løse dem og vurdere om løsningene er gyldige.",
+          "en": "Exploration in mathematics means that the pupils search for patterns, find relationships and discuss their way to a shared understanding. The pupils shall place more emphasis on strategies and approaches than on solutions. Problem solving in mathematics means that the pupils develop a method for solving a problem not previously encountered. Computational thinking is important in the process of developing strategies and approaches to solve problems, and means breaking a problem down into sub-problems that can be solved systematically. This also includes evaluating whether sub-problems can be solved best with or without digital tools. Problem solving also means analysing and reformulating known and unknown problems, solving them and evaluating whether the solutions are valid."
+        }
+      },
+      {
+        "code": "KE13",
+        "name": {
+          "local": "Modellering og anvendelser",
+          "en": "Modelling and applications"
+        },
+        "description": {
+          "local": "En modell i matematikk er en beskrivelse av virkeligheten i matematisk språk. Elevene skal ha innsikt i hvordan modeller i matematikk brukes for å beskrive dagliglivet, arbeidslivet og samfunnet ellers. Modellering i matematikk handler om å lage slike modeller. Det handler også om å kritisk vurdere om modellene er gyldige, og hvilke begrensninger de har, vurdere modellene i lys av de opprinnelige situasjonene og vurdere om de kan brukes i andre situasjoner. Anvendelser i matematikk handler om at elevene skal få innsikt i hvordan de skal bruke matematikk i ulike situasjoner, både i og utenfor faget.",
+          "en": "A model in mathematics is a description of reality using mathematical language. The pupils shall gain insight into how mathematical models are used to describe everyday life, working life and society in general. Modelling in mathematics means creating such models. It also means to critically evaluate whether the models are valid and what limitations the models have, evaluate the models in view of the original situations, and evaluate whether they can be used in other situations. Applications in mathematics means giving the pupils insight into how to use mathematics in different situations within and outside of the subject."
+        }
+      },
+      {
+        "code": "KE14",
+        "name": {
+          "local": "Resonnering og argumentasjon",
+          "en": "Reasoning and argumentation"
+        },
+        "description": {
+          "local": "Resonnering i matematikk handler om å kunne følge, vurdere og forstå matematiske tankerekker. Det innebærer at elevene skal forstå at matematiske regler og resultater ikke er tilfeldige, men har klare begrunnelser. Elevene skal utforme egne resonnementer både for å forstå og for å løse problemer. Argumentasjon i matematikk handler om at elevene begrunner framgangsmåter, resonnementer og løsninger og beviser at disse er gyldige.",
+          "en": "Reasoning in mathematics means the ability to follow, evaluate and understand mathematical chains of thought. It means that the pupils shall understand that mathematical rules and results are not random, but have clear reasons. The pupils shall formulate their own reasoning in order to both understand and solve problems. Argumentation in mathematics means that the pupils give reasons for their approaches, reasonings and solutions, and prove that these are valid."
+        }
+      },
+      {
+        "code": "KE15",
+        "name": {
+          "local": "Representasjon og kommunikasjon",
+          "en": "Representation and communication"
+        },
+        "description": {
+          "local": "Representasjoner i matematikk er måter å uttrykke matematiske begreper, sammenhenger og problemer på. Representasjoner kan være konkrete, kontekstuelle, visuelle, verbale og symbolske. Kommunikasjon i matematikk handler om at elevene bruker matematisk språk i samtaler, argumentasjon og resonnementer. Elevene må få mulighet til å bruke matematiske representasjoner i ulike sammenhenger gjennom egne erfaringer og matematiske samtaler. Elevene må få mulighet til å forklare og begrunne valg av representasjonsform. Elevene må kunne oversette mellom matematiske representasjoner og dagligspråket og veksle mellom ulike representasjoner.",
+          "en": "Representations in mathematics are ways of expressing mathematical concepts, relationships and problems. Representations can be concrete, contextual, visual, verbal and symbolic. Communication in mathematics means that the pupils use mathematical language in conversations, argumentation and reasoning. The pupils shall have the opportunity to use mathematical representations in different contexts through their own experiences and in mathematical conversations. The pupils shall have the opportunity to explain and give reasons for the choice of form of representation. The pupils must be able to switch between mathematical representations and everyday language and to switch between different representations."
+        }
+      },
+      {
+        "code": "KE16",
+        "name": {
+          "local": "Abstraksjon og generalisering",
+          "en": "Abstraction and generalisation"
+        },
+        "description": {
+          "local": "Abstraksjon i matematikk innebærer at elevene gradvis utvikler en formalisering av tanker, strategier og matematisk språk. Utviklingen går fra konkrete beskrivelser til formelt symbolspråk og formelle resonnementer. Generalisering i matematikk handler om at elevene oppdager sammenhenger og strukturer og ikke blir presentert for en ferdig løsning. Det vil si at elevene kan utforske tall, utregninger og figurer for å finne sammenhenger og deretter formalisere ved å bruke algebra og hensiktsmessige representasjoner.",
+          "en": "Abstraction in mathematics means gradually developing formalisation of thoughts, strategies and mathematical language. The development goes from concrete descriptions to formal symbol language and formal reasoning. Generalisation in mathematics refers to the pupils discovering relationships and structures without being presented a finished solution. This means that the pupils can explore numbers, calculations and figures to find relationships, and then formalise by using algebra and suitable representations."
+        }
+      },
+      {
+        "code": "KE17",
+        "name": {
+          "local": "Matematiske kunnskapsområder",
+          "en": "Mathematical fields of knowledge"
+        },
+        "description": {
+          "local": "De matematiske kunnskapsområdene omfatter tall og tallforståelse, algebra, funksjoner, geometri, statistikk og sannsynlighet. Elevene må tidlig få et godt tallbegrep og få utvikle varierte regnestrategier. Algebra handler om å utforske strukturer, mønstre og relasjoner og er en viktig forutsetning for at elevene skal kunne generalisere og modellere i matematikk. Funksjoner gir elevene et viktig verktøy for å studere og modellere endring og utvikling. Geometri er viktig for at elevene skal utvikle en god romforståelse. Kunnskap om statistikk og sannsynlighet gir elevene et godt grunnlag når de skal gjøre valg i sitt eget liv, i samfunnet og i arbeidslivet. Kunnskapsområdene danner grunnlaget som elevene trenger for å utvikle matematisk forståelse ved å utforske sammenhenger innenfor og mellom kunnskapsområdene.",
+          "en": "The mathematical fields of knowledge include numbers and understanding numbers, algebra, functions, geometry, statistics and probability. The pupils shall early gain a strong concept of numbers and develop a variety of numeracy strategies. Algebra refers to exploring structures, patterns and relationships, and is an important prerequisite for enabling the pupils to generalise and model in mathematics. Functions provide the pupils with an important tool for studying and modelling change and development. Geometry is important for enabling the pupils to develop good spatial understanding. Knowledge of statistics and probability gives the pupils a good foundation for making choices in their own lives, in society and in working life. The fields of knowledge form the basis the pupils need in order to develop their mathematical understanding by exploring relationships within and between the mathematical fields of knowledge."
+        }
+      }
+    ],
     "gradeBands": [
       {
         "afterGrade": 2,

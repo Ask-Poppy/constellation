@@ -1,0 +1,327 @@
+{
+  "country": "finland",
+  "source": {
+    "api": "https://eperusteet.opintopolku.fi/eperusteet-service/api/external/peruste/419550/perusopetus/oppiaineet/466347",
+    "curriculum": "POPS 2014",
+    "license": "Open Government Data (Finland)",
+    "lastSynced": "2026-03-02T21:29:41Z"
+  },
+  "subject": {
+    "code": "KE",
+    "name": {
+      "local": "Kemia",
+      "en": "Chemistry"
+    },
+    "coreElements": [
+      {
+        "code": "S1",
+        "name": {
+          "local": "S1 Luonnontieteellinen tutkimus",
+          "en": ""
+        },
+        "description": {
+          "local": "Turvallisen työskentelyn periaatteet ja perustyötaidot luovat pohjan kokeelliselle työskentelylle. Eri sisältöalueista ja oppilaiden mielenkiinnon kohteista valitaan sopivia aihepiirejä suljettuihin ja avoimiin tutkimuksiin. Erilaisissa tutkimuksissa painotetaan tarkoituksenmukaisesti tutkimusprosessin eri vaiheita kuten ongelman tai ilmiön pohtimista, suunnittelua, koejärjestelyn toteuttamista, havainnointia, tulosten koontia ja käsittelyä sekä tulosten arviointia ja esittämistä. Tutustutaan tieto- ja viestintäteknologian hyödyntämiseen tutkimusten eri vaiheissa.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S2",
+        "name": {
+          "local": "S2 Kemia omassa elämässä ja elinympäristössä",
+          "en": ""
+        },
+        "description": {
+          "local": "Sisältöjä valitaan siten, että oman elämän ja elinympäristön ilmiöitä pohditaan erityisesti terveyden ja turvallisuuden näkökulmista. Sisältöjen valinnassa otetaan huomioon paikallinen toimintaympäristö ja lähiympäristön tila. Tutustutaan kodin kemikaaleihin ja paloturvallisuuteen. Tutkitaan olomuotojen muutoksia.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S3",
+        "name": {
+          "local": "S3 Kemia yhteiskunnassa",
+          "en": ""
+        },
+        "description": {
+          "local": "Kemian ilmiöihin ja sovelluksiin liittyviä sisältöjä valitaan erityisesti ihmiskunnan hyvinvoinnin ja teknologian näkökulmista. Pääpaino on kestävässä luonnonvarojen käytössä, ja tuotteiden elinkaariajattelu on yhtenä tarkastelutapana. Tutustutaan erilaisiin koulutuspolkuihin ja ammatteihin, joissa tarvitaan kemian osaamista.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S4",
+        "name": {
+          "local": "S4 Kemia maailmankuvan rakentajana",
+          "en": ""
+        },
+        "description": {
+          "local": "Sisältöjä valitaan siten, että niissä tulee esiin kemian luonne tieteenä, aineen ja energian säilymisen periaatteet sekä luonnon mittasuhteet. Sisältöihin kuuluvat myös tutustuminen kemiaan liittyviin uutisiin, ajankohtaisiin ilmiöihin, sovelluksiin ja nykypäivän tutkimukseen.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S5",
+        "name": {
+          "local": "S5 Aineiden ominaisuudet ja rakenne",
+          "en": ""
+        },
+        "description": {
+          "local": "Tutkitaan monipuolisesti seosten ja puhtaiden aineiden ominaisuuksia kuten vesi- ja rasvaliukoisuutta. Alkuaineiden ominaisuuksien pohjalta tutustutaan aineen koostumiseen atomeista, atomin rakenteeseen ja jaksolliseen järjestelmään. Malleja ja simulaatioita käytetään yhdisteiden rakentumisen hahmottamisessa. Tutustutaan hiileen, sen yhdisteisiin ja ravintoaineisiin. Perehdytään johonkin orgaaniseen yhdisteryhmään.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S6",
+        "name": {
+          "local": "S6 Aineiden ominaisuudet ja muutokset",
+          "en": ""
+        },
+        "description": {
+          "local": "Tutustutaan energian ja aineiden muuttumiseen kemiallisissa reaktioissa. Havainnoidaan reaktionnopeutta ja pohditaan siihen vaikuttavia tekijöitä. Perehdytään hiilen kiertokulkuun ja sen merkitykseen elämälle. Tutustutaan pitoisuuteen ja happamuuteen arkisten esimerkkien yhteydessä. Harjoitellaan kemian merkkikielen ja yksinkertaisten reaktioyhtälöiden tulkitsemista.",
+          "en": ""
+        }
+      }
+    ],
+    "gradeBands": [
+      {
+        "afterGrade": 9,
+        "label": {
+          "local": "Vuosiluokat 7–9",
+          "en": "Grades 7–9"
+        },
+        "competenceGoals": [
+          {
+            "code": "T1",
+            "text": {
+              "local": "T1 kannustaa ja innostaa oppilasta kemian opiskeluun",
+              "en": ""
+            },
+            "coreElements": [
+              "S5",
+              "S6",
+              "S4",
+              "S3",
+              "S2",
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T2",
+            "text": {
+              "local": "T2 ohjata ja kannustaa oppilasta tunnistamaan omaa kemian osaamistaan, asettamaan tavoitteita omalle työskentelylleen sekä työskentelemään pitkäjänteisesti",
+              "en": ""
+            },
+            "coreElements": [
+              "S5",
+              "S6",
+              "S4",
+              "S3",
+              "S2",
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T3",
+            "text": {
+              "local": "T3 ohjata oppilasta ymmärtämään kemian osaamisen merkitystä omassa elämässä, elinympäristössä ja yhteiskunnassa",
+              "en": ""
+            },
+            "coreElements": [
+              "S5",
+              "S6",
+              "S4",
+              "S3",
+              "S2",
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T4",
+            "text": {
+              "local": "T4 ohjata oppilasta käyttämään kemian osaamistaan kestävän tulevaisuuden rakentamisessa sekä arvioimaan omia valintojaan luonnonvarojen kestävän käytön ja tuotteen elinkaaren kannalta",
+              "en": ""
+            },
+            "coreElements": [
+              "S5",
+              "S6",
+              "S4",
+              "S3",
+              "S2",
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T5",
+            "text": {
+              "local": "T5 kannustaa oppilasta muodostamaan kysymyksiä tarkasteltavista ilmiöistä sekä kehittämään kysymyksiä edelleen tutkimusten ja muun toiminnan lähtökohdiksi",
+              "en": ""
+            },
+            "coreElements": [
+              "S5",
+              "S6",
+              "S4",
+              "S3",
+              "S2",
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T6",
+            "text": {
+              "local": "T6 ohjata oppilasta toteuttamaan kokeellisia tutkimuksia yhteistyössä muiden kanssa sekä työskentelemään turvallisesti ja johdonmukaisesti",
+              "en": ""
+            },
+            "coreElements": [
+              "S5",
+              "S6",
+              "S4",
+              "S3",
+              "S2",
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T7",
+            "text": {
+              "local": "T7 ohjata oppilasta käsittelemään, tulkitsemaan ja esittämään omien tutkimustensa tuloksia sekä arvioimaan niitä ja koko tutkimusprosessia",
+              "en": ""
+            },
+            "coreElements": [
+              "S5",
+              "S6",
+              "S4",
+              "S3",
+              "S2",
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T8",
+            "text": {
+              "local": "T8 ohjata oppilasta hahmottamaan kemian soveltamista teknologiassa sekä osallistumaan kemiaa soveltavien ratkaisujen ideointiin, suunnitteluun, kehittämiseen ja soveltamiseen yhteistyössä muiden kanssa",
+              "en": ""
+            },
+            "coreElements": [
+              "S5",
+              "S6",
+              "S4",
+              "S3",
+              "S2",
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T9",
+            "text": {
+              "local": "T9 ohjata oppilasta käyttämään tieto- ja viestintäteknologiaa tiedon ja tutkimustulosten hankkimiseen, käsittelemiseen ja esittämiseen sekä tukea oppilaan oppimista havainnollistavien simulaatioiden avulla",
+              "en": ""
+            },
+            "coreElements": [
+              "S5",
+              "S6",
+              "S4",
+              "S3",
+              "S2",
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T10",
+            "text": {
+              "local": "T10 ohjata oppilasta käyttämään kemian käsitteitä täsmällisesti sekä jäsentämään omia käsiterakenteitaan kohti luonnontieteellisten teorioiden mukaisia käsityksiä",
+              "en": ""
+            },
+            "coreElements": [
+              "S5",
+              "S6",
+              "S4",
+              "S3",
+              "S2",
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T11",
+            "text": {
+              "local": "T11 ohjata oppilasta käyttämään erilaisia malleja kuvaamaan ja selittämään aineen rakennetta ja kemiallisia ilmiöitä",
+              "en": ""
+            },
+            "coreElements": [
+              "S5",
+              "S6",
+              "S4",
+              "S3",
+              "S2",
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T12",
+            "text": {
+              "local": "T12 ohjata oppilasta käyttämään ja arvioimaan kriittisesti eri tietolähteitä sekä ilmaisemaan ja perustelemaan erilaisia näkemyksiä kemialle ominaisella tavalla",
+              "en": ""
+            },
+            "coreElements": [
+              "S5",
+              "S6",
+              "S4",
+              "S3",
+              "S2",
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T13",
+            "text": {
+              "local": "T13 ohjata oppilasta hahmottamaan luonnontieteellisen tiedon luonnetta ja kehittymistä sekä tieteellisiä tapoja tuottaa tietoa",
+              "en": ""
+            },
+            "coreElements": [
+              "S4",
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T14",
+            "text": {
+              "local": "T14 ohjata oppilasta ymmärtämään perusperiaatteita aineen ominaisuuksista, rakenteesta ja aineiden muutoksista",
+              "en": ""
+            },
+            "coreElements": [
+              "S5",
+              "S6"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T15",
+            "text": {
+              "local": "T15 ohjata oppilasta soveltamaan kemian tietojaan ja taitojaan monialaisissa oppimiskokonaisuuksissa sekä tarjota mahdollisuuksia tutustua kemian soveltamiseen erilaisissa tilanteissa kuten luonnossa, elinkeinoelämässä, järjestöissä tai tiedeyhteisöissä",
+              "en": ""
+            },
+            "coreElements": [
+              "S5",
+              "S6",
+              "S4",
+              "S3",
+              "S2",
+              "S1"
+            ],
+            "verbs": []
+          }
+        ]
+      }
+    ]
+  }
+}

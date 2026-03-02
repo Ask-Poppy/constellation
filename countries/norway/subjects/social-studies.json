@@ -4,7 +4,7 @@
     "api": "https://data.udir.no/kl06/v201906/laereplaner-lk20/SAF01-04",
     "curriculum": "LK20",
     "license": "NLOD",
-    "lastSynced": "2026-03-02T21:20:16Z"
+    "lastSynced": "2026-03-02T21:39:11Z"
   },
   "subject": {
     "code": "SAF01-04",
@@ -12,7 +12,63 @@
       "local": "Læreplan i samfunnsfag",
       "en": "Curriculum for Social Studies"
     },
-    "coreElements": [],
+    "coreElements": [
+      {
+        "code": "KE135",
+        "name": {
+          "local": "Undring og utforsking",
+          "en": "Sense of wonder and exploration"
+        },
+        "description": {
+          "local": "Elevene skal kunne undre seg over, reflektere over og vurdere hvordan kunnskap om samfunn før og nå blir til. Elevene skal få være nysgjerrige og aktivt kunnskapssøkende og -skapende alene og sammen med andre både i og utenfor klasserommet. I tillegg skal elevene kunne innhente og bruke informasjon fra ulike typer historiske, geografiske og samfunnskunnskaplige kilder for å belyse forhold i ulike samfunn til ulike tider og i sitt eget liv. De skal også kunne vurdere om kildene er pålitelige og relevante.",
+          "en": "The pupils shall be encouraged to wonder at, reflect on and assess how our knowledge of society has been developed from the past to the present. The pupils shall be encouraged to be curious and actively search for and create knowledge, individually and with others, both inside and outside the classroom. The pupils shall also learn to collect and use information from various types of historical, geographic and social-science sources to shed light on relations within different societies, at different times and in their own lives. They shall also be able to critically assess whether the sources they find are reliable and relevant."
+        }
+      },
+      {
+        "code": "KE136",
+        "name": {
+          "local": "Samfunnskritisk tenkning og sammenhenger",
+          "en": "Deliberating on society and interconnections"
+        },
+        "description": {
+          "local": "Elevene skal forstå sammenhenger mellom geografiske, historiske og nåtidige forhold og hvordan disse forholdene hver for seg og sammen har påvirket og påvirker mennesker og samfunn. Elevene skal få innsikt i den gjensidige påvirkningen mellom natur og samfunn. De skal se hvordan utviklingen i fortiden var preget av både brudd og kontinuitet og hva som bidro til endringer, samt utvikle historisk empati. Elevene skal analysere hvordan makt og maktrelasjoner har virket og virker inn på ulike forhold i samfunnet. De skal vurdere kunnskap, hendelser og fenomener fra ulike perspektiver og reflektere over hvorfor menneskene har gjort og gjør ulike valg.",
+          "en": "The pupils shall learn to understand the connections between geographic, historical and current conditions and how these have individually and collectively had impact on and continue to have impact on people and society. The pupils shall also gain insight into how nature and society have a reciprocal impact on each other. They shall see how developments in the past were characterised by both upheaval and continuity and what contributed to changes and develop historical empathy. The pupils shall analyse how power and power relations have had and continue to have impact on various conditions in society. They shall evaluate knowledge, events and phenomena from different perspectives and reflect on why humankind has made, and makes, different choices."
+        }
+      },
+      {
+        "code": "KE137",
+        "name": {
+          "local": "Demokratiforståelse og deltakelse",
+          "en": "Understanding and participating in democracy"
+        },
+        "description": {
+          "local": "Elevene skal forstå hvordan geografiske, historiske og nåtidige forhold har lagt og legger betingelser for muligheten mennesker har hatt og har til å samarbeide, organisere seg og ta beslutninger i ulike samfunn. Elevene skal få innsikt i forskjeller mellom land når det gjelder styresett og ivaretakelse av menneskerettigheter og minoriteter, og de skal se hvordan forskjeller har hatt og har innvirkning på folks liv og mulighet til å medvirke. De skal forstå hvorfor konflikter har oppstått og oppstår, og hvordan de har blitt og blir håndtert. Elevene skal få erfaring med demokrati i praksis for å kunne påvirke og medvirke til samfunnsutforming. Innholdet i dette kjerneelementet skal ses i lys av ulike perspektiver, fra det lokale til det globale, og i et urfolks- og minoritetsperspektiv, med vekt på fortid, nåtid og framtid.",
+          "en": "The pupils shall learn about how geographic, historical and current conditions have laid and continue to lay the foundation for how people have cooperated and cooperate, organise and make decisions in different societies. The pupils shall gain an insight into the differences between countries when it comes to systems of government, protection of human rights and minorities. Furthermore, they shall understand how these differences have influenced and continue to influence people’s lives and their motives for participating in society. They shall also learn to understand the reasons why conflicts have arisen and arise, and how they have been and are dealt with. The pupils shall thus gain experience of democracy in practice so they can influence and contribute to the development of society. The content of this core element shall be seen through various perspectives, from the local to the global, and through the perspectives of indigenous and minority communities, with an emphasis on the past, present and future."
+        }
+      },
+      {
+        "code": "KE138",
+        "name": {
+          "local": "Bærekraftige samfunn",
+          "en": "Sustainable societies"
+        },
+        "description": {
+          "local": "Elevene skal forstå hvordan geografiske, historiske og nåtidige forhold har lagt og legger betingelser for hvordan mennesker har dekket og dekker behovene sine, og for hvordan de har fordelt og fordeler ressurser i ulike samfunn. Det innebærer å se at geografisk mangfold og variasjon danner rammer for livsgrunnlag og levekår. Elevene skal få innsikt i de økonomiske, miljømessige og sosiale dimensjonene ved bærekraftig utvikling, og sammenhengen mellom disse. De skal forstå hvordan endringer i fortiden har påvirket de tre dimensjonene og dermed hvor bærekraftige ulike samfunn er. Elevene skal se at menneskers ressursbruk har hatt og har konsekvenser, og kunne vurdere handlingsalternativer for bærekraftig utvikling på individuelt, nasjonalt og globalt nivå. Bærekraftig utvikling i samfunnsfag skal ses i lys av ulike perspektiver, fra det lokale til det globale, og i et urfolks- og minoritetsperspektiv, med vekt på fortid, nåtid og framtid.",
+          "en": "The pupils shall learn to understand how geography, history and current affairs have set and continue to set the conditions for how people have ensured and ensure that their needs are met, and how resources have been and are distributed in different societies. This means examining how geographic diversity and variety establish the framework for people’s livelihoods and living conditions. The pupils shall also gain an insight into the economic, environmental and social dimensions of sustainable development, and the connections between them. They shall learn how changes in the past have had an impact on the three dimensions and thus how sustainable different societies are. The pupils shall see that the use of resources by societies has had and has consequences, and shall be able to assess the alternative actions that can be taken to ensure sustainable development on the individual, national and global levels. Sustainability in social studies shall be taught through various perspectives, from the local to the global, and through the perspectives of indigenous and minority communities, with an emphasis on the past, present and future."
+        }
+      },
+      {
+        "code": "KE139",
+        "name": {
+          "local": "Identitetsutvikling og fellesskap",
+          "en": "Development of identity and belonging"
+        },
+        "description": {
+          "local": "Elevene skal få innsikt i hvordan mennesker utvikler identitet og tilhørighet, og hvordan de samhandler med andre. De skal forstå hvorfor mennesker søker sammen i samfunn, og hvordan identitetsutvikling og fellesskap påvirkes av geografiske, historiske og nåtidige forhold. Det innebærer ulike perspektiver på hva et godt liv kan være, og at elevene utvikler både historiebevissthet og handlingskompetanse ved å forstå seg selv med en fortid, nåtid og framtid.",
+          "en": "The pupils shall gain an insight into how people develop their sense of identity and belonging, and how they interact with others. They shall learn to understand why people seek to come together in society, and how the development of identity and belongingness is affected by geographic, historical and current conditions. This means having different perspectives on what may constitute a good life, where the pupils develop an awareness of history and competence in making decisions by understanding themselves in light of their past, present and future."
+        }
+      }
+    ],
     "gradeBands": [
       {
         "afterGrade": 2,

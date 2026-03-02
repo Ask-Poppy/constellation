@@ -1,0 +1,663 @@
+{
+  "country": "sweden",
+  "source": {
+    "api": "https://api.skolverket.se/syllabus/v1/subjects/GRGRIDR01",
+    "curriculum": "Lgr22",
+    "license": "CC0",
+    "lastSynced": "2026-03-02T21:29:35Z"
+  },
+  "subject": {
+    "code": "GRGRIDR01",
+    "name": {
+      "local": "Idrott och hälsa",
+      "en": "Physical Education and Health"
+    },
+    "coreElements": [
+      {
+        "code": "",
+        "name": {
+          "local": "förmåga att röra sig allsidigt i olika fysiska sammanhang,",
+          "en": ""
+        },
+        "description": {
+          "local": "förmåga att röra sig allsidigt i olika fysiska sammanhang,",
+          "en": ""
+        }
+      },
+      {
+        "code": "",
+        "name": {
+          "local": "förmåga att genomföra och anpassa aktiviteter inom friluftsliv och ute­vis­tel­se efter olika förhållanden och miljöer,",
+          "en": ""
+        },
+        "description": {
+          "local": "förmåga att genomföra och anpassa aktiviteter inom friluftsliv och ute­vis­tel­se efter olika förhållanden och miljöer,",
+          "en": ""
+        }
+      },
+      {
+        "code": "",
+        "name": {
+          "local": "förmåga att planera, genomföra och värdera olika aktiviteter utifrån hur de påverkar fysisk förmåga och hälsa, och",
+          "en": ""
+        },
+        "description": {
+          "local": "förmåga att planera, genomföra och värdera olika aktiviteter utifrån hur de påverkar fysisk förmåga och hälsa, och",
+          "en": ""
+        }
+      },
+      {
+        "code": "",
+        "name": {
+          "local": "förmåga att agera säkert och förebygga risker i samband med rörelse, friluftsliv och utevistelser samt att simma och hantera nödsituationer på land och i vatten.",
+          "en": ""
+        },
+        "description": {
+          "local": "förmåga att agera säkert och förebygga risker i samband med rörelse, friluftsliv och utevistelser samt att simma och hantera nödsituationer på land och i vatten.",
+          "en": ""
+        }
+      }
+    ],
+    "gradeBands": [
+      {
+        "afterGrade": 3,
+        "label": {
+          "local": "Årskurs 1-3",
+          "en": "Years 1-3"
+        },
+        "competenceGoals": [
+          {
+            "code": "IDH-1-3-1",
+            "text": {
+              "local": "Motoriska grundformer med och utan olika redskap. Deras sammansatta former.",
+              "en": ""
+            },
+            "coreElements": [
+              "Rörelse"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "IDH-1-3-2",
+            "text": {
+              "local": "Lekar och andra enkla rörelseaktiviteter, inomhus och utomhus.",
+              "en": ""
+            },
+            "coreElements": [
+              "Rörelse"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "IDH-1-3-3",
+            "text": {
+              "local": "Takt och rytm i enkla danser och rörelser till musik.",
+              "en": ""
+            },
+            "coreElements": [
+              "Rörelse"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "IDH-1-3-4",
+            "text": {
+              "local": "Rörelser i vatten och vattenvana. Att balansera, flyta och simma i mag- och ryggläge.",
+              "en": ""
+            },
+            "coreElements": [
+              "Rörelse"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "IDH-1-3-5",
+            "text": {
+              "local": "Att orientera sig i närmiljön och enkla kartors uppbyggnad. Begrepp som be­skriver läge, avstånd och riktning.",
+              "en": ""
+            },
+            "coreElements": [
+              "Friluftsliv och utevistelse"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "IDH-1-3-6",
+            "text": {
+              "local": "Utforskande av möjligheter till och genomförande av vistelse, lekar och rörel­ser i natur- och utemiljö.",
+              "en": ""
+            },
+            "coreElements": [
+              "Friluftsliv och utevistelse"
+            ],
+            "verbs": [
+              "Föra"
+            ]
+          },
+          {
+            "code": "IDH-1-3-7",
+            "text": {
+              "local": "Allemansrättens grunder.",
+              "en": ""
+            },
+            "coreElements": [
+              "Friluftsliv och utevistelse"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "IDH-1-3-8",
+            "text": {
+              "local": "Samtal om upplevelser av olika aktiviteter.",
+              "en": ""
+            },
+            "coreElements": [
+              "Hälsa och levnadsvanor"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "IDH-1-3-9",
+            "text": {
+              "local": "Undersökande av möjligheter till daglig rörelse i närmiljön.",
+              "en": ""
+            },
+            "coreElements": [
+              "Hälsa och levnadsvanor"
+            ],
+            "verbs": [
+              "Söka",
+              "Undersöka"
+            ]
+          },
+          {
+            "code": "IDH-1-3-10",
+            "text": {
+              "local": "Säkerhet och hänsynstagande i samband med aktiviteter.",
+              "en": ""
+            },
+            "coreElements": [
+              "Hälsa och levnadsvanor"
+            ],
+            "verbs": []
+          }
+        ]
+      },
+      {
+        "afterGrade": 6,
+        "label": {
+          "local": "Årskurs 4-6",
+          "en": "Years 4-6"
+        },
+        "competenceGoals": [
+          {
+            "code": "IDH-4-6-1",
+            "text": {
+              "local": "Sammansatta motoriska grundformer med och utan olika redskap.",
+              "en": ""
+            },
+            "coreElements": [
+              "Rörelse"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "IDH-4-6-2",
+            "text": {
+              "local": "Lekar, spel, idrotter och andra rörelseaktiviteter, inomhus och utomhus.",
+              "en": ""
+            },
+            "coreElements": [
+              "Rörelse"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "IDH-4-6-3",
+            "text": {
+              "local": "Takt och rytm i danser och i rörelser till musik.",
+              "en": ""
+            },
+            "coreElements": [
+              "Rörelse"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "IDH-4-6-4",
+            "text": {
+              "local": "Grundläggande träningslära: pulshöjande rörelser samt koordinations-, styrke- och rörlighetsövningar.",
+              "en": ""
+            },
+            "coreElements": [
+              "Rörelse"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "IDH-4-6-5",
+            "text": {
+              "local": "Simning i mag- och ryggläge.",
+              "en": ""
+            },
+            "coreElements": [
+              "Rörelse"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "IDH-4-6-6",
+            "text": {
+              "local": "Att orientera sig i den närliggande natur- och utemiljön med hjälp av kartor, såväl med som utan stöd av digitala verktyg. Kartors uppbyggnad och sym­bo­ler.",
+              "en": ""
+            },
+            "coreElements": [
+              "Friluftsliv och utevistelse"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "IDH-4-6-7",
+            "text": {
+              "local": "Utforskande av möjligheter till och genomförande av friluftsaktiviteter, le­kar och rörelser i skiftande natur- och utemiljöer under olika årstider.",
+              "en": ""
+            },
+            "coreElements": [
+              "Friluftsliv och utevistelse"
+            ],
+            "verbs": [
+              "Föra"
+            ]
+          },
+          {
+            "code": "IDH-4-6-8",
+            "text": {
+              "local": "Rättigheter och skyldigheter i naturen enligt allemansrätten och dess tillämp­ning i praktiken.",
+              "en": ""
+            },
+            "coreElements": [
+              "Friluftsliv och utevistelse"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "IDH-4-6-9",
+            "text": {
+              "local": "Badvett och säkerhet vid vatten under olika årstider. Hantering av nöd­si­tua­tioner vid vatten med hjälpredskap.",
+              "en": ""
+            },
+            "coreElements": [
+              "Friluftsliv och utevistelse"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "IDH-4-6-10",
+            "text": {
+              "local": "Samtal om upplevelser av olika aktiviteter samt värdering av hur de på­ver­kar den fysiska förmågan och hälsan.",
+              "en": ""
+            },
+            "coreElements": [
+              "Hälsa och levnadsvanor"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "IDH-4-6-11",
+            "text": {
+              "local": "Normer kring olika slags aktiviteter. Hur normer påverkar individers del­ta­gande, till exempel normer kring kön och funktionalitet kopplade till oli­ka rörelseaktiviteter.",
+              "en": ""
+            },
+            "coreElements": [
+              "Hälsa och levnadsvanor"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "IDH-4-6-12",
+            "text": {
+              "local": "Undersökande av möjligheter till daglig rörelse i närmiljön.",
+              "en": ""
+            },
+            "coreElements": [
+              "Hälsa och levnadsvanor"
+            ],
+            "verbs": [
+              "Söka",
+              "Undersöka"
+            ]
+          },
+          {
+            "code": "IDH-4-6-13",
+            "text": {
+              "local": "Olika sätt att förebygga skador, däribland uppvärmning.",
+              "en": ""
+            },
+            "coreElements": [
+              "Hälsa och levnadsvanor"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "IDH-4-6-14",
+            "text": {
+              "local": "Säkerhet och hänsynstagande i samband med aktiviteter.",
+              "en": ""
+            },
+            "coreElements": [
+              "Hälsa och levnadsvanor"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "IDH-4-6-15",
+            "text": {
+              "local": "Första hjälpen.",
+              "en": ""
+            },
+            "coreElements": [
+              "Hälsa och levnadsvanor"
+            ],
+            "verbs": []
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "E",
+            "text": {
+              "local": "Betygskriterier för betyget E i slutet av årskurs 6Eleven genomför rörelseaktiviteter som innefattar sammansatta motoriska grundformer i olika fysiska sammanhang och anpassar sina rörelser till viss del till syftet med aktiviteterna. Eleven genomför aktiviteter i natur- och utemiljö på ett i huvudsak fungerande sätt utifrån syftet med aktiviteterna och utifrån olika förhållanden. Eleven värderar på ett enkelt sätt hur aktiviteterna påverkar den egna fysiska förmågan och hälsan. Eleven förebygger på ett i huvudsak fungerande sätt risker i samband med olika aktiviteter. Eleven hanterar nödsituationer på land och vid vatten samt simmar 200 meter i en följd varav 50 meter i ryggläge.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "D",
+            "text": {
+              "local": "Betygskriterier för betyget D i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan C och E.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "C",
+            "text": {
+              "local": "Betygskriterier för betyget C i slutet av årskurs 6Eleven genomför rörelseaktiviteter som innefattar sammansatta motoriska grundformer i olika fysiska sammanhang och anpassar sina rörelser relativt väl till syftet med aktiviteterna. Eleven genomför aktiviteter i natur- och utemiljö på ett fungerande sätt utifrån syftet med aktiviteterna och utifrån olika förhållanden. Eleven värderar på ett utvecklat sätt hur aktiviteterna påverkar den egna fysiska förmågan och hälsan. Eleven förebygger på ett fungerande sätt risker i samband med olika aktiviteter. Eleven hanterar nödsituationer på land och vid vatten samt simmar 200 meter i en följd varav 50 meter i ryggläge.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "B",
+            "text": {
+              "local": "Betygskriterier för betyget B i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan A och C.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "A",
+            "text": {
+              "local": "Betygskriterier för betyget A i slutet av årskurs 6Eleven genomför rörelseaktiviteter som innefattar sammansatta motoriska grundformer i olika fysiska sammanhang och anpassar sina rörelser väl till syftet med aktiviteterna. Eleven genomför aktiviteter i natur- och utemiljö på ett väl fungerande sätt utifrån syftet med aktiviteterna och utifrån olika förhållanden. Eleven värderar på ett välutvecklat sätt hur aktiviteterna påverkar den egna fysiska förmågan och hälsan. Eleven förebygger på ett väl fungerande sätt risker i samband med olika aktiviteter. Eleven hanterar nödsituationer på land och vid vatten samt simmar 200 meter i en följd varav 50 meter i ryggläge.",
+              "en": ""
+            }
+          }
+        ]
+      },
+      {
+        "afterGrade": 9,
+        "label": {
+          "local": "Årskurs 7-9",
+          "en": "Years 7-9"
+        },
+        "competenceGoals": [
+          {
+            "code": "IDH-7-9-1",
+            "text": {
+              "local": "Komplexa rörelser i lekar, spel, idrotter och andra rörelseaktiviteter, inom­hus och utomhus.",
+              "en": ""
+            },
+            "coreElements": [
+              "Rörelse"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "IDH-7-9-2",
+            "text": {
+              "local": "Olika former av dans samt skapande av rörelse- och träningsprogram till mu­sik, takt och rytm.",
+              "en": ""
+            },
+            "coreElements": [
+              "Rörelse"
+            ],
+            "verbs": [
+              "Skapa"
+            ]
+          },
+          {
+            "code": "IDH-7-9-3",
+            "text": {
+              "local": "Träningslära: konditionsträning, koordinationsträning, styrketräning och rör­lighetsträning utifrån olika ändamål och individuella behov.",
+              "en": ""
+            },
+            "coreElements": [
+              "Rörelse"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "IDH-7-9-4",
+            "text": {
+              "local": "Olika verktyg, däribland digitala för att planera, genomföra och värdera rörelse­aktiviteter.",
+              "en": ""
+            },
+            "coreElements": [
+              "Rörelse"
+            ],
+            "verbs": [
+              "Föra",
+              "Planera",
+              "Värdera"
+            ]
+          },
+          {
+            "code": "IDH-7-9-5",
+            "text": {
+              "local": "Olika simsätt i mag- och ryggläge.",
+              "en": ""
+            },
+            "coreElements": [
+              "Rörelse"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "IDH-7-9-6",
+            "text": {
+              "local": "Att orientera sig i okända miljöer med hjälp av kartor och andra hjälpmedel såväl med som utan stöd av digitala verktyg.",
+              "en": ""
+            },
+            "coreElements": [
+              "Friluftsliv och utevistelse"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "IDH-7-9-7",
+            "text": {
+              "local": "Planering och genomförande av friluftsaktiviteter i skilda miljöer under oli­ka årstider.",
+              "en": ""
+            },
+            "coreElements": [
+              "Friluftsliv och utevistelse"
+            ],
+            "verbs": [
+              "Föra"
+            ]
+          },
+          {
+            "code": "IDH-7-9-8",
+            "text": {
+              "local": "Rättigheter och skyldigheter i naturen enligt allemansrätten och dess tillämp­ning i praktiken.",
+              "en": ""
+            },
+            "coreElements": [
+              "Friluftsliv och utevistelse"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "IDH-7-9-9",
+            "text": {
+              "local": "Kulturella traditioner i friluftsliv och utevistelse.",
+              "en": ""
+            },
+            "coreElements": [
+              "Friluftsliv och utevistelse"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "IDH-7-9-10",
+            "text": {
+              "local": "Badvett och säkerhet vid vatten under olika årstider. Hantering av nöd­situa­tioner i och vid vatten med hjälpredskap.",
+              "en": ""
+            },
+            "coreElements": [
+              "Friluftsliv och utevistelse"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "IDH-7-9-11",
+            "text": {
+              "local": "Planering och genomförande av olika aktiviteter utifrån hur de påverkar olika aspekter av fysisk förmåga och olika aspekter av hälsa.",
+              "en": ""
+            },
+            "coreElements": [
+              "Hälsa och levnadsvanor"
+            ],
+            "verbs": [
+              "Föra"
+            ]
+          },
+          {
+            "code": "IDH-7-9-12",
+            "text": {
+              "local": "Kroppsideal och normer inom olika rörelsekulturer. Hur de påverkar individers möjligheter till deltagande i olika aktiviteter.",
+              "en": ""
+            },
+            "coreElements": [
+              "Hälsa och levnadsvanor"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "IDH-7-9-13",
+            "text": {
+              "local": "Undersökande av möjligheter till daglig rörelse i närmiljön.",
+              "en": ""
+            },
+            "coreElements": [
+              "Hälsa och levnadsvanor"
+            ],
+            "verbs": [
+              "Söka",
+              "Undersöka"
+            ]
+          },
+          {
+            "code": "IDH-7-9-14",
+            "text": {
+              "local": "Dopning och lagar och andra bestämmelser som reglerar förbud mot dopning.",
+              "en": ""
+            },
+            "coreElements": [
+              "Hälsa och levnadsvanor"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "IDH-7-9-15",
+            "text": {
+              "local": "Samtal om upplevelser av olika aktiviteter och värdering av hur de påverkar olika aspekter av fysisk förmåga och olika aspekter av hälsa.",
+              "en": ""
+            },
+            "coreElements": [
+              "Hälsa och levnadsvanor"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "IDH-7-9-16",
+            "text": {
+              "local": "Förebyggande av skador genom allsidig träning, anpassning av belastning och tekniker för rörelseutföranden.",
+              "en": ""
+            },
+            "coreElements": [
+              "Hälsa och levnadsvanor"
+            ],
+            "verbs": [
+              "Föra"
+            ]
+          },
+          {
+            "code": "IDH-7-9-17",
+            "text": {
+              "local": "Säkerhet och hänsynstagande i samband med olika aktiviteter.",
+              "en": ""
+            },
+            "coreElements": [
+              "Hälsa och levnadsvanor"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "IDH-7-9-18",
+            "text": {
+              "local": "Första hjälpen och hjärt- och lungräddning.",
+              "en": ""
+            },
+            "coreElements": [
+              "Hälsa och levnadsvanor"
+            ],
+            "verbs": []
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "E",
+            "text": {
+              "local": "Betygskriterier för betyget E i slutet av årskurs 9Eleven genomför rörelseaktiviteter som innefattar komplexa rörelser i olika fysiska sammanhang och anpassar sina rörelser till viss del till syftet med aktiviteterna. Eleven genomför friluftsaktiviteter under skilda årstider på ett i huvudsak fungerande sätt utifrån syftet med aktiviteterna och utifrån olika förhållanden och miljöer. Eleven planerar och genomför rörelse- och friluftsaktiviteter på ett i huvudsak fungerande sätt utifrån hur de påverkar olika aspekter av fysisk förmåga och olika aspekter av hälsa. Eleven värderar på ett enkelt sätt hur olika aktiviteter och andra faktorer påverkar den egna och andras fysiska förmåga och hälsa. Eleven förebygger på ett i huvudsak fungerande sätt risker i samband med olika aktiviteter. Eleven hanterar nödsituationer på land och vid vatten samt simmar 200 meter i en följd varav 50 meter i ryggläge.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "D",
+            "text": {
+              "local": "Betygskriterier för betyget D i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan C och E.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "C",
+            "text": {
+              "local": "Betygskriterier för betyget C i slutet av årskurs 9Eleven genomför rörelseaktiviteter som innefattar komplexa rörelser i olika fysiska sammanhang och anpassar sina rörelser relativt väl till syftet med aktiviteterna. Eleven genomför friluftsaktiviteter under skilda årstider på ett fungerande sätt utifrån syftet med aktiviteterna och utifrån olika förhållanden och miljöer. Eleven planerar och genomför rörelse- och friluftsaktiviteter på ett fungerande sätt utifrån hur de påverkar olika aspekter av fysisk förmåga och olika aspekter av hälsa. Eleven värderar på ett utvecklat sätt hur olika aktiviteter och andra faktorer påverkar den egna och andras fysiska förmåga och hälsa. Eleven förebygger på ett fungerande sätt risker i samband med olika aktiviteter. Eleven hanterar nödsituationer på land och vid vatten samt simmar 200 meter i en följd varav 50 meter i ryggläge.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "B",
+            "text": {
+              "local": "Betygskriterier för betyget B i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan A och C.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "A",
+            "text": {
+              "local": "Betygskriterier för betyget A i slutet av årskurs 9Eleven genomför rörelseaktiviteter som innefattar komplexa rörelser i olika fysiska sammanhang och anpassar sina rörelser väl till syftet med aktiviteterna. Eleven genomför friluftsaktiviteter under skilda årstider på ett väl fungerande sätt utifrån syftet med aktiviteterna och utifrån olika förhållanden och miljöer. Eleven planerar och genomför rörelse- och friluftsaktiviteter på ett väl fungerande sätt utifrån hur de påverkar olika aspekter av fysisk förmåga och olika aspekter av hälsa. Eleven värderar på ett välutvecklat sätt hur olika aktiviteter och andra faktorer påverkar den egna och andras fysiska förmåga och hälsa. Eleven förebygger på ett väl fungerande sätt risker i samband med olika aktiviteter. Eleven hanterar nödsituationer på land och vid vatten samt simmar 200 meter i en följd varav 50 meter i ryggläge.",
+              "en": ""
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

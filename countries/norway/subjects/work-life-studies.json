@@ -1,0 +1,150 @@
+{
+  "country": "norway",
+  "source": {
+    "api": "https://data.udir.no/kl06/v201906/laereplaner-lk20/ARB01-03",
+    "curriculum": "LK20",
+    "license": "NLOD",
+    "lastSynced": "2026-03-02T21:41:21Z"
+  },
+  "subject": {
+    "code": "ARB01-03",
+    "name": {
+      "local": "Læreplan for arbeidslivsfag på ungdomstrinnet",
+      "en": "Læreplan for arbeidslivsfag på ungdomstrinnet"
+    },
+    "coreElements": [
+      {
+        "code": "KE103",
+        "name": {
+          "local": "Praktiske og yrkesrettede arbeidsoppdrag",
+          "en": "Praktiske og yrkesrettede arbeidsoppdrag"
+        },
+        "description": {
+          "local": "I arbeidslivsfag produserer elevene varer og tjenester som det er behov for i samfunnet. De gjør seg erfaringer med reelle og virkelighetsnære arbeidssituasjoner. De bruker interne og eksterne læringsarenaer. De utvikler et begrepsapparat og ferdigheter knyttet til arbeidslivet. Elevene bruker bærekraftige prinsipper der økonomiske, sosiale og miljømessige forhold hører sammen i alle deler av arbeidsprosessen.",
+          "en": "I arbeidslivsfag produserer elevene varer og tjenester som det er behov for i samfunnet. De gjør seg erfaringer med reelle og virkelighetsnære arbeidssituasjoner. De bruker interne og eksterne læringsarenaer. De utvikler et begrepsapparat og ferdigheter knyttet til arbeidslivet. Elevene bruker bærekraftige prinsipper der økonomiske, sosiale og miljømessige forhold hører sammen i alle deler av arbeidsprosessen."
+        }
+      },
+      {
+        "code": "KE104",
+        "name": {
+          "local": "Arbeidsfellesskap og helse, miljø og sikkerhet i arbeidsoppdraget",
+          "en": "Arbeidsfellesskap og helse, miljø og sikkerhet i arbeidsoppdraget"
+        },
+        "description": {
+          "local": "Elevene følger arbeidslivets regler, forskrifter og etiske retningslinjer og gjør en risikovurdering ved behov. De medvirker i beslutningsprosesser både som leder og medarbeider, tar ansvar for egen arbeidsplass, vurderer sin egen og medelevers arbeidsinnsats og jobber på selvstendig grunnlag. Elevene utfordrer tradisjonelle oppfatninger av yrkesliv og likestilling ved å prøve ut arbeidsoppgaver knyttet til ulike yrker.",
+          "en": "Elevene følger arbeidslivets regler, forskrifter og etiske retningslinjer og gjør en risikovurdering ved behov. De medvirker i beslutningsprosesser både som leder og medarbeider, tar ansvar for egen arbeidsplass, vurderer sin egen og medelevers arbeidsinnsats og jobber på selvstendig grunnlag. Elevene utfordrer tradisjonelle oppfatninger av yrkesliv og likestilling ved å prøve ut arbeidsoppgaver knyttet til ulike yrker."
+        }
+      }
+    ],
+    "gradeBands": [
+      {
+        "afterGrade": 10,
+        "label": {
+          "local": "Arbeidslivsfag",
+          "en": "Arbeidslivsfag"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM1170",
+            "text": {
+              "local": "undersøke behov for varer og tjenester på skolen og i lokalsamfunnet",
+              "en": "undersøke behov for varer og tjenester på skolen og i lokalsamfunnet"
+            },
+            "coreElements": [
+              "Praktiske og yrkesrettede arbeidsoppdrag"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1176",
+            "text": {
+              "local": "planlegge praktiske og yrkesrettede arbeidsoppdrag",
+              "en": "planlegge praktiske og yrkesrettede arbeidsoppdrag"
+            },
+            "coreElements": [
+              "Praktiske og yrkesrettede arbeidsoppdrag"
+            ],
+            "verbs": [
+              "Planlegge"
+            ]
+          },
+          {
+            "code": "KM1171",
+            "text": {
+              "local": "produsere og levere varer og tjenester etter kvalitetskrav",
+              "en": "produsere og levere varer og tjenester etter kvalitetskrav"
+            },
+            "coreElements": [
+              "Praktiske og yrkesrettede arbeidsoppdrag"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1174",
+            "text": {
+              "local": "bruke fagbegreper, arbeidsmetoder, verktøy, materialer og teknologi tilpasset arbeidsoppdrag og begrunne valg",
+              "en": "bruke fagbegreper, arbeidsmetoder, verktøy, materialer og teknologi tilpasset arbeidsoppdrag og begrunne valg"
+            },
+            "coreElements": [
+              "Praktiske og yrkesrettede arbeidsoppdrag"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM1169",
+            "text": {
+              "local": "samarbeide, fremme forslag og delta i beslutninger i et arbeidsfellesskap",
+              "en": "samarbeide, fremme forslag og delta i beslutninger i et arbeidsfellesskap"
+            },
+            "coreElements": [
+              "Arbeidsfellesskap og helse, miljø og sikkerhet i arbeidsoppdraget"
+            ],
+            "verbs": [
+              "Samarbeide"
+            ]
+          },
+          {
+            "code": "KM1172",
+            "text": {
+              "local": "ivareta bærekraftige prinsipper i alle deler av arbeidsoppdraget",
+              "en": "ivareta bærekraftige prinsipper i alle deler av arbeidsoppdraget"
+            },
+            "coreElements": [
+              "Praktiske og yrkesrettede arbeidsoppdrag"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM1173",
+            "text": {
+              "local": "beskrive og vurdere risiko, og følge etiske retningslinjer og arbeidslivets regler i arbeidsoppdraget",
+              "en": "beskrive og vurdere risiko, og følge etiske retningslinjer og arbeidslivets regler i arbeidsoppdraget"
+            },
+            "coreElements": [
+              "Arbeidsfellesskap og helse, miljø og sikkerhet i arbeidsoppdraget"
+            ],
+            "verbs": [
+              "Vurdere",
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM1175",
+            "text": {
+              "local": "vurdere sin egen og gruppens arbeidsinnsats, arbeidsprosess og arbeidsoppdragets resultat",
+              "en": "vurdere sin egen og gruppens arbeidsinnsats, arbeidsprosess og arbeidsoppdragets resultat"
+            },
+            "coreElements": [
+              "Arbeidsfellesskap og helse, miljø og sikkerhet i arbeidsoppdraget"
+            ],
+            "verbs": [
+              "Vurdere"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

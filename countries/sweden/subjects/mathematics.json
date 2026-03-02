@@ -1,0 +1,1082 @@
+{
+  "country": "sweden",
+  "source": {
+    "api": "https://api.skolverket.se/syllabus/v1/subjects/GRGRMAT01",
+    "curriculum": "Lgr22",
+    "license": "CC0",
+    "lastSynced": "2026-03-02T21:29:29Z"
+  },
+  "subject": {
+    "code": "GRGRMAT01",
+    "name": {
+      "local": "Matematik",
+      "en": "Mathematics"
+    },
+    "coreElements": [
+      {
+        "code": "",
+        "name": {
+          "local": "förmåga att använda och beskriva matematiska begrepp och samband mellan begrepp,",
+          "en": ""
+        },
+        "description": {
+          "local": "förmåga att använda och beskriva matematiska begrepp och samband mellan begrepp,",
+          "en": ""
+        }
+      },
+      {
+        "code": "",
+        "name": {
+          "local": "förmåga att välja och använda lämpliga matematiska metoder för att göra beräkningar och lösa rutinuppgifter,",
+          "en": ""
+        },
+        "description": {
+          "local": "förmåga att välja och använda lämpliga matematiska metoder för att göra beräkningar och lösa rutinuppgifter,",
+          "en": ""
+        }
+      },
+      {
+        "code": "",
+        "name": {
+          "local": "förmåga att formulera och lösa problem med hjälp av matematik och värdera valda strategier,",
+          "en": ""
+        },
+        "description": {
+          "local": "förmåga att formulera och lösa problem med hjälp av matematik och värdera valda strategier,",
+          "en": ""
+        }
+      },
+      {
+        "code": "",
+        "name": {
+          "local": "förmåga att föra och följa matematiska resonemang, och",
+          "en": ""
+        },
+        "description": {
+          "local": "förmåga att föra och följa matematiska resonemang, och",
+          "en": ""
+        }
+      },
+      {
+        "code": "",
+        "name": {
+          "local": "förmåga att använda matematikens uttrycksformer för att samtala om och redogöra för frågeställningar, beräkningar och slutsatser.",
+          "en": ""
+        },
+        "description": {
+          "local": "förmåga att använda matematikens uttrycksformer för att samtala om och redogöra för frågeställningar, beräkningar och slutsatser.",
+          "en": ""
+        }
+      }
+    ],
+    "gradeBands": [
+      {
+        "afterGrade": 3,
+        "label": {
+          "local": "Årskurs 1-3",
+          "en": "Years 1-3"
+        },
+        "competenceGoals": [
+          {
+            "code": "MA-1-3-1",
+            "text": {
+              "local": "Naturliga tal och deras egenskaper samt hur talen delas upp och an­vän­ds för att ange antal och ordning.",
+              "en": ""
+            },
+            "coreElements": [
+              "Taluppfattning och tals användning"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MA-1-3-2",
+            "text": {
+              "local": "Positionssystemet och hur det används för att beskriva naturliga tal.",
+              "en": ""
+            },
+            "coreElements": [
+              "Taluppfattning och tals användning"
+            ],
+            "verbs": [
+              "Beskriva"
+            ]
+          },
+          {
+            "code": "MA-1-3-3",
+            "text": {
+              "local": "Symboler för tal och symbolernas utveckling i några olika kulturer genom historien.",
+              "en": ""
+            },
+            "coreElements": [
+              "Taluppfattning och tals användning"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MA-1-3-4",
+            "text": {
+              "local": "Tal i bråkform som del av helhet och del av antal samt hur delarna benämns och uttrycks som enkla bråk. Hur enkla bråk förhåller sig till naturliga tal.",
+              "en": ""
+            },
+            "coreElements": [
+              "Taluppfattning och tals användning"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MA-1-3-5",
+            "text": {
+              "local": "Hur naturliga tal och enkla tal i bråkform används i elevnära situa­tio­ner.",
+              "en": ""
+            },
+            "coreElements": [
+              "Taluppfattning och tals användning"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MA-1-3-6",
+            "text": {
+              "local": "De fyra räknesättens egenskaper och samband samt användning i olika situationer.",
+              "en": ""
+            },
+            "coreElements": [
+              "Taluppfattning och tals användning"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MA-1-3-7",
+            "text": {
+              "local": "Metoder för beräkningar med naturliga tal, vid huvudräkning, över­slags­räkning och skriftlig beräkning. Användning av digitala verktyg vid be­räk­ningar.",
+              "en": ""
+            },
+            "coreElements": [
+              "Taluppfattning och tals användning"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MA-1-3-8",
+            "text": {
+              "local": "Rimlighetsbedömning vid uppskattningar och beräkningar.",
+              "en": ""
+            },
+            "coreElements": [
+              "Taluppfattning och tals användning"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MA-1-3-9",
+            "text": {
+              "local": "Matematiska likheter och likhetstecknets betydelse.",
+              "en": ""
+            },
+            "coreElements": [
+              "Algebra"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MA-1-3-10",
+            "text": {
+              "local": "Obekanta tal och hur de kan betecknas med en symbol.",
+              "en": ""
+            },
+            "coreElements": [
+              "Algebra"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MA-1-3-11",
+            "text": {
+              "local": "Enkla mönster i talföljder och enkla geometriska mönster samt hur de konstrueras, beskrivs och uttrycks.",
+              "en": ""
+            },
+            "coreElements": [
+              "Algebra"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MA-1-3-12",
+            "text": {
+              "local": "Entydiga stegvisa instruktioner och hur de konstrueras, beskrivs och följs som grund för programmering. Hur symboler används vid stegvisa in­struk­tioner.",
+              "en": ""
+            },
+            "coreElements": [
+              "Algebra"
+            ],
+            "verbs": [
+              "Visa"
+            ]
+          },
+          {
+            "code": "MA-1-3-13",
+            "text": {
+              "local": "Vanliga lägesord för att beskriva föremåls och objekts läge i rummet.",
+              "en": ""
+            },
+            "coreElements": [
+              "Geometri"
+            ],
+            "verbs": [
+              "Beskriva"
+            ]
+          },
+          {
+            "code": "MA-1-3-14",
+            "text": {
+              "local": "Grundläggande geometriska tvådimensionella objekt samt objekten klot, kon, cylinder och rätblock. Egenskaper hos dessa objekt och deras inbördes relationer. Konstruktion av geometriska objekt.",
+              "en": ""
+            },
+            "coreElements": [
+              "Geometri"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MA-1-3-15",
+            "text": {
+              "local": "Jämförelser och uppskattningar av storheter. Mätning av längd, massa, volym och tid med vanliga nutida och äldre måttenheter.",
+              "en": ""
+            },
+            "coreElements": [
+              "Geometri"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MA-1-3-16",
+            "text": {
+              "local": "Skala vid enkel förminskning och förstoring.",
+              "en": ""
+            },
+            "coreElements": [
+              "Geometri"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MA-1-3-17",
+            "text": {
+              "local": "Symmetri i vardagen och hur symmetri kan konstrueras.",
+              "en": ""
+            },
+            "coreElements": [
+              "Geometri"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MA-1-3-18",
+            "text": {
+              "local": "Slumpmässiga händelser i konkreta situationer.",
+              "en": ""
+            },
+            "coreElements": [
+              "Sannolikhet och statistik"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MA-1-3-19",
+            "text": {
+              "local": "Enkla tabeller och diagram och hur de används för att sortera data och beskriva resultat från undersökningar, såväl med som utan digitala verktyg.",
+              "en": ""
+            },
+            "coreElements": [
+              "Sannolikhet och statistik"
+            ],
+            "verbs": [
+              "Beskriva"
+            ]
+          },
+          {
+            "code": "MA-1-3-20",
+            "text": {
+              "local": "Proportionella samband, däribland dubbelt och hälften.",
+              "en": ""
+            },
+            "coreElements": [
+              "Samband och förändring"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MA-1-3-21",
+            "text": {
+              "local": "Strategier för att lösa matematiska problem i elevnära situationer.",
+              "en": ""
+            },
+            "coreElements": [
+              "Problemlösning"
+            ],
+            "verbs": [
+              "Lösa"
+            ]
+          },
+          {
+            "code": "MA-1-3-22",
+            "text": {
+              "local": "Formulering av matematiska frågeställningar utifrån vardagliga situationer.",
+              "en": ""
+            },
+            "coreElements": [
+              "Problemlösning"
+            ],
+            "verbs": []
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "",
+            "text": {
+              "local": "Kriterier för bedömning av godtagbara kunskaper i slutet av årskurs 3Eleven visar grundläggande kunskaper om matematiska begrepp och använder dem med tillfredsställande säkerhet. Eleven ger även exempel på hur några begrepp relaterar till varandra. Eleven visar grundläggande kunskaper om naturliga tal och beskriver tals inbördes relation samt delar upp tal. Eleven visar grundläggande kunskaper om tal i bråkform och delar upp helheter i delar samt jämför och namnger delarna som enkla bråk. Eleven använder och beskriver geometriska mönster och mönster i talföljder. Dessutom använder eleven grundläggande geometriska begrepp och vanliga lägesord för att beskriva geometriska objekts egenskaper, läge och inbördes relationer. Eleven använder och ger exempel på enkla proportionella samband. Eleven väljer och använder i huvudsak fungerande matematiska metoder för att göra enkla beräkningar med naturliga tal och lösa enkla rutinuppgifter med tillfredsställande säkerhet. Eleven använder huvudräkning för att genomföra beräkningar med de fyra räknesätten. Vid addition och subtraktion väljer och använder eleven skriftliga räknemetoder med tillfredsställande säkerhet. Eleven hanterar enkla matematiska likheter och använder då likhetstecknet på ett fungerande sätt. Eleven avbildar och, utifrån instruktioner, konstruerar enkla geometriska objekt. Eleven gör enkla mätningar, jämförelser och uppskattningar av längder, massor, volymer och tider och använder vanliga måttenheter. Vid olika undersökningar avläser och skapar eleven enkla tabeller och diagram för att sortera och redovisa resultat. Eleven löser enkla problem genom att välja och använda någon strategi med viss anpassning till problemets karaktär. Eleven beskriver tillvägagångssätt och ger enkla omdömen om resultatens rimlighet. Eleven för och följer matematiska resonemang genom att ställa och besvara frågor som i huvudsak hör till ämnet. Eleven beskriver och samtalar om tillvägagångssätt på ett i huvudsak fungerande sätt och använder då konkret material, bilder, symboler och andra matematiska uttrycksformer.",
+              "en": ""
+            }
+          }
+        ]
+      },
+      {
+        "afterGrade": 6,
+        "label": {
+          "local": "Årskurs 4-6",
+          "en": "Years 4-6"
+        },
+        "competenceGoals": [
+          {
+            "code": "MA-4-6-1",
+            "text": {
+              "local": "Rationella tal, däribland negativa tal, och deras egenskaper samt hur talen kan delas upp och användas.",
+              "en": ""
+            },
+            "coreElements": [
+              "Taluppfattning och tals användning"
+            ],
+            "verbs": [
+              "Använda"
+            ]
+          },
+          {
+            "code": "MA-4-6-2",
+            "text": {
+              "local": "Positionssystemet och hur det används för att beskriva hela tal och tal i decimalform.",
+              "en": ""
+            },
+            "coreElements": [
+              "Taluppfattning och tals användning"
+            ],
+            "verbs": [
+              "Beskriva"
+            ]
+          },
+          {
+            "code": "MA-4-6-3",
+            "text": {
+              "local": "Olika talsystem och några talsystem som använts i olika kulturer genom hi­storien.",
+              "en": ""
+            },
+            "coreElements": [
+              "Taluppfattning och tals användning"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MA-4-6-4",
+            "text": {
+              "local": "Tal i procentform och deras samband med tal i bråk- och decimalform.",
+              "en": ""
+            },
+            "coreElements": [
+              "Taluppfattning och tals användning"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MA-4-6-5",
+            "text": {
+              "local": "Hur tal i bråk- och decimalform kan användas i vardagliga situationer.",
+              "en": ""
+            },
+            "coreElements": [
+              "Taluppfattning och tals användning"
+            ],
+            "verbs": [
+              "Använda"
+            ]
+          },
+          {
+            "code": "MA-4-6-6",
+            "text": {
+              "local": "De fyra räknesätten och regler för deras användning vid beräkningar med naturliga tal.",
+              "en": ""
+            },
+            "coreElements": [
+              "Taluppfattning och tals användning"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MA-4-6-7",
+            "text": {
+              "local": "Metoder för beräkningar med naturliga tal och enkla tal i bråk- och deci­malform vid överslagsräkning, huvudräkning och skriftlig beräkning. An­vändning av digitala verktyg vid beräkningar.",
+              "en": ""
+            },
+            "coreElements": [
+              "Taluppfattning och tals användning"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MA-4-6-8",
+            "text": {
+              "local": "Rimlighetsbedömning vid uppskattningar och beräkningar.",
+              "en": ""
+            },
+            "coreElements": [
+              "Taluppfattning och tals användning"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MA-4-6-9",
+            "text": {
+              "local": "Matematiska likheter och hur likhetstecknet används för att teckna enk­la ekvationer.",
+              "en": ""
+            },
+            "coreElements": [
+              "Algebra"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MA-4-6-10",
+            "text": {
+              "local": "Variabler och deras användning i enkla algebraiska uttryck och ekvationer.",
+              "en": ""
+            },
+            "coreElements": [
+              "Algebra"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MA-4-6-11",
+            "text": {
+              "local": "Metoder, däribland algebraiska, för att lösa enkla ekvationer.",
+              "en": ""
+            },
+            "coreElements": [
+              "Algebra"
+            ],
+            "verbs": [
+              "Lösa"
+            ]
+          },
+          {
+            "code": "MA-4-6-12",
+            "text": {
+              "local": "Mönster i talföljder och geometriska mönster samt hur de konstrueras, be­skrivs och uttrycks.",
+              "en": ""
+            },
+            "coreElements": [
+              "Algebra"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MA-4-6-13",
+            "text": {
+              "local": "Programmering i visuella programmeringsmiljöer. Hur algoritmer ska­pas och används vid programmering.",
+              "en": ""
+            },
+            "coreElements": [
+              "Algebra"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MA-4-6-14",
+            "text": {
+              "local": "Grundläggande geometriska två- och tredimensionella objekt samt deras egen­skaper och inbördes relationer. Konstruktion av geometriska objekt, såväl med som utan digitala verktyg.",
+              "en": ""
+            },
+            "coreElements": [
+              "Geometri"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MA-4-6-15",
+            "text": {
+              "local": "Jämförelse, uppskattning och mätning av längd, area, massa, volym, tid och vin­kel med standardiserade måttenheter samt enhetsbyten i samband med detta.",
+              "en": ""
+            },
+            "coreElements": [
+              "Geometri"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MA-4-6-16",
+            "text": {
+              "local": "Metoder för hur omkrets och area hos olika tvådimensionella geometriska fi­gurer kan bestämmas och uppskattas.",
+              "en": ""
+            },
+            "coreElements": [
+              "Geometri"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MA-4-6-17",
+            "text": {
+              "local": "Skala vid förminskning och förstoring samt användning av skala i elevnära situa­tioner.",
+              "en": ""
+            },
+            "coreElements": [
+              "Geometri"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MA-4-6-18",
+            "text": {
+              "local": "Symmetri i planet och hur symmetri kan konstrueras.",
+              "en": ""
+            },
+            "coreElements": [
+              "Geometri"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MA-4-6-19",
+            "text": {
+              "local": "Slumpmässiga händelser, chans och risk med utgångspunkt i ob­ser­va­tio­ner, simuleringar och statistiskt material. Jämförelse av sannolikhet vid oli­ka slumpmässiga försök.",
+              "en": ""
+            },
+            "coreElements": [
+              "Sannolikhet och statistik"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MA-4-6-20",
+            "text": {
+              "local": "Enkel kombinatorik i konkreta situationer.",
+              "en": ""
+            },
+            "coreElements": [
+              "Sannolikhet och statistik"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MA-4-6-21",
+            "text": {
+              "local": "Tabeller och diagram för att beskriva resultat från undersökningar, såväl med som utan digitala verktyg. Tolkning av data i tabeller och diagram.",
+              "en": ""
+            },
+            "coreElements": [
+              "Sannolikhet och statistik"
+            ],
+            "verbs": [
+              "Beskriva"
+            ]
+          },
+          {
+            "code": "MA-4-6-22",
+            "text": {
+              "local": "Lägesmåtten medelvärde, typvärde och median samt hur de används i statistiska undersökningar.",
+              "en": ""
+            },
+            "coreElements": [
+              "Sannolikhet och statistik"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MA-4-6-23",
+            "text": {
+              "local": "Proportionalitet samt hur proportionella samband uttrycks i bråk-, decimal- och procentform.",
+              "en": ""
+            },
+            "coreElements": [
+              "Samband och förändring"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MA-4-6-24",
+            "text": {
+              "local": "Koordinatsystem och gradering av koordinataxlar.",
+              "en": ""
+            },
+            "coreElements": [
+              "Samband och förändring"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MA-4-6-25",
+            "text": {
+              "local": "Grafer för att uttrycka proportionella samband.",
+              "en": ""
+            },
+            "coreElements": [
+              "Samband och förändring"
+            ],
+            "verbs": [
+              "Uttrycka"
+            ]
+          },
+          {
+            "code": "MA-4-6-26",
+            "text": {
+              "local": "Strategier för att lösa matematiska problem i elevnära situationer.",
+              "en": ""
+            },
+            "coreElements": [
+              "Problemlösning"
+            ],
+            "verbs": [
+              "Lösa"
+            ]
+          },
+          {
+            "code": "MA-4-6-27",
+            "text": {
+              "local": "Formulering av matematiska frågeställningar utifrån vardagliga situatio­ner.",
+              "en": ""
+            },
+            "coreElements": [
+              "Problemlösning"
+            ],
+            "verbs": []
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "E",
+            "text": {
+              "local": "Betygskriterier för betyget E i slutet av årskurs 6Eleven visar grundläggande kunskaper om matematiska begrepp samt använder och beskriver begrepp och samband mellan begrepp inom områdena taluppfattning och tals användning, algebra, geometri, sannolikhet och statistik samt samband och förändring med tillfredsställande säkerhet. Eleven väljer och använder i huvudsak fungerande matematiska metoder för att göra beräkningar och lösa rutinuppgifter inom områdena taluppfattning och tals användning, algebra, geometri, sannolikhet och statistik samt samband och förändring med tillfredsställande säkerhet. Eleven löser enkla problem. Eleven bidrar till något förslag på alternativt tillvägagångssätt och värderar resultatens rimlighet. Eleven för och följer matematiska resonemang genom att framföra och bemöta påståenden med enkla matematiska argument. Eleven redogör för och samtalar om tillvägagångssätt på ett i huvudsak fungerande sätt och använder då symboler och andra matematiska uttrycksformer.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "D",
+            "text": {
+              "local": "Betygskriterier för betyget D i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan C och E.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "C",
+            "text": {
+              "local": "Betygskriterier för betyget C i slutet av årskurs 6Eleven visar goda kunskaper om matematiska begrepp samt använder och beskriver begrepp och samband mellan begrepp inom områdena taluppfattning och tals användning, algebra, geometri, sannolikhet och statistik samt samband och förändring med god säkerhet. Eleven väljer och använder ändamålsenliga matematiska metoder för att göra beräkningar och lösa rutinuppgifter inom områdena taluppfattning och tals användning, algebra, geometri, sannolikhet och statistik samt samband och förändring med god säkerhet. Eleven löser relativt komplexa problem. Eleven ger något förslag på alternativt tillvägagångssätt och värderar resultatens rimlighet. Eleven för och följer matematiska resonemang genom att framföra och bemöta påståenden med relativt väl underbyggda matematiska argument. Eleven redogör för och samtalar om tillvägagångssätt på ett ändamålsenligt sätt och använder då symboler och andra matematiska uttrycksformer.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "B",
+            "text": {
+              "local": "Betygskriterier för betyget B i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan A och C.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "A",
+            "text": {
+              "local": "Betygskriterier för betyget A i slutet av årskurs 6Eleven visar mycket goda kunskaper om matematiska begrepp samt använder och beskriver begrepp och samband mellan begrepp inom områdena taluppfattning och tals användning, algebra, geometri, sannolikhet och statistik samt samband och förändring med mycket god säkerhet. Eleven väljer och använder ändamålsenliga och effektiva matematiska metoder för att göra beräkningar och lösa rutinuppgifter inom områdena taluppfattning och tals användning, algebra, geometri, sannolikhet och statistik samt samband och förändring med mycket god säkerhet. Eleven löser komplexa problem. Eleven ger förslag på alternativa tillvägagångssätt och värderar resultatens rimlighet. Eleven för och följer matematiska resonemang genom att framföra och bemöta påståenden med väl underbyggda matematiska argument. Eleven redogör för och samtalar om tillvägagångssätt på ett ändamålsenligt och effektivt sätt och använder då symboler och andra matematiska uttrycksformer.",
+              "en": ""
+            }
+          }
+        ]
+      },
+      {
+        "afterGrade": 9,
+        "label": {
+          "local": "Årskurs 7-9",
+          "en": "Years 7-9"
+        },
+        "competenceGoals": [
+          {
+            "code": "MA-7-9-1",
+            "text": {
+              "local": "Reella tal och deras egenskaper samt talens användning i matematiska situa­tio­ner.",
+              "en": ""
+            },
+            "coreElements": [
+              "Taluppfattning och tals användning"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MA-7-9-2",
+            "text": {
+              "local": "Talsystemets utveckling från naturliga tal till reella tal.",
+              "en": ""
+            },
+            "coreElements": [
+              "Taluppfattning och tals användning"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MA-7-9-3",
+            "text": {
+              "local": "Tal i potensform. Grundpotensform för att uttrycka små och stora tal samt an­vändning av prefix.",
+              "en": ""
+            },
+            "coreElements": [
+              "Taluppfattning och tals användning"
+            ],
+            "verbs": [
+              "Uttrycka"
+            ]
+          },
+          {
+            "code": "MA-7-9-4",
+            "text": {
+              "local": "Matematiska lagar och regler samt deras användning vid beräkningar med tal i bråk-, decimal- och potensform.",
+              "en": ""
+            },
+            "coreElements": [
+              "Taluppfattning och tals användning"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MA-7-9-5",
+            "text": {
+              "local": "Metoder för beräkningar med tal i bråk- och decimalform vid över­slags­räkning, huvudräkning och skriftlig beräkning. Användning av di­gitala verk­tyg vid beräkningar.",
+              "en": ""
+            },
+            "coreElements": [
+              "Taluppfattning och tals användning"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MA-7-9-6",
+            "text": {
+              "local": "Rimlighetsbedömning vid uppskattningar och beräkningar.",
+              "en": ""
+            },
+            "coreElements": [
+              "Taluppfattning och tals användning"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MA-7-9-7",
+            "text": {
+              "local": "Matematiska likheter samt hur likhetstecknet används för att teckna ekvationer och funktioner.",
+              "en": ""
+            },
+            "coreElements": [
+              "Algebra"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MA-7-9-8",
+            "text": {
+              "local": "Variablers användning i algebraiska uttryck, formler, ekvationer och funk­tioner.",
+              "en": ""
+            },
+            "coreElements": [
+              "Algebra"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MA-7-9-9",
+            "text": {
+              "local": "Metoder för att lösa linjära ekvationer och enkla andragradsekvationer.",
+              "en": ""
+            },
+            "coreElements": [
+              "Algebra"
+            ],
+            "verbs": [
+              "Lösa"
+            ]
+          },
+          {
+            "code": "MA-7-9-10",
+            "text": {
+              "local": "Mönster i talföljder och geometriska mönster samt hur de konstrueras, be­sk­rivs och uttrycks generellt.",
+              "en": ""
+            },
+            "coreElements": [
+              "Algebra"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MA-7-9-11",
+            "text": {
+              "local": "Programmering i visuell och textbaserad programmeringsmiljö. Hur algo­rit­mer skapas, testas och förbättras vid programmering.",
+              "en": ""
+            },
+            "coreElements": [
+              "Algebra"
+            ],
+            "verbs": [
+              "Skapa"
+            ]
+          },
+          {
+            "code": "MA-7-9-12",
+            "text": {
+              "local": "Geometriska objekt samt deras egenskaper och inbördes relationer. Kon­struk­tion av geometriska objekt, såväl med som utan digitala verktyg.",
+              "en": ""
+            },
+            "coreElements": [
+              "Geometri"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MA-7-9-13",
+            "text": {
+              "local": "Metoder för beräkning av area, omkrets och volym hos geometriska objekt, samt enhetsbyten i samband med detta.",
+              "en": ""
+            },
+            "coreElements": [
+              "Geometri"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MA-7-9-14",
+            "text": {
+              "local": "Geometriska satser och formler samt argumentation för deras giltighet.",
+              "en": ""
+            },
+            "coreElements": [
+              "Geometri"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MA-7-9-15",
+            "text": {
+              "local": "Skala vid förminskning och förstoring av två- och tredimensionella objekt.",
+              "en": ""
+            },
+            "coreElements": [
+              "Geometri"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MA-7-9-16",
+            "text": {
+              "local": "Likformighet och kongruens.",
+              "en": ""
+            },
+            "coreElements": [
+              "Geometri"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MA-7-9-17",
+            "text": {
+              "local": "Sannolikhet och metoder för att beräkna sannolikhet i olika situationer. Be­döm­ningar av risker och chanser utifrån datorsimuleringar och statistiskt ma­terial.",
+              "en": ""
+            },
+            "coreElements": [
+              "Sannolikhet och statistik"
+            ],
+            "verbs": [
+              "Beräkna"
+            ]
+          },
+          {
+            "code": "MA-7-9-18",
+            "text": {
+              "local": "Kombinatoriska principer och hur de kan användas i olika situationer.",
+              "en": ""
+            },
+            "coreElements": [
+              "Sannolikhet och statistik"
+            ],
+            "verbs": [
+              "Använda"
+            ]
+          },
+          {
+            "code": "MA-7-9-19",
+            "text": {
+              "local": "Tabeller, diagram och grafer samt hur de tolkas och används för att be­skriva resultat av egna och andras undersökningar, såväl med som utan di­gitala verktyg.",
+              "en": ""
+            },
+            "coreElements": [
+              "Sannolikhet och statistik"
+            ],
+            "verbs": [
+              "Tolka"
+            ]
+          },
+          {
+            "code": "MA-7-9-20",
+            "text": {
+              "local": "Lägesmått och spridningsmått samt hur de används för bedömning av re­sultat vid statistiska undersökningar.",
+              "en": ""
+            },
+            "coreElements": [
+              "Sannolikhet och statistik"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MA-7-9-21",
+            "text": {
+              "local": "Proportionalitet och hur det används för att uttrycka skala, lik­for­mig­het och förändring.",
+              "en": ""
+            },
+            "coreElements": [
+              "Samband och förändring"
+            ],
+            "verbs": [
+              "Uttrycka"
+            ]
+          },
+          {
+            "code": "MA-7-9-22",
+            "text": {
+              "local": "Härledda enheter, till exempel km/h och kr/kg.",
+              "en": ""
+            },
+            "coreElements": [
+              "Samband och förändring"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MA-7-9-23",
+            "text": {
+              "local": "Procent och förändringsfaktor för att uttrycka förändring samt beräkningar med procent i vardagliga situationer och inom olika ämnesområden.",
+              "en": ""
+            },
+            "coreElements": [
+              "Samband och förändring"
+            ],
+            "verbs": [
+              "Uttrycka"
+            ]
+          },
+          {
+            "code": "MA-7-9-24",
+            "text": {
+              "local": "Räta linjens ekvation och förändringstakt. Användning av räta lin­jens ekvation för att beskriva samband.",
+              "en": ""
+            },
+            "coreElements": [
+              "Samband och förändring"
+            ],
+            "verbs": [
+              "Beskriva"
+            ]
+          },
+          {
+            "code": "MA-7-9-25",
+            "text": {
+              "local": "Funktioner och hur de används för att beskriva samband och förändring samt undersöka förändringstakt. Hur funk­tio­ner uttrycks i form av grafer, tabeller och funktionsuttryck.",
+              "en": ""
+            },
+            "coreElements": [
+              "Samband och förändring"
+            ],
+            "verbs": [
+              "Beskriva",
+              "Söka",
+              "Undersöka"
+            ]
+          },
+          {
+            "code": "MA-7-9-26",
+            "text": {
+              "local": "Strategier för att lösa matematiska problem i olika situationer och inom oli­ka ämnesområden samt värdering av valda strategier och metoder.",
+              "en": ""
+            },
+            "coreElements": [
+              "Problemlösning"
+            ],
+            "verbs": [
+              "Lösa"
+            ]
+          },
+          {
+            "code": "MA-7-9-27",
+            "text": {
+              "local": "Formulering av matematiska frågeställningar utifrån olika situationer och äm­nesområden.",
+              "en": ""
+            },
+            "coreElements": [
+              "Problemlösning"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MA-7-9-28",
+            "text": {
+              "local": "Enkla matematiska modeller och hur de kan användas i olika situationer.",
+              "en": ""
+            },
+            "coreElements": [
+              "Problemlösning"
+            ],
+            "verbs": [
+              "Använda"
+            ]
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "E",
+            "text": {
+              "local": "Betygskriterier för betyget E i slutet av årskurs 9Eleven visar grundläggande kunskaper om matematiska begrepp samt använder och beskriver begrepp och samband mellan begrepp inom områdena taluppfattning och tals användning, algebra, geometri, sannolikhet och statistik samt samband och förändring med tillfredsställande säkerhet. Eleven väljer och använder i huvudsak fungerande matematiska metoder för att göra beräkningar och lösa rutinuppgifter inom områdena taluppfattning och tals användning, algebra, geometri, sannolikhet och statistik samt samband och förändring med tillfredsställande säkerhet. Eleven löser enkla problem. Eleven bidrar till något förslag på alternativt tillvägagångssätt. I samband med problemlösning bidrar eleven till att formulera enkla matematiska modeller som kan tillämpas i sammanhanget. Eleven värderar strategier och resultatens rimlighet på ett enkelt sätt. Eleven för och följer matematiska resonemang genom att framföra och bemöta påståenden med enkla matematiska argument. Eleven redogör för och samtalar om tillvägagångssätt på ett i huvudsak fungerande sätt och använder då symboler och andra matematiska uttrycksformer.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "D",
+            "text": {
+              "local": "Betygskriterier för betyget D i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan C och E.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "C",
+            "text": {
+              "local": "Betygskriterier för betyget C i slutet av årskurs 9Eleven visar goda kunskaper om matematiska begrepp samt använder och beskriver begrepp och samband mellan begrepp inom områdena taluppfattning och tals användning, algebra, geometri, sannolikhet och statistik samt samband och förändring med god säkerhet. Eleven väljer och använder ändamålsenliga matematiska metoder för att göra beräkningar och lösa rutinuppgifter inom områdena taluppfattning och tals användning, algebra, geometri, sannolikhet och statistik samt samband och förändring med god säkerhet. Eleven löser relativt komplexa problem. Eleven ger något förslag på alternativt tillvägagångssätt. I samband med problemlösning formulerar eleven enkla matematiska modeller som efter någon bearbetning kan tillämpas i sammanhanget. Eleven värderar strategier och resultatens rimlighet på ett utvecklat sätt. Eleven för och följer matematiska resonemang genom att framföra och bemöta påståenden med relativt väl underbyggda matematiska argument. Eleven redogör för och samtalar om tillvägagångssätt på ett ändamålsenligt sätt och använder då symboler och andra matematiska uttrycksformer.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "B",
+            "text": {
+              "local": "Betygskriterier för betyget B i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan A och C.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "A",
+            "text": {
+              "local": "Betygskriterier för betyget A i slutet av årskurs 9Eleven visar mycket goda kunskaper om matematiska begrepp samt använder och beskriver begrepp och samband mellan begrepp inom områdena taluppfattning och tals användning, algebra, geometri, sannolikhet och statistik samt samband och förändring med mycket god säkerhet. Eleven väljer och använder ändamålsenliga och effektiva matematiska metoder för att göra beräkningar och lösa rutinuppgifter inom områdena taluppfattning och tals användning, algebra, geometri, sannolikhet och statistik samt samband och förändring med mycket god säkerhet. Eleven löser komplexa problem. Eleven ger förslag på alternativa tillvägagångssätt. I samband med problemlösning formulerar eleven enkla matematiska modeller som kan tillämpas i sammanhanget. Eleven värderar strategier och resultatens rimlighet på ett välutvecklat sätt. Eleven för och följer matematiska resonemang genom att framföra och bemöta påståenden med väl underbyggda matematiska argument. Eleven redogör för och samtalar om tillvägagångssätt på ett ändamålsenligt och effektivt sätt och använder då symboler och andra matematiska uttrycksformer.",
+              "en": ""
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

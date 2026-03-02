@@ -4,7 +4,7 @@
     "api": "https://data.udir.no/kl06/v201906/laereplaner-lk20/NAT01-04",
     "curriculum": "LK20",
     "license": "NLOD",
-    "lastSynced": "2026-03-02T21:19:56Z"
+    "lastSynced": "2026-03-02T21:38:48Z"
   },
   "subject": {
     "code": "NAT01-04",
@@ -12,7 +12,63 @@
       "local": "Læreplan i naturfag",
       "en": "Curriculum for Natural science"
     },
-    "coreElements": [],
+    "coreElements": [
+      {
+        "code": "KE67",
+        "name": {
+          "local": "Naturvitenskapelige praksiser og tenkemåter",
+          "en": "Natural-science practices and approaches"
+        },
+        "description": {
+          "local": "Elevene skal oppleve naturfag som et praktisk og utforskende fag. Elevene skal gjennom opplevelse, undring, utforsking og erfaring forstå verden omkring seg i et naturvitenskapelig perspektiv. Ved å arbeide praktisk og ved å lage egne modeller for å løse faglige utfordringer, kan elevene utvikle skaperglede, evne til nytenking og forståelse av naturfaglig teori. Naturvitenskapene har et spesielt språk og fagspesifikke måter å tenke på for å forklare fenomener og hendelser. Kjerneelementet beskriver fagets uttrykksformer, metoder og tenkemåter. Arbeid med kjerneelementet naturvitenskapelige praksiser og tenkemåter skal kombineres med arbeid knyttet til de andre kjerneelementene.",
+          "en": "The pupils shall experience natural science as a practical and exploratory subject. Through perceiving, having a sense of wonder, exploring and experiencing the pupils shall understand the world around them in a natural-science perspective. Through practical work and making their own models to solve challenges in this field, the pupils can develop their ability to be inventive and innovative, and develop their understanding of natural-science theory. The natural-science disciplines have specific terminologies and ways of explaining phenomena and events. This core element describes the forms of expression, methods and approaches in the subject. Working with the core element of natural-science practices and approaches shall be combined with work linked to the other core elements."
+        }
+      },
+      {
+        "code": "KE68",
+        "name": {
+          "local": "Teknologi",
+          "en": "Technology"
+        },
+        "description": {
+          "local": "Elevene skal forstå, skape og bruke teknologi, inkludert programmering og modellering, i arbeid med naturfag. Gjennom å bruke og skape teknologi kan elevene kombinere erfaring og faglig kunnskap med å tenke kreativt og nyskapende. Elevene skal forstå teknologiske prinsipper og virkemåter. De skal vurdere hvordan teknologi kan bidra til løsninger, men også skape nye utfordringer. Kunnskap om og kompetanse innenfor teknologi er derfor viktig i et bærekraftsperspektiv. Arbeid med kjerneelementet teknologi skal kombineres med arbeid knyttet til de andre kjerneelementene.",
+          "en": "The pupils shall understand, develop and use technology, including programming and modelling, in their natural-science work. By using and creating technology, the pupils can combine experience and know-how with creative and innovative thinking. The pupils shall understand technological principles and procedures. They shall assess how technology can contribute to solutions, but also create new challenges. Knowledge of and competence in technology are therefore important in a sustainability perspective. Work with the core element technology shall be combined with work linked to the other core elements."
+        }
+      },
+      {
+        "code": "KE69",
+        "name": {
+          "local": "Energi og materie",
+          "en": "Energy and matter"
+        },
+        "description": {
+          "local": "Elevene skal forstå hvordan vi bruker sentrale teorier, lover og modeller for, og begreper om, energi, stoffer og partikler for å forklare vår fysiske verden. Ved å bruke kunnskap om energi og materie skal elevene forstå naturfenomener og se sammenhenger i naturfaget.",
+          "en": "The pupils shall learn to understand how we use key theories, laws and models for, and concepts about, energy, matter and particles to explain our physical world. By using knowledge about energy and matter, the pupils shall understand natural phenomena and see the interconnections in the natural science subject."
+        }
+      },
+      {
+        "code": "KE70",
+        "name": {
+          "local": "Jorda og livet på jorda",
+          "en": "Earth and life on Earth"
+        },
+        "description": {
+          "local": "Elevene skal gjennom naturfaget øke sin forståelse av naturen og miljøet. Elevene skal få en grunnleggende forståelse av hvordan jorda er dannet, og hvordan livet på jorda har utviklet seg. Kunnskap om jorda som system og hvordan menneskene påvirker dette systemet, skal gi elevene grunnlag til å ta bærekraftige valg.",
+          "en": "Through the natural science subject the pupils shall increase their understanding of nature and the environment. The pupils shall acquire a basic understanding of the origins of the earth and how life on Earth has developed. Learning about Earth as a system and how people impact this system, shall give the pupils the foundation for making sustainable decisions."
+        }
+      },
+      {
+        "code": "KE71",
+        "name": {
+          "local": "Kropp og helse",
+          "en": "Body and health"
+        },
+        "description": {
+          "local": "Elevene skal forstå hvordan kroppens store og små systemer virker sammen. De skal også forstå hvordan kroppen utvikler seg, og hvordan fysisk og psykisk helse kan ivaretas. Kunnskap om kroppens systemer og hvordan de påvirker hverandre, skal hjelpe elevene til å ta vare på egen kropp og helse i et livslangt perspektiv.",
+          "en": "The pupils shall understand how the macro and micro systems of the body work together. They shall also understand how the body develops and how physical and mental health can be looked after. Knowledge about the body’s systems and how they affect one another, shall help the pupils to take care of their own bodies and health in a lifelong perspective."
+        }
+      }
+    ],
     "gradeBands": [
       {
         "afterGrade": 2,

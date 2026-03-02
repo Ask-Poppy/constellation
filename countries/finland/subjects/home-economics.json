@@ -1,0 +1,226 @@
+{
+  "country": "finland",
+  "source": {
+    "api": "https://eperusteet.opintopolku.fi/eperusteet-service/api/external/peruste/419550/perusopetus/oppiaineet/502086",
+    "curriculum": "POPS 2014",
+    "license": "Open Government Data (Finland)",
+    "lastSynced": "2026-03-02T21:29:43Z"
+  },
+  "subject": {
+    "code": "KO",
+    "name": {
+      "local": "Kotitalous",
+      "en": "Home Economics"
+    },
+    "coreElements": [
+      {
+        "code": "S1",
+        "name": {
+          "local": "S1 Ruokaosaaminen ja ruokakulttuuri",
+          "en": ""
+        },
+        "description": {
+          "local": "Sisällöt valitaan siten, että ne tukevat ruoanvalmistus- ja leivontataitojen kehittymistä. Aterioiden suunnittelu, toteutus ja erilaiset ruokailutilanteet tähtäävät ruokaan ja syömiseen liittyvien valintojen ja tottumusten pohtimiseen ravitsemussuositusten, ruokaturvallisuuden, ruokaketjun, elintarviketuntemuksen, taloudellisuuden, eettisyyden ja ruokaan liittyvän luotettavan tiedon näkökulmasta. Opetussisältöihin kuuluvat ruoka- ja tapakulttuuri osana identiteettiä sekä kodin juhlia.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S2",
+        "name": {
+          "local": "S2 Asuminen ja yhdessä eläminen",
+          "en": ""
+        },
+        "description": {
+          "local": "Sisällöt valitaan siten, että ne tukevat yhdessä elämisen, asumistaitojen ja asumisen ympäristö- ja kustannustietoisuuden kehittymistä. Puhtaanapito samoin kuin tekstiilien ja materiaalien hoito tarkoituksenmukaisine aineineen, laitteineen, välineineen ja työtapoineen tähtäävät arjessa tarvittavien taitojen kehittymiseen. Sisältöjen avulla perehdytään hyviin tapoihin, tasapuoliseen voimavarojen käyttöön ja vastuunottoon perheessä. Sisällöt johdattavat arvioimaan asumiseen ja kotitalouteen liittyviä palveluita.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S3",
+        "name": {
+          "local": "S3 Kuluttaja- ja talousosaaminen kodissa",
+          "en": ""
+        },
+        "description": {
+          "local": "Sisällöt valitaan siten, että ne ohjaavat oppilaita asioimaan sekä tuntemaan vastuitaan ja oikeuksiaan valintoja ja sopimuksia tekevinä kuluttajina. Sisällöt johdattavat median- ja teknologian käyttöön arjen työvälineenä ja kannustavat pohtimaan vertaisryhmän ja median vaikutusta omiin kulutusvalintoihin. Sisällöt harjaannuttavat vastuulliseen päätöksentekoon ja ajankohtaisen tiedon hankintaan sekä evästävät tunnistamaan kotitalouksien rahankäyttöön liittyviä tilanteita ja ongelmia.",
+          "en": ""
+        }
+      }
+    ],
+    "gradeBands": [
+      {
+        "afterGrade": 9,
+        "label": {
+          "local": "Vuosiluokat 7–9",
+          "en": "Grades 7–9"
+        },
+        "competenceGoals": [
+          {
+            "code": "T1",
+            "text": {
+              "local": "T1 ohjata oppilasta suunnittelemaan, organisoimaan ja arvioimaan työtä ja toimintaa",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T2",
+            "text": {
+              "local": "T2 ohjata oppilasta harjoittelemaan kotitalouden hallinnassa tarvittavia kädentaitoja sekä kannustaa luovuuteen ja estetiikan huomioimiseen",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T3",
+            "text": {
+              "local": "T3 ohjata ja rohkaista oppilasta valitsemaan ja käyttämään hyvinvointia edistävästi ja kestävän kulutuksen mukaisesti materiaaleja, työvälineitä, laitteita sekä tieto- ja viestintäteknologiaa",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S2",
+              "S3"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T4",
+            "text": {
+              "local": "T4 ohjata oppilasta suunnittelemaan ajankäyttöään ja työn etenemistä sekä ylläpitämään järjestystä oppimistehtävien aikana",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T5",
+            "text": {
+              "local": "T5 ohjata ja motivoida oppilasta toimimaan hygieenisesti, turvallisesti ja ergonomisesti sekä ohjata kiinnittämään oppilaan huomiota käytettävissä oleviin voimavaroihin",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S2",
+              "S3"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T6",
+            "text": {
+              "local": "T6 ohjata oppilasta harjoittelemaan kuuntelua ja rakentavaa keskustelua ja argumentointia oppimistehtävien suunnittelussa ja toteuttamisessa",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S2",
+              "S3"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T7",
+            "text": {
+              "local": "T7 aktivoida oppilasta tunnistamaan arjen rakentumista ja kulttuurisesti monimuotoisia toimintaympäristöjä sekä kotitalouksien perinteitä",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S2",
+              "S3"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T8",
+            "text": {
+              "local": "T8 ohjata oppilasta työskentelemään yksin ja ryhmässä sekä sopimaan työtehtävien jakamisesta ja ajankäytöstä",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T9",
+            "text": {
+              "local": "T9 kannustaa oppilasta toimimaan hyvien tapojen mukaisesti vuorovaikutustilanteissa sekä pohtimaan oman käytöksen merkitystä ryhmän ja yhteisön toiminnassa",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S2",
+              "S3"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T10",
+            "text": {
+              "local": "T10 kannustaa oppilasta hankkimaan ja arvioimaan kotitalouteen liittyvää tietoa sekä ohjata käyttämään luotettavaa tietoa valintojen perustana",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S2",
+              "S3"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T11",
+            "text": {
+              "local": "T11 harjaannuttaa oppilasta lukemaan, tulkitsemaan ja arvioimaan toimintaohjeita sekä merkkejä ja symboleja, jotka käsittelevät kotitaloutta ja lähiympäristöä",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T12",
+            "text": {
+              "local": "T12 ohjata oppilasta, ongelmanratkaisuun ja luovuuteen erilaisissa tilanteissa ja ympäristöissä",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S2",
+              "S3"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T13",
+            "text": {
+              "local": "T13 ohjata oppilasta kestävään elämäntapaan kiinnittämällä oppilaan huomiota ympäristö- ja kustannustietoisuuteen osana arjen valintoja",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S2",
+              "S3"
+            ],
+            "verbs": []
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,694 @@
+{
+  "country": "finland",
+  "source": {
+    "api": "https://eperusteet.opintopolku.fi/eperusteet-service/api/external/peruste/419550/perusopetus/oppiaineet/428820",
+    "curriculum": "POPS 2014",
+    "license": "Open Government Data (Finland)",
+    "lastSynced": "2026-03-02T21:29:43Z"
+  },
+  "subject": {
+    "code": "YL",
+    "name": {
+      "local": "Ympäristöoppi",
+      "en": "Environmental Studies"
+    },
+    "coreElements": [
+      {
+        "code": "S1",
+        "name": {
+          "local": "S1 Minä ihmisenä",
+          "en": ""
+        },
+        "description": {
+          "local": "Sisältöjä valitaan siten, että ne liittyvät ihmisen rakenteeseen ja keskeisiin elintoimintoihin sekä ihmisen kasvun ja kehityksen eri vaiheisiin. Sisällöissä kiinnitetään huomiota kehityksen ajankohtaisiin muutoksiin ja niiden yksilöllisen luonteen ymmärtämiseen. Käsitellään ikäkauden mukaisesti seksuaalista kehitystä ja ihmisen lisääntymistä. Harjoitellaan tunnistamaan oman kehon ja mielen viestejä ja tiedostamaan omia ajatuksia, tarpeita, asenteita ja arvoja. Perehdytään terveyden osa-alueisiin ja voimavaroihin, arjen terveystottumuksiin, mielenterveystaitoihin, sairauksien ehkäisyyn ja itsehoitotaitoihin. Lisäksi harjoitellaan tunteiden tunnistamista, ilmaisua ja säätelyä. Tunnistetaan omaa oppimista tukevia asioita.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S2",
+        "name": {
+          "local": "S2 Arjen tilanteissa ja yhteisöissä toimiminen",
+          "en": ""
+        },
+        "description": {
+          "local": "Oppimistehtäviä ja sisältöjä valitaan siten, että ne liittyvät arjen tilanteissa ja yhteisöissä toimimiseen. Harjoitellaan selittämään arjen tilanteita, ilmiöitä ja teknologiaa eri tiedonalojen käsitteillä ja malleilla. Tutkitaan laitteiden toimintaperiaatteita ja erilaisia rakenteita. Harjoitellaan turvallisuuden edistämistä ja turvataitoja esimerkiksi seuraavilla osa-alueilla: liikenne-, palo-, sähköturvallisuus, tapaturmat, myrkytykset, päihteet, kiusaamisen ehkäisy, fyysinen ja henkinen koskemattomuus sekä toiminta ensiapu- ja vaaratilanteissa. Harjoitellaan toimimista erilaisissa yhteisöissä sekä pohditaan erilaisten vuorovaikutustilanteiden ja yhteisöjen merkitystä hyvinvoinnille.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S3",
+        "name": {
+          "local": "S3 Löytöretkelle monimuotoiseen maailmaan",
+          "en": ""
+        },
+        "description": {
+          "local": "Monipuolisten alueellisten esimerkkien ja ajankohtaisten uutisten avulla hahmotetaan Suomen, Pohjoismaiden, Euroopan ja muiden maanosien luonnonympäristöä ja ihmisen toimintaa. Keskeisiä näkökulmia ovat luonnon ja kulttuurien moninaisuuden arvostaminen sekä globaalin ymmärryksen vahvistaminen. Maailmankuvan ja sen alueellisen viitekehyksen rakentamisessa käytetään monipuolisesti karttoja ja muuta geomediaa.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S4",
+        "name": {
+          "local": "S4 Ympäristön tutkiminen",
+          "en": ""
+        },
+        "description": {
+          "local": "Sisällöiksi valitaan omaan elinympäristöön liittyviä tutkimustehtäviä. Elinympäristössä kiinnitetään huomiota elolliseen ja elottomaan luontoon, rakennettuun ja sosiaaliseen ympäristöön sekä ympäristön ilmiöihin, materiaaleihin ja teknologisiin sovelluksiin. Tehtävien avulla harjoitellaan tutkimuksen tekemisen eri vaiheita. Tutkitaan säätä sekä maa- ja kallioperää. Tutkimalla kappaleiden liikkeiden muutoksia tutustutaan voiman käsitteeseen. Tunnistetaan eliöitä ja elinympäristöjä, laaditaan kasvio ohjatusti sekä tutkitaan kokeellisesti kasvien kasvua. Kotiseudun erilaisten ympäristöjen merkitystä havainnoidaan myös hyvinvoinnin näkökulmasta. Tutustutaan ympäristössä toimimisen oikeuksiin ja velvollisuuksiin.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S5",
+        "name": {
+          "local": "S5 Luonnon rakenteet, periaatteet ja kiertokulut",
+          "en": ""
+        },
+        "description": {
+          "local": "Erilaisten materiaalien ja aineiden avulla tarkastellaan olomuotoja ja aineiden ominaisuuksia. Palaminen, yhteyttäminen ja veden kiertokulku muodostavat pohjan aineen muutosten ja aineen säilymisen periaatteen hahmottamiselle. Lämpötilan mittaamisen, lämpöenergiaan perehtymisen ja energialajien muuntumisen avulla tutustutaan energian säilymisen periaatteeseen. Tutkitaan ääni- ja valoilmiöitä. Perehdytään lähiavaruuteen, vuodenaikoihin, päivän ja yön vaihteluun sekä maapallon rakenteeseen. Tutkitaan eliöiden ja niiden elinympäristöjen sekä ihmisen toiminnan vuorovaikutussuhteita. Tutustutaan ravintoketjuihin, eläinten ja kasvien lisääntymiseen, ravinnon tuotantoon ja ruoan reitteihin sekä metsien hyötykäyttöön.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S6",
+        "name": {
+          "local": "S6 Kestävän tulevaisuuden rakentaminen",
+          "en": ""
+        },
+        "description": {
+          "local": "Sisältöjä valittaessa otetaan huomioon luonnon monimuotoisuuden vaaliminen, ilmastonmuutos ja sen hillitseminen, luonnonvarojen kestävä käyttö, terveyden edistäminen, oman kulttuuriperinnön vaaliminen, monikulttuurisessa maailmassa eläminen sekä ihmiskunnan globaali hyvinvointi nyt ja tulevaisuudessa. Pohditaan oman toiminnan vaikutuksia itselle, toisiin ihmisiin, eläinten hyvinvointiin, luontoon ja yhteiskuntaan. Harjoitellaan ympäristövastuullista toimintaa omassa lähiympäristössä sekä toisista huolehtimista. Toteutetaan yhteinen vaikuttamisprojekti, jossa harjoitellaan osallistumista ja vaikuttamista paikallisella tai globaalilla tasolla.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S1",
+        "name": {
+          "local": "S1 Kasvu ja kehitys",
+          "en": ""
+        },
+        "description": {
+          "local": "Sisältöjä valitaan siten, että oppilaalle muodostuu ymmärrys ihmisen kehon osista ja elintoiminnoista sekä elämänkulusta ja oman ikäkauden kasvusta ja kehityksestä pääpiirteissään. Harjoitellaan tunnetaitoja ja mielen hyvinvoinnin edistämistä kuten itsensä ja muiden arvostamista ikäkauden mukaisesti.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S2",
+        "name": {
+          "local": "S2 Kotona ja koulussa toimiminen",
+          "en": ""
+        },
+        "description": {
+          "local": "Oppimistehtäviä ja sisältöjä valitaan siten, että ne liittyvät kotona ja koulussa toimimiseen. Havainnoidaan oppimisympäristöjä turvallisuuden kannalta. Harjoitellaan turvallista toimimista lähiympäristössä ja liikenteessä. Perehdytään turvataitoihin sekä turvallisuusohjeisiin ja niiden perusteluihin. Käytetään ympäristöopin eri tiedonalojen käsitteitä kuvaamaan ilmiöitä ja teknologiaa sekä arjen tilanteita ja toimintaa kuten säänmukaista pukeutumista. Harjoitellaan yhteistyötaitoja ja erilaisissa ryhmissä toimimista. Lisäksi harjoitellaan arjen käyttäytymistapoja erilaisissa tilanteissa, fyysisen koskemattomuuden kunnioittamista, kiusaamisen ehkäisyä, arjen pieniä itsehoitotaitoja ja avun hakemista.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S3",
+        "name": {
+          "local": "S3 Lähiympäristön ja sen muutosten havainnointi",
+          "en": ""
+        },
+        "description": {
+          "local": "Havainnointia ja luonnossa tutkimisen ja toimimisen taitoja harjoitellaan koulun lähellä erilaisissa luonnonympäristöissä ja rakennetuissa ympäristöissä. Tunnistetaan maastossa yleisimpiä eliölajeja ja niiden elinympäristöjä sekä rakennetun ympäristön kohteita. Havainnoidaan luonnon ominaispiirteitä, ilmiöitä ja ominaisuuksia kaikkina vuodenaikoina. Ympäristöä ja sen ilmiöitä kuten säätä kuvataan ympäristöopin eri tiedonalojen käsitteiden avulla. Harjoitellaan pihakartan laatimista tutusta ympäristöstä sekä opitaan ymmärtämään kartan idea.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S4",
+        "name": {
+          "local": "S4 Tutkiminen ja kokeileminen",
+          "en": ""
+        },
+        "description": {
+          "local": "Sisällöksi valitaan luontoon, rakennettuun ympäristöön, arjen ilmiöihin ja teknologiaan sekä ihmiseen ja ihmisen toimintaan liittyviä ongelmanratkaisu- ja tutkimustehtäviä. Tehtävien avulla harjoitellaan tutkimuksen tekemisen eri vaiheita. Arjen pulmiin kokeillaan ja keksitään yhdessä vaihtoehtoja ja ratkaisuja. Havainnoidaan liikettä ja pohditaan syitä liikkeen muutoksiin. Pienimuotoisia kokeiluja ja tutkimuksia tehdään myös lähiympäristössä sekä kasveja kasvattamalla.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S5",
+        "name": {
+          "local": "S5 Elämän perusedellytysten pohtiminen",
+          "en": ""
+        },
+        "description": {
+          "local": "Perehdytään elämän perusedellytyksiin ravinnon, veden, ilman, lämmön ja huolenpidon osalta. Tutustutaan ravinnontuotantoon ja juomaveden alkuperään. Perehdytään arjen terveystottumuksiin ja harjoitellaan niihin liittyviä taitoja. Pohditaan, mitkä asiat tuottavat ihmiselle hyvää mieltä ja iloa. Koulupäivän toimintatapoja kehitetään yhdessä terveyden, hyvinvoinnin ja oppimisen kannalta.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S6",
+        "name": {
+          "local": "S6 Kestävän elämäntavan harjoitteleminen",
+          "en": ""
+        },
+        "description": {
+          "local": "Sisältöjä valitaan monipuolisesti kestävän kehityksen eri osa-alueilta. Omista ja yhteisistä tavaroista huolehtimista harjoitellaan. Omalla toiminnalla vähennetään syntyvää jätettä sekä opitaan kierrättämään tavaroita ja lajittelemaan jätteitä. Tutustutaan omaan kotiseutuun ja sen merkitykseen. Osallistutaan oman lähiympäristön tilan sekä kouluyhteisön hyvinvoinnin edistämiseen. Pohditaan omien tekojen merkitystä itselle, muille ihmisille sekä omalle lähiympäristölle.",
+          "en": ""
+        }
+      }
+    ],
+    "gradeBands": [
+      {
+        "afterGrade": 2,
+        "label": {
+          "local": "Vuosiluokat 1–2",
+          "en": "Grades 1–2"
+        },
+        "competenceGoals": [
+          {
+            "code": "T1",
+            "text": {
+              "local": "T1 tarjota oppilaalle mahdollisuuksia toteuttaa luontaista uteliaisuuttaan ja auttaa oppilasta kokemaan ympäristöopin asiat merkitykselliseksi itselleen",
+              "en": ""
+            },
+            "coreElements": [
+              "S6",
+              "S5",
+              "S1",
+              "S4",
+              "S3",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T2",
+            "text": {
+              "local": "T2 kannustaa oppilasta iloitsemaan ympäristöopin oppimisesta, omasta osaamisesta ja uusista haasteista sekä harjoittelemaan pitkäjänteistä työskentelyä",
+              "en": ""
+            },
+            "coreElements": [
+              "S6",
+              "S5",
+              "S1",
+              "S4",
+              "S3",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T3",
+            "text": {
+              "local": "T3 tukea oppilaan ympäristöherkkyyden kehittymistä ja ohjata oppilasta toimimaan kestävällä tavalla lähiympäristössä ja kouluyhteisössä",
+              "en": ""
+            },
+            "coreElements": [
+              "S6",
+              "S5",
+              "S1",
+              "S4",
+              "S3",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T4",
+            "text": {
+              "local": "T4 ohjata oppilasta tutkimaan ja toimimaan sekä liikkumaan ja retkeilemään lähiympäristössään",
+              "en": ""
+            },
+            "coreElements": [
+              "S6",
+              "S4",
+              "S3",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T5",
+            "text": {
+              "local": "T5 kannustaa oppilasta ihmettelemään ja kyselemään sekä käyttämään yhteisiä pohdintoja pienten tutkimusten ja muun toiminnan lähtökohtana",
+              "en": ""
+            },
+            "coreElements": [
+              "S6",
+              "S5",
+              "S1",
+              "S4",
+              "S3",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T6",
+            "text": {
+              "local": "T6 ohjata oppilasta tekemään havaintoja ja kokeiluja koulussa ja lähiympäristössä eri aisteja ja yksinkertaisia tutkimusvälineitä käyttäen sekä esittelemään tuloksiaan eri tavoin",
+              "en": ""
+            },
+            "coreElements": [
+              "S6",
+              "S5",
+              "S1",
+              "S4",
+              "S3",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T7",
+            "text": {
+              "local": "T7 ohjata oppilasta kuvailemaan, vertailemaan ja luokittelemaan monipuolisesti eliöitä, elinympäristöjä, ilmiöitä, materiaaleja ja tilanteita sekä nimeämään niitä",
+              "en": ""
+            },
+            "coreElements": [
+              "S6",
+              "S5",
+              "S1",
+              "S4",
+              "S3",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T8",
+            "text": {
+              "local": "T8 opastaa oppilasta toimimaan turvallisesti, noudattamaan annettuja ohjeita ja hahmottamaan niiden perusteluita",
+              "en": ""
+            },
+            "coreElements": [
+              "S6",
+              "S5",
+              "S1",
+              "S4",
+              "S3",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T9",
+            "text": {
+              "local": "T9 ohjata oppilasta tutustumaan monipuolisesti arjen teknologiaan sekä innostaa oppilaita kokeilemaan, keksimään, rakentamaan ja luomaan uutta yhdessä toimien",
+              "en": ""
+            },
+            "coreElements": [
+              "S6",
+              "S4",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T10",
+            "text": {
+              "local": "T10 ohjata oppilasta harjoittelemaan ryhmässä toimimisen taitoja ja tunnetaitoja sekä vahvistamaan itsensä ja muiden arvostamista",
+              "en": ""
+            },
+            "coreElements": [
+              "S6",
+              "S5",
+              "S1",
+              "S4",
+              "S3",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T11",
+            "text": {
+              "local": "T11 ohjata oppilasta käyttämään tieto- ja viestintäteknologiaa tiedon hankkimisessa sekä havaintojen taltioimisessa ja esittämisessä",
+              "en": ""
+            },
+            "coreElements": [
+              "S6",
+              "S5",
+              "S1",
+              "S4",
+              "S3",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T12",
+            "text": {
+              "local": "T12 ohjata oppilasta jäsentämään ympäristöä, ihmisten toimintaa ja niihin liittyviä ilmiöitä ympäristöopin eri tiedonalojen käsitteiden avulla",
+              "en": ""
+            },
+            "coreElements": [
+              "S6",
+              "S5",
+              "S1",
+              "S4",
+              "S3",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T13",
+            "text": {
+              "local": "T13 ohjata oppilasta ymmärtämään yksinkertaisia kuvia, malleja ja karttoja ympäristön kuvaajina",
+              "en": ""
+            },
+            "coreElements": [
+              "S6",
+              "S5",
+              "S1",
+              "S4",
+              "S3",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T14",
+            "text": {
+              "local": "T14 rohkaista oppilasta ilmaisemaan itseään ja harjoittelemaan näkemystensä perustelemista",
+              "en": ""
+            },
+            "coreElements": [
+              "S6",
+              "S5",
+              "S1",
+              "S4",
+              "S3",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T15",
+            "text": {
+              "local": "T15 ohjata oppilasta pohtimaan kasvua ja kehitystä, terveyttä ja hyvinvointia tukevia tekijöitä sekä elämän perusedellytyksiä",
+              "en": ""
+            },
+            "coreElements": [
+              "S5",
+              "S1"
+            ],
+            "verbs": []
+          }
+        ]
+      },
+      {
+        "afterGrade": 6,
+        "label": {
+          "local": "Vuosiluokat 3–6",
+          "en": "Grades 3–6"
+        },
+        "competenceGoals": [
+          {
+            "code": "T1",
+            "text": {
+              "local": "T1 synnyttää ja ylläpitää oppilaan kiinnostusta ympäristöön ja ympäristöopin opiskeluun sekä auttaa oppilasta kokemaan kaikki ympäristöopin tiedonalat merkityksellisiksi itselleen",
+              "en": ""
+            },
+            "coreElements": [
+              "S5",
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S6"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T2",
+            "text": {
+              "local": "T2 ohjata ja kannustaa oppilasta asettamaan omia opiskelutavoitteita ja työskentelemään pitkäjänteisesti niiden saavuttamiseksi sekä tunnistamaan omaa ympäristöopin osaamistaan",
+              "en": ""
+            },
+            "coreElements": [
+              "S5",
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S6"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T3",
+            "text": {
+              "local": "T3 tukea oppilaan ympäristötietoisuuden kehittymistä sekä ohjata oppilasta toimimaan ja vaikuttamaan lähiympäristössään ja -yhteisöissään kestävän kehityksen edistämiseksi ja arvostamaan kestävän kehityksen merkitystä itselle ja maailmalle",
+              "en": ""
+            },
+            "coreElements": [
+              "S5",
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S6"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T4",
+            "text": {
+              "local": "T4 rohkaista oppilasta muodostamaan kysymyksiä eri aihepiireistä sekä käyttämään niitä tutkimusten ja muun toiminnan lähtökohtana",
+              "en": ""
+            },
+            "coreElements": [
+              "S5",
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S6"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T5",
+            "text": {
+              "local": "T5 ohjata oppilasta suunnittelemaan ja toteuttamaan pieniä tutkimuksia, tekemään havaintoja ja mittauksia monipuolisissa oppimisympäristöissä eri aisteja ja tutkimus- ja mittausvälineitä käyttäen",
+              "en": ""
+            },
+            "coreElements": [
+              "S5",
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S6"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T6",
+            "text": {
+              "local": "T6 ohjata oppilasta tunnistamaan syy-seuraussuhteita, tekemään johtopäätöksiä tuloksistaan sekä esittämään tuloksiaan ja tutkimuksiaan eri tavoin",
+              "en": ""
+            },
+            "coreElements": [
+              "S5",
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S6"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T7",
+            "text": {
+              "local": "T7 ohjata oppilasta ymmärtämään arjen teknologisten sovellusten käyttöä, merkitystä ja toimintaperiaatteita sekä innostaa oppilaita kokeilemaan, keksimään ja luomaan uutta yhdessä toimien",
+              "en": ""
+            },
+            "coreElements": [
+              "S5",
+              "S3",
+              "S4",
+              "S2",
+              "S6"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T8",
+            "text": {
+              "local": "T8 kannustaa oppilasta edistämään hyvinvointia ja turvallisuutta toiminnassaan ja lähiympäristössään ja ohjata oppilasta toimimaan turvallisesti, tarkoituksenmukaisesti, vastuullisesti ja itseään suojellen",
+              "en": ""
+            },
+            "coreElements": [
+              "S5",
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S6"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T9",
+            "text": {
+              "local": "T9 ohjata oppilasta tutkimaan ja toimimaan sekä liikkumaan ja retkeilemään luonnossa ja rakennetussa ympäristössä",
+              "en": ""
+            },
+            "coreElements": [
+              "S5",
+              "S3",
+              "S4",
+              "S2",
+              "S6"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T10",
+            "text": {
+              "local": "T10 tarjota oppilaalle mahdollisuuksia harjoitella ryhmässä toimimista erilaisissa rooleissa ja vuorovaikutustilanteissa, innostaa oppilasta ilmaisemaan itseään ja kuuntelemaan muita sekä tukea oppilaan valmiuksia tunnistaa, ilmaista ja säädellä tunteitaan.",
+              "en": ""
+            },
+            "coreElements": [
+              "S5",
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S6"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T11",
+            "text": {
+              "local": "T11 ohjata oppilasta käyttämään tieto- ja viestintäteknologiaa tiedon hankinnassa, käsittelyssä ja esittämisessä sekä vuorovaikutuksen välineenä vastuullisesti, turvallisesti ja ergonomisesti",
+              "en": ""
+            },
+            "coreElements": [
+              "S5",
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S6"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T12",
+            "text": {
+              "local": "T12 ohjata oppilasta hahmottamaan ympäristöä, ihmisten toimintaa ja niihin liittyviä ilmiöitä ympäristöopin käsitteiden avulla sekä kehittämään käsiterakenteitaan ennakkokäsityksistä kohti käsitteiden täsmällistä käyttöä",
+              "en": ""
+            },
+            "coreElements": [
+              "S5",
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S6"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T13",
+            "text": {
+              "local": "T13 ohjata oppilasta ymmärtämään, käyttämään ja tekemään erilaisia malleja, joiden avulla voidaan tulkita ja selittää ihmistä, ympäristöä ja niiden ilmiöitä",
+              "en": ""
+            },
+            "coreElements": [
+              "S5",
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S6"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T14",
+            "text": {
+              "local": "T14 ohjata oppilasta hankkimaan luotettavaa tietoa, ilmaisemaan perustellen erilaisia näkemyksiä sekä tulkitsemaan ja arvioimaan kriittisesti tietolähteitä ja näkökulmia",
+              "en": ""
+            },
+            "coreElements": [
+              "S5",
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S6"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T15",
+            "text": {
+              "local": "T15 ohjata oppilasta luonnon tutkimiseen, eliöiden ja elinympäristöjen tunnistamiseen ja ekologiseen ajatteluun sekä ohjata oppilasta ihmisen rakenteen, elintoimintojen ja kehityksen ymmärtämiseen",
+              "en": ""
+            },
+            "coreElements": [
+              "S5",
+              "S3",
+              "S4",
+              "S1",
+              "S6"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T16",
+            "text": {
+              "local": "T16 ohjata oppilasta maantieteelliseen ajatteluun, hahmottamaan omaa ympäristöä ja koko maailmaa sekä harjaannuttamaan kartankäyttö- ja muita geomediataitoja",
+              "en": ""
+            },
+            "coreElements": [
+              "S5",
+              "S3",
+              "S4",
+              "S6"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T17",
+            "text": {
+              "local": "T17 ohjata oppilasta tutkimaan, kuvaamaan ja selittämään fysikaalisia ilmiöitä arjessa, luonnossa ja teknologiassa sekä rakentamaan perustaa energian säilymisen periaatteen ymmärtämiselle",
+              "en": ""
+            },
+            "coreElements": [
+              "S5",
+              "S4",
+              "S2",
+              "S6"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T18",
+            "text": {
+              "local": "T18 ohjata oppilasta tutkimaan, kuvaamaan ja selittämään kemiallisia ilmiöitä, aineiden ominaisuuksia ja muutoksia sekä rakentamaan perustaa aineen säilymisen periaatteen ymmärtämiselle",
+              "en": ""
+            },
+            "coreElements": [
+              "S5",
+              "S4",
+              "S2",
+              "S6"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T19",
+            "text": {
+              "local": "T19 ohjata oppilasta ymmärtämään terveyden osa-alueita, arjen terveystottumusten merkitystä sekä elämänkulkua, lapsuuden ja nuoruuden yksilöllistä kasvua ja kehitystä sekä rohkaista oppilasta harjoittelemaan ja soveltamaan terveysosaamistaan arjessa",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S1",
+              "S2",
+              "S6"
+            ],
+            "verbs": []
+          }
+        ]
+      }
+    ]
+  }
+}

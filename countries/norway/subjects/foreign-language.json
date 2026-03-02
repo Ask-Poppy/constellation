@@ -1,0 +1,331 @@
+{
+  "country": "norway",
+  "source": {
+    "api": "https://data.udir.no/kl06/v201906/laereplaner-lk20/FSP01-04",
+    "curriculum": "LK20",
+    "license": "NLOD",
+    "lastSynced": "2026-03-02T21:41:13Z"
+  },
+  "subject": {
+    "code": "FSP01-04",
+    "name": {
+      "local": "Læreplan i fremmedspråk",
+      "en": "Curriculum for Foreign Languages"
+    },
+    "coreElements": [
+      {
+        "code": "KE1665",
+        "name": {
+          "local": "Kommunikasjon",
+          "en": "Communication"
+        },
+        "description": {
+          "local": "Kommunikasjon er selve hovedkjernen i faget. Å lære fremmedspråk handler om å forstå og bli forstått. Elevene skal utvikle kunnskaper og ferdigheter for å kommunisere hensiktsmessig både muntlig og skriftlig. Språket skal tas i bruk fra første stund både uten og med bruk av ulike medier og verktøy.",
+          "en": "Communication is the core element of the subject. Learning a foreign language means understanding and being understood. The pupils shall develop knowledge and skills to communicate in a well-reasoned way both orally and in writing. The language shall be practised from the very beginning, both with and without the use of various media and tools."
+        }
+      },
+      {
+        "code": "KE1666",
+        "name": {
+          "local": "Interkulturell kompetanse",
+          "en": "Intercultural competence"
+        },
+        "description": {
+          "local": "Kunnskap om og en utforskende tilnærming til andre språk, kulturer, levesett og tenkemåter åpner for nye perspektiver på verden og oss selv. Interkulturell kompetanse innebærer å utvikle nysgjerrighet på, innsikt i og forståelse av kulturelt og språklig mangfold, både lokalt og globalt, for å samhandle med andre.",
+          "en": "Knowledge about and an explorative approach to other languages, cultures, ways of life and ways of thinking open for new perspectives on the world and ourselves. Intercultural competence means developing curiosity about, insight into and understanding of cultural and linguistic diversity, both locally and globally, to interact with others."
+        }
+      },
+      {
+        "code": "KE1667",
+        "name": {
+          "local": "Språklæring og flerspråklighet",
+          "en": "Language learning and multilingualism"
+        },
+        "description": {
+          "local": "Kunnskap om språk og utforsking av egen språklæring gjør elevene bedre i stand til å lære og forstå språk i et livslangt perspektiv. I møte med faget fremmedspråk er elevene allerede flerspråklige og har omfattende språklæringserfaring fra ulike kontekster. Ved at elevene overfører språkkunnskaper og språklæringserfaringer fra andre språk de kan og kjenner til, blir læringen mer effektiv og meningsfull.",
+          "en": "Having knowledge about language and exploring one’s own language learning improves the ability of the pupils to learn and understand language in a lifelong perspective. In the encounter with the foreign-languages subject, the pupils are already multilingual and have extensive language-learning experiences from various contexts. By transferring their linguistic knowledge and language learning experiences from other languages they know and are familiar with, learning becomes more effective and meaningful."
+        }
+      },
+      {
+        "code": "KE1668",
+        "name": {
+          "local": "Språk og teknologi",
+          "en": "Language and technology"
+        },
+        "description": {
+          "local": "Å utforske og utnytte faglig relevant språkteknologi og nye medier gir utvidede muligheter for kreativ og kritisk læring, bruk og forståelse av språk, kommunikasjon og interkulturell kompetanse.",
+          "en": "Exploring and utilising subject-relevant language technology and new media provides additional opportunities for creative and critical learning, use and understanding of language, communication and intercultural competence."
+        }
+      }
+    ],
+    "gradeBands": [
+      {
+        "afterGrade": 13,
+        "label": {
+          "local": "Kompetansemål og vurdering nivå I",
+          "en": "Competence aims and assessment level I"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM12609",
+            "text": {
+              "local": "lytte til og forstå enkel og tydelig tale om personlige og dagligdagse emner",
+              "en": "listen to and understand simple and clear speech about personal and everyday topics"
+            },
+            "coreElements": [
+              "Kommunikasjon",
+              "Språk og teknologi"
+            ],
+            "verbs": [
+              "Forstå"
+            ]
+          },
+          {
+            "code": "KM12610",
+            "text": {
+              "local": "delta i enkle samtaler i dagligdagse situasjoner om aktiviteter og kjente emner",
+              "en": "participate in simple conversations in everyday situations about activities and familiar topics"
+            },
+            "coreElements": [
+              "Kommunikasjon",
+              "Språk og teknologi"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM12611",
+            "text": {
+              "local": "muntlig fortelle om dagligliv og opplevelser og uttrykke meninger, også spontant",
+              "en": "talk about daily life and experiences and express opinions, also spontaneously"
+            },
+            "coreElements": [
+              "Kommunikasjon",
+              "Språk og teknologi"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM12612",
+            "text": {
+              "local": "lese og forstå tilpassede og enklere autentiske tekster om personlige og dagligdagse emner",
+              "en": "read and understand adapted and simple authentic texts about personal and everyday topics"
+            },
+            "coreElements": [
+              "Kommunikasjon",
+              "Språk og teknologi"
+            ],
+            "verbs": [
+              "Forstå"
+            ]
+          },
+          {
+            "code": "KM12613",
+            "text": {
+              "local": "skrive enkle tekster om dagligliv og opplevelser som forteller, beskriver og informerer, med og uten hjelpemidler",
+              "en": "write simple texts about daily life and experiences that tell, describe and inform, with and without aids"
+            },
+            "coreElements": [
+              "Kommunikasjon",
+              "Språk og teknologi"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM12614",
+            "text": {
+              "local": "bruke enkle språklige strukturer, regler for uttale og rettskriving og språkets offisielle alfabet eller tegn for å kommunisere på en situasjonstilpasset måte",
+              "en": "use simple language structures, rules for pronunciation and spelling and the official alphabet or characters of the language to communicate in a way that is adapted to the situation"
+            },
+            "coreElements": [
+              "Kommunikasjon",
+              "Språklæring og flerspråklighet"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM12615",
+            "text": {
+              "local": "bruke relevante lærings- og kommunikasjonsstrategier, digitale ressurser og erfaringer fra tidligere språklæring i læringsprosessen",
+              "en": "use relevant learning and communication strategies, digital resources and experiences from earlier language learning in the learning process"
+            },
+            "coreElements": [
+              "Språklæring og flerspråklighet",
+              "Språk og teknologi"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM12616",
+            "text": {
+              "local": "utforske og beskrive levemåter, tradisjoner og geografi i områder der språket snakkes, og se sammenhenger med egen bakgrunn",
+              "en": "explore and describe ways of life, traditions and geography in areas where the language is spoken and identify connections to one’s own background"
+            },
+            "coreElements": [
+              "Kommunikasjon",
+              "Interkulturell kompetanse",
+              "Språk og teknologi"
+            ],
+            "verbs": [
+              "Utforske",
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM12617",
+            "text": {
+              "local": "utforske og beskrive kunstneriske og kulturelle uttrykk fra områder der språket snakkes, og gi uttrykk for egne opplevelser",
+              "en": "explore and describe artistic and cultural expressions from areas where the language is spoken and express one’s own experiences"
+            },
+            "coreElements": [
+              "Kommunikasjon",
+              "Interkulturell kompetanse",
+              "Språk og teknologi"
+            ],
+            "verbs": [
+              "Utforske",
+              "Beskrive"
+            ]
+          }
+        ]
+      },
+      {
+        "afterGrade": 13,
+        "label": {
+          "local": "Kompetansemål og vurdering nivå II",
+          "en": "Competence aims and assessment level II"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM12618",
+            "text": {
+              "local": "lytte til og forstå tydelig tale om personlige og faglig relevante emner og aktuelle saker",
+              "en": "listen to and understand clear speech about personal and subject-related topics and current affairs"
+            },
+            "coreElements": [
+              "Kommunikasjon",
+              "Språk og teknologi"
+            ],
+            "verbs": [
+              "Forstå"
+            ]
+          },
+          {
+            "code": "KM12619",
+            "text": {
+              "local": "samtale i en rekke dagligdagse situasjoner om kjente og faglig relevante emner",
+              "en": "take part in conversations in a number of everyday situations about familiar and subject-relevant topics"
+            },
+            "coreElements": [
+              "Kommunikasjon",
+              "Språk og teknologi"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM12620",
+            "text": {
+              "local": "muntlig forklare faglig relevante emner, skildre opplevelser, hendelser og planer, og begrunne meninger, også spontant",
+              "en": "orally explain subject-relevant topics, describe experiences, events and plans and give reasons for opinions, also spontaneously"
+            },
+            "coreElements": [
+              "Kommunikasjon",
+              "Språk og teknologi"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM12621",
+            "text": {
+              "local": "lese og forstå ulike typer tekster, også autentiske, om personlige og faglig relevante emner og aktuelle saker",
+              "en": "read and understand different types of texts, including authentic ones, about personal and subject-relevant topics and current affairs"
+            },
+            "coreElements": [
+              "Kommunikasjon",
+              "Språk og teknologi"
+            ],
+            "verbs": [
+              "Forstå"
+            ]
+          },
+          {
+            "code": "KM12622",
+            "text": {
+              "local": "skrive ulike teksttyper om personlige og faglig relevante emner, og uttrykke og begrunne egne meninger, med og uten hjelpemidler",
+              "en": "write different types of texts about personal and subject-relevant topics and express and justify one’s own opinions, with or without technical aids"
+            },
+            "coreElements": [
+              "Kommunikasjon",
+              "Språk og teknologi"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KM12623",
+            "text": {
+              "local": "bruke grunnleggende språklige strukturer, regler for uttale og rettskriving og språkets offisielle alfabet eller tegn for å kommunisere på en situasjonstilpasset måte",
+              "en": "use basic language structures, rules for pronunciation and spelling and the official alphabet or characters of the language to communicate in a way that is adapted to the situation"
+            },
+            "coreElements": [
+              "Kommunikasjon",
+              "Språklæring og flerspråklighet"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM12626",
+            "text": {
+              "local": "bruke relevante lærings- og kommunikasjonsstrategier, digitale ressurser og erfaringer fra tidligere språklæring i læringsprosessen",
+              "en": "use relevant learning and communication strategies, digital resources and experiences from previous language learning in the learning process"
+            },
+            "coreElements": [
+              "Språklæring og flerspråklighet",
+              "Språk og teknologi"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM12624",
+            "text": {
+              "local": "utforske og gjøre rede for mangfold, samfunnsforhold og historiske hendelser i områder der språket snakkes, og se sammenhenger med egen bakgrunn",
+              "en": "explore and explain diversity, social conditions and historical events in areas where the language is spoken and identify connections to one’s own background"
+            },
+            "coreElements": [
+              "Kommunikasjon",
+              "Interkulturell kompetanse",
+              "Språk og teknologi"
+            ],
+            "verbs": [
+              "Utforske",
+              "Gjøre rede for"
+            ]
+          },
+          {
+            "code": "KM12625",
+            "text": {
+              "local": "utforske og presentere kunstneriske og kulturelle uttrykk fra områder der språket snakkes, og gjøre rede for egne opplevelser",
+              "en": "explore and present artistic and cultural expressions from areas where the language is spoken and explain one’s own experiences"
+            },
+            "coreElements": [
+              "Kommunikasjon",
+              "Interkulturell kompetanse",
+              "Språk og teknologi"
+            ],
+            "verbs": [
+              "Utforske",
+              "Gjøre rede for",
+              "Presentere"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

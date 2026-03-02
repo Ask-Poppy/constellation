@@ -1,0 +1,1170 @@
+{
+  "country": "sweden",
+  "source": {
+    "api": "https://api.skolverket.se/syllabus/v1/subjects/GRGRSVA01",
+    "curriculum": "Lgr22",
+    "license": "CC0",
+    "lastSynced": "2026-03-02T21:29:37Z"
+  },
+  "subject": {
+    "code": "GRGRSVA01",
+    "name": {
+      "local": "Svenska som andraspråk",
+      "en": "Swedish as a Second Language"
+    },
+    "coreElements": [
+      {
+        "code": "",
+        "name": {
+          "local": "förmåga att formulera sig och kommunicera i tal och skrift, urskilja språk­li­ga strukturer och följa språkliga normer,",
+          "en": ""
+        },
+        "description": {
+          "local": "förmåga att formulera sig och kommunicera i tal och skrift, urskilja språk­li­ga strukturer och följa språkliga normer,",
+          "en": ""
+        }
+      },
+      {
+        "code": "",
+        "name": {
+          "local": "förmåga att anpassa språket efter olika syften, mottagare och sammanhang,",
+          "en": ""
+        },
+        "description": {
+          "local": "förmåga att anpassa språket efter olika syften, mottagare och sammanhang,",
+          "en": ""
+        }
+      },
+      {
+        "code": "",
+        "name": {
+          "local": "förmåga att läsa och analysera skönlitteratur och andra texter för olika syf­ten, och",
+          "en": ""
+        },
+        "description": {
+          "local": "förmåga att läsa och analysera skönlitteratur och andra texter för olika syf­ten, och",
+          "en": ""
+        }
+      },
+      {
+        "code": "",
+        "name": {
+          "local": "förmåga att söka information från olika källor och värdera dessa.",
+          "en": ""
+        },
+        "description": {
+          "local": "förmåga att söka information från olika källor och värdera dessa.",
+          "en": ""
+        }
+      }
+    ],
+    "gradeBands": [
+      {
+        "afterGrade": 3,
+        "label": {
+          "local": "Årskurs 1-3",
+          "en": "Years 1-3"
+        },
+        "competenceGoals": [
+          {
+            "code": "SVA-1-3-1",
+            "text": {
+              "local": "Gemensam och enskild läsning. Läsrelaterade aktiviteter och strategier för att förstå, avkoda och tolka ord, begrepp och texter.",
+              "en": ""
+            },
+            "coreElements": [
+              "Läsa och skriva"
+            ],
+            "verbs": [
+              "Förstå",
+              "Tolka"
+            ]
+          },
+          {
+            "code": "SVA-1-3-2",
+            "text": {
+              "local": "Läsriktning och sambandet mellan ljud och bokstav i jämförelse med andra språk eleven kan.",
+              "en": ""
+            },
+            "coreElements": [
+              "Läsa och skriva"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "SVA-1-3-3",
+            "text": {
+              "local": "Att återge delar av innehållet i olika texter samt resonera om budskap i tex­­terna och jämföra med egna erfarenheter.",
+              "en": ""
+            },
+            "coreElements": [
+              "Läsa och skriva"
+            ],
+            "verbs": [
+              "Föra",
+              "Jämföra",
+              "Resonera"
+            ]
+          },
+          {
+            "code": "SVA-1-3-4",
+            "text": {
+              "local": "Gemensamt och enskilt skrivande. Strategier för att skriva ord, meningar och olika typer av texter med anpassning till deras uppbyggnad och språk­liga drag. Skapande av texter där ord och bild samspelar, såväl med som utan digitala verktyg.",
+              "en": ""
+            },
+            "coreElements": [
+              "Läsa och skriva"
+            ],
+            "verbs": [
+              "Skapa"
+            ]
+          },
+          {
+            "code": "SVA-1-3-5",
+            "text": {
+              "local": "Grundläggande textbearbetning.",
+              "en": ""
+            },
+            "coreElements": [
+              "Läsa och skriva"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "SVA-1-3-6",
+            "text": {
+              "local": "Handstil och att skriva med digitala verktyg.",
+              "en": ""
+            },
+            "coreElements": [
+              "Läsa och skriva"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "SVA-1-3-7",
+            "text": {
+              "local": "Språkliga strukturer och normer. Ords böjningsformer och menings­bygg­nad med sambandsord, i jämförelse med andra språk eleven kan. Grund­läggan­de skrivregler, med gemener och versaler, de vanligaste skilje­teck­nen samt stavning av vanligt förekommande ord i elevnära och för eleven kän­da texter.",
+              "en": ""
+            },
+            "coreElements": [
+              "Läsa och skriva"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "SVA-1-3-8",
+            "text": {
+              "local": "Alfabetet och alfabetisk ordning.",
+              "en": ""
+            },
+            "coreElements": [
+              "Läsa och skriva"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "SVA-1-3-9",
+            "text": {
+              "local": "Strategier för att lyssna, förstå och muntligt göra sig förstådd i situationer när det egna svenska språket inte räcker till, exempelvis att be om för­tyd­ligan­den, förklara och använda olika språk som resurs.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala, lyssna och samtala"
+            ],
+            "verbs": [
+              "Använda",
+              "Förklara",
+              "Förstå"
+            ]
+          },
+          {
+            "code": "SVA-1-3-10",
+            "text": {
+              "local": "Strukturerade samtal. Att berätta om vardagliga händelser samt att uttrycka käns­lor, kunskaper och åsikter. Att lyssna, ställa frågor och ge kommen­ta­rer. Fraser och uttryck samt ords värdeladdning.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala, lyssna och samtala"
+            ],
+            "verbs": [
+              "Uttrycka"
+            ]
+          },
+          {
+            "code": "SVA-1-3-11",
+            "text": {
+              "local": "Att lyssna aktivt och återberätta viktiga delar av ett innehåll.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala, lyssna och samtala"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "SVA-1-3-12",
+            "text": {
+              "local": "Att ge och ta emot muntliga instruktioner.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala, lyssna och samtala"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "SVA-1-3-13",
+            "text": {
+              "local": "Muntliga presentationer och muntligt berättande. Föremål, bilder, digitala medier och verktyg samt andra hjälpmedel som kan stödja presentationer.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala, lyssna och samtala"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "SVA-1-3-14",
+            "text": {
+              "local": "Uttal, betoning och satsmelodi samt uttalets betydelse för att göra sig för­stådd. Svenska språkets uttal i jämförelse med andra språk eleven kan.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala, lyssna och samtala"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "SVA-1-3-15",
+            "text": {
+              "local": "Skönlitteratur för barn från olika tider och skilda delar av världen. Sånger, munt­ligt berättande, bilderböcker, kapitelböcker, lyrik, dramatik, sagor och my­ter. Texter som belyser människors upplevelser och erfarenheter.",
+              "en": ""
+            },
+            "coreElements": [
+              "Texter"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "SVA-1-3-16",
+            "text": {
+              "local": "Berättande texters budskap, uppbyggnad och innehåll. Hur en berättande text kan organiseras med inledning, händelseförlopp och avslutning samt ut­byggnad med enkla miljö- och personbeskrivningar. Texternas ord och uttryck.",
+              "en": ""
+            },
+            "coreElements": [
+              "Texter"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "SVA-1-3-17",
+            "text": {
+              "local": "Några skönlitterärt betydelsefulla barnboksförfattare och illustratörer.",
+              "en": ""
+            },
+            "coreElements": [
+              "Texter"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "SVA-1-3-18",
+            "text": {
+              "local": "Sakprosatexter för barn. Beskrivande, förklarande och instruerande texter och hur deras innehåll kan organiseras.",
+              "en": ""
+            },
+            "coreElements": [
+              "Texter"
+            ],
+            "verbs": [
+              "Beskriva",
+              "Förklara"
+            ]
+          },
+          {
+            "code": "SVA-1-3-19",
+            "text": {
+              "local": "Muntliga texter, till exempel radioprogram för barn och inlästa texter.",
+              "en": ""
+            },
+            "coreElements": [
+              "Texter"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "SVA-1-3-20",
+            "text": {
+              "local": "Texter som kombinerar ord och bild samt texter i digitala miljöer för barn.",
+              "en": ""
+            },
+            "coreElements": [
+              "Texter"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "SVA-1-3-21",
+            "text": {
+              "local": "Språkliga strategier för att minnas och lära, till exempel grafiska modeller.",
+              "en": ""
+            },
+            "coreElements": [
+              "Språkbruk"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "SVA-1-3-22",
+            "text": {
+              "local": "Ord och begrepp för att på ett varierat sätt uttrycka känslor, kunskaper och åsik­ter.",
+              "en": ""
+            },
+            "coreElements": [
+              "Språkbruk"
+            ],
+            "verbs": [
+              "Uttrycka"
+            ]
+          },
+          {
+            "code": "SVA-1-3-23",
+            "text": {
+              "local": "Hur ord och yttranden uppfattas av omgivningen beroende på tonfall, kropps­språk och ords nyanser. Språkbruk samt möjligheter och risker vid egen kommunikation i digitala medier.",
+              "en": ""
+            },
+            "coreElements": [
+              "Språkbruk"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "SVA-1-3-24",
+            "text": {
+              "local": "Ord och begrepp för att benämna elevnära händelser och föremål i elevens var­dag. Vardagliga ords betydelseomfång och kategorisering i jämförelse med andra språk eleven kan, till exempel att flera ord på ett språk motsvaras av ett ord på ett annat språk.",
+              "en": ""
+            },
+            "coreElements": [
+              "Språkbruk"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "SVA-1-3-25",
+            "text": {
+              "local": "Ordspråk och talesätt i jämförelse med andra språk eleven kan.",
+              "en": ""
+            },
+            "coreElements": [
+              "Språkbruk"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "SVA-1-3-26",
+            "text": {
+              "local": "Skillnader mellan tal- och skriftspråk.",
+              "en": ""
+            },
+            "coreElements": [
+              "Språkbruk"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "SVA-1-3-27",
+            "text": {
+              "local": "Informationssökning i böcker, tidskrifter och på webbplatser för barn samt i söktjänster på internet.",
+              "en": ""
+            },
+            "coreElements": [
+              "Informationssökning och källkritik"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "SVA-1-3-28",
+            "text": {
+              "local": "Hur texters avsändare påverkar innehållet.",
+              "en": ""
+            },
+            "coreElements": [
+              "Informationssökning och källkritik"
+            ],
+            "verbs": []
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "",
+            "text": {
+              "local": "Kriterier för bedömning av godtagbara kunskaper i slutet av årskurs 3Eleven visar ett grundläggande ordförråd i samtal om elevnära frågor och ämnen. I samtalen ställer eleven frågor, ger kommentarer och framför egna åsikter. När eleven berättar om vardagliga händelser beskriver eleven dem så att det huvudsakliga innehållet framgår. Dessutom ger och tar eleven enkla muntliga instruktioner. Eleven uppmärksammar när språkliga missförstånd uppstår och ber då om förtydliganden. Eleven skriver enkla texter med läslig handstil och med digitala verktyg. I texterna använder eleven stor bokstav, punkt och frågetecken samt kan stava ord som eleven själv ofta använder och som är vanligt förekommande i elevnära texter. De berättande texter eleven skriver har en enkel röd tråd och i huvudsak fungerande handling. Eleven läser bekanta och elevnära texter med flyt genom att använda lässtrategier på ett i huvudsak fungerande sätt. Eleven kommenterar och återger delar av innehållet och visar grundläggande läsförståelse. Eleven för också enkla resonemang om tydligt framträdande budskap i texterna. Eleven söker information ur någon anvisad källa och återger grundläggande delar av informationen i enkla faktatexter. Texterna innehåller egna formuleringar och grundläggande ämnesspecifika ord och begrepp som används så att innehållet blir begripligt.",
+              "en": ""
+            }
+          }
+        ]
+      },
+      {
+        "afterGrade": 6,
+        "label": {
+          "local": "Årskurs 4-6",
+          "en": "Years 4-6"
+        },
+        "competenceGoals": [
+          {
+            "code": "SVA-4-6-1",
+            "text": {
+              "local": "Gemensam och enskild läsning. Läsrelaterade aktiviteter och strategier för att förstå, avkoda och tolka ord, begrepp och texter från olika medier. Att ur­skilja texters budskap, både det direkt uttalade och sådant som är indirekt uttryckt.",
+              "en": ""
+            },
+            "coreElements": [
+              "Läsa och skriva"
+            ],
+            "verbs": [
+              "Förstå",
+              "Tolka"
+            ]
+          },
+          {
+            "code": "SVA-4-6-2",
+            "text": {
+              "local": "Sammanfattning av texter.",
+              "en": ""
+            },
+            "coreElements": [
+              "Läsa och skriva"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "SVA-4-6-3",
+            "text": {
+              "local": "Resonemang om texter med koppling till sammanhang inom och utanför tex­ten samt till den egna läsupplevelsen.",
+              "en": ""
+            },
+            "coreElements": [
+              "Läsa och skriva"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "SVA-4-6-4",
+            "text": {
+              "local": "Gemensamt och enskilt skrivande. Strategier för att skriva olika typer av tex­ter med anpassning till deras uppbyggnad och språkliga drag. Skapande av texter där ord, bild och ljud samspelar, såväl med som utan digitala verk­tyg.",
+              "en": ""
+            },
+            "coreElements": [
+              "Läsa och skriva"
+            ],
+            "verbs": [
+              "Skapa"
+            ]
+          },
+          {
+            "code": "SVA-4-6-5",
+            "text": {
+              "local": "Bearbetning av egna och gemensamma texter till innehåll och form. Att ge och ta emot respons på texter.",
+              "en": ""
+            },
+            "coreElements": [
+              "Läsa och skriva"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "SVA-4-6-6",
+            "text": {
+              "local": "Handstil och att skriva med digitala verktyg.",
+              "en": ""
+            },
+            "coreElements": [
+              "Läsa och skriva"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "SVA-4-6-7",
+            "text": {
+              "local": "Språkliga strukturer och normer. Ords böjningsformer, meningsbyggnad med huvudsatser och bisatser samt svenska språkets ordföljd i jämförelse med andra språk eleven kan. Textbindning med hjälp av sambandsord. Stav­ning, skiljetecken och ordklasser.",
+              "en": ""
+            },
+            "coreElements": [
+              "Läsa och skriva"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "SVA-4-6-8",
+            "text": {
+              "local": "Svenska och flerspråkiga ordböcker och digitala verktyg för att utöka ordförrådet samt för ordförståelse och stavning.",
+              "en": ""
+            },
+            "coreElements": [
+              "Läsa och skriva"
+            ],
+            "verbs": [
+              "Förstå"
+            ]
+          },
+          {
+            "code": "SVA-4-6-9",
+            "text": {
+              "local": "Strategier för att förstå och göra sig förstådd när det egna svenska språket inte räcker till, exempelvis att be om förtydliganden, omformulera och an­vän­da olika språk som resurs.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala, lyssna och samtala"
+            ],
+            "verbs": [
+              "Formulera",
+              "Förstå"
+            ]
+          },
+          {
+            "code": "SVA-4-6-10",
+            "text": {
+              "local": "Utmärkande drag i talspråket som kan försvåra förståelsen: reduktioner, assi­mileringar och talhastighet.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala, lyssna och samtala"
+            ],
+            "verbs": [
+              "Förstå"
+            ]
+          },
+          {
+            "code": "SVA-4-6-11",
+            "text": {
+              "local": "Olika former av strukturerade samtal, till exempel dialoger och intervjuer.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala, lyssna och samtala"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "SVA-4-6-12",
+            "text": {
+              "local": "Att lyssna aktivt, ställa frågor, uttrycka tankar och känslor samt resonera och argumentera i olika samtalssituationer och i samband med demo­kra­tiska beslutsprocesser. Användning av sambandsord för att jämföra, mo­ti­ve­ra och exemplifiera.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala, lyssna och samtala"
+            ],
+            "verbs": [
+              "Argumentera",
+              "Föra",
+              "Jämföra",
+              "Resonera",
+              "Uttrycka"
+            ]
+          },
+          {
+            "code": "SVA-4-6-13",
+            "text": {
+              "local": "Muntliga presentationer och muntligt berättande för olika mottagare. Dis­po­sition med inledning, innehåll och avslutning. Stödord, bilder, digitala me­dier och verktyg samt andra hjälpmedel för att planera och genomföra en muntlig presentation. Hur gester och kroppsspråk kan påverka en pre­sen­tation.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala, lyssna och samtala"
+            ],
+            "verbs": [
+              "Föra",
+              "Planera"
+            ]
+          },
+          {
+            "code": "SVA-4-6-14",
+            "text": {
+              "local": "Uttal, satsmelodi och sambandet mellan betoning och betydelse. Svenska språ­kets uttal i jämförelse med andra språk eleven kan.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala, lyssna och samtala"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "SVA-4-6-15",
+            "text": {
+              "local": "Skönlitteratur för barn och unga från olika tider, från Sverige och övriga värl­den. Lyrik, dramatik, sagor och myter. Texter som belyser människors vill­kor och identitets- och livsfrågor.",
+              "en": ""
+            },
+            "coreElements": [
+              "Texter"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "SVA-4-6-16",
+            "text": {
+              "local": "Berättande texters budskap, språkliga drag och uppbyggnad. Till­baka­blickar, miljö- och personbeskrivningar samt dialoger. Texternas ord och uttryck.",
+              "en": ""
+            },
+            "coreElements": [
+              "Texter"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "SVA-4-6-17",
+            "text": {
+              "local": "Några skönlitterärt betydelsefulla barn- och ungdomsboksförfattare och de­ras verk.",
+              "en": ""
+            },
+            "coreElements": [
+              "Texter"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "SVA-4-6-18",
+            "text": {
+              "local": "Sakprosatexter för barn och unga. Beskrivande, förklarande, instruerande och argumenterande texter. Texternas innehåll, uppbyggnad, typiska språk­liga drag samt deras ord och begrepp.",
+              "en": ""
+            },
+            "coreElements": [
+              "Texter"
+            ],
+            "verbs": [
+              "Argumentera",
+              "Beskriva",
+              "Förklara"
+            ]
+          },
+          {
+            "code": "SVA-4-6-19",
+            "text": {
+              "local": "Muntliga texter, till exempel radioprogram för barn och ungdomar samt in­lästa texter.",
+              "en": ""
+            },
+            "coreElements": [
+              "Texter"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "SVA-4-6-20",
+            "text": {
+              "local": "Texter som kombinerar ord, bild och ljud samt texter i digitala miljöer. Tex­ternas innehåll, uppbyggnad och typiska språkliga drag.",
+              "en": ""
+            },
+            "coreElements": [
+              "Texter"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "SVA-4-6-21",
+            "text": {
+              "local": "Språkliga strategier för att minnas och lära, till exempel grafiska modeller och stödord.",
+              "en": ""
+            },
+            "coreElements": [
+              "Språkbruk"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "SVA-4-6-22",
+            "text": {
+              "local": "Ord och begrepp för att på ett varierat sätt uttrycka känslor, kunskaper och åsik­ter. Ords och begrepps nyanser och värdeladdning.",
+              "en": ""
+            },
+            "coreElements": [
+              "Språkbruk"
+            ],
+            "verbs": [
+              "Uttrycka"
+            ]
+          },
+          {
+            "code": "SVA-4-6-23",
+            "text": {
+              "local": "Ord och begrepp i både vardags- och skolspråk. Flertydiga ord, ords in­bör­des relationer, ords klassificering i över- och underordning samt ords betydelse­omfång i jämförelse med andra språk eleven kan.",
+              "en": ""
+            },
+            "coreElements": [
+              "Språkbruk"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "SVA-4-6-24",
+            "text": {
+              "local": "Ordspråk och talesätt i jämförelse med andra språk eleven kan. Fasta fraser och liknelser.",
+              "en": ""
+            },
+            "coreElements": [
+              "Språkbruk"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "SVA-4-6-25",
+            "text": {
+              "local": "Formellt och informellt språk. Skillnader i språkanvändning beroende på mottagare, syfte och sammanhang. Ansvarsfullt agerande vid kommunikation i digitala och andra medier.",
+              "en": ""
+            },
+            "coreElements": [
+              "Språkbruk"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "SVA-4-6-26",
+            "text": {
+              "local": "Informationssökning i några olika medier och källor, till exempel i upp­slags­böcker, genom intervjuer och i söktjänster på internet.",
+              "en": ""
+            },
+            "coreElements": [
+              "Informationssökning och källkritik"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "SVA-4-6-27",
+            "text": {
+              "local": "Hur man jämför källor och prövar deras tillförlitlighet med ett källkritiskt för­hållningssätt.",
+              "en": ""
+            },
+            "coreElements": [
+              "Informationssökning och källkritik"
+            ],
+            "verbs": [
+              "Pröva"
+            ]
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "E",
+            "text": {
+              "local": "Betygskriterier för betyget E i slutet av årskurs 6Eleven samtalar om bekanta ämnen på ett sätt som till viss del upprätthåller samtalen. Dessutom förbereder och genomför eleven muntliga framställningar med i huvudsak fungerande inledning, innehåll och avslutning och viss anpassning till syfte och mottagare. Elevens muntliga kommunikation kan i olika grad innehålla andraspråksdrag beroende på den innehållsliga och tankemässiga komplexiteten. Eleven skriver olika slags texter med begripligt innehåll, i huvudsak fungerande struktur och viss språklig variation. Eleven följer grundläggande regler för språkriktighet på ett i huvudsak fungerande sätt. Elevens texter kan i olika grad innehålla andraspråksdrag beroende på den innehållsliga och tankemässiga komplexiteten. Eleven läser skönlitteratur och sakprosatexter för barn och ungdomar med flyt och visar grundläggande läsförståelse. Dessutom sammanfattar eleven olika texter med viss säkerhet. Eleven för också enkla resonemang om tydligt framträdande budskap i olika texter. Eleven söker och väljer med viss säkerhet information från ett avgränsat urval av källor och presenterar informationen med egna formuleringar och ämnesspecifika ord och begrepp. Eleven för enkla resonemang om informationens användbarhet.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "D",
+            "text": {
+              "local": "Betygskriterier för betyget D i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan C och E.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "C",
+            "text": {
+              "local": "Betygskriterier för betyget C i slutet av årskurs 6Eleven samtalar om bekanta ämnen på ett sätt som upprätthåller samtalen relativt väl. Dessutom förbereder och genomför eleven muntliga framställningar med fungerande inledning, innehåll och avslutning och relativt god anpassning till syfte och mottagare. Elevens muntliga kommunikation kan i olika grad innehålla andraspråksdrag beroende på den innehållsliga och tankemässiga komplexiteten. Eleven skriver olika slags texter med relativt tydligt innehåll, fungerande struktur och viss språklig variation. Eleven följer grundläggande regler för språkriktighet på ett fungerande sätt. Elevens texter kan i olika grad innehålla andraspråksdrag beroende på den innehållsliga och tankemässiga komplexiteten. Eleven läser skönlitteratur och sakprosatexter för barn och ungdomar med gott flyt och visar god läsförståelse. Dessutom sammanfattar eleven olika texter med relativt god säkerhet. Eleven för också utvecklade resonemang om tydligt framträdande budskap i olika texter. Eleven söker och väljer med relativt god säkerhet information från ett avgränsat urval av källor och presenterar informationen med egna formuleringar och ämnesspecifika ord och begrepp. Eleven för utvecklade resonemang om informationens användbarhet.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "B",
+            "text": {
+              "local": "Betygskriterier för betyget B i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan A och C.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "A",
+            "text": {
+              "local": "Betygskriterier för betyget A i slutet av årskurs 6Eleven samtalar om bekanta ämnen på ett sätt som upprätthåller samtalen väl. Dessutom förbereder och genomför eleven muntliga framställningar med väl fungerande inledning, innehåll och avslutning och god anpassning till syfte och mottagare. Elevens muntliga kommunikation kan i olika grad innehålla andraspråksdrag beroende på den innehållsliga och tankemässiga komplexiteten. Eleven skriver olika slags texter med tydligt innehåll, väl fungerande struktur och viss språklig variation. Eleven följer grundläggande regler för språkriktighet på ett väl fungerande sätt. Elevens texter kan i olika grad innehålla andraspråksdrag beroende på den innehållsliga och tankemässiga komplexiteten. Eleven läser skönlitteratur och sakprosatexter för barn och ungdomar med mycket gott flyt och visar mycket god läsförståelse. Dessutom sammanfattar eleven olika texter med god säkerhet. Eleven för också välutvecklade resonemang om tydligt framträdande budskap i olika texter. Eleven söker och väljer med god säkerhet information från ett avgränsat urval av källor och presenterar informationen med egna formuleringar och ämnesspecifika ord och begrepp. Eleven för välutvecklade resonemang om informationens användbarhet.",
+              "en": ""
+            }
+          }
+        ]
+      },
+      {
+        "afterGrade": 9,
+        "label": {
+          "local": "Årskurs 7-9",
+          "en": "Years 7-9"
+        },
+        "competenceGoals": [
+          {
+            "code": "SVA-7-9-1",
+            "text": {
+              "local": "Gemensam och enskild läsning. Läsrelaterade aktiviteter och strategier för att förstå, tolka och analysera texter från olika medier. Att urskilja texters bud­skap, tema och motiv samt deras syfte, avsändare och sammanhang. Att urskilja innehåll som kan vara direkt uttalat eller indirekt uttryckt i tex­ten.",
+              "en": ""
+            },
+            "coreElements": [
+              "Läsa och skriva"
+            ],
+            "verbs": [
+              "Analysera",
+              "Förstå",
+              "Tolka"
+            ]
+          },
+          {
+            "code": "SVA-7-9-2",
+            "text": {
+              "local": "Sammanfattning av texter.",
+              "en": ""
+            },
+            "coreElements": [
+              "Läsa och skriva"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "SVA-7-9-3",
+            "text": {
+              "local": "Analys av texter med koppling till upphovsperson, tid och andra texter samt utifrån egna erfarenheter och referensramar, olika livsfrågor och om­världs­frågor.",
+              "en": ""
+            },
+            "coreElements": [
+              "Läsa och skriva"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "SVA-7-9-4",
+            "text": {
+              "local": "Gemensamt och enskilt skrivande. Strategier för att skriva olika typer av tex­ter med anpassning till deras uppbyggnad och språkliga drag. Skapande av texter där ord, bild och ljud samspelar.",
+              "en": ""
+            },
+            "coreElements": [
+              "Läsa och skriva"
+            ],
+            "verbs": [
+              "Skapa"
+            ]
+          },
+          {
+            "code": "SVA-7-9-5",
+            "text": {
+              "local": "Disposition och redigering av texter med hjälp av digitala verktyg. Bear­bet­ning av egna och gemensamma texter till innehåll och form. Att ge och ta emot respons på texter.",
+              "en": ""
+            },
+            "coreElements": [
+              "Läsa och skriva"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "SVA-7-9-6",
+            "text": {
+              "local": "Språkliga strukturer och normer. Meningsbyggnad och ordföljd på svenska i jämförelse med andra språk eleven kan. Hur orsaks-, konsekvens- och villkors­samband kan formuleras genom olika typer av bisatser. Stycke­in­del­ning och textbindning med sambandsmarkörer, referensbindning och tematisk bindning. Skiljetecken, ordklasser, kongruens, tempus, genus och satsdelar samt stavning.",
+              "en": ""
+            },
+            "coreElements": [
+              "Läsa och skriva"
+            ],
+            "verbs": [
+              "Formulera"
+            ]
+          },
+          {
+            "code": "SVA-7-9-7",
+            "text": {
+              "local": "Svenska och flerspråkiga ordböcker och digitala verktyg för att utöka ord­förrå­det samt för ordförståelse, variation och stavning.",
+              "en": ""
+            },
+            "coreElements": [
+              "Läsa och skriva"
+            ],
+            "verbs": [
+              "Förstå"
+            ]
+          },
+          {
+            "code": "SVA-7-9-8",
+            "text": {
+              "local": "Strategier för att förstå och göra sig förstådd när det egna svenska språket inte räcker till, exempelvis omformuleringar, synonymer och att använda olika språk som resurs.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala, lyssna och samtala"
+            ],
+            "verbs": [
+              "Använda",
+              "Förstå"
+            ]
+          },
+          {
+            "code": "SVA-7-9-9",
+            "text": {
+              "local": "Olika former av samtal. Att delta aktivt, uttrycka känslor, tankar och kun­skaper, lyssna, ställa frågor och föra resonemang, samt formulera och be­möta argument. Användning av sambandsord för att jämföra, motivera, exemp­lifiera och problematisera.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala, lyssna och samtala"
+            ],
+            "verbs": [
+              "Formulera",
+              "Föra",
+              "Jämföra",
+              "Uttrycka"
+            ]
+          },
+          {
+            "code": "SVA-7-9-10",
+            "text": {
+              "local": "Att leda ett samtal och sammanfatta huvuddragen i vad som sagts.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala, lyssna och samtala"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "SVA-7-9-11",
+            "text": {
+              "local": "Muntliga presentationer och muntligt berättande för olika mottagare. An­pass­ning av språk, innehåll och disposition till syfte, mottagare och samman­hang. Talmanus och olika verktyg för att planera och genomföra muntliga presentationer, såväl med som utan digital teknik.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala, lyssna och samtala"
+            ],
+            "verbs": [
+              "Föra",
+              "Planera"
+            ]
+          },
+          {
+            "code": "SVA-7-9-12",
+            "text": {
+              "local": "Svenska språkets prosodi och uttalets betydelse för att göra sig förstådd. Olika varieteter av talad svenska: dialekter och sociolekter.",
+              "en": ""
+            },
+            "coreElements": [
+              "Tala, lyssna och samtala"
+            ],
+            "verbs": [
+              "Förstå"
+            ]
+          },
+          {
+            "code": "SVA-7-9-13",
+            "text": {
+              "local": "Skönlitteratur för ungdomar och vuxna från olika tider, från Sverige och öv­riga världen. Epik, lyrik och dramatik. Texter som belyser människors villkor och identitets- och livsfrågor.",
+              "en": ""
+            },
+            "coreElements": [
+              "Texter"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "SVA-7-9-14",
+            "text": {
+              "local": "Språkliga drag, uppbyggnad och berättarperspektiv i berättande och poe­tiska texter. Bildspråk, gestaltningar, parallellhandling, tillbakablickar, mil­jö- och personbeskrivningar samt dialoger.",
+              "en": ""
+            },
+            "coreElements": [
+              "Texter"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "SVA-7-9-15",
+            "text": {
+              "local": "Några skönlitterära genrer och hur de stilistiskt och innehållsligt skiljer sig ifrån varandra.",
+              "en": ""
+            },
+            "coreElements": [
+              "Texter"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "SVA-7-9-16",
+            "text": {
+              "local": "Några skönlitterärt betydelsefulla författare och deras verk samt de his­to­ri­ska och kulturella sammanhang som verken har tillkommit i.",
+              "en": ""
+            },
+            "coreElements": [
+              "Texter"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "SVA-7-9-17",
+            "text": {
+              "local": "Sakprosatexter för ungdomar och vuxna. Beskrivande, förklarande, utre­dan­de, instruerande och argumenterande texter. Texternas syfte, innehåll, upp­byggnad och språkliga drag samt deras ord och uttryck. Kombinationer av olika texttyper.",
+              "en": ""
+            },
+            "coreElements": [
+              "Texter"
+            ],
+            "verbs": [
+              "Argumentera",
+              "Beskriva",
+              "Förklara"
+            ]
+          },
+          {
+            "code": "SVA-7-9-18",
+            "text": {
+              "local": "Muntliga texter, till exempel radioprogram för unga och vuxna samt inlästa tex­ter.",
+              "en": ""
+            },
+            "coreElements": [
+              "Texter"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "SVA-7-9-19",
+            "text": {
+              "local": "Texter i digitala miljöer samt andra texter som kombinerar ord, bild och ljud. Språkliga och dramaturgiska komponenter samt hur uttrycken kan sam­­spela med varandra, till exempel i filmiskt berättande, teater­före­ställ­ningar och webbtexter.",
+              "en": ""
+            },
+            "coreElements": [
+              "Texter"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "SVA-7-9-20",
+            "text": {
+              "local": "Språkliga strategier för att minnas och lära genom att identifiera nyckelord, föra anteckningar och använda grafiska modeller.",
+              "en": ""
+            },
+            "coreElements": [
+              "Språkbruk"
+            ],
+            "verbs": [
+              "Använda",
+              "Föra"
+            ]
+          },
+          {
+            "code": "SVA-7-9-21",
+            "text": {
+              "local": "Ord och begrepp för att på ett varierat sätt uttrycka känslor, kunskaper och åsik­ter. Ords och begrepps nyanser och värdeladdning.",
+              "en": ""
+            },
+            "coreElements": [
+              "Språkbruk"
+            ],
+            "verbs": [
+              "Uttrycka"
+            ]
+          },
+          {
+            "code": "SVA-7-9-22",
+            "text": {
+              "local": "Ord och begrepp i både vardags- och skolspråk. Flertydiga ord, synonymer, ords klassificering i över- och underordning samt ords betydelseomfång i jäm­förelse med andra språk eleven kan.",
+              "en": ""
+            },
+            "coreElements": [
+              "Språkbruk"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "SVA-7-9-23",
+            "text": {
+              "local": "Ordbildning, till exempel sammansatta ord samt avledningar med suffix och prefix. Bildspråk, nominaliseringar, fasta fraser och idiomatiska ut­tryck i jämförelse med andra språk eleven kan.",
+              "en": ""
+            },
+            "coreElements": [
+              "Språkbruk"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "SVA-7-9-24",
+            "text": {
+              "local": "Skillnader i språkanvändning beroende på syfte, mottagare och samman­hang. Språkets betydelse för att utöva inflytande.",
+              "en": ""
+            },
+            "coreElements": [
+              "Språkbruk"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "SVA-7-9-25",
+            "text": {
+              "local": "Språkbruk, yttrandefrihet och integritet i digitala och andra medier och i olika sammanhang.",
+              "en": ""
+            },
+            "coreElements": [
+              "Språkbruk"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "SVA-7-9-26",
+            "text": {
+              "local": "Informationssökning på bibliotek och på internet, i böcker och massmedier samt genom intervjuer.",
+              "en": ""
+            },
+            "coreElements": [
+              "Informationssökning och källkritik"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "SVA-7-9-27",
+            "text": {
+              "local": "Hur man refererar, citerar och gör källhänvisningar, även referenser till digi­tala medier.",
+              "en": ""
+            },
+            "coreElements": [
+              "Informationssökning och källkritik"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "SVA-7-9-28",
+            "text": {
+              "local": "Hur man sovrar i en stor informationsmängd och prövar källors till­förlit­lig­­het med ett källkritiskt förhållningssätt.",
+              "en": ""
+            },
+            "coreElements": [
+              "Informationssökning och källkritik"
+            ],
+            "verbs": [
+              "Pröva"
+            ]
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "E",
+            "text": {
+              "local": "Betygskriterier för betyget E i slutet av årskurs 9Eleven samtalar om och diskuterar varierande ämnen på ett sätt som till viss del utvecklar samtalen och diskussionerna. Eleven framför åsikter med till viss del underbyggda argument. Dessutom förbereder och genomför eleven muntliga framställningar med i huvudsak fungerande struktur och innehåll och viss anpassning till syfte, mottagare och sammanhang. Elevens muntliga kommunikation kan i olika grad innehålla andraspråksdrag beroende på den innehållsliga och tankemässiga komplexiteten. Eleven skriver olika slags texter med viss språklig variation, i huvudsak fungerande struktur och innehåll samt viss anpassning till texttyp, syfte, mottagare och sammanhang. Eleven följer språkliga normer på ett i huvudsak fungerande sätt. Elevens texter kan i olika grad innehålla andraspråksdrag beroende på den innehållsliga och tankemässiga komplexiteten. Eleven läser skönlitteratur och sakprosatexter med flyt och visar grundläggande läsförståelse. Dessutom sammanfattar eleven olika texter med viss säkerhet. Eleven för enkla resonemang om innehållet i olika texter. Eleven visar också grundläggande kunskaper om skönlitteratur och de sammanhang som olika verk har tillkommit i. Eleven söker och väljer med viss säkerhet information från olika källor och presenterar informationen på ett i huvudsak fungerande sätt, med egna formuleringar, ämnesrelaterat språk samt citat och källhänvisningar. Eleven för till viss del underbyggda resonemang om informationens och källornas trovärdighet och relevans.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "D",
+            "text": {
+              "local": "Betygskriterier för betyget D i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan C och E.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "C",
+            "text": {
+              "local": "Betygskriterier för betyget C i slutet av årskurs 9Eleven samtalar om och diskuterar varierande ämnen på ett sätt som utvecklar samtalen och diskussionerna relativt väl. Eleven framför åsikter med relativt väl underbyggda argument. Dessutom förbereder och genomför eleven muntliga framställningar med fungerande struktur och innehåll och relativt god anpassning till syfte, mottagare och sammanhang. Elevens muntliga kommunikation kan i olika grad innehålla andraspråksdrag beroende på den innehållsliga och tankemässiga komplexiteten. Eleven skriver olika slags texter med relativt god språklig variation, fungerande struktur och innehåll samt relativt god anpassning till texttyp, syfte, mottagare och sammanhang. Eleven följer språkliga normer på ett fungerande sätt. Elevens texter kan i olika grad innehålla andraspråksdrag beroende på den innehållsliga och tankemässiga komplexiteten. Eleven läser skönlitteratur och sakprosatexter med gott flyt och visar god läsförståelse. Dessutom sammanfattar eleven olika texter med god säkerhet. Eleven för utvecklade resonemang om innehållet i olika texter. Eleven visar också goda kunskaper om skönlitteratur och de sammanhang som olika verk har tillkommit i. Eleven söker och väljer med relativt god säkerhet information från olika källor och presenterar informationen på ett fungerande sätt, med egna formuleringar, ämnesrelaterat språk samt citat och källhänvisningar. Eleven för relativt väl underbyggda resonemang om informationens och källornas trovärdighet och relevans.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "B",
+            "text": {
+              "local": "Betygskriterier för betyget B i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan A och C.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "A",
+            "text": {
+              "local": "Betygskriterier för betyget A i slutet av årskurs 9Eleven samtalar om och diskuterar varierande ämnen på ett sätt som utvecklar samtalen och diskussionerna väl. Eleven framför åsikter med väl underbyggda argument. Dessutom förbereder och genomför eleven muntliga framställningar med väl fungerande struktur och innehåll och god anpassning till syfte, mottagare och sammanhang. Elevens muntliga kommunikation kan i olika grad innehålla andraspråksdrag beroende på den innehållsliga och tankemässiga komplexiteten. Eleven skriver olika slags texter med god språklig variation, väl fungerande struktur och innehåll samt god anpassning till texttyp, syfte, mottagare och sammanhang. Eleven följer språkliga normer på ett väl fungerande sätt. Elevens texter kan i olika grad innehålla andraspråksdrag beroende på den innehållsliga och tankemässiga komplexiteten. Eleven läser skönlitteratur och sakprosatexter med mycket gott flyt och visar mycket god läsförståelse. Dessutom sammanfattar eleven olika texter med mycket god säkerhet. Eleven för välutvecklade resonemang om innehållet i olika texter. Eleven visar också mycket goda kunskaper om skönlitteratur och de sammanhang som olika verk har tillkommit i. Eleven söker och väljer med god säkerhet information från olika källor och presenterar informationen på ett väl fungerande sätt, med egna formuleringar, ämnesrelaterat språk samt citat och källhänvisningar. Eleven för väl underbyggda resonemang om informationens och källornas trovärdighet och relevans.",
+              "en": ""
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

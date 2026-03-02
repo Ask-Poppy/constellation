@@ -1,18 +1,52 @@
 {
   "country": "norway",
   "source": {
-    "api": "https://data.udir.no/kl06/v201906/laereplaner-lk20/ENG01-04",
+    "api": "https://data.udir.no/kl06/v201906/laereplaner-lk20/ENG01-05",
     "curriculum": "LK20",
     "license": "NLOD",
-    "lastSynced": "2026-03-02T21:19:00Z"
+    "lastSynced": "2026-03-02T21:37:52Z"
   },
   "subject": {
-    "code": "ENG01-04",
+    "code": "ENG01-05",
     "name": {
       "local": "Læreplan i engelsk",
       "en": "Curriculum in English"
     },
-    "coreElements": [],
+    "coreElements": [
+      {
+        "code": "KE1586",
+        "name": {
+          "local": "Kommunikasjon",
+          "en": "Communication"
+        },
+        "description": {
+          "local": "Kommunikasjon innebærer å skape mening med språk og å kunne bruke språket i formelle og uformelle sammenhenger. Elevene skal ta i bruk egnede strategier for å kommunisere muntlig og skriftlig i forskjellige situasjoner og ved å bruke ulike medier og kilder. Elevene skal få oppleve, bruke og utforske språket fra første stund. Opplæringen skal legge til rette for at elevene får utfolde seg og samhandle i autentiske og praktiske situasjoner.",
+          "en": "Communication refers to creating meaning through language and the ability to use the language in both formal and informal settings. The pupils shall employ suitable strategies to communicate, both orally and in writing, in different situations and by using different types of media and sources. The pupils shall experience, use and explore the language from the very start. The teaching shall give the pupils the opportunity to express themselves and interact in authentic and practical situations."
+        }
+      },
+      {
+        "code": "KE1587",
+        "name": {
+          "local": "Språklæring",
+          "en": "Language learning"
+        },
+        "description": {
+          "local": "Språklæring innebærer å utvikle språkbevissthet og kunnskap om engelsk som system og å kunne bruke språklæringsstrategier. Kunnskap om hvordan språklyder, ordforråd, og ord-, setningsstrukturer og tekststrukturer brukes, gir elevene valg og muligheter i kommunikasjon og samhandling. Språklæring innebærer å se sammenhenger mellom engelsk og andre språk elevene kan, og å forstå hvordan engelsk er bygget opp.",
+          "en": "Language learning refers to developing language awareness and knowledge of English as a system, and the ability to use language learning strategies. Learning the pronunciation of phonemes, and learning vocabulary, word structure, syntax and text composition gives the pupils choices and possibilities in their communication and interaction. Language learning refers to identifying connections between English and other languages the pupils know, and to understanding how English is structured."
+        }
+      },
+      {
+        "code": "KE1588",
+        "name": {
+          "local": "Møte med engelskspråklige tekster",
+          "en": "Working with texts in English"
+        },
+        "description": {
+          "local": "Språklæringen skjer i møte med engelskspråklige tekster. Tekstbegrepet brukes i vid forstand: muntlige og skriftlige, trykte og digitale, grafiske og kunstneriske, formelle og uformelle, skjønnlitterære og sakpregede, fra nåtid og fortid. Tekstene kan inneholde skrift, bilder, lyd, tegninger, grafer, tall og andre uttrykksformer som er satt sammen for å understreke og formidle et budskap. Arbeid med engelskspråklige tekster bidrar til å gi elevene kunnskap om og erfaring med språklig og kulturelt mangfold, og også innsikt i urfolks levemåter, tenkesett og tradisjoner. Gjennom å reflektere over, tolke og kritisk vurdere ulike typer engelskspråklige tekster skal elevene tilegne seg språk og kunnskap om kultur og samfunn. Elevene utvikler med dette interkulturell kompetanse slik at de kan forholde seg til ulike levemåter, tenkesett og kommunikasjonsmønstre. Elevene skal få et grunnlag for å se sin egen og andres identitet i en flerspråklig og flerkulturell sammenheng.",
+          "en": "Language learning takes place in the encounter with texts in English. The concept of text is used in a broad sense: texts can be spoken and written, printed and digital, graphic and artistic, formal and informal, fictional and factual, contemporary and historical. The texts can contain writing, pictures, audio, drawings, graphs, numbers and other forms of expression that are combined to enhance and present a message. Working with texts in English helps to develop the pupils’ knowledge and experience of linguistic and cultural diversity, as well as their insight into ways of living, ways of thinking and traditions of indigenous peoples. By reflecting on, interpreting and critically assessing different types of texts in English, the pupils shall acquire language and knowledge of culture and society. Thus the pupils will develop intercultural competence enabling them to deal with different ways of living, ways of thinking and communication patterns. They shall build the foundation for seeing their own identity and others’ identities in a multilingual and multicultural context."
+        }
+      }
+    ],
     "gradeBands": [
       {
         "afterGrade": 2,
@@ -22,7 +56,7 @@
         },
         "competenceGoals": [
           {
-            "code": "KM61",
+            "code": "KM11751",
             "text": {
               "local": "bruke digitale ressurser for å oppleve språket via autentiske språkmodeller og samtalepartnere",
               "en": "use digital aids to experience the language through authentic language models and interlocutors"
@@ -35,7 +69,7 @@
             ]
           },
           {
-            "code": "KM1",
+            "code": "KM11742",
             "text": {
               "local": "lytte til og gjenkjenne språklyder og stavelser i ord",
               "en": "listen to and recognise phonemes and syllables in words"
@@ -48,7 +82,7 @@
             ]
           },
           {
-            "code": "KM69",
+            "code": "KM11743",
             "text": {
               "local": "koble språklyder til bokstaver og stavemønstre og trekke bokstavlyder sammen til ord",
               "en": "associate phonemes with letters and spelling patterns and combine letter sounds into words"
@@ -59,7 +93,7 @@
             "verbs": []
           },
           {
-            "code": "KM68",
+            "code": "KM11744",
             "text": {
               "local": "lytte til og utforske det engelske alfabetet og uttalemønstre i lek- og sangaktiviteter",
               "en": "listen to and explore the English alphabet and pronunciation patterns through play and singing"
@@ -73,7 +107,7 @@
             ]
           },
           {
-            "code": "KM65",
+            "code": "KM11747",
             "text": {
               "local": "oppdage høyfrekvente ord og fraser i ulike type tekster",
               "en": "find high frequency words and phrases in different types of texts"
@@ -84,7 +118,7 @@
             "verbs": []
           },
           {
-            "code": "KM67",
+            "code": "KM11745",
             "text": {
               "local": "stille og svare på enkle spørsmål, følge enkle instruksjoner og bruke noen høflighetsuttrykk",
               "en": "ask and answer simple questions, follow simple instructions and use some polite expressions"
@@ -98,7 +132,7 @@
             ]
           },
           {
-            "code": "KM66",
+            "code": "KM11746",
             "text": {
               "local": "delta i innøvde dialoger og spontane samtaler om egne behov og følelser, dagligliv og interesser",
               "en": "participate in rehearsed dialogues and spontaneous conversations about one’s own needs and feelings, daily life and interests"
@@ -109,7 +143,7 @@
             "verbs": []
           },
           {
-            "code": "KM64",
+            "code": "KM11748",
             "text": {
               "local": "oppdage ord som er felles for engelsk og andre språk eleven kjenner til",
               "en": "find words that are common to English and other languages with which the pupil is familiar"
@@ -120,7 +154,7 @@
             "verbs": []
           },
           {
-            "code": "KM63",
+            "code": "KM11749",
             "text": {
               "local": "lytte til, lese og samtale om innhold i enkle tekster, inkludert billedbøker",
               "en": "listen to, read and talk about the content of simple texts, including picture books"
@@ -133,7 +167,7 @@
             ]
           },
           {
-            "code": "KM70",
+            "code": "KM11752",
             "text": {
               "local": "lese og eksperimentere med å skrive kjente ord, fraser og enkle setninger",
               "en": "read and experiment with writing familiar words, phrases and simple sentences"
@@ -145,7 +179,7 @@
             "verbs": []
           },
           {
-            "code": "KM62",
+            "code": "KM11750",
             "text": {
               "local": "tilegne seg ord og kulturell kunnskap gjennom engelskspråklig barnelitteratur og barnekultur",
               "en": "learn words and acquire cultural knowledge through English-language literature for children"
@@ -165,7 +199,7 @@
         },
         "competenceGoals": [
           {
-            "code": "KM56",
+            "code": "KM11756",
             "text": {
               "local": "utforske ulike ordbøker og hvordan de kan brukes i språklæring",
               "en": "explore different dictionaries and how they can be used in language learning"
@@ -178,7 +212,7 @@
             ]
           },
           {
-            "code": "KM72",
+            "code": "KM11764",
             "text": {
               "local": "bruke digitale ressurser til å utforske språket og samhandle med andre",
               "en": "use digital resources to explore the language and interact with others"
@@ -193,7 +227,7 @@
             ]
           },
           {
-            "code": "KM60",
+            "code": "KM11753",
             "text": {
               "local": "utforske og bruke det engelske alfabetet og uttalemønstre i varierte lek- sang- og språklæringsaktiviteter",
               "en": "explore and use the English alphabet and pronunciation patterns in a variety of playing, singing and language-learning activities"
@@ -207,7 +241,7 @@
             ]
           },
           {
-            "code": "KM93",
+            "code": "KM11767",
             "text": {
               "local": "lytte til og forstå ord og uttrykk i tilpassede tekster",
               "en": "listen to and understand words and expressions in adapted texts"
@@ -221,7 +255,7 @@
             ]
           },
           {
-            "code": "KM58",
+            "code": "KM11754",
             "text": {
               "local": "bruke noen vanlige småord, høflighetsuttrykk og enkle fraser og setninger for å få hjelp til å forstå og bli forstått",
               "en": "use a number of common small words, polite expressions and simple phrases and sentences to obtain help to understand and be understood"
@@ -236,7 +270,7 @@
             ]
           },
           {
-            "code": "KM57",
+            "code": "KM11755",
             "text": {
               "local": "delta i samtaler om egne og andres behov, følelser, dagligliv og interesser og bruke samtaleregler",
               "en": "participate in conversations on one’s own and others’ needs, feelings, daily life and interests and use conversation rules"
@@ -249,7 +283,7 @@
             ]
           },
           {
-            "code": "KM53",
+            "code": "KM11759",
             "text": {
               "local": "oppdage og leke med ord og uttrykk som er felles for engelsk og andre språk eleven kjenner til",
               "en": "discover and play with words and expressions that are common to both English and other languages with which the pupil is familiar"
@@ -260,7 +294,7 @@
             "verbs": []
           },
           {
-            "code": "KM55",
+            "code": "KM11757",
             "text": {
               "local": "identifisere ordklasser i tilpassede tekster",
               "en": "identify word classes in adapted texts"
@@ -271,7 +305,7 @@
             "verbs": []
           },
           {
-            "code": "KM54",
+            "code": "KM11758",
             "text": {
               "local": "følge enkle regler for rettskriving og setningsstruktur",
               "en": "follow simple rules for spelling and syntax"
@@ -282,7 +316,7 @@
             "verbs": []
           },
           {
-            "code": "KM52",
+            "code": "KM11760",
             "text": {
               "local": "lese og forstå tekster med lydrette ord og kjente og ukjente ordbilder",
               "en": "read and understand texts with phonetic words and familiar and unfamiliar word images"
@@ -295,7 +329,7 @@
             ]
           },
           {
-            "code": "KM51",
+            "code": "KM11761",
             "text": {
               "local": "lese og forstå betydningen av kjente og ukjente ord, fraser og setninger ut fra sammenhengen i selvvalgte tekster",
               "en": "read and understand the meaning of familiar and unfamiliar words, phrases and sentences based on the context in self-chosen texts"
@@ -309,7 +343,7 @@
             ]
           },
           {
-            "code": "KM50",
+            "code": "KM11762",
             "text": {
               "local": "lese og samtale om innhold i ulike typer tekster, inkludert billedbøker",
               "en": "read and talk about the content of various types of texts, including picture books"
@@ -320,7 +354,7 @@
             "verbs": []
           },
           {
-            "code": "KM83",
+            "code": "KM11765",
             "text": {
               "local": "skrive enkle tekster som uttrykker tanker og meninger",
               "en": "write simple texts that express thoughts and opinions"
@@ -331,7 +365,7 @@
             "verbs": []
           },
           {
-            "code": "KM73",
+            "code": "KM11766",
             "text": {
               "local": "samtale om noen sider ved ulike levemåter, tradisjoner og skikker i den engelskspråklige verden og i Norge",
               "en": "talk about some aspects of different ways of living, traditions and customs in the English-speaking world and in Norway"
@@ -342,7 +376,7 @@
             "verbs": []
           },
           {
-            "code": "KM59",
+            "code": "KM11763",
             "text": {
               "local": "tilegne seg ord, fraser og kulturell kunnskap gjennom engelskspråklig litteratur og barnekultur",
               "en": "learn words and phrases and acquire cultural knowledge through English-language literature"
@@ -362,7 +396,7 @@
         },
         "competenceGoals": [
           {
-            "code": "KM88",
+            "code": "KM11772",
             "text": {
               "local": "bruke enkle strategier i språklæring, tekstskaping og kommunikasjon",
               "en": "use simple strategies for language learning, text creation and communication"
@@ -376,7 +410,7 @@
             ]
           },
           {
-            "code": "KM84",
+            "code": "KM11777",
             "text": {
               "local": "bruke digitale ressurser og ulike ordbøker i språklæring, tekstskaping og samhandling",
               "en": "use digital resources and different dictionaries in language learning, text creation and interaction"
@@ -390,7 +424,7 @@
             ]
           },
           {
-            "code": "KM92",
+            "code": "KM11768",
             "text": {
               "local": "utforske og bruke uttalemønstre og ord og uttrykk i lek, sang og rollespill",
               "en": "explore and use pronunciation patterns and words and expressions in play, singing and role playing"
@@ -404,7 +438,7 @@
             ]
           },
           {
-            "code": "KM91",
+            "code": "KM11769",
             "text": {
               "local": "lytte til og forstå ord og uttrykk i tilpassede og autentiske tekster",
               "en": "listen to and understand words and expressions in adapted and authentic texts"
@@ -418,7 +452,7 @@
             ]
           },
           {
-            "code": "KM90",
+            "code": "KM11770",
             "text": {
               "local": "uttrykke seg forståelig med et variert ordforråd og høflighetsuttrykk tilpasset mottaker og situasjon",
               "en": "express oneself in an understandable way with a varied vocabulary and polite expressions adapted to the receiver and situation"
@@ -429,7 +463,7 @@
             "verbs": []
           },
           {
-            "code": "KM89",
+            "code": "KM11771",
             "text": {
               "local": "innlede, holde i gang og avslutte samtaler om egne interesser og aktuelle emner",
               "en": "initiate, maintain and conclude conversations about one's own interests and current topics"
@@ -440,7 +474,7 @@
             "verbs": []
           },
           {
-            "code": "KM86",
+            "code": "KM11774",
             "text": {
               "local": "utforske og samtale om noen språklige likheter mellom engelsk og andre språk eleven kjenner til, og bruke dette i egen språklæring",
               "en": "explore and talk about some linguistic similarities between English and other languages that the pupil is familiar with and use this in their language learning"
@@ -454,7 +488,7 @@
             ]
           },
           {
-            "code": "KM77",
+            "code": "KM11783",
             "text": {
               "local": "identifisere setningsledd i ulike typer setninger og bruke kunnskap om bøying av verb, substantiv og adjektiv i arbeid med egne muntlige og skriftlige tekster",
               "en": "identify sentence elements in various types of sentences and use knowledge of verb conjugation and declension of nouns and adjectives in working on own oral and written texts"
@@ -467,7 +501,7 @@
             ]
           },
           {
-            "code": "KM87",
+            "code": "KM11773",
             "text": {
               "local": "følge regler for rettskriving, ordbøying og setningsstruktur",
               "en": "follow rules for spelling, word inflection and syntax"
@@ -478,7 +512,7 @@
             "verbs": []
           },
           {
-            "code": "KM85",
+            "code": "KM11775",
             "text": {
               "local": "lese og videreformidle innhold fra ulike typer tekster, inkludert selvvalgte tekster",
               "en": "read and present content from various types of texts, including self-chosen texts"
@@ -490,7 +524,7 @@
             "verbs": []
           },
           {
-            "code": "KM94",
+            "code": "KM11776",
             "text": {
               "local": "lese og lytte til engelskspråklige sakprosatekster og engelskspråklig barne- og ungdomslitteratur og skrive og samtale om innholdet",
               "en": "read and listen to English-language factual texts and literature for children and young people and write and talk about the content"
@@ -503,7 +537,7 @@
             ]
           },
           {
-            "code": "KM82",
+            "code": "KM11778",
             "text": {
               "local": "samtale om ulike kilders pålitelighet, og velge kilder til eget bruk",
               "en": "talk about the reliability of various sources and choose sources for one's own use"
@@ -515,7 +549,7 @@
             "verbs": []
           },
           {
-            "code": "KM81",
+            "code": "KM11779",
             "text": {
               "local": "skrive sammenhengende tekster, inkludert sammensatte, som gjenforteller, forteller, spør og uttrykker meninger og interesser, tilpasset mottaker",
               "en": "write cohesive texts, including multimedia texts, that retell, tell, inquire about and express opinions and interests adapted to the recipient"
@@ -526,7 +560,7 @@
             "verbs": []
           },
           {
-            "code": "KM80",
+            "code": "KM11780",
             "text": {
               "local": "bearbeide egne tekster ut fra tilbakemeldinger",
               "en": "revise one's own texts based on feedback"
@@ -537,7 +571,7 @@
             "verbs": []
           },
           {
-            "code": "KM79",
+            "code": "KM11781",
             "text": {
               "local": "reflektere over og samtale om rollen engelsk har i eget liv",
               "en": "reflect on and talk about the role played by English in their own lives"
@@ -551,7 +585,7 @@
             ]
           },
           {
-            "code": "KM78",
+            "code": "KM11782",
             "text": {
               "local": "utforske levemåter og tradisjoner i ulike samfunn i den engelskspråklige verden og i Norge og reflektere over identitet og kulturell tilhørighet",
               "en": "investigate ways of living and traditions in different societies in the English-speaking world and in Norway and reflect on identity and cultural belonging"
@@ -575,7 +609,7 @@
         },
         "competenceGoals": [
           {
-            "code": "KM49",
+            "code": "KM11787",
             "text": {
               "local": "bruke varierte strategier i språklæring, tekstskaping og kommunikasjon",
               "en": "use a variety of strategies for language learning, text creation and communication"
@@ -590,7 +624,7 @@
             ]
           },
           {
-            "code": "KM19",
+            "code": "KM11793",
             "text": {
               "local": "bruke ulike digitale ressurser og andre hjelpemidler i språklæring, tekstskaping og samhandling",
               "en": "use different digital resources and other aids in language learning, text creation and interaction"
@@ -605,7 +639,7 @@
             ]
           },
           {
-            "code": "KM12",
+            "code": "KM11801",
             "text": {
               "local": "bruke sentrale mønstre for uttale i kommunikasjon",
               "en": "use key patterns of pronunciation in communication"
@@ -619,7 +653,7 @@
             ]
           },
           {
-            "code": "KM76",
+            "code": "KM11784",
             "text": {
               "local": "lytte til og forstå ord og uttrykk i varianter av engelsk",
               "en": "listen to and understand words and expressions in variants of English"
@@ -633,7 +667,7 @@
             ]
           },
           {
-            "code": "KM75",
+            "code": "KM11785",
             "text": {
               "local": "uttrykke seg med flyt og sammenheng med et variert ordforråd og idiomatiske uttrykk tilpasset formål, mottaker og situasjon",
               "en": "express oneself with fluency and coherence with a varied vocabulary and idiomatic expressions adapted to the purpose, recipient and situation"
@@ -645,7 +679,7 @@
             "verbs": []
           },
           {
-            "code": "KM74",
+            "code": "KM11786",
             "text": {
               "local": "stille spørsmål og følge opp innspill i samtaler om ulike emner tilpasset ulike formål, mottakere og situasjoner",
               "en": "ask questions and follow up input when talking about various topics adapted to different purposes, recipients and situations"
@@ -656,7 +690,7 @@
             "verbs": []
           },
           {
-            "code": "KM48",
+            "code": "KM11789",
             "text": {
               "local": "utforske og beskrive noen språklige likheter og ulikheter mellom engelsk og andre språk eleven kjenner til, og bruke dette i egen språklæring",
               "en": "explore and describe some linguistic similarities and differences between English and other languages the pupil is familiar with and use this in one's own language learning"
@@ -671,7 +705,7 @@
             ]
           },
           {
-            "code": "KM10",
+            "code": "KM11802",
             "text": {
               "local": "bruke kunnskap om ordklasser og setningsstruktur i arbeid med egne muntlige og skriftlige tekster",
               "en": "use knowledge of word classes and syntax in working on one's own oral and written texts"
@@ -684,7 +718,7 @@
             ]
           },
           {
-            "code": "KM71",
+            "code": "KM11788",
             "text": {
               "local": "følge regler for rettskriving, ordbøying, setningsstruktur og tekststruktur",
               "en": "follow rules for spelling, word inflection, syntax and text structure"
@@ -695,7 +729,7 @@
             "verbs": []
           },
           {
-            "code": "KM23",
+            "code": "KM11790",
             "text": {
               "local": "lese, diskutere og videreformidle innhold fra ulike typer tekster, inkludert selvvalgte tekster",
               "en": "read, discuss and present content from various types of texts, including self-chosen texts"
@@ -706,7 +740,7 @@
             "verbs": []
           },
           {
-            "code": "KM21",
+            "code": "KM11791",
             "text": {
               "local": "lese, tolke og reflektere over engelskspråklig skjønnlitteratur, inkludert ungdomslitteratur",
               "en": "read, interpret and reflect on English-language fiction, including young people’s literature"
@@ -720,7 +754,7 @@
             ]
           },
           {
-            "code": "KM20",
+            "code": "KM11792",
             "text": {
               "local": "lese sakprosatekster og vurdere hvor pålitelige kildene er",
               "en": "read factual texts and assess the reliability of the sources"
@@ -733,7 +767,7 @@
             ]
           },
           {
-            "code": "KM18",
+            "code": "KM11794",
             "text": {
               "local": "bruke kilder på en kritisk og etterrettelig måte",
               "en": "use sources in a critical and accountable manner"
@@ -746,7 +780,7 @@
             ]
           },
           {
-            "code": "KM17",
+            "code": "KM11795",
             "text": {
               "local": "skrive formelle og uformelle tekster, inkludert sammensatte, med struktur og sammenheng som beskriver, forteller og reflekterer tilpasset formål, mottaker og situasjon",
               "en": "write formal and informal texts, including multimedia texts with structure and coherence that describe, narrate and reflect, and are adapted to the purpose, recipient and situation"
@@ -757,7 +791,7 @@
             "verbs": []
           },
           {
-            "code": "KM16",
+            "code": "KM11796",
             "text": {
               "local": "bearbeide egne tekster ut fra tilbakemeldinger og kunnskap om språk",
               "en": "revise one's own texts based on feedback and knowledge of the language"
@@ -768,7 +802,7 @@
             "verbs": []
           },
           {
-            "code": "KM15",
+            "code": "KM11797",
             "text": {
               "local": "beskrive og reflektere over rollen engelsk har i Norge og i verden",
               "en": "describe and reflect on the role played by the English language in Norway and the rest of the world"
@@ -783,7 +817,7 @@
             ]
           },
           {
-            "code": "KM14",
+            "code": "KM11798",
             "text": {
               "local": "utforske og reflektere over situasjonen til urfolk i den engelskspråklige verden og i Norge",
               "en": "explore and reflect on the situation of indigenous peoples in the English-speaking world and in Norway"
@@ -797,7 +831,7 @@
             ]
           },
           {
-            "code": "KM22",
+            "code": "KM11800",
             "text": {
               "local": "utforske og beskrive levemåter, tenkesett, kommunikasjonsmønstre og mangfold i den engelskspråklige verden",
               "en": "explore and describe ways of living, ways of thinking, communication patterns and diversity in the English-speaking world"
@@ -812,7 +846,7 @@
             ]
           },
           {
-            "code": "KM13",
+            "code": "KM11799",
             "text": {
               "local": "utforske og videreformidle innhold i engelskspråklige kulturelle uttrykksformer fra ulike medier knyttet til egne interesser",
               "en": "explore and present the content of cultural forms of expression from various media in the English-speaking world that are related to one's own interests"
@@ -835,7 +869,7 @@
         },
         "competenceGoals": [
           {
-            "code": "KM6",
+            "code": "KM11806",
             "text": {
               "local": "bruke egnede strategier i språklæring, tekstskaping og kommunikasjon",
               "en": "use appropriate strategies for language learning, text creation and communication"
@@ -849,7 +883,7 @@
             ]
           },
           {
-            "code": "KM11",
+            "code": "KM11811",
             "text": {
               "local": "bruke egnede digitale ressurser og andre hjelpemidler i språklæring, tekstskaping og samhandling",
               "en": "use appropriate digital resources and other aids in language learning, text creation and interaction"
@@ -863,7 +897,7 @@
             ]
           },
           {
-            "code": "KM42",
+            "code": "KM11818",
             "text": {
               "local": "bruke mønstre for uttale i kommunikasjon",
               "en": "use patterns of pronunciation in communication"
@@ -877,7 +911,7 @@
             ]
           },
           {
-            "code": "KM9",
+            "code": "KM11803",
             "text": {
               "local": "lytte til, forstå og bruke fagterminologi muntlig og skriftlig i arbeidssituasjoner",
               "en": "listen to, understand and use terminology appropriate for the trade, both orally and in writing, in work situations"
@@ -892,7 +926,7 @@
             ]
           },
           {
-            "code": "KM8",
+            "code": "KM11804",
             "text": {
               "local": "uttrykke seg nyansert og presist med flyt og sammenheng, idiomatiske uttrykk og varierte setningsstrukturer tilpasset formål, mottaker og situasjon",
               "en": "express oneself in a nuanced and precise manner with fluency and coherence, using idiomatic expressions and varied sentence structures adapted to the purpose, recipient and situation"
@@ -904,7 +938,7 @@
             "verbs": []
           },
           {
-            "code": "KM7",
+            "code": "KM11805",
             "text": {
               "local": "gjøre rede for andres argumentasjon og bruke og følge opp andres innspill i samtaler og diskusjoner om yrkesrelevante emner",
               "en": "explain the reasoning of others and use and follow up input during conversations and discussions on vocationally relevant topics"
@@ -918,7 +952,7 @@
             ]
           },
           {
-            "code": "KM5",
+            "code": "KM11807",
             "text": {
               "local": "bruke kunnskap om sammenhenger mellom engelsk og andre språk eleven kjenner til i egen språklæring",
               "en": "use knowledge of similarities between English and other languages the pupil knows in language learning"
@@ -931,7 +965,7 @@
             ]
           },
           {
-            "code": "KM41",
+            "code": "KM11819",
             "text": {
               "local": "bruke kunnskap om grammatikk og tekststruktur i arbeid med egne muntlige og skriftlige tekster",
               "en": "use knowledge of grammar and text structure in working on one's own oral and written texts"
@@ -944,7 +978,7 @@
             ]
           },
           {
-            "code": "KM4",
+            "code": "KM11808",
             "text": {
               "local": "lese, diskutere og reflektere over innhold og virkemidler i ulike typer tekster, inkludert selvvalgte tekster",
               "en": "read, discuss and reflect on the content and language features and literary devices in various types of texts, including self-chosen texts"
@@ -958,7 +992,7 @@
             ]
           },
           {
-            "code": "KM3",
+            "code": "KM11809",
             "text": {
               "local": "lese og sammenfatte faglig innhold fra engelskspråklig dokumentasjon",
               "en": "read and summarise vocational content from English-language documentation"
@@ -969,7 +1003,7 @@
             "verbs": []
           },
           {
-            "code": "KM2",
+            "code": "KM11810",
             "text": {
               "local": "lese og sammenligne ulike sakprosatekster om samme emne fra forskjellige kilder og kritisk vurdere hvor pålitelige kildene er",
               "en": "read and compare different factual texts on the same topic from different sources and critically assess the reliability of the sources"
@@ -983,7 +1017,7 @@
             ]
           },
           {
-            "code": "KM24",
+            "code": "KM11812",
             "text": {
               "local": "bruke ulike kilder på en kritisk, hensiktsmessig og etterrettelig måte",
               "en": "use different sources in a critical, appropriate and accountable manner"
@@ -997,7 +1031,7 @@
             ]
           },
           {
-            "code": "KM35",
+            "code": "KM11813",
             "text": {
               "local": "skape yrkesrelevante tekster med struktur og sammenheng som beskriver og dokumenterer eget arbeid tilpasset formål, mottaker og situasjon",
               "en": "create texts relevant to the vocation with structure and coherence that describe and document the pupil’s own work and are adapted to the purpose, recipient and situation"
@@ -1009,7 +1043,7 @@
             "verbs": []
           },
           {
-            "code": "KM25",
+            "code": "KM11814",
             "text": {
               "local": "vurdere og bearbeide egne tekster ut fra faglige kriterier og kunnskap om språk",
               "en": "assess and revise one's own texts based on criteria in the subject and knowledge of language"
@@ -1022,7 +1056,7 @@
             ]
           },
           {
-            "code": "KM45",
+            "code": "KM11815",
             "text": {
               "local": "beskrive sentrale trekk ved framveksten av engelsk som arbeidsspråk",
               "en": "describe key features of the development of English as a language in working life"
@@ -1036,7 +1070,7 @@
             ]
           },
           {
-            "code": "KM43",
+            "code": "KM11817",
             "text": {
               "local": "utforske og reflektere over mangfold og samfunnsforhold i den engelskspråklige verden ut fra historiske sammenhenger",
               "en": "explore and reflect on diversity and social conditions in the English-speaking world based on historical contexts"
@@ -1051,7 +1085,7 @@
             ]
           },
           {
-            "code": "KM44",
+            "code": "KM11816",
             "text": {
               "local": "diskutere og reflektere over form, innhold og virkemidler i engelskspråklige kulturelle uttrykksformer fra ulike medier, inkludert musikk, film og spill",
               "en": "discuss and reflect on form, content and language features and literary devices in cultural forms of expression in English from different media in the English-speaking world, including music, film and gaming"
@@ -1074,7 +1108,7 @@
         },
         "competenceGoals": [
           {
-            "code": "KM37",
+            "code": "KM11823",
             "text": {
               "local": "bruke egnede strategier i språklæring, tekstskaping og kommunikasjon",
               "en": "use appropriate strategies for language learning, text creation and communication"
@@ -1088,7 +1122,7 @@
             ]
           },
           {
-            "code": "KM31",
+            "code": "KM11829",
             "text": {
               "local": "bruke egnede digitale ressurser og andre hjelpemidler i språklæring, tekstskaping og samhandling",
               "en": "use appropriate digital resources and other aids in language learning, text creation and interaction"
@@ -1102,7 +1136,7 @@
             ]
           },
           {
-            "code": "KM95",
+            "code": "KM11836",
             "text": {
               "local": "bruke mønstre for uttale i kommunikasjon",
               "en": "use pronunciation patterns in communication"
@@ -1116,7 +1150,7 @@
             ]
           },
           {
-            "code": "KM40",
+            "code": "KM11820",
             "text": {
               "local": "lytte til, forstå og bruke akademisk språk i arbeid med egne muntlige og skriftlige tekster",
               "en": "listen to, understand and use academic language in working on one's own oral and written texts"
@@ -1131,7 +1165,7 @@
             ]
           },
           {
-            "code": "KM39",
+            "code": "KM11821",
             "text": {
               "local": "uttrykke seg nyansert og presist med flyt og sammenheng, idiomatiske uttrykk og varierte setningsstrukturer tilpasset formål, mottaker og situasjon",
               "en": "express himself or herself in a nuanced and precise manner with fluency and coherence, using idiomatic expressions and varied sentence structures adapted to the purpose, receiver and situation"
@@ -1143,7 +1177,7 @@
             "verbs": []
           },
           {
-            "code": "KM38",
+            "code": "KM11822",
             "text": {
               "local": "gjøre rede for andres argumentasjon og bruke og følge opp andres innspill i samtaler og diskusjoner om ulike emner",
               "en": "explain the reasoning of others and use and follow up input from others during conversations and discussions on various topics"
@@ -1157,7 +1191,7 @@
             ]
           },
           {
-            "code": "KM46",
+            "code": "KM11824",
             "text": {
               "local": "bruke kunnskap om sammenhenger mellom engelsk og andre språk eleven kjenner til i egen språklæring",
               "en": "use knowledge of similarities between English and other languages with which the pupil is familiar in language learning"
@@ -1170,7 +1204,7 @@
             ]
           },
           {
-            "code": "KM36",
+            "code": "KM11825",
             "text": {
               "local": "bruke kunnskap om grammatikk og tekststruktur i arbeid med egne muntlige og skriftlige tekster",
               "en": "use knowledge of grammar and text structure in working on one's own oral and written texts"
@@ -1183,7 +1217,7 @@
             ]
           },
           {
-            "code": "KM34",
+            "code": "KM11826",
             "text": {
               "local": "lese, diskutere og reflektere over innhold og virkemidler i ulike typer tekster, inkludert selvvalgte tekster",
               "en": "read, discuss and reflect on the content and language features and literary devices in various types of texts, including self-chosen texts"
@@ -1197,7 +1231,7 @@
             ]
           },
           {
-            "code": "KM33",
+            "code": "KM11827",
             "text": {
               "local": "lese, analysere og tolke engelskspråklig skjønnlitteratur",
               "en": "read, analyse and interpret fictional texts in English"
@@ -1211,7 +1245,7 @@
             ]
           },
           {
-            "code": "KM32",
+            "code": "KM11828",
             "text": {
               "local": "lese og sammenligne ulike sakprosatekster om samme emne fra forskjellige kilder og kritisk vurdere hvor pålitelige kildene er",
               "en": "read and compare different factual texts on the same topic from different sources and critically assess the reliability of the sources"
@@ -1225,7 +1259,7 @@
             ]
           },
           {
-            "code": "KM30",
+            "code": "KM11830",
             "text": {
               "local": "bruke ulike kilder på en kritisk, hensiktsmessig og etterrettelig måte",
               "en": "use different sources in a critical, appropriate and accountable manner"
@@ -1239,7 +1273,7 @@
             ]
           },
           {
-            "code": "KM29",
+            "code": "KM11831",
             "text": {
               "local": "skrive ulike typer formelle og uformelle tekster, inkludert sammensatte, med struktur og sammenheng som beskriver, diskuterer, begrunner og reflekterer tilpasset formål, mottaker og situasjon",
               "en": "write different types of formal and informal texts, including multimedia texts with structure and coherence that describe, discuss, reason and reflect adapted to the purpose, recipient and situation"
@@ -1251,7 +1285,7 @@
             "verbs": []
           },
           {
-            "code": "KM28",
+            "code": "KM11832",
             "text": {
               "local": "vurdere og bearbeide egne tekster ut fra faglige kriterier og kunnskap om språk",
               "en": "assess and revise one's own texts based on criteria in the subject and knowledge of language"
@@ -1264,7 +1298,7 @@
             ]
           },
           {
-            "code": "KM27",
+            "code": "KM11833",
             "text": {
               "local": "beskrive sentrale trekk ved framveksten av engelsk som verdensspråk",
               "en": "describe key features of the development of English as a global language"
@@ -1278,7 +1312,7 @@
             ]
           },
           {
-            "code": "KM47",
+            "code": "KM11835",
             "text": {
               "local": "utforske og reflektere over mangfold og samfunnsforhold i den engelskspråklige verden ut fra historiske sammenhenger",
               "en": "explore and reflect on diversity and social conditions in the English-speaking world based on historical contexts"
@@ -1293,7 +1327,7 @@
             ]
           },
           {
-            "code": "KM26",
+            "code": "KM11834",
             "text": {
               "local": "diskutere og reflektere over form, innhold og virkemidler i engelskspråklige kulturelle uttrykksformer fra ulike medier, inkludert musikk, film og spill",
               "en": "discuss and reflect on form, content and language features and literary devices in different cultural forms of expression from different media in the English-language world, including music, film and gaming"

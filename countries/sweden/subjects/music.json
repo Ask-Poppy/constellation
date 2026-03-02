@@ -1,0 +1,607 @@
+{
+  "country": "sweden",
+  "source": {
+    "api": "https://api.skolverket.se/syllabus/v1/subjects/GRGRMUS01",
+    "curriculum": "Lgr22",
+    "license": "CC0",
+    "lastSynced": "2026-03-02T21:29:34Z"
+  },
+  "subject": {
+    "code": "GRGRMUS01",
+    "name": {
+      "local": "Musik",
+      "en": "Music"
+    },
+    "coreElements": [
+      {
+        "code": "",
+        "name": {
+          "local": "förmåga att sjunga och spela i olika musikaliska former och genrer,",
+          "en": ""
+        },
+        "description": {
+          "local": "förmåga att sjunga och spela i olika musikaliska former och genrer,",
+          "en": ""
+        }
+      },
+      {
+        "code": "",
+        "name": {
+          "local": "förmåga att skapa musik samt uttrycka och kommunicera tankar och idéer i musikalisk form, och",
+          "en": ""
+        },
+        "description": {
+          "local": "förmåga att skapa musik samt uttrycka och kommunicera tankar och idéer i musikalisk form, och",
+          "en": ""
+        }
+      },
+      {
+        "code": "",
+        "name": {
+          "local": "förmåga att uppleva och reflektera över musikens innehåll, funktion och be­tydelse i olika sociala, kulturella och historiska sammanhang.",
+          "en": ""
+        },
+        "description": {
+          "local": "förmåga att uppleva och reflektera över musikens innehåll, funktion och be­tydelse i olika sociala, kulturella och historiska sammanhang.",
+          "en": ""
+        }
+      }
+    ],
+    "gradeBands": [
+      {
+        "afterGrade": 3,
+        "label": {
+          "local": "Årskurs 1-3",
+          "en": "Years 1-3"
+        },
+        "competenceGoals": [
+          {
+            "code": "MU-1-3-1",
+            "text": {
+              "local": "Sång och spel i olika former. Unison sång, kanon, växelsång och ensemble­spel.",
+              "en": ""
+            },
+            "coreElements": [
+              "Musicerande och musikskapande"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MU-1-3-2",
+            "text": {
+              "local": "Imitation och improvisation med röst, rörelse och instrument.",
+              "en": ""
+            },
+            "coreElements": [
+              "Musicerande och musikskapande"
+            ],
+            "verbs": [
+              "Visa"
+            ]
+          },
+          {
+            "code": "MU-1-3-3",
+            "text": {
+              "local": "Komposition med utgångspunkt i inspirationskällor, till exempel bild, rörel­se och musik.",
+              "en": ""
+            },
+            "coreElements": [
+              "Musicerande och musikskapande"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MU-1-3-4",
+            "text": {
+              "local": "Gestaltning av sånger och berättelser med ljud, rytmer och rörelser.",
+              "en": ""
+            },
+            "coreElements": [
+              "Musicerande och musikskapande"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MU-1-3-5",
+            "text": {
+              "local": "Rösten och hur den kan användas för musikaliska uttryck genom variation av klang, rytm och dynamik.",
+              "en": ""
+            },
+            "coreElements": [
+              "Musikens verktyg"
+            ],
+            "verbs": [
+              "Använda"
+            ]
+          },
+          {
+            "code": "MU-1-3-6",
+            "text": {
+              "local": "Slagverksinstrument, stränginstrument, tangentinstrument och digitala verk­tyg för musicerande och musikskapande.",
+              "en": ""
+            },
+            "coreElements": [
+              "Musikens verktyg"
+            ],
+            "verbs": [
+              "Skapa"
+            ]
+          },
+          {
+            "code": "MU-1-3-7",
+            "text": {
+              "local": "Röstvård och hörselvård vid sång, spel och lyssnande.",
+              "en": ""
+            },
+            "coreElements": [
+              "Musikens verktyg"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MU-1-3-8",
+            "text": {
+              "local": "Musikaliska byggstenar: puls, rytm, tempo, klang, tonhöjd och dynamik.",
+              "en": ""
+            },
+            "coreElements": [
+              "Musikens verktyg"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MU-1-3-9",
+            "text": {
+              "local": "Musiksymboler, bilder och grundläggande notkännedom.",
+              "en": ""
+            },
+            "coreElements": [
+              "Musikens verktyg"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MU-1-3-10",
+            "text": {
+              "local": "Musik som knyter an till elevens vardagliga och högtidliga sammanhang, däri­bland nationalsången och några av de vanligaste psalmerna, samt in­blickar i svensk och nordisk barnvisetradition.",
+              "en": ""
+            },
+            "coreElements": [
+              "Musikens sammanhang och funktioner"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MU-1-3-11",
+            "text": {
+              "local": "Olika musikinstrument. Hur de låter, vad de heter och hur de ser ut.",
+              "en": ""
+            },
+            "coreElements": [
+              "Musikens sammanhang och funktioner"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MU-1-3-12",
+            "text": {
+              "local": "Associationer i form av tankar, känslor och inre bilder som uppkommer genom musikupplevelser.",
+              "en": ""
+            },
+            "coreElements": [
+              "Musikens sammanhang och funktioner"
+            ],
+            "verbs": []
+          }
+        ]
+      },
+      {
+        "afterGrade": 6,
+        "label": {
+          "local": "Årskurs 4-6",
+          "en": "Years 4-6"
+        },
+        "competenceGoals": [
+          {
+            "code": "MU-4-6-1",
+            "text": {
+              "local": "Sång, melodispel och ackompanjemang i olika genrer, unisont och i stämmor.",
+              "en": ""
+            },
+            "coreElements": [
+              "Musicerande och musikskapande"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MU-4-6-2",
+            "text": {
+              "local": "Imitation och improvisation med röst, rörelse och instrument med utgångs­punkt i musikaliska byggstenar.",
+              "en": ""
+            },
+            "coreElements": [
+              "Musicerande och musikskapande"
+            ],
+            "verbs": [
+              "Visa"
+            ]
+          },
+          {
+            "code": "MU-4-6-3",
+            "text": {
+              "local": "Komposition med utgångspunkt i musikaliska byggstenar.",
+              "en": ""
+            },
+            "coreElements": [
+              "Musicerande och musikskapande"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MU-4-6-4",
+            "text": {
+              "local": "Gestaltning av idéer genom att musicera och genom att kombinera musik med andra uttrycksformer.",
+              "en": ""
+            },
+            "coreElements": [
+              "Musicerande och musikskapande"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MU-4-6-5",
+            "text": {
+              "local": "Rösten och hur den kan varieras och användas musikaliskt i olika vokala uttryck, till exempel sång, jojk och rap.",
+              "en": ""
+            },
+            "coreElements": [
+              "Musikens verktyg"
+            ],
+            "verbs": [
+              "Använda"
+            ]
+          },
+          {
+            "code": "MU-4-6-6",
+            "text": {
+              "local": "Ackord-, melodi-, bas- och slagverksinstrument samt digitala verktyg för musice­rande och musikskapande.",
+              "en": ""
+            },
+            "coreElements": [
+              "Musikens verktyg"
+            ],
+            "verbs": [
+              "Skapa"
+            ]
+          },
+          {
+            "code": "MU-4-6-7",
+            "text": {
+              "local": "Röstvård och hörselvård vid musikaliska aktiviteter i olika miljöer.",
+              "en": ""
+            },
+            "coreElements": [
+              "Musikens verktyg"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MU-4-6-8",
+            "text": {
+              "local": "Musikaliska byggstenar: puls, rytm, tempo, taktarter, klang, tonhöjd, dyna­mik, fraser, perioder, musikalisk form och ackord.",
+              "en": ""
+            },
+            "coreElements": [
+              "Musikens verktyg"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MU-4-6-9",
+            "text": {
+              "local": "Musiksymboler, grafisk notation, ackordbeteckningar och grundläggande not­kännedom.",
+              "en": ""
+            },
+            "coreElements": [
+              "Musikens verktyg"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MU-4-6-10",
+            "text": {
+              "local": "Musikens påverkan på och betydelse för människa och samhälle. Hur musik kan uppfattas och användas i vardagliga och högtidliga sam­man­hang.",
+              "en": ""
+            },
+            "coreElements": [
+              "Musikens sammanhang och funktioner"
+            ],
+            "verbs": [
+              "Använda"
+            ]
+          },
+          {
+            "code": "MU-4-6-11",
+            "text": {
+              "local": "Musik tillsammans med bild, text och dans. Hur olika uttrycksformer kan sam­spela.",
+              "en": ""
+            },
+            "coreElements": [
+              "Musikens sammanhang och funktioner"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MU-4-6-12",
+            "text": {
+              "local": "Musikinstrumentens funktioner i olika ensemble- och orkestertyper.",
+              "en": ""
+            },
+            "coreElements": [
+              "Musikens sammanhang och funktioner"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MU-4-6-13",
+            "text": {
+              "local": "Musikaliska karaktärsdrag i konstmusik, folkmusik och populärmusik från oli­ka kulturer.",
+              "en": ""
+            },
+            "coreElements": [
+              "Musikens sammanhang och funktioner"
+            ],
+            "verbs": []
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "E",
+            "text": {
+              "local": "Betygskriterier för betyget E i slutet av årskurs 6Eleven musicerar och genomför sina sång- och spelstämmor med viss säkerhet. Dessutom anpassar eleven i huvudsak sitt musicerande till det musikaliska sammanhanget. Genom musikaliskt skapande uttrycker eleven idéer och tankar på ett i huvudsak fungerande sätt. Eleven komponerar musikaliska uttryck som har en i huvudsak fungerande form. Eleven urskiljer och ger med viss säkerhet exempel på instrument och musikaliska karaktärsdrag i olika typer av musik. Dessutom uttrycker eleven viss förståelse för musikens innehåll, funktion och betydelse i något sammanhang.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "D",
+            "text": {
+              "local": "Betygskriterier för betyget D i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan C och E.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "C",
+            "text": {
+              "local": "Betygskriterier för betyget C i slutet av årskurs 6Eleven musicerar och genomför sina sång- och spelstämmor med relativt god säkerhet. Dessutom anpassar eleven väl sitt musicerande till det musikaliska sammanhanget. Genom musikaliskt skapande uttrycker eleven idéer och tankar på ett fungerande sätt. Eleven komponerar musikaliska uttryck som har en fungerande form. Eleven urskiljer och ger med relativt god säkerhet exempel på instrument och musikaliska karaktärsdrag i olika typer av musik. Dessutom uttrycker eleven relativt god förståelse för musikens innehåll, funktion och betydelse i något sammanhang.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "B",
+            "text": {
+              "local": "Betygskriterier för betyget B i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan A och C.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "A",
+            "text": {
+              "local": "Betygskriterier för betyget A i slutet av årskurs 6Eleven musicerar och genomför sina sång- och spelstämmor med god säkerhet. Dessutom anpassar eleven sitt musicerande mycket väl till det musikaliska sammanhanget. Genom musikaliskt skapande uttrycker eleven idéer och tankar på ett väl fungerande sätt. Eleven komponerar musikaliska uttryck som har en väl fungerande form. Eleven urskiljer och ger med god säkerhet exempel på instrument och musikaliska karaktärsdrag i olika typer av musik. Dessutom uttrycker eleven god förståelse för musikens innehåll, funktion och betydelse i något sammanhang.",
+              "en": ""
+            }
+          }
+        ]
+      },
+      {
+        "afterGrade": 9,
+        "label": {
+          "local": "Årskurs 7-9",
+          "en": "Years 7-9"
+        },
+        "competenceGoals": [
+          {
+            "code": "MU-7-9-1",
+            "text": {
+              "local": "Sång, melodispel och ackompanjemang med genretypiska musikaliska uttryck, unisont och i stämmor.",
+              "en": ""
+            },
+            "coreElements": [
+              "Musicerande och musikskapande"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MU-7-9-2",
+            "text": {
+              "local": "Rytmisk och melodisk improvisation med röst, rörelse och instrument med ut­gångs­­punkt i musikaliska byggstenar.",
+              "en": ""
+            },
+            "coreElements": [
+              "Musicerande och musikskapande"
+            ],
+            "verbs": [
+              "Visa"
+            ]
+          },
+          {
+            "code": "MU-7-9-3",
+            "text": {
+              "local": "Komposition i olika genrer, till exempel visor, ljudkompositioner och låtar.",
+              "en": ""
+            },
+            "coreElements": [
+              "Musicerande och musikskapande"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MU-7-9-4",
+            "text": {
+              "local": "Gestaltning och kommunikation av musikaliska tankar och idéer i kom­bi­na­tion med andra uttrycksformer.",
+              "en": ""
+            },
+            "coreElements": [
+              "Musicerande och musikskapande"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MU-7-9-5",
+            "text": {
+              "local": "Rösten och hur den kan varieras och användas för vokala uttryck inom oli­ka genrer och ensembletyper.",
+              "en": ""
+            },
+            "coreElements": [
+              "Musikens verktyg"
+            ],
+            "verbs": [
+              "Använda"
+            ]
+          },
+          {
+            "code": "MU-7-9-6",
+            "text": {
+              "local": "Ackord-, melodi-, bas- och slagverksinstrument samt digitala verktyg för musice­rande och musikskapande.",
+              "en": ""
+            },
+            "coreElements": [
+              "Musikens verktyg"
+            ],
+            "verbs": [
+              "Skapa"
+            ]
+          },
+          {
+            "code": "MU-7-9-7",
+            "text": {
+              "local": "Röstvård och hörselvård. Orsaker till att tal, sång, musiklyssnande och musice­rande kan bidra till skador samt hur dessa skador kan förebyggas.",
+              "en": ""
+            },
+            "coreElements": [
+              "Musikens verktyg"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MU-7-9-8",
+            "text": {
+              "local": "Musikaliska byggstenar: puls, rytm, tempo, taktarter, klang, tonhöjd, dy­na­mik, fraser, perioder, musikalisk form, ackord, ackompanjemangsmodeller och basgångar.",
+              "en": ""
+            },
+            "coreElements": [
+              "Musikens verktyg"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MU-7-9-9",
+            "text": {
+              "local": "Musiksymboler, grafisk notation, ackordbeteckningar och grundläggande no­tkännedom.",
+              "en": ""
+            },
+            "coreElements": [
+              "Musikens verktyg"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MU-7-9-10",
+            "text": {
+              "local": "Musikens påverkan på och betydelse för människa och samhälle. Musikens funk­tion för att uttrycka identitet, normer och grupptillhörighet i olika kul­tu­rer och sociala sammanhang.",
+              "en": ""
+            },
+            "coreElements": [
+              "Musikens sammanhang och funktioner"
+            ],
+            "verbs": [
+              "Uttrycka"
+            ]
+          },
+          {
+            "code": "MU-7-9-11",
+            "text": {
+              "local": "Hur musik används som meningsskapande uttrycksform i olika medier, till exempel i film och spel.",
+              "en": ""
+            },
+            "coreElements": [
+              "Musikens sammanhang och funktioner"
+            ],
+            "verbs": [
+              "Skapa"
+            ]
+          },
+          {
+            "code": "MU-7-9-12",
+            "text": {
+              "local": "Rättigheter och skyldigheter vid bruk av musik i olika sammanhang.",
+              "en": ""
+            },
+            "coreElements": [
+              "Musikens sammanhang och funktioner"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MU-7-9-13",
+            "text": {
+              "local": "Musikinstrumentens funktioner och uttryck i olika genrer och sam­man­hang.",
+              "en": ""
+            },
+            "coreElements": [
+              "Musikens sammanhang och funktioner"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "MU-7-9-14",
+            "text": {
+              "local": "Musikaliska karaktärsdrag i konstmusik, folkmusik och populärmusik från oli­ka tidsperioder. Framväxten av olika genrer samt några centrala ton­sätta­re, låtskrivare och musikaliska verk.",
+              "en": ""
+            },
+            "coreElements": [
+              "Musikens sammanhang och funktioner"
+            ],
+            "verbs": []
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "E",
+            "text": {
+              "local": "Betygskriterier för betyget E i slutet av årskurs 9Eleven musicerar och genomför sina sång- och spelstämmor med viss säkerhet. Dessutom anpassar eleven sitt musicerande i huvudsak till det musikaliska sammanhanget och musikens karaktär. Genom musikaliskt skapande uttrycker eleven idéer och tankar på ett i huvudsak fungerande sätt. Eleven komponerar musik som har en i huvudsak fungerande form och karaktäristisk stil. Eleven urskiljer och jämför musikaliska karaktärsdrag i musik från olika tidsperioder och genrer med viss säkerhet. Dessutom uttrycker eleven viss förståelse för musikens innehåll, funktion och betydelse i olika sammanhang.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "D",
+            "text": {
+              "local": "Betygskriterier för betyget D i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan C och E.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "C",
+            "text": {
+              "local": "Betygskriterier för betyget C i slutet av årskurs 9Eleven musicerar och genomför sina sång- och spelstämmor med relativt god säkerhet. Dessutom anpassar eleven sitt musicerande väl till det musikaliska sammanhanget och musikens karaktär. Genom musikaliskt skapande uttrycker eleven idéer och tankar på ett fungerande sätt. Eleven komponerar musik som har en fungerande form och karaktäristisk stil. Eleven urskiljer och jämför musikaliska karaktärsdrag från olika tidsperioder och genrer med relativt god säkerhet. Eleven uttrycker relativt god förståelse för musikens innehåll, funktion och betydelse i olika sammanhang.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "B",
+            "text": {
+              "local": "Betygskriterier för betyget B i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan A och C.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "A",
+            "text": {
+              "local": "Betygskriterier för betyget A i slutet av årskurs 9Eleven musicerar och genomför sina sång- och spelstämmor med god säkerhet. Dessutom anpassar eleven sitt musicerande mycket väl till det musikaliska sammanhanget och musikens karaktär. Genom musikaliskt skapande uttrycker eleven idéer och tankar på ett väl fungerande sätt. Eleven komponerar musik som har en väl fungerande form och karaktäristisk stil. Eleven urskiljer och jämför musikaliska karaktärsdrag från olika tidsperioder och genrer med god säkerhet. Dessutom uttrycker eleven god förståelse för musikens innehåll, funktion och betydelse i olika sammanhang.",
+              "en": ""
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,438 @@
+{
+  "country": "finland",
+  "source": {
+    "api": "https://eperusteet.opintopolku.fi/eperusteet-service/api/external/peruste/419550/perusopetus/oppiaineet/502087",
+    "curriculum": "POPS 2014",
+    "license": "Open Government Data (Finland)",
+    "lastSynced": "2026-03-02T21:29:44Z"
+  },
+  "subject": {
+    "code": "KT",
+    "name": {
+      "local": "Evankelisluterilainen uskonto",
+      "en": "Religion"
+    },
+    "coreElements": [
+      {
+        "code": "S1",
+        "name": {
+          "local": "S1 Suhde omaan uskontoon",
+          "en": ""
+        },
+        "description": {
+          "local": "Opetuksen sisältöjen valinnassa keskeistä on kristinusko eri puolilla maailmaa, painottaen nykytilannetta. Opetuksessa tarkastellaan kristinuskon syntyä, leviämistä ja jakaantumista kirkkokunniksi. Perehdytään suurimpiin kristillisiin kirkkokuntiin: katolinen ja ortodoksinen kirkko sekä protestanttiset kirkot, erityisesti luterilainen kirkko. Opetuksessa perehdytään kirkkokuntien levinneisyyteen, keskeisiin opetuksiin. Tutkitaan Raamatun syntyhistoriaa, keskeistä sisältöä ja tulkintatapoja sekä uskonnon kulttuurivaikutuksia. Perehdytään syvemmin kristinuskoon Suomessa ja sen kulttuurivaikutuksiin. Jäsennetään omaa suhdetta luterilaisuuteen, suomalaisuuteen ja eurooppalaisuuteen.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S2",
+        "name": {
+          "local": "S2 Uskontojen maailma",
+          "en": ""
+        },
+        "description": {
+          "local": "Opetuksessa tarkastellaan suurten maailmanuskontojen levinneisyyttä, perusopetuksia ja vaikutusta kulttuuriin eri puolilla maailmaa. Tutustutaan lisäksi luonnonuskontoihin ja uusiin uskonnollisiin liikkeisiin sekä uskonnottomuuteen elämänkatsomuksena. Uskontoja tarkastellaan tieteellisestä näkökulmasta ottaen huomioon uskonnon eri ulottuvuudet. Sisältöjen valinnassa otetaan huomioon uskon ja tiedon sekä uskonnollisen kielen ja tieteellisen kielen erottaminen, uskontokritiikki sekä uskontojen näkyminen kulttuurin eri osa-alueilla, mediassa, politiikassa, populaarikulttuurissa, taiteessa ja tapakulttuurissa. Syvennetään ekumenian sekä uskontojen ja katsomusten välisen dialogin ymmärtämistä osana uskontojen välistä toimintaa ja maailmanrauhaa.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S3",
+        "name": {
+          "local": "S3 Hyvä elämä",
+          "en": ""
+        },
+        "description": {
+          "local": "Opetuksessa keskeistä on etiikan peruskäsitteiden tunteminen ja ymmärtäminen. Perehdytään syvällisemmin kristinuskon ja muiden uskontojen eettiseen opetukseen ja eri kristillisten kirkkojen eettisiin painotuksiin sekä Raamatun ja etiikan suhteeseen. Tutustutaan YK:n Yleismaailmalliseen ihmisoikeuksien julistukseen ja ihmisoikeusetiikkaan. Opetuksen sisällöiksi valitaan elämänkysymyksiin, suomalaiseen yhteiskuntaan, globaaliin vastuuseen sekä ympäristöön ja eläimiin liittyviä eettisiä kysymyksiä. Tarkastellaan eettisiä kysymyksiä mediasta otetuilla ajankohtaisilla esimerkeillä. Pohditaan omien valintojen eettisiä ulottuvuuksia ja niiden vaikutusta omaan ja toisten hyvinvointiin.",
+          "en": ""
+        }
+      }
+    ],
+    "gradeBands": [
+      {
+        "afterGrade": 2,
+        "label": {
+          "local": "Vuosiluokat 1–2",
+          "en": "Grades 1–2"
+        },
+        "competenceGoals": [
+          {
+            "code": "T1",
+            "text": {
+              "local": "T1 herättää oppilaassa mielenkiinto uskonnon opiskelua kohtaan ja opastaa tuntemaan oman perheen uskonnollista ja katsomuksellista taustaa",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S2",
+              "S3"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T2",
+            "text": {
+              "local": "T2 ohjata oppilasta tutustumaan opiskeltavan uskonnon keskeisiin käsitteisiin, kertomuksiin ja symboleihin",
+              "en": ""
+            },
+            "coreElements": [
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T3",
+            "text": {
+              "local": "T3 ohjata oppilasta tutustumaan opiskeltavan uskonnon vuodenkiertoon, juhliin ja tapoihin",
+              "en": ""
+            },
+            "coreElements": [
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T4",
+            "text": {
+              "local": "T4 kannustaa oppilasta tutustumaan luokan, koulun ja lähiympäristön uskontojen ja katsomusten tapoihin ja juhlaperinteisiin",
+              "en": ""
+            },
+            "coreElements": [
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T5",
+            "text": {
+              "local": "T5 rohkaista oppilasta tunnistamaan ja ilmaisemaan omia ajatuksiaan ja tunteitaan",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S3"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T6",
+            "text": {
+              "local": "T6 ohjata oppilasta toimimaan oikeudenmukaisesti, eläytymään toisen asemaan sekä kunnioittamaan toisen ihmisen ajatuksia ja vakaumusta sekä ihmisoikeuksia",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S2",
+              "S3"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T7",
+            "text": {
+              "local": "T7 ohjata oppilaita eettiseen pohdintaan sekä hahmottamaan, mitä tarkoittaa vastuu itsestä, yhteisöstä, ympäristöstä ja luonnosta",
+              "en": ""
+            },
+            "coreElements": [
+              "S3"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T8",
+            "text": {
+              "local": "T8 luoda oppilaalle tilaisuuksia harjoitella omien mielipiteiden esittämistä ja perustelemista sekä erilaisten mielipiteiden kuuntelemista ja ymmärtämistä",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S3"
+            ],
+            "verbs": []
+          }
+        ]
+      },
+      {
+        "afterGrade": 6,
+        "label": {
+          "local": "Vuosiluokat 3–6",
+          "en": "Grades 3–6"
+        },
+        "competenceGoals": [
+          {
+            "code": "T1",
+            "text": {
+              "local": "T1 ohjata oppilasta perehtymään opiskeltavan uskonnon pyhiin kirjoihin ja kertomuksiin sekä keskeisiin oppeihin",
+              "en": ""
+            },
+            "coreElements": [
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T2",
+            "text": {
+              "local": "T2 ohjata oppilas tutustumaan opiskeltavan uskonnon rituaaleihin ja tapoihin sekä pyhiin paikkoihin ja rakennuksiin",
+              "en": ""
+            },
+            "coreElements": [
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T3",
+            "text": {
+              "local": "T3 auttaa oppilasta tunnistamaan uskonnollisen kielen erityispiirteitä ja vertauskuvallisuutta",
+              "en": ""
+            },
+            "coreElements": [
+              "S2",
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T4",
+            "text": {
+              "local": "T4 ohjata oppilasta etsimään, arvioimaan ja käyttämään uskontoa koskevaa tietoa erilaisista lähteistä",
+              "en": ""
+            },
+            "coreElements": [
+              "S2",
+              "S3",
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T5",
+            "text": {
+              "local": "T5 opastaa oppilasta perehtymään Suomen ja Euroopan uskonnollisiin ja katsomuksellisiin juuriin ja nykytilaan",
+              "en": ""
+            },
+            "coreElements": [
+              "S2",
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T6",
+            "text": {
+              "local": "T6 ohjata oppilas tutustumaan juutalaisuuteen, kristinuskoon ja islamiin ja niiden vaikutukseen ja historiaan Euroopassa",
+              "en": ""
+            },
+            "coreElements": [
+              "S2",
+              "S3"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T7",
+            "text": {
+              "local": "T7 kannustaa oppilasta kunnioittamaan omaa ja toisen pyhää sekä käyttäytymään asianmukaisesti erilaisissa uskonnollisissa tilaisuuksissa ja tilanteissa",
+              "en": ""
+            },
+            "coreElements": [
+              "S2",
+              "S3",
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T8",
+            "text": {
+              "local": "T8 ohjata oppilas perehtymään opiskeltavan uskonnon eettisiin opetuksiin sekä eri uskontoja yhdistäviin eettisiin periaatteisiin",
+              "en": ""
+            },
+            "coreElements": [
+              "S2",
+              "S3",
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T9",
+            "text": {
+              "local": "T9 ohjata oppilasta ymmärtämään ihmisoikeuksiin ja erityisesti YK:n Lapsen oikeuksien sopimukseen sisältyviä arvoja yksilön ja yhteisön näkökulmasta",
+              "en": ""
+            },
+            "coreElements": [
+              "S2",
+              "S3"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T10",
+            "text": {
+              "local": "T10 ohjata oppilasta arvioimaan tekemiään valintoja ja pohtimaan toiminnan taustalla vaikuttavia arvoja eettisten periaatteiden ja kestävän tulevaisuuden näkökulmasta",
+              "en": ""
+            },
+            "coreElements": [
+              "S2",
+              "S3"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T11",
+            "text": {
+              "local": "T11 luoda oppilaalle mahdollisuuksia keskustella eettisistä kysymyksistä, ilmaista rakentavasti ajatuksiaan ja tunteitaan sekä harjoitella perustelemaan omia näkemyksiään",
+              "en": ""
+            },
+            "coreElements": [
+              "S2",
+              "S3",
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T12",
+            "text": {
+              "local": "T12 auttaa ja tukea oppilasta muodostamaan ja vahvistamaan myönteistä maailmankatsomusta, itsetuntoa ja luottamusta elämään",
+              "en": ""
+            },
+            "coreElements": [
+              "S3"
+            ],
+            "verbs": []
+          }
+        ]
+      },
+      {
+        "afterGrade": 9,
+        "label": {
+          "local": "Vuosiluokat 7–9",
+          "en": "Grades 7–9"
+        },
+        "competenceGoals": [
+          {
+            "code": "T1",
+            "text": {
+              "local": "T1 ohjata oppilasta havaitsemaan uskonnon ja kulttuurin vuorovaikutus sekä tunnistamaan uskontoon liittyvä monimuotoisuus",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T2",
+            "text": {
+              "local": "T2 ohjata oppilasta syventämään tietojaan opiskeltavasta uskonnosta ja sen vaikutuksista",
+              "en": ""
+            },
+            "coreElements": [
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T3",
+            "text": {
+              "local": "T3 ohjata oppilasta perehtymään uskontoihin ja katsomuksiin eri puolilla maailmaa sekä uskonnottomuuteen",
+              "en": ""
+            },
+            "coreElements": [
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T4",
+            "text": {
+              "local": "T4 ohjata oppilasta tuntemaan eri uskontojen ja katsomusten tapoja ja symboleita sekä tunnistamaan uskonnollisia aiheita mediassa, maailmanpolitiikassa, taiteessa ja populaarikulttuurissa",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S2",
+              "S3"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T5",
+            "text": {
+              "local": "T5 ohjata oppilasta havaitsemaan ja arvioimaan erilaisia argumentaation tapoja sekä uskonnon ja tieteen kielen välisiä eroja",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S3"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T6",
+            "text": {
+              "local": "T6 ohjata oppilasta perehtymään eettisen ajattelun keskeisiin käsitteisiin, ihmisoikeuksiin sekä opiskeltavan uskonnon ja muiden uskontojen ja katsomusten eettisiin periaatteisiin",
+              "en": ""
+            },
+            "coreElements": [
+              "S3"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T7",
+            "text": {
+              "local": "T7 auttaa oppilasta pohtimaan uskontojen ja katsomusten maailmanlaajuista merkitystä ihmisten valintojen perusteina ja ohjaajina",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S3"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T8",
+            "text": {
+              "local": "T8 rohkaista oppilasta pohtimaan ihmisyyteen kuuluvia elämänkysymyksiä, ajankohtaisia eettisiä kysymyksiä ja omien arvojen suhdetta niihin",
+              "en": ""
+            },
+            "coreElements": [
+              "S2",
+              "S3"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T9",
+            "text": {
+              "local": "T9 innostaa oppilasta tutkimaan omien valintojensa eettisiä ulottuvuuksia ja niiden vaikutusta hyvinvointiin ja kannustaa kestävään elämäntapaan",
+              "en": ""
+            },
+            "coreElements": [
+              "S2",
+              "S3"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T10",
+            "text": {
+              "local": "T10 rohkaista oppilaita kohtaamaan erilaisia ihmisiä nyt ja tulevaisuudessa jatko-opinnoissa, työelämässä ja vapaa-ajalla",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S2",
+              "S3"
+            ],
+            "verbs": []
+          }
+        ]
+      }
+    ]
+  }
+}

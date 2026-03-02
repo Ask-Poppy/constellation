@@ -1,0 +1,499 @@
+{
+  "country": "sweden",
+  "source": {
+    "api": "https://api.skolverket.se/syllabus/v1/subjects/GRGRHKK01",
+    "curriculum": "Lgr22",
+    "license": "CC0",
+    "lastSynced": "2026-03-02T21:29:52Z"
+  },
+  "subject": {
+    "code": "GRGRHKK01",
+    "name": {
+      "local": "Hem- och konsumentkunskap",
+      "en": "Home and Consumer Studies"
+    },
+    "coreElements": [
+      {
+        "code": "",
+        "name": {
+          "local": "förmåga att planera och tillaga mat och måltider för olika behov och sam­man­hang samt hantera annat praktiskt arbete som förekommer i ett hem,",
+          "en": ""
+        },
+        "description": {
+          "local": "förmåga att planera och tillaga mat och måltider för olika behov och sam­man­hang samt hantera annat praktiskt arbete som förekommer i ett hem,",
+          "en": ""
+        }
+      },
+      {
+        "code": "",
+        "name": {
+          "local": "kunskaper om ekonomi och konsumtion i hemmet, och",
+          "en": ""
+        },
+        "description": {
+          "local": "kunskaper om ekonomi och konsumtion i hemmet, och",
+          "en": ""
+        }
+      },
+      {
+        "code": "",
+        "name": {
+          "local": "förmåga att värdera val och handlingar som förekommer i ett hem utifrån hur de påverkar hälsa, ekonomi och miljö.",
+          "en": ""
+        },
+        "description": {
+          "local": "förmåga att värdera val och handlingar som förekommer i ett hem utifrån hur de påverkar hälsa, ekonomi och miljö.",
+          "en": ""
+        }
+      }
+    ],
+    "gradeBands": [
+      {
+        "afterGrade": 6,
+        "label": {
+          "local": "Årskurs 1-6",
+          "en": "Years 1-6"
+        },
+        "competenceGoals": [
+          {
+            "code": "HKK-1-6-1",
+            "text": {
+              "local": "Matlagning för olika sammanhang.",
+              "en": ""
+            },
+            "coreElements": [
+              "Mat och matlagning"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HKK-1-6-2",
+            "text": {
+              "local": "Enkla metoder för matlagning, däribland bakning. Att planera, organisera och utvärdera arbetet.",
+              "en": ""
+            },
+            "coreElements": [
+              "Mat och matlagning"
+            ],
+            "verbs": [
+              "Planera",
+              "Utvärdera",
+              "Värdera"
+            ]
+          },
+          {
+            "code": "HKK-1-6-3",
+            "text": {
+              "local": "Enkla instruktioner och recept. Hur de kan läsas och följas samt vanliga be­grepp för matlagning.",
+              "en": ""
+            },
+            "coreElements": [
+              "Mat och matlagning"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HKK-1-6-4",
+            "text": {
+              "local": "Samtal om upplevelser av smak, doft, konsistens och textur i samband med mat­lagning.",
+              "en": ""
+            },
+            "coreElements": [
+              "Mat och matlagning"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HKK-1-6-5",
+            "text": {
+              "local": "Redskap och teknisk utrustning som kan användas vid matlagning och hur dessa används på ett funktionellt och säkert sätt.",
+              "en": ""
+            },
+            "coreElements": [
+              "Mat och matlagning"
+            ],
+            "verbs": [
+              "Använda"
+            ]
+          },
+          {
+            "code": "HKK-1-6-6",
+            "text": {
+              "local": "Hygien och livsmedelssäkerhet i samband med hantering, tillagning och för­varing av livsmedel.",
+              "en": ""
+            },
+            "coreElements": [
+              "Mat och matlagning"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HKK-1-6-7",
+            "text": {
+              "local": "Ungas privatekonomi. Relationen mellan sparande och konsumtion. Olika sätt för att betala och spara.",
+              "en": ""
+            },
+            "coreElements": [
+              "Privatekonomi och konsumtion"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HKK-1-6-8",
+            "text": {
+              "local": "Skillnaden mellan saklig konsumentinformation och annan påverkan på kon­sumtionsval. Reklam i olika former, även dolda reklambudskap.",
+              "en": ""
+            },
+            "coreElements": [
+              "Privatekonomi och konsumtion"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HKK-1-6-9",
+            "text": {
+              "local": "Jämförelser av några vanliga varor utifrån jämförpris.",
+              "en": ""
+            },
+            "coreElements": [
+              "Privatekonomi och konsumtion"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HKK-1-6-10",
+            "text": {
+              "local": "Vikten av att äta varierat och balanserat för att må bra. Hur måltider kan för­delas över en dag.",
+              "en": ""
+            },
+            "coreElements": [
+              "Levnadsvanor"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HKK-1-6-11",
+            "text": {
+              "local": "Måltidens betydelse för gemenskap. Olika mattraditioner.",
+              "en": ""
+            },
+            "coreElements": [
+              "Levnadsvanor"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HKK-1-6-12",
+            "text": {
+              "local": "Resurshushållning av livsmedel och andra förbrukningsvaror i hemmet. Åter­vinning i hemmet och i närområdet och hur den fungerar.",
+              "en": ""
+            },
+            "coreElements": [
+              "Levnadsvanor"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HKK-1-6-13",
+            "text": {
+              "local": "Några olika certifieringar och märkningar av livsmedel och andra varor samt deras betydelse.",
+              "en": ""
+            },
+            "coreElements": [
+              "Levnadsvanor"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HKK-1-6-14",
+            "text": {
+              "local": "Rutiner och metoder för rengöring.",
+              "en": ""
+            },
+            "coreElements": [
+              "Levnadsvanor"
+            ],
+            "verbs": []
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "E",
+            "text": {
+              "local": "Betygskriterier för betyget E i slutet av årskurs 6Eleven tillagar enkla måltider och hanterar andra praktiska uppgifter som förekommer i ett hem genom att använda i huvudsak fungerande tillvägagångssätt. Eleven ger exempel på olika sätt att spara och betala och beskriver på ett enkelt sätt vad som kan påverka konsumtionsval. Eleven värderar på ett enkelt sätt hur val och handlingar som förekommer i ett hem påverkar hälsa, ekonomi och miljö.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "D",
+            "text": {
+              "local": "Betygskriterier för betyget D i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan C och E.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "C",
+            "text": {
+              "local": "Betygskriterier för betyget C i slutet av årskurs 6Eleven tillagar enkla måltider och hanterar andra praktiska uppgifter som förekommer i ett hem genom att använda fungerande tillvägagångsätt. Eleven ger exempel på olika sätt att spara och betala och beskriver på ett utvecklat sätt vad som kan påverka konsumtionsval. Eleven värderar på ett utvecklat sätt hur val och handlingar som förekommer i ett hem påverkar hälsa, ekonomi och miljö.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "B",
+            "text": {
+              "local": "Betygskriterier för betyget B i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan A och C.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "A",
+            "text": {
+              "local": "Betygskriterier för betyget A i slutet av årskurs 6Eleven tillagar enkla måltider och hanterar andra praktiska uppgifter som förekommer i ett hem genom att använda väl fungerande tillvägagångssätt. Eleven ger exempel på olika sätt att spara och betala och beskriver på ett välutvecklat sätt vad som kan påverka konsumtionsval. Eleven värderar på ett välutvecklat sätt hur val och handlingar som förekommer i ett hem påverkar hälsa, ekonomi och miljö.",
+              "en": ""
+            }
+          }
+        ]
+      },
+      {
+        "afterGrade": 9,
+        "label": {
+          "local": "Årskurs 7-9",
+          "en": "Years 7-9"
+        },
+        "competenceGoals": [
+          {
+            "code": "HKK-7-9-1",
+            "text": {
+              "local": "Matlagning för olika behov och sammanhang.",
+              "en": ""
+            },
+            "coreElements": [
+              "Mat och matlagning"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HKK-7-9-2",
+            "text": {
+              "local": "Livsmedels egenskaper och användningsområden.",
+              "en": ""
+            },
+            "coreElements": [
+              "Mat och matlagning"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HKK-7-9-3",
+            "text": {
+              "local": "Val av livsmedel och metoder för matlagning, däribland bakning. Att pla­nera, organisera och utvärdera arbetet.",
+              "en": ""
+            },
+            "coreElements": [
+              "Mat och matlagning"
+            ],
+            "verbs": [
+              "Utvärdera",
+              "Värdera"
+            ]
+          },
+          {
+            "code": "HKK-7-9-4",
+            "text": {
+              "local": "Skapande av egna måltider, till exempel utifrån säsong och rester.",
+              "en": ""
+            },
+            "coreElements": [
+              "Mat och matlagning"
+            ],
+            "verbs": [
+              "Skapa"
+            ]
+          },
+          {
+            "code": "HKK-7-9-5",
+            "text": {
+              "local": "Instruktioner och recept. Hur de kan läsas och följas samt begrepp för mat­lag­ning.",
+              "en": ""
+            },
+            "coreElements": [
+              "Mat och matlagning"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HKK-7-9-6",
+            "text": {
+              "local": "Samtal om upplevelser av smak, doft, konsistens och textur i samband med mat­lagning.",
+              "en": ""
+            },
+            "coreElements": [
+              "Mat och matlagning"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HKK-7-9-7",
+            "text": {
+              "local": "Redskap och teknisk utrustning som kan användas vid matlagning och hur dessa används på ett funktionellt och säkert sätt.",
+              "en": ""
+            },
+            "coreElements": [
+              "Mat och matlagning"
+            ],
+            "verbs": [
+              "Använda"
+            ]
+          },
+          {
+            "code": "HKK-7-9-8",
+            "text": {
+              "local": "Hygien och livsmedelssäkerhet i samband med hantering, tillagning och för­varing av livsmedel.",
+              "en": ""
+            },
+            "coreElements": [
+              "Mat och matlagning"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HKK-7-9-9",
+            "text": {
+              "local": "Ungas privatekonomi. Konsumtion och ekonomisk planering, däribland att göra en budget.",
+              "en": ""
+            },
+            "coreElements": [
+              "Privatekonomi och konsumtion"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HKK-7-9-10",
+            "text": {
+              "local": "Att handla på kredit, teckna abonnemang samt låna och spara pengar.",
+              "en": ""
+            },
+            "coreElements": [
+              "Privatekonomi och konsumtion"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HKK-7-9-11",
+            "text": {
+              "local": "Skillnaden mellan saklig konsumentinformation och annan påverkan på kon­sumtionsval. Reklam i olika former, även dolda reklambudskap.",
+              "en": ""
+            },
+            "coreElements": [
+              "Privatekonomi och konsumtion"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HKK-7-9-12",
+            "text": {
+              "local": "Konsumenters rättigheter och skyldigheter. Garanti, reklamation, ånger­rätt, öppet köp och köp från privatperson samt skillnad mellan köp i butik och på internet.",
+              "en": ""
+            },
+            "coreElements": [
+              "Privatekonomi och konsumtion"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HKK-7-9-13",
+            "text": {
+              "local": "Sammansättning av varierade och balanserade måltider och anpassning till indi­viduella behov.",
+              "en": ""
+            },
+            "coreElements": [
+              "Levnadsvanor"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HKK-7-9-14",
+            "text": {
+              "local": "Måltidens betydelse för gemenskap. Olika mattraditioner.",
+              "en": ""
+            },
+            "coreElements": [
+              "Levnadsvanor"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HKK-7-9-15",
+            "text": {
+              "local": "Arbetsfördelning i hemmet ur ett jämställdhetsperspektiv.",
+              "en": ""
+            },
+            "coreElements": [
+              "Levnadsvanor"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HKK-7-9-16",
+            "text": {
+              "local": "Resurshushållning. Ställningstaganden vid val och användning av livs­me­del och andra varor. Hur produktion, transport och återvinning av livs­me­del och andra varor påverkar människors hälsa, ekonomi och miljö.",
+              "en": ""
+            },
+            "coreElements": [
+              "Levnadsvanor"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HKK-7-9-17",
+            "text": {
+              "local": "Rutiner och metoder för rengöring och tvätt.",
+              "en": ""
+            },
+            "coreElements": [
+              "Levnadsvanor"
+            ],
+            "verbs": []
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "E",
+            "text": {
+              "local": "Betygskriterier för betyget E i slutet av årskurs 9Eleven planerar och tillagar måltider och hanterar andra praktiska uppgifter som förekommer i ett hem genom att använda i huvudsak fungerande tillvägagångssätt. Eleven värderar på ett enkelt sätt hur arbetsprocessen har påverkat resultatets kvalitet. Eleven beskriver på ett enkelt sätt faktorer och beslut som kan påverka privatekonomi och konsumtionsval. Eleven värderar på ett enkelt sätt hur val och handlingar som förekommer i ett hem påverkar hälsa, ekonomi och miljö.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "D",
+            "text": {
+              "local": "Betygskriterier för betyget D i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan C och E.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "C",
+            "text": {
+              "local": "Betygskriterier för betyget C i slutet av årskurs 9Eleven planerar och tillagar måltider och hanterar andra praktiska uppgifter som förekommer i ett hem genom att använda fungerande tillvägagångssätt. Eleven värderar på ett utvecklat sätt hur arbetsprocessen har påverkat resultatets kvalitet. Eleven beskriver på ett utvecklat sätt faktorer och beslut som kan påverka privatekonomi och konsumtionsval. Eleven värderar på ett utvecklat sätt hur val och handlingar som förekommer i ett hem påverkar hälsa, ekonomi och miljö.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "B",
+            "text": {
+              "local": "Betygskriterier för betyget B i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan A och C.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "A",
+            "text": {
+              "local": "Betygskriterier för betyget A i slutet av årskurs 9Eleven planerar och tillagar måltider och hanterar andra praktiska uppgifter som förekommer i ett hem genom att använda väl fungerande tillvägagångssätt. Eleven värderar på ett välutvecklat sätt hur arbetsprocessen har påverkat resultatets kvalitet. Eleven beskriver på ett välutvecklat sätt faktorer och beslut som kan påverka privatekonomi och konsumtionsval. Eleven värderar på ett välutvecklat sätt hur val och handlingar som förekommer i ett hem påverkar hälsa, ekonomi och miljö.",
+              "en": ""
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,524 @@
+{
+  "country": "finland",
+  "source": {
+    "api": "https://eperusteet.opintopolku.fi/eperusteet-service/api/external/peruste/419550/perusopetus/oppiaineet/530524",
+    "curriculum": "POPS 2014",
+    "license": "Open Government Data (Finland)",
+    "lastSynced": "2026-03-02T21:29:49Z"
+  },
+  "subject": {
+    "code": "KS",
+    "name": {
+      "local": "Käsityö",
+      "en": "Crafts"
+    },
+    "coreElements": [
+      {
+        "code": "S1",
+        "name": {
+          "local": "S1 Ideointi",
+          "en": ""
+        },
+        "description": {
+          "local": "Suunnittelussa perehdytään erilaisiin lähtökohtiin ja hyödynnetään omia moniaistisia kokemuksia ja elämyksiä sekä havainnoidaan ja analysoidaan esineitä, rakennettua ja luonnon ympäristöä uusien ideoiden kehittämiseksi. Käsityössä yhdistetään värejä, kuviota, erilaisia pintoja, tyylejä ja muotoja. Sovelletaan materiaalien lujuus- ja taipumisominaisuuksia. Tutkitaan rakenteiden syntymistä ja energian käyttöä.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S2",
+        "name": {
+          "local": "S2 Suunnittelu",
+          "en": ""
+        },
+        "description": {
+          "local": "Laaditaan omalle tuotteelle tai teokselle ja työskentelylle suunnitelma ja kehitetään sitä tarvittaessa. Kokeillaan erilaisia materiaaleja ja työskentelytekniikoita ideoiden kehittämiseksi tuotteeksi tai teokseksi. Harjoitellaan suunnitelman dokumentointia sanallisesti ja/tai visuaalisesti sekä numeerisesti käyttäen esimerkiksi mittoja, määriä ja mittakaavoja.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S3",
+        "name": {
+          "local": "S3 Kokeilu",
+          "en": ""
+        },
+        "description": {
+          "local": "Tutkitaan materiaalien ominaisuuksia sekä käsityön tekemisessä tarvittavien tavallisimpien koneiden ja laitteiden toimintaperiaatteita. Sovelletaan näin hankittua tietoa omassa työssä. Kokeillaan monipuolisesti erilaisia materiaaleja kuten erilaisia puulajeja, metalleja, muoveja, kuituja, lankoja, kankaita ja kierrätysmateriaaleja. Harjoitellaan ohjelmoimalla aikaan saatuja toimintoja, joista esimerkkinä robotiikka ja automaatio. Kokeilujen pohjalta tuotetta tai teosta kehitetään vielä eteenpäin.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S4",
+        "name": {
+          "local": "S4 Tekeminen",
+          "en": ""
+        },
+        "description": {
+          "local": "Valmistetaan erilaisia yksilöllisiä ja /tai yhteisöllisiä tuotteita ja teoksia, joiden toteuttamiseen käytetään monenlaisia käsityössä tarvittavia valmistustekniikoita, työvälineitä, koneita ja laitteita. Työskennellään itse tehdyn suunnitelman ohjaamana.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S5",
+        "name": {
+          "local": "S5 Soveltaminen",
+          "en": ""
+        },
+        "description": {
+          "local": "Työskennellessä opitaan käyttämään alan peruskäsitteistöä ja tutustutaan turvallisiin materiaaleihin ja työtapoihin. Perehdytään laadukkaan tuotteen ominaisuuksiin ja turvalliseen työskentelykulttuuriin.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S6",
+        "name": {
+          "local": "S6 Dokumentointi ja arviointi",
+          "en": ""
+        },
+        "description": {
+          "local": "Tieto- ja viestintäteknologiaa käytetään osana ideointia, suunnittelua ja dokumentointia. Tehdään käsityöprosessin itse- ja vertaisarviointia prosessin edetessä. Opetellaan antamaan yksilö- ja ryhmäpalautetta.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S2",
+        "name": {
+          "local": "S2 Kokeilu",
+          "en": ""
+        },
+        "description": {
+          "local": "Tarjotaan mahdollisuuksia monimuotoiseen materiaaliseen ja teknologiseen ympäristöön tutustumiseen. Kokeillaan erilaisia materiaaleja kuten esimerkiksi puuta, metallia, muovia, kuituja, lankaa ja kangasta. Kokeilujen pohjalta ideoidaan ja työstetään tuotetta tai teosta eteenpäin.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S3",
+        "name": {
+          "local": "S3 Suunnittelu",
+          "en": ""
+        },
+        "description": {
+          "local": "Työskennellään kokonaisen käsityöprosessin mukaisesti. Harjoitellaan prosessin ja tuotteen kuvailun taitoja.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S5",
+        "name": {
+          "local": "S5 Dokumentointi",
+          "en": ""
+        },
+        "description": {
+          "local": "Tieto- ja viestintätekniikan käyttöön tutustutaan ideoinnin, suunnittelun ja dokumentoinnin osana.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S6",
+        "name": {
+          "local": "S6 Arviointi",
+          "en": ""
+        },
+        "description": {
+          "local": "Tarjotaan erilaisia tapoja tehdä itse- ja vertaisarviointia prosessin edetessä. Opetellaan antamaan palautetta toisille oppilaille.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S1",
+        "name": {
+          "local": "S1 Innovointi",
+          "en": ""
+        },
+        "description": {
+          "local": "Ratkaistaan erilaisia tuotesuunnittelutehtäviä luovasti ja kekseliäästi käyttäen käsityön käsitteistöä, merkkejä ja symboleja. Toteutetaan suunnitelmat itseilmaisua vahvistaen. Tehdään käsityöprosessin itse- ja vertaisarviointia prosessin edetessä.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S2",
+        "name": {
+          "local": "S2 Muotoilu",
+          "en": ""
+        },
+        "description": {
+          "local": "Perehdytään asumisen, liikkumisen ja pukeutumisen yhteiskunnalliseen, kulttuuriseen ja teknologiseen kehitykseen sekä hyödynnetään paikallisuutta ja eri kulttuurien perinteitä, nykyisyyttä ja tulevaisuutta suunnittelussa, muotoilussa ja toteutuksessa.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S4",
+        "name": {
+          "local": "S4 Dokumentointi ja arviointi",
+          "en": ""
+        },
+        "description": {
+          "local": "Tutustutaan eri menetelmien tarjoamiin mahdollisuuksiin tuotteiden suunnittelu- ja valmistusprosessissa. Analysoidaan tuotteiden muotoilua ja käytettävyyttä. Kokonainen käsityöprosessi dokumentoidaan hyödyntäen tieto- ja viestintäteknologiaa.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S5",
+        "name": {
+          "local": "S5 Tekeminen",
+          "en": ""
+        },
+        "description": {
+          "local": "Valmistetaan erilaisia laadukkaita ja toimivia, ekologisesti ja eettisesti kestäviä tuotteita tai teoksia. Käytetään käsityön tekemiseen tarvittavia työvälineitä, koneita ja laitteita monipuolisesti ja tarkoituksenmukaisesti.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S6",
+        "name": {
+          "local": "S6 Työturvallisuus",
+          "en": ""
+        },
+        "description": {
+          "local": "Perehdytään työturvallisuuteen ja kartoitetaan ja arvioidaan työn vaaroja sekä riskejä osana käsityöprosessia. Työskennellään turvallisesti.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S7",
+        "name": {
+          "local": "S7 Yrittäjämäinen oppiminen",
+          "en": ""
+        },
+        "description": {
+          "local": "Tutustutaan yrittäjämäiseen oppimiseen, yrittäjyyteen ja järjestöyhteistyöhön havainnollisesti, virtuaalisesti, opintokäynneillä tai yritysvierailuilla. Huomioidaan käsityöosaamisen merkitys työelämälle. Hyödynnetään kulttuurilaitosten tarjontaa ideoinnin lähteenä.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S8",
+        "name": {
+          "local": "S8 Tiedostaminen ja osallistuminen",
+          "en": ""
+        },
+        "description": {
+          "local": "Tutkitaan käsityön ja tuotteiden erilaisia merkityksiä yksilön, yhteiskunnan ja ympäristön näkökulmasta. Pohditaan käsityötä hyvinvoinnin ja kestävän kehityksen edistäjänä arjessa. Harjoitellaan käsityöllä osallistumista, vaikuttamista ja viestimistä.",
+          "en": ""
+        }
+      }
+    ],
+    "gradeBands": [
+      {
+        "afterGrade": 2,
+        "label": {
+          "local": "Vuosiluokat 1–2",
+          "en": "Grades 1–2"
+        },
+        "competenceGoals": [
+          {
+            "code": "T1",
+            "text": {
+              "local": "T1 rohkaista oppilasta kiinnostumaan ja innostumaan käsin tekemisestä sekä herättää uteliaisuutta keksivään ja kokeilevaan käsityöhön",
+              "en": ""
+            },
+            "coreElements": [
+              "S2",
+              "S1",
+              "S4",
+              "S3"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T2",
+            "text": {
+              "local": "T2 ohjata oppilas kokonaiseen käsityöprosessiin ja esittämään omia ideoitaan kuvallisesti sekä kertomaan käsityön tekemisestä ja valmiista tuotteesta",
+              "en": ""
+            },
+            "coreElements": [
+              "S2",
+              "S1",
+              "S3"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T3",
+            "text": {
+              "local": "T3 ohjata oppilasta suunnittelemaan ja valmistamaan käsityötuotteita tai teoksia luottaen omiin esteettisiin ja teknisiin ratkaisuihinsa",
+              "en": ""
+            },
+            "coreElements": [
+              "S2",
+              "S1",
+              "S4",
+              "S3",
+              "S5"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T4",
+            "text": {
+              "local": "T4 opastaa oppilasta tutustumaan moniin erilaisiin materiaaleihin ja niiden työstämiseen sekä ohjata toimimaan vastuuntuntoisesti ja turvallisesti",
+              "en": ""
+            },
+            "coreElements": [
+              "S2",
+              "S4",
+              "S3"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T5",
+            "text": {
+              "local": "T5 tukea oppilaan itsetunnon kehittymistä käsityössä onnistumisen, oivaltamisen ja keksimisen kokemusten kautta",
+              "en": ""
+            },
+            "coreElements": [
+              "S2",
+              "S1",
+              "S4",
+              "S3",
+              "S6",
+              "S5"
+            ],
+            "verbs": []
+          }
+        ]
+      },
+      {
+        "afterGrade": 6,
+        "label": {
+          "local": "Vuosiluokat 3–6",
+          "en": "Grades 3–6"
+        },
+        "competenceGoals": [
+          {
+            "code": "T1",
+            "text": {
+              "local": "T1 vahvistaa oppilaan kiinnostusta käsin tekemiseen sekä innostaa keksivään, kokeilevaan ja paikallisuutta hyödyntävään käsityöhön",
+              "en": ""
+            },
+            "coreElements": [
+              "S2",
+              "S1",
+              "S3",
+              "S4",
+              "S6",
+              "S5"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T2",
+            "text": {
+              "local": "T2 ohjata oppilasta hahmottamaan ja hallitsemaan kokonainen käsityöprosessi ja sen dokumentointi",
+              "en": ""
+            },
+            "coreElements": [
+              "S2",
+              "S1",
+              "S3",
+              "S4",
+              "S6",
+              "S5"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T3",
+            "text": {
+              "local": "T3 opastaa oppilasta suunnittelemaan ja valmistamaan yksin tai yhdessä käsityötuote tai -teos luottaen omiin esteettisiin ja teknisiin ratkaisuihin",
+              "en": ""
+            },
+            "coreElements": [
+              "S2",
+              "S1",
+              "S3",
+              "S4"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T4",
+            "text": {
+              "local": "T4 ohjata oppilasta tunnistamaan käsitteistöä sekä tuntemaan monia erilaisia materiaaleja ja työstämään niitä tarkoituksenmukaisesti",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S5"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T5",
+            "text": {
+              "local": "T5 kannustaa oppilasta toimimaan pitkäjänteisesti ja vastuuntuntoisesti, huolehtimaan turvallisesta työskentelystä sekä valitsemaan ja käyttämään työhön sopivaa välineistöä",
+              "en": ""
+            },
+            "coreElements": [
+              "S2",
+              "S1",
+              "S3",
+              "S4",
+              "S5"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T6",
+            "text": {
+              "local": "T6 opastaa oppilasta käyttämään tieto- ja viestintäteknologiaa käsityön suunnittelussa, valmistamisessa ja käsityöprosessin dokumentoinnissa",
+              "en": ""
+            },
+            "coreElements": [
+              "S2",
+              "S1",
+              "S6"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T7",
+            "text": {
+              "local": "T7 ohjata oppilasta arvioimaan, arvostamaan ja tarkastelemaan vuorovaikutteisesti omaa ja muiden kokonaisen käsityön prosessia",
+              "en": ""
+            },
+            "coreElements": [
+              "S6"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T8",
+            "text": {
+              "local": "T8 herättää oppilas arvioimaan kulutus- ja tuotantotapoja kriittisesti",
+              "en": ""
+            },
+            "coreElements": [
+              "S2",
+              "S1",
+              "S3",
+              "S5"
+            ],
+            "verbs": []
+          }
+        ]
+      },
+      {
+        "afterGrade": 9,
+        "label": {
+          "local": "Vuosiluokat 7–9",
+          "en": "Grades 7–9"
+        },
+        "competenceGoals": [
+          {
+            "code": "T1",
+            "text": {
+              "local": "T1 ohjata oppilasta suunnittelemaan työskentelyään sekä ideoimaan, tutkimaan ja kokeilemaan yritteliäästi",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S2",
+              "S4",
+              "S3",
+              "S5"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T2",
+            "text": {
+              "local": "T2 ohjata oppilasta asettamaan käsityöhön omia oppimisen ja työskentelyn tavoitteita sekä toteuttamaan niiden perusteella kokonainen käsityöprosessi ja arvioimaan oppimistaan",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S2",
+              "S4",
+              "S3",
+              "S5"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T3",
+            "text": {
+              "local": "T3 opastaa oppilasta tutustumaan ja käyttämään monipuolisesti erilaisia työvälineitä, materiaaleja ja tarkoituksenmukaisia työtapoja sekä kehittämään innovaatioita",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S2",
+              "S4",
+              "S3",
+              "S5"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T4",
+            "text": {
+              "local": "T4 ohjata oppilasta käyttämään sujuvasti käsityön käsitteitä, merkkejä ja symboleja sekä vahvistamaan visuaalista, materiaalista ja teknologista ilmaisuaan",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S2",
+              "S4",
+              "S3",
+              "S5"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T5",
+            "text": {
+              "local": "T5 ohjata oppilasta havainnoimaan, ennakoimaan ja reagoimaan työtilanteisiin liittyviin riskitekijöihin ja toimimaan turvallisesti käsityöprosessissa",
+              "en": ""
+            },
+            "coreElements": [
+              "S6"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T6",
+            "text": {
+              "local": "T6 ohjata oppilasta käyttämään tieto- ja viestintäteknologian mahdollisuuksia käsityön suunnittelussa, valmistuksessa ja dokumentoinnissa, sekä yhteisöllisen tiedon tuottamisessa ja jakamisessa",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S2",
+              "S4",
+              "S3",
+              "S5"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T7",
+            "text": {
+              "local": "T7 ohjata oppilasta tuntemaan käsityön, kädentaitojen ja teknologisen kehityksen merkitys omassa elämässään, yhteiskunnassa, yrittäjyydessä ja muussa työelämässä",
+              "en": ""
+            },
+            "coreElements": [
+              "S7"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T8",
+            "text": {
+              "local": "T8 ohjata oppilaita taloudelliseen ajatteluun ja kehittämään käsityöprosessiin liittyviä valintoja, jotka edistävät kestävää elämäntapaa",
+              "en": ""
+            },
+            "coreElements": [
+              "S8"
+            ],
+            "verbs": []
+          }
+        ]
+      }
+    ]
+  }
+}

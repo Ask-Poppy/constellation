@@ -1,0 +1,776 @@
+{
+  "country": "sweden",
+  "source": {
+    "api": "https://api.skolverket.se/syllabus/v1/subjects/GRGRHIS01",
+    "curriculum": "Lgr22",
+    "license": "CC0",
+    "lastSynced": "2026-03-02T21:29:32Z"
+  },
+  "subject": {
+    "code": "GRGRHIS01",
+    "name": {
+      "local": "Historia",
+      "en": "History"
+    },
+    "coreElements": [
+      {
+        "code": "",
+        "name": {
+          "local": "kunskaper om händelser, aktörer och förändringsprocesser under olika tidsperioder samt om historiska begrepp och långa historiska linjer,",
+          "en": ""
+        },
+        "description": {
+          "local": "kunskaper om händelser, aktörer och förändringsprocesser under olika tidsperioder samt om historiska begrepp och långa historiska linjer,",
+          "en": ""
+        }
+      },
+      {
+        "code": "",
+        "name": {
+          "local": "förmåga att ställa frågor till historiska källor samt att tolka, kritiskt granska och värdera dessa, och",
+          "en": ""
+        },
+        "description": {
+          "local": "förmåga att ställa frågor till historiska källor samt att tolka, kritiskt granska och värdera dessa, och",
+          "en": ""
+        }
+      },
+      {
+        "code": "",
+        "name": {
+          "local": "förmåga att reflektera över hur historia kan brukas i olika sammanhang och för olika syften.",
+          "en": ""
+        },
+        "description": {
+          "local": "förmåga att reflektera över hur historia kan brukas i olika sammanhang och för olika syften.",
+          "en": ""
+        }
+      }
+    ],
+    "gradeBands": [
+      {
+        "afterGrade": 3,
+        "label": {
+          "local": "Årskurs 1-3",
+          "en": "Years 1-3"
+        },
+        "competenceGoals": [
+          {
+            "code": "HI-1-3-1",
+            "text": {
+              "local": "Migration inom ett land och mellan länder. Vad detta kan ha för orsaker och få för konsekvenser.",
+              "en": ""
+            },
+            "coreElements": [
+              "Att leva tillsammans"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HI-1-3-2",
+            "text": {
+              "local": "Skildringar av människors levnadsvillkor förr i tiden, till exempel i barn­litte­ratur, sånger och filmer. Minnen berättade av människor som lever nu.",
+              "en": ""
+            },
+            "coreElements": [
+              "Att leva tillsammans"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HI-1-3-3",
+            "text": {
+              "local": "Samtal om och reflektion över moraliska frågor och livsfrågor med be­ty­del­se för eleven, till exempel kamratskap, könsroller och döden.",
+              "en": ""
+            },
+            "coreElements": [
+              "Att leva tillsammans"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HI-1-3-4",
+            "text": {
+              "local": "Samtal om och reflektion över normer och regler i elevens livsmiljöer, däri­bland i skolan och i digitala miljöer.",
+              "en": ""
+            },
+            "coreElements": [
+              "Att leva tillsammans"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HI-1-3-5",
+            "text": {
+              "local": "Trafikregler och hur man beter sig i trafiken på ett säkert sätt.",
+              "en": ""
+            },
+            "coreElements": [
+              "Att leva tillsammans"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HI-1-3-6",
+            "text": {
+              "local": "Några utmärkande drag i närområdets natur- och kulturlandskap. Spår av den senaste istiden.",
+              "en": ""
+            },
+            "coreElements": [
+              "Att leva i närområdet"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HI-1-3-7",
+            "text": {
+              "local": "Hemortens historia och vad närområdets platser, byggnader och vardagliga före­mål kan berätta om livet där under olika tider.",
+              "en": ""
+            },
+            "coreElements": [
+              "Att leva i närområdet"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HI-1-3-8",
+            "text": {
+              "local": "Kristendomens roll i skolan och på hemorten förr i tiden.",
+              "en": ""
+            },
+            "coreElements": [
+              "Att leva i närområdet"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HI-1-3-9",
+            "text": {
+              "local": "Centrala samhällsfunktioner, till exempel sjukvård, räddningstjänst och sko­la.",
+              "en": ""
+            },
+            "coreElements": [
+              "Att leva i närområdet"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HI-1-3-10",
+            "text": {
+              "local": "Yrken och verksamheter i närområdet.",
+              "en": ""
+            },
+            "coreElements": [
+              "Att leva i närområdet"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HI-1-3-11",
+            "text": {
+              "local": "Miljöfrågor utifrån elevens vardag, till exempel frågor om trafik, energi och livs­medel.",
+              "en": ""
+            },
+            "coreElements": [
+              "Att leva i världen"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HI-1-3-12",
+            "text": {
+              "local": "Rumsliga förutsättningar i natur och miljö för befolkning och bebyggelse, till exempel mark, vatten och klimat.",
+              "en": ""
+            },
+            "coreElements": [
+              "Att leva i världen"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HI-1-3-13",
+            "text": {
+              "local": "Namn och läge på världsdelarna och världshaven samt på länder och platser som är betydelsefulla för eleven.",
+              "en": ""
+            },
+            "coreElements": [
+              "Att leva i världen"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HI-1-3-14",
+            "text": {
+              "local": "Människans uppkomst, vandringar, samlande och jakt samt förändrade lev­nads­villkor i samband med övergången till jordbruk.",
+              "en": ""
+            },
+            "coreElements": [
+              "Att leva i världen"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HI-1-3-15",
+            "text": {
+              "local": "Norden befolkas. Människors levnadsvillkor under nordisk stenålder, brons­ålder och järnålder.",
+              "en": ""
+            },
+            "coreElements": [
+              "Att leva i världen"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HI-1-3-16",
+            "text": {
+              "local": "Berättelser i antik och nordisk mytologi samt i samisk religion.",
+              "en": ""
+            },
+            "coreElements": [
+              "Att leva i världen"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HI-1-3-17",
+            "text": {
+              "local": "Några högtider, symboler och berättelser inom kristendom, islam och juden­dom. Några berättelser ur Bibeln och deras innebörder.",
+              "en": ""
+            },
+            "coreElements": [
+              "Att leva i världen"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HI-1-3-18",
+            "text": {
+              "local": "Mänskliga rättigheter inklusive alla människors lika värde och bar­nets rättig­heter i enlighet med FN:s konvention om barnets rättigheter (barn­kon­ventionen).",
+              "en": ""
+            },
+            "coreElements": [
+              "Att leva i världen"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HI-1-3-19",
+            "text": {
+              "local": "Grundläggande demokratiska principer. Vad åsikts- och yttrandefrihet samt majoritetsprincipen kan innebära i skolan och i samhället.",
+              "en": ""
+            },
+            "coreElements": [
+              "Att leva i världen"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HI-1-3-20",
+            "text": {
+              "local": "Pengars användning och värde. Olika exempel på betalningsformer och vad några vanliga varor och tjänster kan kosta.",
+              "en": ""
+            },
+            "coreElements": [
+              "Att leva i världen"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HI-1-3-21",
+            "text": {
+              "local": "Aktuella samhällsfrågor i olika medier.",
+              "en": ""
+            },
+            "coreElements": [
+              "Att leva i världen"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HI-1-3-22",
+            "text": {
+              "local": "Metoder för att söka information, till exempel textläsning, intervjuer och ob­ser­vationer. Samtal om olika källors användbarhet och tillförlitlighet.",
+              "en": ""
+            },
+            "coreElements": [
+              "Att undersöka verkligheten"
+            ],
+            "verbs": [
+              "Söka"
+            ]
+          },
+          {
+            "code": "HI-1-3-23",
+            "text": {
+              "local": "Jordgloben, analoga och digitala kartor samt storleksrelationer och väder­streck.",
+              "en": ""
+            },
+            "coreElements": [
+              "Att undersöka verkligheten"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HI-1-3-24",
+            "text": {
+              "local": "Mentala kartor, till exempel över närområdet, skolvägar eller andra platser som är betydelsefulla för eleven.",
+              "en": ""
+            },
+            "coreElements": [
+              "Att undersöka verkligheten"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HI-1-3-25",
+            "text": {
+              "local": "Tidslinjer och tidsbegreppen dåtid, nutid och framtid.",
+              "en": ""
+            },
+            "coreElements": [
+              "Att undersöka verkligheten"
+            ],
+            "verbs": []
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "",
+            "text": {
+              "local": "Kriterier för bedömning av godtagbara kunskaper i slutet av årskurs 3Eleven visar grundläggande kunskaper om geografiska och historiska förhållanden, samhällsförhållanden och religiösa traditioner. Eleven beskriver likheter och skillnader samt orsaker och konsekvenser i sammanhang som är relevanta för ämnena. Eleven samtalar om människors livsfrågor och levnadsvillkor samt om miljöfrågor och andra samhällsfrågor ur olika perspektiv. Eleven använder begrepp, metoder och verktyg från de samhällsorienterande ämnena.",
+              "en": ""
+            }
+          }
+        ]
+      },
+      {
+        "afterGrade": 6,
+        "label": {
+          "local": "Årskurs 4-6",
+          "en": "Years 4-6"
+        },
+        "competenceGoals": [
+          {
+            "code": "HI-4-6-1",
+            "text": {
+              "local": "Nordens kulturmöten med andra delar av världen genom vikingars resor och medeltidens handelssystem.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kulturmöten och statsbildning i Norden, cirka 800–1500"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HI-4-6-2",
+            "text": {
+              "local": "Statsbildning och kristendomens etablerande i Norden samt konsekvenser av dessa förändringar.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kulturmöten och statsbildning i Norden, cirka 800–1500"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HI-4-6-3",
+            "text": {
+              "local": "Likheter och skillnader i levnadsvillkor för barn, kvinnor och män under tids­perioden.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kulturmöten och statsbildning i Norden, cirka 800–1500"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HI-4-6-4",
+            "text": {
+              "local": "Vad historiska källor är, till exempel arkeologiska fynd, texter, muntliga berättelser och digitalt material, och hur de kan användas för att ge kun­ska­per om det förflutna.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kulturmöten och statsbildning i Norden, cirka 800–1500"
+            ],
+            "verbs": [
+              "Använda"
+            ]
+          },
+          {
+            "code": "HI-4-6-5",
+            "text": {
+              "local": "Historiebruk kopplat till tidsperioden, till exempel hur vikingar framställs i popu­lärkulturen.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kulturmöten och statsbildning i Norden, cirka 800–1500"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HI-4-6-6",
+            "text": {
+              "local": "Kampen om den politiska makten i Norden. Reformationen och fram­väx­ten av en stark kungamakt i Sverige. Uppror och motstånd mot kungamakten.",
+              "en": ""
+            },
+            "coreElements": [
+              "Maktförhållanden och levnadsvillkor i Norden, cirka 1500–1800"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HI-4-6-7",
+            "text": {
+              "local": "Det svenska Östersjöväldet. Orsaker till dess uppkomst och upplösning samt konsekvenser för människor runt Östersjön.",
+              "en": ""
+            },
+            "coreElements": [
+              "Maktförhållanden och levnadsvillkor i Norden, cirka 1500–1800"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HI-4-6-8",
+            "text": {
+              "local": "Likheter och skillnader i levnadsvillkor mellan olika grupper i stånds­sam­hället.",
+              "en": ""
+            },
+            "coreElements": [
+              "Maktförhållanden och levnadsvillkor i Norden, cirka 1500–1800"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HI-4-6-9",
+            "text": {
+              "local": "Vad historiska källor från tidsperioden, till exempel brev, dagböcker och kar­tor, kan berätta om det förflutna.",
+              "en": ""
+            },
+            "coreElements": [
+              "Maktförhållanden och levnadsvillkor i Norden, cirka 1500–1800"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HI-4-6-10",
+            "text": {
+              "local": "Historiebruk kopplat till tidsperioden, till exempel i gatunamn, minnes­mär­ken och reklam.",
+              "en": ""
+            },
+            "coreElements": [
+              "Maktförhållanden och levnadsvillkor i Norden, cirka 1500–1800"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HI-4-6-11",
+            "text": {
+              "local": "Nya maktförhållanden i Sverige och mellan länder i Norden.",
+              "en": ""
+            },
+            "coreElements": [
+              "Folkökning, ändrade maktförhållanden och emigration, cirka 1800–1900"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HI-4-6-12",
+            "text": {
+              "local": "Jordbrukets omvandling och den stora folkökningen samt översiktligt om den tidiga industrialiseringen i Sverige. Olika konsekvenser av detta för barns, kvinnors och mäns levnadsvillkor.",
+              "en": ""
+            },
+            "coreElements": [
+              "Folkökning, ändrade maktförhållanden och emigration, cirka 1800–1900"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HI-4-6-13",
+            "text": {
+              "local": "Olika orsaker till och konsekvenser av emigrationen från Sverige.",
+              "en": ""
+            },
+            "coreElements": [
+              "Folkökning, ändrade maktförhållanden och emigration, cirka 1800–1900"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HI-4-6-14",
+            "text": {
+              "local": "Vad historiska källor från tidsperioden, till exempel kyrkböcker, fotografier och domstolsprotokoll, kan berätta om det förflutna.",
+              "en": ""
+            },
+            "coreElements": [
+              "Folkökning, ändrade maktförhållanden och emigration, cirka 1800–1900"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HI-4-6-15",
+            "text": {
+              "local": "Historiebruk kopplat till tidsperioden, till exempel hur historiska händelser och aktörer framställs i böcker och på museer.",
+              "en": ""
+            },
+            "coreElements": [
+              "Folkökning, ändrade maktförhållanden och emigration, cirka 1800–1900"
+            ],
+            "verbs": []
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "E",
+            "text": {
+              "local": "Betygskriterier för betyget E i slutet av årskurs 6Eleven visar grundläggande kunskaper om händelser, aktörer och förändringsprocesser under olika tidsperioder samt om historiska begrepp. Eleven för enkla resonemang om orsaker till och konsekvenser av samhällsförändringar och av människors handlingar i förfluten tid. Eleven för också enkla resonemang om likheter och skillnader i människors levnadsvillkor under olika tidsperioder. Eleven ställer frågor till historiska källor, beskriver vad som kan vara en historisk källa och ger något exempel på vad källorna kan berätta om det förflutna. Eleven ger exempel på hur historia kan brukas i något sammanhang.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "D",
+            "text": {
+              "local": "Betygskriterier för betyget D i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan C och E.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "C",
+            "text": {
+              "local": "Betygskriterier för betyget C i slutet av årskurs 6Eleven visar goda kunskaper om händelser, aktörer och förändringsprocesser under olika tidsperioder samt om historiska begrepp. Eleven för utvecklade resonemang om orsaker till och konsekvenser av samhällsförändringar och av människors handlingar i förfluten tid. Eleven för också utvecklade resonemang om likheter och skillnader i människors levnadsvillkor under olika tidsperioder. Eleven ställer frågor till historiska källor, beskriver vad som kan vara en historisk källa och ger några exempel på vad källorna kan berätta om det förflutna. Eleven ger exempel på hur historia kan brukas i olika sammanhang.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "B",
+            "text": {
+              "local": "Betygskriterier för betyget B i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan A och C.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "A",
+            "text": {
+              "local": "Betygskriterier för betyget A i slutet av årskurs 6Eleven visar mycket goda kunskaper om händelser, aktörer och förändringsprocesser under olika tidsperioder samt om historiska begrepp. Eleven för välutvecklade resonemang om orsaker till och konsekvenser av samhällsförändringar och av människors handlingar i förfluten tid. Eleven för också välutvecklade resonemang om likheter och skillnader i människors levnadsvillkor under olika tidsperioder. Eleven ställer frågor till historiska källor, beskriver vad som kan vara en historisk källa och ger några välgrundade exempel på vad källorna kan berätta om det förflutna. Eleven ger exempel på hur och i vilket syfte historia kan brukas i olika sammanhang.",
+              "en": ""
+            }
+          }
+        ]
+      },
+      {
+        "afterGrade": 9,
+        "label": {
+          "local": "Årskurs 7-9",
+          "en": "Years 7-9"
+        },
+        "competenceGoals": [
+          {
+            "code": "HI-7-9-1",
+            "text": {
+              "local": "Framväxten av högkulturer i olika delar av världen, till exempel i Afrika, Amerika och Asien. Antiken, dess utmärkande drag som epok och dess be­ty­delse för vår egen tid.",
+              "en": ""
+            },
+            "coreElements": [
+              "Samhällsomvandlingar: framväxten av civilisationer och industrisamhällen"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HI-7-9-2",
+            "text": {
+              "local": "Europeisk kolonisation och slavhandel. Konsekvenser av detta för männi­skor och kulturer samt för det ökade globala handelsutbytet mellan Europa, Asien, Afrika och Amerika.",
+              "en": ""
+            },
+            "coreElements": [
+              "Samhällsomvandlingar: framväxten av civilisationer och industrisamhällen"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HI-7-9-3",
+            "text": {
+              "local": "Industrialiseringen i Europa och Sverige. Olika orsaker till indu­stria­lise­ringen och konsekvenser av denna för människor och miljö.",
+              "en": ""
+            },
+            "coreElements": [
+              "Samhällsomvandlingar: framväxten av civilisationer och industrisamhällen"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HI-7-9-4",
+            "text": {
+              "local": "Revolutioner och framväxten av nya idéer, samhällsklasser och politiska ideo­logier.",
+              "en": ""
+            },
+            "coreElements": [
+              "Samhällsomvandlingar: framväxten av civilisationer och industrisamhällen"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HI-7-9-5",
+            "text": {
+              "local": "Tolkning av historiska källor från någon tidsperiod och granskning utifrån käll­kritiska kriterier. Värdering av källornas relevans utifrån historiska frågor.",
+              "en": ""
+            },
+            "coreElements": [
+              "Samhällsomvandlingar: framväxten av civilisationer och industrisamhällen"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HI-7-9-6",
+            "text": {
+              "local": "Analys av historiebruk kopplat till någon tidsperiod, till exempel hur olika aktörer använder historia för att skapa eller stärka nationella identiteter.",
+              "en": ""
+            },
+            "coreElements": [
+              "Samhällsomvandlingar: framväxten av civilisationer och industrisamhällen"
+            ],
+            "verbs": [
+              "Skapa"
+            ]
+          },
+          {
+            "code": "HI-7-9-7",
+            "text": {
+              "local": "Europeisk nationalism, imperialism och framväxten av olika former av de­mo­krati och diktatur.",
+              "en": ""
+            },
+            "coreElements": [
+              "Imperialism och världskrig, cirka 1850–1950"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HI-7-9-8",
+            "text": {
+              "local": "De båda världskrigen, deras orsaker och konsekvenser. Förtryck, folk­för­driv­ningar och folkmord. Förintelsen och Gulag. Människors motstånd mot förtryck.",
+              "en": ""
+            },
+            "coreElements": [
+              "Imperialism och världskrig, cirka 1850–1950"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HI-7-9-9",
+            "text": {
+              "local": "Tolkning av historiska källor från tidsperioden och granskning utifrån käll­kri­ti­ska kriterier. Värdering av källornas relevans utifrån historiska frågor.",
+              "en": ""
+            },
+            "coreElements": [
+              "Imperialism och världskrig, cirka 1850–1950"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HI-7-9-10",
+            "text": {
+              "local": "Analys av historiebruk kopplat till tidsperioden, till exempel hur olika ak­tö­rer använder historia för att skapa opinion eller legitimera makt.",
+              "en": ""
+            },
+            "coreElements": [
+              "Imperialism och världskrig, cirka 1850–1950"
+            ],
+            "verbs": [
+              "Skapa"
+            ]
+          },
+          {
+            "code": "HI-7-9-11",
+            "text": {
+              "local": "Demokratiseringen i Sverige och framväxten av välfärdssamhället. Bild­andet av politiska partier, nya folkrörelser, till exempel kvinnorörelsen, och kampen för allmän rösträtt för kvinnor och män. Kontinuitet och förändring i synen på kön, jämställdhet och sexualitet.",
+              "en": ""
+            },
+            "coreElements": [
+              "Demokratisering och ökad globalisering, cirka 1900 till nutid"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HI-7-9-12",
+            "text": {
+              "local": "Kalla krigets konflikter samt nya maktförhållanden och utmaningar i värl­den efter det kalla krigets slut.",
+              "en": ""
+            },
+            "coreElements": [
+              "Demokratisering och ökad globalisering, cirka 1900 till nutid"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HI-7-9-13",
+            "text": {
+              "local": "Kontinuitet och förändring med utgångspunkt i långa historiska linjer kring lev­nads­villkor, migration och makt.",
+              "en": ""
+            },
+            "coreElements": [
+              "Demokratisering och ökad globalisering, cirka 1900 till nutid"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HI-7-9-14",
+            "text": {
+              "local": "Tolkning av historiska källor från tidsperioden och granskning utifrån käll­kriti­ska kriterier. Värdering av källornas relevans utifrån historiska frågor.",
+              "en": ""
+            },
+            "coreElements": [
+              "Demokratisering och ökad globalisering, cirka 1900 till nutid"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "HI-7-9-15",
+            "text": {
+              "local": "Analys av historiebruk kopplat till tidsperioden, till exempel hur individer och grupper använder historia för att kritisera samtida fenomen och på­verka våra föreställningar om framtiden.",
+              "en": ""
+            },
+            "coreElements": [
+              "Demokratisering och ökad globalisering, cirka 1900 till nutid"
+            ],
+            "verbs": []
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "E",
+            "text": {
+              "local": "Betygskriterier för betyget E i slutet av årskurs 9Eleven visar grundläggande kunskaper om händelser, aktörer och förändringsprocesser under olika tidsperioder samt om historiska begrepp. Till detta hör att eleven visar kunskaper om särskilt centrala historiska skeenden, däribland Förintelsen. Eleven för enkla resonemang om orsaker till och konsekvenser av samhällsförändringar och av människors levnadsvillkor och handlingar i förfluten tid. Eleven för enkla resonemang om kontinuitet och förändring utifrån några långa historiska linjer. Eleven ställer frågor till historiska källor och för enkla resonemang om vad källorna kan berätta om det förflutna samt om källornas relevans och trovärdighet. Eleven för enkla resonemang om hur historia kan brukas i olika sammanhang och för olika syften.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "D",
+            "text": {
+              "local": "Betygskriterier för betyget D i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan C och E.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "C",
+            "text": {
+              "local": "Betygskriterier för betyget C i slutet av årskurs 9Eleven visar goda kunskaper om händelser, aktörer och förändringsprocesser under olika tidsperioder samt om historiska begrepp. Till detta hör att eleven visar kunskaper om särskilt centrala historiska skeenden, däribland Förintelsen. Eleven för utvecklade resonemang om orsaker till och konsekvenser av samhällsförändringar och av människors levnadsvillkor och handlingar i förfluten tid. Eleven för också utvecklade resonemang om kontinuitet och förändring utifrån några långa historiska linjer. Eleven ställer frågor till historiska källor och för utvecklade resonemang om vad källorna kan berätta om det förflutna samt om källornas relevans och trovärdighet. Eleven för utvecklade resonemang om hur historia kan brukas i olika sammanhang och för olika syften.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "B",
+            "text": {
+              "local": "Betygskriterier för betyget B i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan A och C.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "A",
+            "text": {
+              "local": "Betygskriterier för betyget A i slutet av årskurs 9Eleven visar mycket goda kunskaper om händelser, aktörer och förändringsprocesser under olika tidsperioder samt om historiska begrepp. Till detta hör att eleven visar kunskaper om särskilt centrala historiska skeenden, däribland Förintelsen. Eleven för välutvecklade resonemang om orsaker till och konsekvenser av samhällsförändringar och av människors levnadsvillkor och handlingar i förfluten tid. Eleven för också välutvecklade resonemang om kontinuitet och förändring utifrån några långa historiska linjer. Eleven ställer frågor till historiska källor och för välutvecklade resonemang om vad källorna kan berätta om det förflutna samt om källornas relevans och trovärdighet. Eleven för välutvecklade resonemang om hur historia kan brukas i olika sammanhang och för olika syften.",
+              "en": ""
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

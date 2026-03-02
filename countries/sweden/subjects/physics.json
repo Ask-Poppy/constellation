@@ -1,0 +1,584 @@
+{
+  "country": "sweden",
+  "source": {
+    "api": "https://api.skolverket.se/syllabus/v1/subjects/GRGRFYS01",
+    "curriculum": "Lgr22",
+    "license": "CC0",
+    "lastSynced": "2026-03-02T21:29:31Z"
+  },
+  "subject": {
+    "code": "GRGRFYS01",
+    "name": {
+      "local": "Fysik",
+      "en": "Physics"
+    },
+    "coreElements": [
+      {
+        "code": "",
+        "name": {
+          "local": "kunskaper om fysikens begrepp och förklaringsmodeller för att beskriva och förklara samband i naturen och samhället,",
+          "en": ""
+        },
+        "description": {
+          "local": "kunskaper om fysikens begrepp och förklaringsmodeller för att beskriva och förklara samband i naturen och samhället,",
+          "en": ""
+        }
+      },
+      {
+        "code": "",
+        "name": {
+          "local": "förmåga att använda fysik för att granska information, kommunicera och ta ställning i frågor som rör energi, teknik och miljö, och",
+          "en": ""
+        },
+        "description": {
+          "local": "förmåga att använda fysik för att granska information, kommunicera och ta ställning i frågor som rör energi, teknik och miljö, och",
+          "en": ""
+        }
+      },
+      {
+        "code": "",
+        "name": {
+          "local": "förmåga att genomföra systematiska undersökningar i fysik.",
+          "en": ""
+        },
+        "description": {
+          "local": "förmåga att genomföra systematiska undersökningar i fysik.",
+          "en": ""
+        }
+      }
+    ],
+    "gradeBands": [
+      {
+        "afterGrade": 3,
+        "label": {
+          "local": "Årskurs 1-3",
+          "en": "Years 1-3"
+        },
+        "competenceGoals": [
+          {
+            "code": "FY-1-3-1",
+            "text": {
+              "local": "Årstidsväxlingar i naturen. Några djurs och växters livscykler och an­pass­ningar till olika livsmiljöer och årstider.",
+              "en": ""
+            },
+            "coreElements": [
+              "Året runt i naturen"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "FY-1-3-2",
+            "text": {
+              "local": "Djur, växter och svampar i närmiljön, hur de kan grupperas samt namn på några vanligt förekommande arter.",
+              "en": ""
+            },
+            "coreElements": [
+              "Året runt i naturen"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "FY-1-3-3",
+            "text": {
+              "local": "Enkla näringskedjor som beskriver samband mellan organismer i eko­system.",
+              "en": ""
+            },
+            "coreElements": [
+              "Året runt i naturen"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "FY-1-3-4",
+            "text": {
+              "local": "Några av människans organ, deras namn och översiktliga funktion.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kropp och hälsa"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "FY-1-3-5",
+            "text": {
+              "local": "Människans upplevelser av ljus, ljud, värme, smak och doft med hjälp av oli­ka sinnen.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kropp och hälsa"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "FY-1-3-6",
+            "text": {
+              "local": "Betydelsen av kost, sömn, hygien, motion och sociala relationer för att må bra.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kropp och hälsa"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "FY-1-3-7",
+            "text": {
+              "local": "Tyngdkraft, tyngdpunkt, jämvikt, balans och friktion som kan upplevas och obser­veras vid lek och rörelse.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kraft och rörelse"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "FY-1-3-8",
+            "text": {
+              "local": "Solsystemets himlakroppar och deras rörelser. Människan i rymden.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kraft och rörelse"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "FY-1-3-9",
+            "text": {
+              "local": "Hur material kan sorteras efter några egenskaper, till exempel utseende, om de är magnetiska och om de flyter eller sjunker i vatten. Hur materialen kan åter­vinnas.",
+              "en": ""
+            },
+            "coreElements": [
+              "Material och ämnen"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "FY-1-3-10",
+            "text": {
+              "local": "Några blandningar och hur de kan delas upp i sina olika beståndsdelar, till exempel genom avdunstning och filtrering.",
+              "en": ""
+            },
+            "coreElements": [
+              "Material och ämnen"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "FY-1-3-11",
+            "text": {
+              "local": "Vattnets olika former: fast, flytande och gas. Avdunstning, kokning, kon­den­sering, smältning och stelning.",
+              "en": ""
+            },
+            "coreElements": [
+              "Material och ämnen"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "FY-1-3-12",
+            "text": {
+              "local": "Enkla fältstudier, observationer och experiment. Utförande och doku­men­ta­tion av undersökningarna med ord, bilder och digitala verktyg.",
+              "en": ""
+            },
+            "coreElements": [
+              "Systematiska undersökningar"
+            ],
+            "verbs": [
+              "Föra"
+            ]
+          },
+          {
+            "code": "FY-1-3-13",
+            "text": {
+              "local": "Några berättelser om hur naturvetenskaplig kunskap vuxit fram.",
+              "en": ""
+            },
+            "coreElements": [
+              "Systematiska undersökningar"
+            ],
+            "verbs": []
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "",
+            "text": {
+              "local": "Kriterier för bedömning av godtagbara kunskaper i slutet av årskurs 3Eleven visar grundläggande kunskaper om natur, kropp och hälsa, kraft och rörelse samt material och ämnen. Utifrån egna upplevelser och utforskande av närmiljön beskriver eleven enkla naturvetenskapliga samband i naturen och människokroppen. Utifrån tydliga instruktioner utför eleven enkla fältstudier, observationer och experiment.",
+              "en": ""
+            }
+          }
+        ]
+      },
+      {
+        "afterGrade": 6,
+        "label": {
+          "local": "Årskurs 4-6",
+          "en": "Years 4-6"
+        },
+        "competenceGoals": [
+          {
+            "code": "FY-4-6-1",
+            "text": {
+              "local": "Hur dag, natt, årstider och år kan förklaras utifrån rörelser hos solsystemets himla­kroppar.",
+              "en": ""
+            },
+            "coreElements": [
+              "Fysiken i naturen och samhället"
+            ],
+            "verbs": [
+              "Förklara"
+            ]
+          },
+          {
+            "code": "FY-4-6-2",
+            "text": {
+              "local": "Vanliga väderfenomen och deras orsaker, till exempel hur vindar och ne­der­börd uppstår.",
+              "en": ""
+            },
+            "coreElements": [
+              "Fysiken i naturen och samhället"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "FY-4-6-3",
+            "text": {
+              "local": "Energiformer samt olika typer av energikällor och deras påverkan på miljön.",
+              "en": ""
+            },
+            "coreElements": [
+              "Fysiken i naturen och samhället"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "FY-4-6-4",
+            "text": {
+              "local": "Energiflöden mellan föremål som har olika temperatur. Hur man kan på­ver­ka energiflödena med hjälp av olika värmeledande och isolerande ma­te­rial.",
+              "en": ""
+            },
+            "coreElements": [
+              "Fysiken i naturen och samhället"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "FY-4-6-5",
+            "text": {
+              "local": "Hur ljus och ljud breder ut sig och kan reflekteras.",
+              "en": ""
+            },
+            "coreElements": [
+              "Fysiken i naturen och samhället"
+            ],
+            "verbs": [
+              "Reflektera"
+            ]
+          },
+          {
+            "code": "FY-4-6-6",
+            "text": {
+              "local": "Elektriska kretsar med batterier. Hur de kan kopplas och hur de kan an­vän­das i vardaglig elektrisk utrustning.",
+              "en": ""
+            },
+            "coreElements": [
+              "Fysiken i naturen och samhället"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "FY-4-6-7",
+            "text": {
+              "local": "Krafter och rörelser som kan observeras och mätas i vardagssituationer.",
+              "en": ""
+            },
+            "coreElements": [
+              "Fysiken i naturen och samhället"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "FY-4-6-8",
+            "text": {
+              "local": "Några instrument samt hur de används för att mäta fysikaliska storheter, till exempel temperatur och kraft.",
+              "en": ""
+            },
+            "coreElements": [
+              "Fysiken i naturen och samhället"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "FY-4-6-9",
+            "text": {
+              "local": "Observationer och experiment med såväl analoga som digitala verktyg. Plane­ring, utförande, värdering av resultat samt dokumentation med ord, bil­der och tabeller.",
+              "en": ""
+            },
+            "coreElements": [
+              "Systematiska undersökningar och granskning av information"
+            ],
+            "verbs": [
+              "Föra"
+            ]
+          },
+          {
+            "code": "FY-4-6-10",
+            "text": {
+              "local": "Några upptäckter inom fysikområdet och deras betydelse för människans lev­nads­villkor och syn på naturen.",
+              "en": ""
+            },
+            "coreElements": [
+              "Systematiska undersökningar och granskning av information"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "FY-4-6-11",
+            "text": {
+              "local": "Kritisk granskning och användning av information som rör fysik.",
+              "en": ""
+            },
+            "coreElements": [
+              "Systematiska undersökningar och granskning av information"
+            ],
+            "verbs": []
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "E",
+            "text": {
+              "local": "Betygskriterier för betyget E i slutet av årskurs 6Eleven visar grundläggande kunskaper om fysikens begrepp och förklaringsmodeller. Med viss användning av begreppen och förklaringsmodellerna beskriver eleven enkla fysikaliska fenomen i naturen och samhället. Eleven använder information som rör fysik för att med viss naturvetenskaplig underbyggnad föra resonemang i frågor som rör energi, teknik och miljö. Eleven söker svar på frågor genom att utföra systematiska undersökningar på ett säkert och i huvudsak fungerande sätt. Eleven värderar resultaten och beskriver på ett enkelt sätt undersökningarna.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "D",
+            "text": {
+              "local": "Betygskriterier för betyget D i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan C och E.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "C",
+            "text": {
+              "local": "Betygskriterier för betyget C i slutet av årskurs 6Eleven visar goda kunskaper om fysikens begrepp och förklaringsmodeller. Med relativt god användning av begreppen och förklaringsmodellerna beskriver eleven enkla fysikaliska fenomen i naturen och samhället. Eleven använder information som rör fysik för att med relativt god naturvetenskaplig underbyggnad föra resonemang i frågor som rör energi, teknik och miljö. Eleven söker svar på frågor genom att utföra systematiska undersökningar på ett säkert och fungerande sätt. Eleven värderar resultaten och beskriver på ett utvecklat sätt undersökningarna.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "B",
+            "text": {
+              "local": "Betygskriterier för betyget B i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan A och C.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "A",
+            "text": {
+              "local": "Betygskriterier för betyget A i slutet av årskurs 6Eleven visar mycket goda kunskaper om fysikens begrepp och förklaringsmodeller. Med god användning av begreppen och förklaringsmodellerna beskriver eleven enkla fysikaliska fenomen i naturen och samhället. Eleven använder information som rör fysik för att med god naturvetenskaplig underbyggnad föra resonemang i frågor som rör energi, teknik och miljö. Eleven söker svar på frågor genom att utföra systematiska undersökningar på ett säkert och väl fungerande sätt. Eleven värderar resultaten och beskriver på ett välutvecklat sätt undersökningarna.",
+              "en": ""
+            }
+          }
+        ]
+      },
+      {
+        "afterGrade": 9,
+        "label": {
+          "local": "Årskurs 7-9",
+          "en": "Years 7-9"
+        },
+        "competenceGoals": [
+          {
+            "code": "FY-7-9-1",
+            "text": {
+              "local": "Universums uppkomst, uppbyggnad och utveckling samt förutsättningar för att finna planeter och liv i andra solsystem.",
+              "en": ""
+            },
+            "coreElements": [
+              "Fysiken i naturen och samhället"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "FY-7-9-2",
+            "text": {
+              "local": "Partikelmodell av materiens egenskaper samt fasövergångar, tryck, volym, densitet och temperatur.",
+              "en": ""
+            },
+            "coreElements": [
+              "Fysiken i naturen och samhället"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "FY-7-9-3",
+            "text": {
+              "local": "Fysikaliska förklaringsmodeller av jordens strålningsbalans, växt­hu­seffek­ten och klimatförändringar.",
+              "en": ""
+            },
+            "coreElements": [
+              "Fysiken i naturen och samhället"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "FY-7-9-4",
+            "text": {
+              "local": "Energins flöde och oförstörbarhet samt olika energislags kvalitet. Olika ty­per av energikällor samt deras för- och nackdelar för samhället och miljön.",
+              "en": ""
+            },
+            "coreElements": [
+              "Fysiken i naturen och samhället"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "FY-7-9-5",
+            "text": {
+              "local": "Partikelstrålning och elektromagnetisk strålning, deras an­vänd­nings­områ­den och risker.",
+              "en": ""
+            },
+            "coreElements": [
+              "Fysiken i naturen och samhället"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "FY-7-9-6",
+            "text": {
+              "local": "Hur ljus breder ut sig, reflekteras och bryts.",
+              "en": ""
+            },
+            "coreElements": [
+              "Fysiken i naturen och samhället"
+            ],
+            "verbs": [
+              "Reflektera"
+            ]
+          },
+          {
+            "code": "FY-7-9-7",
+            "text": {
+              "local": "Hur ljud uppstår, breder ut sig och kan registreras på olika sätt.",
+              "en": ""
+            },
+            "coreElements": [
+              "Fysiken i naturen och samhället"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "FY-7-9-8",
+            "text": {
+              "local": "Sambandet mellan elektricitet och magnetism samt mellan ström och spän­ning i elektriska kretsar. Hur kretsarna kan användas i elektrisk utrustning.",
+              "en": ""
+            },
+            "coreElements": [
+              "Fysiken i naturen och samhället"
+            ],
+            "verbs": [
+              "Använda"
+            ]
+          },
+          {
+            "code": "FY-7-9-9",
+            "text": {
+              "local": "Krafter, rörelser och rörelseförändringar samt hur kunskaper om detta kan an­vändas, till exempel i frågor om trafiksäkerhet.",
+              "en": ""
+            },
+            "coreElements": [
+              "Fysiken i naturen och samhället"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "FY-7-9-10",
+            "text": {
+              "local": "Några instrument för att mäta fysikaliska storheter, till exempel kraft och ström. Användning av mätvärden i enkla beräkningar, till exempel beräk­ningar av densitet och hastighet.",
+              "en": ""
+            },
+            "coreElements": [
+              "Fysiken i naturen och samhället"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "FY-7-9-11",
+            "text": {
+              "local": "Observationer och experiment med såväl analoga som digitala verktyg. For­mulering av undersökningsbara frågor, planering, utförande, värdering av resultat samt dokumentation med bilder, tabeller, diagram och rapporter.",
+              "en": ""
+            },
+            "coreElements": [
+              "Systematiska undersökningar och granskning av information"
+            ],
+            "verbs": [
+              "Föra"
+            ]
+          },
+          {
+            "code": "FY-7-9-12",
+            "text": {
+              "local": "Sambandet mellan undersökningar av fysikaliska fenomen och ut­veck­lingen av begrepp och förklaringsmodeller. De fysikaliska förklarings­modeller­nas historiska framväxt, användbarhet och föränderlighet.",
+              "en": ""
+            },
+            "coreElements": [
+              "Systematiska undersökningar och granskning av information"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "FY-7-9-13",
+            "text": {
+              "local": "Informationssökning, kritisk granskning och användning av information som rör fysik. Argumentation och ställningstaganden i aktuella frågor som rör energi, teknik och miljö.",
+              "en": ""
+            },
+            "coreElements": [
+              "Systematiska undersökningar och granskning av information"
+            ],
+            "verbs": []
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "E",
+            "text": {
+              "local": "Betygskriterier för betyget E i slutet av årskurs 9Eleven visar grundläggande kunskaper om fysikens begrepp och förklaringsmodeller. Med viss användning av begreppen och förklaringsmodellerna beskriver och förklarar eleven fysikaliska fenomen i naturen och samhället. I frågor som rör energi, teknik och miljö för eleven resonemang samt framför och bemöter argument med viss naturvetenskaplig underbyggnad. Eleven söker information som rör fysik och använder då olika källor och för enkla resonemang om informationens och källornas trovärdighet och relevans. Eleven söker svar på frågor genom att planera och utföra systematiska undersökningar på ett säkert och i huvudsak fungerande sätt. Eleven värderar undersökningarna genom att föra enkla resonemang utifrån frågeställningarna.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "D",
+            "text": {
+              "local": "Betygskriterier för betyget D i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan C och E.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "C",
+            "text": {
+              "local": "Betygskriterier för betyget C i slutet av årskurs 9Eleven visar goda kunskaper om fysikens begrepp och förklaringsmodeller. Med relativt god användning av begreppen och förklaringsmodellerna beskriver och förklarar eleven fysikaliska fenomen i naturen och samhället. I frågor som rör energi, teknik och miljö för eleven resonemang samt framför och bemöter argument med relativt god naturvetenskaplig underbyggnad. Eleven söker information som rör fysik och använder då olika källor och för utvecklade resonemang om informationens och källornas trovärdighet och relevans. Eleven söker svar på frågor genom att planera och utföra systematiska undersökningar på ett säkert och fungerande sätt. Eleven värderar undersökningarna genom att föra utvecklade resonemang utifrån frågeställningarna.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "B",
+            "text": {
+              "local": "Betygskriterier för betyget B i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan A och C.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "A",
+            "text": {
+              "local": "Betygskriterier för betyget A i slutet av årskurs 9Eleven visar mycket goda kunskaper om fysikens begrepp och förklaringsmodeller. Med god användning av begreppen och förklaringsmodellerna beskriver och förklarar eleven fysikaliska fenomen i naturen och samhället. I frågor som rör energi, teknik och miljö för eleven resonemang samt framför och bemöter argument med god naturvetenskaplig underbyggnad. Eleven söker information som rör fysik och använder då olika källor och för välutvecklade resonemang om informationens och källornas trovärdighet och relevans. Eleven söker svar på frågor genom att planera och utföra systematiska undersökningar på ett säkert och väl fungerande sätt. Eleven värderar undersökningarna genom att föra välutvecklade resonemang utifrån frågeställningarna.",
+              "en": ""
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

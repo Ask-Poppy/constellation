@@ -1,0 +1,516 @@
+{
+  "country": "finland",
+  "source": {
+    "api": "https://eperusteet.opintopolku.fi/eperusteet-service/api/external/peruste/419550/perusopetus/oppiaineet/466345",
+    "curriculum": "POPS 2014",
+    "license": "Open Government Data (Finland)",
+    "lastSynced": "2026-03-02T21:29:46Z"
+  },
+  "subject": {
+    "code": "HI",
+    "name": {
+      "local": "Historia",
+      "en": "History"
+    },
+    "coreElements": [
+      {
+        "code": "S1",
+        "name": {
+          "local": "S1 Esihistoriallinen aika ja sivilisaation synty",
+          "en": ""
+        },
+        "description": {
+          "local": "Perehdytään ihmisen elämiseen pienissä populaatioissa ja metsästyskulttuuriin sekä maanviljelykulttuurin murrokseen ja sivilisaation syntyyn.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S2",
+        "name": {
+          "local": "S2 Vanha aika ja antiikin perintö",
+          "en": ""
+        },
+        "description": {
+          "local": "Paneudutaan demokratian orastukseen Kreikassa ja roomalaiseen yhteiskuntaan. Aikakautta tarkastellaan lisäksi Pohjolan asuttamisen näkökulmasta.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S3",
+        "name": {
+          "local": "S3 Keskiaika",
+          "en": ""
+        },
+        "description": {
+          "local": "Perehdytään keskiaikaiseen maailmankuvaan sekä idän ja lännen kulttuurisiin yhtäläisyyksiin ja eroavaisuuksiin ja niiden vaikutuksiin eri ihmisryhmille. Käsitellään Suomen siirtyminen historialliseen aikaan ja Ruotsin yhteyteen.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S4",
+        "name": {
+          "local": "S4 Uuden ajan murrosvaihe",
+          "en": ""
+        },
+        "description": {
+          "local": "Tutustutaan tieteessä, taiteessa ja ihmisten uskomuksissa tapahtuneisiin muutoksiin.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S5",
+        "name": {
+          "local": "S5 Suomi osana Ruotsia",
+          "en": ""
+        },
+        "description": {
+          "local": "Tarkastellaan kehitystä Suomessa 1600&ndash;1700-luvuilla",
+          "en": ""
+        }
+      },
+      {
+        "code": "S1",
+        "name": {
+          "local": "S1 Teollisuusyhteiskunnan synty ja kehitys",
+          "en": ""
+        },
+        "description": {
+          "local": "Perehdytään ilmiöön, joka on muuttanut ihmisen elämää, ihmisen ja luonnon suhdetta sekä maailmaa.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S2",
+        "name": {
+          "local": "S2 Ihmiset muuttavat maailmaa",
+          "en": ""
+        },
+        "description": {
+          "local": "Tutustutaan yhteiskunnallisiin aatteisiin, niiden merkitykseen ja seurauksiin sekä siihen, miten ihmiset ovat pystyneet vaikuttamaan omana aikanaan.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S3",
+        "name": {
+          "local": "S3 Suomea luodaan, rakennetaan ja puolustetaan",
+          "en": ""
+        },
+        "description": {
+          "local": "Perehdytään kulttuurin merkitykseen identiteetin rakentamisessa autonomian ajalla ja itsenäisen Suomen alkutaipaleeseen.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S4",
+        "name": {
+          "local": "S4 Suurten sotien aika",
+          "en": ""
+        },
+        "description": {
+          "local": "Perehdytään maailmansotiin, kylmään sotaan ja sodista selviytymiseen erityisesti tavallisten ihmisten ja ihmisoikeuskysymysten näkökulmasta. Paneudutaan ihmisoikeusrikoksiin kuten holokaustiin ja muihin kansanvainoihin sekä ihmisoikeuksien edistämiseen.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S5",
+        "name": {
+          "local": "S5 Hyvinvointiyhteiskunnan rakentaminen",
+          "en": ""
+        },
+        "description": {
+          "local": "Tarkastellaan arkielämän historiaa ja tämän päivän juuria. Kehityksen yksilölle tuomien saavutusten ohella perehdytään elinkeinorakenteen muutokseen ja palveluammattien yleistymiseen sekä kaupungistumiseen.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S6",
+        "name": {
+          "local": "S6 Nykyisen maailmanpolitiikan juuret",
+          "en": ""
+        },
+        "description": {
+          "local": "Syvennytään kehittyneiden ja kehittyvien maiden yhteiseen historiaan sekä uudenlaisten poliittisten jännitteiden syntyyn ja ratkaisuihin maailmassa.",
+          "en": ""
+        }
+      }
+    ],
+    "gradeBands": [
+      {
+        "afterGrade": 6,
+        "label": {
+          "local": "Vuosiluokat 3–6",
+          "en": "Grades 3–6"
+        },
+        "competenceGoals": [
+          {
+            "code": "T1",
+            "text": {
+              "local": "T1 ohjata oppilasta kiinnostumaan historiasta tiedonalana ja identiteettiä rakentavana oppiaineena",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S5"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T2",
+            "text": {
+              "local": "T2 johdattaa oppilasta tunnistamaan erilaisia historian lähteitä",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S5"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T3",
+            "text": {
+              "local": "T3 ohjata oppilasta havaitsemaan historiatiedon tulkinnallisuuden",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S5"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T4",
+            "text": {
+              "local": "T4 auttaa oppilasta ymmärtämään erilaisia tapoja jakaa historia aikakausiin sekä käyttämään niihin liittyviä historiallisia käsitteitä",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S5"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T5",
+            "text": {
+              "local": "T5 ohjata oppilasta ymmärtämään ihmisen toiminnan motiiveja",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S5"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T6",
+            "text": {
+              "local": "T6 johdattaa oppilasta hahmottamaan erilaisia syitä ja seurauksia historian tapahtumille ja ilmiöille",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S5"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T7",
+            "text": {
+              "local": "T7 auttaa oppilasta tunnistamaan muutoksia oman perheen tai yhteisön historiassa sekä ymmärtämään, miten samat muutokset ovat voineet tarkoittaa eri asioita eri ihmisille",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S5"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T8",
+            "text": {
+              "local": "T8 harjaannuttaa oppilasta hahmottamaan jatkuvuuksia historiassa",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S5"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T9",
+            "text": {
+              "local": "T9 ohjata oppilasta esittämämään muutoksille syitä",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S5"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T10",
+            "text": {
+              "local": "T10 ohjata oppilasta selittämään, miten tulkinnat saattavat muuttua uusien lähteiden tai tarkastelutapojen myötä",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S5"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T11",
+            "text": {
+              "local": "T11 ohjata oppilasta selittämään ihmisen toimintaa",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S5"
+            ],
+            "verbs": []
+          }
+        ]
+      },
+      {
+        "afterGrade": 9,
+        "label": {
+          "local": "Vuosiluokat 7–9",
+          "en": "Grades 7–9"
+        },
+        "competenceGoals": [
+          {
+            "code": "T1",
+            "text": {
+              "local": "T1 vahvistaa oppilaan kiinnostusta historiasta tiedonalana ja identiteettiä rakentavana oppiaineena",
+              "en": ""
+            },
+            "coreElements": [
+              "S6",
+              "S1",
+              "S3",
+              "S2",
+              "S5",
+              "S4"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T2",
+            "text": {
+              "local": "T2 aktivoida oppilasta hankkimaan historiallista tietoa sekä arvioimaan tiedonlähteiden luotettavuutta",
+              "en": ""
+            },
+            "coreElements": [
+              "S6",
+              "S1",
+              "S3",
+              "S2",
+              "S5",
+              "S4"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T3",
+            "text": {
+              "local": "T3 auttaa oppilasta ymmärtämään, että historiallista tietoa voidaan tulkita eri tavoin",
+              "en": ""
+            },
+            "coreElements": [
+              "S6",
+              "S1",
+              "S3",
+              "S2",
+              "S5",
+              "S4"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T4",
+            "text": {
+              "local": "T4 vahvistaa oppilaan kykyä ymmärtää historiallista aikaa ja siihen liittyviä käsitteitä",
+              "en": ""
+            },
+            "coreElements": [
+              "S6",
+              "S1",
+              "S3",
+              "S2",
+              "S5",
+              "S4"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T5",
+            "text": {
+              "local": "T5 ohjata oppilasta ymmärtämään ihmisen toimintaan ja päätöksentekoon vaikuttaneita tekijöitä erilaisissa historiallisissa tilanteissa",
+              "en": ""
+            },
+            "coreElements": [
+              "S6",
+              "S1",
+              "S3",
+              "S2",
+              "S5",
+              "S4"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T6",
+            "text": {
+              "local": "T6 auttaa oppilasta arvioimaan erilaisia syitä historiallisille tapahtumille ja ilmiöille",
+              "en": ""
+            },
+            "coreElements": [
+              "S6",
+              "S1",
+              "S3",
+              "S2",
+              "S5",
+              "S4"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T7",
+            "text": {
+              "local": "T7 ohjata oppilasta analysoimaan historiallista muutosta ja jatkuvuutta",
+              "en": ""
+            },
+            "coreElements": [
+              "S6",
+              "S1",
+              "S3",
+              "S2",
+              "S5",
+              "S4"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T8",
+            "text": {
+              "local": "T8 kannustaa oppilasta tulkintojen tekemiseen",
+              "en": ""
+            },
+            "coreElements": [
+              "S6",
+              "S1",
+              "S3",
+              "S2",
+              "S5",
+              "S4"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T9",
+            "text": {
+              "local": "T9 ohjata oppilasta selittämään ihmisen toiminnan tarkoitusperiä",
+              "en": ""
+            },
+            "coreElements": [
+              "S6",
+              "S1",
+              "S3",
+              "S2",
+              "S5",
+              "S4"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T10",
+            "text": {
+              "local": "T10 ohjata oppilasta selittämään, miksi historiallista tietoa voidaan tulkita ja käyttää eri tavoin eri tilanteissa ja arvioimaan kriittisesti tulkintojen luotettavuutta",
+              "en": ""
+            },
+            "coreElements": [
+              "S6",
+              "S1",
+              "S3",
+              "S2",
+              "S5",
+              "S4"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T11",
+            "text": {
+              "local": "T11 harjaannuttaa oppilasta käyttämään erilaisia lähteitä, vertailemaan niitä ja muodostamaan oman perustellun tulkintansa niiden pohjalta",
+              "en": ""
+            },
+            "coreElements": [
+              "S6",
+              "S1",
+              "S3",
+              "S2",
+              "S5",
+              "S4"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T12",
+            "text": {
+              "local": "T12 ohjata oppilasta arvioimaan tulevaisuuden vaihtoehtoja historiatietämyksensä avulla",
+              "en": ""
+            },
+            "coreElements": [
+              "S6",
+              "S1",
+              "S3",
+              "S2",
+              "S5",
+              "S4"
+            ],
+            "verbs": []
+          }
+        ]
+      }
+    ]
+  }
+}

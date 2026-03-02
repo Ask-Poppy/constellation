@@ -1,0 +1,316 @@
+{
+  "country": "finland",
+  "source": {
+    "api": "https://eperusteet.opintopolku.fi/eperusteet-service/api/external/peruste/419550/perusopetus/oppiaineet/478972",
+    "curriculum": "POPS 2014",
+    "license": "Open Government Data (Finland)",
+    "lastSynced": "2026-03-02T21:29:49Z"
+  },
+  "subject": {
+    "code": "YH",
+    "name": {
+      "local": "Yhteiskuntaoppi",
+      "en": "Social Studies"
+    },
+    "coreElements": [
+      {
+        "code": "S1",
+        "name": {
+          "local": "S1 Arkielämä ja oman elämän hallinta",
+          "en": ""
+        },
+        "description": {
+          "local": "Tutustutaan yhteiskunnan toimintaan yksilön, perheen ja muiden lähiyhteisöjen näkökulmasta. Pohditaan, kuinka jokainen voi itse vaikuttaa lähiyhteisön turvallisuuteen ja viihtyisyyteen. Lisäksi perehdytään työntekoon, ammatteihin, omaan rahan käyttöön ja talouden hoitoon sekä vastuulliseen kuluttamiseen arjen tilanteissa.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S2",
+        "name": {
+          "local": "S2 Demokraattinen yhteiskunta",
+          "en": ""
+        },
+        "description": {
+          "local": "Perehdytään erilaisiin oppilasta lähellä oleviin yhteisöihin, niiden jäsenten oikeuksiin ja velvollisuuksiin, sekä harjoitellaan yhteistä päätöksentekoa. Opetuksessa tarkastellaan demokraattisen toiminnan arvoja ja perusperiaatteita kuten ihmisoikeuksia, tasa-arvoa sekä yhdenvertaisuutta. Tutustutaan Suomen eri kulttuureihin ja vähemmistöryhmiin.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S3",
+        "name": {
+          "local": "S3 Aktiivinen kansalaisuus ja vaikuttaminen",
+          "en": ""
+        },
+        "description": {
+          "local": "Tarkastellaan ja harjoitellaan käytännössä demokraattisen vaikuttamisen ja yhteiskunnassa toimimisen taitoja, joita tarvitaan erilaisten yhteisöjen vastuullisena ja osallistuvana jäsenenä esimerkiksi luokassa, koulussa, erilaisissa harrastuksissa ja järjestöissä, mediassa sekä taloudellisessa toiminnassa. Harjoitellaan yhteistyötä lähiyhteisön toimijoiden kanssa.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S4",
+        "name": {
+          "local": "S4 Taloudellinen toiminta",
+          "en": ""
+        },
+        "description": {
+          "local": "Tarkastellaan taloudellista toimintaa ja sen merkitystä. Perehdytään rahankäyttöön ja ansaitsemiseen, sekä säästämiseen ja kestävään kuluttamiseen. Lisäksi tutustutaan käytännön tilanteiden kautta paikallisen talouden toimintaan, kuten lähiympäristön yrityksiin, työpaikkoihin ja palveluiden tuottajiin.",
+          "en": ""
+        }
+      }
+    ],
+    "gradeBands": [
+      {
+        "afterGrade": 6,
+        "label": {
+          "local": "Vuosiluokat 3–6",
+          "en": "Grades 3–6"
+        },
+        "competenceGoals": [
+          {
+            "code": "T1",
+            "text": {
+              "local": "T1 ohjata oppilasta kiinnostumaan ympäröivästä yhteiskunnasta ja yhteiskuntaopista tiedonalana",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S2",
+              "S3",
+              "S4"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T2",
+            "text": {
+              "local": "T2 tukea oppilasta harjaannuttamaan eettistä arviointikykyään liittyen erilaisiin inhimillisiin, yhteiskunnallisiin ja taloudellisiin kysymyksiin",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S2",
+              "S3",
+              "S4"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T3",
+            "text": {
+              "local": "T3 ohjata oppilasta hahmottamaan itsensä yksilönä ja erilaisten yhteisöjen jäsenenä, ymmärtämään ihmisoikeuksien ja tasa-arvon merkityksen sekä hahmottamaan yhteiskunnan oikeudellisia periaatteita",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S2",
+              "S3"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T4",
+            "text": {
+              "local": "T4 ohjata oppilasta tarkastelemaan median roolia ja merkitystä omassa arjessa ja yhteiskunnassa",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S2",
+              "S3",
+              "S4"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T5",
+            "text": {
+              "local": "T5 ohjata oppilasta oivaltamaan työnteon ja yrittäjyyden merkityksen lähiyhteisössään",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S4"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T6",
+            "text": {
+              "local": "T6 tukea oppilasta ymmärtämään, että eri toimijoiden tuottamaan yhteiskunnalliseen tietoon liittyy erilaisia arvoja, näkökulmia ja tarkoitusperiä",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S2",
+              "S3"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T7",
+            "text": {
+              "local": "T7 kannustaa oppilasta harjoittelemaan demokraattisen vaikuttamisen perustaitoja sekä keskustelemaan rakentavasti eri mielipiteistä",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S2",
+              "S3"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T8",
+            "text": {
+              "local": "T8 tukea oppilasta ymmärtämään oman rahankäytön ja kulutusvalintojen perusteita sekä harjoittelemaan niihin liittyviä taitoja",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S4"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T9",
+            "text": {
+              "local": "T9 kannustaa oppilasta osallistumaan erilaisten yhteisöjen toimintaan ja harjoittelemaan median käyttöä turvallisella ja yhteiskunnallisesti tiedostavalla tavalla",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S3"
+            ],
+            "verbs": []
+          }
+        ]
+      },
+      {
+        "afterGrade": 9,
+        "label": {
+          "local": "Vuosiluokat 7–9",
+          "en": "Grades 7–9"
+        },
+        "competenceGoals": [
+          {
+            "code": "T1",
+            "text": {
+              "local": "T1 ohjata oppilasta syventämään kiinnostustaan ympäröivään yhteiskuntaan ja vahvistaa oppilaan kiinnostusta yhteiskuntaoppiin tiedonalana",
+              "en": ""
+            },
+            "coreElements": [
+              "S4",
+              "S3",
+              "S2",
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T2",
+            "text": {
+              "local": "T2 ohjata oppilasta harjaannuttamaan eettistä arviointikykyään liittyen erilaisiin inhimillisiin, yhteiskunnallisiin ja taloudellisiin kysymyksiin",
+              "en": ""
+            },
+            "coreElements": [
+              "S4",
+              "S3",
+              "S2",
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T3",
+            "text": {
+              "local": "T3 ohjata oppilasta ymmärtämään oikeusvaltion periaatteita, ihmisoikeuksien yleismaailmallista merkitystä sekä syventämään tietojaan suomalaisen oikeusjärjestelmän toiminnasta",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T4",
+            "text": {
+              "local": "T4 ohjata oppilasta syventämään ja pitämään ajan tasalla yhteiskuntaa, talouden toimintaa ja yksityistä taloudenpitoa koskevia tietojaan ja taitojaan sekä arvioimaan kriittisesti median roolia ja merkitystä",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S2",
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T5",
+            "text": {
+              "local": "T5 rohkaista oppilasta kehittymään yritteliääksi ja vastuulliseksi taloudelliseksi toimijaksi, joka tuntee yrittäjyyttä ja työelämää sekä niiden tarjoamia mahdollisuuksia ja osaa suunnitella omaa tulevaisuuttaan",
+              "en": ""
+            },
+            "coreElements": [
+              "S4",
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T6",
+            "text": {
+              "local": "T6 ohjata oppilasta tarkastelemaan yhteiskunnallista toimintaa sekä eri yhteisöjä ja vähemmistöryhmiä monipuolisesti ja avarakatseisesti",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S2",
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T7",
+            "text": {
+              "local": "T7 ohjata oppilasta ymmärtämään yhteiskunnallisen päätöksenteon periaatteita ja demokraattisia toimintatapoja paikallisella, kansallisella ja Euroopan unionin tasolla sekä globaalisti ja toimimaan aktiivisena, omaa lähiyhteisöä kehittävänä kansalaisena",
+              "en": ""
+            },
+            "coreElements": [
+              "S3",
+              "S2",
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T8",
+            "text": {
+              "local": "T8 ohjata oppilasta talouden perusteiden ymmärtämiseen, oman talouden hallintaan ja vastuulliseen kuluttamiseen kestävän kehityksen periaatteiden mukaisesti",
+              "en": ""
+            },
+            "coreElements": [
+              "S4",
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T9",
+            "text": {
+              "local": "T9 ohjata oppilasta laajentamaan näkemyksiään, osallistumaan yhteiskunnalliseen toimintaan ja keskusteluun sekä käyttämään mediataitojaan ja tietojaan yhteiskunnasta omien käsitystensä muodostamisessa ja kansalaisena toimimisessa",
+              "en": ""
+            },
+            "coreElements": [
+              "S4",
+              "S3",
+              "S2",
+              "S1"
+            ],
+            "verbs": []
+          }
+        ]
+      }
+    ]
+  }
+}

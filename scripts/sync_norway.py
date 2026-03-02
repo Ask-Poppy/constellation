@@ -24,8 +24,8 @@ METADATA_PATH = Path(__file__).parent.parent / "countries" / "norway" / "metadat
 
 SUBJECTS = {
     "MAT01-05": "mathematics",
-    "NOR01-06": "norwegian",
-    "ENG01-04": "english",
+    "NOR01-07": "norwegian",
+    "ENG01-05": "english",
     "NAT01-04": "science",
     "SAF01-04": "social-studies",
     "RLE01-03": "religion-ethics",
@@ -33,6 +33,9 @@ SUBJECTS = {
     "MUS01-02": "music",
     "KRO01-05": "physical-education",
     "MHE01-02": "food-health",
+    "FSP01-04": "foreign-language",
+    "UTV01-03": "educational-choices",
+    "ARB01-03": "work-life-studies",
 }
 
 
@@ -91,7 +94,8 @@ def sync_subject(code: str, filename: str) -> dict | None:
     subject_name_en = get_text(curriculum.get("tittel", {}), "eng")
 
     core_elements = []
-    for ke_ref in curriculum.get("kjerneelementer-kapittel", {}).get("kjerneelementer-lk20", []):
+    ke_section = curriculum.get("om-faget-kapittel", {}).get("kjerneelementer-i-faget", {})
+    for ke_ref in ke_section.get("kjerneelementer", []):
         ke_code = ke_ref.get("kode")
         if ke_code:
             ke = fetch_json(f"{BASE_URL}/kjerneelementer-lk20/{ke_code}")
@@ -135,7 +139,22 @@ def sync_subject(code: str, filename: str) -> dict | None:
             elif "vg3" in label_local.lower():
                 after_grade = 13
             else:
-                continue
+                max_grade = 0
+                for trinn in km_set.get("etter-aarstrinn", []):
+                    trinn_code = trinn.get("kode", "")
+                    m = re.search(r"aarstrinn(\d+)", trinn_code)
+                    if m:
+                        max_grade = max(max_grade, int(m.group(1)))
+                    elif trinn_code == "vg1":
+                        max_grade = max(max_grade, 11)
+                    elif trinn_code == "vg2":
+                        max_grade = max(max_grade, 12)
+                    elif trinn_code == "vg3":
+                        max_grade = max(max_grade, 13)
+                if max_grade > 0:
+                    after_grade = max_grade
+                else:
+                    continue
 
         goals = []
         for km_ref in km_set.get("kompetansemaal", []):

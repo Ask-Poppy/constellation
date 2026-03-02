@@ -1,0 +1,222 @@
+{
+  "country": "finland",
+  "source": {
+    "api": "https://eperusteet.opintopolku.fi/eperusteet-service/api/external/peruste/419550/perusopetus/oppiaineet/605632",
+    "curriculum": "POPS 2014",
+    "license": "Open Government Data (Finland)",
+    "lastSynced": "2026-03-02T21:29:42Z"
+  },
+  "subject": {
+    "code": "OP",
+    "name": {
+      "local": "Oppilaanohjaus",
+      "en": "Guidance Counselling"
+    },
+    "coreElements": [
+      {
+        "code": "S1",
+        "name": {
+          "local": "S1 Oppiminen ja opiskelu",
+          "en": ""
+        },
+        "description": {
+          "local": "Keskeisinä sisältöalueina oppilaanohjauksessa ovat kouluyhteisössä toimimisen sekä opiskelutaitojen ja oppimaan oppimisen taitojen harjoittelu yhteistyössä muiden oppiaineiden kanssa elinikäisen oppimisen ja yhteisöllisyyden näkökulmista. Oppilaat harjoittelevat asettamaan itselleen opiskeluun liittyviä tavoitteita opintojen eri vaiheissa, arvioimaan itsenäisen toiminnan kehittymistä ja tavoitteiden toteutumista sekä ottamaan vastuuta omasta oppimisestaan, opintoihin liittyvien valintojen tekemisestä sekä opintojensa etenemisestä.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S2",
+        "name": {
+          "local": "S2 Itsetuntemus ja elinikäinen urasuunnittelu",
+          "en": ""
+        },
+        "description": {
+          "local": "Oppilaanohjauksessa käsitellään sisältöalueita, joiden avulla oppilaat laajentavat itsetuntemustaan ja itsearviointitaitojaan, tulevaisuuden suunnittelu- ja päätöksentekotaitojaan sekä kehittävät taitojaan ratkaista ongelmia tilanteessa, jossa valmista ratkaisua ei ole annettu. Harjoitettavat taidot koskevat mm. urasuunnittelu- ja urahallintataitoja, motivaatiota sekä yleisiä elämässä tarvittavia taitoja. Analysointivalmiuksia sekä omiin valintoihin vaikuttavien tekijöiden tunnistamista harjoitetaan. Tällaisia tekijöitä ovat esimerkiksi arvot ja asenteet, oppilaan taidot sekä sosiaaliset verkostot.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S3",
+        "name": {
+          "local": "S3 Opiskelussa ja työelämässä tarvittavat taidot",
+          "en": ""
+        },
+        "description": {
+          "local": "Oppilaanohjauksessa tarjotaan oppilaille mahdollisuuksia harjaannuttaa taitojaan toimijana erilaisissa ympäristöissä. Huomiota kiinnitetään monipuolisten opiskelussa ja työelämässä tarvittavien taitojen sekä monikanavaisten vuorovaikutus- ja viestintätaitojen kehittymiseen. Viestintätaitoihin kuuluu myös eri tietolähteiden kautta saadun tiedon luotettavuuden arviointi urasuunnittelun kannalta.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S4",
+        "name": {
+          "local": "S4 Työelämään tutustuminen",
+          "en": ""
+        },
+        "description": {
+          "local": "Eri elinkeinoihin, työelämään ja ammattialoihin tutustuminen sekä työn hakemisen harjoittelu lisäävät oppilaiden työelämätietoutta. Samalla oppilaat tutustuvat itseään kiinnostaviin aloihin, ammatteihin ja yrittäjyyteen. Työelämätaitoja harjoitellaan erityisesti työelämään tutustumisjaksoilla (TET), joista saatua kokemusta, tietoa ja palautetta hyödynnetään eri oppiaineiden opiskelussa sekä tulevaisuuden suunnitelmia tehtäessä. Huomiota kiinnitetään työelämän tasa-arvokysymyksiin.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S5",
+        "name": {
+          "local": "S5 Jatko-opinnot ja niihin hakeutuminen",
+          "en": ""
+        },
+        "description": {
+          "local": "Oppilaiden jatko-opintojen ja tulevaisuuden suunnittelun taitojen kehittyminen on jatkumo, jota syvennetään oppilaanohjauksen sisällöissä koko perusopetuksen ajan. Oppilaanohjauksessa oppilaat tutustuvat Suomen koulutusjärjestelmän tarjoamiin erilaisiin jatko-opintomahdollisuuksiin ja oppivat etsimään tarkempaa tietoa jatko-opinnoista sekä niihin hakeutumisesta sekä hyödyntämään eri tieto-, neuvonta- ja ohjauspalveluita.",
+          "en": ""
+        }
+      }
+    ],
+    "gradeBands": [
+      {
+        "afterGrade": 2,
+        "label": {
+          "local": "Vuosiluokat 1–2",
+          "en": "Grades 1–2"
+        },
+        "competenceGoals": []
+      },
+      {
+        "afterGrade": 6,
+        "label": {
+          "local": "Vuosiluokat 3–6",
+          "en": "Grades 3–6"
+        },
+        "competenceGoals": []
+      },
+      {
+        "afterGrade": 9,
+        "label": {
+          "local": "Vuosiluokat 7–9",
+          "en": "Grades 7–9"
+        },
+        "competenceGoals": [
+          {
+            "code": "T1",
+            "text": {
+              "local": "T1 auttaa oppilasta muodostamaan kokonaiskäsitys vuosiluokkien 7-9 toimintatavoista ja opiskeluympäristöstä, kehittää oppilaan valmiutta toimia kyseisessä ympäristössä ja erilaisissa ryhmissä sekä tukea oppilasta itsenäiseen toimintaan ja vastuun ottamiseen opiskelustaan ja tekemistään valinnoista",
+              "en": ""
+            },
+            "coreElements": [
+              "S2",
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T2",
+            "text": {
+              "local": "T2 kannustaa ja ohjata oppilaita kehittämään opiskelutaitojaan sekä oppimaan oppimisen taitojaan",
+              "en": ""
+            },
+            "coreElements": [
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T3",
+            "text": {
+              "local": "T3 luoda edellytyksiä oppilaan halulle oppia, arvioida osaamistaan, tunnistaa ja hyödyntää taitojaan ja vahvuuksiaan, kehittää kykyään tunnistaa oppimiskohteitaan sekä antaa valmiuksia muuttaa tarvittaessa suunnitelmiaan ja toimintamallejaan",
+              "en": ""
+            },
+            "coreElements": [
+              "S2",
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T4",
+            "text": {
+              "local": "T4 ohjata oppilasta tunnistamaan omiin valintoihinsa vaikuttavia tekijöitä sekä suhteuttamaan omaa toimintaansa kykyjensä, edellytystensä ja kiinnostuksensa mukaisesti",
+              "en": ""
+            },
+            "coreElements": [
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T5",
+            "text": {
+              "local": "T5 ohjata oppilaita asettamaan sekä pitkän että lyhyen aikavälin tavoitteita, tekemään niitä koskevia suunnitelmia sekä arvioimaan niiden toteutumista",
+              "en": ""
+            },
+            "coreElements": [
+              "S2",
+              "S5"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T6",
+            "text": {
+              "local": "T6 auttaa oppilasta ymmärtämään työn merkitys oman elämänsä ja yhteiskunnan kannalta sekä edistää oppilaan taitoa tunnistaa opiskeltavien oppiaineiden merkitys tulevien opintojen sekä työelämässä ja työllistymisessä tarvittavan osaamisen kannalta",
+              "en": ""
+            },
+            "coreElements": [
+              "S2",
+              "S5",
+              "S3"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T7",
+            "text": {
+              "local": "T7 ohjata oppilasta kehittämään taitoaan arvioida eri työtehtävissä tarvittavaa osaamista, vuorovaikutus- ja viestintätaitoja sekä itselleen sopivia ammattialoja ja vahvistamaan valmiuksia hakea tietoa vaadittavan osaamisen hankkimisesta perusopetuksen jälkeen",
+              "en": ""
+            },
+            "coreElements": [
+              "S2",
+              "S5",
+              "S4",
+              "S3"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T8",
+            "text": {
+              "local": "T8 antaa oppilaalle ja huoltajalle tietoa Suomen koulutusjärjestelmän pääpiirteistä ja sen mahdollisuuksista, tukea oppilaan taitoa etsiä koulutus- ja työelämätietoa sekä Suomesta että ulkomailta",
+              "en": ""
+            },
+            "coreElements": [
+              "S5",
+              "S4"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T9",
+            "text": {
+              "local": "T9 ohjata oppilasta käyttämään monikanavaisia tieto-, neuvonta- ja ohjauspalveluja sekä arvioimaan eri tietolähteiden kautta saadun tiedon luotettavuutta ja tarkoituksenmukaisuutta urasuunnittelun näkökulmasta",
+              "en": ""
+            },
+            "coreElements": [
+              "S2",
+              "S5",
+              "S3"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T10",
+            "text": {
+              "local": "T10 tukea oppilaan taitoja tunnistaa kulttuuritaustansa sekä kykyä toimia kulttuurienvälisissä kohtaamisissa ja yhteistyötilanteissa, opastaa oppilasta hankkimaan ja omaksumaan tietoa opiskelu- ja työskentelymahdollisuuksista monikansallisissa työympäristöissä sekä ulkomailla",
+              "en": ""
+            },
+            "coreElements": [
+              "S5",
+              "S4"
+            ],
+            "verbs": []
+          }
+        ]
+      }
+    ]
+  }
+}

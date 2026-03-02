@@ -1,0 +1,454 @@
+{
+  "country": "finland",
+  "source": {
+    "api": "https://eperusteet.opintopolku.fi/eperusteet-service/api/external/peruste/419550/perusopetus/oppiaineet/530525",
+    "curriculum": "POPS 2014",
+    "license": "Open Government Data (Finland)",
+    "lastSynced": "2026-03-02T21:29:48Z"
+  },
+  "subject": {
+    "code": "LI",
+    "name": {
+      "local": "Liikunta",
+      "en": "Physical Education"
+    },
+    "coreElements": [
+      {
+        "code": "S1",
+        "name": {
+          "local": "S1 Fyysinen toimintakyky",
+          "en": ""
+        },
+        "description": {
+          "local": "Opetukseen sisältyy runsaasti fyysisesti aktiivista toimintaa. Liikunnan opetukseen valitaan havainto- ja ratkaisuntekotaitoja ja niiden soveltamista monipuolisesti kehittäviä turvallisia tehtäviä (kuten liikuntaleikit ja pallopelit). Tasapaino-, liikkumis- ja välineenkäsittelytaitoja vahvistetaan liikuntamuotojen (kuten jää-, lumi-, luonto-, perus-, musiikki- ja tanssiliikunta sekä palloilut ja voimistelut) ja liikuntalajien avulla monipuolisesti eri vuodenaikoina ja erilaisissa oppimisympäristöissä. Liikunnan opetukseen kuuluu uinnin, vesiliikunnan ja vesipelastuksen opetusta.\n\nMonipuoliset tehtävät, leikit, harjoitteet ja pelit mahdollistavat osallisuuden, pätevyyden, itsenäisyyden sekä kehollisen ilmaisun ja esteettisyyden kokemuksia. Liikunnan opetukseen valitaan tehtäviä, joilla opetellaan harjoittelemaan voimaa, nopeutta, kestävyyttä ja liikkuvuutta. Liikuntatehtävien avulla oppilaat oppivat arvioimaan, ylläpitämään ja kehittämään omaa fyysistä toimintakykyään. Valtakunnallisen fyysisen toimintakyvyn seurantajärjestelmä Move!:n mittaukset tehdään niin, että ne tukevat 8. vuosiluokalla koulussa järjestettäviä laajoja terveystarkastuksia.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S2",
+        "name": {
+          "local": "S2 Sosiaalinen toimintakyky",
+          "en": ""
+        },
+        "description": {
+          "local": "Liikuntatehtävien avulla oppilaat oppivat arvioimaan ja kehittämään omaa sosiaalista toimintakykyään. Liikunnan opetukseen valitaan erilaisia pari- ja ryhmätehtäviä, leikkejä, harjoituksia ja pelejä, joissa opitaan ottamaan toiset huomioon sekä auttamaan ja avustamaan muita. Tehtävien myötä opitaan vastuun ottamista yhteisistä asioista ja niiden järjestelyistä sekä säännöistä. Myönteistä yhteisöllisyyttä lisätään ryhmätehtävillä.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S3",
+        "name": {
+          "local": "S3 Psyykkinen toimintakyky",
+          "en": ""
+        },
+        "description": {
+          "local": "Liikunnan opetuksessa käytetään tehtäviä, joissa opitaan pitkäjännitteisesti ponnistelemaan yksin ja yhdessä muiden kanssa tavoitteen saavuttamiseksi. Erilaisilla tehtävillä harjoitellaan vastuun ottamista. Iloa ja virkistystä tuottavilla liikuntatehtävillä edistetään myönteisten tunteiden kokemista, jotka vahvistavat pätevyyden kokemuksia ja myönteistä minäkäsitystä. Opetuksen yhteydessä annetaan tietoa liikunnan merkityksestä kasvulle ja kehitykselle, tutustutaan harjoittelun periaatteisiin sekä annetaan tietoa liikunnan harrastusmahdollisuuksista ja toimintatavoista eri liikuntamuodoissa.",
+          "en": ""
+        }
+      }
+    ],
+    "gradeBands": [
+      {
+        "afterGrade": 2,
+        "label": {
+          "local": "Vuosiluokat 1–2",
+          "en": "Grades 1–2"
+        },
+        "competenceGoals": [
+          {
+            "code": "T1",
+            "text": {
+              "local": "T1 kannustaa oppilasta fyysiseen aktiivisuuteen, kokeilemaan itsenäisesti ja yhdessä uusia, erilaisia liikuntatehtäviä sekä rohkaista ilmaisemaan itseään liikunnan avulla",
+              "en": ""
+            },
+            "coreElements": [
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T2",
+            "text": {
+              "local": "T2 ohjata oppilasta harjaannuttamaan havaintomotorisia taitojaan eli havainnoimaan itseään ja ympäristöään aistien avulla sekä tekemään liikuntatilanteisiin sopivia ratkaisuja",
+              "en": ""
+            },
+            "coreElements": [
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T3",
+            "text": {
+              "local": "T3 vahvistaa motoristen perustaitojen (tasapaino-, liikkumis- ja välineenkäsittelytaidot) oppimista niin, että oppilas oppii soveltamaan niitä eri oppimisympäristöissä, eri tilanteissa ja eri vuodenaikoina",
+              "en": ""
+            },
+            "coreElements": [
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T4",
+            "text": {
+              "local": "T4 harjaannuttaa oppilasta liikkumaan turvallisesti erilaisissa ympäristöissä, erilaisilla välineillä ja telineillä",
+              "en": ""
+            },
+            "coreElements": [
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T5",
+            "text": {
+              "local": "T5 tutustuttaa oppilas vesiliikuntaan ja varmistaa alkeisuimataito",
+              "en": ""
+            },
+            "coreElements": [
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T6",
+            "text": {
+              "local": "T6 ohjata oppilasta turvalliseen ja asialliseen toimintaan liikuntatunneilla",
+              "en": ""
+            },
+            "coreElements": [
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T7",
+            "text": {
+              "local": "T7 ohjata oppilasta säätelemään toimintaansa ja tunneilmaisuaan vuorovaikutuksellisissa liikuntatilanteissa",
+              "en": ""
+            },
+            "coreElements": [
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T8",
+            "text": {
+              "local": "T8 tukea yhdessä työskentelyn taitoja, kuten yhdessä sovittujen sääntöjen noudattamista, ohjaamalla oppilasta ottamaan vastuuta yhteispelien ja -leikkien onnistumisesta",
+              "en": ""
+            },
+            "coreElements": [
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T9",
+            "text": {
+              "local": "T9 tukea oppilaan myönteisen minäkäsityksen vahvistumista, ohjata itsenäiseen työskentelyyn sekä itsensä monipuoliseen ilmaisemiseen.",
+              "en": ""
+            },
+            "coreElements": [
+              "S3"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T10",
+            "text": {
+              "local": "T10 varmistaa myönteisten liikunnallisten kokemusten saaminen ja rohkaista oppilasta kokeilemaan oman toimintakykynsä rajoja",
+              "en": ""
+            },
+            "coreElements": [
+              "S3"
+            ],
+            "verbs": []
+          }
+        ]
+      },
+      {
+        "afterGrade": 6,
+        "label": {
+          "local": "Vuosiluokat 3–6",
+          "en": "Grades 3–6"
+        },
+        "competenceGoals": [
+          {
+            "code": "T1",
+            "text": {
+              "local": "T1 kannustaa oppilaita fyysiseen aktiivisuuteen, kokeilemaan erilaisia liikuntatehtäviä ja harjoittelemaan parhaansa yrittäen.",
+              "en": ""
+            },
+            "coreElements": [
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T2",
+            "text": {
+              "local": "T2 ohjata oppilasta harjaannuttamaan havaintomotorisia taitojaan eli havainnoimaan itseään ja ympäristöään aistien avulla sekä tekemään liikuntatilanteisiin sopivia ratkaisuja.",
+              "en": ""
+            },
+            "coreElements": [
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T3",
+            "text": {
+              "local": "T3 ohjata oppilasta sekä vahvistamaan tasapaino- ja liikkumistaitojaan että soveltamaan niitä monipuolisesti erilaisissa oppimisympäristöissä, eri vuodenaikoina sekä eri tilanteissa.",
+              "en": ""
+            },
+            "coreElements": [
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T4",
+            "text": {
+              "local": "T4 ohjata oppilasta sekä vahvistamaan että soveltamaan välineenkäsittelytaitojaan monipuolisesti erilaisissa oppimisympäristöissä käyttämällä erilaisia välineitä eri vuodenaikoina erilaisissa tilanteissa.",
+              "en": ""
+            },
+            "coreElements": [
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T5",
+            "text": {
+              "local": "T5 kannustaa ja ohjata oppilasta arvioimaan, ylläpitämään ja kehittämään fyysisiä ominaisuuksiaan: nopeutta, liikkuvuutta, kestävyyttä ja voimaa.",
+              "en": ""
+            },
+            "coreElements": [
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T6",
+            "text": {
+              "local": "T6 opettaa uimataito, jotta oppilas pystyy liikkumaan vedessä ja pelastautumaan vedestä",
+              "en": ""
+            },
+            "coreElements": [
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T7",
+            "text": {
+              "local": "T7 ohjata oppilasta turvalliseen ja asialliseen toimintaan liikuntatunneilla.",
+              "en": ""
+            },
+            "coreElements": [
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T8",
+            "text": {
+              "local": "T8 ohjata oppilasta työskentelemään kaikkien kanssa sekä säätelemään toimintaansa ja tunneilmaisuaan liikuntatilanteissa toiset huomioon ottaen.",
+              "en": ""
+            },
+            "coreElements": [
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T9",
+            "text": {
+              "local": "T9 ohjata oppilasta toimimaan reilun pelin periaatteella sekä kantamaan vastuuta yhteisistä oppimistilanteista.",
+              "en": ""
+            },
+            "coreElements": [
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T10",
+            "text": {
+              "local": "T10 kannustaa oppilasta ottamaan vastuuta omasta toiminnasta ja vahvistaa itsenäisen työskentelyn taitoja.",
+              "en": ""
+            },
+            "coreElements": [
+              "S3"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T11",
+            "text": {
+              "local": "T11 huolehtia siitä, että oppilaat saavat riittävästi myönteisiä kokemuksia omasta kehosta, pätevyydestä ja yhteisöllisyydestä.",
+              "en": ""
+            },
+            "coreElements": [
+              "S3"
+            ],
+            "verbs": []
+          }
+        ]
+      },
+      {
+        "afterGrade": 9,
+        "label": {
+          "local": "Vuosiluokat 7–9",
+          "en": "Grades 7–9"
+        },
+        "competenceGoals": [
+          {
+            "code": "T1",
+            "text": {
+              "local": "T1 kannustaa oppilasta fyysiseen aktiivisuuteen, kokeilemaan erilaisia liikuntamuotoja ja harjoittelemaan parhaansa yrittäen",
+              "en": ""
+            },
+            "coreElements": [
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T2",
+            "text": {
+              "local": "T2 ohjata oppilasta harjaannuttamaan havaintomotorisia taitojaan eli havainnoimaan itseään ja ympäristöään aistien avulla sekä tekemään liikuntatilanteisiin sopivia ratkaisuja",
+              "en": ""
+            },
+            "coreElements": [
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T3",
+            "text": {
+              "local": "T3 ohjata oppilasta harjoittelun avulla kehittämään tasapaino- ja liikkumistaitojaan, jotta oppilas osaa käyttää, yhdistää ja soveltaa niitä monipuolisesti erilaisissa oppimisympäristöissä, eri vuodenaikoina ja eri liikuntamuodoissa",
+              "en": ""
+            },
+            "coreElements": [
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T4",
+            "text": {
+              "local": "T4 ohjata oppilasta harjoittelun avulla kehittämään välineenkäsittelytaitojaan, jotta oppilas osaa käyttää, yhdistää ja soveltaa niitä monipuolisesti erilaisissa oppimisympäristöissä, eri välineillä, eri vuodenaikoina ja eri liikuntamuodoissa",
+              "en": ""
+            },
+            "coreElements": [
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T5",
+            "text": {
+              "local": "T5 kannustaa ja ohjata oppilasta arvioimaan, ylläpitämään ja kehittämään fyysisiä ominaisuuksiaan: voimaa, nopeutta, kestävyyttä ja liikkuvuutta",
+              "en": ""
+            },
+            "coreElements": [
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T6",
+            "text": {
+              "local": "T6 vahvistaa uima- ja vesipelastustaitoja, jotta oppilas osaa sekä uida että pelastautua ja pelastaa vedestä",
+              "en": ""
+            },
+            "coreElements": [
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T7",
+            "text": {
+              "local": "T7 ohjata oppilasta turvalliseen ja asialliseen toimintaan",
+              "en": ""
+            },
+            "coreElements": [
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T8",
+            "text": {
+              "local": "T8 ohjata oppilasta työskentelemään kaikkien kanssa sekä säätelemään toimintaansa ja tunneilmaisuaan liikuntatilanteissa toiset huomioon ottaen",
+              "en": ""
+            },
+            "coreElements": [
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T9",
+            "text": {
+              "local": "T9 ohjata oppilasta toimimaan reilun pelin periaatteella sekä ottamaan vastuuta yhteisistä oppimistilanteista",
+              "en": ""
+            },
+            "coreElements": [
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T10",
+            "text": {
+              "local": "T10 kannustaa oppilasta ottamaan vastuuta omasta toiminnasta ja vahvistaa oppilaan itsenäisen työskentelyn taitoja",
+              "en": ""
+            },
+            "coreElements": [
+              "S3"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T11",
+            "text": {
+              "local": "T11 huolehtia siitä, että oppilaat saavat riittävästi myönteisiä kokemuksia omasta kehosta, pätevyydestä ja yhteisöllisyydestä",
+              "en": ""
+            },
+            "coreElements": [
+              "S3"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T12",
+            "text": {
+              "local": "T12 auttaa oppilasta ymmärtämään riittävän fyysisen aktiivisuuden ja liikunnallisen elämäntavan merkitys kokonaisvaltaiselle hyvinvoinnille",
+              "en": ""
+            },
+            "coreElements": [
+              "S3"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T13",
+            "text": {
+              "local": "T13 tutustuttaa oppilas yleisten liikuntamuotojen harrastamiseen liittyviin mahdollisuuksiin, tietoihin ja taitoihin, jotta hän saa edellytyksiä löytää itselleen sopivia iloa ja virkistystä tuottavia liikuntaharrastuksia",
+              "en": ""
+            },
+            "coreElements": [
+              "S3"
+            ],
+            "verbs": []
+          }
+        ]
+      }
+    ]
+  }
+}

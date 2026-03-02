@@ -4,7 +4,7 @@
     "api": "https://data.udir.no/kl06/v201906/laereplaner-lk20/RLE01-03",
     "curriculum": "LK20",
     "license": "NLOD",
-    "lastSynced": "2026-03-02T21:20:31Z"
+    "lastSynced": "2026-03-02T21:39:26Z"
   },
   "subject": {
     "code": "RLE01-03",
@@ -12,7 +12,63 @@
       "local": "Læreplan i kristendom, religion, livssyn og etikk (KRLE)",
       "en": "Læreplan i kristendom, religion, livssyn og etikk (KRLE)"
     },
-    "coreElements": [],
+    "coreElements": [
+      {
+        "code": "KE175",
+        "name": {
+          "local": "Kjennskap til religioner og livssyn",
+          "en": "Kjennskap til religioner og livssyn"
+        },
+        "description": {
+          "local": "Faget skal gi kunnskap om og forståelse for kristendom og andre religioner og livssyn lokalt, nasjonalt og globalt og på individ-, gruppe- og tradisjonsnivå. Elevene skal også få innsikt i hvordan kristendom og andre religioner og livssyn inngår i historiske prosesser og henger sammen med samfunnsendringer og kulturarv. Elevene skal bli kjent med mangfoldet av religioner og livssyn, og med de ulike tradisjonenes indre mangfold. Faget skal gi grunnlag for refleksjon over majoritets-, minoritets- og urfolksperspektiver i Norge.",
+          "en": "Faget skal gi kunnskap om og forståelse for kristendom og andre religioner og livssyn lokalt, nasjonalt og globalt og på individ-, gruppe- og tradisjonsnivå. Elevene skal også få innsikt i hvordan kristendom og andre religioner og livssyn inngår i historiske prosesser og henger sammen med samfunnsendringer og kulturarv. Elevene skal bli kjent med mangfoldet av religioner og livssyn, og med de ulike tradisjonenes indre mangfold. Faget skal gi grunnlag for refleksjon over majoritets-, minoritets- og urfolksperspektiver i Norge."
+        }
+      },
+      {
+        "code": "KE176",
+        "name": {
+          "local": "Utforsking av religioner og livssyn med ulike metoder",
+          "en": "Utforsking av religioner og livssyn med ulike metoder"
+        },
+        "description": {
+          "local": "Elevene skal undersøke og utforske kristendom og andre religioner og livssyn som sammensatte fenomener gjennom bruk av varierte metoder. Deres forståelse av religioner og livssyn utdypes og utfordres gjennom analyse av og kritisk refleksjon over kilder, normer og definisjonsmakt. Kjennskap til ulike syn på og definisjoner av religioner og livssyn inngår i kjerneelementet og er vesentlig for å forstå og håndtere mangfold.",
+          "en": "Elevene skal undersøke og utforske kristendom og andre religioner og livssyn som sammensatte fenomener gjennom bruk av varierte metoder. Deres forståelse av religioner og livssyn utdypes og utfordres gjennom analyse av og kritisk refleksjon over kilder, normer og definisjonsmakt. Kjennskap til ulike syn på og definisjoner av religioner og livssyn inngår i kjerneelementet og er vesentlig for å forstå og håndtere mangfold."
+        }
+      },
+      {
+        "code": "KE177",
+        "name": {
+          "local": "Utforsking av eksistensielle spørsmål og svar",
+          "en": "Utforsking av eksistensielle spørsmål og svar"
+        },
+        "description": {
+          "local": "Faget handler om ulike måter mennesker har nærmet seg spørsmål om mening, identitet og virkelighetsbilde gjennom religioner, livssyn, etikk og filosofi. Faget skal gi rom for refleksjon, filosofisk samtale og undring ved å utforske eksistensielle spørsmål. Elevene skal også kunne forholde seg til spørsmål det er dyp uenighet om.",
+          "en": "Faget handler om ulike måter mennesker har nærmet seg spørsmål om mening, identitet og virkelighetsbilde gjennom religioner, livssyn, etikk og filosofi. Faget skal gi rom for refleksjon, filosofisk samtale og undring ved å utforske eksistensielle spørsmål. Elevene skal også kunne forholde seg til spørsmål det er dyp uenighet om."
+        }
+      },
+      {
+        "code": "KE178",
+        "name": {
+          "local": "Kunne ta andres perspektiv",
+          "en": "Kunne ta andres perspektiv"
+        },
+        "description": {
+          "local": "Faget skal gi elevene mulighet til å utvikle egne synspunkter og holdninger i møte med andre gjennom innenfra- og utenfra-perspektiver og gjennom dialog og refleksjon over likheter og forskjeller. På den måten skal faget bidra til at elevene utvikler interesse og respekt for hverandre uavhengig av kulturell, sosial, religiøs eller livssynsmessig bakgrunn. Faget skal bidra til at elevene utvikler mangfoldskompetanse. Samiske perspektiver inngår. Temaer knyttet til kjønn og funksjonsevne inngår også.",
+          "en": "Faget skal gi elevene mulighet til å utvikle egne synspunkter og holdninger i møte med andre gjennom innenfra- og utenfra-perspektiver og gjennom dialog og refleksjon over likheter og forskjeller. På den måten skal faget bidra til at elevene utvikler interesse og respekt for hverandre uavhengig av kulturell, sosial, religiøs eller livssynsmessig bakgrunn. Faget skal bidra til at elevene utvikler mangfoldskompetanse. Samiske perspektiver inngår. Temaer knyttet til kjønn og funksjonsevne inngår også."
+        }
+      },
+      {
+        "code": "KE179",
+        "name": {
+          "local": "Etisk refleksjon",
+          "en": "Etisk refleksjon"
+        },
+        "description": {
+          "local": "Elevene skal kunne identifisere etiske dilemmaer og drøfte moralske spørsmål ved hjelp av egen erfaringsbakgrunn, evne til innlevelse og ulike etiske modeller og begreper. Etisk refleksjon gir mulighet til å håndtere store og små spørsmål, konflikter og utfordringer med betydning for skolesamfunnet, hverdagslivet og det globale samfunnet. Filosofiske tenkemåter gir elevene redskaper til å analysere argumentasjon og påstander.",
+          "en": "Elevene skal kunne identifisere etiske dilemmaer og drøfte moralske spørsmål ved hjelp av egen erfaringsbakgrunn, evne til innlevelse og ulike etiske modeller og begreper. Etisk refleksjon gir mulighet til å håndtere store og små spørsmål, konflikter og utfordringer med betydning for skolesamfunnet, hverdagslivet og det globale samfunnet. Filosofiske tenkemåter gir elevene redskaper til å analysere argumentasjon og påstander."
+        }
+      }
+    ],
     "gradeBands": [
       {
         "afterGrade": 4,

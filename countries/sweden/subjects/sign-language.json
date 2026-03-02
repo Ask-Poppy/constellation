@@ -1,0 +1,851 @@
+{
+  "country": "sweden",
+  "source": {
+    "api": "https://api.skolverket.se/syllabus/v1/subjects/GRGRTSP01",
+    "curriculum": "Lgr22",
+    "license": "CC0",
+    "lastSynced": "2026-03-02T21:29:53Z"
+  },
+  "subject": {
+    "code": "GRGRTSP01",
+    "name": {
+      "local": "Teckenspråk för hörande",
+      "en": "Sign Language for the Hearing"
+    },
+    "coreElements": [
+      {
+        "code": "",
+        "name": {
+          "local": "förståelse av det svenska teckenspråket,",
+          "en": ""
+        },
+        "description": {
+          "local": "förståelse av det svenska teckenspråket,",
+          "en": ""
+        }
+      },
+      {
+        "code": "",
+        "name": {
+          "local": "förmåga att formulera sig och kommunicera på svenskt teckenspråk,",
+          "en": ""
+        },
+        "description": {
+          "local": "förmåga att formulera sig och kommunicera på svenskt teckenspråk,",
+          "en": ""
+        }
+      },
+      {
+        "code": "",
+        "name": {
+          "local": "förmåga att anpassa språket efter olika syften, mottagare och sammanhang, och",
+          "en": ""
+        },
+        "description": {
+          "local": "förmåga att anpassa språket efter olika syften, mottagare och sammanhang, och",
+          "en": ""
+        }
+      },
+      {
+        "code": "",
+        "name": {
+          "local": "förståelse av kulturella och sociala förhållanden bland döva och andra teckenspråkiga i olika sammanhang och situationer, nationellt och in­ter­nationellt.",
+          "en": ""
+        },
+        "description": {
+          "local": "förståelse av kulturella och sociala förhållanden bland döva och andra teckenspråkiga i olika sammanhang och situationer, nationellt och in­ter­nationellt.",
+          "en": ""
+        }
+      }
+    ],
+    "gradeBands": [
+      {
+        "afterGrade": 6,
+        "label": {
+          "local": "Årskurs 4-6",
+          "en": "Years 4-6"
+        },
+        "competenceGoals": [
+          {
+            "code": "GRGRTSP01-4-6-1",
+            "text": {
+              "local": "Ämnesområden som är välbekanta för eleverna.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kommunikationens innehåll"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRTSP01-4-6-2",
+            "text": {
+              "local": "Vardagliga situationer, intressen, personer och platser.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kommunikationens innehåll"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRTSP01-4-6-3",
+            "text": {
+              "local": "Vardagsliv och levnadssätt i olika sammanhang där teckenspråk används.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kommunikationens innehåll"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRTSP01-4-6-4",
+            "text": {
+              "local": "Tydligt teckenspråk och enkla teckenspråkiga texter som är instruerande, be­skrivande och kontaktskapande, från olika medier, även i kombination med illustrationer.",
+              "en": ""
+            },
+            "coreElements": [
+              "Avläsa – reception"
+            ],
+            "verbs": [
+              "Skapa"
+            ]
+          },
+          {
+            "code": "GRGRTSP01-4-6-5",
+            "text": {
+              "local": "Enkla dialoger och samtal.",
+              "en": ""
+            },
+            "coreElements": [
+              "Avläsa – reception"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRTSP01-4-6-6",
+            "text": {
+              "local": "Enkla meddelanden och enkel information.",
+              "en": ""
+            },
+            "coreElements": [
+              "Avläsa – reception"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRTSP01-4-6-7",
+            "text": {
+              "local": "Strategier för att uppfatta betydelsebärande enheter, till exempel genom att gissa och dra slutsatser med hjälp av sammanhanget.",
+              "en": ""
+            },
+            "coreElements": [
+              "Avläsa – reception"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRTSP01-4-6-8",
+            "text": {
+              "local": "Sökning av mycket enkel, tydlig information i anvisade teckenspråkiga källor av olika slag, till exempel för att identifiera siffror, platser och namn.",
+              "en": ""
+            },
+            "coreElements": [
+              "Avläsa – reception"
+            ],
+            "verbs": [
+              "Visa"
+            ]
+          },
+          {
+            "code": "GRGRTSP01-4-6-9",
+            "text": {
+              "local": "Språkliga företeelser i det språk eleverna möter, med betoning på icke-ma­nuella markörer samt spatiala och simultana särdrag.",
+              "en": ""
+            },
+            "coreElements": [
+              "Avläsa – reception"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRTSP01-4-6-10",
+            "text": {
+              "local": "Hur tecken och vardagsfraser används i olika situationer.",
+              "en": ""
+            },
+            "coreElements": [
+              "Avläsa – reception"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRTSP01-4-6-11",
+            "text": {
+              "local": "Enkla presentationer, meddelanden, beskrivningar och dialoger.",
+              "en": ""
+            },
+            "coreElements": [
+              "Teckna och samtala – produktion och interaktion"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRTSP01-4-6-12",
+            "text": {
+              "local": "Strategier för att underlätta samtal, till exempel gester och frågor.",
+              "en": ""
+            },
+            "coreElements": [
+              "Teckna och samtala – produktion och interaktion"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRTSP01-4-6-13",
+            "text": {
+              "local": "Språkliga företeelser för att förtydliga kommunikationen med betoning på tecken och bokstavering.",
+              "en": ""
+            },
+            "coreElements": [
+              "Teckna och samtala – produktion och interaktion"
+            ],
+            "verbs": []
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "E",
+            "text": {
+              "local": "Inom ramen för skolans valBetygskriterier för betyget E i slutet av årskurs 6Eleven förstår vanliga, enkla tecken och fraser i tydligt och enkelt teckenspråk i långsamt tempo om välbekanta ämnen. I framställningar av olika slag formulerar sig eleven mycket enkelt och i huvudsak begripligt med enstaka vanliga tecken och fraser. I interaktion uttrycker sig eleven mycket enkelt och i huvudsak begripligt med enstaka vanliga tecken och fraser. Dessutom använder eleven strategier som i någon mån underlättar interaktionen. Eleven kommenterar på ett mycket enkelt sätt, på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "D",
+            "text": {
+              "local": "Betygskriterier för betyget D i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan C och E.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "C",
+            "text": {
+              "local": "Betygskriterier för betyget C i slutet av årskurs 6Eleven förstår enkla tecken och fraser i tydligt och enkelt teckenspråk i långsamt tempo om välbekanta ämnen. I framställningar av olika slag formulerar sig eleven mycket enkelt och begripligt med vanliga tecken och fraser. I interaktion uttrycker sig eleven mycket enkelt och begripligt med vanliga tecken och fraser. Dessutom använder eleven strategier som i viss utsträckning underlättar interaktionen. Eleven kommenterar på ett mycket enkelt sätt, på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "B",
+            "text": {
+              "local": "Betygskriterier för betyget B i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan A och C.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "A",
+            "text": {
+              "local": "Betygskriterier för betyget A i slutet av årskurs 6Eleven förstår huvudsakligt innehåll och tydliga detaljer i tydligt och enkelt teckenspråk i långsamt tempo om välbekanta ämnen. I framställningar av olika slag formulerar sig eleven enkelt och relativt tydligt med vanliga tecken och fraser. I interaktion uttrycker sig eleven enkelt och relativt tydligt med vanliga tecken och fraser. Dessutom använder eleven strategier som underlättar interaktionen. Eleven kommenterar på ett mycket enkelt sätt, på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "E",
+            "text": {
+              "local": "Inom ramen för språkvalBetygskriterier för betyget E i slutet av årskurs 6Eleven förstår vanliga, enkla tecken och fraser i tydligt och enkelt teckenspråk i långsamt tempo om välbekanta ämnen. I framställningar av olika slag formulerar sig eleven mycket enkelt och i huvudsak begripligt med enstaka vanliga tecken och fraser. I interaktion uttrycker sig eleven mycket enkelt och i huvudsak begripligt med enstaka vanliga tecken och fraser. Dessutom använder eleven strategier som i någon mån underlättar interaktionen. Eleven kommenterar på ett mycket enkelt sätt, på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "D",
+            "text": {
+              "local": "Betygskriterier för betyget D i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan C och E.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "C",
+            "text": {
+              "local": "Betygskriterier för betyget C i slutet av årskurs 6Eleven förstår enkla tecken och fraser i tydligt och enkelt teckenspråk i långsamt tempo om välbekanta ämnen. I framställningar av olika slag formulerar sig eleven mycket enkelt och begripligt med vanliga tecken och fraser. I interaktion uttrycker sig eleven mycket enkelt och begripligt med vanliga tecken och fraser. Dessutom använder eleven strategier som i viss utsträckning underlättar interaktionen. Eleven kommenterar på ett mycket enkelt sätt, på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "B",
+            "text": {
+              "local": "Betygskriterier för betyget B i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan A och C.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "A",
+            "text": {
+              "local": "Betygskriterier för betyget A i slutet av årskurs 6Eleven förstår huvudsakligt innehåll och tydliga detaljer i tydligt och enkelt teckenspråk i långsamt tempo om välbekanta ämnen. I framställningar av olika slag formulerar sig eleven enkelt och relativt tydligt med vanliga tecken och fraser. I interaktion uttrycker sig eleven enkelt och relativt tydligt med vanliga tecken och fraser. Dessutom använder eleven strategier som underlättar interaktionen. Eleven kommenterar på ett mycket enkelt sätt, på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.",
+              "en": ""
+            }
+          }
+        ]
+      },
+      {
+        "afterGrade": 9,
+        "label": {
+          "local": "Årskurs 4-9",
+          "en": "Years 4-9"
+        },
+        "competenceGoals": [
+          {
+            "code": "GRGRTSP01-4-9-1",
+            "text": {
+              "local": "Ämnesområden som är välbekanta för eleverna.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kommunikationens innehåll"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRTSP01-4-9-2",
+            "text": {
+              "local": "Vardagliga situationer, intressen, personer och platser.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kommunikationens innehåll"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRTSP01-4-9-3",
+            "text": {
+              "local": "Åsikter och känslor.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kommunikationens innehåll"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRTSP01-4-9-4",
+            "text": {
+              "local": "Vardagsliv och levnadssätt i olika sammanhang där teckenspråk används.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kommunikationens innehåll"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRTSP01-4-9-5",
+            "text": {
+              "local": "Tydligt teckenspråk och enkla teckenspråkiga texter som är instruerande, be­skrivande och kontaktskapande, från olika medier, även i kombination med illustrationer.",
+              "en": ""
+            },
+            "coreElements": [
+              "Avläsa – reception"
+            ],
+            "verbs": [
+              "Skapa"
+            ]
+          },
+          {
+            "code": "GRGRTSP01-4-9-6",
+            "text": {
+              "local": "Dialoger och samtal.",
+              "en": ""
+            },
+            "coreElements": [
+              "Avläsa – reception"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRTSP01-4-9-7",
+            "text": {
+              "local": "Berättelser och annan fiktion på teckenspråk, även i dramatiserad form.",
+              "en": ""
+            },
+            "coreElements": [
+              "Avläsa – reception"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRTSP01-4-9-8",
+            "text": {
+              "local": "Meddelanden och information på teckenspråk, till exempel väg­be­skriv­ningar.",
+              "en": ""
+            },
+            "coreElements": [
+              "Avläsa – reception"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRTSP01-4-9-9",
+            "text": {
+              "local": "Strategier för att uppfatta betydelsebärande enheter och dra slutsatser om inne­hållet, till exempel med hjälp av förförståelse och bilder.",
+              "en": ""
+            },
+            "coreElements": [
+              "Avläsa – reception"
+            ],
+            "verbs": [
+              "Förstå"
+            ]
+          },
+          {
+            "code": "GRGRTSP01-4-9-10",
+            "text": {
+              "local": "Olika sätt att orientera sig i anvisade teckenspråkiga källor av olika slag för att hitta enkel information att använda i egen produktion och interaktion.",
+              "en": ""
+            },
+            "coreElements": [
+              "Avläsa – reception"
+            ],
+            "verbs": [
+              "Använda",
+              "Visa"
+            ]
+          },
+          {
+            "code": "GRGRTSP01-4-9-11",
+            "text": {
+              "local": "Grundläggande principer för teckenspråks gestuella-visuella struktur.",
+              "en": ""
+            },
+            "coreElements": [
+              "Avläsa – reception"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRTSP01-4-9-12",
+            "text": {
+              "local": "Språkliga företeelser, däribland tecken, munrörelser och icke-manuella mar­körer, i det språk eleverna möter.",
+              "en": ""
+            },
+            "coreElements": [
+              "Avläsa – reception"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRTSP01-4-9-13",
+            "text": {
+              "local": "Hur ord bokstaveras och används i teckenspråk i olika situationer.",
+              "en": ""
+            },
+            "coreElements": [
+              "Avläsa – reception"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRTSP01-4-9-14",
+            "text": {
+              "local": "Samtal för kontakt och kommunikation.",
+              "en": ""
+            },
+            "coreElements": [
+              "Teckna och samtala – produktion och interaktion"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRTSP01-4-9-15",
+            "text": {
+              "local": "Presentationer, instruktioner, meddelanden, berättelser och beskrivningar.",
+              "en": ""
+            },
+            "coreElements": [
+              "Teckna och samtala – produktion och interaktion"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRTSP01-4-9-16",
+            "text": {
+              "local": "Strategier för att underlätta samtal, däribland omformuleringar, frågor och visua­lisering.",
+              "en": ""
+            },
+            "coreElements": [
+              "Teckna och samtala – produktion och interaktion"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRTSP01-4-9-17",
+            "text": {
+              "local": "Språkliga företeelser, däribland bokstavering, tecken och icke-manuella mar­körer för tydlig kommunikation.",
+              "en": ""
+            },
+            "coreElements": [
+              "Teckna och samtala – produktion och interaktion"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRTSP01-4-9-18",
+            "text": {
+              "local": "Bearbetning av egna framställningar för att förtydliga kommunikationen.",
+              "en": ""
+            },
+            "coreElements": [
+              "Teckna och samtala – produktion och interaktion"
+            ],
+            "verbs": []
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "E",
+            "text": {
+              "local": "Inom ramen för skolans valBetygskriterier för betyget E i slutet av årskurs 9Eleven förstår enkel bokstavering, vanliga tecken och enkla fraser i tydligt och enkelt teckenspråk i långsamt tempo om vardagliga och välbekanta ämnen. Eleven hittar enkel information i anvisade teckenspråkiga källor, samt använder på ett delvis relevant sätt det valda materialet i sin egen produktion och interaktion. I framställningar av olika slag formulerar sig eleven enkelt och begripligt med bokstavering, enstaka tecken och fraser. I interaktion uttrycker sig eleven enkelt och begripligt med bokstavering, enstaka tecken och fraser. Dessutom använder eleven strategier som i någon mån underlättar och förbättrar interaktionen. Eleven kommenterar på ett mycket enkelt sätt, på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "D",
+            "text": {
+              "local": "Betygskriterier för betyget D i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan C och E.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "C",
+            "text": {
+              "local": "Betygskriterier för betyget C i slutet av årskurs 9Eleven förstår huvudsakligt innehåll och tydliga detaljer i tydligt och enkelt teckenspråk i långsamt tempo om vardagliga och välbekanta ämnen. Eleven hittar enkel information i anvisade teckenspråkiga källor samt använder på ett relevant sätt det valda materialet i sin egen produktion och interaktion. I framställningar av olika slag formulerar sig eleven enkelt och relativt tydligt med bokstavering, fraser och meningar. I interaktion uttrycker sig eleven enkelt och begripligt med bokstavering, tecken, fraser och meningar. Dessutom använder eleven strategier som i viss utsträckning underlättar och förbättrar interaktionen. Eleven kommenterar på ett mycket enkelt sätt, på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "B",
+            "text": {
+              "local": "Betygskriterier för betyget B i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan A och C.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "A",
+            "text": {
+              "local": "Betygskriterier för betyget A i slutet av årskurs 9Eleven förstår huvudsakligt innehåll och väsentliga detaljer i tydligt och enkelt teckenspråk i långsamt tempo om vardagliga och välbekanta ämnen. Eleven hittar enkel information i anvisade teckenspråkiga källor samt använder på ett relevant och effektivt sätt det valda materialet i sin egen produktion och interaktion. I framställningar av olika slag formulerar sig eleven enkelt, relativt tydligt och till viss del sammanhängande. I interaktion uttrycker sig eleven enkelt och relativt tydligt med tecken, fraser och meningar. Dessutom använder eleven strategier som underlättar och förbättrar interaktionen. Eleven kommenterar på ett enkelt sätt, på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "E",
+            "text": {
+              "local": "Inom ramen för språkvalBetygskriterier för betyget E i slutet av årskurs 9Eleven förstår och tolkar det mest väsentliga av innehållet i tydligt och enkelt teckenspråk i lugnt tempo om vardagliga och välbekanta ämnen. Eleven väljer enkel information från ett avgränsat urval av teckenspråkiga källor samt använder på ett delvis relevant sätt det valda materialet i sin egen produktion och interaktion. I framställningar av olika slag formulerar sig eleven enkelt och begripligt med fraser och meningar. I interaktion uttrycker sig eleven enkelt och begripligt med tecken, fraser och meningar. Dessutom använder eleven strategier som i någon mån underlättar och förbättrar interaktionen. Eleven kommenterar på ett enkelt sätt, på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "D",
+            "text": {
+              "local": "Betygskriterier för betyget D i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan C och E.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "C",
+            "text": {
+              "local": "Betygskriterier för betyget C i slutet av årskurs 9Eleven förstår och tolkar huvudsakligt innehåll och tydliga detaljer i tydligt och enkelt teckenspråk i lugnt tempo om vardagliga och välbekanta ämnen. Eleven väljer enkel information från ett avgränsat urval av teckenspråkiga källor samt använder på ett relevant sätt det valda materialet i sin egen produktion och interaktion. I framställningar av olika slag formulerar sig eleven enkelt, relativt tydligt och till viss del sammanhängande. I interaktion uttrycker sig eleven enkelt och relativt tydligt med tecken, fraser och meningar. Dessutom använder eleven strategier som i viss utsträckning underlättar och förbättrar interaktionen. Eleven kommenterar på ett enkelt sätt, på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "B",
+            "text": {
+              "local": "Betygskriterier för betyget B i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan A och C.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "A",
+            "text": {
+              "local": "Betygskriterier för betyget A i slutet av årskurs 9Eleven förstår och tolkar helheten och väsentliga detaljer i tydligt och enkelt teckenspråk i lugnt tempo om vardagliga och välbekanta ämnen. Eleven väljer enkel information från ett avgränsat urval av teckenspråkiga källor samt använder på ett relevant och effektivt sätt det valda materialet i sin egen produktion och interaktion. I framställningar av olika slag formulerar sig eleven i någon mån varierat, relativt tydligt och relativt sammanhängande. I interaktion uttrycker sig eleven relativt tydligt med tecken, fraser och meningar samt i någon mån anpassat till syfte, mottagare och situation. Dessutom använder eleven strategier som underlättar och förbättrar interaktionen. Eleven kommenterar översiktligt, på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.",
+              "en": ""
+            }
+          }
+        ]
+      },
+      {
+        "afterGrade": 9,
+        "label": {
+          "local": "Årskurs 7-9",
+          "en": "Years 7-9"
+        },
+        "competenceGoals": [
+          {
+            "code": "GRGRTSP01-7-9-1",
+            "text": {
+              "local": "Ämnesområden som är välbekanta för eleverna.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kommunikationens innehåll"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRTSP01-7-9-2",
+            "text": {
+              "local": "Vardagliga situationer, intressen, personer, platser, aktiviteter och händelser.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kommunikationens innehåll"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRTSP01-7-9-3",
+            "text": {
+              "local": "Åsikter, känslor och erfarenheter.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kommunikationens innehåll"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRTSP01-7-9-4",
+            "text": {
+              "local": "Vardagsliv, levnadssätt och sociala relationer i olika sammanhang där tecken­­språk används, även i jämförelse med egna erfarenheter och kunskaper.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kommunikationens innehåll"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRTSP01-7-9-5",
+            "text": {
+              "local": "Tydligt teckenspråk och enkla, teckenspråkiga texter som är instruerande, beskrivande och kontaktskapande, från olika medier.",
+              "en": ""
+            },
+            "coreElements": [
+              "Avläsa – reception"
+            ],
+            "verbs": [
+              "Beskriva",
+              "Skapa"
+            ]
+          },
+          {
+            "code": "GRGRTSP01-7-9-6",
+            "text": {
+              "local": "Dialoger, samtal och intervjuer.",
+              "en": ""
+            },
+            "coreElements": [
+              "Avläsa – reception"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRTSP01-7-9-7",
+            "text": {
+              "local": "Berättelser och annan fiktion på teckenspråk, även i dramatiserad form.",
+              "en": ""
+            },
+            "coreElements": [
+              "Avläsa – reception"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRTSP01-7-9-8",
+            "text": {
+              "local": "Meddelanden och information på teckenspråk.",
+              "en": ""
+            },
+            "coreElements": [
+              "Avläsa – reception"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRTSP01-7-9-9",
+            "text": {
+              "local": "Strategier för att uppfatta betydelsebärande enheter och förstå samman­hang samt för att anpassa avläsningen till framställningens form och inne­håll.",
+              "en": ""
+            },
+            "coreElements": [
+              "Avläsa – reception"
+            ],
+            "verbs": [
+              "Förstå"
+            ]
+          },
+          {
+            "code": "GRGRTSP01-7-9-10",
+            "text": {
+              "local": "Sökning av enkel information i ett avgränsat urval av teckenspråkiga källor av olika slag för användning i egen produktion och interaktion.",
+              "en": ""
+            },
+            "coreElements": [
+              "Avläsa – reception"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRTSP01-7-9-11",
+            "text": {
+              "local": "Språkliga företeelser, däribland tecken, bokstavering, satsbyggnad, mun­rörelser och icke-manuella markörer, i det språk eleverna möter.",
+              "en": ""
+            },
+            "coreElements": [
+              "Avläsa – reception"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRTSP01-7-9-12",
+            "text": {
+              "local": "Hur olika markörer används för att inleda och avsluta olika typer av samtal och teckenspråkiga texter.",
+              "en": ""
+            },
+            "coreElements": [
+              "Avläsa – reception"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRTSP01-7-9-13",
+            "text": {
+              "local": "Samtal för kontakt och kommunikation.",
+              "en": ""
+            },
+            "coreElements": [
+              "Teckna och samtala – produktion och interaktion"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRTSP01-7-9-14",
+            "text": {
+              "local": "Presentationer, instruktioner, meddelanden, berättelser och beskrivningar på sammanhängande teckenspråk.",
+              "en": ""
+            },
+            "coreElements": [
+              "Teckna och samtala – produktion och interaktion"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRTSP01-7-9-15",
+            "text": {
+              "local": "Strategier, däribland omformuleringar och frågor, för att bidra till och under­lätta samtal och digital interaktion.",
+              "en": ""
+            },
+            "coreElements": [
+              "Teckna och samtala – produktion och interaktion"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRTSP01-7-9-16",
+            "text": {
+              "local": "Språkliga företeelser, däribland tecken, bokstavering, munrörelser, icke-ma­nuella markörer och satsbyggnad i elevernas egen produktion och interaktion.",
+              "en": ""
+            },
+            "coreElements": [
+              "Teckna och samtala – produktion och interaktion"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "GRGRTSP01-7-9-17",
+            "text": {
+              "local": "Bearbetning av egna framställningar för att förtydliga och anpassa kom­muni­kationen efter syfte och mottagare.",
+              "en": ""
+            },
+            "coreElements": [
+              "Teckna och samtala – produktion och interaktion"
+            ],
+            "verbs": []
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "E",
+            "text": {
+              "local": "Inom ramen för skolans valBetygskriterier för betyget E i slutet av årskurs 9Eleven förstår enkel bokstavering, vanliga tecken och enkla fraser i tydligt och enkelt teckenspråk i långsamt tempo om vardagliga och välbekanta ämnen. Eleven hittar enkel information i anvisade teckenspråkiga källor, samt använder på ett delvis relevant sätt det valda materialet i sin egen produktion och interaktion. I framställningar av olika slag formulerar sig eleven enkelt och begripligt med bokstavering, enstaka tecken och fraser. I interaktion uttrycker sig eleven enkelt och begripligt med bokstavering, enstaka tecken och fraser. Dessutom använder eleven strategier som i någon mån underlättar och förbättrar interaktionen. Eleven kommenterar på ett mycket enkelt sätt, på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "D",
+            "text": {
+              "local": "Betygskriterier för betyget D i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan C och E.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "C",
+            "text": {
+              "local": "Betygskriterier för betyget C i slutet av årskurs 9Eleven förstår huvudsakligt innehåll och tydliga detaljer i tydligt och enkelt teckenspråk i långsamt tempo om vardagliga och välbekanta ämnen. Eleven hittar enkel information i anvisade teckenspråkiga källor samt använder på ett relevant sätt det valda materialet i sin egen produktion och interaktion. I framställningar av olika slag formulerar sig eleven enkelt och relativt tydligt med bokstavering, fraser och meningar. I interaktion uttrycker sig eleven enkelt och begripligt med bokstavering, tecken, fraser och meningar. Dessutom använder eleven strategier som i viss utsträckning underlättar och förbättrar interaktionen. Eleven kommenterar på ett mycket enkelt sätt, på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "B",
+            "text": {
+              "local": "Betygskriterier för betyget B i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan A och C.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "A",
+            "text": {
+              "local": "Betygskriterier för betyget A i slutet av årskurs 9Eleven förstår huvudsakligt innehåll och väsentliga detaljer i tydligt och enkelt teckenspråk i långsamt tempo om vardagliga och välbekanta ämnen. Eleven hittar enkel information i anvisade teckenspråkiga källor samt använder på ett relevant och effektivt sätt det valda materialet i sin egen produktion och interaktion. I framställningar av olika slag formulerar sig eleven enkelt, relativt tydligt och till viss del sammanhängande. I interaktion uttrycker sig eleven enkelt och relativt tydligt med tecken, fraser och meningar. Dessutom använder eleven strategier som underlättar och förbättrar interaktionen. Eleven kommenterar på ett enkelt sätt, på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "E",
+            "text": {
+              "local": "Inom ramen för språkvalBetygskriterier för betyget E i slutet av årskurs 9Eleven förstår och tolkar det mest väsentliga av innehållet i tydligt och enkelt teckenspråk i lugnt tempo om vardagliga och välbekanta ämnen. Eleven väljer enkel information från ett avgränsat urval av teckenspråkiga källor samt använder på ett delvis relevant sätt det valda materialet i sin egen produktion och interaktion. I framställningar av olika slag formulerar sig eleven enkelt och begripligt med fraser och meningar. I interaktion uttrycker sig eleven enkelt och begripligt med tecken, fraser och meningar. Dessutom använder eleven strategier som i någon mån underlättar och förbättrar interaktionen. Eleven kommenterar på ett enkelt sätt, på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "D",
+            "text": {
+              "local": "Betygskriterier för betyget D i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan C och E.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "C",
+            "text": {
+              "local": "Betygskriterier för betyget C i slutet av årskurs 9Eleven förstår och tolkar huvudsakligt innehåll och tydliga detaljer i tydligt och enkelt teckenspråk i lugnt tempo om vardagliga och välbekanta ämnen. Eleven väljer enkel information från ett avgränsat urval av teckenspråkiga källor samt använder på ett relevant sätt det valda materialet i sin egen produktion och interaktion. I framställningar av olika slag formulerar sig eleven enkelt, relativt tydligt och till viss del sammanhängande. I interaktion uttrycker sig eleven enkelt och relativt tydligt med tecken, fraser och meningar. Dessutom använder eleven strategier som i viss utsträckning underlättar och förbättrar interaktionen. Eleven kommenterar på ett enkelt sätt, på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "B",
+            "text": {
+              "local": "Betygskriterier för betyget B i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan A och C.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "A",
+            "text": {
+              "local": "Betygskriterier för betyget A i slutet av årskurs 9Eleven förstår och tolkar helheten och väsentliga detaljer i tydligt och enkelt teckenspråk i lugnt tempo om vardagliga och välbekanta ämnen. Eleven väljer enkel information från ett avgränsat urval av teckenspråkiga källor samt använder på ett relevant och effektivt sätt det valda materialet i sin egen produktion och interaktion. I framställningar av olika slag formulerar sig eleven i någon mån varierat, relativt tydligt och relativt sammanhängande. I interaktion uttrycker sig eleven relativt tydligt med tecken, fraser och meningar samt i någon mån anpassat till syfte, mottagare och situation. Dessutom använder eleven strategier som underlättar och förbättrar interaktionen. Eleven kommenterar översiktligt, på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.",
+              "en": ""
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

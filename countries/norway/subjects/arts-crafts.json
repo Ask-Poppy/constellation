@@ -4,7 +4,7 @@
     "api": "https://data.udir.no/kl06/v201906/laereplaner-lk20/KHV01-02",
     "curriculum": "LK20",
     "license": "NLOD",
-    "lastSynced": "2026-03-02T21:20:44Z"
+    "lastSynced": "2026-03-02T21:39:41Z"
   },
   "subject": {
     "code": "KHV01-02",
@@ -12,7 +12,52 @@
       "local": "Læreplan i kunst og håndverk",
       "en": "Curriculum for Art and crafts"
     },
-    "coreElements": [],
+    "coreElements": [
+      {
+        "code": "KE148",
+        "name": {
+          "local": "Håndverksferdigheter",
+          "en": "Craft skills"
+        },
+        "description": {
+          "local": "Kjerneelementet håndverksferdigheter innebærer at elevene skal utvikle håndlag, praktiske ferdigheter og utholdenhet ved å bruke ulike redskaper og materialer. Elevene skal utvikle forståelse for materialers egenskaper, funksjonalitet og uttrykk gjennom eget skapende arbeid. De skal bruke harde, plastiske og myke materialer og digitale verktøy på en etisk, miljøbevisst og trygg måte gjennom hele skoleløpet.",
+          "en": "The core element craft skills involves mastery, and the development of practical skills and patience by using a variety of tools and materials. The pupils become aware of the characteristics, functionality and expression of materials through their own creative work. They use hard and soft materials, plastic and digital tools in an ethical, safe and environmentally friendly way throughout their education."
+        }
+      },
+      {
+        "code": "KE149",
+        "name": {
+          "local": "Kunst- og designprosesser",
+          "en": "Art and design processes"
+        },
+        "description": {
+          "local": "Kjerneelementet kunst- og designprosesser innebærer at elevene skal utvikle nysgjerrighet, kreativitet, mot, skaperglede, utholdenhet og evne til å løse problemer. Kjerneelementet vektlegger både åpne og utforskende prosesser, og stegvise prosesser med utvikling og innovasjon som mål.",
+          "en": "The core element art and design processes involves the development of curiosity, creativity, courage, the joy of innovation, patience and problem-solving skills. The core element emphasises both open and explorative processes, as well as incremental processes with development and innovation as goals."
+        }
+      },
+      {
+        "code": "KE150",
+        "name": {
+          "local": "Visuell kommunikasjon",
+          "en": "Visual communication"
+        },
+        "description": {
+          "local": "Kjerneelementet visuell kommunikasjon innebærer at elevene skal kunne lese, forstå og bruke det visuelle språket. Utvikling av tegneferdigheter er her helt grunnleggende for å kunne kommunisere ideer, erfaringer, budskap og sammenhenger. Elevene skal bruke visuelle virkemidler bevisst og eksperimenterende i todimensjonale, tredimensjonale og digitale uttrykk.",
+          "en": "The core element visual communication involves being able to read, understand and use visual language. The development of drawing skills is fundamental in order to communicate ideas, experiences, messages and contexts. The pupils consciously and experimentally use visual instruments in 2D, 3D and digital expressions."
+        }
+      },
+      {
+        "code": "KE151",
+        "name": {
+          "local": "Kulturforståelse",
+          "en": "Cultural awareness"
+        },
+        "description": {
+          "local": "Kjerneelementet kulturforståelse innebærer at elevene skal utforske samtidens visuelle kultur og kulturarv fra ulike verdensdeler som kilde til opplevelser og inspirasjon til egen skapende praksis. Elevene skal møte eksempler på og reflektere over hvordan kunst, håndverk og design speiler og er med på å forme kultur, samfunnsutvikling og folks identitet. Kunnskap om visuell og materiell kultur gir grunnlag for å ta bevisste valg som forbruker og medborger og i eget skapende arbeid.",
+          "en": "The core element cultural awareness involves exploring modern visual culture and cultural heritage in different parts of the world as experiential and inspirational sources in their own creative practice. The pupils encounter examples of and reflect on how art, crafts and design mirror and play a role in the shaping of culture, social development and human identity. Knowledge of visual and material cultures lays the foundation for making conscious choices as a consumer and fellow citizen, as well as in one's own creative work."
+        }
+      }
+    ],
     "gradeBands": [
       {
         "afterGrade": 2,

@@ -1,0 +1,174 @@
+{
+  "country": "norway",
+  "source": {
+    "api": "https://data.udir.no/kl06/v201906/laereplaner-lk20/UTV01-03",
+    "curriculum": "LK20",
+    "license": "NLOD",
+    "lastSynced": "2026-03-02T21:41:17Z"
+  },
+  "subject": {
+    "code": "UTV01-03",
+    "name": {
+      "local": "Læreplan for utdanningsvalg på ungdomstrinnet",
+      "en": "Curriculum for selection of education for lower secondary education"
+    },
+    "coreElements": [
+      {
+        "code": "KE102",
+        "name": {
+          "local": "Karrierekompetanse",
+          "en": "Career readiness"
+        },
+        "description": {
+          "local": "Å utvikle karrierekompetanse handler om å forstå og utvikle seg selv og egen læring, og å utvikle en trygg identitet. Det handler også om å utforske utdanningsmuligheter og arbeidslivet. Dette inkluderer ferdigheter i å kunne samle, analysere og ta i bruk informasjon både om utdanning, arbeid og seg selv. Ferdigheter i å håndtere overgangsfaser i livet og ferdigheter i å ta valg og forstå konsekvenser av valg, skal også være en del av faget. Elevene må oppleve karrierelæringen som helhetlig og relevant.",
+          "en": "The development of career readiness involves self-understanding, self-development and self-learning, and development of a strong identity. It also involves exploring education opportunities and the labour market. It includes skills for gathering, analysing and using information about oneself, education and employment. The subject also includes transition skills, decision-making skills, and the ability to understand the consequences of one's own decisions. The pupils must perceive career learning as all-inclusive and relevant."
+        }
+      }
+    ],
+    "gradeBands": [
+      {
+        "afterGrade": 10,
+        "label": {
+          "local": "Kompetansemål og vurdering",
+          "en": "Competence aims and assessment"
+        },
+        "competenceGoals": [
+          {
+            "code": "KM1159",
+            "text": {
+              "local": "beskrive egne styrker og egenskaper og interesser, og kunne se dette i sammenheng med utdannings- og yrkesønsker og livsmestring",
+              "en": "describe their own strengths, qualities and interests, and consider them in relation to their desired education, career and life skills"
+            },
+            "coreElements": [
+              "Karrierekompetanse"
+            ],
+            "verbs": [
+              "Beskrive"
+            ]
+          },
+          {
+            "code": "KM1167",
+            "text": {
+              "local": "samle, analysere og bruke informasjon om utdanning og arbeid",
+              "en": "gather, analyse and use information about education and employment"
+            },
+            "coreElements": [
+              "Karrierekompetanse"
+            ],
+            "verbs": [
+              "Bruke",
+              "Analysere"
+            ]
+          },
+          {
+            "code": "KM1160",
+            "text": {
+              "local": "utforske utdanningsmuligheter på varierte måter, og gjøre rede for ulike utdanningsveier og hvilke yrkesområder de kan føre til",
+              "en": "explore career opportunities in various ways, and describe different educational pathways and careers they may lead to"
+            },
+            "coreElements": [
+              "Karrierekompetanse"
+            ],
+            "verbs": [
+              "Utforske",
+              "Gjøre rede for"
+            ]
+          },
+          {
+            "code": "KM1161",
+            "text": {
+              "local": "tilegne seg kunnskap om arbeidslivet gjennom utprøving og utforskning og reflektere over hvordan bærekraftsmål, konjunkturer og teknologi påvirker arbeidsmarked, yrker og arbeidsmåter",
+              "en": "gain knowledge of the workplace by testing, exploring and reflecting on how sustainability goals, conjunctures and technology impact the labour market, occupations and working methods"
+            },
+            "coreElements": [
+              "Karrierekompetanse"
+            ],
+            "verbs": [
+              "Reflektere"
+            ]
+          },
+          {
+            "code": "KM1162",
+            "text": {
+              "local": "diskutere konsekvenser av utenforskap og forstå økonomisk og sosial verdi av arbeid på individ- og samfunnsnivå",
+              "en": "discuss consequences of exclusion and awareness of the economic and social value of working at both the individual and social level"
+            },
+            "coreElements": [
+              "Karrierekompetanse"
+            ],
+            "verbs": [
+              "Forstå"
+            ]
+          },
+          {
+            "code": "KM1163",
+            "text": {
+              "local": "gjøre rede for hva og hvem som kan påvirke karrierevalg og hva dette har å si for egne valg",
+              "en": "describe what and who can impact career choices and how this affects one's own choices"
+            },
+            "coreElements": [
+              "Karrierekompetanse"
+            ],
+            "verbs": [
+              "Gjøre rede for"
+            ]
+          },
+          {
+            "code": "KM1164",
+            "text": {
+              "local": "utforske og drøfte kjønnsrelaterte perspektiver i karrierevalg",
+              "en": "explore and discuss gender-related perspectives in career choices"
+            },
+            "coreElements": [
+              "Karrierekompetanse"
+            ],
+            "verbs": [
+              "Utforske",
+              "Drøfte"
+            ]
+          },
+          {
+            "code": "KM1165",
+            "text": {
+              "local": "se muligheter og omsette egne idéer til handling og valg, og reflektere sammen med andre over konsekvenser av karrierevalg",
+              "en": "see the opportunities and transform their own ideas into taking action and making decisions, and reflect with others on the consequences of career choices"
+            },
+            "coreElements": [
+              "Karrierekompetanse"
+            ],
+            "verbs": [
+              "Reflektere"
+            ]
+          },
+          {
+            "code": "KM1166",
+            "text": {
+              "local": "utvikle og bruke mestringsstrategier for å håndtere overganger og utfordringer relatert til utdanning og karriere",
+              "en": "develop and use coping strategies to handle transitions and challenges related to education and careers"
+            },
+            "coreElements": [
+              "Karrierekompetanse"
+            ],
+            "verbs": [
+              "Utvikle",
+              "Bruke"
+            ]
+          },
+          {
+            "code": "KM1168",
+            "text": {
+              "local": "tolke stillingsannonser, skrive CV og jobbsøknad og tilegne seg kunnskap om hvordan man gjør et godt jobbintervju",
+              "en": "interpret job advertisements, write a CV and job application, and learn how to make a good impression during an interview"
+            },
+            "coreElements": [
+              "Karrierekompetanse"
+            ],
+            "verbs": [
+              "Tolke"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -4,7 +4,7 @@
     "api": "https://data.udir.no/kl06/v201906/laereplaner-lk20/MHE01-02",
     "curriculum": "LK20",
     "license": "NLOD",
-    "lastSynced": "2026-03-02T21:21:24Z"
+    "lastSynced": "2026-03-02T21:40:24Z"
   },
   "subject": {
     "code": "MHE01-02",
@@ -12,7 +12,41 @@
       "local": "Læreplan i mat og helse",
       "en": "Curriculum for Food and Health"
     },
-    "coreElements": [],
+    "coreElements": [
+      {
+        "code": "KE145",
+        "name": {
+          "local": "Helsefremmende kosthold",
+          "en": "Healthy diet"
+        },
+        "description": {
+          "local": "Gjennom å lage mat og forberede måltider skal elevene få oppleve matglede og utvikle kunnskap om trygg mat og helsefremmende kosthold. Kostrådene til helsemyndighetene er sentrale for undervisningen, og elevene skal få forståelse av sammenhengen mellom næringsstoff og helse og utvikle kompetanse til å kunne velge et sunt og variert kosthold.",
+          "en": "By cooking food and preparing meals, the pupils experience the enjoyment of food and develop knowledge about safe food and a healthy diet. The dietary advice of the health authorities plays a central role in the education, thus making the pupils aware of the relationship between nutrition and health giving them the competence to choose a healthy and varied diet."
+        }
+      },
+      {
+        "code": "KE146",
+        "name": {
+          "local": "Bærekraftige matvaner og bærekraftig forbruk",
+          "en": "Sustainable food habits and consumption"
+        },
+        "description": {
+          "local": "Bruk og valg av mat påvirker individet, miljøet og verden vi lever i. Gjennom å planlegge måltider og lage mat skal elevene lære å utnytte råvarer og matrester og forstå at mat er en begrenset ressurs, slik at de lærer seg bærekraftige matvaner og blir bevisste forbrukere.",
+          "en": "Consumption and the choice of food impacts the individual, the environment and the world in which we live. By planning meals and cooking, the pupils learn how to use raw ingredients and leftovers making them aware that food is a limited resource. They also learn sustainable food habits and become conscious consumers."
+        }
+      },
+      {
+        "code": "KE147",
+        "name": {
+          "local": "Mat og måltid som identitets- og kulturuttrykk",
+          "en": "Food and meals as an expression of identity and culture"
+        },
+        "description": {
+          "local": "Kulturen rundt mat og måltid er i kontinuerlig endring og påvirkes av råvarebruk, kunnskap, tradisjoner og sosiale eller religiøse normer og verdier. Matlaging og måltider er sosiale arenaer for utforsking, samarbeid og samskaping. Møte mellom matkulturer og kulturelle aktiviteter fra Norge og andre land fremmer mangfold og åpner for forståelse, bevisstgjøring og nysgjerrighet. På den måten skal elevene få oppleve matglede sammen, og slik kan matkulturene våre både fornyes og tas vare på.",
+          "en": "The culture around food and meals is continuously changing. It is impacted by the use of raw ingredients, knowledge, traditions, and social or religious norms and values. Cooking and food are social arenas for exploration, cooperation and co-creation. When food cultures and cultural activities in Norway meet those from other countries, diversity is fostered laying the foundation for understanding, awareness and curiosity. In this way, the pupils experience the enjoyment of food together, and renew and safeguard the food cultures."
+        }
+      }
+    ],
     "gradeBands": [
       {
         "afterGrade": 4,

@@ -1,0 +1,313 @@
+{
+  "country": "finland",
+  "source": {
+    "api": "https://eperusteet.opintopolku.fi/eperusteet-service/api/external/peruste/419550/perusopetus/oppiaineet/605630",
+    "curriculum": "POPS 2014",
+    "license": "Open Government Data (Finland)",
+    "lastSynced": "2026-03-02T21:33:19Z"
+  },
+  "subject": {
+    "code": "TK",
+    "name": {
+      "local": "Ruotsin kieli, A-oppimäärä",
+      "en": "Second National Language"
+    },
+    "coreElements": [
+      {
+        "code": "S1",
+        "name": {
+          "local": "S1 Kasvu kulttuuriseen moninaisuuteen ja kielitietoisuuteen",
+          "en": ""
+        },
+        "description": {
+          "local": "Tutustutaan ruotsin ja muiden pohjoismaisten kielten ja kulttuurien piirteisiin ja sukulaisuussuhteisiin. Vertaillaan suomenruotsin ja ruotsinruotsin eroja. Pohditaan omaa kieli- ja kulttuuritaustaa.\n\nHankitaan tietoa ja keskustellaan Suomen kansalliskielistä ja vähemmistökielistä sekä niiden merkityksestä yksilölle ja yhteisölle. Kuunnellaan eri kieliä, katsellaan eri tapoja kirjoittaa, tehdään havaintoja sanojen lainautumisesta kielestä toiseen. Pohditaan, miten voi toimia, jos osaa kieltä vain vähän. Harjoitellaan arvostavaa kielenkäyttöä vuorovaikutustilanteissa.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S2",
+        "name": {
+          "local": "S2 Kielenopiskelutaidot",
+          "en": ""
+        },
+        "description": {
+          "local": "Opetellaan suunnittelemaan toimintaa yhdessä, antamaan ja ottamaan vastaan palautetta ja ottamaan vastuuta. Ohjataan oppilaita huomaamaan ruotsin kieli ympärillään. Opetellaan tehokkaita kielenopiskelutapoja, kuten uusien sanojen ja rakenteiden aktiivista käyttöä omissa ilmaisuissa, muistiinpainamiskeinoja ja tuntemattoman sanan merkityksen päättelemistä asiayhteydestä. Totutellaan arvioimaan omaa kielitaitoa esimerkiksi Eurooppalaista kielisalkkua käyttäen.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S3",
+        "name": {
+          "local": "S3 Kehittyvä kielitaito, taito toimia vuorovaikutuksessa, taito tulkita tekstejä, taito tuottaa tekstejä",
+          "en": ""
+        },
+        "description": {
+          "local": "Opetellaan kuulemaan, puhumaan, lukemaan ja kirjoittamaan ruotsia monenlaisista aiheista. Keskeisiä aiheita ovat minä itse, perheeni, ystäväni, koulu, harrastukset ja vapaa-ajan vietto sekä elämä ruotsinkielisessä ympäristössä. Lisäksi valitaan aiheita yhdessä. Sisältöjen valinnassa lähtökohtana on oppilaiden jokapäiväinen elämänpiiri, kiinnostuksen kohteet sekä ajankohtaisuus, näkökulmana minä ja me Suomessa ja Ruotsissa. Valitaan erilaisia kielenkäyttötarkoituksia, kuten esimerkiksi tervehtiminen, avun pyytäminen tai mielipiteen ilmaiseminen. Sanastoa ja rakenteita opetellaan monenlaisten tekstien, kuten pienten tarinoiden, näytelmien, haastattelujen ja sanoitusten yhteydessä. Tarjotaan mahdollisuuksia harjoitella vaativampia kielenkäyttötilanteita. Opetellaan löytämään ruotsinkielistä aineistoa ympäristöstä, verkosta, kirjastosta, jne. Opetellaan ruotsin kielen tärkeimmät suomen kielestä poikkeavat foneettiset merkit ja niiden ääntäminen.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S3",
+        "name": {
+          "local": "S3 Kehittyvä kielitaito: taito toimia vuorovaikutuksessa, taito tulkita tekstejä, taito tuottaa tekstejä",
+          "en": ""
+        },
+        "description": {
+          "local": "Sisältöjä valittaessa näkökulmana on nuoren toiminta ruotsin kielellä eri yhteisöissä, ajankohtaisuus, oppilaiden kiinnostuksen kohteet, suuntautuminen toisen asteen opintoihin sekä tutustuminen nuorten työelämässä ja opiskelussa tarvittavaan kielitaitoon. Sanastoa ja rakenteita opetellaan monenlaisista teksteistä, kuten kertovista, kuvaavista tai vaikuttavista teksteistä. Havainnoidaan ja harjoitellaan runsaasti erilaisia vuorovaikutustilanteita eri viestintäkanavia hyödyntäen.",
+          "en": ""
+        }
+      }
+    ],
+    "gradeBands": [
+      {
+        "afterGrade": 6,
+        "label": {
+          "local": "Vuosiluokat 3–6",
+          "en": "Grades 3–6"
+        },
+        "competenceGoals": [
+          {
+            "code": "T1",
+            "text": {
+              "local": "T1 kannustaa oppilasta kiinnostumaan lähiympäristön, Suomen ja Pohjoismaiden kielellisestä ja kulttuurisesta runsaudesta sekä suomen ja ruotsin asemasta kansalliskielinä",
+              "en": ""
+            },
+            "coreElements": [
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T2",
+            "text": {
+              "local": "T2 motivoida oppilasta arvostamaan omaa kieli- ja kulttuuritaustaansa sekä maailman kielellistä ja kulttuurista moninaisuutta ja kohtaamaan ihmisiä ilman arvottavia ennakko-oletuksia",
+              "en": ""
+            },
+            "coreElements": [
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T3",
+            "text": {
+              "local": "T3 ohjata oppilasta havaitsemaan kieliä yhdistäviä ja erottavia ilmiöitä sekä tukea oppilaan kielellisen uteliaisuuden ja päättelykyvyn kehittymistä",
+              "en": ""
+            },
+            "coreElements": [
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T4",
+            "text": {
+              "local": "T4 ohjata oppilasta löytämään ruotsinkielistä aineistoa",
+              "en": ""
+            },
+            "coreElements": [
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T5",
+            "text": {
+              "local": "T5 tutustua yhdessä opetuksen tavoitteisiin ja luoda salliva opiskeluilmapiiri, jossa tärkeintä on viestin välittyminen sekä kannustava yhdessä oppiminen",
+              "en": ""
+            },
+            "coreElements": [
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T6",
+            "text": {
+              "local": "T6 ohjata oppilasta ottamaan vastuuta omasta kielenopiskelustaan ja kannustaa oppilasta harjaannuttamaan kielitaitoaan rohkeasti ja myös tieto- ja viestintäteknologiaa käyttäen sekä kokeilla, millaiset tavat oppia kieliä sopivat kullekin parhaiten",
+              "en": ""
+            },
+            "coreElements": [
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T7",
+            "text": {
+              "local": "T7 järjestää oppilaalle tilaisuuksia harjoitella eri viestintäkanavia käyttäen suullista ja kirjallista viestintää ja vuorovaikutusta",
+              "en": ""
+            },
+            "coreElements": [
+              "S3"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T8",
+            "text": {
+              "local": "T8 tukea oppilasta kielellisten viestintästrategioiden käytössä",
+              "en": ""
+            },
+            "coreElements": [
+              "S3"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T9",
+            "text": {
+              "local": "T9 auttaa oppilasta laajentamaan kohteliaaseen kielenkäyttöön kuuluvien ilmausten tuntemustaan",
+              "en": ""
+            },
+            "coreElements": [
+              "S3"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T10",
+            "text": {
+              "local": "T10 rohkaista oppilasta tulkitsemaan ikätasolleen sopivia ja itseään kiinnostavia puhuttuja ja kirjoitettuja tekstejä",
+              "en": ""
+            },
+            "coreElements": [
+              "S3"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T11",
+            "text": {
+              "local": "T11 tarjota oppilaalle runsaasti tilaisuuksia harjoitella ikätasolle sopivaa pienimuotoista puhumista ja kirjoittamista kiinnittäen huomiota myös ääntämiseen ja tekstin sisällön kannalta oleellisimpiin rakenteisiin",
+              "en": ""
+            },
+            "coreElements": [
+              "S3"
+            ],
+            "verbs": []
+          }
+        ]
+      },
+      {
+        "afterGrade": 9,
+        "label": {
+          "local": "Vuosiluokat 7–9",
+          "en": "Grades 7–9"
+        },
+        "competenceGoals": [
+          {
+            "code": "T1",
+            "text": {
+              "local": "T1 edistää oppilaan taitoa pohtia ruotsin kansalliskielen asemaan liittyviä ilmiöitä sekä antaa oppilaalle valmiuksia kehittää kulttuurienvälistä toimintakykyään",
+              "en": ""
+            },
+            "coreElements": [
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T2",
+            "text": {
+              "local": "T2 kannustaa oppilasta löytämään kiinnostavia ruotsinkielisiä toimintaympäristöjä, jotka laajentavat oppilaan maailmankuvaa",
+              "en": ""
+            },
+            "coreElements": [
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T3",
+            "text": {
+              "local": "T3 ohjata oppilasta havaitsemaan, millaisia säännönmukaisuuksia ruotsin kielessä on, miten samoja asioita ilmaistaan muissa kielissä sekä käyttämään kielitiedon käsitteitä oppimisensa tukena",
+              "en": ""
+            },
+            "coreElements": [
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T4",
+            "text": {
+              "local": "T4 rohkaista oppilasta asettamaan tavoitteita, hyödyntämään monipuolisia tapoja oppia kieliä ja arvioimaan oppimistaan itsenäisesti ja yhteistyössä sekä ohjata oppilasta myönteiseen vuorovaikutukseen, jossa tärkeintä on viestin välittyminen",
+              "en": ""
+            },
+            "coreElements": [
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T5",
+            "text": {
+              "local": "T5 tukea oppilaan itsenäisyyttä ja taitoa soveltaa luovasti kielitaitoaan sekä kehittää elinikäisen kieltenopiskelun valmiuksia",
+              "en": ""
+            },
+            "coreElements": [
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T6",
+            "text": {
+              "local": "T6 rohkaista oppilasta harjoittelemaan monenlaisia jokapäiväisiä viestintätilanteita sekä toimimaan niissä aloitteellisesti",
+              "en": ""
+            },
+            "coreElements": [
+              "S3"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T7",
+            "text": {
+              "local": "T7 ohjata oppilasta olemaan aktiivinen viestintätilanteessa sekä syventämään taitoaan käyttää kohdekielisiä viestinnän keinoja, vakiintuneita fraaseja, kierto- ja täyteilmauksia ja muuta kompensaatiota",
+              "en": ""
+            },
+            "coreElements": [
+              "S3"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T8",
+            "text": {
+              "local": "T8 ohjata oppilasta kiinnittämään huomiota kulttuurisesti sopivaan kielenkäyttöön viestinnässä, johon liittyy mielipiteiden ja asenteiden esiin tuomista",
+              "en": ""
+            },
+            "coreElements": [
+              "S3"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T9",
+            "text": {
+              "local": "T9 tarjota oppilaalle mahdollisuuksia tulkita erilaisia tekstejä, myös selväpiirteisiä asiatekstejä, joista hankitaan tietoa, ja ohjata käyttämään tulkinnassa päättelytaitoa ja keskeisen sisällön ymmärtämistä",
+              "en": ""
+            },
+            "coreElements": [
+              "S3"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T10",
+            "text": {
+              "local": "T10 tarjota oppilaalle mahdollisuuksia tuottaa puhetta ja kirjoitusta aihepiirejä laajentaen ja kiinnittäen huomiota myös keskeisiin rakenteisiin ja ääntämisen perussääntöihin",
+              "en": ""
+            },
+            "coreElements": [
+              "S3"
+            ],
+            "verbs": []
+          }
+        ]
+      }
+    ]
+  }
+}

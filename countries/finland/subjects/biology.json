@@ -1,0 +1,286 @@
+{
+  "country": "finland",
+  "source": {
+    "api": "https://eperusteet.opintopolku.fi/eperusteet-service/api/external/peruste/419550/perusopetus/oppiaineet/478970",
+    "curriculum": "POPS 2014",
+    "license": "Open Government Data (Finland)",
+    "lastSynced": "2026-03-02T21:29:42Z"
+  },
+  "subject": {
+    "code": "BI",
+    "name": {
+      "local": "Biologia",
+      "en": "Biology"
+    },
+    "coreElements": [
+      {
+        "code": "S1",
+        "name": {
+          "local": "S1 Biologinen tutkimus",
+          "en": ""
+        },
+        "description": {
+          "local": "Sisältöjä valitaan siten, että biologisen tutkimuksen vaiheet tulevat oppilaan oman toiminnan kautta tutuiksi.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S2",
+        "name": {
+          "local": "S2 Tutkimusretkiä luontoon ja lähiympäristöön",
+          "en": ""
+        },
+        "description": {
+          "local": "Sisältöjä valittaessa painotetaan vastuullista luonnossa liikkumista, lajintuntemusta sekä metsän ja muiden ekosysteemien tutkimista ja vertailua. Maastotyöskentelyssä havainnoidaan ja arvioidaan ympäristöä ja siinä tapahtuvia muutoksia sekä ihmisen vaikutusta niihin.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S3",
+        "name": {
+          "local": "S3 Ekosysteemin perusrakenne ja toiminta",
+          "en": ""
+        },
+        "description": {
+          "local": "Sisällöt painottuvat suomalaisen metsäekosysteemin rakenteeseen ja toimintaan sekä ihmisen toiminnan vaikutuksiin niissä. Lisäksi käsitellään perustietoja vesi-, suo-, tunturi- ja kaupunkiekosysteemeistä. Tutustutaan lajien ekologiaan ja niiden välisiin vuorovaikutussuhteisiin. Opetukseen sisältyy eliökokoelman koostaminen. Sisältöjä valittaessa painotetaan ekosysteemien monimuotoisuuden tärkeyttä.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S4",
+        "name": {
+          "local": "S4 Mitä elämä on?",
+          "en": ""
+        },
+        "description": {
+          "local": "Sisällöissä keskitytään tutkimaan elämän perusilmiöitä biologialle tyypillisin tutkimusmenetelmin. Opetukseen sisällytetään kasvien kasvatusta. Eliökunnan rakenteeseen ja monimuotoisuuteen perehdytään vertailemalla eliöiden rakenteita, elintoimintoja ja elinympäristöjä. Tutustutaan perinnöllisyyden ja evoluution perusteisiin. Tarkastellaan bioteknologian mahdollisuuksia ja haasteita.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S5",
+        "name": {
+          "local": "S5 Ihminen",
+          "en": ""
+        },
+        "description": {
+          "local": "Sisällöissä keskitytään tutkimaan ihmiskehon toimintaa ja syvennetään tietämystä ihmisen rakenteesta, elintoiminnoista ja säätelyjärjestelmistä. Tarkastellaan kasvuun, kehitykseen ja terveyteen vaikuttavien biologisten tekijöiden perusteita. Tutustutaan, miten perimä ja ympäristö vaikuttavat ihmisen eri ominaisuuksien kehittymiseen.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S6",
+        "name": {
+          "local": "S6 Kohti kestävää tulevaisuutta",
+          "en": ""
+        },
+        "description": {
+          "local": "Sisällöt liittyvät luonnon monimuotoisuuden säilyttämiseen, ilmastonmuutokseen, luonnonvarojen kestävään käyttöön ja muutoksiin lähiympäristössä. Pohditaan luonnonvarojen kestävän käytön ekologisia, sosiaalisia, taloudellisia ja eettisiä periaatteita, kestävää ravinnontuotantoa sekä eläinten hyvinvointia. Käsitellään biotalouden ja ekosysteemipalveluiden mahdollisuuksia kestävän tulevaisuuden kannalta. Tutustutaan luonnonsuojelun tavoitteisiin, keinoihin ja saavutuksiin.",
+          "en": ""
+        }
+      }
+    ],
+    "gradeBands": [
+      {
+        "afterGrade": 9,
+        "label": {
+          "local": "Vuosiluokat 7–9",
+          "en": "Grades 7–9"
+        },
+        "competenceGoals": [
+          {
+            "code": "T1",
+            "text": {
+              "local": "T1 ohjata oppilasta ymmärtämään ekosysteemin perusrakennetta ja toimintaa sekä vertailemaan erilaisia ekosysteemejä ja tunnistamaan lajeja",
+              "en": ""
+            },
+            "coreElements": [
+              "S4",
+              "S6",
+              "S1",
+              "S3",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T2",
+            "text": {
+              "local": "T2 auttaa oppilasta kuvailemaan eliöiden rakenteita ja elintoimintoja sekä ymmärtämään eliökunnan rakennetta",
+              "en": ""
+            },
+            "coreElements": [
+              "S5",
+              "S4",
+              "S1",
+              "S3",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T3",
+            "text": {
+              "local": "T3 ohjata oppilasta tutkimaan eliöiden sopeutumista eri elinympäristöihin ja ymmärtämään erilaisten elinympäristöjen merkitys luonnon monimuotoisuudelle",
+              "en": ""
+            },
+            "coreElements": [
+              "S4",
+              "S6",
+              "S1",
+              "S3",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T4",
+            "text": {
+              "local": "T4 ohjata oppilasta ymmärtämään perinnöllisyyden ja evoluution perusperiaatteita",
+              "en": ""
+            },
+            "coreElements": [
+              "S5",
+              "S4",
+              "S1"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T5",
+            "text": {
+              "local": "T5 ohjata oppilasta ymmärtämään ihmisen kehitystä ja elimistön perustoimintoja",
+              "en": ""
+            },
+            "coreElements": [
+              "S5"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T6",
+            "text": {
+              "local": "T6 ohjata oppilasta arvioimaan luonnonympäristössä tapahtuvia muutoksia ja ihmisen vaikutusta ympäristöön sekä ymmärtämään ekosysteemipalveluiden merkitys",
+              "en": ""
+            },
+            "coreElements": [
+              "S6"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T7",
+            "text": {
+              "local": "T7 ohjata oppilasta kehittämään luonnontieteellistä ajattelutaitoa sekä syy- ja seuraussuhteiden ymmärtämistä",
+              "en": ""
+            },
+            "coreElements": [
+              "S5",
+              "S4",
+              "S6",
+              "S1",
+              "S3",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T8",
+            "text": {
+              "local": "T8 opastaa oppilasta käyttämään biologian tutkimusvälineistöä ja tieto- ja viestintäteknologiaa",
+              "en": ""
+            },
+            "coreElements": [
+              "S5",
+              "S4",
+              "S1",
+              "S3",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T9",
+            "text": {
+              "local": "T9 ohjata oppilasta koostamaan eliökokoelma ja kasvattamaan kasveja biologisten ilmiöiden ymmärtämiseksi",
+              "en": ""
+            },
+            "coreElements": [
+              "S4",
+              "S6",
+              "S1",
+              "S3",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T10",
+            "text": {
+              "local": "T10 ohjata oppilasta tekemään tutkimuksia sekä koulussa että koulun ulkopuolella",
+              "en": ""
+            },
+            "coreElements": [
+              "S5",
+              "S4",
+              "S6",
+              "S1",
+              "S3",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T11",
+            "text": {
+              "local": "T11 kannustaa oppilasta soveltamaan biologian tietoja ja taitoja omassa elämässä sekä yhteiskunnallisessa keskustelussa ja päätöksenteossa",
+              "en": ""
+            },
+            "coreElements": [
+              "S6"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T12",
+            "text": {
+              "local": "T12 innostaa oppilasta syventämään kiinnostusta luontoa ja sen ilmiöitä kohtaan sekä vahvistamaan luontosuhdetta ja ympäristötietoisuutta",
+              "en": ""
+            },
+            "coreElements": [
+              "S5",
+              "S4",
+              "S6",
+              "S1",
+              "S3",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T13",
+            "text": {
+              "local": "T13 ohjata oppilasta tekemään eettisesti perusteltuja valintoja",
+              "en": ""
+            },
+            "coreElements": [
+              "S6"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T14",
+            "text": {
+              "local": "T14 innostaa oppilasta vaikuttamaan ja toimimaan kestävän tulevaisuuden rakentamiseksi",
+              "en": ""
+            },
+            "coreElements": [
+              "S6"
+            ],
+            "verbs": []
+          }
+        ]
+      }
+    ]
+  }
+}

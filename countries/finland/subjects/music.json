@@ -1,0 +1,507 @@
+{
+  "country": "finland",
+  "source": {
+    "api": "https://eperusteet.opintopolku.fi/eperusteet-service/api/external/peruste/419550/perusopetus/oppiaineet/466343",
+    "curriculum": "POPS 2014",
+    "license": "Open Government Data (Finland)",
+    "lastSynced": "2026-03-02T21:29:45Z"
+  },
+  "subject": {
+    "code": "MU",
+    "name": {
+      "local": "Musiikki",
+      "en": "Music"
+    },
+    "coreElements": [
+      {
+        "code": "S1",
+        "name": {
+          "local": "S1 Miten musiikissa toimitaan",
+          "en": ""
+        },
+        "description": {
+          "local": "Musisoinnissa kiinnitetään huomiota ryhmän jäsenenä toimimiseen ja myönteisen yhteishengen luomiseen. Keskeisenä sisältönä ovat ilmaisuun ja keksimiseen rohkaiseminen, luontevan hengityksen, äänenkäytön ja laulamisen harjoittaminen sekä käytössä olevien soittimien ja laitteiden tarkoituksenmukainen käsittely.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S2",
+        "name": {
+          "local": "S2 Mistä musiikki muodostuu",
+          "en": ""
+        },
+        "description": {
+          "local": "Opetuksessa keskitytään peruskäsitteiden taso, kesto, voima ja väri hahmottamiseen. Osaamisen kehittyessä käsitteistöä laajennetaan musiikkikäsitteisiin rytmi, melodia, dynamiikka, sointiväri, harmonia ja muoto.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S3",
+        "name": {
+          "local": "S3 Musiikki omassa elämässä, yhteisössä ja yhteiskunnassa",
+          "en": ""
+        },
+        "description": {
+          "local": "Musiikillisten tietojen ja taitojen lisäksi opetuksessa käsitellään oppilaiden kokemuksia ja havaintoja niin musiikista kuin arjen eri ääniympäristöistä. Pohditaan myös musiikin merkitystä omissa yhteisöissä.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S4",
+        "name": {
+          "local": "S4 Musiikin opetuksen ohjelmisto",
+          "en": ""
+        },
+        "description": {
+          "local": "Musiikin opetuksessa käytetään lauluja, leikkejä, loruja, liikuntaa, soitto- ja kuuntelutehtäviä sekä luodaan tilaisuuksia luovaan toimintaan, jotka aihepiireiltään ja musiikillisilta ominaisuuksiltaan soveltuvat ikäkauteen ja koulun toimintakulttuuriin. Ohjelmiston suunnittelussa kiinnitetään huomiota myös oppilaiden omiin kulttuureihin ja kulttuuriperinnön vaalimiseen. Ohjelmistoon sisällytetään monipuolisesti erilaista musiikkia mukaan lukien lastenmusiikki sekä mahdolliset oppilaiden omat sävellykset ja musiikkikappaleet.",
+          "en": ""
+        }
+      },
+      {
+        "code": "S4",
+        "name": {
+          "local": "S4 Ohjelmisto",
+          "en": ""
+        },
+        "description": {
+          "local": "Ohjelmistoon ja erityisesti kuunteluohjelmistoon valitaan monipuolisesti eri kulttuurien ja aikakausien musiikkia kansanmusiikista taidemusiikkiin ajankohtaiset musiikilliset ilmiöt huomioiden. Äänenkäyttöä ja laulutaitoa harjoitetaan yksi- ja moniäänisten yhteislaulujen tai soololaulujen, äänikokeilujen ja erilaisten ääniharjoitteiden avulla. Ohjelmiston valinnassa otetaan huomioon kulttuuriperinnön vaaliminen, oppilaita innostavat teokset ja tehtävät sekä ohjelmiston käyttökelpoisuus musiikillisten taitojen oppimisessa. Ohjelmistoon sisältyvät myös oppilaiden omat luovat tuotokset ja sävellykset.",
+          "en": ""
+        }
+      }
+    ],
+    "gradeBands": [
+      {
+        "afterGrade": 2,
+        "label": {
+          "local": "Vuosiluokat 1–2",
+          "en": "Grades 1–2"
+        },
+        "competenceGoals": [
+          {
+            "code": "T1",
+            "text": {
+              "local": "T1 ohjata oppilasta toimimaan musiikillisen ryhmän jäsenenä oppilaan myönteistä minäkuvaa rakentaen",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S2",
+              "S3",
+              "S4"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T2",
+            "text": {
+              "local": "T2 ohjata oppilasta luontevaan äänenkäyttöön sekä laulamaan ja soittamaan ryhmän jäsenenä",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S2",
+              "S3",
+              "S4"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T3",
+            "text": {
+              "local": "T3 kannustaa oppilasta kokemaan ja hahmottamaan ääniympäristöä, ääntä, musiikkia ja musiikkikäsitteitä liikkuen ja kuunnellen",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S2",
+              "S3",
+              "S4"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T4",
+            "text": {
+              "local": "T4 antaa tilaa oppilaiden omille musiikillisille ideoille ja improvisoinnille sekä ohjaa heitä suunnittelemaan ja toteuttamaan pienimuotoisia sävellyksiä tai muita kokonaisuuksia käyttäen äänellisiä, liikunnallisia, kuvallisia, teknologisia tai muita ilmaisukeinoja",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S2",
+              "S3",
+              "S4"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T5",
+            "text": {
+              "local": "T5 innostaa oppilasta tutustumaan musiikilliseen kulttuuriperintöönsä leikkien, laulaen ja liikkuen sekä nauttimaan musiikin esteettisestä, kulttuurisesta ja historiallisesta monimuotoisuudesta",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S2",
+              "S3",
+              "S4"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T6",
+            "text": {
+              "local": "T6 auttaa oppilasta ymmärtämään musiikin merkintätapojen perusperiaatteita musisoinnin yhteydessä",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S2",
+              "S3",
+              "S4"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T7",
+            "text": {
+              "local": "T7 ohjata oppilasta toimimaan vastuullisesti musisoinnissa",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S2",
+              "S3",
+              "S4"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T8",
+            "text": {
+              "local": "T8 tarjota oppilaille kokemuksia tavoitteiden asettamisen ja yhteisen harjoittelun merkityksestä musiikin oppimisessa",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S2",
+              "S3",
+              "S4"
+            ],
+            "verbs": []
+          }
+        ]
+      },
+      {
+        "afterGrade": 6,
+        "label": {
+          "local": "Vuosiluokat 3–6",
+          "en": "Grades 3–6"
+        },
+        "competenceGoals": [
+          {
+            "code": "T1",
+            "text": {
+              "local": "T1 rohkaista oppilasta osallistumaan yhteismusisointiin ja rakentamaan myönteistä yhteishenkeä yhteisössään",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S3",
+              "S2",
+              "S4"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T2",
+            "text": {
+              "local": "T2 ohjata oppilasta luontevaan äänenkäyttöön ja laulamiseen sekä kehittämään keho-, rytmi-, melodia- ja sointusoittimien soittotaitoaan musisoivan ryhmän jäsenenä",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S3",
+              "S2",
+              "S4"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T3",
+            "text": {
+              "local": "T3 kannustaa oppilasta keholliseen musiikin, kuvien, tarinoiden ja tunnetilojen ilmaisuun kokonaisvaltaisesti liikkuen",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S3",
+              "S2",
+              "S4"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T4",
+            "text": {
+              "local": "T4 tarjota oppilaalle mahdollisuuksia ääniympäristön ja musiikin elämykselliseen kuunteluun sekä ohjata häntä jäsentämään kuulemaansa sekä kertomaan siitä",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S3",
+              "S2",
+              "S4"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T5",
+            "text": {
+              "local": "T5 rohkaista oppilasta improvisoimaan sekä suunnittelemaan ja toteuttamaan pienimuotoisia sävellyksiä tai monitaiteellisia kokonaisuuksia eri keinoin ja myös tieto- ja viestintäteknologiaa käyttäen",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S3",
+              "S2",
+              "S4"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T6",
+            "text": {
+              "local": "T6 ohjata oppilasta tarkastelemaan musiikillisia kokemuksiaan ja musiikillisen maailman esteettistä, kulttuurista ja historiallista monimuotoisuutta",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S3",
+              "S2",
+              "S4"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T7",
+            "text": {
+              "local": "T7 ohjata oppilasta ymmärtämään musiikkikäsitteitä ja musiikin merkintätapojen periaatteita musisoinnin yhteydessä",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S3",
+              "S2",
+              "S4"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T8",
+            "text": {
+              "local": "T8 ohjata oppilasta tunnistamaan musiikin vaikutuksia hyvinvointiin sekä huolehtimaan musisointi- ja ääniympäristön turvallisuudesta",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S3",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T9",
+            "text": {
+              "local": "T9 ohjata oppilasta kehittämään musiikillista osaamistaan harjoittelun avulla, osallistumaan tavoitteiden asettamiseen ja arvioimaan edistymistään suhteessa tavoitteisiin",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S3",
+              "S2",
+              "S4"
+            ],
+            "verbs": []
+          }
+        ]
+      },
+      {
+        "afterGrade": 9,
+        "label": {
+          "local": "Vuosiluokat 7–9",
+          "en": "Grades 7–9"
+        },
+        "competenceGoals": [
+          {
+            "code": "T1",
+            "text": {
+              "local": "T1 kannustaa oppilasta rakentavaan toimintaan musisoivan ryhmän ja musiikillisten yhteisöjen jäsenenä",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S4",
+              "S3",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T2",
+            "text": {
+              "local": "T2 ohjata oppilasta ylläpitämään äänenkäyttö- ja laulutaitoaan sekä kehittämään niitä edelleen musisoivan ryhmän jäseninä",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S4",
+              "S3",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T3",
+            "text": {
+              "local": "T3 kannustaa oppilasta kehittämään edelleen soitto- ja yhteismusisointitaitojaan keho-, rytmi-, melodia- ja sointusoittimin",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S4",
+              "S3",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T4",
+            "text": {
+              "local": "T4 rohkaista oppilasta monipuoliseen musiikkiliikunnalliseen kokemiseen ja ilmaisuun",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S4",
+              "S3",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T5",
+            "text": {
+              "local": "T5 tarjota oppilaalle mahdollisuuksia ääniympäristön ja musiikin elämykselliseen kuunteluun ja havainnointiin sekä ohjata häntä keskustelemaan havainnoistaan",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S4",
+              "S3",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T6",
+            "text": {
+              "local": "T6 kannustaa oppilasta rakentamaan luovaa suhdetta musiikkiin ja ohjata heitä improvisointiin, sovittamiseen ja säveltämiseen sekä taiteidenväliseen työskentelyyn",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S4",
+              "S3",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T7",
+            "text": {
+              "local": "T7 ohjata oppilasta musiikin tallentamiseen ja tieto- ja viestintäteknologian luovaan ilmaisulliseen käyttöön sekä musiikin tekemisessä että osana monialaisia kokonaisuuksia",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S4",
+              "S3",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T8",
+            "text": {
+              "local": "T8 ohjata oppilasta tarkastelemaan musiikkia taiteenlajina ja ymmärtämään, miten musiikkia käytetään viestimiseen ja vaikuttamiseen eri kulttuureissa.",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S4",
+              "S3",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T9",
+            "text": {
+              "local": "T9 rohkaista ja ohjata oppilasta keskustelemaan musiikista käyttäen musiikin käsitteitä ja terminologiaa",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S4",
+              "S3",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T10",
+            "text": {
+              "local": "T10 ohjata oppilasta tunnistamaan musiikin vaikutuksia tunteisiin ja hyvinvointiin",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S4",
+              "S3",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T11",
+            "text": {
+              "local": "T11 ohjata oppilasta huolehtimaan kuulostaan sekä musisointi- ja ääniympäristön turvallisuudesta",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S4",
+              "S3",
+              "S2"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "T12",
+            "text": {
+              "local": "T12 ohjata oppilasta kehittämään musiikillista osaamistaan harjoittelun avulla, asettamaan tavoitteita musiikilliselle oppimiselleen ja arvioimaan edistymistään suhteessa tavoitteisiin.",
+              "en": ""
+            },
+            "coreElements": [
+              "S1",
+              "S4",
+              "S3",
+              "S2"
+            ],
+            "verbs": []
+          }
+        ]
+      }
+    ]
+  }
+}

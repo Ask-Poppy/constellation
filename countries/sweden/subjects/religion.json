@@ -1,0 +1,703 @@
+{
+  "country": "sweden",
+  "source": {
+    "api": "https://api.skolverket.se/syllabus/v1/subjects/GRGRREL01",
+    "curriculum": "Lgr22",
+    "license": "CC0",
+    "lastSynced": "2026-03-02T21:29:33Z"
+  },
+  "subject": {
+    "code": "GRGRREL01",
+    "name": {
+      "local": "Religionskunskap",
+      "en": "Religion"
+    },
+    "coreElements": [
+      {
+        "code": "",
+        "name": {
+          "local": "kunskaper om religioner och andra livsåskådningar samt om olika tolkningar och varierande praktiker inom dessa,",
+          "en": ""
+        },
+        "description": {
+          "local": "kunskaper om religioner och andra livsåskådningar samt om olika tolkningar och varierande praktiker inom dessa,",
+          "en": ""
+        }
+      },
+      {
+        "code": "",
+        "name": {
+          "local": "förmåga att kritiskt granska frågor som rör relationen mellan religion och samhälle, och",
+          "en": ""
+        },
+        "description": {
+          "local": "förmåga att kritiskt granska frågor som rör relationen mellan religion och samhälle, och",
+          "en": ""
+        }
+      },
+      {
+        "code": "",
+        "name": {
+          "local": "förmåga att resonera om etik, moraliska frågor och livsfrågor utifrån olika perspektiv.",
+          "en": ""
+        },
+        "description": {
+          "local": "förmåga att resonera om etik, moraliska frågor och livsfrågor utifrån olika perspektiv.",
+          "en": ""
+        }
+      }
+    ],
+    "gradeBands": [
+      {
+        "afterGrade": 3,
+        "label": {
+          "local": "Årskurs 1-3",
+          "en": "Years 1-3"
+        },
+        "competenceGoals": [
+          {
+            "code": "RE-1-3-1",
+            "text": {
+              "local": "Migration inom ett land och mellan länder. Vad detta kan ha för orsaker och få för konsekvenser.",
+              "en": ""
+            },
+            "coreElements": [
+              "Att leva tillsammans"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "RE-1-3-2",
+            "text": {
+              "local": "Skildringar av människors levnadsvillkor förr i tiden, till exempel i barn­litte­ratur, sånger och filmer. Minnen berättade av människor som lever nu.",
+              "en": ""
+            },
+            "coreElements": [
+              "Att leva tillsammans"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "RE-1-3-3",
+            "text": {
+              "local": "Samtal om och reflektion över moraliska frågor och livsfrågor med be­ty­delse för eleven, till exempel kamratskap, könsroller och döden.",
+              "en": ""
+            },
+            "coreElements": [
+              "Att leva tillsammans"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "RE-1-3-4",
+            "text": {
+              "local": "Samtal om och reflektion över normer och regler i elevens livsmiljöer, däri­bland i skolan och i digitala miljöer.",
+              "en": ""
+            },
+            "coreElements": [
+              "Att leva tillsammans"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "RE-1-3-5",
+            "text": {
+              "local": "Trafikregler och hur man beter sig i trafiken på ett säkert sätt.",
+              "en": ""
+            },
+            "coreElements": [
+              "Att leva tillsammans"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "RE-1-3-6",
+            "text": {
+              "local": "Några utmärkande drag i närområdets natur- och kulturlandskap. Spår av den senaste istiden.",
+              "en": ""
+            },
+            "coreElements": [
+              "Att leva i närområdet"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "RE-1-3-7",
+            "text": {
+              "local": "Hemortens historia och vad närområdets platser, byggnader och vardagliga före­mål kan berätta om livet där under olika tider.",
+              "en": ""
+            },
+            "coreElements": [
+              "Att leva i närområdet"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "RE-1-3-8",
+            "text": {
+              "local": "Kristendomens roll i skolan och på hemorten förr i tiden.",
+              "en": ""
+            },
+            "coreElements": [
+              "Att leva i närområdet"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "RE-1-3-9",
+            "text": {
+              "local": "Centrala samhällsfunktioner, till exempel sjukvård, räddningstjänst och sko­la.",
+              "en": ""
+            },
+            "coreElements": [
+              "Att leva i närområdet"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "RE-1-3-10",
+            "text": {
+              "local": "Yrken och verksamheter i närområdet.",
+              "en": ""
+            },
+            "coreElements": [
+              "Att leva i närområdet"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "RE-1-3-11",
+            "text": {
+              "local": "Miljöfrågor utifrån elevens vardag, till exempel frågor om trafik, energi och livsmedel.",
+              "en": ""
+            },
+            "coreElements": [
+              "Att leva i världen"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "RE-1-3-12",
+            "text": {
+              "local": "Rumsliga förutsättningar i natur och miljö för befolkning och bebyggelse, till exempel mark, vatten och klimat.",
+              "en": ""
+            },
+            "coreElements": [
+              "Att leva i världen"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "RE-1-3-13",
+            "text": {
+              "local": "Namn och läge på världsdelarna och världshaven samt på länder och platser som är betydelsefulla för eleven.",
+              "en": ""
+            },
+            "coreElements": [
+              "Att leva i världen"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "RE-1-3-14",
+            "text": {
+              "local": "Människans uppkomst, vandringar, samlande och jakt samt förändrade lev­nads­villkor i samband med övergången till jordbruk.",
+              "en": ""
+            },
+            "coreElements": [
+              "Att leva i världen"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "RE-1-3-15",
+            "text": {
+              "local": "Norden befolkas. Människors levnadsvillkor under nordisk stenålder, brons­ålder och järnålder.",
+              "en": ""
+            },
+            "coreElements": [
+              "Att leva i världen"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "RE-1-3-16",
+            "text": {
+              "local": "Berättelser i antik och nordisk mytologi samt i samisk religion.",
+              "en": ""
+            },
+            "coreElements": [
+              "Att leva i världen"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "RE-1-3-17",
+            "text": {
+              "local": "Några högtider, symboler och berättelser inom kristendom, islam och ju­den­dom. Några berättelser ur Bibeln och deras innebörder.",
+              "en": ""
+            },
+            "coreElements": [
+              "Att leva i världen"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "RE-1-3-18",
+            "text": {
+              "local": "Mänskliga rättigheter inklusive alla människors lika värde och bar­nets rättig­heter i enlighet med FN:s konvention om barnets rättigheter (barn­konventionen).",
+              "en": ""
+            },
+            "coreElements": [
+              "Att leva i världen"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "RE-1-3-19",
+            "text": {
+              "local": "Grundläggande demokratiska principer. Vad åsikts- och yttrandefrihet samt majoritetsprincipen kan innebära i skolan och i samhället.",
+              "en": ""
+            },
+            "coreElements": [
+              "Att leva i världen"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "RE-1-3-20",
+            "text": {
+              "local": "Pengars användning och värde. Olika exempel på betalningsformer och vad några vanliga varor och tjänster kan kosta.",
+              "en": ""
+            },
+            "coreElements": [
+              "Att leva i världen"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "RE-1-3-21",
+            "text": {
+              "local": "Aktuella samhällsfrågor i olika medier.",
+              "en": ""
+            },
+            "coreElements": [
+              "Att leva i världen"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "RE-1-3-22",
+            "text": {
+              "local": "Metoder för att söka information, till exempel textläsning, intervjuer och obser­vationer. Samtal om olika källors användbarhet och tillförlitlighet.",
+              "en": ""
+            },
+            "coreElements": [
+              "Att undersöka verkligheten"
+            ],
+            "verbs": [
+              "Söka"
+            ]
+          },
+          {
+            "code": "RE-1-3-23",
+            "text": {
+              "local": "Jordgloben, analoga och digitala kartor samt storleksrelationer och väder­streck.",
+              "en": ""
+            },
+            "coreElements": [
+              "Att undersöka verkligheten"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "RE-1-3-24",
+            "text": {
+              "local": "Mentala kartor, till exempel över närområdet, skolvägar eller andra platser som är betydelsefulla för eleven.",
+              "en": ""
+            },
+            "coreElements": [
+              "Att undersöka verkligheten"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "RE-1-3-25",
+            "text": {
+              "local": "Tidslinjer och tidsbegreppen dåtid, nutid och framtid.",
+              "en": ""
+            },
+            "coreElements": [
+              "Att undersöka verkligheten"
+            ],
+            "verbs": []
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "",
+            "text": {
+              "local": "Kriterier för bedömning av godtagbara kunskaper i slutet av årskurs 3Eleven visar grundläggande kunskaper om geografiska och historiska förhållanden, samhällsförhållanden och religiösa traditioner. Eleven beskriver likheter och skillnader samt orsaker och konsekvenser i sammanhang som är relevanta för ämnena. Eleven samtalar om människors livsfrågor och levnadsvillkor samt om miljöfrågor och andra samhällsfrågor ur olika perspektiv. Eleven använder begrepp, metoder och verktyg från de samhällsorienterande ämnena.",
+              "en": ""
+            }
+          }
+        ]
+      },
+      {
+        "afterGrade": 6,
+        "label": {
+          "local": "Årskurs 4-6",
+          "en": "Years 4-6"
+        },
+        "competenceGoals": [
+          {
+            "code": "RE-4-6-1",
+            "text": {
+              "local": "Religionens betydelse i människors liv och människors olika sätt att uttrycka sin religiositet.",
+              "en": ""
+            },
+            "coreElements": [
+              "Religioner och andra livsåskådningar"
+            ],
+            "verbs": [
+              "Uttrycka"
+            ]
+          },
+          {
+            "code": "RE-4-6-2",
+            "text": {
+              "local": "Ritualer och religiöst motiverade levnadsregler samt heliga platser och rum i kristendom, islam och judendom.",
+              "en": ""
+            },
+            "coreElements": [
+              "Religioner och andra livsåskådningar"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "RE-4-6-3",
+            "text": {
+              "local": "Centrala tankegångar med koppling till ritualer, levnadsregler och heliga plat­ser inom kristendom, islam och judendom, till exempel som de uttrycks i berättelser i Bibeln och andra religiösa urkunder.",
+              "en": ""
+            },
+            "coreElements": [
+              "Religioner och andra livsåskådningar"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "RE-4-6-4",
+            "text": {
+              "local": "Några huvuddrag inom hinduism och buddhism.",
+              "en": ""
+            },
+            "coreElements": [
+              "Religioner och andra livsåskådningar"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "RE-4-6-5",
+            "text": {
+              "local": "Likheter och skillnader mellan och inom några religioner.",
+              "en": ""
+            },
+            "coreElements": [
+              "Religioner och andra livsåskådningar"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "RE-4-6-6",
+            "text": {
+              "local": "Begreppen religion och livsåskådning.",
+              "en": ""
+            },
+            "coreElements": [
+              "Religioner och andra livsåskådningar"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "RE-4-6-7",
+            "text": {
+              "local": "Hur religioner framställs och representeras på olika sätt i media och i andra samman­hang och hur det kan påverka människors bilder av sig själva och andra.",
+              "en": ""
+            },
+            "coreElements": [
+              "Religion och samhälle"
+            ],
+            "verbs": [
+              "Presentera"
+            ]
+          },
+          {
+            "code": "RE-4-6-8",
+            "text": {
+              "local": "Kristendomens betydelse för värderingar och kultur i det svenska samhället förr och nu.",
+              "en": ""
+            },
+            "coreElements": [
+              "Religion och samhälle"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "RE-4-6-9",
+            "text": {
+              "local": "Människors religiösa och livsåskådningsmässiga tillhörigheter i Sverige i dag samt hur detta har förändrats över tid.",
+              "en": ""
+            },
+            "coreElements": [
+              "Religion och samhälle"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "RE-4-6-10",
+            "text": {
+              "local": "Samtal om och reflektion över vardagliga moraliska frågor utifrån ele­ver­nas egna argument och olika religiösa tolkningar. Sådana frågor kan till exempel handla om ansvar, utanförskap, kränkningar, jämställdhet och sexua­litet.",
+              "en": ""
+            },
+            "coreElements": [
+              "Etik och livsfrågor"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "RE-4-6-11",
+            "text": {
+              "local": "Samtal om och reflektion över livsfrågor utifrån elevernas egna tankar och olika religiösa tolkningar. Sådana frågor kan till exempel handla om vad som är viktigt i livet och olika föreställningar om vad som händer efter döden.",
+              "en": ""
+            },
+            "coreElements": [
+              "Etik och livsfrågor"
+            ],
+            "verbs": []
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "E",
+            "text": {
+              "local": "Betygskriterier för betyget E i slutet av årskurs 6Eleven visar grundläggande kunskaper om religioner. Eleven för enkla resonemang om likheter och skillnader mellan och inom några religioner samt om vad religion kan betyda för människor. Eleven visar grundläggande kunskaper om frågor som rör relationen mellan religion och samhälle. Eleven för enkla resonemang om moraliska frågor och livsfrågor.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "D",
+            "text": {
+              "local": "Betygskriterier för betyget D i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan C och E.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "C",
+            "text": {
+              "local": "Betygskriterier för betyget C i slutet av årskurs 6Eleven visar goda kunskaper om religioner. Eleven för utvecklade resonemang om likheter och skillnader mellan och inom några religioner samt om vad religion kan betyda för människor. Eleven visar goda kunskaper om frågor som rör relationen mellan religion och samhälle. Eleven för utvecklade resonemang om moraliska frågor och livsfrågor.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "B",
+            "text": {
+              "local": "Betygskriterier för betyget B i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan A och C.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "A",
+            "text": {
+              "local": "Betygskriterier för betyget A i slutet av årskurs 6Eleven visar mycket goda kunskaper om religioner. Eleven för välutvecklade resonemang om likheter och skillnader mellan och inom några religioner samt om vad religion kan betyda för människor. Eleven visar mycket goda kunskaper om frågor som rör relationen mellan religion och samhälle. Eleven för välutvecklade resonemang om moraliska frågor och livsfrågor.",
+              "en": ""
+            }
+          }
+        ]
+      },
+      {
+        "afterGrade": 9,
+        "label": {
+          "local": "Årskurs 7-9",
+          "en": "Years 7-9"
+        },
+        "competenceGoals": [
+          {
+            "code": "RE-7-9-1",
+            "text": {
+              "local": "Vad religion och livsåskådning kan betyda för människors behov av me­ning, gemenskap, identitet och förståelse av omvärlden.",
+              "en": ""
+            },
+            "coreElements": [
+              "Religioner och andra livsåskådningar"
+            ],
+            "verbs": [
+              "Förstå"
+            ]
+          },
+          {
+            "code": "RE-7-9-2",
+            "text": {
+              "local": "Centrala tankegångar inom kristendom, islam, judendom, hinduism och budd­hism.",
+              "en": ""
+            },
+            "coreElements": [
+              "Religioner och andra livsåskådningar"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "RE-7-9-3",
+            "text": {
+              "local": "Likheter och skillnader i religiösa tolkningar och praktiker mellan och inom olika religioner. Huvudinriktningar inom kristendom och andra religioner.",
+              "en": ""
+            },
+            "coreElements": [
+              "Religioner och andra livsåskådningar"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "RE-7-9-4",
+            "text": {
+              "local": "Tolkning av och samtal om religiös och livsåskådningsmässig symbolik och mening i Bibeln och andra religiösa urkunder, samt i ritualer och este­ti­ska uttryck.",
+              "en": ""
+            },
+            "coreElements": [
+              "Religioner och andra livsåskådningar"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "RE-7-9-5",
+            "text": {
+              "local": "Religionernas uppkomst, spridning och geografiska utbredning i dag.",
+              "en": ""
+            },
+            "coreElements": [
+              "Religioner och andra livsåskådningar"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "RE-7-9-6",
+            "text": {
+              "local": "Orientering om sekulära livsåskådningar och livshållningar, till exempel hu­manism och ateism.",
+              "en": ""
+            },
+            "coreElements": [
+              "Religioner och andra livsåskådningar"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "RE-7-9-7",
+            "text": {
+              "local": "Kritisk granskning av hur religion och religiositet framställs och rep­re­sen­te­ras på olika sätt i media och i andra sammanhang och hur det kan påverka in­di­vider och samhället i stort.",
+              "en": ""
+            },
+            "coreElements": [
+              "Religion och samhälle"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "RE-7-9-8",
+            "text": {
+              "local": "Från enhetskyrka till religiös mångfald och sekularisering i det svenska sam­hället. Religionens betydelse i samhället i Sverige jämfört med några andra delar av världen.",
+              "en": ""
+            },
+            "coreElements": [
+              "Religion och samhälle"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "RE-7-9-9",
+            "text": {
+              "local": "Konflikter och samförstånd mellan olika religiösa och olika sekulära syn­sätt, till exempel i frågor om religionsfrihet, sexualitet och synen på kvinnors och mäns roller.",
+              "en": ""
+            },
+            "coreElements": [
+              "Religion och samhälle"
+            ],
+            "verbs": [
+              "Förstå"
+            ]
+          },
+          {
+            "code": "RE-7-9-10",
+            "text": {
+              "local": "Grundprinciper inom några etiska modeller, till exempel konsekvensetik och pliktetik.",
+              "en": ""
+            },
+            "coreElements": [
+              "Etik och livsfrågor"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "RE-7-9-11",
+            "text": {
+              "local": "Analys av och reflektion över etiska frågor utifrån elevernas egna argument samt utifrån tolkningar inom religioner och andra livsåskådningar och uti­från etiska modeller. Sådana frågor kan till exempel handla om frihet, rätt­visa och solidaritet.",
+              "en": ""
+            },
+            "coreElements": [
+              "Etik och livsfrågor"
+            ],
+            "verbs": [
+              "Visa"
+            ]
+          },
+          {
+            "code": "RE-7-9-12",
+            "text": {
+              "local": "Samtal om och reflektion över livsfrågor utifrån elevernas egna tankar samt uti­från tolkningar inom religioner och andra livsåskådningar. Sådana frå­gor kan till exempel handla om identitet, kärlek, sexualitet och meningen med livet.",
+              "en": ""
+            },
+            "coreElements": [
+              "Etik och livsfrågor"
+            ],
+            "verbs": []
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "E",
+            "text": {
+              "local": "Betygskriterier för betyget E i slutet av årskurs 9Eleven visar grundläggande kunskaper om religioner och andra livsåskådningar. Eleven för enkla resonemang om likheter och skillnader i centrala tankegångar och religiösa praktiker mellan och inom olika religioner samt om vad religion och livsåskådning kan betyda för människor. Eleven för enkla resonemang om frågor som rör relationen mellan religion och samhälle. Eleven för enkla resonemang om etik, moraliska frågor och livsfrågor.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "D",
+            "text": {
+              "local": "Betygskriterier för betyget D i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan C och E.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "C",
+            "text": {
+              "local": "Betygskriterier för betyget C i slutet av årskurs 9Eleven visar goda kunskaper om religioner och andra livsåskådningar. Eleven för utvecklade resonemang om likheter och skillnader i centrala tankegångar och religiösa praktiker mellan och inom olika religioner samt om vad religion och livsåskådning kan betyda för människor. Eleven för utvecklade resonemang om frågor som rör relationen mellan religion och samhälle. Eleven för utvecklade resonemang om etik, moraliska frågor och livsfrågor.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "B",
+            "text": {
+              "local": "Betygskriterier för betyget B i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan A och C.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "A",
+            "text": {
+              "local": "Betygskriterier för betyget A i slutet av årskurs 9Eleven visar mycket goda kunskaper om religioner och andra livsåskådningar. Eleven för välutvecklade resonemang om likheter och skillnader i centrala tankegångar och religiösa praktiker mellan och inom olika religioner samt om vad religion och livsåskådning kan betyda för människor. Eleven för välutvecklade resonemang om frågor som rör relationen mellan religion och samhälle. Eleven för välutvecklade resonemang om etik, moraliska frågor och livsfrågor.",
+              "en": ""
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

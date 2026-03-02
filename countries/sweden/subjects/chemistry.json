@@ -1,0 +1,569 @@
+{
+  "country": "sweden",
+  "source": {
+    "api": "https://api.skolverket.se/syllabus/v1/subjects/GRGRKEM01",
+    "curriculum": "Lgr22",
+    "license": "CC0",
+    "lastSynced": "2026-03-02T21:29:31Z"
+  },
+  "subject": {
+    "code": "GRGRKEM01",
+    "name": {
+      "local": "Kemi",
+      "en": "Chemistry"
+    },
+    "coreElements": [
+      {
+        "code": "",
+        "name": {
+          "local": "kunskaper om kemins begrepp och förklaringsmodeller för att beskriva och förklara samband i naturen, i samhället och i människokroppen,",
+          "en": ""
+        },
+        "description": {
+          "local": "kunskaper om kemins begrepp och förklaringsmodeller för att beskriva och förklara samband i naturen, i samhället och i människokroppen,",
+          "en": ""
+        }
+      },
+      {
+        "code": "",
+        "name": {
+          "local": "förmåga att använda kemi för att granska information, kommunicera och ta ställning i frågor som rör miljö och hälsa, och",
+          "en": ""
+        },
+        "description": {
+          "local": "förmåga att använda kemi för att granska information, kommunicera och ta ställning i frågor som rör miljö och hälsa, och",
+          "en": ""
+        }
+      },
+      {
+        "code": "",
+        "name": {
+          "local": "förmåga att genomföra systematiska undersökningar i kemi.",
+          "en": ""
+        },
+        "description": {
+          "local": "förmåga att genomföra systematiska undersökningar i kemi.",
+          "en": ""
+        }
+      }
+    ],
+    "gradeBands": [
+      {
+        "afterGrade": 3,
+        "label": {
+          "local": "Årskurs 1-3",
+          "en": "Years 1-3"
+        },
+        "competenceGoals": [
+          {
+            "code": "KE-1-3-1",
+            "text": {
+              "local": "Årstidsväxlingar i naturen. Några djurs och växters livscykler och an­pass­ningar till olika livsmiljöer och årstider.",
+              "en": ""
+            },
+            "coreElements": [
+              "Året runt i naturen"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KE-1-3-2",
+            "text": {
+              "local": "Djur, växter och svampar i närmiljön, hur de kan grupperas samt namn på några vanligt förekommande arter.",
+              "en": ""
+            },
+            "coreElements": [
+              "Året runt i naturen"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KE-1-3-3",
+            "text": {
+              "local": "Enkla näringskedjor som beskriver samband mellan organismer i eko­system.",
+              "en": ""
+            },
+            "coreElements": [
+              "Året runt i naturen"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KE-1-3-4",
+            "text": {
+              "local": "Några av människans organ, deras namn och översiktliga funktion.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kropp och hälsa"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KE-1-3-5",
+            "text": {
+              "local": "Människans upplevelser av ljus, ljud, värme, smak och doft med hjälp av oli­ka sinnen.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kropp och hälsa"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KE-1-3-6",
+            "text": {
+              "local": "Betydelsen av kost, sömn, hygien, motion och sociala relationer för att må bra.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kropp och hälsa"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KE-1-3-7",
+            "text": {
+              "local": "Tyngdkraft, tyngdpunkt, jämvikt, balans och friktion som kan upplevas och obser­veras vid lek och rörelse.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kraft och rörelse"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KE-1-3-8",
+            "text": {
+              "local": "Solsystemets himlakroppar och deras rörelser. Människan i rymden.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kraft och rörelse"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KE-1-3-9",
+            "text": {
+              "local": "Hur material kan sorteras efter några egenskaper, till exempel utseende, om de är magnetiska och om de flyter eller sjunker i vatten. Hur materialen kan åter­vinnas.",
+              "en": ""
+            },
+            "coreElements": [
+              "Material och ämnen"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KE-1-3-10",
+            "text": {
+              "local": "Några blandningar och hur de kan delas upp i sina olika beståndsdelar, till exem­pel genom avdunstning och filtrering.",
+              "en": ""
+            },
+            "coreElements": [
+              "Material och ämnen"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KE-1-3-11",
+            "text": {
+              "local": "Vattnets olika former: fast, flytande och gas. Avdunstning, kokning, kon­den­sering, smältning och stelning.",
+              "en": ""
+            },
+            "coreElements": [
+              "Material och ämnen"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KE-1-3-12",
+            "text": {
+              "local": "Enkla fältstudier, observationer och experiment. Utförande och dokumen­ta­tion av undersökningarna med ord, bilder och digitala verktyg.",
+              "en": ""
+            },
+            "coreElements": [
+              "Systematiska undersökningar"
+            ],
+            "verbs": [
+              "Föra"
+            ]
+          },
+          {
+            "code": "KE-1-3-13",
+            "text": {
+              "local": "Några berättelser om hur naturvetenskaplig kunskap vuxit fram.",
+              "en": ""
+            },
+            "coreElements": [
+              "Systematiska undersökningar"
+            ],
+            "verbs": []
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "",
+            "text": {
+              "local": "Kriterier för bedömning av godtagbara kunskaper i slutet av årskurs 3Eleven visar grundläggande kunskaper om natur, kropp och hälsa, kraft och rörelse samt material och ämnen. Utifrån egna upplevelser och utforskande av närmiljön beskriver eleven enkla naturvetenskapliga samband i naturen och människokroppen. Utifrån tydliga instruktioner utför eleven enkla fältstudier, observationer och experiment.",
+              "en": ""
+            }
+          }
+        ]
+      },
+      {
+        "afterGrade": 6,
+        "label": {
+          "local": "Årskurs 4-6",
+          "en": "Years 4-6"
+        },
+        "competenceGoals": [
+          {
+            "code": "KE-4-6-1",
+            "text": {
+              "local": "Materiens uppbyggnad visualiserad med hjälp av enkla partikelmodeller.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kemin i naturen, i samhället och i människokroppen"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KE-4-6-2",
+            "text": {
+              "local": "Indelning av ämnen och material utifrån egenskaperna löslighet, lednings­förmåga, surt eller basiskt.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kemin i naturen, i samhället och i människokroppen"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KE-4-6-3",
+            "text": {
+              "local": "Vattnets egenskaper och kretslopp.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kemin i naturen, i samhället och i människokroppen"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KE-4-6-4",
+            "text": {
+              "local": "Luftens egenskaper och sammansättning.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kemin i naturen, i samhället och i människokroppen"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KE-4-6-5",
+            "text": {
+              "local": "Fotosyntes och förbränning som exempel på kemiska reaktioner i naturen.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kemin i naturen, i samhället och i människokroppen"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KE-4-6-6",
+            "text": {
+              "local": "Fossila och förnybara bränslen och deras påverkan på klimatet.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kemin i naturen, i samhället och i människokroppen"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KE-4-6-7",
+            "text": {
+              "local": "Matens innehåll och näringsämnenas betydelse för hälsan.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kemin i naturen, i samhället och i människokroppen"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KE-4-6-8",
+            "text": {
+              "local": "Vanliga kemikalier i hemmet. Deras användning och påverkan på miljön och människan samt hur de är märkta och bör hanteras.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kemin i naturen, i samhället och i människokroppen"
+            ],
+            "verbs": [
+              "Hantera"
+            ]
+          },
+          {
+            "code": "KE-4-6-9",
+            "text": {
+              "local": "Råvarors förädling till produkter, till exempel metaller, papper och plast. Hur produkterna kan återanvändas eller återvinnas.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kemin i naturen, i samhället och i människokroppen"
+            ],
+            "verbs": [
+              "Använda"
+            ]
+          },
+          {
+            "code": "KE-4-6-10",
+            "text": {
+              "local": "Observationer och experiment med såväl analoga som digitala verktyg. Plane­ring, utförande, värdering av resultat samt dokumentation med ord, bilder och tabeller.",
+              "en": ""
+            },
+            "coreElements": [
+              "Systematiska undersökningar och granskning av information"
+            ],
+            "verbs": [
+              "Föra"
+            ]
+          },
+          {
+            "code": "KE-4-6-11",
+            "text": {
+              "local": "Några upptäckter inom kemiområdet och deras betydelse för människans lev­nads­villkor och syn på naturen.",
+              "en": ""
+            },
+            "coreElements": [
+              "Systematiska undersökningar och granskning av information"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KE-4-6-12",
+            "text": {
+              "local": "Kritisk granskning och användning av information som rör kemi.",
+              "en": ""
+            },
+            "coreElements": [
+              "Systematiska undersökningar och granskning av information"
+            ],
+            "verbs": []
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "E",
+            "text": {
+              "local": "Betygskriterier för betyget E i slutet av årskurs 6Eleven visar grundläggande kunskaper om kemins begrepp och förklaringsmodeller. Med viss användning av begreppen och förklaringsmodellerna beskriver eleven enkla kemiska samband i naturen, i samhället och i människokroppen. Eleven använder information som rör kemi för att med viss naturvetenskaplig underbyggnad föra resonemang i frågor som rör miljö och hälsa. Eleven söker svar på frågor genom att utföra systematiska undersökningar på ett säkert och i huvudsak fungerande sätt. Eleven värderar resultaten och beskriver på ett enkelt sätt undersökningarna.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "D",
+            "text": {
+              "local": "Betygskriterier för betyget D i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan C och E.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "C",
+            "text": {
+              "local": "Betygskriterier för betyget C i slutet av årskurs 6Eleven visar goda kunskaper om kemins begrepp och förklaringsmodeller. Med relativt god användning av begreppen och förklaringsmodellerna beskriver eleven enkla kemiska samband i naturen, i samhället och i människokroppen. Eleven använder information som rör kemi för att med relativt god naturvetenskaplig underbyggnad föra resonemang i frågor som rör miljö och hälsa. Eleven söker svar på frågor genom att utföra systematiska undersökningar på ett säkert och fungerande sätt. Eleven värderar resultaten och beskriver på ett utvecklat sätt undersökningarna.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "B",
+            "text": {
+              "local": "Betygskriterier för betyget B i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan A och C.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "A",
+            "text": {
+              "local": "Betygskriterier för betyget A i slutet av årskurs 6Eleven visar mycket goda kunskaper om kemins begrepp och förklaringsmodeller. Med god användning av begreppen och förklaringsmodellerna beskriver eleven enkla kemiska samband i naturen, i samhället och i människokroppen. Eleven använder information som rör kemi för att med god naturvetenskaplig underbyggnad föra resonemang i frågor som rör miljö och hälsa. Eleven söker svar på frågor genom att utföra systematiska undersökningar på ett säkert och väl fungerande sätt. Eleven värderar resultaten och beskriver på ett välutvecklat sätt undersökningarna.",
+              "en": ""
+            }
+          }
+        ]
+      },
+      {
+        "afterGrade": 9,
+        "label": {
+          "local": "Årskurs 7-9",
+          "en": "Years 7-9"
+        },
+        "competenceGoals": [
+          {
+            "code": "KE-7-9-1",
+            "text": {
+              "local": "Materiens uppbyggnad, kretslopp och oförstörbarhet visualiserat med hjälp av partikelmodeller. Grundämnen, molekyl- och jonföreningar samt hur äm­nen omvandlas genom kemiska reaktioner. Atomer, elektroner och kärn­partiklar.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kemin i naturen, i samhället och i människokroppen"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KE-7-9-2",
+            "text": {
+              "local": "Separations- och analysmetoder, till exempel filtrering, fällning, pH-mät­ning och identifikation av ämnen.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kemin i naturen, i samhället och i människokroppen"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KE-7-9-3",
+            "text": {
+              "local": "Vatten som lösningsmedel och transportör av ämnen, till exempel i mark, väx­ter och människokroppen.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kemin i naturen, i samhället och i människokroppen"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KE-7-9-4",
+            "text": {
+              "local": "Några kemiska processer i mark, luft och vatten samt deras koppling till frå­gor om miljö och hälsa, till exempel växthuseffekten, vattenrening och sprid­ning av miljögifter.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kemin i naturen, i samhället och i människokroppen"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KE-7-9-5",
+            "text": {
+              "local": "Kolatomens egenskaper och kretslopp i naturen, i samhället och i män­ni­sko­­kroppen.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kemin i naturen, i samhället och i människokroppen"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KE-7-9-6",
+            "text": {
+              "local": "Kolhydrater, proteiner och fetter samt deras funktioner i människokroppen.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kemin i naturen, i samhället och i människokroppen"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KE-7-9-7",
+            "text": {
+              "local": "Utveckling av produkter och material, till exempel läkemedel, funktions­klä­der och batterier.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kemin i naturen, i samhället och i människokroppen"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KE-7-9-8",
+            "text": {
+              "local": "Några produkters livscykler och påverkan på miljön.",
+              "en": ""
+            },
+            "coreElements": [
+              "Kemin i naturen, i samhället och i människokroppen"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KE-7-9-9",
+            "text": {
+              "local": "Observationer och experiment med såväl analoga som digitala verktyg. Formulering av undersökningsbara frågor, planering, utförande, värdering av resultat samt dokumentation med bilder, tabeller, diagram och rapporter.",
+              "en": ""
+            },
+            "coreElements": [
+              "Systematiska undersökningar och granskning av information"
+            ],
+            "verbs": [
+              "Föra"
+            ]
+          },
+          {
+            "code": "KE-7-9-10",
+            "text": {
+              "local": "Sambandet mellan kemiska undersökningar och utvecklingen av begrepp och förklaringsmodeller. De kemiska förklaringsmodellernas historiska framväxt, användbarhet och föränderlighet.",
+              "en": ""
+            },
+            "coreElements": [
+              "Systematiska undersökningar och granskning av information"
+            ],
+            "verbs": []
+          },
+          {
+            "code": "KE-7-9-11",
+            "text": {
+              "local": "Informationssökning, kritisk granskning och användning av information som rör kemi. Argumentation och ställningstaganden i aktuella frågor som rör miljö och hälsa.",
+              "en": ""
+            },
+            "coreElements": [
+              "Systematiska undersökningar och granskning av information"
+            ],
+            "verbs": []
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "E",
+            "text": {
+              "local": "Betygskriterier för betyget E i slutet av årskurs 9Eleven visar grundläggande kunskaper om kemins begrepp och förklaringsmodeller. Med viss användning av begreppen och förklaringsmodellerna beskriver och förklarar eleven kemiska samband i naturen, i samhället och i människokroppen. I frågor som rör miljö och hälsa för eleven resonemang samt framför och bemöter argument med viss naturvetenskaplig underbyggnad. Eleven söker information som rör kemi och använder då olika källor och för enkla resonemang om informationens och källornas trovärdighet och relevans. Eleven söker svar på frågor genom att planera och utföra systematiska undersökningar på ett säkert och i huvudsak fungerande sätt. Eleven värderar undersökningarna genom att föra enkla resonemang utifrån frågeställningarna.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "D",
+            "text": {
+              "local": "Betygskriterier för betyget D i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan C och E.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "C",
+            "text": {
+              "local": "Betygskriterier för betyget C i slutet av årskurs 9Eleven visar goda kunskaper om kemins begrepp och förklaringsmodeller. Med relativt god användning av begreppen och förklaringsmodellerna beskriver och förklarar eleven kemiska samband i naturen, i samhället och i människokroppen. I frågor som rör miljö och hälsa för eleven resonemang samt framför och bemöter argument med relativt god naturvetenskaplig underbyggnad. Eleven söker information som rör kemi och använder då olika källor och för utvecklade resonemang om informationens och källornas trovärdighet och relevans. Eleven söker svar på frågor genom att planera och utföra systematiska undersökningar på ett säkert och fungerande sätt. Eleven värderar undersökningarna genom att föra utvecklade resonemang utifrån frågeställningarna.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "B",
+            "text": {
+              "local": "Betygskriterier för betyget B i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan A och C.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "A",
+            "text": {
+              "local": "Betygskriterier för betyget A i slutet av årskurs 9Eleven visar mycket goda kunskaper om kemins begrepp och förklaringsmodeller. Med god användning av begreppen och förklaringsmodellerna beskriver och förklarar eleven kemiska samband i naturen, i samhället och i människokroppen. I frågor som rör miljö och hälsa för eleven resonemang samt framför och bemöter argument med god naturvetenskaplig underbyggnad. Eleven söker information som rör kemi och använder då olika källor och för välutvecklade resonemang om informationens och källornas trovärdighet och relevans. Eleven söker svar på frågor genom att planera och utföra systematiska undersökningar på ett säkert och väl fungerande sätt. Eleven värderar undersökningarna genom att föra välutvecklade resonemang utifrån frågeställningarna.",
+              "en": ""
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
