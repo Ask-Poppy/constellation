@@ -17,55 +17,55 @@
         "code": "",
         "name": {
           "local": "förmåga att formulera sig och kommunicera i tal och skrift, urskilja språkliga strukturer och följa språkliga normer,",
-          "en": ""
+          "en": "the ability to express oneself and communicate in speech and writing, identify linguistic structures and follow linguistic norms,"
         },
         "description": {
           "local": "förmåga att formulera sig och kommunicera i tal och skrift, urskilja språkliga strukturer och följa språkliga normer,",
-          "en": ""
+          "en": "the ability to express oneself and communicate in speech and writing, identify linguistic structures and follow linguistic norms,"
         }
       },
       {
         "code": "",
         "name": {
           "local": "förmåga att anpassa språket efter olika syften, mottagare och sammanhang,",
-          "en": ""
+          "en": "the ability to adapt language to different purposes, audiences and contexts,"
         },
         "description": {
           "local": "förmåga att anpassa språket efter olika syften, mottagare och sammanhang,",
-          "en": ""
+          "en": "the ability to adapt language to different purposes, audiences and contexts,"
         }
       },
       {
         "code": "",
         "name": {
           "local": "förmåga att läsa och analysera skönlitteratur och andra texter för olika syften,",
-          "en": ""
+          "en": "the ability to read and analyse fiction and other texts for different purposes,"
         },
         "description": {
           "local": "förmåga att läsa och analysera skönlitteratur och andra texter för olika syften,",
-          "en": ""
+          "en": "the ability to read and analyse fiction and other texts for different purposes,"
         }
       },
       {
         "code": "",
         "name": {
           "local": "förmåga att använda sitt modersmål som ett medel för sin språkutveckling och sitt lärande, och",
-          "en": ""
+          "en": "the ability to use one's mother tongue as a means for language development and learning, and"
         },
         "description": {
           "local": "förmåga att använda sitt modersmål som ett medel för sin språkutveckling och sitt lärande, och",
-          "en": ""
+          "en": "the ability to use one's mother tongue as a means for language development and learning, and"
         }
       },
       {
         "code": "",
         "name": {
           "local": "kunskaper om traditioner, kulturella företeelser och samhällsfrågor i områden där modersmålet talas i jämförelse med förhållanden i Sverige.",
-          "en": ""
+          "en": "knowledge of traditions, cultural phenomena and societal issues in areas where the mother tongue is spoken, in comparison with conditions in Sweden."
         },
         "description": {
           "local": "kunskaper om traditioner, kulturella företeelser och samhällsfrågor i områden där modersmålet talas i jämförelse med förhållanden i Sverige.",
-          "en": ""
+          "en": "knowledge of traditions, cultural phenomena and societal issues in areas where the mother tongue is spoken, in comparison with conditions in Sweden."
         }
       }
     ],
@@ -81,7 +81,7 @@
             "code": "ML-1-3-1",
             "text": {
               "local": "Lässtrategier för att förstå och tolka texter från olika medier samt för att an­passa läsningen efter textens form och innehåll.",
-              "en": ""
+              "en": "Reading strategies for understanding and interpreting texts from different media, and for adapting reading to the form and content of the text."
             },
             "coreElements": [
               "Läsa och skriva"
@@ -95,7 +95,7 @@
             "code": "ML-1-3-2",
             "text": {
               "local": "Strategier för skrivande av olika typer av texter om ämnen som är väl­be­kanta för eleven.",
-              "en": ""
+              "en": "Strategies for writing different types of texts about topics that are well known to the pupil."
             },
             "coreElements": [
               "Läsa och skriva"
@@ -106,7 +106,7 @@
             "code": "ML-1-3-3",
             "text": {
               "local": "Läsriktning och skrivteckens form och ljud i jämförelse med svenska.",
-              "en": ""
+              "en": "Reading direction and the form and sounds of characters in comparison with Swedish."
             },
             "coreElements": [
               "Läsa och skriva"
@@ -117,7 +117,7 @@
             "code": "ML-1-3-4",
             "text": {
               "local": "Ordföljd och interpunktion samt stavningsregler för vanligt förekommande ord i elevnära texter. Jämförelser med svenskans ordföljd, interpunktion och stavningsregler.",
-              "en": ""
+              "en": "Word order and punctuation as well as spelling rules for commonly occurring words in texts close to the pupil. Comparisons with Swedish word order, punctuation and spelling rules."
             },
             "coreElements": [
               "Läsa och skriva"
@@ -128,7 +128,7 @@
             "code": "ML-1-3-5",
             "text": {
               "local": "Samtal om vardagliga företeelser och händelser.",
-              "en": ""
+              "en": "Conversations about everyday phenomena and events."
             },
             "coreElements": [
               "Tala, lyssna och samtala"
@@ -139,7 +139,7 @@
             "code": "ML-1-3-6",
             "text": {
               "local": "Muntliga presentationer och muntligt berättande med anpassning till olika mot­tagare. Bilder och andra hjälpmedel som kan stödja presentationen.",
-              "en": ""
+              "en": "Oral presentations and oral storytelling adapted to different audiences. Images and other aids that can support the presentation."
             },
             "coreElements": [
               "Tala, lyssna och samtala"
@@ -150,7 +150,7 @@
             "code": "ML-1-3-7",
             "text": {
               "local": "Uttal, betoning och satsmelodi samt uttalets betydelse för att göra sig för­stådd.",
-              "en": ""
+              "en": "Pronunciation, stress and intonation, and the importance of pronunciation for making oneself understood."
             },
             "coreElements": [
               "Tala, lyssna och samtala"
@@ -161,7 +161,7 @@
             "code": "ML-1-3-8",
             "text": {
               "local": "Modersmålets uttal i jämförelse med svenskans.",
-              "en": ""
+              "en": "The pronunciation of the mother tongue in comparison with Swedish."
             },
             "coreElements": [
               "Tala, lyssna och samtala"
@@ -172,7 +172,7 @@
             "code": "ML-1-3-9",
             "text": {
               "local": "Berättande texter och poetiska texter för barn i form av bilderböcker, ka­pitelböcker, dikter, sagor och sägner från områden där modersmålet talas.",
-              "en": ""
+              "en": "Narrative and poetic texts for children in the form of picture books, chapter books, poems, fairy tales and legends from areas where the mother tongue is spoken."
             },
             "coreElements": [
               "Texter"
@@ -183,7 +183,7 @@
             "code": "ML-1-3-10",
             "text": {
               "local": "Beskrivande och förklarande texter för barn med anknytning till traditioner och företeelser i områden där modersmålet talas.",
-              "en": ""
+              "en": "Descriptive and explanatory texts for children connected to traditions and phenomena in areas where the mother tongue is spoken."
             },
             "coreElements": [
               "Texter"
@@ -197,7 +197,7 @@
             "code": "ML-1-3-11",
             "text": {
               "local": "Muntliga traditioner ur modersmålets tradition, till exempel rim, ramsor och gåtor.",
-              "en": ""
+              "en": "Oral traditions from the mother tongue tradition, for example rhymes, chants and riddles."
             },
             "coreElements": [
               "Texter"
@@ -208,7 +208,7 @@
             "code": "ML-1-3-12",
             "text": {
               "local": "Ord och begrepp för att uttrycka känslor, kunskaper och åsikter.",
-              "en": ""
+              "en": "Words and concepts for expressing feelings, knowledge and opinions."
             },
             "coreElements": [
               "Språkbruk"
@@ -221,7 +221,7 @@
             "code": "ML-1-3-13",
             "text": {
               "local": "Ord och begrepp med anknytning till traditioner och företeelser i områden där modersmålet talas.",
-              "en": ""
+              "en": "Words and concepts connected to traditions and phenomena in areas where the mother tongue is spoken."
             },
             "coreElements": [
               "Språkbruk"
@@ -232,7 +232,7 @@
             "code": "ML-1-3-14",
             "text": {
               "local": "Traditioner och högtider som eleven möter i olika sammanhang.",
-              "en": ""
+              "en": "Traditions and celebrations that the pupil encounters in different contexts."
             },
             "coreElements": [
               "Kultur och samhälle"
@@ -243,7 +243,7 @@
             "code": "ML-1-3-15",
             "text": {
               "local": "Lekar och musik från områden där modersmålet talas.",
-              "en": ""
+              "en": "Games and music from areas where the mother tongue is spoken."
             },
             "coreElements": [
               "Kultur och samhälle"
@@ -263,7 +263,7 @@
             "code": "ML-4-6-1",
             "text": {
               "local": "Lässtrategier för att förstå och tolka texter från olika medier samt för att urskilja texters budskap, både det direkt ut­talade och sådant som är indirekt uttryckt.",
-              "en": ""
+              "en": "Reading strategies for understanding and interpreting texts from different media, and for identifying the messages of texts, both those directly stated and those indirectly expressed."
             },
             "coreElements": [
               "Läsa och skriva"
@@ -277,7 +277,7 @@
             "code": "ML-4-6-2",
             "text": {
               "local": "Strategier för skrivande av olika typer av texter med anpassning till deras upp­byggnad och språkliga drag.",
-              "en": ""
+              "en": "Strategies for writing different types of texts adapted to their structure and linguistic features."
             },
             "coreElements": [
               "Läsa och skriva"
@@ -288,7 +288,7 @@
             "code": "ML-4-6-3",
             "text": {
               "local": "Modersmålets grundläggande struktur i jämförelse med svenskans.",
-              "en": ""
+              "en": "The basic structure of the mother tongue in comparison with Swedish."
             },
             "coreElements": [
               "Läsa och skriva"
@@ -299,7 +299,7 @@
             "code": "ML-4-6-4",
             "text": {
               "local": "Ordböcker och andra hjälpmedel för stavning och ordförståelse.",
-              "en": ""
+              "en": "Dictionaries and other aids for spelling and word comprehension."
             },
             "coreElements": [
               "Läsa och skriva"
@@ -312,7 +312,7 @@
             "code": "ML-4-6-5",
             "text": {
               "local": "Samtal om egna och andras upplevelser samt om vardagliga företeelser och hän­delser.",
-              "en": ""
+              "en": "Conversations about one's own and others' experiences, and about everyday phenomena and events."
             },
             "coreElements": [
               "Tala, lyssna och samtala"
@@ -323,7 +323,7 @@
             "code": "ML-4-6-6",
             "text": {
               "local": "Muntliga presentationer och muntligt berättande med anpassning till olika mot­tagare. Stödord, bilder, digitala medier och verktyg samt andra hjälp­me­del för att planera och genomföra en muntlig presentation.",
-              "en": ""
+              "en": "Oral presentations and oral storytelling adapted to different audiences. Key words, images, digital media and tools as well as other aids for planning and carrying out an oral presentation."
             },
             "coreElements": [
               "Tala, lyssna och samtala"
@@ -337,7 +337,7 @@
             "code": "ML-4-6-7",
             "text": {
               "local": "Uttal, betoning och satsmelodi samt uttalets betydelse för att göra sig för­stådd.",
-              "en": ""
+              "en": "Pronunciation, stress and intonation, and the importance of pronunciation for making oneself understood."
             },
             "coreElements": [
               "Tala, lyssna och samtala"
@@ -348,7 +348,7 @@
             "code": "ML-4-6-8",
             "text": {
               "local": "Modersmålets uttal i jämförelse med svenskans.",
-              "en": ""
+              "en": "The pronunciation of the mother tongue in comparison with Swedish."
             },
             "coreElements": [
               "Tala, lyssna och samtala"
@@ -359,7 +359,7 @@
             "code": "ML-4-6-9",
             "text": {
               "local": "Berättande texter och poetiska texter för barn och unga i form av skön­litte­ratur, sagor och sägner från områden där modersmålet talas. Texter som be­lyser människors villkor och identitets- och livsfrågor.",
-              "en": ""
+              "en": "Narrative and poetic texts for children and young people in the form of fiction, fairy tales and legends from areas where the mother tongue is spoken. Texts that illuminate people's conditions and questions of identity and life."
             },
             "coreElements": [
               "Texter"
@@ -370,7 +370,7 @@
             "code": "ML-4-6-10",
             "text": {
               "local": "Beskrivande, förklarande och instruerande texter för barn och unga med ank­nytning till traditioner och företeelser i områden där modersmålet talas.",
-              "en": ""
+              "en": "Descriptive, explanatory and instructional texts for children and young people connected to traditions and phenomena in areas where the mother tongue is spoken."
             },
             "coreElements": [
               "Texter"
@@ -384,7 +384,7 @@
             "code": "ML-4-6-11",
             "text": {
               "local": "Texters innehåll, typiska språkliga drag samt deras ord och begrepp.",
-              "en": ""
+              "en": "The content of texts, typical linguistic features, and their words and concepts."
             },
             "coreElements": [
               "Texter"
@@ -395,7 +395,7 @@
             "code": "ML-4-6-12",
             "text": {
               "local": "Ord och begrepp för att uttrycka känslor, kunskaper och åsikter. Ords och be­grepps nyanser och värdeladdning.",
-              "en": ""
+              "en": "Words and concepts for expressing feelings, knowledge and opinions. The nuances and connotations of words and concepts."
             },
             "coreElements": [
               "Språkbruk"
@@ -408,7 +408,7 @@
             "code": "ML-4-6-13",
             "text": {
               "local": "Synonymer, motsatsord och andra relationer mellan ord.",
-              "en": ""
+              "en": "Synonyms, antonyms and other relationships between words."
             },
             "coreElements": [
               "Språkbruk"
@@ -419,7 +419,7 @@
             "code": "ML-4-6-14",
             "text": {
               "local": "Seder, bruk och traditioner i områden där modersmålet talas i jämförelse med svenska seder, bruk och traditioner.",
-              "en": ""
+              "en": "Customs, practices and traditions in areas where the mother tongue is spoken, in comparison with Swedish customs, practices and traditions."
             },
             "coreElements": [
               "Kultur och samhälle"
@@ -430,7 +430,7 @@
             "code": "ML-4-6-15",
             "text": {
               "local": "Elevnära företeelser i områden där modersmålet talas i jämförelse med elev­nära företeelser i Sverige.",
-              "en": ""
+              "en": "Phenomena close to the pupil in areas where the mother tongue is spoken, in comparison with phenomena close to the pupil in Sweden."
             },
             "coreElements": [
               "Kultur och samhälle"
@@ -443,35 +443,35 @@
             "gradeStep": "E",
             "text": {
               "local": "Betygskriterier för betyget E i slutet av årskurs 6Eleven samtalar om bekanta ämnen på ett sätt som till viss del upprätthåller samtalen. Dessutom förbereder och genomför eleven muntliga framställningar med i huvudsak fungerande inledning, innehåll och avslutning och viss anpassning till syfte och mottagare. Eleven skriver, utifrån modersmålets särdrag, olika slags texter med begripligt innehåll, i huvudsak fungerande struktur och viss språklig variation. Eleven följer grundläggande regler för språkriktighet med viss säkerhet. Eleven läser olika texter med visst flyt och visar grundläggande läsförståelse. Eleven för enkla resonemang om tydligt framträdande budskap i olika texter. Eleven beskriver på ett enkelt sätt likheter och skillnader i skriftspråk mellan modersmålet och svenska. Eleven beskriver på ett enkelt sätt, även utifrån egna erfarenheter eller kunskaper, om traditioner och företeelser med anknytning till områden där modersmålet talas.",
-              "en": ""
+              "en": "Grading criteria for grade E at the end of year 6. The pupil converses about familiar topics in a way that to some extent sustains the conversations. In addition, the pupil prepares and delivers oral presentations with a mainly functional introduction, content and conclusion, and some adaptation to purpose and audience. The pupil writes, based on the distinctive features of the mother tongue, different kinds of texts with comprehensible content, mainly functional structure and some linguistic variation. The pupil follows basic rules for linguistic correctness with some confidence. The pupil reads different texts with some fluency and demonstrates basic reading comprehension. The pupil presents simple reasoning about clearly prominent messages in different texts. The pupil describes in a simple way similarities and differences in written language between the mother tongue and Swedish. The pupil describes in a simple way, also based on own experiences or knowledge, traditions and phenomena connected to areas where the mother tongue is spoken."
             }
           },
           {
             "gradeStep": "D",
             "text": {
               "local": "Betygskriterier för betyget D i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan C och E.",
-              "en": ""
+              "en": "Grading criteria for grade D at the end of year 6. The pupil's knowledge is assessed overall as being between C and E."
             }
           },
           {
             "gradeStep": "C",
             "text": {
               "local": "Betygskriterier för betyget C i slutet av årskurs 6Eleven samtalar om bekanta ämnen på ett sätt som upprätthåller samtalen relativt väl. Dessutom förbereder och genomför eleven muntliga framställningar med fungerande inledning, innehåll och avslutning och relativt god anpassning till syfte och mottagare. Eleven skriver, utifrån modersmålets särdrag, olika slags texter med relativt tydligt innehåll, fungerande struktur och relativt god språklig variation. Eleven följer grundläggande regler för språkriktighet med relativt god säkerhet. Eleven läser olika texter med relativt gott flyt och visar god läsförståelse. Eleven för utvecklade resonemang om tydligt framträdande budskap i olika texter. Eleven beskriver på ett utvecklat sätt likheter och skillnader i skriftspråk mellan modersmålet och svenska. Eleven beskriver på ett utvecklat sätt, även utifrån egna erfarenheter eller kunskaper, om traditioner och företeelser med anknytning till områden där modersmålet talas.",
-              "en": ""
+              "en": "Grading criteria for grade C at the end of year 6. The pupil converses about familiar topics in a way that sustains the conversations relatively well. In addition, the pupil prepares and delivers oral presentations with a functional introduction, content and conclusion, and relatively good adaptation to purpose and audience. The pupil writes, based on the distinctive features of the mother tongue, different kinds of texts with relatively clear content, functional structure and relatively good linguistic variation. The pupil follows basic rules for linguistic correctness with relatively good confidence. The pupil reads different texts with relatively good fluency and demonstrates good reading comprehension. The pupil presents developed reasoning about clearly prominent messages in different texts. The pupil describes in a developed way similarities and differences in written language between the mother tongue and Swedish. The pupil describes in a developed way, also based on own experiences or knowledge, traditions and phenomena connected to areas where the mother tongue is spoken."
             }
           },
           {
             "gradeStep": "B",
             "text": {
               "local": "Betygskriterier för betyget B i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan A och C.",
-              "en": ""
+              "en": "Grading criteria for grade B at the end of year 6. The pupil's knowledge is assessed overall as being between A and C."
             }
           },
           {
             "gradeStep": "A",
             "text": {
               "local": "Betygskriterier för betyget A i slutet av årskurs 6Eleven samtalar om bekanta ämnen på ett sätt som upprätthåller samtalen väl. Dessutom förbereder och genomför eleven muntliga framställningar med väl fungerande inledning, innehåll och avslutning och god anpassning till syfte och mottagare. Eleven skriver, utifrån modersmålets särdrag, olika slags texter med tydligt innehåll, väl fungerande struktur och god språklig variation. Eleven följer grundläggande regler för språkriktighet med god säkerhet. Eleven läser olika texter med gott flyt och visar mycket god läsförståelse. Eleven för välutvecklade resonemang om tydligt framträdande budskap i olika texter. Eleven beskriver på ett välutvecklat sätt likheter och skillnader i skriftspråk mellan modersmålet och svenska. Eleven beskriver på ett välutvecklat sätt, även utifrån egna erfarenheter eller kunskaper, om traditioner och företeelser med anknytning till områden där modersmålet talas.",
-              "en": ""
+              "en": "Grading criteria for grade A at the end of year 6. The pupil converses about familiar topics in a way that sustains the conversations well. In addition, the pupil prepares and delivers oral presentations with a well-functioning introduction, content and conclusion, and good adaptation to purpose and audience. The pupil writes, based on the distinctive features of the mother tongue, different kinds of texts with clear content, well-functioning structure and good linguistic variation. The pupil follows basic rules for linguistic correctness with good confidence. The pupil reads different texts with good fluency and demonstrates very good reading comprehension. The pupil presents well-developed reasoning about clearly prominent messages in different texts. The pupil describes in a well-developed way similarities and differences in written language between the mother tongue and Swedish. The pupil describes in a well-developed way, also based on own experiences or knowledge, traditions and phenomena connected to areas where the mother tongue is spoken."
             }
           }
         ]
@@ -487,7 +487,7 @@
             "code": "ML-7-9-1",
             "text": {
               "local": "Lässtrategier för att förstå, tolka och analysera olika typer av texter från oli­ka medier. Att urskilja texters syfte, avsändare och sammanhang. Att ur­­skilja innehåll som kan vara explicit eller implicit uttryckt i texten.",
-              "en": ""
+              "en": "Reading strategies for understanding, interpreting and analysing different types of texts from different media. Identifying the purpose, sender and context of texts. Identifying content that may be explicitly or implicitly expressed in the text."
             },
             "coreElements": [
               "Läsa och skriva"
@@ -502,7 +502,7 @@
             "code": "ML-7-9-2",
             "text": {
               "local": "Strategier för skrivande av olika typer av texter med anpassning till deras uppbyggnad och språkliga drag. Skapande av texter där ord, bild och ljud sam­spelar.",
-              "en": ""
+              "en": "Strategies for writing different types of texts adapted to their structure and linguistic features. Creating texts where words, images and sound interact."
             },
             "coreElements": [
               "Läsa och skriva"
@@ -515,7 +515,7 @@
             "code": "ML-7-9-3",
             "text": {
               "local": "Modersmålets grundläggande struktur i jämförelse med svenskan. Ordbildning och meningsbyggnad på modersmålet i jämförelse med sven­s­kan.",
-              "en": ""
+              "en": "The basic structure of the mother tongue in comparison with Swedish. Word formation and sentence construction in the mother tongue in comparison with Swedish."
             },
             "coreElements": [
               "Läsa och skriva"
@@ -526,7 +526,7 @@
             "code": "ML-7-9-4",
             "text": {
               "local": "Hjälpmedel för informationssökning och ordförståelse.",
-              "en": ""
+              "en": "Aids for information searching and word comprehension."
             },
             "coreElements": [
               "Läsa och skriva"
@@ -539,7 +539,7 @@
             "code": "ML-7-9-5",
             "text": {
               "local": "Samtal och diskussioner om ämnen som är välbekanta för eleven samt om tan­kar, känslor, åsikter och aktuella händelser.",
-              "en": ""
+              "en": "Conversations and discussions about topics that are well known to the pupil, and about thoughts, feelings, opinions and current events."
             },
             "coreElements": [
               "Tala, lyssna och samtala"
@@ -550,7 +550,7 @@
             "code": "ML-7-9-6",
             "text": {
               "local": "Muntliga presentationer och muntligt berättande med anpassning av språk, in­ne­håll och disposition efter syfte och mottagare.",
-              "en": ""
+              "en": "Oral presentations and oral storytelling with adaptation of language, content and structure to purpose and audience."
             },
             "coreElements": [
               "Tala, lyssna och samtala"
@@ -561,7 +561,7 @@
             "code": "ML-7-9-7",
             "text": {
               "local": "Uttal, betoning och satsmelodi i jämförelse med svenskan samt olika talade va­riationer av modersmålet.",
-              "en": ""
+              "en": "Pronunciation, stress and intonation in comparison with Swedish, and different spoken varieties of the mother tongue."
             },
             "coreElements": [
               "Tala, lyssna och samtala"
@@ -572,7 +572,7 @@
             "code": "ML-7-9-8",
             "text": {
               "local": "Skönlitteratur för ungdomar från olika tider och områden där modersmålet ta­las. Texter som belyser människors villkor och identitets- och livsfrågor.",
-              "en": ""
+              "en": "Fiction for young people from different eras and areas where the mother tongue is spoken. Texts that illuminate people's conditions and questions of identity and life."
             },
             "coreElements": [
               "Texter"
@@ -583,7 +583,7 @@
             "code": "ML-7-9-9",
             "text": {
               "local": "Språkliga drag, ord och begrepp i skönlitteratur för ungdomar.",
-              "en": ""
+              "en": "Linguistic features, words and concepts in fiction for young people."
             },
             "coreElements": [
               "Texter"
@@ -594,7 +594,7 @@
             "code": "ML-7-9-10",
             "text": {
               "local": "Beskrivande, förklarande, instruerande och argumenterande texter, till exem­pel tidningsartiklar och arbetsbeskrivningar. Texternas syfte, innehåll och typiska språkliga drag.",
-              "en": ""
+              "en": "Descriptive, explanatory, instructional and argumentative texts, for example newspaper articles and work descriptions. The purpose, content and typical linguistic features of the texts."
             },
             "coreElements": [
               "Texter"
@@ -609,7 +609,7 @@
             "code": "ML-7-9-11",
             "text": {
               "local": "Texter som kombinerar ord, bild och ljud och deras språkliga och drama­tur­giska komponenter, till exempel i tv-serier, teaterföreställningar och webb­texter.",
-              "en": ""
+              "en": "Texts that combine words, images and sound, and their linguistic and dramaturgical components, for example in TV series, theatre performances and web texts."
             },
             "coreElements": [
               "Texter"
@@ -620,7 +620,7 @@
             "code": "ML-7-9-12",
             "text": {
               "local": "Ord och begrepp för att uttrycka känslor, kunskaper och åsikter. Ords och be­grepps nyanser och värdeladdning. Bildspråk och idiomatiska uttryck.",
-              "en": ""
+              "en": "Words and concepts for expressing feelings, knowledge and opinions. The nuances and connotations of words and concepts. Figurative language and idiomatic expressions."
             },
             "coreElements": [
               "Språkbruk"
@@ -632,8 +632,8 @@
           {
             "code": "ML-7-9-13",
             "text": {
-              "local": "Översättning av och jämförelser mellan ord, begrepp, fraser och texter på moder­smålet och på svenska.",
-              "en": ""
+              "local": "Översättning av och jämförelser mellan ord, begrepp, fraser och texter på moder­målet och på svenska.",
+              "en": "Translation of and comparisons between words, concepts, phrases and texts in the mother tongue and in Swedish."
             },
             "coreElements": [
               "Språkbruk"
@@ -644,7 +644,7 @@
             "code": "ML-7-9-14",
             "text": {
               "local": "Skillnader i språkanvändning beroende på syfte, mottagare och sam­man­hang. Språkets betydelse för att utöva inflytande.",
-              "en": ""
+              "en": "Differences in language use depending on purpose, audience and context. The importance of language for exercising influence."
             },
             "coreElements": [
               "Språkbruk"
@@ -655,7 +655,7 @@
             "code": "ML-7-9-15",
             "text": {
               "local": "Kulturella uttrycksformer från områden där modersmålet talas, till exempel bild­konst, musik och arkitektur.",
-              "en": ""
+              "en": "Cultural forms of expression from areas where the mother tongue is spoken, for example visual art, music and architecture."
             },
             "coreElements": [
               "Kultur och samhälle"
@@ -666,7 +666,7 @@
             "code": "ML-7-9-16",
             "text": {
               "local": "Aktuella samhällsfrågor i områden där modersmålet talas, i jämförelse med lik­nande frågor i Sverige.",
-              "en": ""
+              "en": "Current societal issues in areas where the mother tongue is spoken, in comparison with similar issues in Sweden."
             },
             "coreElements": [
               "Kultur och samhälle"
@@ -679,35 +679,35 @@
             "gradeStep": "E",
             "text": {
               "local": "Betygskriterier för betyget E i slutet av årskurs 9Eleven samtalar om och diskuterar varierande ämnen på ett sätt som till viss del utvecklar samtalen och diskussionerna. Dessutom förbereder och genomför eleven muntliga framställningar med i huvudsak fungerande struktur, innehåll och viss anpassning till syfte, mottagare och sammanhang. Eleven skriver, utifrån modersmålets särdrag, olika slags texter med viss språklig variation, i huvudsak fungerande struktur och innehåll samt viss anpassning till texttyp, syfte, mottagare och sammanhang. Eleven följer grundläggande regler för språkriktighet med viss säkerhet. Eleven läser olika texter med flyt och visar grundläggande läsförståelse. Dessutom tolkar och för eleven enkla resonemang om budskap i olika texter. Eleven för enkla resonemang om likheter och skillnader i skriftspråk mellan modersmålet och svenska. Dessutom jämför och översätter eleven ord, begrepp och fraser mellan modersmålet och svenska på ett i huvudsak fungerande sätt. Eleven beskriver och resonerar på ett enkelt sätt om traditioner, kulturella företeelser och samhällsfrågor med anknytning till områden där modersmålet talas. Eleven gör då enkla jämförelser med förhållanden i Sverige, även utifrån egna erfarenheter eller kunskaper.",
-              "en": ""
+              "en": "Grading criteria for grade E at the end of year 9. The pupil converses about and discusses varying topics in a way that to some extent develops the conversations and discussions. In addition, the pupil prepares and delivers oral presentations with a mainly functional structure, content and some adaptation to purpose, audience and context. The pupil writes, based on the distinctive features of the mother tongue, different kinds of texts with some linguistic variation, mainly functional structure and content, and some adaptation to text type, purpose, audience and context. The pupil follows basic rules for linguistic correctness with some confidence. The pupil reads different texts with fluency and demonstrates basic reading comprehension. In addition, the pupil interprets and presents simple reasoning about messages in different texts. The pupil presents simple reasoning about similarities and differences in written language between the mother tongue and Swedish. In addition, the pupil compares and translates words, concepts and phrases between the mother tongue and Swedish in a mainly functional way. The pupil describes and reasons in a simple way about traditions, cultural phenomena and societal issues connected to areas where the mother tongue is spoken. The pupil makes simple comparisons with conditions in Sweden, also based on own experiences or knowledge."
             }
           },
           {
             "gradeStep": "D",
             "text": {
               "local": "Betygskriterier för betyget D i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan C och E.",
-              "en": ""
+              "en": "Grading criteria for grade D at the end of year 9. The pupil's knowledge is assessed overall as being between C and E."
             }
           },
           {
             "gradeStep": "C",
             "text": {
               "local": "Betygskriterier för betyget C i slutet av årskurs 9Eleven samtalar om och diskuterar varierande ämnen på ett sätt som utvecklar samtalen och diskussionerna relativt väl. Dessutom förbereder och genomför eleven muntliga framställningar med fungerande struktur, innehåll och relativt god anpassning till syfte, mottagare och sammanhang.Eleven skriver, utifrån modersmålets särdrag, olika slags texter med relativt god språklig variation, fungerande struktur och innehåll samt relativt god anpassning till texttyp, syfte, mottagare och sammanhang. Eleven följer grundläggande regler för språkriktighet med relativt god säkerhet.Eleven läser olika texter med gott flyt och visar god läsförståelse. Dessutom tolkar och för eleven utvecklade resonemang om budskap i olika texter.Eleven för utvecklade resonemang om likheter och skillnader i skriftspråk mellan modersmålet och svenska. Dessutom jämför och översätter eleven ord, begrepp och fraser mellan modersmålet och svenska på ett fungerande sätt.Eleven beskriver och resonerar på ett utvecklat sätt om traditioner, kulturella företeelser och samhällsfrågor med anknytning till områden där modersmålet talas. Eleven gör då utvecklade jämförelser med förhållanden i Sverige, även utifrån egna erfarenheter eller kunskaper.",
-              "en": ""
+              "en": "Grading criteria for grade C at the end of year 9. The pupil converses about and discusses varying topics in a way that develops the conversations and discussions relatively well. In addition, the pupil prepares and delivers oral presentations with functional structure, content and relatively good adaptation to purpose, audience and context. The pupil writes, based on the distinctive features of the mother tongue, different kinds of texts with relatively good linguistic variation, functional structure and content, and relatively good adaptation to text type, purpose, audience and context. The pupil follows basic rules for linguistic correctness with relatively good confidence. The pupil reads different texts with good fluency and demonstrates good reading comprehension. In addition, the pupil interprets and presents developed reasoning about messages in different texts. The pupil presents developed reasoning about similarities and differences in written language between the mother tongue and Swedish. In addition, the pupil compares and translates words, concepts and phrases between the mother tongue and Swedish in a functional way. The pupil describes and reasons in a developed way about traditions, cultural phenomena and societal issues connected to areas where the mother tongue is spoken. The pupil makes developed comparisons with conditions in Sweden, also based on own experiences or knowledge."
             }
           },
           {
             "gradeStep": "B",
             "text": {
               "local": "Betygskriterier för betyget B i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan A och C.",
-              "en": ""
+              "en": "Grading criteria for grade B at the end of year 9. The pupil's knowledge is assessed overall as being between A and C."
             }
           },
           {
             "gradeStep": "A",
             "text": {
               "local": "Betygskriterier för betyget A i slutet av årskurs 9Eleven samtalar om och diskuterar varierande ämnen på ett sätt som utvecklar samtalen och diskussionerna väl. Dessutom förbereder och genomför eleven muntliga framställningar med väl fungerande struktur, innehåll och god anpassning till syfte, mottagare och sammanhang. Eleven skriver, utifrån modersmålets särdrag, olika slags texter med god språklig variation, väl fungerande struktur och innehåll samt god anpassning till texttyp, syfte, mottagare och sammanhang. Eleven följer grundläggande regler för språkriktighet med god säkerhet. Eleven läser olika texter med mycket gott flyt och visar mycket god läsförståelse. Dessutom tolkar och för eleven välutvecklade resonemang om budskap i olika texter. Eleven för välutvecklade resonemang om likheter och skillnader i skriftspråk mellan modersmålet och svenska. Dessutom jämför och översätter eleven ord, begrepp och fraser mellan modersmålet och svenska på ett väl fungerande sätt. Eleven beskriver och resonerar på ett välutvecklat sätt om traditioner, kulturella företeelser och samhällsfrågor med anknytning till områden där modersmålet talas. Eleven gör då välutvecklade jämförelser med förhållanden i Sverige, även utifrån egna erfarenheter eller kunskaper.",
-              "en": ""
+              "en": "Grading criteria for grade A at the end of year 9. The pupil converses about and discusses varying topics in a way that develops the conversations and discussions well. In addition, the pupil prepares and delivers oral presentations with a well-functioning structure, content and good adaptation to purpose, audience and context. The pupil writes, based on the distinctive features of the mother tongue, different kinds of texts with good linguistic variation, well-functioning structure and content, and good adaptation to text type, purpose, audience and context. The pupil follows basic rules for linguistic correctness with good confidence. The pupil reads different texts with very good fluency and demonstrates very good reading comprehension. In addition, the pupil interprets and presents well-developed reasoning about messages in different texts. The pupil presents well-developed reasoning about similarities and differences in written language between the mother tongue and Swedish. In addition, the pupil compares and translates words, concepts and phrases between the mother tongue and Swedish in a well-functioning way. The pupil describes and reasons in a well-developed way about traditions, cultural phenomena and societal issues connected to areas where the mother tongue is spoken. The pupil makes well-developed comparisons with conditions in Sweden, also based on own experiences or knowledge."
             }
           }
         ]

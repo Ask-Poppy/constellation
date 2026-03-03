@@ -17,44 +17,44 @@
         "code": "S1",
         "name": {
           "local": "S1 Arkielämä ja oman elämän hallinta",
-          "en": ""
+          "en": "S1 Everyday life and managing one's own life"
         },
         "description": {
           "local": "Tutustutaan yhteiskunnan toimintaan yksilön, perheen ja muiden lähiyhteisöjen näkökulmasta. Pohditaan, kuinka jokainen voi itse vaikuttaa lähiyhteisön turvallisuuteen ja viihtyisyyteen. Lisäksi perehdytään työntekoon, ammatteihin, omaan rahan käyttöön ja talouden hoitoon sekä vastuulliseen kuluttamiseen arjen tilanteissa.",
-          "en": ""
+          "en": "Students explore how society functions from the perspective of the individual, the family and other local communities. They reflect on how each person can contribute to the safety and comfort of their local community. In addition, students learn about work, occupations, personal money management and financial planning, as well as responsible consumption in everyday situations."
         }
       },
       {
         "code": "S2",
         "name": {
           "local": "S2 Demokraattinen yhteiskunta",
-          "en": ""
+          "en": "S2 Democratic society"
         },
         "description": {
           "local": "Perehdytään erilaisiin oppilasta lähellä oleviin yhteisöihin, niiden jäsenten oikeuksiin ja velvollisuuksiin, sekä harjoitellaan yhteistä päätöksentekoa. Opetuksessa tarkastellaan demokraattisen toiminnan arvoja ja perusperiaatteita kuten ihmisoikeuksia, tasa-arvoa sekä yhdenvertaisuutta. Tutustutaan Suomen eri kulttuureihin ja vähemmistöryhmiin.",
-          "en": ""
+          "en": "Students explore various communities close to them, the rights and obligations of their members, and practise shared decision-making. Teaching examines the values and fundamental principles of democratic action, such as human rights, equality and non-discrimination. Students become acquainted with Finland's different cultures and minority groups."
         }
       },
       {
         "code": "S3",
         "name": {
           "local": "S3 Aktiivinen kansalaisuus ja vaikuttaminen",
-          "en": ""
+          "en": "S3 Active citizenship and civic engagement"
         },
         "description": {
           "local": "Tarkastellaan ja harjoitellaan käytännössä demokraattisen vaikuttamisen ja yhteiskunnassa toimimisen taitoja, joita tarvitaan erilaisten yhteisöjen vastuullisena ja osallistuvana jäsenenä esimerkiksi luokassa, koulussa, erilaisissa harrastuksissa ja järjestöissä, mediassa sekä taloudellisessa toiminnassa. Harjoitellaan yhteistyötä lähiyhteisön toimijoiden kanssa.",
-          "en": ""
+          "en": "Students examine and practise the skills of democratic participation and civic action needed as a responsible and active member of various communities, for example in the classroom, school, different hobbies and organisations, media and economic activity. Students practise cooperation with actors in the local community."
         }
       },
       {
         "code": "S4",
         "name": {
           "local": "S4 Taloudellinen toiminta",
-          "en": ""
+          "en": "S4 Economic activity"
         },
         "description": {
           "local": "Tarkastellaan taloudellista toimintaa ja sen merkitystä. Perehdytään rahankäyttöön ja ansaitsemiseen, sekä säästämiseen ja kestävään kuluttamiseen. Lisäksi tutustutaan käytännön tilanteiden kautta paikallisen talouden toimintaan, kuten lähiympäristön yrityksiin, työpaikkoihin ja palveluiden tuottajiin.",
-          "en": ""
+          "en": "Students examine economic activity and its significance. They learn about spending and earning money, as well as saving and sustainable consumption. In addition, students become acquainted with the local economy through practical situations, such as local businesses, workplaces and service providers."
         }
       }
     ],
@@ -70,13 +70,13 @@
             "code": "T1",
             "text": {
               "local": "T1 ohjata oppilasta kiinnostumaan ympäröivästä yhteiskunnasta ja yhteiskuntaopista tiedonalana",
-              "en": ""
+              "en": "T1 guide the pupil to become interested in the surrounding society and social studies as a field of knowledge"
             },
             "coreElements": [
-              "S1",
-              "S2",
-              "S3",
-              "S4"
+              "S1 Arkielämä ja oman elämän hallinta",
+              "S2 Demokraattinen yhteiskunta",
+              "S3 Aktiivinen kansalaisuus ja vaikuttaminen",
+              "S4 Taloudellinen toiminta"
             ],
             "verbs": []
           },
@@ -84,13 +84,13 @@
             "code": "T2",
             "text": {
               "local": "T2 tukea oppilasta harjaannuttamaan eettistä arviointikykyään liittyen erilaisiin inhimillisiin, yhteiskunnallisiin ja taloudellisiin kysymyksiin",
-              "en": ""
+              "en": "T2 support the pupil in developing their ethical judgement regarding various human, social and economic issues"
             },
             "coreElements": [
-              "S1",
-              "S2",
-              "S3",
-              "S4"
+              "S1 Arkielämä ja oman elämän hallinta",
+              "S2 Demokraattinen yhteiskunta",
+              "S3 Aktiivinen kansalaisuus ja vaikuttaminen",
+              "S4 Taloudellinen toiminta"
             ],
             "verbs": []
           },
@@ -98,12 +98,12 @@
             "code": "T3",
             "text": {
               "local": "T3 ohjata oppilasta hahmottamaan itsensä yksilönä ja erilaisten yhteisöjen jäsenenä, ymmärtämään ihmisoikeuksien ja tasa-arvon merkityksen sekä hahmottamaan yhteiskunnan oikeudellisia periaatteita",
-              "en": ""
+              "en": "T3 guide the pupil to perceive themselves as an individual and as a member of various communities, to understand the significance of human rights and equality, and to grasp the legal principles of society"
             },
             "coreElements": [
-              "S1",
-              "S2",
-              "S3"
+              "S1 Arkielämä ja oman elämän hallinta",
+              "S2 Demokraattinen yhteiskunta",
+              "S3 Aktiivinen kansalaisuus ja vaikuttaminen"
             ],
             "verbs": []
           },
@@ -111,13 +111,13 @@
             "code": "T4",
             "text": {
               "local": "T4 ohjata oppilasta tarkastelemaan median roolia ja merkitystä omassa arjessa ja yhteiskunnassa",
-              "en": ""
+              "en": "T4 guide the pupil to examine the role and significance of media in their own daily life and in society"
             },
             "coreElements": [
-              "S1",
-              "S2",
-              "S3",
-              "S4"
+              "S1 Arkielämä ja oman elämän hallinta",
+              "S2 Demokraattinen yhteiskunta",
+              "S3 Aktiivinen kansalaisuus ja vaikuttaminen",
+              "S4 Taloudellinen toiminta"
             ],
             "verbs": []
           },
@@ -125,11 +125,11 @@
             "code": "T5",
             "text": {
               "local": "T5 ohjata oppilasta oivaltamaan työnteon ja yrittäjyyden merkityksen lähiyhteisössään",
-              "en": ""
+              "en": "T5 guide the pupil to realise the significance of work and entrepreneurship in their local community"
             },
             "coreElements": [
-              "S1",
-              "S4"
+              "S1 Arkielämä ja oman elämän hallinta",
+              "S4 Taloudellinen toiminta"
             ],
             "verbs": []
           },
@@ -137,12 +137,12 @@
             "code": "T6",
             "text": {
               "local": "T6 tukea oppilasta ymmärtämään, että eri toimijoiden tuottamaan yhteiskunnalliseen tietoon liittyy erilaisia arvoja, näkökulmia ja tarkoitusperiä",
-              "en": ""
+              "en": "T6 support the pupil in understanding that social information produced by different actors involves different values, perspectives and purposes"
             },
             "coreElements": [
-              "S1",
-              "S2",
-              "S3"
+              "S1 Arkielämä ja oman elämän hallinta",
+              "S2 Demokraattinen yhteiskunta",
+              "S3 Aktiivinen kansalaisuus ja vaikuttaminen"
             ],
             "verbs": []
           },
@@ -150,12 +150,12 @@
             "code": "T7",
             "text": {
               "local": "T7 kannustaa oppilasta harjoittelemaan demokraattisen vaikuttamisen perustaitoja sekä keskustelemaan rakentavasti eri mielipiteistä",
-              "en": ""
+              "en": "T7 encourage the pupil to practise basic skills of democratic participation and to discuss different opinions constructively"
             },
             "coreElements": [
-              "S1",
-              "S2",
-              "S3"
+              "S1 Arkielämä ja oman elämän hallinta",
+              "S2 Demokraattinen yhteiskunta",
+              "S3 Aktiivinen kansalaisuus ja vaikuttaminen"
             ],
             "verbs": []
           },
@@ -163,11 +163,11 @@
             "code": "T8",
             "text": {
               "local": "T8 tukea oppilasta ymmärtämään oman rahankäytön ja kulutusvalintojen perusteita sekä harjoittelemaan niihin liittyviä taitoja",
-              "en": ""
+              "en": "T8 support the pupil in understanding the bases of personal money management and consumer choices, and in practising related skills"
             },
             "coreElements": [
-              "S1",
-              "S4"
+              "S1 Arkielämä ja oman elämän hallinta",
+              "S4 Taloudellinen toiminta"
             ],
             "verbs": []
           },
@@ -175,11 +175,11 @@
             "code": "T9",
             "text": {
               "local": "T9 kannustaa oppilasta osallistumaan erilaisten yhteisöjen toimintaan ja harjoittelemaan median käyttöä turvallisella ja yhteiskunnallisesti tiedostavalla tavalla",
-              "en": ""
+              "en": "T9 encourage the pupil to participate in the activities of various communities and to practise using media in a safe and socially aware manner"
             },
             "coreElements": [
-              "S1",
-              "S3"
+              "S1 Arkielämä ja oman elämän hallinta",
+              "S3 Aktiivinen kansalaisuus ja vaikuttaminen"
             ],
             "verbs": []
           }
@@ -196,13 +196,13 @@
             "code": "T1",
             "text": {
               "local": "T1 ohjata oppilasta syventämään kiinnostustaan ympäröivään yhteiskuntaan ja vahvistaa oppilaan kiinnostusta yhteiskuntaoppiin tiedonalana",
-              "en": ""
+              "en": "T1 guide the pupil to deepen their interest in the surrounding society and strengthen their interest in social studies as a field of knowledge"
             },
             "coreElements": [
-              "S4",
-              "S3",
-              "S2",
-              "S1"
+              "S4 Taloudellinen toiminta",
+              "S3 Aktiivinen kansalaisuus ja vaikuttaminen",
+              "S2 Demokraattinen yhteiskunta",
+              "S1 Arkielämä ja oman elämän hallinta"
             ],
             "verbs": []
           },
@@ -210,13 +210,13 @@
             "code": "T2",
             "text": {
               "local": "T2 ohjata oppilasta harjaannuttamaan eettistä arviointikykyään liittyen erilaisiin inhimillisiin, yhteiskunnallisiin ja taloudellisiin kysymyksiin",
-              "en": ""
+              "en": "T2 guide the pupil to develop their ethical judgement regarding various human, social and economic issues"
             },
             "coreElements": [
-              "S4",
-              "S3",
-              "S2",
-              "S1"
+              "S4 Taloudellinen toiminta",
+              "S3 Aktiivinen kansalaisuus ja vaikuttaminen",
+              "S2 Demokraattinen yhteiskunta",
+              "S1 Arkielämä ja oman elämän hallinta"
             ],
             "verbs": []
           },
@@ -224,11 +224,11 @@
             "code": "T3",
             "text": {
               "local": "T3 ohjata oppilasta ymmärtämään oikeusvaltion periaatteita, ihmisoikeuksien yleismaailmallista merkitystä sekä syventämään tietojaan suomalaisen oikeusjärjestelmän toiminnasta",
-              "en": ""
+              "en": "T3 guide the pupil to understand the principles of the rule of law, the universal significance of human rights, and to deepen their knowledge of how the Finnish legal system operates"
             },
             "coreElements": [
-              "S3",
-              "S2"
+              "S3 Aktiivinen kansalaisuus ja vaikuttaminen",
+              "S2 Demokraattinen yhteiskunta"
             ],
             "verbs": []
           },
@@ -236,12 +236,12 @@
             "code": "T4",
             "text": {
               "local": "T4 ohjata oppilasta syventämään ja pitämään ajan tasalla yhteiskuntaa, talouden toimintaa ja yksityistä taloudenpitoa koskevia tietojaan ja taitojaan sekä arvioimaan kriittisesti median roolia ja merkitystä",
-              "en": ""
+              "en": "T4 guide the pupil to deepen and keep up to date their knowledge and skills regarding society, the functioning of the economy and personal finances, and to critically evaluate the role and significance of media"
             },
             "coreElements": [
-              "S3",
-              "S2",
-              "S1"
+              "S3 Aktiivinen kansalaisuus ja vaikuttaminen",
+              "S2 Demokraattinen yhteiskunta",
+              "S1 Arkielämä ja oman elämän hallinta"
             ],
             "verbs": []
           },
@@ -249,11 +249,11 @@
             "code": "T5",
             "text": {
               "local": "T5 rohkaista oppilasta kehittymään yritteliääksi ja vastuulliseksi taloudelliseksi toimijaksi, joka tuntee yrittäjyyttä ja työelämää sekä niiden tarjoamia mahdollisuuksia ja osaa suunnitella omaa tulevaisuuttaan",
-              "en": ""
+              "en": "T5 encourage the pupil to develop into an enterprising and responsible economic actor who is familiar with entrepreneurship and working life as well as the opportunities they offer, and who can plan their own future"
             },
             "coreElements": [
-              "S4",
-              "S1"
+              "S4 Taloudellinen toiminta",
+              "S1 Arkielämä ja oman elämän hallinta"
             ],
             "verbs": []
           },
@@ -261,12 +261,12 @@
             "code": "T6",
             "text": {
               "local": "T6 ohjata oppilasta tarkastelemaan yhteiskunnallista toimintaa sekä eri yhteisöjä ja vähemmistöryhmiä monipuolisesti ja avarakatseisesti",
-              "en": ""
+              "en": "T6 guide the pupil to examine social activities as well as different communities and minority groups in a versatile and open-minded manner"
             },
             "coreElements": [
-              "S3",
-              "S2",
-              "S1"
+              "S3 Aktiivinen kansalaisuus ja vaikuttaminen",
+              "S2 Demokraattinen yhteiskunta",
+              "S1 Arkielämä ja oman elämän hallinta"
             ],
             "verbs": []
           },
@@ -274,12 +274,12 @@
             "code": "T7",
             "text": {
               "local": "T7 ohjata oppilasta ymmärtämään yhteiskunnallisen päätöksenteon periaatteita ja demokraattisia toimintatapoja paikallisella, kansallisella ja Euroopan unionin tasolla sekä globaalisti ja toimimaan aktiivisena, omaa lähiyhteisöä kehittävänä kansalaisena",
-              "en": ""
+              "en": "T7 guide the pupil to understand the principles of social decision-making and democratic procedures at the local, national and European Union levels as well as globally, and to act as an active citizen who contributes to developing their local community"
             },
             "coreElements": [
-              "S3",
-              "S2",
-              "S1"
+              "S3 Aktiivinen kansalaisuus ja vaikuttaminen",
+              "S2 Demokraattinen yhteiskunta",
+              "S1 Arkielämä ja oman elämän hallinta"
             ],
             "verbs": []
           },
@@ -287,11 +287,11 @@
             "code": "T8",
             "text": {
               "local": "T8 ohjata oppilasta talouden perusteiden ymmärtämiseen, oman talouden hallintaan ja vastuulliseen kuluttamiseen kestävän kehityksen periaatteiden mukaisesti",
-              "en": ""
+              "en": "T8 guide the pupil to understand the basics of economics, to manage personal finances and to consume responsibly in accordance with the principles of sustainable development"
             },
             "coreElements": [
-              "S4",
-              "S1"
+              "S4 Taloudellinen toiminta",
+              "S1 Arkielämä ja oman elämän hallinta"
             ],
             "verbs": []
           },
@@ -299,13 +299,13 @@
             "code": "T9",
             "text": {
               "local": "T9 ohjata oppilasta laajentamaan näkemyksiään, osallistumaan yhteiskunnalliseen toimintaan ja keskusteluun sekä käyttämään mediataitojaan ja tietojaan yhteiskunnasta omien käsitystensä muodostamisessa ja kansalaisena toimimisessa",
-              "en": ""
+              "en": "T9 guide the pupil to broaden their views, to participate in social activities and discussion, and to use their media skills and knowledge of society in forming their own opinions and acting as a citizen"
             },
             "coreElements": [
-              "S4",
-              "S3",
-              "S2",
-              "S1"
+              "S4 Taloudellinen toiminta",
+              "S3 Aktiivinen kansalaisuus ja vaikuttaminen",
+              "S2 Demokraattinen yhteiskunta",
+              "S1 Arkielämä ja oman elämän hallinta"
             ],
             "verbs": []
           }

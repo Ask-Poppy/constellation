@@ -62,9 +62,9 @@
               "en": ""
             },
             "coreElements": [
-              "S1",
-              "S2",
-              "S3"
+              "S1 Suhde omaan uskontoon",
+              "S2 Uskontojen maailma",
+              "S3 Hyvä elämä"
             ],
             "verbs": []
           },
@@ -75,7 +75,7 @@
               "en": ""
             },
             "coreElements": [
-              "S1"
+              "S1 Suhde omaan uskontoon"
             ],
             "verbs": []
           },
@@ -86,7 +86,7 @@
               "en": ""
             },
             "coreElements": [
-              "S1"
+              "S1 Suhde omaan uskontoon"
             ],
             "verbs": []
           },
@@ -97,7 +97,7 @@
               "en": ""
             },
             "coreElements": [
-              "S2"
+              "S2 Uskontojen maailma"
             ],
             "verbs": []
           },
@@ -108,8 +108,8 @@
               "en": ""
             },
             "coreElements": [
-              "S1",
-              "S3"
+              "S1 Suhde omaan uskontoon",
+              "S3 Hyvä elämä"
             ],
             "verbs": []
           },
@@ -120,9 +120,9 @@
               "en": ""
             },
             "coreElements": [
-              "S1",
-              "S2",
-              "S3"
+              "S1 Suhde omaan uskontoon",
+              "S2 Uskontojen maailma",
+              "S3 Hyvä elämä"
             ],
             "verbs": []
           },
@@ -133,7 +133,7 @@
               "en": ""
             },
             "coreElements": [
-              "S3"
+              "S3 Hyvä elämä"
             ],
             "verbs": []
           },
@@ -144,8 +144,8 @@
               "en": ""
             },
             "coreElements": [
-              "S1",
-              "S3"
+              "S1 Suhde omaan uskontoon",
+              "S3 Hyvä elämä"
             ],
             "verbs": []
           }
@@ -165,7 +165,7 @@
               "en": ""
             },
             "coreElements": [
-              "S1"
+              "S1 Suhde omaan uskontoon"
             ],
             "verbs": []
           },
@@ -176,7 +176,7 @@
               "en": ""
             },
             "coreElements": [
-              "S1"
+              "S1 Suhde omaan uskontoon"
             ],
             "verbs": []
           },
@@ -187,8 +187,8 @@
               "en": ""
             },
             "coreElements": [
-              "S2",
-              "S1"
+              "S2 Uskontojen maailma",
+              "S1 Suhde omaan uskontoon"
             ],
             "verbs": []
           },
@@ -199,9 +199,9 @@
               "en": ""
             },
             "coreElements": [
-              "S2",
-              "S3",
-              "S1"
+              "S2 Uskontojen maailma",
+              "S3 Hyvä elämä",
+              "S1 Suhde omaan uskontoon"
             ],
             "verbs": []
           },
@@ -212,8 +212,8 @@
               "en": ""
             },
             "coreElements": [
-              "S2",
-              "S1"
+              "S2 Uskontojen maailma",
+              "S1 Suhde omaan uskontoon"
             ],
             "verbs": []
           },
@@ -224,8 +224,8 @@
               "en": ""
             },
             "coreElements": [
-              "S2",
-              "S3"
+              "S2 Uskontojen maailma",
+              "S3 Hyvä elämä"
             ],
             "verbs": []
           },
@@ -236,9 +236,9 @@
               "en": ""
             },
             "coreElements": [
-              "S2",
-              "S3",
-              "S1"
+              "S2 Uskontojen maailma",
+              "S3 Hyvä elämä",
+              "S1 Suhde omaan uskontoon"
             ],
             "verbs": []
           },
@@ -249,9 +249,9 @@
               "en": ""
             },
             "coreElements": [
-              "S2",
-              "S3",
-              "S1"
+              "S2 Uskontojen maailma",
+              "S3 Hyvä elämä",
+              "S1 Suhde omaan uskontoon"
             ],
             "verbs": []
           },
@@ -262,8 +262,8 @@
               "en": ""
             },
             "coreElements": [
-              "S2",
-              "S3"
+              "S2 Uskontojen maailma",
+              "S3 Hyvä elämä"
             ],
             "verbs": []
           },
@@ -274,8 +274,8 @@
               "en": ""
             },
             "coreElements": [
-              "S2",
-              "S3"
+              "S2 Uskontojen maailma",
+              "S3 Hyvä elämä"
             ],
             "verbs": []
           },
@@ -286,9 +286,9 @@
               "en": ""
             },
             "coreElements": [
-              "S2",
-              "S3",
-              "S1"
+              "S2 Uskontojen maailma",
+              "S3 Hyvä elämä",
+              "S1 Suhde omaan uskontoon"
             ],
             "verbs": []
           },
@@ -299,7 +299,7 @@
               "en": ""
             },
             "coreElements": [
-              "S3"
+              "S3 Hyvä elämä"
             ],
             "verbs": []
           }
@@ -319,8 +319,8 @@
               "en": ""
             },
             "coreElements": [
-              "S1",
-              "S2"
+              "S1 Suhde omaan uskontoon",
+              "S2 Uskontojen maailma"
             ],
             "verbs": []
           },
@@ -331,7 +331,7 @@
               "en": ""
             },
             "coreElements": [
-              "S1"
+              "S1 Suhde omaan uskontoon"
             ],
             "verbs": []
           },
@@ -342,7 +342,7 @@
               "en": ""
             },
             "coreElements": [
-              "S2"
+              "S2 Uskontojen maailma"
             ],
             "verbs": []
           },
@@ -353,9 +353,9 @@
               "en": ""
             },
             "coreElements": [
-              "S1",
-              "S2",
-              "S3"
+              "S1 Suhde omaan uskontoon",
+              "S2 Uskontojen maailma",
+              "S3 Hyvä elämä"
             ],
             "verbs": []
           },
@@ -366,8 +366,8 @@
               "en": ""
             },
             "coreElements": [
-              "S1",
-              "S3"
+              "S1 Suhde omaan uskontoon",
+              "S3 Hyvä elämä"
             ],
             "verbs": []
           },
@@ -378,7 +378,7 @@
               "en": ""
             },
             "coreElements": [
-              "S3"
+              "S3 Hyvä elämä"
             ],
             "verbs": []
           },
@@ -389,8 +389,8 @@
               "en": ""
             },
             "coreElements": [
-              "S1",
-              "S3"
+              "S1 Suhde omaan uskontoon",
+              "S3 Hyvä elämä"
             ],
             "verbs": []
           },
@@ -401,8 +401,8 @@
               "en": ""
             },
             "coreElements": [
-              "S2",
-              "S3"
+              "S2 Uskontojen maailma",
+              "S3 Hyvä elämä"
             ],
             "verbs": []
           },
@@ -413,8 +413,8 @@
               "en": ""
             },
             "coreElements": [
-              "S2",
-              "S3"
+              "S2 Uskontojen maailma",
+              "S3 Hyvä elämä"
             ],
             "verbs": []
           },
@@ -425,9 +425,9 @@
               "en": ""
             },
             "coreElements": [
-              "S1",
-              "S2",
-              "S3"
+              "S1 Suhde omaan uskontoon",
+              "S2 Uskontojen maailma",
+              "S3 Hyvä elämä"
             ],
             "verbs": []
           }

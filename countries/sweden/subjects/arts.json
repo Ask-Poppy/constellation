@@ -17,44 +17,44 @@
         "code": "",
         "name": {
           "local": "förmåga att kommunicera med bilder för att uttrycka budskap,",
-          "en": ""
+          "en": "the ability to communicate with images to express messages,"
         },
         "description": {
           "local": "förmåga att kommunicera med bilder för att uttrycka budskap,",
-          "en": ""
+          "en": "the ability to communicate with images to express messages,"
         }
       },
       {
         "code": "",
         "name": {
           "local": "förmåga att skapa bilder med olika tekniker, verktyg och material,",
-          "en": ""
+          "en": "the ability to create images using different techniques, tools and materials,"
         },
         "description": {
           "local": "förmåga att skapa bilder med olika tekniker, verktyg och material,",
-          "en": ""
+          "en": "the ability to create images using different techniques, tools and materials,"
         }
       },
       {
         "code": "",
         "name": {
           "local": "förmåga att utveckla idéer samt välja och motivera tillvägagångssätt utifrån syftet med bildarbetet, och",
-          "en": ""
+          "en": "the ability to develop ideas and to choose and justify approaches based on the purpose of the image work, and"
         },
         "description": {
           "local": "förmåga att utveckla idéer samt välja och motivera tillvägagångssätt utifrån syftet med bildarbetet, och",
-          "en": ""
+          "en": "the ability to develop ideas and to choose and justify approaches based on the purpose of the image work, and"
         }
       },
       {
         "code": "",
         "name": {
           "local": "förmåga att analysera samtida och historiska bilders innehåll, uttryck och funktioner.",
-          "en": ""
+          "en": "the ability to analyse the content, expression and functions of contemporary and historical images."
         },
         "description": {
           "local": "förmåga att analysera samtida och historiska bilders innehåll, uttryck och funktioner.",
-          "en": ""
+          "en": "the ability to analyse the content, expression and functions of contemporary and historical images."
         }
       }
     ],
@@ -70,7 +70,7 @@
             "code": "BL-1-3-1",
             "text": {
               "local": "Framställning av berättande bilder, till exempel sagobilder och illustrationer till berättelser.",
-              "en": ""
+              "en": "Production of narrative images, for example fairy tale pictures and illustrations for stories."
             },
             "coreElements": [
               "Bildframställning"
@@ -81,7 +81,7 @@
             "code": "BL-1-3-2",
             "text": {
               "local": "Teckning, måleri, modellering och konstruktion.",
-              "en": ""
+              "en": "Drawing, painting, modelling and construction."
             },
             "coreElements": [
               "Bildframställning"
@@ -92,7 +92,7 @@
             "code": "BL-1-3-3",
             "text": {
               "local": "Återanvändning av bilder, till exempel i kollage.",
-              "en": ""
+              "en": "Reuse of images, for example in collage."
             },
             "coreElements": [
               "Bildframställning"
@@ -103,7 +103,7 @@
             "code": "BL-1-3-4",
             "text": {
               "local": "Fotografering och överföring av bilder med hjälp av digitala verktyg.",
-              "en": ""
+              "en": "Photography and transfer of images using digital tools."
             },
             "coreElements": [
               "Bildframställning"
@@ -114,7 +114,7 @@
             "code": "BL-1-3-5",
             "text": {
               "local": "Etiska frågor som kan uppstå vid framställning och användning av bilder i olika sammanhang.",
-              "en": ""
+              "en": "Ethical questions that may arise in the production and use of images in different contexts."
             },
             "coreElements": [
               "Bildframställning"
@@ -125,7 +125,7 @@
             "code": "BL-1-3-6",
             "text": {
               "local": "Olika element som bygger upp form, yta samt för- och bakgrund i en bild, till exempel linjer och färg.",
-              "en": ""
+              "en": "Different elements that build up form, surface, as well as foreground and background in an image, for example lines and colour."
             },
             "coreElements": [
               "Tekniker, verktyg och material"
@@ -136,7 +136,7 @@
             "code": "BL-1-3-7",
             "text": {
               "local": "Några verktyg och material för teckning, måleri, modellering och konstruktioner samt för fotografering och annat digitalt arbete med bilder.",
-              "en": ""
+              "en": "Some tools and materials for drawing, painting, modelling and construction, as well as for photography and other digital work with images."
             },
             "coreElements": [
               "Tekniker, verktyg och material"
@@ -147,7 +147,7 @@
             "code": "BL-1-3-8",
             "text": {
               "local": "Samtida och historiska bilder och vad bilderna berättar, till exempel dokumentära bilder och konstbilder.",
-              "en": ""
+              "en": "Contemporary and historical images and what the images tell, for example documentary images and art images."
             },
             "coreElements": [
               "Bildanalys"
@@ -158,7 +158,7 @@
             "code": "BL-1-3-9",
             "text": {
               "local": "Bilder ur elevernas visuella kulturer som gestaltar normer och stereotyper.",
-              "en": ""
+              "en": "Images from the pupils' visual cultures that portray norms and stereotypes."
             },
             "coreElements": [
               "Bildanalys"
@@ -180,7 +180,7 @@
             "code": "BL-4-6-1",
             "text": {
               "local": "Framställning av berättande och informativa bilder, till exempel serier och illustrationer till text.",
-              "en": ""
+              "en": "Production of narrative and informative images, for example comic strips and illustrations for text."
             },
             "coreElements": [
               "Bildframställning"
@@ -191,7 +191,7 @@
             "code": "BL-4-6-2",
             "text": {
               "local": "Teckning, måleri, tryck och tredimensionellt arbete.",
-              "en": ""
+              "en": "Drawing, painting, printmaking and three-dimensional work."
             },
             "coreElements": [
               "Bildframställning"
@@ -202,7 +202,7 @@
             "code": "BL-4-6-3",
             "text": {
               "local": "Återanvändning och bearbetning av bilder, till exempel i kollage och bildmontage.",
-              "en": ""
+              "en": "Reuse and processing of images, for example in collage and photomontage."
             },
             "coreElements": [
               "Bildframställning"
@@ -213,7 +213,7 @@
             "code": "BL-4-6-4",
             "text": {
               "local": "Fotografi, film och annat digitalt bildskapande samt redigering av fotografi och rörlig bild.",
-              "en": ""
+              "en": "Photography, film and other digital image creation, as well as editing of photographs and moving images."
             },
             "coreElements": [
               "Bildframställning"
@@ -226,7 +226,7 @@
             "code": "BL-4-6-5",
             "text": {
               "local": "Rättigheter och skyldigheter samt etiska frågeställningar vid användning av bilder i olika sammanhang.",
-              "en": ""
+              "en": "Rights and obligations, as well as ethical issues when using images in different contexts."
             },
             "coreElements": [
               "Bildframställning"
@@ -237,7 +237,7 @@
             "code": "BL-4-6-6",
             "text": {
               "local": "Olika element som bygger upp och skapar rumslighet i två- och tredimensionella bilder, till exempel linjer, färg och hur kombinationer av dessa kan användas i bildskapande arbete.",
-              "en": ""
+              "en": "Different elements that build up and create spatiality in two- and three-dimensional images, for example lines, colour and how combinations of these can be used in image-making work."
             },
             "coreElements": [
               "Tekniker, verktyg och material"
@@ -251,7 +251,7 @@
             "code": "BL-4-6-7",
             "text": {
               "local": "Verktyg och material för teckning, måleri, trycktekniker, tredimensionellt arbete, fotografering, arbete med rörlig bild och digital bildbehandling.",
-              "en": ""
+              "en": "Tools and materials for drawing, painting, print techniques, three-dimensional work, photography, work with moving images and digital image processing."
             },
             "coreElements": [
               "Tekniker, verktyg och material"
@@ -262,7 +262,7 @@
             "code": "BL-4-6-8",
             "text": {
               "local": "Konst- och dokumentärbilder samt arkitektur från olika tider och kulturer.",
-              "en": ""
+              "en": "Art and documentary images, as well as architecture from different times and cultures."
             },
             "coreElements": [
               "Bildanalys"
@@ -273,7 +273,7 @@
             "code": "BL-4-6-9",
             "text": {
               "local": "Mediebilder, till exempel reklam- och nyhetsbilder.",
-              "en": ""
+              "en": "Media images, for example advertising and news images."
             },
             "coreElements": [
               "Bildanalys"
@@ -284,7 +284,7 @@
             "code": "BL-4-6-10",
             "text": {
               "local": "Bilder ur elevernas visuella kulturer som gestaltar identitet, grupptillhörighet och normer.",
-              "en": ""
+              "en": "Images from the pupils' visual cultures that portray identity, group belonging and norms."
             },
             "coreElements": [
               "Bildanalys"
@@ -297,7 +297,7 @@
             "code": "BL-4-6-11",
             "text": {
               "local": "Hur bilder påverkar och förmedlar budskap. Ord och begrepp för att kunna samtala om bilders innehåll, uttryck och funktioner.",
-              "en": ""
+              "en": "How images influence and convey messages. Words and concepts for discussing the content, expression and functions of images."
             },
             "coreElements": [
               "Bildanalys"
@@ -312,35 +312,35 @@
             "gradeStep": "E",
             "text": {
               "local": "Betygskriterier för betyget E i slutet av årskurs 6Eleven framställer olika typer av bilder med delvis genomarbetade uttrycksformer. I bildarbetet använder eleven olika tekniker, verktyg och material på ett i huvudsak fungerande sätt. Utifrån syftet med bildarbetet och någon idé väljer eleven ett i huvudsak fungerande tillvägagångssätt. Under arbetsprocessen bidrar eleven till att formulera och välja handlingsalternativ. Eleven beskriver bilders innehåll och funktion på ett enkelt sätt.",
-              "en": ""
+              "en": "Grading criteria for grade E at the end of year 6. The pupil produces different types of images with partially developed forms of expression. In the image work, the pupil uses different techniques, tools and materials in a basically functional way. Based on the purpose of the image work and an idea, the pupil chooses a basically functional approach. During the work process, the pupil contributes to formulating and choosing courses of action. The pupil describes the content and function of images in a simple way."
             }
           },
           {
             "gradeStep": "D",
             "text": {
               "local": "Betygskriterier för betyget D i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan C och E.",
-              "en": ""
+              "en": "Grading criteria for grade D at the end of year 6. The pupil's knowledge is assessed overall as being between C and E."
             }
           },
           {
             "gradeStep": "C",
             "text": {
               "local": "Betygskriterier för betyget C i slutet av årskurs 6Eleven framställer olika typer av bilder med genomarbetade uttrycksformer. I bildarbetet använder eleven olika tekniker, verktyg och material på ett fungerande sätt. Utifrån syftet med bildarbetet och någon idé väljer eleven ett fungerande tillvägagångssätt. Under arbetsprocessen formulerar och väljer eleven handlingsalternativ som efter någon bearbetning leder framåt. Eleven beskriver bilders innehåll och funktion på ett utvecklat sätt.",
-              "en": ""
+              "en": "Grading criteria for grade C at the end of year 6. The pupil produces different types of images with developed forms of expression. In the image work, the pupil uses different techniques, tools and materials in a functional way. Based on the purpose of the image work and an idea, the pupil chooses a functional approach. During the work process, the pupil formulates and chooses courses of action that, after some processing, lead forward. The pupil describes the content and function of images in a developed way."
             }
           },
           {
             "gradeStep": "B",
             "text": {
               "local": "Betygskriterier för betyget B i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan A och C.",
-              "en": ""
+              "en": "Grading criteria for grade B at the end of year 6. The pupil's knowledge is assessed overall as being between A and C."
             }
           },
           {
             "gradeStep": "A",
             "text": {
               "local": "Betygskriterier för betyget A i slutet av årskurs 6Eleven framställer olika typer av bilder med väl genomarbetade uttrycksformer. I bildarbetet använder eleven olika tekniker, verktyg och material på ett väl fungerande sätt. Utifrån syftet med bildarbetet och någon idé väljer eleven ett väl fungerande tillvägagångssätt. Under arbetsprocessen formulerar och väljer eleven handlingsalternativ som leder framåt. Eleven beskriver bilders innehåll och funktion på ett välutvecklat sätt.",
-              "en": ""
+              "en": "Grading criteria for grade A at the end of year 6. The pupil produces different types of images with well-developed forms of expression. In the image work, the pupil uses different techniques, tools and materials in a well-functioning way. Based on the purpose of the image work and an idea, the pupil chooses a well-functioning approach. During the work process, the pupil formulates and chooses courses of action that lead forward. The pupil describes the content and function of images in a well-developed way."
             }
           }
         ]
@@ -356,7 +356,7 @@
             "code": "BL-7-9-1",
             "text": {
               "local": "Framställning av berättande, informativa och samhällsorienterande bilder om frågor som är angelägna för eleverna.",
-              "en": ""
+              "en": "Production of narrative, informative and socially oriented images about issues that are important to the pupils."
             },
             "coreElements": [
               "Bildframställning"
@@ -367,7 +367,7 @@
             "code": "BL-7-9-2",
             "text": {
               "local": "Två- och tredimensionellt bildarbete.",
-              "en": ""
+              "en": "Two- and three-dimensional image work."
             },
             "coreElements": [
               "Bildframställning"
@@ -378,7 +378,7 @@
             "code": "BL-7-9-3",
             "text": {
               "local": "Kombinationer av bild, ljud, objekt och text i eget bildskapande.",
-              "en": ""
+              "en": "Combinations of image, sound, objects and text in own image creation."
             },
             "coreElements": [
               "Bildframställning"
@@ -391,7 +391,7 @@
             "code": "BL-7-9-4",
             "text": {
               "local": "Digitalt skapande och digital bearbetning av fotografier, rörlig bild och andra typer av bilder.",
-              "en": ""
+              "en": "Digital creation and digital processing of photographs, moving images and other types of images."
             },
             "coreElements": [
               "Bildframställning"
@@ -404,7 +404,7 @@
             "code": "BL-7-9-5",
             "text": {
               "local": "Presentationer av eget bildskapande från idé och process till slutgiltigt resultat.",
-              "en": ""
+              "en": "Presentations of own image creation from idea and process to final result."
             },
             "coreElements": [
               "Bildframställning"
@@ -417,7 +417,7 @@
             "code": "BL-7-9-6",
             "text": {
               "local": "Rättigheter och skyldigheter samt etiska frågeställningar vid användning och spridning av bilder. Eventuella konflikter mellan yttrandefrihet och integritet vid användning och spridning av bilder.",
-              "en": ""
+              "en": "Rights and obligations, as well as ethical issues in the use and distribution of images. Potential conflicts between freedom of expression and privacy in the use and distribution of images."
             },
             "coreElements": [
               "Bildframställning"
@@ -428,7 +428,7 @@
             "code": "BL-7-9-7",
             "text": {
               "local": "Former, färger och bildkompositioner samt deras betydelsebärande egenskaper och hur dessa kan användas i bildskapande arbete.",
-              "en": ""
+              "en": "Shapes, colours and image compositions, as well as their meaning-bearing properties and how these can be used in image-making work."
             },
             "coreElements": [
               "Tekniker, verktyg och material"
@@ -442,7 +442,7 @@
             "code": "BL-7-9-8",
             "text": {
               "local": "Verktyg och material för två- och tredimensionellt bildarbete. Hur dessa verktyg och material kan användas för bestämda syften.",
-              "en": ""
+              "en": "Tools and materials for two- and three-dimensional image work. How these tools and materials can be used for specific purposes."
             },
             "coreElements": [
               "Tekniker, verktyg och material"
@@ -455,7 +455,7 @@
             "code": "BL-7-9-9",
             "text": {
               "local": "Samtida konst- och dokumentärbilder samt konst och arkitektur från olika tider och kulturer. Hur bilderna och verken är utformade och vilka budskap de förmedlar.",
-              "en": ""
+              "en": "Contemporary art and documentary images, as well as art and architecture from different times and cultures. How the images and works are designed and what messages they convey."
             },
             "coreElements": [
               "Bildanalys"
@@ -466,7 +466,7 @@
             "code": "BL-7-9-10",
             "text": {
               "local": "Mediebilders utformning och påverkan och hur dessa bilder kan tolkas och kritiskt granskas.",
-              "en": ""
+              "en": "The design and influence of media images and how these images can be interpreted and critically examined."
             },
             "coreElements": [
               "Bildanalys"
@@ -480,7 +480,7 @@
             "code": "BL-7-9-11",
             "text": {
               "local": "Bilder som behandlar identitet och maktrelationer, till exempel sexualitet, etnicitet och kön. Hur dessa perspektiv gestaltas och konstrueras.",
-              "en": ""
+              "en": "Images that address identity and power relations, for example sexuality, ethnicity and gender. How these perspectives are portrayed and constructed."
             },
             "coreElements": [
               "Bildanalys"
@@ -493,7 +493,7 @@
             "code": "BL-7-9-12",
             "text": {
               "local": "Hur bilder kan kopplas till egna erfarenheter och företeelser i elevernas visuella kulturer. Ord och begrepp för att kunna läsa, skriva och samtala om bilders innehåll, uttryck och funktioner.",
-              "en": ""
+              "en": "How images can be connected to own experiences and phenomena in the pupils' visual cultures. Words and concepts for reading, writing and discussing the content, expression and functions of images."
             },
             "coreElements": [
               "Bildanalys"
@@ -508,35 +508,35 @@
             "gradeStep": "E",
             "text": {
               "local": "Betygskriterier för betyget E i slutet av årskurs 9Eleven framställer olika typer av bilder med delvis genomarbetade uttrycksformer anpassade till syfte och sammanhang så att budskapet framgår. I bildarbetet använder eleven olika tekniker, verktyg och material på ett i huvudsak fungerande sätt och prövar då hur dessa kan kombineras för att skapa olika uttryck. Eleven utvecklar i viss utsträckning idéer med utgångspunkt i inspirationskällor och andra uppslag. Utifrån syftet med bildarbetet väljer eleven ett i huvudsak fungerande tillvägagångssätt och ger enkla motiveringar till sina val. Under arbetsprocessen bidrar eleven till att formulera och välja handlingsalternativ. Eleven för enkla resonemang om innehåll, uttryck och funktioner i egna och andras bilder.",
-              "en": ""
+              "en": "Grading criteria for grade E at the end of year 9. The pupil produces different types of images with partially developed forms of expression adapted to purpose and context so that the message is conveyed. In the image work, the pupil uses different techniques, tools and materials in a basically functional way and explores how these can be combined to create different expressions. The pupil develops ideas to some extent based on sources of inspiration and other suggestions. Based on the purpose of the image work, the pupil chooses a basically functional approach and gives simple justifications for their choices. During the work process, the pupil contributes to formulating and choosing courses of action. The pupil conducts simple reasoning about content, expression and functions in own and others' images."
             }
           },
           {
             "gradeStep": "D",
             "text": {
               "local": "Betygskriterier för betyget D i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan C och E.",
-              "en": ""
+              "en": "Grading criteria for grade D at the end of year 9. The pupil's knowledge is assessed overall as being between C and E."
             }
           },
           {
             "gradeStep": "C",
             "text": {
               "local": "Betygskriterier för betyget C i slutet av årskurs 9Eleven framställer olika typer av bilder med genomarbetade uttrycksformer anpassade till syfte och sammanhang så att budskapet framgår. I bildarbetet använder eleven olika tekniker, verktyg och material på ett fungerande sätt och prövar och omprövar då hur dessa kan kombineras för att skapa olika uttryck. Eleven utvecklar i relativt stor utsträckning idéer med utgångspunkt i inspirationskällor och andra uppslag. Utifrån syftet med bildarbetet väljer eleven ett fungerande tillvägagångssätt och ger utvecklade motiveringar till sina val. Under arbetsprocessen formulerar och väljer eleven handlingsalternativ som efter någon bearbetning leder framåt. Eleven för utvecklade resonemang om innehåll, uttryck och funktioner i egna och andras bilder.",
-              "en": ""
+              "en": "Grading criteria for grade C at the end of year 9. The pupil produces different types of images with developed forms of expression adapted to purpose and context so that the message is conveyed. In the image work, the pupil uses different techniques, tools and materials in a functional way and explores and reconsiders how these can be combined to create different expressions. The pupil develops ideas to a relatively large extent based on sources of inspiration and other suggestions. Based on the purpose of the image work, the pupil chooses a functional approach and gives developed justifications for their choices. During the work process, the pupil formulates and chooses courses of action that, after some processing, lead forward. The pupil conducts developed reasoning about content, expression and functions in own and others' images."
             }
           },
           {
             "gradeStep": "B",
             "text": {
               "local": "Betygskriterier för betyget B i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan A och C.",
-              "en": ""
+              "en": "Grading criteria for grade B at the end of year 9. The pupil's knowledge is assessed overall as being between A and C."
             }
           },
           {
             "gradeStep": "A",
             "text": {
               "local": "Betygskriterier för betyget A i slutet av årskurs 9Eleven framställer olika typer av bilder med väl genomarbetade uttrycksformer anpassade till syfte och sammanhang så att budskapet framgår. I bildarbetet använder eleven olika tekniker, verktyg och material på ett väl fungerande sätt och prövar och omprövar systematiskt hur dessa kan kombineras för att skapa olika uttryck. Eleven utvecklar i stor utsträckning idéer med utgångspunkt i inspirationskällor och andra uppslag. Utifrån syftet med bildarbetet väljer eleven ett väl fungerande tillvägagångssätt och ger välutvecklade motiveringar till sina val. Under arbetsprocessen formulerar och väljer eleven handlingsalternativ som leder framåt. Eleven för välutvecklade resonemang om innehåll, uttryck och funktioner i egna och andras bilder.",
-              "en": ""
+              "en": "Grading criteria for grade A at the end of year 9. The pupil produces different types of images with well-developed forms of expression adapted to purpose and context so that the message is conveyed. In the image work, the pupil uses different techniques, tools and materials in a well-functioning way and systematically explores and reconsiders how these can be combined to create different expressions. The pupil develops ideas to a large extent based on sources of inspiration and other suggestions. Based on the purpose of the image work, the pupil chooses a well-functioning approach and gives well-developed justifications for their choices. During the work process, the pupil formulates and chooses courses of action that lead forward. The pupil conducts well-developed reasoning about content, expression and functions in own and others' images."
             }
           }
         ]

@@ -95,11 +95,11 @@
               "en": ""
             },
             "coreElements": [
-              "S4",
-              "S6",
-              "S1",
-              "S3",
-              "S2"
+              "S4 Mitä elämä on?",
+              "S6 Kohti kestävää tulevaisuutta",
+              "S1 Biologinen tutkimus",
+              "S3 Ekosysteemin perusrakenne ja toiminta",
+              "S2 Tutkimusretkiä luontoon ja lähiympäristöön"
             ],
             "verbs": []
           },
@@ -110,11 +110,11 @@
               "en": ""
             },
             "coreElements": [
-              "S5",
-              "S4",
-              "S1",
-              "S3",
-              "S2"
+              "S5 Ihminen",
+              "S4 Mitä elämä on?",
+              "S1 Biologinen tutkimus",
+              "S3 Ekosysteemin perusrakenne ja toiminta",
+              "S2 Tutkimusretkiä luontoon ja lähiympäristöön"
             ],
             "verbs": []
           },
@@ -125,11 +125,11 @@
               "en": ""
             },
             "coreElements": [
-              "S4",
-              "S6",
-              "S1",
-              "S3",
-              "S2"
+              "S4 Mitä elämä on?",
+              "S6 Kohti kestävää tulevaisuutta",
+              "S1 Biologinen tutkimus",
+              "S3 Ekosysteemin perusrakenne ja toiminta",
+              "S2 Tutkimusretkiä luontoon ja lähiympäristöön"
             ],
             "verbs": []
           },
@@ -140,9 +140,9 @@
               "en": ""
             },
             "coreElements": [
-              "S5",
-              "S4",
-              "S1"
+              "S5 Ihminen",
+              "S4 Mitä elämä on?",
+              "S1 Biologinen tutkimus"
             ],
             "verbs": []
           },
@@ -153,7 +153,7 @@
               "en": ""
             },
             "coreElements": [
-              "S5"
+              "S5 Ihminen"
             ],
             "verbs": []
           },
@@ -164,7 +164,7 @@
               "en": ""
             },
             "coreElements": [
-              "S6"
+              "S6 Kohti kestävää tulevaisuutta"
             ],
             "verbs": []
           },
@@ -175,12 +175,12 @@
               "en": ""
             },
             "coreElements": [
-              "S5",
-              "S4",
-              "S6",
-              "S1",
-              "S3",
-              "S2"
+              "S5 Ihminen",
+              "S4 Mitä elämä on?",
+              "S6 Kohti kestävää tulevaisuutta",
+              "S1 Biologinen tutkimus",
+              "S3 Ekosysteemin perusrakenne ja toiminta",
+              "S2 Tutkimusretkiä luontoon ja lähiympäristöön"
             ],
             "verbs": []
           },
@@ -191,11 +191,11 @@
               "en": ""
             },
             "coreElements": [
-              "S5",
-              "S4",
-              "S1",
-              "S3",
-              "S2"
+              "S5 Ihminen",
+              "S4 Mitä elämä on?",
+              "S1 Biologinen tutkimus",
+              "S3 Ekosysteemin perusrakenne ja toiminta",
+              "S2 Tutkimusretkiä luontoon ja lähiympäristöön"
             ],
             "verbs": []
           },
@@ -206,11 +206,11 @@
               "en": ""
             },
             "coreElements": [
-              "S4",
-              "S6",
-              "S1",
-              "S3",
-              "S2"
+              "S4 Mitä elämä on?",
+              "S6 Kohti kestävää tulevaisuutta",
+              "S1 Biologinen tutkimus",
+              "S3 Ekosysteemin perusrakenne ja toiminta",
+              "S2 Tutkimusretkiä luontoon ja lähiympäristöön"
             ],
             "verbs": []
           },
@@ -221,12 +221,12 @@
               "en": ""
             },
             "coreElements": [
-              "S5",
-              "S4",
-              "S6",
-              "S1",
-              "S3",
-              "S2"
+              "S5 Ihminen",
+              "S4 Mitä elämä on?",
+              "S6 Kohti kestävää tulevaisuutta",
+              "S1 Biologinen tutkimus",
+              "S3 Ekosysteemin perusrakenne ja toiminta",
+              "S2 Tutkimusretkiä luontoon ja lähiympäristöön"
             ],
             "verbs": []
           },
@@ -237,7 +237,7 @@
               "en": ""
             },
             "coreElements": [
-              "S6"
+              "S6 Kohti kestävää tulevaisuutta"
             ],
             "verbs": []
           },
@@ -248,12 +248,12 @@
               "en": ""
             },
             "coreElements": [
-              "S5",
-              "S4",
-              "S6",
-              "S1",
-              "S3",
-              "S2"
+              "S5 Ihminen",
+              "S4 Mitä elämä on?",
+              "S6 Kohti kestävää tulevaisuutta",
+              "S1 Biologinen tutkimus",
+              "S3 Ekosysteemin perusrakenne ja toiminta",
+              "S2 Tutkimusretkiä luontoon ja lähiympäristöön"
             ],
             "verbs": []
           },
@@ -264,7 +264,7 @@
               "en": ""
             },
             "coreElements": [
-              "S6"
+              "S6 Kohti kestävää tulevaisuutta"
             ],
             "verbs": []
           },
@@ -275,7 +275,7 @@
               "en": ""
             },
             "coreElements": [
-              "S6"
+              "S6 Kohti kestävää tulevaisuutta"
             ],
             "verbs": []
           }

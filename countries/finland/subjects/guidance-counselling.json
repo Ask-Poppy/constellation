@@ -100,8 +100,8 @@
               "en": ""
             },
             "coreElements": [
-              "S2",
-              "S1"
+              "S2 Itsetuntemus ja elinikäinen urasuunnittelu",
+              "S1 Oppiminen ja opiskelu"
             ],
             "verbs": []
           },
@@ -112,7 +112,7 @@
               "en": ""
             },
             "coreElements": [
-              "S1"
+              "S1 Oppiminen ja opiskelu"
             ],
             "verbs": []
           },
@@ -123,8 +123,8 @@
               "en": ""
             },
             "coreElements": [
-              "S2",
-              "S1"
+              "S2 Itsetuntemus ja elinikäinen urasuunnittelu",
+              "S1 Oppiminen ja opiskelu"
             ],
             "verbs": []
           },
@@ -135,7 +135,7 @@
               "en": ""
             },
             "coreElements": [
-              "S2"
+              "S2 Itsetuntemus ja elinikäinen urasuunnittelu"
             ],
             "verbs": []
           },
@@ -146,8 +146,8 @@
               "en": ""
             },
             "coreElements": [
-              "S2",
-              "S5"
+              "S2 Itsetuntemus ja elinikäinen urasuunnittelu",
+              "S5 Jatko-opinnot ja niihin hakeutuminen"
             ],
             "verbs": []
           },
@@ -158,9 +158,9 @@
               "en": ""
             },
             "coreElements": [
-              "S2",
-              "S5",
-              "S3"
+              "S2 Itsetuntemus ja elinikäinen urasuunnittelu",
+              "S5 Jatko-opinnot ja niihin hakeutuminen",
+              "S3 Opiskelussa ja työelämässä tarvittavat taidot"
             ],
             "verbs": []
           },
@@ -171,10 +171,10 @@
               "en": ""
             },
             "coreElements": [
-              "S2",
-              "S5",
-              "S4",
-              "S3"
+              "S2 Itsetuntemus ja elinikäinen urasuunnittelu",
+              "S5 Jatko-opinnot ja niihin hakeutuminen",
+              "S4 Työelämään tutustuminen",
+              "S3 Opiskelussa ja työelämässä tarvittavat taidot"
             ],
             "verbs": []
           },
@@ -185,8 +185,8 @@
               "en": ""
             },
             "coreElements": [
-              "S5",
-              "S4"
+              "S5 Jatko-opinnot ja niihin hakeutuminen",
+              "S4 Työelämään tutustuminen"
             ],
             "verbs": []
           },
@@ -197,9 +197,9 @@
               "en": ""
             },
             "coreElements": [
-              "S2",
-              "S5",
-              "S3"
+              "S2 Itsetuntemus ja elinikäinen urasuunnittelu",
+              "S5 Jatko-opinnot ja niihin hakeutuminen",
+              "S3 Opiskelussa ja työelämässä tarvittavat taidot"
             ],
             "verbs": []
           },
@@ -210,8 +210,8 @@
               "en": ""
             },
             "coreElements": [
-              "S5",
-              "S4"
+              "S5 Jatko-opinnot ja niihin hakeutuminen",
+              "S4 Työelämään tutustuminen"
             ],
             "verbs": []
           }

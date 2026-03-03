@@ -17,55 +17,55 @@
         "code": "",
         "name": {
           "local": "förmåga att använda och beskriva matematiska begrepp och samband mellan begrepp,",
-          "en": ""
+          "en": "ability to use and describe mathematical concepts and relationships between concepts,"
         },
         "description": {
           "local": "förmåga att använda och beskriva matematiska begrepp och samband mellan begrepp,",
-          "en": ""
+          "en": "ability to use and describe mathematical concepts and relationships between concepts,"
         }
       },
       {
         "code": "",
         "name": {
           "local": "förmåga att välja och använda lämpliga matematiska metoder för att göra beräkningar och lösa rutinuppgifter,",
-          "en": ""
+          "en": "ability to select and use appropriate mathematical methods to perform calculations and solve routine tasks,"
         },
         "description": {
           "local": "förmåga att välja och använda lämpliga matematiska metoder för att göra beräkningar och lösa rutinuppgifter,",
-          "en": ""
+          "en": "ability to select and use appropriate mathematical methods to perform calculations and solve routine tasks,"
         }
       },
       {
         "code": "",
         "name": {
           "local": "förmåga att formulera och lösa problem med hjälp av matematik och värdera valda strategier,",
-          "en": ""
+          "en": "ability to formulate and solve problems using mathematics and evaluate chosen strategies,"
         },
         "description": {
           "local": "förmåga att formulera och lösa problem med hjälp av matematik och värdera valda strategier,",
-          "en": ""
+          "en": "ability to formulate and solve problems using mathematics and evaluate chosen strategies,"
         }
       },
       {
         "code": "",
         "name": {
           "local": "förmåga att föra och följa matematiska resonemang, och",
-          "en": ""
+          "en": "ability to conduct and follow mathematical reasoning, and"
         },
         "description": {
           "local": "förmåga att föra och följa matematiska resonemang, och",
-          "en": ""
+          "en": "ability to conduct and follow mathematical reasoning, and"
         }
       },
       {
         "code": "",
         "name": {
           "local": "förmåga att använda matematikens uttrycksformer för att samtala om och redogöra för frågeställningar, beräkningar och slutsatser.",
-          "en": ""
+          "en": "ability to use mathematical forms of expression to discuss and account for questions, calculations and conclusions."
         },
         "description": {
           "local": "förmåga att använda matematikens uttrycksformer för att samtala om och redogöra för frågeställningar, beräkningar och slutsatser.",
-          "en": ""
+          "en": "ability to use mathematical forms of expression to discuss and account for questions, calculations and conclusions."
         }
       }
     ],
@@ -81,7 +81,7 @@
             "code": "MA-1-3-1",
             "text": {
               "local": "Naturliga tal och deras egenskaper samt hur talen delas upp och an­vän­ds för att ange antal och ordning.",
-              "en": ""
+              "en": "Natural numbers and their properties, and how numbers are partitioned and used to indicate quantity and order."
             },
             "coreElements": [
               "Taluppfattning och tals användning"
@@ -92,7 +92,7 @@
             "code": "MA-1-3-2",
             "text": {
               "local": "Positionssystemet och hur det används för att beskriva naturliga tal.",
-              "en": ""
+              "en": "The place value system and how it is used to represent natural numbers."
             },
             "coreElements": [
               "Taluppfattning och tals användning"
@@ -105,7 +105,7 @@
             "code": "MA-1-3-3",
             "text": {
               "local": "Symboler för tal och symbolernas utveckling i några olika kulturer genom historien.",
-              "en": ""
+              "en": "Symbols for numbers and the development of these symbols in various cultures throughout history."
             },
             "coreElements": [
               "Taluppfattning och tals användning"
@@ -116,7 +116,7 @@
             "code": "MA-1-3-4",
             "text": {
               "local": "Tal i bråkform som del av helhet och del av antal samt hur delarna benämns och uttrycks som enkla bråk. Hur enkla bråk förhåller sig till naturliga tal.",
-              "en": ""
+              "en": "Numbers in fraction form as parts of a whole and parts of a quantity, and how the parts are named and expressed as simple fractions. How simple fractions relate to natural numbers."
             },
             "coreElements": [
               "Taluppfattning och tals användning"
@@ -127,7 +127,7 @@
             "code": "MA-1-3-5",
             "text": {
               "local": "Hur naturliga tal och enkla tal i bråkform används i elevnära situa­tio­ner.",
-              "en": ""
+              "en": "How natural numbers and simple fractions are used in situations close to the pupils' experience."
             },
             "coreElements": [
               "Taluppfattning och tals användning"
@@ -138,7 +138,7 @@
             "code": "MA-1-3-6",
             "text": {
               "local": "De fyra räknesättens egenskaper och samband samt användning i olika situationer.",
-              "en": ""
+              "en": "The properties and relationships of the four arithmetic operations, and their use in different situations."
             },
             "coreElements": [
               "Taluppfattning och tals användning"
@@ -149,7 +149,7 @@
             "code": "MA-1-3-7",
             "text": {
               "local": "Metoder för beräkningar med naturliga tal, vid huvudräkning, över­slags­räkning och skriftlig beräkning. Användning av digitala verktyg vid be­räk­ningar.",
-              "en": ""
+              "en": "Methods for calculations with natural numbers, including mental arithmetic, estimation and written calculation. Use of digital tools for calculations."
             },
             "coreElements": [
               "Taluppfattning och tals användning"
@@ -160,7 +160,7 @@
             "code": "MA-1-3-8",
             "text": {
               "local": "Rimlighetsbedömning vid uppskattningar och beräkningar.",
-              "en": ""
+              "en": "Assessing the reasonableness of estimates and calculations."
             },
             "coreElements": [
               "Taluppfattning och tals användning"
@@ -171,7 +171,7 @@
             "code": "MA-1-3-9",
             "text": {
               "local": "Matematiska likheter och likhetstecknets betydelse.",
-              "en": ""
+              "en": "Mathematical equalities and the meaning of the equals sign."
             },
             "coreElements": [
               "Algebra"
@@ -182,7 +182,7 @@
             "code": "MA-1-3-10",
             "text": {
               "local": "Obekanta tal och hur de kan betecknas med en symbol.",
-              "en": ""
+              "en": "Unknown numbers and how they can be represented by a symbol."
             },
             "coreElements": [
               "Algebra"
@@ -193,7 +193,7 @@
             "code": "MA-1-3-11",
             "text": {
               "local": "Enkla mönster i talföljder och enkla geometriska mönster samt hur de konstrueras, beskrivs och uttrycks.",
-              "en": ""
+              "en": "Simple patterns in number sequences and simple geometric patterns, and how they are constructed, described and expressed."
             },
             "coreElements": [
               "Algebra"
@@ -204,7 +204,7 @@
             "code": "MA-1-3-12",
             "text": {
               "local": "Entydiga stegvisa instruktioner och hur de konstrueras, beskrivs och följs som grund för programmering. Hur symboler används vid stegvisa in­struk­tioner.",
-              "en": ""
+              "en": "Unambiguous step-by-step instructions and how they are constructed, described and followed as a basis for programming. How symbols are used in step-by-step instructions."
             },
             "coreElements": [
               "Algebra"
@@ -217,7 +217,7 @@
             "code": "MA-1-3-13",
             "text": {
               "local": "Vanliga lägesord för att beskriva föremåls och objekts läge i rummet.",
-              "en": ""
+              "en": "Common positional words to describe the position of objects in space."
             },
             "coreElements": [
               "Geometri"
@@ -230,7 +230,7 @@
             "code": "MA-1-3-14",
             "text": {
               "local": "Grundläggande geometriska tvådimensionella objekt samt objekten klot, kon, cylinder och rätblock. Egenskaper hos dessa objekt och deras inbördes relationer. Konstruktion av geometriska objekt.",
-              "en": ""
+              "en": "Basic two-dimensional geometric objects as well as the objects sphere, cone, cylinder and rectangular prism. Properties of these objects and their interrelationships. Construction of geometric objects."
             },
             "coreElements": [
               "Geometri"
@@ -241,7 +241,7 @@
             "code": "MA-1-3-15",
             "text": {
               "local": "Jämförelser och uppskattningar av storheter. Mätning av längd, massa, volym och tid med vanliga nutida och äldre måttenheter.",
-              "en": ""
+              "en": "Comparisons and estimations of quantities. Measurement of length, mass, volume and time using common current and historical units of measurement."
             },
             "coreElements": [
               "Geometri"
@@ -252,7 +252,7 @@
             "code": "MA-1-3-16",
             "text": {
               "local": "Skala vid enkel förminskning och förstoring.",
-              "en": ""
+              "en": "Scale in simple reduction and enlargement."
             },
             "coreElements": [
               "Geometri"
@@ -263,7 +263,7 @@
             "code": "MA-1-3-17",
             "text": {
               "local": "Symmetri i vardagen och hur symmetri kan konstrueras.",
-              "en": ""
+              "en": "Symmetry in everyday life and how symmetry can be constructed."
             },
             "coreElements": [
               "Geometri"
@@ -274,7 +274,7 @@
             "code": "MA-1-3-18",
             "text": {
               "local": "Slumpmässiga händelser i konkreta situationer.",
-              "en": ""
+              "en": "Random events in concrete situations."
             },
             "coreElements": [
               "Sannolikhet och statistik"
@@ -285,7 +285,7 @@
             "code": "MA-1-3-19",
             "text": {
               "local": "Enkla tabeller och diagram och hur de används för att sortera data och beskriva resultat från undersökningar, såväl med som utan digitala verktyg.",
-              "en": ""
+              "en": "Simple tables and charts, and how they are used to sort data and describe results from investigations, both with and without digital tools."
             },
             "coreElements": [
               "Sannolikhet och statistik"
@@ -298,7 +298,7 @@
             "code": "MA-1-3-20",
             "text": {
               "local": "Proportionella samband, däribland dubbelt och hälften.",
-              "en": ""
+              "en": "Proportional relationships, including double and half."
             },
             "coreElements": [
               "Samband och förändring"
@@ -309,7 +309,7 @@
             "code": "MA-1-3-21",
             "text": {
               "local": "Strategier för att lösa matematiska problem i elevnära situationer.",
-              "en": ""
+              "en": "Strategies for solving mathematical problems in situations close to the pupils' experience."
             },
             "coreElements": [
               "Problemlösning"
@@ -322,7 +322,7 @@
             "code": "MA-1-3-22",
             "text": {
               "local": "Formulering av matematiska frågeställningar utifrån vardagliga situationer.",
-              "en": ""
+              "en": "Formulation of mathematical questions based on everyday situations."
             },
             "coreElements": [
               "Problemlösning"
@@ -335,7 +335,7 @@
             "gradeStep": "",
             "text": {
               "local": "Kriterier för bedömning av godtagbara kunskaper i slutet av årskurs 3Eleven visar grundläggande kunskaper om matematiska begrepp och använder dem med tillfredsställande säkerhet. Eleven ger även exempel på hur några begrepp relaterar till varandra. Eleven visar grundläggande kunskaper om naturliga tal och beskriver tals inbördes relation samt delar upp tal. Eleven visar grundläggande kunskaper om tal i bråkform och delar upp helheter i delar samt jämför och namnger delarna som enkla bråk. Eleven använder och beskriver geometriska mönster och mönster i talföljder. Dessutom använder eleven grundläggande geometriska begrepp och vanliga lägesord för att beskriva geometriska objekts egenskaper, läge och inbördes relationer. Eleven använder och ger exempel på enkla proportionella samband. Eleven väljer och använder i huvudsak fungerande matematiska metoder för att göra enkla beräkningar med naturliga tal och lösa enkla rutinuppgifter med tillfredsställande säkerhet. Eleven använder huvudräkning för att genomföra beräkningar med de fyra räknesätten. Vid addition och subtraktion väljer och använder eleven skriftliga räknemetoder med tillfredsställande säkerhet. Eleven hanterar enkla matematiska likheter och använder då likhetstecknet på ett fungerande sätt. Eleven avbildar och, utifrån instruktioner, konstruerar enkla geometriska objekt. Eleven gör enkla mätningar, jämförelser och uppskattningar av längder, massor, volymer och tider och använder vanliga måttenheter. Vid olika undersökningar avläser och skapar eleven enkla tabeller och diagram för att sortera och redovisa resultat. Eleven löser enkla problem genom att välja och använda någon strategi med viss anpassning till problemets karaktär. Eleven beskriver tillvägagångssätt och ger enkla omdömen om resultatens rimlighet. Eleven för och följer matematiska resonemang genom att ställa och besvara frågor som i huvudsak hör till ämnet. Eleven beskriver och samtalar om tillvägagångssätt på ett i huvudsak fungerande sätt och använder då konkret material, bilder, symboler och andra matematiska uttrycksformer.",
-              "en": ""
+              "en": "Criteria for assessing acceptable knowledge at the end of year 3. The pupil demonstrates basic knowledge of mathematical concepts and uses them with satisfactory confidence. The pupil also gives examples of how some concepts relate to each other. The pupil demonstrates basic knowledge of natural numbers and describes the relationships between numbers and partitions numbers. The pupil demonstrates basic knowledge of fractions and divides wholes into parts, and compares and names the parts as simple fractions. The pupil uses and describes geometric patterns and patterns in number sequences. In addition, the pupil uses basic geometric concepts and common positional words to describe the properties, position and interrelationships of geometric objects. The pupil uses and gives examples of simple proportional relationships. The pupil selects and uses essentially functioning mathematical methods to perform simple calculations with natural numbers and solve simple routine tasks with satisfactory confidence. The pupil uses mental arithmetic to carry out calculations with the four arithmetic operations. For addition and subtraction, the pupil selects and uses written calculation methods with satisfactory confidence. The pupil handles simple mathematical equalities and uses the equals sign in a functioning way. The pupil copies and, based on instructions, constructs simple geometric objects. The pupil makes simple measurements, comparisons and estimates of lengths, masses, volumes and times, and uses common units of measurement. In various investigations, the pupil reads and creates simple tables and charts to sort and present results. The pupil solves simple problems by selecting and using a strategy with some adaptation to the nature of the problem. The pupil describes approaches and makes simple judgements about the reasonableness of results. The pupil conducts and follows mathematical reasoning by posing and answering questions that essentially relate to the subject. The pupil describes and discusses approaches in an essentially functioning way, using concrete materials, pictures, symbols and other mathematical forms of expression."
             }
           }
         ]
@@ -351,7 +351,7 @@
             "code": "MA-4-6-1",
             "text": {
               "local": "Rationella tal, däribland negativa tal, och deras egenskaper samt hur talen kan delas upp och användas.",
-              "en": ""
+              "en": "Rational numbers, including negative numbers, and their properties, and how numbers can be partitioned and used."
             },
             "coreElements": [
               "Taluppfattning och tals användning"
@@ -364,7 +364,7 @@
             "code": "MA-4-6-2",
             "text": {
               "local": "Positionssystemet och hur det används för att beskriva hela tal och tal i decimalform.",
-              "en": ""
+              "en": "The place value system and how it is used to represent whole numbers and decimal numbers."
             },
             "coreElements": [
               "Taluppfattning och tals användning"
@@ -377,7 +377,7 @@
             "code": "MA-4-6-3",
             "text": {
               "local": "Olika talsystem och några talsystem som använts i olika kulturer genom hi­storien.",
-              "en": ""
+              "en": "Different number systems and some number systems that have been used in various cultures throughout history."
             },
             "coreElements": [
               "Taluppfattning och tals användning"
@@ -388,7 +388,7 @@
             "code": "MA-4-6-4",
             "text": {
               "local": "Tal i procentform och deras samband med tal i bråk- och decimalform.",
-              "en": ""
+              "en": "Numbers in percentage form and their relationship to numbers in fraction and decimal form."
             },
             "coreElements": [
               "Taluppfattning och tals användning"
@@ -399,7 +399,7 @@
             "code": "MA-4-6-5",
             "text": {
               "local": "Hur tal i bråk- och decimalform kan användas i vardagliga situationer.",
-              "en": ""
+              "en": "How numbers in fraction and decimal form can be used in everyday situations."
             },
             "coreElements": [
               "Taluppfattning och tals användning"
@@ -412,7 +412,7 @@
             "code": "MA-4-6-6",
             "text": {
               "local": "De fyra räknesätten och regler för deras användning vid beräkningar med naturliga tal.",
-              "en": ""
+              "en": "The four arithmetic operations and the rules for their use in calculations with natural numbers."
             },
             "coreElements": [
               "Taluppfattning och tals användning"
@@ -423,7 +423,7 @@
             "code": "MA-4-6-7",
             "text": {
               "local": "Metoder för beräkningar med naturliga tal och enkla tal i bråk- och deci­malform vid överslagsräkning, huvudräkning och skriftlig beräkning. An­vändning av digitala verktyg vid beräkningar.",
-              "en": ""
+              "en": "Methods for calculations with natural numbers and simple numbers in fraction and decimal form, including estimation, mental arithmetic and written calculation. Use of digital tools for calculations."
             },
             "coreElements": [
               "Taluppfattning och tals användning"
@@ -434,7 +434,7 @@
             "code": "MA-4-6-8",
             "text": {
               "local": "Rimlighetsbedömning vid uppskattningar och beräkningar.",
-              "en": ""
+              "en": "Assessing the reasonableness of estimates and calculations."
             },
             "coreElements": [
               "Taluppfattning och tals användning"
@@ -445,7 +445,7 @@
             "code": "MA-4-6-9",
             "text": {
               "local": "Matematiska likheter och hur likhetstecknet används för att teckna enk­la ekvationer.",
-              "en": ""
+              "en": "Mathematical equalities and how the equals sign is used to write simple equations."
             },
             "coreElements": [
               "Algebra"
@@ -456,7 +456,7 @@
             "code": "MA-4-6-10",
             "text": {
               "local": "Variabler och deras användning i enkla algebraiska uttryck och ekvationer.",
-              "en": ""
+              "en": "Variables and their use in simple algebraic expressions and equations."
             },
             "coreElements": [
               "Algebra"
@@ -467,7 +467,7 @@
             "code": "MA-4-6-11",
             "text": {
               "local": "Metoder, däribland algebraiska, för att lösa enkla ekvationer.",
-              "en": ""
+              "en": "Methods, including algebraic ones, for solving simple equations."
             },
             "coreElements": [
               "Algebra"
@@ -480,7 +480,7 @@
             "code": "MA-4-6-12",
             "text": {
               "local": "Mönster i talföljder och geometriska mönster samt hur de konstrueras, be­skrivs och uttrycks.",
-              "en": ""
+              "en": "Patterns in number sequences and geometric patterns, and how they are constructed, described and expressed."
             },
             "coreElements": [
               "Algebra"
@@ -491,7 +491,7 @@
             "code": "MA-4-6-13",
             "text": {
               "local": "Programmering i visuella programmeringsmiljöer. Hur algoritmer ska­pas och används vid programmering.",
-              "en": ""
+              "en": "Programming in visual programming environments. How algorithms are created and used in programming."
             },
             "coreElements": [
               "Algebra"
@@ -502,7 +502,7 @@
             "code": "MA-4-6-14",
             "text": {
               "local": "Grundläggande geometriska två- och tredimensionella objekt samt deras egen­skaper och inbördes relationer. Konstruktion av geometriska objekt, såväl med som utan digitala verktyg.",
-              "en": ""
+              "en": "Basic two- and three-dimensional geometric objects, their properties and interrelationships. Construction of geometric objects, both with and without digital tools."
             },
             "coreElements": [
               "Geometri"
@@ -513,7 +513,7 @@
             "code": "MA-4-6-15",
             "text": {
               "local": "Jämförelse, uppskattning och mätning av längd, area, massa, volym, tid och vin­kel med standardiserade måttenheter samt enhetsbyten i samband med detta.",
-              "en": ""
+              "en": "Comparison, estimation and measurement of length, area, mass, volume, time and angle using standardised units of measurement, and unit conversions in connection with this."
             },
             "coreElements": [
               "Geometri"
@@ -524,7 +524,7 @@
             "code": "MA-4-6-16",
             "text": {
               "local": "Metoder för hur omkrets och area hos olika tvådimensionella geometriska fi­gurer kan bestämmas och uppskattas.",
-              "en": ""
+              "en": "Methods for determining and estimating the perimeter and area of various two-dimensional geometric figures."
             },
             "coreElements": [
               "Geometri"
@@ -535,7 +535,7 @@
             "code": "MA-4-6-17",
             "text": {
               "local": "Skala vid förminskning och förstoring samt användning av skala i elevnära situa­tioner.",
-              "en": ""
+              "en": "Scale in reduction and enlargement, and the use of scale in situations close to the pupils' experience."
             },
             "coreElements": [
               "Geometri"
@@ -546,7 +546,7 @@
             "code": "MA-4-6-18",
             "text": {
               "local": "Symmetri i planet och hur symmetri kan konstrueras.",
-              "en": ""
+              "en": "Symmetry in the plane and how symmetry can be constructed."
             },
             "coreElements": [
               "Geometri"
@@ -557,7 +557,7 @@
             "code": "MA-4-6-19",
             "text": {
               "local": "Slumpmässiga händelser, chans och risk med utgångspunkt i ob­ser­va­tio­ner, simuleringar och statistiskt material. Jämförelse av sannolikhet vid oli­ka slumpmässiga försök.",
-              "en": ""
+              "en": "Random events, chance and risk based on observations, simulations and statistical data. Comparison of probability in different random experiments."
             },
             "coreElements": [
               "Sannolikhet och statistik"
@@ -568,7 +568,7 @@
             "code": "MA-4-6-20",
             "text": {
               "local": "Enkel kombinatorik i konkreta situationer.",
-              "en": ""
+              "en": "Simple combinatorics in concrete situations."
             },
             "coreElements": [
               "Sannolikhet och statistik"
@@ -579,7 +579,7 @@
             "code": "MA-4-6-21",
             "text": {
               "local": "Tabeller och diagram för att beskriva resultat från undersökningar, såväl med som utan digitala verktyg. Tolkning av data i tabeller och diagram.",
-              "en": ""
+              "en": "Tables and charts for describing results from investigations, both with and without digital tools. Interpretation of data in tables and charts."
             },
             "coreElements": [
               "Sannolikhet och statistik"
@@ -592,7 +592,7 @@
             "code": "MA-4-6-22",
             "text": {
               "local": "Lägesmåtten medelvärde, typvärde och median samt hur de används i statistiska undersökningar.",
-              "en": ""
+              "en": "The measures of central tendency: mean, mode and median, and how they are used in statistical investigations."
             },
             "coreElements": [
               "Sannolikhet och statistik"
@@ -603,7 +603,7 @@
             "code": "MA-4-6-23",
             "text": {
               "local": "Proportionalitet samt hur proportionella samband uttrycks i bråk-, decimal- och procentform.",
-              "en": ""
+              "en": "Proportionality and how proportional relationships are expressed in fraction, decimal and percentage form."
             },
             "coreElements": [
               "Samband och förändring"
@@ -614,7 +614,7 @@
             "code": "MA-4-6-24",
             "text": {
               "local": "Koordinatsystem och gradering av koordinataxlar.",
-              "en": ""
+              "en": "Coordinate systems and the graduation of coordinate axes."
             },
             "coreElements": [
               "Samband och förändring"
@@ -625,7 +625,7 @@
             "code": "MA-4-6-25",
             "text": {
               "local": "Grafer för att uttrycka proportionella samband.",
-              "en": ""
+              "en": "Graphs for expressing proportional relationships."
             },
             "coreElements": [
               "Samband och förändring"
@@ -638,7 +638,7 @@
             "code": "MA-4-6-26",
             "text": {
               "local": "Strategier för att lösa matematiska problem i elevnära situationer.",
-              "en": ""
+              "en": "Strategies for solving mathematical problems in situations close to the pupils' experience."
             },
             "coreElements": [
               "Problemlösning"
@@ -651,7 +651,7 @@
             "code": "MA-4-6-27",
             "text": {
               "local": "Formulering av matematiska frågeställningar utifrån vardagliga situatio­ner.",
-              "en": ""
+              "en": "Formulation of mathematical questions based on everyday situations."
             },
             "coreElements": [
               "Problemlösning"
@@ -664,35 +664,35 @@
             "gradeStep": "E",
             "text": {
               "local": "Betygskriterier för betyget E i slutet av årskurs 6Eleven visar grundläggande kunskaper om matematiska begrepp samt använder och beskriver begrepp och samband mellan begrepp inom områdena taluppfattning och tals användning, algebra, geometri, sannolikhet och statistik samt samband och förändring med tillfredsställande säkerhet. Eleven väljer och använder i huvudsak fungerande matematiska metoder för att göra beräkningar och lösa rutinuppgifter inom områdena taluppfattning och tals användning, algebra, geometri, sannolikhet och statistik samt samband och förändring med tillfredsställande säkerhet. Eleven löser enkla problem. Eleven bidrar till något förslag på alternativt tillvägagångssätt och värderar resultatens rimlighet. Eleven för och följer matematiska resonemang genom att framföra och bemöta påståenden med enkla matematiska argument. Eleven redogör för och samtalar om tillvägagångssätt på ett i huvudsak fungerande sätt och använder då symboler och andra matematiska uttrycksformer.",
-              "en": ""
+              "en": "Grading criteria for grade E at the end of year 6. The pupil demonstrates basic knowledge of mathematical concepts and uses and describes concepts and relationships between concepts in the areas of number sense and the use of numbers, algebra, geometry, probability and statistics, and relationships and change with satisfactory confidence. The pupil selects and uses essentially functioning mathematical methods to perform calculations and solve routine tasks in the areas of number sense and the use of numbers, algebra, geometry, probability and statistics, and relationships and change with satisfactory confidence. The pupil solves simple problems. The pupil contributes to some suggestion for an alternative approach and assesses the reasonableness of results. The pupil conducts and follows mathematical reasoning by presenting and responding to claims with simple mathematical arguments. The pupil accounts for and discusses approaches in an essentially functioning way, using symbols and other mathematical forms of expression."
             }
           },
           {
             "gradeStep": "D",
             "text": {
               "local": "Betygskriterier för betyget D i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan C och E.",
-              "en": ""
+              "en": "Grading criteria for grade D at the end of year 6. The pupil's knowledge is assessed overall as being between C and E."
             }
           },
           {
             "gradeStep": "C",
             "text": {
               "local": "Betygskriterier för betyget C i slutet av årskurs 6Eleven visar goda kunskaper om matematiska begrepp samt använder och beskriver begrepp och samband mellan begrepp inom områdena taluppfattning och tals användning, algebra, geometri, sannolikhet och statistik samt samband och förändring med god säkerhet. Eleven väljer och använder ändamålsenliga matematiska metoder för att göra beräkningar och lösa rutinuppgifter inom områdena taluppfattning och tals användning, algebra, geometri, sannolikhet och statistik samt samband och förändring med god säkerhet. Eleven löser relativt komplexa problem. Eleven ger något förslag på alternativt tillvägagångssätt och värderar resultatens rimlighet. Eleven för och följer matematiska resonemang genom att framföra och bemöta påståenden med relativt väl underbyggda matematiska argument. Eleven redogör för och samtalar om tillvägagångssätt på ett ändamålsenligt sätt och använder då symboler och andra matematiska uttrycksformer.",
-              "en": ""
+              "en": "Grading criteria for grade C at the end of year 6. The pupil demonstrates good knowledge of mathematical concepts and uses and describes concepts and relationships between concepts in the areas of number sense and the use of numbers, algebra, geometry, probability and statistics, and relationships and change with good confidence. The pupil selects and uses appropriate mathematical methods to perform calculations and solve routine tasks in the areas of number sense and the use of numbers, algebra, geometry, probability and statistics, and relationships and change with good confidence. The pupil solves relatively complex problems. The pupil gives some suggestion for an alternative approach and assesses the reasonableness of results. The pupil conducts and follows mathematical reasoning by presenting and responding to claims with relatively well-substantiated mathematical arguments. The pupil accounts for and discusses approaches in an appropriate way, using symbols and other mathematical forms of expression."
             }
           },
           {
             "gradeStep": "B",
             "text": {
               "local": "Betygskriterier för betyget B i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan A och C.",
-              "en": ""
+              "en": "Grading criteria for grade B at the end of year 6. The pupil's knowledge is assessed overall as being between A and C."
             }
           },
           {
             "gradeStep": "A",
             "text": {
               "local": "Betygskriterier för betyget A i slutet av årskurs 6Eleven visar mycket goda kunskaper om matematiska begrepp samt använder och beskriver begrepp och samband mellan begrepp inom områdena taluppfattning och tals användning, algebra, geometri, sannolikhet och statistik samt samband och förändring med mycket god säkerhet. Eleven väljer och använder ändamålsenliga och effektiva matematiska metoder för att göra beräkningar och lösa rutinuppgifter inom områdena taluppfattning och tals användning, algebra, geometri, sannolikhet och statistik samt samband och förändring med mycket god säkerhet. Eleven löser komplexa problem. Eleven ger förslag på alternativa tillvägagångssätt och värderar resultatens rimlighet. Eleven för och följer matematiska resonemang genom att framföra och bemöta påståenden med väl underbyggda matematiska argument. Eleven redogör för och samtalar om tillvägagångssätt på ett ändamålsenligt och effektivt sätt och använder då symboler och andra matematiska uttrycksformer.",
-              "en": ""
+              "en": "Grading criteria for grade A at the end of year 6. The pupil demonstrates very good knowledge of mathematical concepts and uses and describes concepts and relationships between concepts in the areas of number sense and the use of numbers, algebra, geometry, probability and statistics, and relationships and change with very good confidence. The pupil selects and uses appropriate and effective mathematical methods to perform calculations and solve routine tasks in the areas of number sense and the use of numbers, algebra, geometry, probability and statistics, and relationships and change with very good confidence. The pupil solves complex problems. The pupil gives suggestions for alternative approaches and assesses the reasonableness of results. The pupil conducts and follows mathematical reasoning by presenting and responding to claims with well-substantiated mathematical arguments. The pupil accounts for and discusses approaches in an appropriate and effective way, using symbols and other mathematical forms of expression."
             }
           }
         ]
@@ -708,7 +708,7 @@
             "code": "MA-7-9-1",
             "text": {
               "local": "Reella tal och deras egenskaper samt talens användning i matematiska situa­tio­ner.",
-              "en": ""
+              "en": "Real numbers and their properties, and the use of numbers in mathematical situations."
             },
             "coreElements": [
               "Taluppfattning och tals användning"
@@ -719,7 +719,7 @@
             "code": "MA-7-9-2",
             "text": {
               "local": "Talsystemets utveckling från naturliga tal till reella tal.",
-              "en": ""
+              "en": "The development of the number system from natural numbers to real numbers."
             },
             "coreElements": [
               "Taluppfattning och tals användning"
@@ -730,7 +730,7 @@
             "code": "MA-7-9-3",
             "text": {
               "local": "Tal i potensform. Grundpotensform för att uttrycka små och stora tal samt an­vändning av prefix.",
-              "en": ""
+              "en": "Numbers in exponential form. Scientific notation for expressing small and large numbers, and the use of prefixes."
             },
             "coreElements": [
               "Taluppfattning och tals användning"
@@ -743,7 +743,7 @@
             "code": "MA-7-9-4",
             "text": {
               "local": "Matematiska lagar och regler samt deras användning vid beräkningar med tal i bråk-, decimal- och potensform.",
-              "en": ""
+              "en": "Mathematical laws and rules, and their use in calculations with numbers in fraction, decimal and exponential form."
             },
             "coreElements": [
               "Taluppfattning och tals användning"
@@ -754,7 +754,7 @@
             "code": "MA-7-9-5",
             "text": {
               "local": "Metoder för beräkningar med tal i bråk- och decimalform vid över­slags­räkning, huvudräkning och skriftlig beräkning. Användning av di­gitala verk­tyg vid beräkningar.",
-              "en": ""
+              "en": "Methods for calculations with numbers in fraction and decimal form, including estimation, mental arithmetic and written calculation. Use of digital tools for calculations."
             },
             "coreElements": [
               "Taluppfattning och tals användning"
@@ -765,7 +765,7 @@
             "code": "MA-7-9-6",
             "text": {
               "local": "Rimlighetsbedömning vid uppskattningar och beräkningar.",
-              "en": ""
+              "en": "Assessing the reasonableness of estimates and calculations."
             },
             "coreElements": [
               "Taluppfattning och tals användning"
@@ -776,7 +776,7 @@
             "code": "MA-7-9-7",
             "text": {
               "local": "Matematiska likheter samt hur likhetstecknet används för att teckna ekvationer och funktioner.",
-              "en": ""
+              "en": "Mathematical equalities and how the equals sign is used to write equations and functions."
             },
             "coreElements": [
               "Algebra"
@@ -787,7 +787,7 @@
             "code": "MA-7-9-8",
             "text": {
               "local": "Variablers användning i algebraiska uttryck, formler, ekvationer och funk­tioner.",
-              "en": ""
+              "en": "The use of variables in algebraic expressions, formulas, equations and functions."
             },
             "coreElements": [
               "Algebra"
@@ -798,7 +798,7 @@
             "code": "MA-7-9-9",
             "text": {
               "local": "Metoder för att lösa linjära ekvationer och enkla andragradsekvationer.",
-              "en": ""
+              "en": "Methods for solving linear equations and simple quadratic equations."
             },
             "coreElements": [
               "Algebra"
@@ -811,7 +811,7 @@
             "code": "MA-7-9-10",
             "text": {
               "local": "Mönster i talföljder och geometriska mönster samt hur de konstrueras, be­sk­rivs och uttrycks generellt.",
-              "en": ""
+              "en": "Patterns in number sequences and geometric patterns, and how they are constructed, described and expressed in general terms."
             },
             "coreElements": [
               "Algebra"
@@ -822,7 +822,7 @@
             "code": "MA-7-9-11",
             "text": {
               "local": "Programmering i visuell och textbaserad programmeringsmiljö. Hur algo­rit­mer skapas, testas och förbättras vid programmering.",
-              "en": ""
+              "en": "Programming in visual and text-based programming environments. How algorithms are created, tested and improved in programming."
             },
             "coreElements": [
               "Algebra"
@@ -835,7 +835,7 @@
             "code": "MA-7-9-12",
             "text": {
               "local": "Geometriska objekt samt deras egenskaper och inbördes relationer. Kon­struk­tion av geometriska objekt, såväl med som utan digitala verktyg.",
-              "en": ""
+              "en": "Geometric objects, their properties and interrelationships. Construction of geometric objects, both with and without digital tools."
             },
             "coreElements": [
               "Geometri"
@@ -846,7 +846,7 @@
             "code": "MA-7-9-13",
             "text": {
               "local": "Metoder för beräkning av area, omkrets och volym hos geometriska objekt, samt enhetsbyten i samband med detta.",
-              "en": ""
+              "en": "Methods for calculating the area, perimeter and volume of geometric objects, and unit conversions in connection with this."
             },
             "coreElements": [
               "Geometri"
@@ -857,7 +857,7 @@
             "code": "MA-7-9-14",
             "text": {
               "local": "Geometriska satser och formler samt argumentation för deras giltighet.",
-              "en": ""
+              "en": "Geometric theorems and formulas, and argumentation for their validity."
             },
             "coreElements": [
               "Geometri"
@@ -868,7 +868,7 @@
             "code": "MA-7-9-15",
             "text": {
               "local": "Skala vid förminskning och förstoring av två- och tredimensionella objekt.",
-              "en": ""
+              "en": "Scale in reduction and enlargement of two- and three-dimensional objects."
             },
             "coreElements": [
               "Geometri"
@@ -879,7 +879,7 @@
             "code": "MA-7-9-16",
             "text": {
               "local": "Likformighet och kongruens.",
-              "en": ""
+              "en": "Similarity and congruence."
             },
             "coreElements": [
               "Geometri"
@@ -890,7 +890,7 @@
             "code": "MA-7-9-17",
             "text": {
               "local": "Sannolikhet och metoder för att beräkna sannolikhet i olika situationer. Be­döm­ningar av risker och chanser utifrån datorsimuleringar och statistiskt ma­terial.",
-              "en": ""
+              "en": "Probability and methods for calculating probability in different situations. Assessments of risks and chances based on computer simulations and statistical data."
             },
             "coreElements": [
               "Sannolikhet och statistik"
@@ -903,7 +903,7 @@
             "code": "MA-7-9-18",
             "text": {
               "local": "Kombinatoriska principer och hur de kan användas i olika situationer.",
-              "en": ""
+              "en": "Combinatorial principles and how they can be used in different situations."
             },
             "coreElements": [
               "Sannolikhet och statistik"
@@ -916,7 +916,7 @@
             "code": "MA-7-9-19",
             "text": {
               "local": "Tabeller, diagram och grafer samt hur de tolkas och används för att be­skriva resultat av egna och andras undersökningar, såväl med som utan di­gitala verktyg.",
-              "en": ""
+              "en": "Tables, charts and graphs, and how they are interpreted and used to describe results of one's own and others' investigations, both with and without digital tools."
             },
             "coreElements": [
               "Sannolikhet och statistik"
@@ -929,7 +929,7 @@
             "code": "MA-7-9-20",
             "text": {
               "local": "Lägesmått och spridningsmått samt hur de används för bedömning av re­sultat vid statistiska undersökningar.",
-              "en": ""
+              "en": "Measures of central tendency and measures of spread, and how they are used to assess results in statistical investigations."
             },
             "coreElements": [
               "Sannolikhet och statistik"
@@ -940,7 +940,7 @@
             "code": "MA-7-9-21",
             "text": {
               "local": "Proportionalitet och hur det används för att uttrycka skala, lik­for­mig­het och förändring.",
-              "en": ""
+              "en": "Proportionality and how it is used to express scale, similarity and change."
             },
             "coreElements": [
               "Samband och förändring"
@@ -953,7 +953,7 @@
             "code": "MA-7-9-22",
             "text": {
               "local": "Härledda enheter, till exempel km/h och kr/kg.",
-              "en": ""
+              "en": "Derived units, for example km/h and kr/kg."
             },
             "coreElements": [
               "Samband och förändring"
@@ -964,7 +964,7 @@
             "code": "MA-7-9-23",
             "text": {
               "local": "Procent och förändringsfaktor för att uttrycka förändring samt beräkningar med procent i vardagliga situationer och inom olika ämnesområden.",
-              "en": ""
+              "en": "Percentage and rate of change to express change, and calculations with percentages in everyday situations and in different subject areas."
             },
             "coreElements": [
               "Samband och förändring"
@@ -977,7 +977,7 @@
             "code": "MA-7-9-24",
             "text": {
               "local": "Räta linjens ekvation och förändringstakt. Användning av räta lin­jens ekvation för att beskriva samband.",
-              "en": ""
+              "en": "The equation of a straight line and rate of change. Use of the equation of a straight line to describe relationships."
             },
             "coreElements": [
               "Samband och förändring"
@@ -990,7 +990,7 @@
             "code": "MA-7-9-25",
             "text": {
               "local": "Funktioner och hur de används för att beskriva samband och förändring samt undersöka förändringstakt. Hur funk­tio­ner uttrycks i form av grafer, tabeller och funktionsuttryck.",
-              "en": ""
+              "en": "Functions and how they are used to describe relationships and change, and to investigate rate of change. How functions are expressed in the form of graphs, tables and function expressions."
             },
             "coreElements": [
               "Samband och förändring"
@@ -1005,7 +1005,7 @@
             "code": "MA-7-9-26",
             "text": {
               "local": "Strategier för att lösa matematiska problem i olika situationer och inom oli­ka ämnesområden samt värdering av valda strategier och metoder.",
-              "en": ""
+              "en": "Strategies for solving mathematical problems in different situations and in different subject areas, and evaluation of chosen strategies and methods."
             },
             "coreElements": [
               "Problemlösning"
@@ -1018,7 +1018,7 @@
             "code": "MA-7-9-27",
             "text": {
               "local": "Formulering av matematiska frågeställningar utifrån olika situationer och äm­nesområden.",
-              "en": ""
+              "en": "Formulation of mathematical questions based on different situations and subject areas."
             },
             "coreElements": [
               "Problemlösning"
@@ -1029,7 +1029,7 @@
             "code": "MA-7-9-28",
             "text": {
               "local": "Enkla matematiska modeller och hur de kan användas i olika situationer.",
-              "en": ""
+              "en": "Simple mathematical models and how they can be used in different situations."
             },
             "coreElements": [
               "Problemlösning"
@@ -1044,35 +1044,35 @@
             "gradeStep": "E",
             "text": {
               "local": "Betygskriterier för betyget E i slutet av årskurs 9Eleven visar grundläggande kunskaper om matematiska begrepp samt använder och beskriver begrepp och samband mellan begrepp inom områdena taluppfattning och tals användning, algebra, geometri, sannolikhet och statistik samt samband och förändring med tillfredsställande säkerhet. Eleven väljer och använder i huvudsak fungerande matematiska metoder för att göra beräkningar och lösa rutinuppgifter inom områdena taluppfattning och tals användning, algebra, geometri, sannolikhet och statistik samt samband och förändring med tillfredsställande säkerhet. Eleven löser enkla problem. Eleven bidrar till något förslag på alternativt tillvägagångssätt. I samband med problemlösning bidrar eleven till att formulera enkla matematiska modeller som kan tillämpas i sammanhanget. Eleven värderar strategier och resultatens rimlighet på ett enkelt sätt. Eleven för och följer matematiska resonemang genom att framföra och bemöta påståenden med enkla matematiska argument. Eleven redogör för och samtalar om tillvägagångssätt på ett i huvudsak fungerande sätt och använder då symboler och andra matematiska uttrycksformer.",
-              "en": ""
+              "en": "Grading criteria for grade E at the end of year 9. The pupil demonstrates basic knowledge of mathematical concepts and uses and describes concepts and relationships between concepts in the areas of number sense and the use of numbers, algebra, geometry, probability and statistics, and relationships and change with satisfactory confidence. The pupil selects and uses essentially functioning mathematical methods to perform calculations and solve routine tasks in the areas of number sense and the use of numbers, algebra, geometry, probability and statistics, and relationships and change with satisfactory confidence. The pupil solves simple problems. The pupil contributes to some suggestion for an alternative approach. In connection with problem solving, the pupil contributes to formulating simple mathematical models that can be applied in the context. The pupil evaluates strategies and the reasonableness of results in a simple way. The pupil conducts and follows mathematical reasoning by presenting and responding to claims with simple mathematical arguments. The pupil accounts for and discusses approaches in an essentially functioning way, using symbols and other mathematical forms of expression."
             }
           },
           {
             "gradeStep": "D",
             "text": {
               "local": "Betygskriterier för betyget D i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan C och E.",
-              "en": ""
+              "en": "Grading criteria for grade D at the end of year 9. The pupil's knowledge is assessed overall as being between C and E."
             }
           },
           {
             "gradeStep": "C",
             "text": {
               "local": "Betygskriterier för betyget C i slutet av årskurs 9Eleven visar goda kunskaper om matematiska begrepp samt använder och beskriver begrepp och samband mellan begrepp inom områdena taluppfattning och tals användning, algebra, geometri, sannolikhet och statistik samt samband och förändring med god säkerhet. Eleven väljer och använder ändamålsenliga matematiska metoder för att göra beräkningar och lösa rutinuppgifter inom områdena taluppfattning och tals användning, algebra, geometri, sannolikhet och statistik samt samband och förändring med god säkerhet. Eleven löser relativt komplexa problem. Eleven ger något förslag på alternativt tillvägagångssätt. I samband med problemlösning formulerar eleven enkla matematiska modeller som efter någon bearbetning kan tillämpas i sammanhanget. Eleven värderar strategier och resultatens rimlighet på ett utvecklat sätt. Eleven för och följer matematiska resonemang genom att framföra och bemöta påståenden med relativt väl underbyggda matematiska argument. Eleven redogör för och samtalar om tillvägagångssätt på ett ändamålsenligt sätt och använder då symboler och andra matematiska uttrycksformer.",
-              "en": ""
+              "en": "Grading criteria for grade C at the end of year 9. The pupil demonstrates good knowledge of mathematical concepts and uses and describes concepts and relationships between concepts in the areas of number sense and the use of numbers, algebra, geometry, probability and statistics, and relationships and change with good confidence. The pupil selects and uses appropriate mathematical methods to perform calculations and solve routine tasks in the areas of number sense and the use of numbers, algebra, geometry, probability and statistics, and relationships and change with good confidence. The pupil solves relatively complex problems. The pupil gives some suggestion for an alternative approach. In connection with problem solving, the pupil formulates simple mathematical models that, after some processing, can be applied in the context. The pupil evaluates strategies and the reasonableness of results in a developed way. The pupil conducts and follows mathematical reasoning by presenting and responding to claims with relatively well-substantiated mathematical arguments. The pupil accounts for and discusses approaches in an appropriate way, using symbols and other mathematical forms of expression."
             }
           },
           {
             "gradeStep": "B",
             "text": {
               "local": "Betygskriterier för betyget B i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan A och C.",
-              "en": ""
+              "en": "Grading criteria for grade B at the end of year 9. The pupil's knowledge is assessed overall as being between A and C."
             }
           },
           {
             "gradeStep": "A",
             "text": {
               "local": "Betygskriterier för betyget A i slutet av årskurs 9Eleven visar mycket goda kunskaper om matematiska begrepp samt använder och beskriver begrepp och samband mellan begrepp inom områdena taluppfattning och tals användning, algebra, geometri, sannolikhet och statistik samt samband och förändring med mycket god säkerhet. Eleven väljer och använder ändamålsenliga och effektiva matematiska metoder för att göra beräkningar och lösa rutinuppgifter inom områdena taluppfattning och tals användning, algebra, geometri, sannolikhet och statistik samt samband och förändring med mycket god säkerhet. Eleven löser komplexa problem. Eleven ger förslag på alternativa tillvägagångssätt. I samband med problemlösning formulerar eleven enkla matematiska modeller som kan tillämpas i sammanhanget. Eleven värderar strategier och resultatens rimlighet på ett välutvecklat sätt. Eleven för och följer matematiska resonemang genom att framföra och bemöta påståenden med väl underbyggda matematiska argument. Eleven redogör för och samtalar om tillvägagångssätt på ett ändamålsenligt och effektivt sätt och använder då symboler och andra matematiska uttrycksformer.",
-              "en": ""
+              "en": "Grading criteria for grade A at the end of year 9. The pupil demonstrates very good knowledge of mathematical concepts and uses and describes concepts and relationships between concepts in the areas of number sense and the use of numbers, algebra, geometry, probability and statistics, and relationships and change with very good confidence. The pupil selects and uses appropriate and effective mathematical methods to perform calculations and solve routine tasks in the areas of number sense and the use of numbers, algebra, geometry, probability and statistics, and relationships and change with very good confidence. The pupil solves complex problems. The pupil gives suggestions for alternative approaches. In connection with problem solving, the pupil formulates simple mathematical models that can be applied in the context. The pupil evaluates strategies and the reasonableness of results in a well-developed way. The pupil conducts and follows mathematical reasoning by presenting and responding to claims with well-substantiated mathematical arguments. The pupil accounts for and discusses approaches in an appropriate and effective way, using symbols and other mathematical forms of expression."
             }
           }
         ]

@@ -17,33 +17,33 @@
         "code": "",
         "name": {
           "local": "kunskaper om demokratiska värden och beslutsprocesser samt om mänskliga rättigheter,",
-          "en": ""
+          "en": "knowledge of democratic values and decision-making processes, as well as human rights,"
         },
         "description": {
           "local": "kunskaper om demokratiska värden och beslutsprocesser samt om mänskliga rättigheter,",
-          "en": ""
+          "en": "knowledge of democratic values and decision-making processes, as well as human rights,"
         }
       },
       {
         "code": "",
         "name": {
           "local": "kunskaper om sociala, ekonomiska, politiska, rättsliga och mediala förhållanden och strukturer i samhället, och",
-          "en": ""
+          "en": "knowledge of social, economic, political, legal and media-related conditions and structures in society, and"
         },
         "description": {
           "local": "kunskaper om sociala, ekonomiska, politiska, rättsliga och mediala förhållanden och strukturer i samhället, och",
-          "en": ""
+          "en": "knowledge of social, economic, political, legal and media-related conditions and structures in society, and"
         }
       },
       {
         "code": "",
         "name": {
           "local": "förmåga att analysera samhällsfrågor ur olika perspektiv och kritiskt granska hur de framställs i olika källor.",
-          "en": ""
+          "en": "the ability to analyse social issues from different perspectives and critically examine how they are presented in different sources."
         },
         "description": {
           "local": "förmåga att analysera samhällsfrågor ur olika perspektiv och kritiskt granska hur de framställs i olika källor.",
-          "en": ""
+          "en": "the ability to analyse social issues from different perspectives and critically examine how they are presented in different sources."
         }
       }
     ],
@@ -59,7 +59,7 @@
             "code": "SH-1-3-1",
             "text": {
               "local": "Migration inom ett land och mellan länder. Vad detta kan ha för orsaker och få för konsekvenser.",
-              "en": ""
+              "en": "Migration within a country and between countries. What causes this may have and what consequences it may lead to."
             },
             "coreElements": [
               "Att leva tillsammans"
@@ -70,7 +70,7 @@
             "code": "SH-1-3-2",
             "text": {
               "local": "Skildringar av människors levnadsvillkor förr i tiden, till exempel i barn­litte­ratur, sånger och filmer. Minnen berättade av människor som lever nu.",
-              "en": ""
+              "en": "Depictions of people's living conditions in the past, for example in children's literature, songs and films. Memories told by people living today."
             },
             "coreElements": [
               "Att leva tillsammans"
@@ -81,7 +81,7 @@
             "code": "SH-1-3-3",
             "text": {
               "local": "Samtal om och reflektion över moraliska frågor och livsfrågor med be­ty­del­se för eleven, till exempel kamratskap, könsroller och döden.",
-              "en": ""
+              "en": "Conversations about and reflection on moral questions and existential questions of significance to the pupil, for example friendship, gender roles and death."
             },
             "coreElements": [
               "Att leva tillsammans"
@@ -92,7 +92,7 @@
             "code": "SH-1-3-4",
             "text": {
               "local": "Samtal om och reflektion över normer och regler i elevens livsmiljöer, däri­bland i skolan och i digitala miljöer.",
-              "en": ""
+              "en": "Conversations about and reflection on norms and rules in the pupil's living environments, including in school and in digital environments."
             },
             "coreElements": [
               "Att leva tillsammans"
@@ -103,7 +103,7 @@
             "code": "SH-1-3-5",
             "text": {
               "local": "Trafikregler och hur man beter sig i trafiken på ett säkert sätt.",
-              "en": ""
+              "en": "Traffic rules and how to behave safely in traffic."
             },
             "coreElements": [
               "Att leva tillsammans"
@@ -114,7 +114,7 @@
             "code": "SH-1-3-6",
             "text": {
               "local": "Några utmärkande drag i närområdets natur- och kulturlandskap. Spår av den senaste istiden.",
-              "en": ""
+              "en": "Some distinctive features of the local area's natural and cultural landscape. Traces of the last ice age."
             },
             "coreElements": [
               "Att leva i närområdet"
@@ -125,7 +125,7 @@
             "code": "SH-1-3-7",
             "text": {
               "local": "Hemortens historia och vad närområdets platser, byggnader och vardagliga före­mål kan berätta om livet där under olika tider.",
-              "en": ""
+              "en": "The history of the local community and what the local area's places, buildings and everyday objects can tell about life there during different times."
             },
             "coreElements": [
               "Att leva i närområdet"
@@ -136,7 +136,7 @@
             "code": "SH-1-3-8",
             "text": {
               "local": "Kristendomens roll i skolan och på hemorten förr i tiden.",
-              "en": ""
+              "en": "The role of Christianity in school and in the local community in the past."
             },
             "coreElements": [
               "Att leva i närområdet"
@@ -147,7 +147,7 @@
             "code": "SH-1-3-9",
             "text": {
               "local": "Centrala samhällsfunktioner, till exempel sjukvård, räddningstjänst och sko­la.",
-              "en": ""
+              "en": "Key public services, for example healthcare, emergency services and schools."
             },
             "coreElements": [
               "Att leva i närområdet"
@@ -158,7 +158,7 @@
             "code": "SH-1-3-10",
             "text": {
               "local": "Yrken och verksamheter i närområdet.",
-              "en": ""
+              "en": "Occupations and businesses in the local area."
             },
             "coreElements": [
               "Att leva i närområdet"
@@ -169,7 +169,7 @@
             "code": "SH-1-3-11",
             "text": {
               "local": "Miljöfrågor utifrån elevens vardag, till exempel frågor om trafik, energi och livsmedel.",
-              "en": ""
+              "en": "Environmental issues from the pupil's everyday life, for example questions about traffic, energy and food."
             },
             "coreElements": [
               "Att leva i världen"
@@ -180,7 +180,7 @@
             "code": "SH-1-3-12",
             "text": {
               "local": "Rumsliga förutsättningar i natur och miljö för befolkning och bebyggelse, till exempel mark, vatten och klimat.",
-              "en": ""
+              "en": "Spatial conditions in nature and the environment for population and settlement, for example land, water and climate."
             },
             "coreElements": [
               "Att leva i världen"
@@ -191,7 +191,7 @@
             "code": "SH-1-3-13",
             "text": {
               "local": "Namn och läge på världsdelarna och världshaven samt på länder och platser som är betydelsefulla för eleven.",
-              "en": ""
+              "en": "Names and locations of the continents and oceans, as well as countries and places that are significant to the pupil."
             },
             "coreElements": [
               "Att leva i världen"
@@ -202,7 +202,7 @@
             "code": "SH-1-3-14",
             "text": {
               "local": "Människans uppkomst, vandringar, samlande och jakt samt förändrade lev­nads­villkor i samband med övergången till jordbruk.",
-              "en": ""
+              "en": "The origin of humans, migrations, gathering and hunting, and changed living conditions in connection with the transition to agriculture."
             },
             "coreElements": [
               "Att leva i världen"
@@ -213,7 +213,7 @@
             "code": "SH-1-3-15",
             "text": {
               "local": "Norden befolkas. Människors levnadsvillkor under nordisk stenålder, brons­ålder och järnålder.",
-              "en": ""
+              "en": "The settlement of the Nordic region. People's living conditions during the Nordic Stone Age, Bronze Age and Iron Age."
             },
             "coreElements": [
               "Att leva i världen"
@@ -224,7 +224,7 @@
             "code": "SH-1-3-16",
             "text": {
               "local": "Berättelser i antik och nordisk mytologi samt i samisk religion.",
-              "en": ""
+              "en": "Stories in ancient and Norse mythology, as well as in Sami religion."
             },
             "coreElements": [
               "Att leva i världen"
@@ -235,7 +235,7 @@
             "code": "SH-1-3-17",
             "text": {
               "local": "Några högtider, symboler och berättelser inom kristendom, islam och juden­dom. Några berättelser ur Bibeln och deras innebörder.",
-              "en": ""
+              "en": "Some celebrations, symbols and stories within Christianity, Islam and Judaism. Some stories from the Bible and their meanings."
             },
             "coreElements": [
               "Att leva i världen"
@@ -246,7 +246,7 @@
             "code": "SH-1-3-18",
             "text": {
               "local": "Mänskliga rättigheter inklusive alla människors lika värde och barnets rättigheter i enlighet med FN:s konvention om barnets rättigheter (barn­konventionen).",
-              "en": ""
+              "en": "Human rights, including the equal value of all people and the rights of the child in accordance with the UN Convention on the Rights of the Child."
             },
             "coreElements": [
               "Att leva i världen"
@@ -257,7 +257,7 @@
             "code": "SH-1-3-19",
             "text": {
               "local": "Grundläggande demokratiska principer. Vad åsikts- och yttrandefrihet samt majoritetsprincipen kan innebära i skolan och i samhället.",
-              "en": ""
+              "en": "Fundamental democratic principles. What freedom of opinion and expression, as well as the majority principle, can mean in school and in society."
             },
             "coreElements": [
               "Att leva i världen"
@@ -268,7 +268,7 @@
             "code": "SH-1-3-20",
             "text": {
               "local": "Pengars användning och värde. Olika exempel på betalningsformer och vad några vanliga varor och tjänster kan kosta.",
-              "en": ""
+              "en": "The use and value of money. Different examples of forms of payment and what some common goods and services may cost."
             },
             "coreElements": [
               "Att leva i världen"
@@ -279,7 +279,7 @@
             "code": "SH-1-3-21",
             "text": {
               "local": "Aktuella samhällsfrågor i olika medier.",
-              "en": ""
+              "en": "Current social issues in various media."
             },
             "coreElements": [
               "Att leva i världen"
@@ -290,7 +290,7 @@
             "code": "SH-1-3-22",
             "text": {
               "local": "Metoder för att söka information, till exempel textläsning, intervjuer och obser­vationer. Samtal om olika källors användbarhet och tillförlitlighet.",
-              "en": ""
+              "en": "Methods for seeking information, for example reading texts, interviews and observations. Conversations about the usefulness and reliability of different sources."
             },
             "coreElements": [
               "Att undersöka verkligheten"
@@ -303,7 +303,7 @@
             "code": "SH-1-3-23",
             "text": {
               "local": "Jordgloben, analoga och digitala kartor samt storleksrelationer och väder­streck.",
-              "en": ""
+              "en": "The globe, analogue and digital maps, as well as scale relationships and cardinal directions."
             },
             "coreElements": [
               "Att undersöka verkligheten"
@@ -314,7 +314,7 @@
             "code": "SH-1-3-24",
             "text": {
               "local": "Mentala kartor, till exempel över närområdet, skolvägar eller andra platser som är betydelsefulla för eleven.",
-              "en": ""
+              "en": "Mental maps, for example of the local area, routes to school or other places that are significant to the pupil."
             },
             "coreElements": [
               "Att undersöka verkligheten"
@@ -325,7 +325,7 @@
             "code": "SH-1-3-25",
             "text": {
               "local": "Tidslinjer och tidsbegreppen dåtid, nutid och framtid.",
-              "en": ""
+              "en": "Timelines and the time concepts of past, present and future."
             },
             "coreElements": [
               "Att undersöka verkligheten"
@@ -338,7 +338,7 @@
             "gradeStep": "",
             "text": {
               "local": "Kriterier för bedömning av godtagbara kunskaper i slutet av årskurs 3Eleven visar grundläggande kunskaper om geografiska och historiska förhållanden, samhällsförhållanden och religiösa traditioner. Eleven beskriver likheter och skillnader samt orsaker och konsekvenser i sammanhang som är relevanta för ämnena. Eleven samtalar om människors livsfrågor och levnadsvillkor samt om miljöfrågor och andra samhällsfrågor ur olika perspektiv. Eleven använder begrepp, metoder och verktyg från de samhällsorienterande ämnena.",
-              "en": ""
+              "en": "Criteria for assessing acceptable knowledge at the end of year 3. The pupil demonstrates basic knowledge of geographical and historical conditions, social conditions and religious traditions. The pupil describes similarities and differences, as well as causes and consequences, in contexts relevant to the subjects. The pupil discusses people's existential questions and living conditions, as well as environmental issues and other social issues from different perspectives. The pupil uses concepts, methods and tools from the social studies subjects."
             }
           }
         ]
@@ -354,7 +354,7 @@
             "code": "SH-4-6-1",
             "text": {
               "local": "Sociala roller och normer i olika sammanhang, till exempel inom familjen och i vänskapsrelationer. Könsroller, jämställdhet och sexualitet.",
-              "en": ""
+              "en": "Social roles and norms in different contexts, for example within the family and in friendships. Gender roles, gender equality and sexuality."
             },
             "coreElements": [
               "Individer och gemenskaper"
@@ -365,7 +365,7 @@
             "code": "SH-4-6-2",
             "text": {
               "local": "Sociala skyddsnät för barn i olika livssituationer, i skolan och i samhället.",
-              "en": ""
+              "en": "Social safety nets for children in different life situations, in school and in society."
             },
             "coreElements": [
               "Individer och gemenskaper"
@@ -376,7 +376,7 @@
             "code": "SH-4-6-3",
             "text": {
               "local": "Privatekonomi och relationen mellan arbete, inkomst och konsumtion.",
-              "en": ""
+              "en": "Personal finances and the relationship between work, income and consumption."
             },
             "coreElements": [
               "Samhällsresurser och fördelning"
@@ -387,7 +387,7 @@
             "code": "SH-4-6-4",
             "text": {
               "local": "Det offentligas ekonomi. Vad skatter är och vad kommuner, regioner och stat använder skattemedel till.",
-              "en": ""
+              "en": "Public sector finances. What taxes are and what municipalities, regions and the state use tax revenue for."
             },
             "coreElements": [
               "Samhällsresurser och fördelning"
@@ -398,7 +398,7 @@
             "code": "SH-4-6-5",
             "text": {
               "local": "Exempel på skilda ekonomiska och sociala villkor för barn, i Sverige och i oli­ka delar av världen.",
-              "en": ""
+              "en": "Examples of different economic and social conditions for children, in Sweden and in different parts of the world."
             },
             "coreElements": [
               "Samhällsresurser och fördelning"
@@ -409,7 +409,7 @@
             "code": "SH-4-6-6",
             "text": {
               "local": "Vad demokrati är och hur demokratiska beslut fattas. Hur individer och grupper kan påverka beslut, genom att rösta i allmänna val och till exempel genom elevråd i skolan eller genom att skapa opinion i sociala medier.",
-              "en": ""
+              "en": "What democracy is and how democratic decisions are made. How individuals and groups can influence decisions, by voting in general elections and for example through student councils in school or by creating opinion in social media."
             },
             "coreElements": [
               "Beslutsfattande och politiska idéer"
@@ -422,7 +422,7 @@
             "code": "SH-4-6-7",
             "text": {
               "local": "Riksdagen och regeringen och deras olika uppdrag. Politiska val och partier i Sverige. Skiljelinjer i några aktuella politiska frågor.",
-              "en": ""
+              "en": "The Swedish Parliament and the government and their different roles. Political elections and parties in Sweden. Dividing lines in some current political issues."
             },
             "coreElements": [
               "Beslutsfattande och politiska idéer"
@@ -433,7 +433,7 @@
             "code": "SH-4-6-8",
             "text": {
               "local": "Samhällets behov av lagstiftning samt några olika lagar och påföljder. Krimi­nalitet och möjliga konsekvenser för individ och samhälle.",
-              "en": ""
+              "en": "Society's need for legislation, as well as some different laws and sanctions. Crime and possible consequences for individuals and society."
             },
             "coreElements": [
               "Rättigheter och rättsskipning"
@@ -444,7 +444,7 @@
             "code": "SH-4-6-9",
             "text": {
               "local": "De mänskliga rättigheterna och deras betydelse, inklusive barnets rättig­he­ter i enlighet med barnkonventionen. Principen om likabehandling, in­klu­sive skydd mot diskriminering.",
-              "en": ""
+              "en": "Human rights and their significance, including the rights of the child in accordance with the Convention on the Rights of the Child. The principle of equal treatment, including protection against discrimination."
             },
             "coreElements": [
               "Rättigheter och rättsskipning"
@@ -455,7 +455,7 @@
             "code": "SH-4-6-10",
             "text": {
               "local": "De nationella minoriteterna judar, romer, urfolket samerna, sverigefinnar och tornedalingar: kultur, historia och rättigheter.",
-              "en": ""
+              "en": "The national minorities Jews, Roma, the indigenous Sami people, Sweden Finns and Tornedalians: culture, history and rights."
             },
             "coreElements": [
               "Rättigheter och rättsskipning"
@@ -466,7 +466,7 @@
             "code": "SH-4-6-11",
             "text": {
               "local": "Mediernas roll som informationsspridare, opinionsbildare och granskare av sam­hällets makthavare samt som underhållare.",
-              "en": ""
+              "en": "The role of the media as disseminators of information, shapers of opinion and scrutinisers of those in power, as well as entertainers."
             },
             "coreElements": [
               "Information och kommunikation"
@@ -479,7 +479,7 @@
             "code": "SH-4-6-12",
             "text": {
               "local": "Hur digitala och andra medier kan användas ansvarsfullt utifrån sociala, etiska och rättsliga aspekter.",
-              "en": ""
+              "en": "How digital and other media can be used responsibly from social, ethical and legal perspectives."
             },
             "coreElements": [
               "Information och kommunikation"
@@ -492,7 +492,7 @@
             "code": "SH-4-6-13",
             "text": {
               "local": "Aktuella samhällsfrågor och olika perspektiv på dessa.",
-              "en": ""
+              "en": "Current social issues and different perspectives on these."
             },
             "coreElements": [
               "Granskning av samhällsfrågor"
@@ -503,7 +503,7 @@
             "code": "SH-4-6-14",
             "text": {
               "local": "Hur budskap, avsändare och syfte kan urskiljas och granskas med ett käll­kri­tiskt förhållningssätt i såväl digitala medier som i andra typer av källor som rör samhällsfrågor.",
-              "en": ""
+              "en": "How messages, senders and purposes can be identified and examined with a source-critical approach in both digital media and other types of sources concerning social issues."
             },
             "coreElements": [
               "Granskning av samhällsfrågor"
@@ -518,35 +518,35 @@
             "gradeStep": "E",
             "text": {
               "local": "Betygskriterier för betyget E i slutet av årskurs 6Eleven visar grundläggande kunskaper om demokrati och mänskliga rättigheter. Eleven visar grundläggande kunskaper om förhållanden och strukturer i samhället. Eleven beskriver enkla samband inom olika samhällsstrukturer. Eleven för enkla resonemang om hur människor kan påverka och påverkas av förhållanden och strukturer i samhället. Eleven för enkla resonemang om samhällsfrågor utifrån kunskaper om förhållanden och strukturer i samhället. Eleven granskar information och åsikter som rör samhällsfrågor i olika källor med enkla källkritiska argument.",
-              "en": ""
+              "en": "Grading criteria for grade E at the end of year 6. The pupil demonstrates basic knowledge of democracy and human rights. The pupil demonstrates basic knowledge of conditions and structures in society. The pupil describes simple connections within different social structures. The pupil conducts simple reasoning about how people can influence and be influenced by conditions and structures in society. The pupil conducts simple reasoning about social issues based on knowledge of conditions and structures in society. The pupil examines information and opinions concerning social issues in different sources with simple source-critical arguments."
             }
           },
           {
             "gradeStep": "D",
             "text": {
               "local": "Betygskriterier för betyget D i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan C och E.",
-              "en": ""
+              "en": "Grading criteria for grade D at the end of year 6. The pupil's knowledge is assessed overall as being between C and E."
             }
           },
           {
             "gradeStep": "C",
             "text": {
               "local": "Betygskriterier för betyget C i slutet av årskurs 6Eleven visar goda kunskaper om demokrati och mänskliga rättigheter. Eleven visar goda kunskaper om förhållanden och strukturer i samhället. Eleven beskriver förhållandevis komplexa samband inom olika samhällsstrukturer. Eleven för utvecklade resonemang om hur människor kan påverka och påverkas av förhållanden och strukturer i samhället. Eleven för utvecklade resonemang om samhällsfrågor utifrån kunskaper om förhållanden och strukturer i samhället. Eleven granskar information och åsikter som rör samhällsfrågor i olika källor med relativt välgrundade källkritiska argument.",
-              "en": ""
+              "en": "Grading criteria for grade C at the end of year 6. The pupil demonstrates good knowledge of democracy and human rights. The pupil demonstrates good knowledge of conditions and structures in society. The pupil describes relatively complex connections within different social structures. The pupil conducts developed reasoning about how people can influence and be influenced by conditions and structures in society. The pupil conducts developed reasoning about social issues based on knowledge of conditions and structures in society. The pupil examines information and opinions concerning social issues in different sources with relatively well-founded source-critical arguments."
             }
           },
           {
             "gradeStep": "B",
             "text": {
               "local": "Betygskriterier för betyget B i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan A och C.",
-              "en": ""
+              "en": "Grading criteria for grade B at the end of year 6. The pupil's knowledge is assessed overall as being between A and C."
             }
           },
           {
             "gradeStep": "A",
             "text": {
               "local": "Betygskriterier för betyget A i slutet av årskurs 6Eleven visar mycket goda kunskaper om demokrati och mänskliga rättigheter. Eleven visar mycket goda kunskaper om förhållanden och strukturer i samhället. Eleven beskriver komplexa samband inom olika samhällsstrukturer. Eleven för välutvecklade resonemang om hur människor kan påverka och påverkas av förhållanden och strukturer i samhället. Eleven för välutvecklade resonemang om samhällsfrågor utifrån kunskaper om förhållanden och strukturer i samhället. Eleven granskar information och åsikter som rör samhällsfrågor i olika källor med välgrundade källkritiska argument.",
-              "en": ""
+              "en": "Grading criteria for grade A at the end of year 6. The pupil demonstrates very good knowledge of democracy and human rights. The pupil demonstrates very good knowledge of conditions and structures in society. The pupil describes complex connections within different social structures. The pupil conducts well-developed reasoning about how people can influence and be influenced by conditions and structures in society. The pupil conducts well-developed reasoning about social issues based on knowledge of conditions and structures in society. The pupil examines information and opinions concerning social issues in different sources with well-founded source-critical arguments."
             }
           }
         ]
@@ -562,7 +562,7 @@
             "code": "SH-7-9-1",
             "text": {
               "local": "Människors identiteter, ekonomiska resurser och möjligheter i samhället och hur dessa kan påverkas av bland annat socioekonomisk bakgrund, kön, ålder och etnicitet. Begreppen makt, rättvisa, jämlikhet och jämställdhet.",
-              "en": ""
+              "en": "People's identities, economic resources and opportunities in society and how these can be influenced by, among other things, socioeconomic background, gender, age and ethnicity. The concepts of power, justice, equality and gender equality."
             },
             "coreElements": [
               "Individer och gemenskaper"
@@ -575,7 +575,7 @@
             "code": "SH-7-9-2",
             "text": {
               "local": "Svenska välfärdsstrukturer och hur de fungerar, till exempel sjuk­vårds­systemet och arbetslöshetsförsäkringen.",
-              "en": ""
+              "en": "Swedish welfare structures and how they function, for example the healthcare system and unemployment insurance."
             },
             "coreElements": [
               "Individer och gemenskaper"
@@ -586,7 +586,7 @@
             "code": "SH-7-9-3",
             "text": {
               "local": "Migration till, samt integration och segregation i Sverige i dag.",
-              "en": ""
+              "en": "Migration to, as well as integration and segregation in Sweden today."
             },
             "coreElements": [
               "Individer och gemenskaper"
@@ -597,7 +597,7 @@
             "code": "SH-7-9-4",
             "text": {
               "local": "Hur hushållens, företagens, bankernas och det offentligas ekonomi hänger samman. Orsaker till förändringar i samhällsekonomin och vilka effekter de kan få.",
-              "en": ""
+              "en": "How the finances of households, businesses, banks and the public sector are interconnected. Causes of changes in the national economy and what effects they may have."
             },
             "coreElements": [
               "Samhällsresurser och fördelning"
@@ -608,7 +608,7 @@
             "code": "SH-7-9-5",
             "text": {
               "local": "Länders och regioners beroende av varandra i en globaliserad ekonomi. Skil­da förutsättningar för olika länder och regioner.",
-              "en": ""
+              "en": "The interdependence of countries and regions in a globalised economy. Different conditions for different countries and regions."
             },
             "coreElements": [
               "Samhällsresurser och fördelning"
@@ -619,7 +619,7 @@
             "code": "SH-7-9-6",
             "text": {
               "local": "Orsaker till och konsekvenser av en ojämlik fördelning av inkomster och för­mögenheter mellan människor i Sverige och i olika delar av världen.",
-              "en": ""
+              "en": "Causes of and consequences of an unequal distribution of income and wealth between people in Sweden and in different parts of the world."
             },
             "coreElements": [
               "Samhällsresurser och fördelning"
@@ -630,7 +630,7 @@
             "code": "SH-7-9-7",
             "text": {
               "local": "Arbetsmarknadens och arbetslivets förändringar och villkor, till exempel med avseende på lönebildning, arbetsmiljö och arbetsrätt.",
-              "en": ""
+              "en": "Changes and conditions of the labour market and working life, for example regarding wage formation, working environment and labour law."
             },
             "coreElements": [
               "Samhällsresurser och fördelning"
@@ -641,7 +641,7 @@
             "code": "SH-7-9-8",
             "text": {
               "local": "Vad begreppen demokrati och diktatur, monarki och republik samt par­la­men­tarism och presidentstyre innebär. Exempel på hur dessa olika stats- och styrelseskick kan fungera.",
-              "en": ""
+              "en": "What the concepts of democracy and dictatorship, monarchy and republic, as well as parliamentarism and presidential government mean. Examples of how these different forms of state and government can function."
             },
             "coreElements": [
               "Beslutsfattande och politiska idéer"
@@ -652,7 +652,7 @@
             "code": "SH-7-9-9",
             "text": {
               "local": "Politiska ideologier och skiljelinjer mellan politiska partier i Sverige.",
-              "en": ""
+              "en": "Political ideologies and dividing lines between political parties in Sweden."
             },
             "coreElements": [
               "Beslutsfattande och politiska idéer"
@@ -663,7 +663,7 @@
             "code": "SH-7-9-10",
             "text": {
               "local": "Sveriges politiska system med Europeiska unionen, riksdag, regering, Same­tinget, regioner och kommuner. Sveriges grundlagar.",
-              "en": ""
+              "en": "Sweden's political system with the European Union, the Swedish Parliament, the government, the Sami Parliament, regions and municipalities. Sweden's fundamental laws."
             },
             "coreElements": [
               "Beslutsfattande och politiska idéer"
@@ -674,7 +674,7 @@
             "code": "SH-7-9-11",
             "text": {
               "local": "Var olika beslut fattas och exempel på hur besluten påverkar individer, grupper och samhället i stort. Individers och gruppers möjligheter att på­ver­ka den demokratiska processen.",
-              "en": ""
+              "en": "Where different decisions are made and examples of how the decisions affect individuals, groups and society at large. The opportunities of individuals and groups to influence the democratic process."
             },
             "coreElements": [
               "Beslutsfattande och politiska idéer"
@@ -685,7 +685,7 @@
             "code": "SH-7-9-12",
             "text": {
               "local": "FN:s syfte, huvuduppgifter och verksamhet samt det nordiska samarbetets bak­grund och innehåll.",
-              "en": ""
+              "en": "The purpose, main tasks and activities of the UN, as well as the background and content of Nordic cooperation."
             },
             "coreElements": [
               "Beslutsfattande och politiska idéer"
@@ -696,7 +696,7 @@
             "code": "SH-7-9-13",
             "text": {
               "local": "Kränkningar av de mänskliga rättigheterna i olika delar av världen och inter­nationellt ar­bete för att främja mänskliga rättigheter.",
-              "en": ""
+              "en": "Violations of human rights in different parts of the world and international efforts to promote human rights."
             },
             "coreElements": [
               "Rättigheter och rättsskipning"
@@ -707,7 +707,7 @@
             "code": "SH-7-9-14",
             "text": {
               "local": "De nationella minoriteternas situation i Sverige samt den svenska mino­ri­tets­politiken och dess framväxt. Samernas ställning som urfolk.",
-              "en": ""
+              "en": "The situation of the national minorities in Sweden, as well as Swedish minority policy and its development. The status of the Sami as an indigenous people."
             },
             "coreElements": [
               "Rättigheter och rättsskipning"
@@ -718,7 +718,7 @@
             "code": "SH-7-9-15",
             "text": {
               "local": "Friheter, rättigheter och skyldigheter i demokratiska samhällen. Dilemman som hänger samman med demokratiska rättigheter och skyldigheter, till exem­pel gränsen mellan yttrandefrihet och kränkningar i sociala medier.",
-              "en": ""
+              "en": "Freedoms, rights and obligations in democratic societies. Dilemmas associated with democratic rights and obligations, for example the boundary between freedom of expression and violations in social media."
             },
             "coreElements": [
               "Rättigheter och rättsskipning"
@@ -729,7 +729,7 @@
             "code": "SH-7-9-16",
             "text": {
               "local": "Rättssystemet i Sverige och principer för rättssäkerhet. Möjliga orsaker till och konsekvenser av olika typer av kriminalitet, till exempel korruption, våldsbrott, sexualbrott och hedersrelaterat våld och förtryck. Krimi­nal­vår­dens uppgifter.",
-              "en": ""
+              "en": "The legal system in Sweden and principles of rule of law. Possible causes of and consequences of different types of crime, for example corruption, violent crime, sexual offences and honour-related violence and oppression. The tasks of the correctional services."
             },
             "coreElements": [
               "Rättigheter och rättsskipning"
@@ -740,7 +740,7 @@
             "code": "SH-7-9-17",
             "text": {
               "local": "Hur media produceras, distribueras och konsumeras samt vilka möjligheter och svårigheter det kan innebära för mediernas roll i ett demokratiskt sam­hälle.",
-              "en": ""
+              "en": "How media is produced, distributed and consumed, as well as what opportunities and difficulties this may entail for the role of media in a democratic society."
             },
             "coreElements": [
               "Information och kommunikation"
@@ -751,7 +751,7 @@
             "code": "SH-7-9-18",
             "text": {
               "local": "Nyhetsvärdering och hur den kan påverka människors bilder av omvärlden. Hur individer och grupper framställs i media, till exempel utifrån kön och etnicitet, och hur detta kan påverka normbildning och värderingar.",
-              "en": ""
+              "en": "News evaluation and how it can affect people's perceptions of the world. How individuals and groups are portrayed in the media, for example based on gender and ethnicity, and how this can affect the formation of norms and values."
             },
             "coreElements": [
               "Information och kommunikation"
@@ -762,7 +762,7 @@
             "code": "SH-7-9-19",
             "text": {
               "local": "Lokala, nationella och globala samhällsfrågor och olika perspektiv på dessa.",
-              "en": ""
+              "en": "Local, national and global social issues and different perspectives on these."
             },
             "coreElements": [
               "Granskning av samhällsfrågor"
@@ -773,7 +773,7 @@
             "code": "SH-7-9-20",
             "text": {
               "local": "Kritisk granskning av information, ståndpunkter och argument som rör sam­hälls­frågor i såväl digitala medier som i andra typer av källor.",
-              "en": ""
+              "en": "Critical examination of information, positions and arguments concerning social issues in both digital media and other types of sources."
             },
             "coreElements": [
               "Granskning av samhällsfrågor"
@@ -786,35 +786,35 @@
             "gradeStep": "E",
             "text": {
               "local": "Betygskriterier för betyget E i slutet av årskurs 9Eleven visar grundläggande kunskaper om demokratiska värden och beslutsprocesser samt om mänskliga rättigheter. Eleven för enkla resonemang om olika frågor med koppling till demokratins möjligheter och utmaningar. Eleven visar grundläggande kunskaper om förhållanden och strukturer i samhället. Eleven beskriver enkla samband inom och mellan olika samhällsstrukturer. Eleven för enkla resonemang om hur individer och grupper kan påverka och påverkas av förhållanden och strukturer i samhället. Eleven för enkla resonemang om samhällsfrågor utifrån kunskaper om förhållanden och strukturer i samhället. Eleven granskar information och åsikter som rör samhällsfrågor i olika källor med enkla källkritiska argument.",
-              "en": ""
+              "en": "Grading criteria for grade E at the end of year 9. The pupil demonstrates basic knowledge of democratic values and decision-making processes, as well as human rights. The pupil conducts simple reasoning about various issues related to the opportunities and challenges of democracy. The pupil demonstrates basic knowledge of conditions and structures in society. The pupil describes simple connections within and between different social structures. The pupil conducts simple reasoning about how individuals and groups can influence and be influenced by conditions and structures in society. The pupil conducts simple reasoning about social issues based on knowledge of conditions and structures in society. The pupil examines information and opinions concerning social issues in different sources with simple source-critical arguments."
             }
           },
           {
             "gradeStep": "D",
             "text": {
               "local": "Betygskriterier för betyget D i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan C och E.",
-              "en": ""
+              "en": "Grading criteria for grade D at the end of year 9. The pupil's knowledge is assessed overall as being between C and E."
             }
           },
           {
             "gradeStep": "C",
             "text": {
               "local": "Betygskriterier för betyget C i slutet av årskurs 9Eleven visar goda kunskaper om demokratiska värden och beslutsprocesser samt om mänskliga rättigheter. Eleven för utvecklade resonemang om olika frågor med koppling till demokratins möjligheter och utmaningar. Eleven visar goda kunskaper om förhållanden och strukturer i samhället. Eleven beskriver förhållandevis komplexa samband inom och mellan olika samhällsstrukturer. Eleven för utvecklade resonemang om hur individer och grupper kan påverka och påverkas av förhållanden och strukturer i samhället. Eleven för utvecklade resonemang om samhällsfrågor utifrån kunskaper om förhållanden och strukturer i samhället. Eleven granskar information och åsikter som rör samhällsfrågor i olika källor med relativt välgrundade källkritiska argument.",
-              "en": ""
+              "en": "Grading criteria for grade C at the end of year 9. The pupil demonstrates good knowledge of democratic values and decision-making processes, as well as human rights. The pupil conducts developed reasoning about various issues related to the opportunities and challenges of democracy. The pupil demonstrates good knowledge of conditions and structures in society. The pupil describes relatively complex connections within and between different social structures. The pupil conducts developed reasoning about how individuals and groups can influence and be influenced by conditions and structures in society. The pupil conducts developed reasoning about social issues based on knowledge of conditions and structures in society. The pupil examines information and opinions concerning social issues in different sources with relatively well-founded source-critical arguments."
             }
           },
           {
             "gradeStep": "B",
             "text": {
               "local": "Betygskriterier för betyget B i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan A och C.",
-              "en": ""
+              "en": "Grading criteria for grade B at the end of year 9. The pupil's knowledge is assessed overall as being between A and C."
             }
           },
           {
             "gradeStep": "A",
             "text": {
               "local": "Betygskriterier för betyget A i slutet av årskurs 9Eleven visar mycket goda kunskaper om demokratiska värden och beslutsprocesser samt om mänskliga rättigheter. Eleven för välutvecklade resonemang om olika frågor med koppling till demokratins möjligheter och utmaningar. Eleven visar mycket goda kunskaper om förhållanden och strukturer i samhället. Eleven beskriver komplexa samband inom och mellan olika samhällsstrukturer. Eleven för välutvecklade resonemang om hur individer och grupper kan påverka och påverkas av förhållanden och strukturer i samhället. Eleven för välutvecklade resonemang om samhällsfrågor utifrån kunskaper om förhållanden och strukturer i samhället. Eleven granskar information och åsikter som rör samhällsfrågor i olika källor med välgrundade källkritiska argument.",
-              "en": ""
+              "en": "Grading criteria for grade A at the end of year 9. The pupil demonstrates very good knowledge of democratic values and decision-making processes, as well as human rights. The pupil conducts well-developed reasoning about various issues related to the opportunities and challenges of democracy. The pupil demonstrates very good knowledge of conditions and structures in society. The pupil describes complex connections within and between different social structures. The pupil conducts well-developed reasoning about how individuals and groups can influence and be influenced by conditions and structures in society. The pupil conducts well-developed reasoning about social issues based on knowledge of conditions and structures in society. The pupil examines information and opinions concerning social issues in different sources with well-founded source-critical arguments."
             }
           }
         ]

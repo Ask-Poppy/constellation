@@ -17,33 +17,33 @@
         "code": "",
         "name": {
           "local": "kunskaper om fysikens begrepp och förklaringsmodeller för att beskriva och förklara samband i naturen och samhället,",
-          "en": ""
+          "en": "knowledge of the concepts and explanatory models of physics for describing and explaining relationships in nature and society,"
         },
         "description": {
           "local": "kunskaper om fysikens begrepp och förklaringsmodeller för att beskriva och förklara samband i naturen och samhället,",
-          "en": ""
+          "en": "knowledge of the concepts and explanatory models of physics for describing and explaining relationships in nature and society,"
         }
       },
       {
         "code": "",
         "name": {
           "local": "förmåga att använda fysik för att granska information, kommunicera och ta ställning i frågor som rör energi, teknik och miljö, och",
-          "en": ""
+          "en": "ability to use physics to examine information, communicate and take a position on issues concerning energy, technology and the environment, and"
         },
         "description": {
           "local": "förmåga att använda fysik för att granska information, kommunicera och ta ställning i frågor som rör energi, teknik och miljö, och",
-          "en": ""
+          "en": "ability to use physics to examine information, communicate and take a position on issues concerning energy, technology and the environment, and"
         }
       },
       {
         "code": "",
         "name": {
           "local": "förmåga att genomföra systematiska undersökningar i fysik.",
-          "en": ""
+          "en": "ability to carry out systematic investigations in physics."
         },
         "description": {
           "local": "förmåga att genomföra systematiska undersökningar i fysik.",
-          "en": ""
+          "en": "ability to carry out systematic investigations in physics."
         }
       }
     ],
@@ -59,7 +59,7 @@
             "code": "FY-1-3-1",
             "text": {
               "local": "Årstidsväxlingar i naturen. Några djurs och växters livscykler och an­pass­ningar till olika livsmiljöer och årstider.",
-              "en": ""
+              "en": "Seasonal changes in nature. The life cycles of some animals and plants, and their adaptations to different habitats and seasons."
             },
             "coreElements": [
               "Året runt i naturen"
@@ -70,7 +70,7 @@
             "code": "FY-1-3-2",
             "text": {
               "local": "Djur, växter och svampar i närmiljön, hur de kan grupperas samt namn på några vanligt förekommande arter.",
-              "en": ""
+              "en": "Animals, plants and fungi in the local environment, how they can be grouped, and the names of some commonly occurring species."
             },
             "coreElements": [
               "Året runt i naturen"
@@ -81,7 +81,7 @@
             "code": "FY-1-3-3",
             "text": {
               "local": "Enkla näringskedjor som beskriver samband mellan organismer i eko­system.",
-              "en": ""
+              "en": "Simple food chains describing relationships between organisms in ecosystems."
             },
             "coreElements": [
               "Året runt i naturen"
@@ -92,7 +92,7 @@
             "code": "FY-1-3-4",
             "text": {
               "local": "Några av människans organ, deras namn och översiktliga funktion.",
-              "en": ""
+              "en": "Some of the human organs, their names and general function."
             },
             "coreElements": [
               "Kropp och hälsa"
@@ -103,7 +103,7 @@
             "code": "FY-1-3-5",
             "text": {
               "local": "Människans upplevelser av ljus, ljud, värme, smak och doft med hjälp av oli­ka sinnen.",
-              "en": ""
+              "en": "Human perception of light, sound, heat, taste and smell through different senses."
             },
             "coreElements": [
               "Kropp och hälsa"
@@ -114,7 +114,7 @@
             "code": "FY-1-3-6",
             "text": {
               "local": "Betydelsen av kost, sömn, hygien, motion och sociala relationer för att må bra.",
-              "en": ""
+              "en": "The importance of diet, sleep, hygiene, exercise and social relationships for well-being."
             },
             "coreElements": [
               "Kropp och hälsa"
@@ -125,7 +125,7 @@
             "code": "FY-1-3-7",
             "text": {
               "local": "Tyngdkraft, tyngdpunkt, jämvikt, balans och friktion som kan upplevas och obser­veras vid lek och rörelse.",
-              "en": ""
+              "en": "Gravity, centre of gravity, equilibrium, balance and friction that can be experienced and observed during play and movement."
             },
             "coreElements": [
               "Kraft och rörelse"
@@ -136,7 +136,7 @@
             "code": "FY-1-3-8",
             "text": {
               "local": "Solsystemets himlakroppar och deras rörelser. Människan i rymden.",
-              "en": ""
+              "en": "The celestial bodies of the solar system and their movements. Humans in space."
             },
             "coreElements": [
               "Kraft och rörelse"
@@ -147,7 +147,7 @@
             "code": "FY-1-3-9",
             "text": {
               "local": "Hur material kan sorteras efter några egenskaper, till exempel utseende, om de är magnetiska och om de flyter eller sjunker i vatten. Hur materialen kan åter­vinnas.",
-              "en": ""
+              "en": "How materials can be sorted by certain properties, for example appearance, whether they are magnetic, and whether they float or sink in water. How materials can be recycled."
             },
             "coreElements": [
               "Material och ämnen"
@@ -158,7 +158,7 @@
             "code": "FY-1-3-10",
             "text": {
               "local": "Några blandningar och hur de kan delas upp i sina olika beståndsdelar, till exempel genom avdunstning och filtrering.",
-              "en": ""
+              "en": "Some mixtures and how they can be separated into their different components, for example through evaporation and filtration."
             },
             "coreElements": [
               "Material och ämnen"
@@ -169,7 +169,7 @@
             "code": "FY-1-3-11",
             "text": {
               "local": "Vattnets olika former: fast, flytande och gas. Avdunstning, kokning, kon­den­sering, smältning och stelning.",
-              "en": ""
+              "en": "The different forms of water: solid, liquid and gas. Evaporation, boiling, condensation, melting and solidification."
             },
             "coreElements": [
               "Material och ämnen"
@@ -180,7 +180,7 @@
             "code": "FY-1-3-12",
             "text": {
               "local": "Enkla fältstudier, observationer och experiment. Utförande och doku­men­ta­tion av undersökningarna med ord, bilder och digitala verktyg.",
-              "en": ""
+              "en": "Simple field studies, observations and experiments. Carrying out and documenting the investigations with words, pictures and digital tools."
             },
             "coreElements": [
               "Systematiska undersökningar"
@@ -193,7 +193,7 @@
             "code": "FY-1-3-13",
             "text": {
               "local": "Några berättelser om hur naturvetenskaplig kunskap vuxit fram.",
-              "en": ""
+              "en": "Some stories about how scientific knowledge has developed."
             },
             "coreElements": [
               "Systematiska undersökningar"
@@ -206,7 +206,7 @@
             "gradeStep": "",
             "text": {
               "local": "Kriterier för bedömning av godtagbara kunskaper i slutet av årskurs 3Eleven visar grundläggande kunskaper om natur, kropp och hälsa, kraft och rörelse samt material och ämnen. Utifrån egna upplevelser och utforskande av närmiljön beskriver eleven enkla naturvetenskapliga samband i naturen och människokroppen. Utifrån tydliga instruktioner utför eleven enkla fältstudier, observationer och experiment.",
-              "en": ""
+              "en": "Criteria for assessing acceptable knowledge at the end of year 3. The pupil demonstrates basic knowledge of nature, the body and health, force and motion, and materials and substances. Based on their own experiences and exploration of the local environment, the pupil describes simple scientific relationships in nature and the human body. Following clear instructions, the pupil carries out simple field studies, observations and experiments."
             }
           }
         ]
@@ -222,7 +222,7 @@
             "code": "FY-4-6-1",
             "text": {
               "local": "Hur dag, natt, årstider och år kan förklaras utifrån rörelser hos solsystemets himla­kroppar.",
-              "en": ""
+              "en": "How day, night, seasons and years can be explained by the movements of the celestial bodies in the solar system."
             },
             "coreElements": [
               "Fysiken i naturen och samhället"
@@ -235,7 +235,7 @@
             "code": "FY-4-6-2",
             "text": {
               "local": "Vanliga väderfenomen och deras orsaker, till exempel hur vindar och ne­der­börd uppstår.",
-              "en": ""
+              "en": "Common weather phenomena and their causes, for example how winds and precipitation occur."
             },
             "coreElements": [
               "Fysiken i naturen och samhället"
@@ -246,7 +246,7 @@
             "code": "FY-4-6-3",
             "text": {
               "local": "Energiformer samt olika typer av energikällor och deras påverkan på miljön.",
-              "en": ""
+              "en": "Forms of energy, and different types of energy sources and their impact on the environment."
             },
             "coreElements": [
               "Fysiken i naturen och samhället"
@@ -257,7 +257,7 @@
             "code": "FY-4-6-4",
             "text": {
               "local": "Energiflöden mellan föremål som har olika temperatur. Hur man kan på­ver­ka energiflödena med hjälp av olika värmeledande och isolerande ma­te­rial.",
-              "en": ""
+              "en": "Energy flows between objects at different temperatures. How energy flows can be influenced using different heat-conducting and insulating materials."
             },
             "coreElements": [
               "Fysiken i naturen och samhället"
@@ -268,7 +268,7 @@
             "code": "FY-4-6-5",
             "text": {
               "local": "Hur ljus och ljud breder ut sig och kan reflekteras.",
-              "en": ""
+              "en": "How light and sound propagate and can be reflected."
             },
             "coreElements": [
               "Fysiken i naturen och samhället"
@@ -281,7 +281,7 @@
             "code": "FY-4-6-6",
             "text": {
               "local": "Elektriska kretsar med batterier. Hur de kan kopplas och hur de kan an­vän­das i vardaglig elektrisk utrustning.",
-              "en": ""
+              "en": "Electrical circuits with batteries. How they can be connected and how they can be used in everyday electrical equipment."
             },
             "coreElements": [
               "Fysiken i naturen och samhället"
@@ -292,7 +292,7 @@
             "code": "FY-4-6-7",
             "text": {
               "local": "Krafter och rörelser som kan observeras och mätas i vardagssituationer.",
-              "en": ""
+              "en": "Forces and motion that can be observed and measured in everyday situations."
             },
             "coreElements": [
               "Fysiken i naturen och samhället"
@@ -303,7 +303,7 @@
             "code": "FY-4-6-8",
             "text": {
               "local": "Några instrument samt hur de används för att mäta fysikaliska storheter, till exempel temperatur och kraft.",
-              "en": ""
+              "en": "Some instruments and how they are used to measure physical quantities, for example temperature and force."
             },
             "coreElements": [
               "Fysiken i naturen och samhället"
@@ -314,7 +314,7 @@
             "code": "FY-4-6-9",
             "text": {
               "local": "Observationer och experiment med såväl analoga som digitala verktyg. Plane­ring, utförande, värdering av resultat samt dokumentation med ord, bil­der och tabeller.",
-              "en": ""
+              "en": "Observations and experiments using both analogue and digital tools. Planning, carrying out, evaluating results and documenting with words, pictures and tables."
             },
             "coreElements": [
               "Systematiska undersökningar och granskning av information"
@@ -327,7 +327,7 @@
             "code": "FY-4-6-10",
             "text": {
               "local": "Några upptäckter inom fysikområdet och deras betydelse för människans lev­nads­villkor och syn på naturen.",
-              "en": ""
+              "en": "Some discoveries in the field of physics and their significance for human living conditions and views of nature."
             },
             "coreElements": [
               "Systematiska undersökningar och granskning av information"
@@ -338,7 +338,7 @@
             "code": "FY-4-6-11",
             "text": {
               "local": "Kritisk granskning och användning av information som rör fysik.",
-              "en": ""
+              "en": "Critical examination and use of information relating to physics."
             },
             "coreElements": [
               "Systematiska undersökningar och granskning av information"
@@ -351,35 +351,35 @@
             "gradeStep": "E",
             "text": {
               "local": "Betygskriterier för betyget E i slutet av årskurs 6Eleven visar grundläggande kunskaper om fysikens begrepp och förklaringsmodeller. Med viss användning av begreppen och förklaringsmodellerna beskriver eleven enkla fysikaliska fenomen i naturen och samhället. Eleven använder information som rör fysik för att med viss naturvetenskaplig underbyggnad föra resonemang i frågor som rör energi, teknik och miljö. Eleven söker svar på frågor genom att utföra systematiska undersökningar på ett säkert och i huvudsak fungerande sätt. Eleven värderar resultaten och beskriver på ett enkelt sätt undersökningarna.",
-              "en": ""
+              "en": "Grading criteria for grade E at the end of year 6. The pupil demonstrates basic knowledge of the concepts and explanatory models of physics. With some use of the concepts and explanatory models, the pupil describes simple physical phenomena in nature and society. The pupil uses information relating to physics to reason with some scientific basis on issues concerning energy, technology and the environment. The pupil seeks answers to questions by carrying out systematic investigations in a safe and essentially functioning way. The pupil evaluates the results and describes the investigations in a simple way."
             }
           },
           {
             "gradeStep": "D",
             "text": {
               "local": "Betygskriterier för betyget D i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan C och E.",
-              "en": ""
+              "en": "Grading criteria for grade D at the end of year 6. The pupil's knowledge is assessed overall as being between C and E."
             }
           },
           {
             "gradeStep": "C",
             "text": {
               "local": "Betygskriterier för betyget C i slutet av årskurs 6Eleven visar goda kunskaper om fysikens begrepp och förklaringsmodeller. Med relativt god användning av begreppen och förklaringsmodellerna beskriver eleven enkla fysikaliska fenomen i naturen och samhället. Eleven använder information som rör fysik för att med relativt god naturvetenskaplig underbyggnad föra resonemang i frågor som rör energi, teknik och miljö. Eleven söker svar på frågor genom att utföra systematiska undersökningar på ett säkert och fungerande sätt. Eleven värderar resultaten och beskriver på ett utvecklat sätt undersökningarna.",
-              "en": ""
+              "en": "Grading criteria for grade C at the end of year 6. The pupil demonstrates good knowledge of the concepts and explanatory models of physics. With relatively good use of the concepts and explanatory models, the pupil describes simple physical phenomena in nature and society. The pupil uses information relating to physics to reason with a relatively good scientific basis on issues concerning energy, technology and the environment. The pupil seeks answers to questions by carrying out systematic investigations in a safe and functioning way. The pupil evaluates the results and describes the investigations in a developed way."
             }
           },
           {
             "gradeStep": "B",
             "text": {
               "local": "Betygskriterier för betyget B i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan A och C.",
-              "en": ""
+              "en": "Grading criteria for grade B at the end of year 6. The pupil's knowledge is assessed overall as being between A and C."
             }
           },
           {
             "gradeStep": "A",
             "text": {
               "local": "Betygskriterier för betyget A i slutet av årskurs 6Eleven visar mycket goda kunskaper om fysikens begrepp och förklaringsmodeller. Med god användning av begreppen och förklaringsmodellerna beskriver eleven enkla fysikaliska fenomen i naturen och samhället. Eleven använder information som rör fysik för att med god naturvetenskaplig underbyggnad föra resonemang i frågor som rör energi, teknik och miljö. Eleven söker svar på frågor genom att utföra systematiska undersökningar på ett säkert och väl fungerande sätt. Eleven värderar resultaten och beskriver på ett välutvecklat sätt undersökningarna.",
-              "en": ""
+              "en": "Grading criteria for grade A at the end of year 6. The pupil demonstrates very good knowledge of the concepts and explanatory models of physics. With good use of the concepts and explanatory models, the pupil describes simple physical phenomena in nature and society. The pupil uses information relating to physics to reason with a good scientific basis on issues concerning energy, technology and the environment. The pupil seeks answers to questions by carrying out systematic investigations in a safe and well-functioning way. The pupil evaluates the results and describes the investigations in a well-developed way."
             }
           }
         ]
@@ -395,7 +395,7 @@
             "code": "FY-7-9-1",
             "text": {
               "local": "Universums uppkomst, uppbyggnad och utveckling samt förutsättningar för att finna planeter och liv i andra solsystem.",
-              "en": ""
+              "en": "The origin, structure and development of the universe, and the conditions for finding planets and life in other solar systems."
             },
             "coreElements": [
               "Fysiken i naturen och samhället"
@@ -406,7 +406,7 @@
             "code": "FY-7-9-2",
             "text": {
               "local": "Partikelmodell av materiens egenskaper samt fasövergångar, tryck, volym, densitet och temperatur.",
-              "en": ""
+              "en": "A particle model of the properties of matter, and phase transitions, pressure, volume, density and temperature."
             },
             "coreElements": [
               "Fysiken i naturen och samhället"
@@ -417,7 +417,7 @@
             "code": "FY-7-9-3",
             "text": {
               "local": "Fysikaliska förklaringsmodeller av jordens strålningsbalans, växt­hu­seffek­ten och klimatförändringar.",
-              "en": ""
+              "en": "Physical explanatory models of the Earth's radiation balance, the greenhouse effect and climate change."
             },
             "coreElements": [
               "Fysiken i naturen och samhället"
@@ -428,7 +428,7 @@
             "code": "FY-7-9-4",
             "text": {
               "local": "Energins flöde och oförstörbarhet samt olika energislags kvalitet. Olika ty­per av energikällor samt deras för- och nackdelar för samhället och miljön.",
-              "en": ""
+              "en": "The flow and conservation of energy, and the quality of different forms of energy. Different types of energy sources and their advantages and disadvantages for society and the environment."
             },
             "coreElements": [
               "Fysiken i naturen och samhället"
@@ -439,7 +439,7 @@
             "code": "FY-7-9-5",
             "text": {
               "local": "Partikelstrålning och elektromagnetisk strålning, deras an­vänd­nings­områ­den och risker.",
-              "en": ""
+              "en": "Particle radiation and electromagnetic radiation, their areas of application and risks."
             },
             "coreElements": [
               "Fysiken i naturen och samhället"
@@ -450,7 +450,7 @@
             "code": "FY-7-9-6",
             "text": {
               "local": "Hur ljus breder ut sig, reflekteras och bryts.",
-              "en": ""
+              "en": "How light propagates, is reflected and is refracted."
             },
             "coreElements": [
               "Fysiken i naturen och samhället"
@@ -463,7 +463,7 @@
             "code": "FY-7-9-7",
             "text": {
               "local": "Hur ljud uppstår, breder ut sig och kan registreras på olika sätt.",
-              "en": ""
+              "en": "How sound is produced, propagates and can be recorded in different ways."
             },
             "coreElements": [
               "Fysiken i naturen och samhället"
@@ -474,7 +474,7 @@
             "code": "FY-7-9-8",
             "text": {
               "local": "Sambandet mellan elektricitet och magnetism samt mellan ström och spän­ning i elektriska kretsar. Hur kretsarna kan användas i elektrisk utrustning.",
-              "en": ""
+              "en": "The relationship between electricity and magnetism, and between current and voltage in electrical circuits. How circuits can be used in electrical equipment."
             },
             "coreElements": [
               "Fysiken i naturen och samhället"
@@ -487,7 +487,7 @@
             "code": "FY-7-9-9",
             "text": {
               "local": "Krafter, rörelser och rörelseförändringar samt hur kunskaper om detta kan an­vändas, till exempel i frågor om trafiksäkerhet.",
-              "en": ""
+              "en": "Forces, motion and changes in motion, and how knowledge of this can be used, for example in issues of traffic safety."
             },
             "coreElements": [
               "Fysiken i naturen och samhället"
@@ -498,7 +498,7 @@
             "code": "FY-7-9-10",
             "text": {
               "local": "Några instrument för att mäta fysikaliska storheter, till exempel kraft och ström. Användning av mätvärden i enkla beräkningar, till exempel beräk­ningar av densitet och hastighet.",
-              "en": ""
+              "en": "Some instruments for measuring physical quantities, for example force and current. Use of measured values in simple calculations, for example calculations of density and speed."
             },
             "coreElements": [
               "Fysiken i naturen och samhället"
@@ -509,7 +509,7 @@
             "code": "FY-7-9-11",
             "text": {
               "local": "Observationer och experiment med såväl analoga som digitala verktyg. For­mulering av undersökningsbara frågor, planering, utförande, värdering av resultat samt dokumentation med bilder, tabeller, diagram och rapporter.",
-              "en": ""
+              "en": "Observations and experiments using both analogue and digital tools. Formulating investigable questions, planning, carrying out, evaluating results and documenting with pictures, tables, charts and reports."
             },
             "coreElements": [
               "Systematiska undersökningar och granskning av information"
@@ -522,7 +522,7 @@
             "code": "FY-7-9-12",
             "text": {
               "local": "Sambandet mellan undersökningar av fysikaliska fenomen och ut­veck­lingen av begrepp och förklaringsmodeller. De fysikaliska förklarings­modeller­nas historiska framväxt, användbarhet och föränderlighet.",
-              "en": ""
+              "en": "The connection between investigations of physical phenomena and the development of concepts and explanatory models. The historical emergence, usefulness and changeability of physical explanatory models."
             },
             "coreElements": [
               "Systematiska undersökningar och granskning av information"
@@ -533,7 +533,7 @@
             "code": "FY-7-9-13",
             "text": {
               "local": "Informationssökning, kritisk granskning och användning av information som rör fysik. Argumentation och ställningstaganden i aktuella frågor som rör energi, teknik och miljö.",
-              "en": ""
+              "en": "Searching for information, critical examination and use of information relating to physics. Argumentation and taking positions on current issues concerning energy, technology and the environment."
             },
             "coreElements": [
               "Systematiska undersökningar och granskning av information"
@@ -546,35 +546,35 @@
             "gradeStep": "E",
             "text": {
               "local": "Betygskriterier för betyget E i slutet av årskurs 9Eleven visar grundläggande kunskaper om fysikens begrepp och förklaringsmodeller. Med viss användning av begreppen och förklaringsmodellerna beskriver och förklarar eleven fysikaliska fenomen i naturen och samhället. I frågor som rör energi, teknik och miljö för eleven resonemang samt framför och bemöter argument med viss naturvetenskaplig underbyggnad. Eleven söker information som rör fysik och använder då olika källor och för enkla resonemang om informationens och källornas trovärdighet och relevans. Eleven söker svar på frågor genom att planera och utföra systematiska undersökningar på ett säkert och i huvudsak fungerande sätt. Eleven värderar undersökningarna genom att föra enkla resonemang utifrån frågeställningarna.",
-              "en": ""
+              "en": "Grading criteria for grade E at the end of year 9. The pupil demonstrates basic knowledge of the concepts and explanatory models of physics. With some use of the concepts and explanatory models, the pupil describes and explains physical phenomena in nature and society. On issues concerning energy, technology and the environment, the pupil reasons and presents and responds to arguments with some scientific basis. The pupil searches for information relating to physics, uses different sources and conducts simple reasoning about the credibility and relevance of the information and sources. The pupil seeks answers to questions by planning and carrying out systematic investigations in a safe and essentially functioning way. The pupil evaluates the investigations by conducting simple reasoning based on the research questions."
             }
           },
           {
             "gradeStep": "D",
             "text": {
               "local": "Betygskriterier för betyget D i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan C och E.",
-              "en": ""
+              "en": "Grading criteria for grade D at the end of year 9. The pupil's knowledge is assessed overall as being between C and E."
             }
           },
           {
             "gradeStep": "C",
             "text": {
               "local": "Betygskriterier för betyget C i slutet av årskurs 9Eleven visar goda kunskaper om fysikens begrepp och förklaringsmodeller. Med relativt god användning av begreppen och förklaringsmodellerna beskriver och förklarar eleven fysikaliska fenomen i naturen och samhället. I frågor som rör energi, teknik och miljö för eleven resonemang samt framför och bemöter argument med relativt god naturvetenskaplig underbyggnad. Eleven söker information som rör fysik och använder då olika källor och för utvecklade resonemang om informationens och källornas trovärdighet och relevans. Eleven söker svar på frågor genom att planera och utföra systematiska undersökningar på ett säkert och fungerande sätt. Eleven värderar undersökningarna genom att föra utvecklade resonemang utifrån frågeställningarna.",
-              "en": ""
+              "en": "Grading criteria for grade C at the end of year 9. The pupil demonstrates good knowledge of the concepts and explanatory models of physics. With relatively good use of the concepts and explanatory models, the pupil describes and explains physical phenomena in nature and society. On issues concerning energy, technology and the environment, the pupil reasons and presents and responds to arguments with a relatively good scientific basis. The pupil searches for information relating to physics, uses different sources and conducts developed reasoning about the credibility and relevance of the information and sources. The pupil seeks answers to questions by planning and carrying out systematic investigations in a safe and functioning way. The pupil evaluates the investigations by conducting developed reasoning based on the research questions."
             }
           },
           {
             "gradeStep": "B",
             "text": {
               "local": "Betygskriterier för betyget B i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan A och C.",
-              "en": ""
+              "en": "Grading criteria for grade B at the end of year 9. The pupil's knowledge is assessed overall as being between A and C."
             }
           },
           {
             "gradeStep": "A",
             "text": {
               "local": "Betygskriterier för betyget A i slutet av årskurs 9Eleven visar mycket goda kunskaper om fysikens begrepp och förklaringsmodeller. Med god användning av begreppen och förklaringsmodellerna beskriver och förklarar eleven fysikaliska fenomen i naturen och samhället. I frågor som rör energi, teknik och miljö för eleven resonemang samt framför och bemöter argument med god naturvetenskaplig underbyggnad. Eleven söker information som rör fysik och använder då olika källor och för välutvecklade resonemang om informationens och källornas trovärdighet och relevans. Eleven söker svar på frågor genom att planera och utföra systematiska undersökningar på ett säkert och väl fungerande sätt. Eleven värderar undersökningarna genom att föra välutvecklade resonemang utifrån frågeställningarna.",
-              "en": ""
+              "en": "Grading criteria for grade A at the end of year 9. The pupil demonstrates very good knowledge of the concepts and explanatory models of physics. With good use of the concepts and explanatory models, the pupil describes and explains physical phenomena in nature and society. On issues concerning energy, technology and the environment, the pupil reasons and presents and responds to arguments with a good scientific basis. The pupil searches for information relating to physics, uses different sources and conducts well-developed reasoning about the credibility and relevance of the information and sources. The pupil seeks answers to questions by planning and carrying out systematic investigations in a safe and well-functioning way. The pupil evaluates the investigations by conducting well-developed reasoning based on the research questions."
             }
           }
         ]

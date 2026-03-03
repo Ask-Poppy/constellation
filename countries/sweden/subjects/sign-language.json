@@ -17,44 +17,44 @@
         "code": "",
         "name": {
           "local": "förståelse av det svenska teckenspråket,",
-          "en": ""
+          "en": "comprehension of Swedish Sign Language,"
         },
         "description": {
           "local": "förståelse av det svenska teckenspråket,",
-          "en": ""
+          "en": "comprehension of Swedish Sign Language,"
         }
       },
       {
         "code": "",
         "name": {
           "local": "förmåga att formulera sig och kommunicera på svenskt teckenspråk,",
-          "en": ""
+          "en": "the ability to express oneself and communicate in Swedish Sign Language,"
         },
         "description": {
           "local": "förmåga att formulera sig och kommunicera på svenskt teckenspråk,",
-          "en": ""
+          "en": "the ability to express oneself and communicate in Swedish Sign Language,"
         }
       },
       {
         "code": "",
         "name": {
           "local": "förmåga att anpassa språket efter olika syften, mottagare och sammanhang, och",
-          "en": ""
+          "en": "the ability to adapt language to different purposes, audiences and contexts, and"
         },
         "description": {
           "local": "förmåga att anpassa språket efter olika syften, mottagare och sammanhang, och",
-          "en": ""
+          "en": "the ability to adapt language to different purposes, audiences and contexts, and"
         }
       },
       {
         "code": "",
         "name": {
           "local": "förståelse av kulturella och sociala förhållanden bland döva och andra teckenspråkiga i olika sammanhang och situationer, nationellt och in­ter­nationellt.",
-          "en": ""
+          "en": "understanding of cultural and social conditions among deaf and other sign language users in different contexts and situations, nationally and internationally."
         },
         "description": {
           "local": "förståelse av kulturella och sociala förhållanden bland döva och andra teckenspråkiga i olika sammanhang och situationer, nationellt och in­ter­nationellt.",
-          "en": ""
+          "en": "understanding of cultural and social conditions among deaf and other sign language users in different contexts and situations, nationally and internationally."
         }
       }
     ],
@@ -70,7 +70,7 @@
             "code": "GRGRTSP01-4-6-1",
             "text": {
               "local": "Ämnesområden som är välbekanta för eleverna.",
-              "en": ""
+              "en": "Subject areas that are familiar to the pupils."
             },
             "coreElements": [
               "Kommunikationens innehåll"
@@ -81,7 +81,7 @@
             "code": "GRGRTSP01-4-6-2",
             "text": {
               "local": "Vardagliga situationer, intressen, personer och platser.",
-              "en": ""
+              "en": "Everyday situations, interests, people and places."
             },
             "coreElements": [
               "Kommunikationens innehåll"
@@ -92,7 +92,7 @@
             "code": "GRGRTSP01-4-6-3",
             "text": {
               "local": "Vardagsliv och levnadssätt i olika sammanhang där teckenspråk används.",
-              "en": ""
+              "en": "Everyday life and ways of living in different contexts where sign language is used."
             },
             "coreElements": [
               "Kommunikationens innehåll"
@@ -103,7 +103,7 @@
             "code": "GRGRTSP01-4-6-4",
             "text": {
               "local": "Tydligt teckenspråk och enkla teckenspråkiga texter som är instruerande, be­skrivande och kontaktskapande, från olika medier, även i kombination med illustrationer.",
-              "en": ""
+              "en": "Clear sign language and simple sign language texts that are instructional, descriptive and contact-establishing, from different media, also in combination with illustrations."
             },
             "coreElements": [
               "Avläsa – reception"
@@ -116,7 +116,7 @@
             "code": "GRGRTSP01-4-6-5",
             "text": {
               "local": "Enkla dialoger och samtal.",
-              "en": ""
+              "en": "Simple dialogues and conversations."
             },
             "coreElements": [
               "Avläsa – reception"
@@ -127,7 +127,7 @@
             "code": "GRGRTSP01-4-6-6",
             "text": {
               "local": "Enkla meddelanden och enkel information.",
-              "en": ""
+              "en": "Simple messages and simple information."
             },
             "coreElements": [
               "Avläsa – reception"
@@ -138,7 +138,7 @@
             "code": "GRGRTSP01-4-6-7",
             "text": {
               "local": "Strategier för att uppfatta betydelsebärande enheter, till exempel genom att gissa och dra slutsatser med hjälp av sammanhanget.",
-              "en": ""
+              "en": "Strategies for perceiving meaningful units, for example by guessing and drawing conclusions with the help of context."
             },
             "coreElements": [
               "Avläsa – reception"
@@ -149,7 +149,7 @@
             "code": "GRGRTSP01-4-6-8",
             "text": {
               "local": "Sökning av mycket enkel, tydlig information i anvisade teckenspråkiga källor av olika slag, till exempel för att identifiera siffror, platser och namn.",
-              "en": ""
+              "en": "Searching for very simple, clear information in designated sign language sources of different kinds, for example to identify numbers, places and names."
             },
             "coreElements": [
               "Avläsa – reception"
@@ -162,7 +162,7 @@
             "code": "GRGRTSP01-4-6-9",
             "text": {
               "local": "Språkliga företeelser i det språk eleverna möter, med betoning på icke-ma­nuella markörer samt spatiala och simultana särdrag.",
-              "en": ""
+              "en": "Linguistic phenomena in the language the pupils encounter, with emphasis on non-manual markers and spatial and simultaneous features."
             },
             "coreElements": [
               "Avläsa – reception"
@@ -173,7 +173,7 @@
             "code": "GRGRTSP01-4-6-10",
             "text": {
               "local": "Hur tecken och vardagsfraser används i olika situationer.",
-              "en": ""
+              "en": "How signs and everyday phrases are used in different situations."
             },
             "coreElements": [
               "Avläsa – reception"
@@ -184,7 +184,7 @@
             "code": "GRGRTSP01-4-6-11",
             "text": {
               "local": "Enkla presentationer, meddelanden, beskrivningar och dialoger.",
-              "en": ""
+              "en": "Simple presentations, messages, descriptions and dialogues."
             },
             "coreElements": [
               "Teckna och samtala – produktion och interaktion"
@@ -195,7 +195,7 @@
             "code": "GRGRTSP01-4-6-12",
             "text": {
               "local": "Strategier för att underlätta samtal, till exempel gester och frågor.",
-              "en": ""
+              "en": "Strategies for facilitating conversation, for example gestures and questions."
             },
             "coreElements": [
               "Teckna och samtala – produktion och interaktion"
@@ -206,7 +206,7 @@
             "code": "GRGRTSP01-4-6-13",
             "text": {
               "local": "Språkliga företeelser för att förtydliga kommunikationen med betoning på tecken och bokstavering.",
-              "en": ""
+              "en": "Linguistic phenomena for clarifying communication with emphasis on signs and fingerspelling."
             },
             "coreElements": [
               "Teckna och samtala – produktion och interaktion"
@@ -219,70 +219,70 @@
             "gradeStep": "E",
             "text": {
               "local": "Inom ramen för skolans valBetygskriterier för betyget E i slutet av årskurs 6Eleven förstår vanliga, enkla tecken och fraser i tydligt och enkelt teckenspråk i långsamt tempo om välbekanta ämnen. I framställningar av olika slag formulerar sig eleven mycket enkelt och i huvudsak begripligt med enstaka vanliga tecken och fraser. I interaktion uttrycker sig eleven mycket enkelt och i huvudsak begripligt med enstaka vanliga tecken och fraser. Dessutom använder eleven strategier som i någon mån underlättar interaktionen. Eleven kommenterar på ett mycket enkelt sätt, på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.",
-              "en": ""
+              "en": "Within the framework of the school's choice. Grading criteria for grade E at the end of year 6. The pupil understands common, simple signs and phrases in clear and simple sign language at a slow pace about familiar topics. In presentations of different kinds, the pupil expresses themselves very simply and in a mainly comprehensible way using isolated common signs and phrases. In interaction, the pupil expresses themselves very simply and in a mainly comprehensible way using isolated common signs and phrases. In addition, the pupil uses strategies that to some extent facilitate the interaction. The pupil comments in a very simple way, in sign language, on conditions in different contexts where sign language is used."
             }
           },
           {
             "gradeStep": "D",
             "text": {
               "local": "Betygskriterier för betyget D i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan C och E.",
-              "en": ""
+              "en": "Grading criteria for grade D at the end of year 6. The pupil's knowledge is assessed overall as being between C and E."
             }
           },
           {
             "gradeStep": "C",
             "text": {
               "local": "Betygskriterier för betyget C i slutet av årskurs 6Eleven förstår enkla tecken och fraser i tydligt och enkelt teckenspråk i långsamt tempo om välbekanta ämnen. I framställningar av olika slag formulerar sig eleven mycket enkelt och begripligt med vanliga tecken och fraser. I interaktion uttrycker sig eleven mycket enkelt och begripligt med vanliga tecken och fraser. Dessutom använder eleven strategier som i viss utsträckning underlättar interaktionen. Eleven kommenterar på ett mycket enkelt sätt, på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.",
-              "en": ""
+              "en": "Grading criteria for grade C at the end of year 6. The pupil understands simple signs and phrases in clear and simple sign language at a slow pace about familiar topics. In presentations of different kinds, the pupil expresses themselves very simply and comprehensibly using common signs and phrases. In interaction, the pupil expresses themselves very simply and comprehensibly using common signs and phrases. In addition, the pupil uses strategies that to some extent facilitate the interaction. The pupil comments in a very simple way, in sign language, on conditions in different contexts where sign language is used."
             }
           },
           {
             "gradeStep": "B",
             "text": {
               "local": "Betygskriterier för betyget B i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan A och C.",
-              "en": ""
+              "en": "Grading criteria for grade B at the end of year 6. The pupil's knowledge is assessed overall as being between A and C."
             }
           },
           {
             "gradeStep": "A",
             "text": {
               "local": "Betygskriterier för betyget A i slutet av årskurs 6Eleven förstår huvudsakligt innehåll och tydliga detaljer i tydligt och enkelt teckenspråk i långsamt tempo om välbekanta ämnen. I framställningar av olika slag formulerar sig eleven enkelt och relativt tydligt med vanliga tecken och fraser. I interaktion uttrycker sig eleven enkelt och relativt tydligt med vanliga tecken och fraser. Dessutom använder eleven strategier som underlättar interaktionen. Eleven kommenterar på ett mycket enkelt sätt, på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.",
-              "en": ""
+              "en": "Grading criteria for grade A at the end of year 6. The pupil understands the main content and clear details in clear and simple sign language at a slow pace about familiar topics. In presentations of different kinds, the pupil expresses themselves simply and relatively clearly using common signs and phrases. In interaction, the pupil expresses themselves simply and relatively clearly using common signs and phrases. In addition, the pupil uses strategies that facilitate the interaction. The pupil comments in a very simple way, in sign language, on conditions in different contexts where sign language is used."
             }
           },
           {
             "gradeStep": "E",
             "text": {
               "local": "Inom ramen för språkvalBetygskriterier för betyget E i slutet av årskurs 6Eleven förstår vanliga, enkla tecken och fraser i tydligt och enkelt teckenspråk i långsamt tempo om välbekanta ämnen. I framställningar av olika slag formulerar sig eleven mycket enkelt och i huvudsak begripligt med enstaka vanliga tecken och fraser. I interaktion uttrycker sig eleven mycket enkelt och i huvudsak begripligt med enstaka vanliga tecken och fraser. Dessutom använder eleven strategier som i någon mån underlättar interaktionen. Eleven kommenterar på ett mycket enkelt sätt, på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.",
-              "en": ""
+              "en": "Within the framework of the language choice. Grading criteria for grade E at the end of year 6. The pupil understands common, simple signs and phrases in clear and simple sign language at a slow pace about familiar topics. In presentations of different kinds, the pupil expresses themselves very simply and in a mainly comprehensible way using isolated common signs and phrases. In interaction, the pupil expresses themselves very simply and in a mainly comprehensible way using isolated common signs and phrases. In addition, the pupil uses strategies that to some extent facilitate the interaction. The pupil comments in a very simple way, in sign language, on conditions in different contexts where sign language is used."
             }
           },
           {
             "gradeStep": "D",
             "text": {
               "local": "Betygskriterier för betyget D i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan C och E.",
-              "en": ""
+              "en": "Grading criteria for grade D at the end of year 6. The pupil's knowledge is assessed overall as being between C and E."
             }
           },
           {
             "gradeStep": "C",
             "text": {
               "local": "Betygskriterier för betyget C i slutet av årskurs 6Eleven förstår enkla tecken och fraser i tydligt och enkelt teckenspråk i långsamt tempo om välbekanta ämnen. I framställningar av olika slag formulerar sig eleven mycket enkelt och begripligt med vanliga tecken och fraser. I interaktion uttrycker sig eleven mycket enkelt och begripligt med vanliga tecken och fraser. Dessutom använder eleven strategier som i viss utsträckning underlättar interaktionen. Eleven kommenterar på ett mycket enkelt sätt, på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.",
-              "en": ""
+              "en": "Grading criteria for grade C at the end of year 6. The pupil understands simple signs and phrases in clear and simple sign language at a slow pace about familiar topics. In presentations of different kinds, the pupil expresses themselves very simply and comprehensibly using common signs and phrases. In interaction, the pupil expresses themselves very simply and comprehensibly using common signs and phrases. In addition, the pupil uses strategies that to some extent facilitate the interaction. The pupil comments in a very simple way, in sign language, on conditions in different contexts where sign language is used."
             }
           },
           {
             "gradeStep": "B",
             "text": {
               "local": "Betygskriterier för betyget B i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan A och C.",
-              "en": ""
+              "en": "Grading criteria for grade B at the end of year 6. The pupil's knowledge is assessed overall as being between A and C."
             }
           },
           {
             "gradeStep": "A",
             "text": {
               "local": "Betygskriterier för betyget A i slutet av årskurs 6Eleven förstår huvudsakligt innehåll och tydliga detaljer i tydligt och enkelt teckenspråk i långsamt tempo om välbekanta ämnen. I framställningar av olika slag formulerar sig eleven enkelt och relativt tydligt med vanliga tecken och fraser. I interaktion uttrycker sig eleven enkelt och relativt tydligt med vanliga tecken och fraser. Dessutom använder eleven strategier som underlättar interaktionen. Eleven kommenterar på ett mycket enkelt sätt, på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.",
-              "en": ""
+              "en": "Grading criteria for grade A at the end of year 6. The pupil understands the main content and clear details in clear and simple sign language at a slow pace about familiar topics. In presentations of different kinds, the pupil expresses themselves simply and relatively clearly using common signs and phrases. In interaction, the pupil expresses themselves simply and relatively clearly using common signs and phrases. In addition, the pupil uses strategies that facilitate the interaction. The pupil comments in a very simple way, in sign language, on conditions in different contexts where sign language is used."
             }
           }
         ]
@@ -298,7 +298,7 @@
             "code": "GRGRTSP01-4-9-1",
             "text": {
               "local": "Ämnesområden som är välbekanta för eleverna.",
-              "en": ""
+              "en": "Subject areas that are familiar to the pupils."
             },
             "coreElements": [
               "Kommunikationens innehåll"
@@ -309,7 +309,7 @@
             "code": "GRGRTSP01-4-9-2",
             "text": {
               "local": "Vardagliga situationer, intressen, personer och platser.",
-              "en": ""
+              "en": "Everyday situations, interests, people and places."
             },
             "coreElements": [
               "Kommunikationens innehåll"
@@ -320,7 +320,7 @@
             "code": "GRGRTSP01-4-9-3",
             "text": {
               "local": "Åsikter och känslor.",
-              "en": ""
+              "en": "Opinions and feelings."
             },
             "coreElements": [
               "Kommunikationens innehåll"
@@ -331,7 +331,7 @@
             "code": "GRGRTSP01-4-9-4",
             "text": {
               "local": "Vardagsliv och levnadssätt i olika sammanhang där teckenspråk används.",
-              "en": ""
+              "en": "Everyday life and ways of living in different contexts where sign language is used."
             },
             "coreElements": [
               "Kommunikationens innehåll"
@@ -342,7 +342,7 @@
             "code": "GRGRTSP01-4-9-5",
             "text": {
               "local": "Tydligt teckenspråk och enkla teckenspråkiga texter som är instruerande, be­skrivande och kontaktskapande, från olika medier, även i kombination med illustrationer.",
-              "en": ""
+              "en": "Clear sign language and simple sign language texts that are instructional, descriptive and contact-establishing, from different media, also in combination with illustrations."
             },
             "coreElements": [
               "Avläsa – reception"
@@ -355,7 +355,7 @@
             "code": "GRGRTSP01-4-9-6",
             "text": {
               "local": "Dialoger och samtal.",
-              "en": ""
+              "en": "Dialogues and conversations."
             },
             "coreElements": [
               "Avläsa – reception"
@@ -366,7 +366,7 @@
             "code": "GRGRTSP01-4-9-7",
             "text": {
               "local": "Berättelser och annan fiktion på teckenspråk, även i dramatiserad form.",
-              "en": ""
+              "en": "Stories and other fiction in sign language, also in dramatised form."
             },
             "coreElements": [
               "Avläsa – reception"
@@ -377,7 +377,7 @@
             "code": "GRGRTSP01-4-9-8",
             "text": {
               "local": "Meddelanden och information på teckenspråk, till exempel väg­be­skriv­ningar.",
-              "en": ""
+              "en": "Messages and information in sign language, for example directions."
             },
             "coreElements": [
               "Avläsa – reception"
@@ -388,7 +388,7 @@
             "code": "GRGRTSP01-4-9-9",
             "text": {
               "local": "Strategier för att uppfatta betydelsebärande enheter och dra slutsatser om inne­hållet, till exempel med hjälp av förförståelse och bilder.",
-              "en": ""
+              "en": "Strategies for perceiving meaningful units and drawing conclusions about the content, for example with the help of prior knowledge and images."
             },
             "coreElements": [
               "Avläsa – reception"
@@ -401,7 +401,7 @@
             "code": "GRGRTSP01-4-9-10",
             "text": {
               "local": "Olika sätt att orientera sig i anvisade teckenspråkiga källor av olika slag för att hitta enkel information att använda i egen produktion och interaktion.",
-              "en": ""
+              "en": "Different ways to navigate designated sign language sources of different kinds to find simple information to use in one's own production and interaction."
             },
             "coreElements": [
               "Avläsa – reception"
@@ -415,7 +415,7 @@
             "code": "GRGRTSP01-4-9-11",
             "text": {
               "local": "Grundläggande principer för teckenspråks gestuella-visuella struktur.",
-              "en": ""
+              "en": "Basic principles of the gestural-visual structure of sign language."
             },
             "coreElements": [
               "Avläsa – reception"
@@ -426,7 +426,7 @@
             "code": "GRGRTSP01-4-9-12",
             "text": {
               "local": "Språkliga företeelser, däribland tecken, munrörelser och icke-manuella mar­körer, i det språk eleverna möter.",
-              "en": ""
+              "en": "Linguistic phenomena, including signs, mouth movements and non-manual markers, in the language the pupils encounter."
             },
             "coreElements": [
               "Avläsa – reception"
@@ -437,7 +437,7 @@
             "code": "GRGRTSP01-4-9-13",
             "text": {
               "local": "Hur ord bokstaveras och används i teckenspråk i olika situationer.",
-              "en": ""
+              "en": "How words are fingerspelled and used in sign language in different situations."
             },
             "coreElements": [
               "Avläsa – reception"
@@ -448,7 +448,7 @@
             "code": "GRGRTSP01-4-9-14",
             "text": {
               "local": "Samtal för kontakt och kommunikation.",
-              "en": ""
+              "en": "Conversations for contact and communication."
             },
             "coreElements": [
               "Teckna och samtala – produktion och interaktion"
@@ -459,7 +459,7 @@
             "code": "GRGRTSP01-4-9-15",
             "text": {
               "local": "Presentationer, instruktioner, meddelanden, berättelser och beskrivningar.",
-              "en": ""
+              "en": "Presentations, instructions, messages, stories and descriptions."
             },
             "coreElements": [
               "Teckna och samtala – produktion och interaktion"
@@ -470,7 +470,7 @@
             "code": "GRGRTSP01-4-9-16",
             "text": {
               "local": "Strategier för att underlätta samtal, däribland omformuleringar, frågor och visua­lisering.",
-              "en": ""
+              "en": "Strategies for facilitating conversation, including rephrasing, questions and visualisation."
             },
             "coreElements": [
               "Teckna och samtala – produktion och interaktion"
@@ -481,7 +481,7 @@
             "code": "GRGRTSP01-4-9-17",
             "text": {
               "local": "Språkliga företeelser, däribland bokstavering, tecken och icke-manuella mar­körer för tydlig kommunikation.",
-              "en": ""
+              "en": "Linguistic phenomena, including fingerspelling, signs and non-manual markers for clear communication."
             },
             "coreElements": [
               "Teckna och samtala – produktion och interaktion"
@@ -492,7 +492,7 @@
             "code": "GRGRTSP01-4-9-18",
             "text": {
               "local": "Bearbetning av egna framställningar för att förtydliga kommunikationen.",
-              "en": ""
+              "en": "Revision of one's own productions to clarify communication."
             },
             "coreElements": [
               "Teckna och samtala – produktion och interaktion"
@@ -505,70 +505,70 @@
             "gradeStep": "E",
             "text": {
               "local": "Inom ramen för skolans valBetygskriterier för betyget E i slutet av årskurs 9Eleven förstår enkel bokstavering, vanliga tecken och enkla fraser i tydligt och enkelt teckenspråk i långsamt tempo om vardagliga och välbekanta ämnen. Eleven hittar enkel information i anvisade teckenspråkiga källor, samt använder på ett delvis relevant sätt det valda materialet i sin egen produktion och interaktion. I framställningar av olika slag formulerar sig eleven enkelt och begripligt med bokstavering, enstaka tecken och fraser. I interaktion uttrycker sig eleven enkelt och begripligt med bokstavering, enstaka tecken och fraser. Dessutom använder eleven strategier som i någon mån underlättar och förbättrar interaktionen. Eleven kommenterar på ett mycket enkelt sätt, på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.",
-              "en": ""
+              "en": "Within the framework of the school's choice. Grading criteria for grade E at the end of year 9. The pupil understands simple fingerspelling, common signs and simple phrases in clear and simple sign language at a slow pace about everyday and familiar topics. The pupil finds simple information in designated sign language sources and uses the selected material in a partially relevant way in their own production and interaction. In presentations of different kinds, the pupil expresses themselves simply and comprehensibly using fingerspelling, isolated signs and phrases. In interaction, the pupil expresses themselves simply and comprehensibly using fingerspelling, isolated signs and phrases. In addition, the pupil uses strategies that to some extent facilitate and improve the interaction. The pupil comments in a very simple way, in sign language, on conditions in different contexts where sign language is used."
             }
           },
           {
             "gradeStep": "D",
             "text": {
               "local": "Betygskriterier för betyget D i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan C och E.",
-              "en": ""
+              "en": "Grading criteria for grade D at the end of year 9. The pupil's knowledge is assessed overall as being between C and E."
             }
           },
           {
             "gradeStep": "C",
             "text": {
               "local": "Betygskriterier för betyget C i slutet av årskurs 9Eleven förstår huvudsakligt innehåll och tydliga detaljer i tydligt och enkelt teckenspråk i långsamt tempo om vardagliga och välbekanta ämnen. Eleven hittar enkel information i anvisade teckenspråkiga källor samt använder på ett relevant sätt det valda materialet i sin egen produktion och interaktion. I framställningar av olika slag formulerar sig eleven enkelt och relativt tydligt med bokstavering, fraser och meningar. I interaktion uttrycker sig eleven enkelt och begripligt med bokstavering, tecken, fraser och meningar. Dessutom använder eleven strategier som i viss utsträckning underlättar och förbättrar interaktionen. Eleven kommenterar på ett mycket enkelt sätt, på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.",
-              "en": ""
+              "en": "Grading criteria for grade C at the end of year 9. The pupil understands the main content and clear details in clear and simple sign language at a slow pace about everyday and familiar topics. The pupil finds simple information in designated sign language sources and uses the selected material in a relevant way in their own production and interaction. In presentations of different kinds, the pupil expresses themselves simply and relatively clearly using fingerspelling, phrases and sentences. In interaction, the pupil expresses themselves simply and comprehensibly using fingerspelling, signs, phrases and sentences. In addition, the pupil uses strategies that to some extent facilitate and improve the interaction. The pupil comments in a very simple way, in sign language, on conditions in different contexts where sign language is used."
             }
           },
           {
             "gradeStep": "B",
             "text": {
               "local": "Betygskriterier för betyget B i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan A och C.",
-              "en": ""
+              "en": "Grading criteria for grade B at the end of year 9. The pupil's knowledge is assessed overall as being between A and C."
             }
           },
           {
             "gradeStep": "A",
             "text": {
               "local": "Betygskriterier för betyget A i slutet av årskurs 9Eleven förstår huvudsakligt innehåll och väsentliga detaljer i tydligt och enkelt teckenspråk i långsamt tempo om vardagliga och välbekanta ämnen. Eleven hittar enkel information i anvisade teckenspråkiga källor samt använder på ett relevant och effektivt sätt det valda materialet i sin egen produktion och interaktion. I framställningar av olika slag formulerar sig eleven enkelt, relativt tydligt och till viss del sammanhängande. I interaktion uttrycker sig eleven enkelt och relativt tydligt med tecken, fraser och meningar. Dessutom använder eleven strategier som underlättar och förbättrar interaktionen. Eleven kommenterar på ett enkelt sätt, på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.",
-              "en": ""
+              "en": "Grading criteria for grade A at the end of year 9. The pupil understands the main content and essential details in clear and simple sign language at a slow pace about everyday and familiar topics. The pupil finds simple information in designated sign language sources and uses the selected material in a relevant and efficient way in their own production and interaction. In presentations of different kinds, the pupil expresses themselves simply, relatively clearly and to some extent coherently. In interaction, the pupil expresses themselves simply and relatively clearly using signs, phrases and sentences. In addition, the pupil uses strategies that facilitate and improve the interaction. The pupil comments in a simple way, in sign language, on conditions in different contexts where sign language is used."
             }
           },
           {
             "gradeStep": "E",
             "text": {
               "local": "Inom ramen för språkvalBetygskriterier för betyget E i slutet av årskurs 9Eleven förstår och tolkar det mest väsentliga av innehållet i tydligt och enkelt teckenspråk i lugnt tempo om vardagliga och välbekanta ämnen. Eleven väljer enkel information från ett avgränsat urval av teckenspråkiga källor samt använder på ett delvis relevant sätt det valda materialet i sin egen produktion och interaktion. I framställningar av olika slag formulerar sig eleven enkelt och begripligt med fraser och meningar. I interaktion uttrycker sig eleven enkelt och begripligt med tecken, fraser och meningar. Dessutom använder eleven strategier som i någon mån underlättar och förbättrar interaktionen. Eleven kommenterar på ett enkelt sätt, på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.",
-              "en": ""
+              "en": "Within the framework of the language choice. Grading criteria for grade E at the end of year 9. The pupil understands and interprets the most essential parts of the content in clear and simple sign language at a calm pace about everyday and familiar topics. The pupil selects simple information from a limited selection of sign language sources and uses the selected material in a partially relevant way in their own production and interaction. In presentations of different kinds, the pupil expresses themselves simply and comprehensibly using phrases and sentences. In interaction, the pupil expresses themselves simply and comprehensibly using signs, phrases and sentences. In addition, the pupil uses strategies that to some extent facilitate and improve the interaction. The pupil comments in a simple way, in sign language, on conditions in different contexts where sign language is used."
             }
           },
           {
             "gradeStep": "D",
             "text": {
               "local": "Betygskriterier för betyget D i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan C och E.",
-              "en": ""
+              "en": "Grading criteria for grade D at the end of year 9. The pupil's knowledge is assessed overall as being between C and E."
             }
           },
           {
             "gradeStep": "C",
             "text": {
               "local": "Betygskriterier för betyget C i slutet av årskurs 9Eleven förstår och tolkar huvudsakligt innehåll och tydliga detaljer i tydligt och enkelt teckenspråk i lugnt tempo om vardagliga och välbekanta ämnen. Eleven väljer enkel information från ett avgränsat urval av teckenspråkiga källor samt använder på ett relevant sätt det valda materialet i sin egen produktion och interaktion. I framställningar av olika slag formulerar sig eleven enkelt, relativt tydligt och till viss del sammanhängande. I interaktion uttrycker sig eleven enkelt och relativt tydligt med tecken, fraser och meningar. Dessutom använder eleven strategier som i viss utsträckning underlättar och förbättrar interaktionen. Eleven kommenterar på ett enkelt sätt, på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.",
-              "en": ""
+              "en": "Grading criteria for grade C at the end of year 9. The pupil understands and interprets the main content and clear details in clear and simple sign language at a calm pace about everyday and familiar topics. The pupil selects simple information from a limited selection of sign language sources and uses the selected material in a relevant way in their own production and interaction. In presentations of different kinds, the pupil expresses themselves simply, relatively clearly and to some extent coherently. In interaction, the pupil expresses themselves simply and relatively clearly using signs, phrases and sentences. In addition, the pupil uses strategies that to some extent facilitate and improve the interaction. The pupil comments in a simple way, in sign language, on conditions in different contexts where sign language is used."
             }
           },
           {
             "gradeStep": "B",
             "text": {
               "local": "Betygskriterier för betyget B i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan A och C.",
-              "en": ""
+              "en": "Grading criteria for grade B at the end of year 9. The pupil's knowledge is assessed overall as being between A and C."
             }
           },
           {
             "gradeStep": "A",
             "text": {
               "local": "Betygskriterier för betyget A i slutet av årskurs 9Eleven förstår och tolkar helheten och väsentliga detaljer i tydligt och enkelt teckenspråk i lugnt tempo om vardagliga och välbekanta ämnen. Eleven väljer enkel information från ett avgränsat urval av teckenspråkiga källor samt använder på ett relevant och effektivt sätt det valda materialet i sin egen produktion och interaktion. I framställningar av olika slag formulerar sig eleven i någon mån varierat, relativt tydligt och relativt sammanhängande. I interaktion uttrycker sig eleven relativt tydligt med tecken, fraser och meningar samt i någon mån anpassat till syfte, mottagare och situation. Dessutom använder eleven strategier som underlättar och förbättrar interaktionen. Eleven kommenterar översiktligt, på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.",
-              "en": ""
+              "en": "Grading criteria for grade A at the end of year 9. The pupil understands and interprets the whole and essential details in clear and simple sign language at a calm pace about everyday and familiar topics. The pupil selects simple information from a limited selection of sign language sources and uses the selected material in a relevant and efficient way in their own production and interaction. In presentations of different kinds, the pupil expresses themselves in a somewhat varied, relatively clear and relatively coherent way. In interaction, the pupil expresses themselves relatively clearly using signs, phrases and sentences, and to some extent adapted to purpose, audience and situation. In addition, the pupil uses strategies that facilitate and improve the interaction. The pupil comments in an overview manner, in sign language, on conditions in different contexts where sign language is used."
             }
           }
         ]
@@ -584,7 +584,7 @@
             "code": "GRGRTSP01-7-9-1",
             "text": {
               "local": "Ämnesområden som är välbekanta för eleverna.",
-              "en": ""
+              "en": "Subject areas that are familiar to the pupils."
             },
             "coreElements": [
               "Kommunikationens innehåll"
@@ -595,7 +595,7 @@
             "code": "GRGRTSP01-7-9-2",
             "text": {
               "local": "Vardagliga situationer, intressen, personer, platser, aktiviteter och händelser.",
-              "en": ""
+              "en": "Everyday situations, interests, people, places, activities and events."
             },
             "coreElements": [
               "Kommunikationens innehåll"
@@ -606,7 +606,7 @@
             "code": "GRGRTSP01-7-9-3",
             "text": {
               "local": "Åsikter, känslor och erfarenheter.",
-              "en": ""
+              "en": "Opinions, feelings and experiences."
             },
             "coreElements": [
               "Kommunikationens innehåll"
@@ -617,7 +617,7 @@
             "code": "GRGRTSP01-7-9-4",
             "text": {
               "local": "Vardagsliv, levnadssätt och sociala relationer i olika sammanhang där tecken­­språk används, även i jämförelse med egna erfarenheter och kunskaper.",
-              "en": ""
+              "en": "Everyday life, ways of living and social relationships in different contexts where sign language is used, also in comparison with one's own experiences and knowledge."
             },
             "coreElements": [
               "Kommunikationens innehåll"
@@ -628,7 +628,7 @@
             "code": "GRGRTSP01-7-9-5",
             "text": {
               "local": "Tydligt teckenspråk och enkla, teckenspråkiga texter som är instruerande, beskrivande och kontaktskapande, från olika medier.",
-              "en": ""
+              "en": "Clear sign language and simple sign language texts that are instructional, descriptive and contact-establishing, from different media."
             },
             "coreElements": [
               "Avläsa – reception"
@@ -642,7 +642,7 @@
             "code": "GRGRTSP01-7-9-6",
             "text": {
               "local": "Dialoger, samtal och intervjuer.",
-              "en": ""
+              "en": "Dialogues, conversations and interviews."
             },
             "coreElements": [
               "Avläsa – reception"
@@ -653,7 +653,7 @@
             "code": "GRGRTSP01-7-9-7",
             "text": {
               "local": "Berättelser och annan fiktion på teckenspråk, även i dramatiserad form.",
-              "en": ""
+              "en": "Stories and other fiction in sign language, also in dramatised form."
             },
             "coreElements": [
               "Avläsa – reception"
@@ -664,7 +664,7 @@
             "code": "GRGRTSP01-7-9-8",
             "text": {
               "local": "Meddelanden och information på teckenspråk.",
-              "en": ""
+              "en": "Messages and information in sign language."
             },
             "coreElements": [
               "Avläsa – reception"
@@ -675,7 +675,7 @@
             "code": "GRGRTSP01-7-9-9",
             "text": {
               "local": "Strategier för att uppfatta betydelsebärande enheter och förstå samman­hang samt för att anpassa avläsningen till framställningens form och inne­håll.",
-              "en": ""
+              "en": "Strategies for perceiving meaningful units and understanding context, and for adapting reception to the form and content of the presentation."
             },
             "coreElements": [
               "Avläsa – reception"
@@ -688,7 +688,7 @@
             "code": "GRGRTSP01-7-9-10",
             "text": {
               "local": "Sökning av enkel information i ett avgränsat urval av teckenspråkiga källor av olika slag för användning i egen produktion och interaktion.",
-              "en": ""
+              "en": "Searching for simple information in a limited selection of sign language sources of different kinds for use in one's own production and interaction."
             },
             "coreElements": [
               "Avläsa – reception"
@@ -699,7 +699,7 @@
             "code": "GRGRTSP01-7-9-11",
             "text": {
               "local": "Språkliga företeelser, däribland tecken, bokstavering, satsbyggnad, mun­rörelser och icke-manuella markörer, i det språk eleverna möter.",
-              "en": ""
+              "en": "Linguistic phenomena, including signs, fingerspelling, sentence structure, mouth movements and non-manual markers, in the language the pupils encounter."
             },
             "coreElements": [
               "Avläsa – reception"
@@ -710,7 +710,7 @@
             "code": "GRGRTSP01-7-9-12",
             "text": {
               "local": "Hur olika markörer används för att inleda och avsluta olika typer av samtal och teckenspråkiga texter.",
-              "en": ""
+              "en": "How different markers are used to begin and end different types of conversations and sign language texts."
             },
             "coreElements": [
               "Avläsa – reception"
@@ -721,7 +721,7 @@
             "code": "GRGRTSP01-7-9-13",
             "text": {
               "local": "Samtal för kontakt och kommunikation.",
-              "en": ""
+              "en": "Conversations for contact and communication."
             },
             "coreElements": [
               "Teckna och samtala – produktion och interaktion"
@@ -732,7 +732,7 @@
             "code": "GRGRTSP01-7-9-14",
             "text": {
               "local": "Presentationer, instruktioner, meddelanden, berättelser och beskrivningar på sammanhängande teckenspråk.",
-              "en": ""
+              "en": "Presentations, instructions, messages, stories and descriptions in connected sign language."
             },
             "coreElements": [
               "Teckna och samtala – produktion och interaktion"
@@ -743,7 +743,7 @@
             "code": "GRGRTSP01-7-9-15",
             "text": {
               "local": "Strategier, däribland omformuleringar och frågor, för att bidra till och under­lätta samtal och digital interaktion.",
-              "en": ""
+              "en": "Strategies, including rephrasing and questions, for contributing to and facilitating conversation and digital interaction."
             },
             "coreElements": [
               "Teckna och samtala – produktion och interaktion"
@@ -754,7 +754,7 @@
             "code": "GRGRTSP01-7-9-16",
             "text": {
               "local": "Språkliga företeelser, däribland tecken, bokstavering, munrörelser, icke-ma­nuella markörer och satsbyggnad i elevernas egen produktion och interaktion.",
-              "en": ""
+              "en": "Linguistic phenomena, including signs, fingerspelling, mouth movements, non-manual markers and sentence structure in the pupils' own production and interaction."
             },
             "coreElements": [
               "Teckna och samtala – produktion och interaktion"
@@ -765,7 +765,7 @@
             "code": "GRGRTSP01-7-9-17",
             "text": {
               "local": "Bearbetning av egna framställningar för att förtydliga och anpassa kom­muni­kationen efter syfte och mottagare.",
-              "en": ""
+              "en": "Revision of one's own productions to clarify and adapt communication to purpose and audience."
             },
             "coreElements": [
               "Teckna och samtala – produktion och interaktion"
@@ -778,70 +778,70 @@
             "gradeStep": "E",
             "text": {
               "local": "Inom ramen för skolans valBetygskriterier för betyget E i slutet av årskurs 9Eleven förstår enkel bokstavering, vanliga tecken och enkla fraser i tydligt och enkelt teckenspråk i långsamt tempo om vardagliga och välbekanta ämnen. Eleven hittar enkel information i anvisade teckenspråkiga källor, samt använder på ett delvis relevant sätt det valda materialet i sin egen produktion och interaktion. I framställningar av olika slag formulerar sig eleven enkelt och begripligt med bokstavering, enstaka tecken och fraser. I interaktion uttrycker sig eleven enkelt och begripligt med bokstavering, enstaka tecken och fraser. Dessutom använder eleven strategier som i någon mån underlättar och förbättrar interaktionen. Eleven kommenterar på ett mycket enkelt sätt, på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.",
-              "en": ""
+              "en": "Within the framework of the school's choice. Grading criteria for grade E at the end of year 9. The pupil understands simple fingerspelling, common signs and simple phrases in clear and simple sign language at a slow pace about everyday and familiar topics. The pupil finds simple information in designated sign language sources and uses the selected material in a partially relevant way in their own production and interaction. In presentations of different kinds, the pupil expresses themselves simply and comprehensibly using fingerspelling, isolated signs and phrases. In interaction, the pupil expresses themselves simply and comprehensibly using fingerspelling, isolated signs and phrases. In addition, the pupil uses strategies that to some extent facilitate and improve the interaction. The pupil comments in a very simple way, in sign language, on conditions in different contexts where sign language is used."
             }
           },
           {
             "gradeStep": "D",
             "text": {
               "local": "Betygskriterier för betyget D i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan C och E.",
-              "en": ""
+              "en": "Grading criteria for grade D at the end of year 9. The pupil's knowledge is assessed overall as being between C and E."
             }
           },
           {
             "gradeStep": "C",
             "text": {
               "local": "Betygskriterier för betyget C i slutet av årskurs 9Eleven förstår huvudsakligt innehåll och tydliga detaljer i tydligt och enkelt teckenspråk i långsamt tempo om vardagliga och välbekanta ämnen. Eleven hittar enkel information i anvisade teckenspråkiga källor samt använder på ett relevant sätt det valda materialet i sin egen produktion och interaktion. I framställningar av olika slag formulerar sig eleven enkelt och relativt tydligt med bokstavering, fraser och meningar. I interaktion uttrycker sig eleven enkelt och begripligt med bokstavering, tecken, fraser och meningar. Dessutom använder eleven strategier som i viss utsträckning underlättar och förbättrar interaktionen. Eleven kommenterar på ett mycket enkelt sätt, på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.",
-              "en": ""
+              "en": "Grading criteria for grade C at the end of year 9. The pupil understands the main content and clear details in clear and simple sign language at a slow pace about everyday and familiar topics. The pupil finds simple information in designated sign language sources and uses the selected material in a relevant way in their own production and interaction. In presentations of different kinds, the pupil expresses themselves simply and relatively clearly using fingerspelling, phrases and sentences. In interaction, the pupil expresses themselves simply and comprehensibly using fingerspelling, signs, phrases and sentences. In addition, the pupil uses strategies that to some extent facilitate and improve the interaction. The pupil comments in a very simple way, in sign language, on conditions in different contexts where sign language is used."
             }
           },
           {
             "gradeStep": "B",
             "text": {
               "local": "Betygskriterier för betyget B i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan A och C.",
-              "en": ""
+              "en": "Grading criteria for grade B at the end of year 9. The pupil's knowledge is assessed overall as being between A and C."
             }
           },
           {
             "gradeStep": "A",
             "text": {
               "local": "Betygskriterier för betyget A i slutet av årskurs 9Eleven förstår huvudsakligt innehåll och väsentliga detaljer i tydligt och enkelt teckenspråk i långsamt tempo om vardagliga och välbekanta ämnen. Eleven hittar enkel information i anvisade teckenspråkiga källor samt använder på ett relevant och effektivt sätt det valda materialet i sin egen produktion och interaktion. I framställningar av olika slag formulerar sig eleven enkelt, relativt tydligt och till viss del sammanhängande. I interaktion uttrycker sig eleven enkelt och relativt tydligt med tecken, fraser och meningar. Dessutom använder eleven strategier som underlättar och förbättrar interaktionen. Eleven kommenterar på ett enkelt sätt, på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.",
-              "en": ""
+              "en": "Grading criteria for grade A at the end of year 9. The pupil understands the main content and essential details in clear and simple sign language at a slow pace about everyday and familiar topics. The pupil finds simple information in designated sign language sources and uses the selected material in a relevant and efficient way in their own production and interaction. In presentations of different kinds, the pupil expresses themselves simply, relatively clearly and to some extent coherently. In interaction, the pupil expresses themselves simply and relatively clearly using signs, phrases and sentences. In addition, the pupil uses strategies that facilitate and improve the interaction. The pupil comments in a simple way, in sign language, on conditions in different contexts where sign language is used."
             }
           },
           {
             "gradeStep": "E",
             "text": {
               "local": "Inom ramen för språkvalBetygskriterier för betyget E i slutet av årskurs 9Eleven förstår och tolkar det mest väsentliga av innehållet i tydligt och enkelt teckenspråk i lugnt tempo om vardagliga och välbekanta ämnen. Eleven väljer enkel information från ett avgränsat urval av teckenspråkiga källor samt använder på ett delvis relevant sätt det valda materialet i sin egen produktion och interaktion. I framställningar av olika slag formulerar sig eleven enkelt och begripligt med fraser och meningar. I interaktion uttrycker sig eleven enkelt och begripligt med tecken, fraser och meningar. Dessutom använder eleven strategier som i någon mån underlättar och förbättrar interaktionen. Eleven kommenterar på ett enkelt sätt, på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.",
-              "en": ""
+              "en": "Within the framework of the language choice. Grading criteria for grade E at the end of year 9. The pupil understands and interprets the most essential parts of the content in clear and simple sign language at a calm pace about everyday and familiar topics. The pupil selects simple information from a limited selection of sign language sources and uses the selected material in a partially relevant way in their own production and interaction. In presentations of different kinds, the pupil expresses themselves simply and comprehensibly using phrases and sentences. In interaction, the pupil expresses themselves simply and comprehensibly using signs, phrases and sentences. In addition, the pupil uses strategies that to some extent facilitate and improve the interaction. The pupil comments in a simple way, in sign language, on conditions in different contexts where sign language is used."
             }
           },
           {
             "gradeStep": "D",
             "text": {
               "local": "Betygskriterier för betyget D i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan C och E.",
-              "en": ""
+              "en": "Grading criteria for grade D at the end of year 9. The pupil's knowledge is assessed overall as being between C and E."
             }
           },
           {
             "gradeStep": "C",
             "text": {
               "local": "Betygskriterier för betyget C i slutet av årskurs 9Eleven förstår och tolkar huvudsakligt innehåll och tydliga detaljer i tydligt och enkelt teckenspråk i lugnt tempo om vardagliga och välbekanta ämnen. Eleven väljer enkel information från ett avgränsat urval av teckenspråkiga källor samt använder på ett relevant sätt det valda materialet i sin egen produktion och interaktion. I framställningar av olika slag formulerar sig eleven enkelt, relativt tydligt och till viss del sammanhängande. I interaktion uttrycker sig eleven enkelt och relativt tydligt med tecken, fraser och meningar. Dessutom använder eleven strategier som i viss utsträckning underlättar och förbättrar interaktionen. Eleven kommenterar på ett enkelt sätt, på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.",
-              "en": ""
+              "en": "Grading criteria for grade C at the end of year 9. The pupil understands and interprets the main content and clear details in clear and simple sign language at a calm pace about everyday and familiar topics. The pupil selects simple information from a limited selection of sign language sources and uses the selected material in a relevant way in their own production and interaction. In presentations of different kinds, the pupil expresses themselves simply, relatively clearly and to some extent coherently. In interaction, the pupil expresses themselves simply and relatively clearly using signs, phrases and sentences. In addition, the pupil uses strategies that to some extent facilitate and improve the interaction. The pupil comments in a simple way, in sign language, on conditions in different contexts where sign language is used."
             }
           },
           {
             "gradeStep": "B",
             "text": {
               "local": "Betygskriterier för betyget B i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan A och C.",
-              "en": ""
+              "en": "Grading criteria for grade B at the end of year 9. The pupil's knowledge is assessed overall as being between A and C."
             }
           },
           {
             "gradeStep": "A",
             "text": {
               "local": "Betygskriterier för betyget A i slutet av årskurs 9Eleven förstår och tolkar helheten och väsentliga detaljer i tydligt och enkelt teckenspråk i lugnt tempo om vardagliga och välbekanta ämnen. Eleven väljer enkel information från ett avgränsat urval av teckenspråkiga källor samt använder på ett relevant och effektivt sätt det valda materialet i sin egen produktion och interaktion. I framställningar av olika slag formulerar sig eleven i någon mån varierat, relativt tydligt och relativt sammanhängande. I interaktion uttrycker sig eleven relativt tydligt med tecken, fraser och meningar samt i någon mån anpassat till syfte, mottagare och situation. Dessutom använder eleven strategier som underlättar och förbättrar interaktionen. Eleven kommenterar översiktligt, på teckenspråk, förhållanden i olika sammanhang där teckenspråk används.",
-              "en": ""
+              "en": "Grading criteria for grade A at the end of year 9. The pupil understands and interprets the whole and essential details in clear and simple sign language at a calm pace about everyday and familiar topics. The pupil selects simple information from a limited selection of sign language sources and uses the selected material in a relevant and efficient way in their own production and interaction. In presentations of different kinds, the pupil expresses themselves in a somewhat varied, relatively clear and relatively coherent way. In interaction, the pupil expresses themselves relatively clearly using signs, phrases and sentences, and to some extent adapted to purpose, audience and situation. In addition, the pupil uses strategies that facilitate and improve the interaction. The pupil comments in an overview manner, in sign language, on conditions in different contexts where sign language is used."
             }
           }
         ]

@@ -17,187 +17,187 @@
         "code": "S1",
         "name": {
           "local": "S1 Ideointi",
-          "en": ""
+          "en": "S1 Ideation"
         },
         "description": {
           "local": "Suunnittelussa perehdytään erilaisiin lähtökohtiin ja hyödynnetään omia moniaistisia kokemuksia ja elämyksiä sekä havainnoidaan ja analysoidaan esineitä, rakennettua ja luonnon ympäristöä uusien ideoiden kehittämiseksi. Käsityössä yhdistetään värejä, kuviota, erilaisia pintoja, tyylejä ja muotoja. Sovelletaan materiaalien lujuus- ja taipumisominaisuuksia. Tutkitaan rakenteiden syntymistä ja energian käyttöä.",
-          "en": ""
+          "en": "In the design process, various starting points are explored and one's own multisensory experiences are utilised. Objects, built environments, and natural environments are observed and analysed to develop new ideas. In crafts, colours, patterns, different surfaces, styles, and forms are combined. The strength and flexibility properties of materials are applied. The formation of structures and the use of energy are investigated."
         }
       },
       {
         "code": "S2",
         "name": {
           "local": "S2 Suunnittelu",
-          "en": ""
+          "en": "S2 Design"
         },
         "description": {
           "local": "Laaditaan omalle tuotteelle tai teokselle ja työskentelylle suunnitelma ja kehitetään sitä tarvittaessa. Kokeillaan erilaisia materiaaleja ja työskentelytekniikoita ideoiden kehittämiseksi tuotteeksi tai teokseksi. Harjoitellaan suunnitelman dokumentointia sanallisesti ja/tai visuaalisesti sekä numeerisesti käyttäen esimerkiksi mittoja, määriä ja mittakaavoja.",
-          "en": ""
+          "en": "A plan is drawn up for one's own product or work and for the working process, and the plan is developed as needed. Various materials and working techniques are experimented with to develop ideas into a product or work. Documenting the plan is practised verbally and/or visually as well as numerically, using for example measurements, quantities, and scales."
         }
       },
       {
         "code": "S3",
         "name": {
           "local": "S3 Kokeilu",
-          "en": ""
+          "en": "S3 Experimentation"
         },
         "description": {
           "local": "Tutkitaan materiaalien ominaisuuksia sekä käsityön tekemisessä tarvittavien tavallisimpien koneiden ja laitteiden toimintaperiaatteita. Sovelletaan näin hankittua tietoa omassa työssä. Kokeillaan monipuolisesti erilaisia materiaaleja kuten erilaisia puulajeja, metalleja, muoveja, kuituja, lankoja, kankaita ja kierrätysmateriaaleja. Harjoitellaan ohjelmoimalla aikaan saatuja toimintoja, joista esimerkkinä robotiikka ja automaatio. Kokeilujen pohjalta tuotetta tai teosta kehitetään vielä eteenpäin.",
-          "en": ""
+          "en": "The properties of materials and the operating principles of the most common machines and devices used in crafts are investigated. The knowledge thus acquired is applied in one's own work. A wide variety of materials are experimented with, such as different types of wood, metals, plastics, fibres, yarns, fabrics, and recycled materials. Functions achieved through programming are practised, such as robotics and automation. Based on the experiments, the product or work is developed further."
         }
       },
       {
         "code": "S4",
         "name": {
           "local": "S4 Tekeminen",
-          "en": ""
+          "en": "S4 Making"
         },
         "description": {
           "local": "Valmistetaan erilaisia yksilöllisiä ja /tai yhteisöllisiä tuotteita ja teoksia, joiden toteuttamiseen käytetään monenlaisia käsityössä tarvittavia valmistustekniikoita, työvälineitä, koneita ja laitteita. Työskennellään itse tehdyn suunnitelman ohjaamana.",
-          "en": ""
+          "en": "Various individual and/or collaborative products and works are produced, using a variety of manufacturing techniques, tools, machines, and devices needed in crafts. Work is guided by one's own plan."
         }
       },
       {
         "code": "S5",
         "name": {
           "local": "S5 Soveltaminen",
-          "en": ""
+          "en": "S5 Application"
         },
         "description": {
           "local": "Työskennellessä opitaan käyttämään alan peruskäsitteistöä ja tutustutaan turvallisiin materiaaleihin ja työtapoihin. Perehdytään laadukkaan tuotteen ominaisuuksiin ja turvalliseen työskentelykulttuuriin.",
-          "en": ""
+          "en": "While working, pupils learn to use the basic terminology of the field and become familiar with safe materials and working methods. The characteristics of a quality product and a safe working culture are explored."
         }
       },
       {
         "code": "S6",
         "name": {
           "local": "S6 Dokumentointi ja arviointi",
-          "en": ""
+          "en": "S6 Documentation and Assessment"
         },
         "description": {
           "local": "Tieto- ja viestintäteknologiaa käytetään osana ideointia, suunnittelua ja dokumentointia. Tehdään käsityöprosessin itse- ja vertaisarviointia prosessin edetessä. Opetellaan antamaan yksilö- ja ryhmäpalautetta.",
-          "en": ""
+          "en": "Information and communication technology is used as part of ideation, design, and documentation. Self-assessment and peer assessment of the craft process are carried out as the process progresses. Giving individual and group feedback is practised."
         }
       },
       {
         "code": "S2",
         "name": {
           "local": "S2 Kokeilu",
-          "en": ""
+          "en": "S2 Experimentation"
         },
         "description": {
           "local": "Tarjotaan mahdollisuuksia monimuotoiseen materiaaliseen ja teknologiseen ympäristöön tutustumiseen. Kokeillaan erilaisia materiaaleja kuten esimerkiksi puuta, metallia, muovia, kuituja, lankaa ja kangasta. Kokeilujen pohjalta ideoidaan ja työstetään tuotetta tai teosta eteenpäin.",
-          "en": ""
+          "en": "Opportunities are provided to explore diverse material and technological environments. Various materials are experimented with, such as wood, metal, plastic, fibres, yarn, and fabric. Based on the experiments, ideas are generated and the product or work is developed further."
         }
       },
       {
         "code": "S3",
         "name": {
           "local": "S3 Suunnittelu",
-          "en": ""
+          "en": "S3 Design"
         },
         "description": {
           "local": "Työskennellään kokonaisen käsityöprosessin mukaisesti. Harjoitellaan prosessin ja tuotteen kuvailun taitoja.",
-          "en": ""
+          "en": "Work follows the complete craft process. Skills in describing the process and the product are practised."
         }
       },
       {
         "code": "S5",
         "name": {
           "local": "S5 Dokumentointi",
-          "en": ""
+          "en": "S5 Documentation"
         },
         "description": {
           "local": "Tieto- ja viestintätekniikan käyttöön tutustutaan ideoinnin, suunnittelun ja dokumentoinnin osana.",
-          "en": ""
+          "en": "The use of information and communication technology is explored as part of ideation, design, and documentation."
         }
       },
       {
         "code": "S6",
         "name": {
           "local": "S6 Arviointi",
-          "en": ""
+          "en": "S6 Assessment"
         },
         "description": {
           "local": "Tarjotaan erilaisia tapoja tehdä itse- ja vertaisarviointia prosessin edetessä. Opetellaan antamaan palautetta toisille oppilaille.",
-          "en": ""
+          "en": "Various ways of conducting self-assessment and peer assessment are provided as the process progresses. Giving feedback to other pupils is practised."
         }
       },
       {
         "code": "S1",
         "name": {
           "local": "S1 Innovointi",
-          "en": ""
+          "en": "S1 Innovation"
         },
         "description": {
           "local": "Ratkaistaan erilaisia tuotesuunnittelutehtäviä luovasti ja kekseliäästi käyttäen käsityön käsitteistöä, merkkejä ja symboleja. Toteutetaan suunnitelmat itseilmaisua vahvistaen. Tehdään käsityöprosessin itse- ja vertaisarviointia prosessin edetessä.",
-          "en": ""
+          "en": "Various product design tasks are solved creatively and inventively using craft terminology, signs, and symbols. Plans are carried out in a way that strengthens self-expression. Self-assessment and peer assessment of the craft process are carried out as the process progresses."
         }
       },
       {
         "code": "S2",
         "name": {
           "local": "S2 Muotoilu",
-          "en": ""
+          "en": "S2 Design and Form"
         },
         "description": {
           "local": "Perehdytään asumisen, liikkumisen ja pukeutumisen yhteiskunnalliseen, kulttuuriseen ja teknologiseen kehitykseen sekä hyödynnetään paikallisuutta ja eri kulttuurien perinteitä, nykyisyyttä ja tulevaisuutta suunnittelussa, muotoilussa ja toteutuksessa.",
-          "en": ""
+          "en": "The social, cultural, and technological development of housing, transportation, and clothing is explored. Local traditions and the heritage, present, and future of different cultures are utilised in design, form-giving, and production."
         }
       },
       {
         "code": "S4",
         "name": {
           "local": "S4 Dokumentointi ja arviointi",
-          "en": ""
+          "en": "S4 Documentation and Assessment"
         },
         "description": {
           "local": "Tutustutaan eri menetelmien tarjoamiin mahdollisuuksiin tuotteiden suunnittelu- ja valmistusprosessissa. Analysoidaan tuotteiden muotoilua ja käytettävyyttä. Kokonainen käsityöprosessi dokumentoidaan hyödyntäen tieto- ja viestintäteknologiaa.",
-          "en": ""
+          "en": "The possibilities offered by different methods in the product design and manufacturing process are explored. The design and usability of products are analysed. The complete craft process is documented using information and communication technology."
         }
       },
       {
         "code": "S5",
         "name": {
           "local": "S5 Tekeminen",
-          "en": ""
+          "en": "S5 Making"
         },
         "description": {
           "local": "Valmistetaan erilaisia laadukkaita ja toimivia, ekologisesti ja eettisesti kestäviä tuotteita tai teoksia. Käytetään käsityön tekemiseen tarvittavia työvälineitä, koneita ja laitteita monipuolisesti ja tarkoituksenmukaisesti.",
-          "en": ""
+          "en": "Various high-quality, functional, ecologically and ethically sustainable products or works are produced. Tools, machines, and devices needed for crafts are used in a versatile and purposeful manner."
         }
       },
       {
         "code": "S6",
         "name": {
           "local": "S6 Työturvallisuus",
-          "en": ""
+          "en": "S6 Work Safety"
         },
         "description": {
           "local": "Perehdytään työturvallisuuteen ja kartoitetaan ja arvioidaan työn vaaroja sekä riskejä osana käsityöprosessia. Työskennellään turvallisesti.",
-          "en": ""
+          "en": "Occupational safety is explored, and work hazards and risks are identified and assessed as part of the craft process. Work is carried out safely."
         }
       },
       {
         "code": "S7",
         "name": {
           "local": "S7 Yrittäjämäinen oppiminen",
-          "en": ""
+          "en": "S7 Entrepreneurial Learning"
         },
         "description": {
           "local": "Tutustutaan yrittäjämäiseen oppimiseen, yrittäjyyteen ja järjestöyhteistyöhön havainnollisesti, virtuaalisesti, opintokäynneillä tai yritysvierailuilla. Huomioidaan käsityöosaamisen merkitys työelämälle. Hyödynnetään kulttuurilaitosten tarjontaa ideoinnin lähteenä.",
-          "en": ""
+          "en": "Entrepreneurial learning, entrepreneurship, and collaboration with organisations are explored through demonstrations, virtual means, study visits, or company visits. The significance of craft skills for working life is considered. The offerings of cultural institutions are utilised as a source of ideation."
         }
       },
       {
         "code": "S8",
         "name": {
           "local": "S8 Tiedostaminen ja osallistuminen",
-          "en": ""
+          "en": "S8 Awareness and Participation"
         },
         "description": {
           "local": "Tutkitaan käsityön ja tuotteiden erilaisia merkityksiä yksilön, yhteiskunnan ja ympäristön näkökulmasta. Pohditaan käsityötä hyvinvoinnin ja kestävän kehityksen edistäjänä arjessa. Harjoitellaan käsityöllä osallistumista, vaikuttamista ja viestimistä.",
-          "en": ""
+          "en": "The various meanings of crafts and products are examined from the perspectives of the individual, society, and the environment. Crafts are considered as a promoter of well-being and sustainable development in everyday life. Participation, influencing, and communication through crafts are practised."
         }
       }
     ],
@@ -213,13 +213,13 @@
             "code": "T1",
             "text": {
               "local": "T1 rohkaista oppilasta kiinnostumaan ja innostumaan käsin tekemisestä sekä herättää uteliaisuutta keksivään ja kokeilevaan käsityöhön",
-              "en": ""
+              "en": "T1 encourage the pupil to become interested in and enthusiastic about making things by hand, and to awaken curiosity towards inventive and experimental crafts"
             },
             "coreElements": [
-              "S2",
-              "S1",
-              "S4",
-              "S3"
+              "S2 Muotoilu",
+              "S1 Innovointi",
+              "S4 Dokumentointi ja arviointi",
+              "S3 Suunnittelu"
             ],
             "verbs": []
           },
@@ -227,12 +227,12 @@
             "code": "T2",
             "text": {
               "local": "T2 ohjata oppilas kokonaiseen käsityöprosessiin ja esittämään omia ideoitaan kuvallisesti sekä kertomaan käsityön tekemisestä ja valmiista tuotteesta",
-              "en": ""
+              "en": "T2 guide the pupil through the complete craft process and to present their own ideas visually, as well as to describe the making process and the finished product"
             },
             "coreElements": [
-              "S2",
-              "S1",
-              "S3"
+              "S2 Muotoilu",
+              "S1 Innovointi",
+              "S3 Suunnittelu"
             ],
             "verbs": []
           },
@@ -240,14 +240,14 @@
             "code": "T3",
             "text": {
               "local": "T3 ohjata oppilasta suunnittelemaan ja valmistamaan käsityötuotteita tai teoksia luottaen omiin esteettisiin ja teknisiin ratkaisuihinsa",
-              "en": ""
+              "en": "T3 guide the pupil to design and produce craft products or works, trusting in their own aesthetic and technical solutions"
             },
             "coreElements": [
-              "S2",
-              "S1",
-              "S4",
-              "S3",
-              "S5"
+              "S2 Muotoilu",
+              "S1 Innovointi",
+              "S4 Dokumentointi ja arviointi",
+              "S3 Suunnittelu",
+              "S5 Tekeminen"
             ],
             "verbs": []
           },
@@ -255,12 +255,12 @@
             "code": "T4",
             "text": {
               "local": "T4 opastaa oppilasta tutustumaan moniin erilaisiin materiaaleihin ja niiden työstämiseen sekä ohjata toimimaan vastuuntuntoisesti ja turvallisesti",
-              "en": ""
+              "en": "T4 instruct the pupil to explore many different materials and how to work with them, and to guide them to act responsibly and safely"
             },
             "coreElements": [
-              "S2",
-              "S4",
-              "S3"
+              "S2 Muotoilu",
+              "S4 Dokumentointi ja arviointi",
+              "S3 Suunnittelu"
             ],
             "verbs": []
           },
@@ -268,15 +268,15 @@
             "code": "T5",
             "text": {
               "local": "T5 tukea oppilaan itsetunnon kehittymistä käsityössä onnistumisen, oivaltamisen ja keksimisen kokemusten kautta",
-              "en": ""
+              "en": "T5 support the development of the pupil's self-esteem through experiences of success, discovery, and invention in crafts"
             },
             "coreElements": [
-              "S2",
-              "S1",
-              "S4",
-              "S3",
-              "S6",
-              "S5"
+              "S2 Muotoilu",
+              "S1 Innovointi",
+              "S4 Dokumentointi ja arviointi",
+              "S3 Suunnittelu",
+              "S6 Työturvallisuus",
+              "S5 Tekeminen"
             ],
             "verbs": []
           }
@@ -293,15 +293,15 @@
             "code": "T1",
             "text": {
               "local": "T1 vahvistaa oppilaan kiinnostusta käsin tekemiseen sekä innostaa keksivään, kokeilevaan ja paikallisuutta hyödyntävään käsityöhön",
-              "en": ""
+              "en": "T1 strengthen the pupil's interest in making things by hand and inspire inventive, experimental crafts that utilise local resources"
             },
             "coreElements": [
-              "S2",
-              "S1",
-              "S3",
-              "S4",
-              "S6",
-              "S5"
+              "S2 Muotoilu",
+              "S1 Innovointi",
+              "S3 Suunnittelu",
+              "S4 Dokumentointi ja arviointi",
+              "S6 Työturvallisuus",
+              "S5 Tekeminen"
             ],
             "verbs": []
           },
@@ -309,15 +309,15 @@
             "code": "T2",
             "text": {
               "local": "T2 ohjata oppilasta hahmottamaan ja hallitsemaan kokonainen käsityöprosessi ja sen dokumentointi",
-              "en": ""
+              "en": "T2 guide the pupil to perceive and manage the complete craft process and its documentation"
             },
             "coreElements": [
-              "S2",
-              "S1",
-              "S3",
-              "S4",
-              "S6",
-              "S5"
+              "S2 Muotoilu",
+              "S1 Innovointi",
+              "S3 Suunnittelu",
+              "S4 Dokumentointi ja arviointi",
+              "S6 Työturvallisuus",
+              "S5 Tekeminen"
             ],
             "verbs": []
           },
@@ -325,13 +325,13 @@
             "code": "T3",
             "text": {
               "local": "T3 opastaa oppilasta suunnittelemaan ja valmistamaan yksin tai yhdessä käsityötuote tai -teos luottaen omiin esteettisiin ja teknisiin ratkaisuihin",
-              "en": ""
+              "en": "T3 instruct the pupil to design and produce a craft product or work independently or collaboratively, trusting in their own aesthetic and technical solutions"
             },
             "coreElements": [
-              "S2",
-              "S1",
-              "S3",
-              "S4"
+              "S2 Muotoilu",
+              "S1 Innovointi",
+              "S3 Suunnittelu",
+              "S4 Dokumentointi ja arviointi"
             ],
             "verbs": []
           },
@@ -339,11 +339,11 @@
             "code": "T4",
             "text": {
               "local": "T4 ohjata oppilasta tunnistamaan käsitteistöä sekä tuntemaan monia erilaisia materiaaleja ja työstämään niitä tarkoituksenmukaisesti",
-              "en": ""
+              "en": "T4 guide the pupil to recognise terminology and to become familiar with many different materials and to work with them appropriately"
             },
             "coreElements": [
-              "S3",
-              "S5"
+              "S3 Suunnittelu",
+              "S5 Tekeminen"
             ],
             "verbs": []
           },
@@ -351,14 +351,14 @@
             "code": "T5",
             "text": {
               "local": "T5 kannustaa oppilasta toimimaan pitkäjänteisesti ja vastuuntuntoisesti, huolehtimaan turvallisesta työskentelystä sekä valitsemaan ja käyttämään työhön sopivaa välineistöä",
-              "en": ""
+              "en": "T5 encourage the pupil to work persistently and responsibly, to ensure safe working practices, and to select and use tools appropriate for the task"
             },
             "coreElements": [
-              "S2",
-              "S1",
-              "S3",
-              "S4",
-              "S5"
+              "S2 Muotoilu",
+              "S1 Innovointi",
+              "S3 Suunnittelu",
+              "S4 Dokumentointi ja arviointi",
+              "S5 Tekeminen"
             ],
             "verbs": []
           },
@@ -366,12 +366,12 @@
             "code": "T6",
             "text": {
               "local": "T6 opastaa oppilasta käyttämään tieto- ja viestintäteknologiaa käsityön suunnittelussa, valmistamisessa ja käsityöprosessin dokumentoinnissa",
-              "en": ""
+              "en": "T6 instruct the pupil to use information and communication technology in craft design, production, and documentation of the craft process"
             },
             "coreElements": [
-              "S2",
-              "S1",
-              "S6"
+              "S2 Muotoilu",
+              "S1 Innovointi",
+              "S6 Työturvallisuus"
             ],
             "verbs": []
           },
@@ -379,10 +379,10 @@
             "code": "T7",
             "text": {
               "local": "T7 ohjata oppilasta arvioimaan, arvostamaan ja tarkastelemaan vuorovaikutteisesti omaa ja muiden kokonaisen käsityön prosessia",
-              "en": ""
+              "en": "T7 guide the pupil to assess, appreciate, and examine their own and others' complete craft processes through interaction"
             },
             "coreElements": [
-              "S6"
+              "S6 Työturvallisuus"
             ],
             "verbs": []
           },
@@ -390,13 +390,13 @@
             "code": "T8",
             "text": {
               "local": "T8 herättää oppilas arvioimaan kulutus- ja tuotantotapoja kriittisesti",
-              "en": ""
+              "en": "T8 prompt the pupil to critically evaluate consumption and production practices"
             },
             "coreElements": [
-              "S2",
-              "S1",
-              "S3",
-              "S5"
+              "S2 Muotoilu",
+              "S1 Innovointi",
+              "S3 Suunnittelu",
+              "S5 Tekeminen"
             ],
             "verbs": []
           }
@@ -413,14 +413,14 @@
             "code": "T1",
             "text": {
               "local": "T1 ohjata oppilasta suunnittelemaan työskentelyään sekä ideoimaan, tutkimaan ja kokeilemaan yritteliäästi",
-              "en": ""
+              "en": "T1 guide the pupil to plan their work and to ideate, investigate, and experiment with an entrepreneurial attitude"
             },
             "coreElements": [
-              "S1",
-              "S2",
-              "S4",
-              "S3",
-              "S5"
+              "S1 Innovointi",
+              "S2 Muotoilu",
+              "S4 Dokumentointi ja arviointi",
+              "S3 Suunnittelu",
+              "S5 Tekeminen"
             ],
             "verbs": []
           },
@@ -428,14 +428,14 @@
             "code": "T2",
             "text": {
               "local": "T2 ohjata oppilasta asettamaan käsityöhön omia oppimisen ja työskentelyn tavoitteita sekä toteuttamaan niiden perusteella kokonainen käsityöprosessi ja arvioimaan oppimistaan",
-              "en": ""
+              "en": "T2 guide the pupil to set their own learning and working goals for crafts, to carry out a complete craft process based on these goals, and to assess their learning"
             },
             "coreElements": [
-              "S1",
-              "S2",
-              "S4",
-              "S3",
-              "S5"
+              "S1 Innovointi",
+              "S2 Muotoilu",
+              "S4 Dokumentointi ja arviointi",
+              "S3 Suunnittelu",
+              "S5 Tekeminen"
             ],
             "verbs": []
           },
@@ -443,14 +443,14 @@
             "code": "T3",
             "text": {
               "local": "T3 opastaa oppilasta tutustumaan ja käyttämään monipuolisesti erilaisia työvälineitä, materiaaleja ja tarkoituksenmukaisia työtapoja sekä kehittämään innovaatioita",
-              "en": ""
+              "en": "T3 instruct the pupil to become familiar with and use a wide range of tools, materials, and appropriate working methods, and to develop innovations"
             },
             "coreElements": [
-              "S1",
-              "S2",
-              "S4",
-              "S3",
-              "S5"
+              "S1 Innovointi",
+              "S2 Muotoilu",
+              "S4 Dokumentointi ja arviointi",
+              "S3 Suunnittelu",
+              "S5 Tekeminen"
             ],
             "verbs": []
           },
@@ -458,14 +458,14 @@
             "code": "T4",
             "text": {
               "local": "T4 ohjata oppilasta käyttämään sujuvasti käsityön käsitteitä, merkkejä ja symboleja sekä vahvistamaan visuaalista, materiaalista ja teknologista ilmaisuaan",
-              "en": ""
+              "en": "T4 guide the pupil to fluently use craft concepts, signs, and symbols, and to strengthen their visual, material, and technological expression"
             },
             "coreElements": [
-              "S1",
-              "S2",
-              "S4",
-              "S3",
-              "S5"
+              "S1 Innovointi",
+              "S2 Muotoilu",
+              "S4 Dokumentointi ja arviointi",
+              "S3 Suunnittelu",
+              "S5 Tekeminen"
             ],
             "verbs": []
           },
@@ -473,10 +473,10 @@
             "code": "T5",
             "text": {
               "local": "T5 ohjata oppilasta havainnoimaan, ennakoimaan ja reagoimaan työtilanteisiin liittyviin riskitekijöihin ja toimimaan turvallisesti käsityöprosessissa",
-              "en": ""
+              "en": "T5 guide the pupil to observe, anticipate, and respond to risk factors related to work situations and to act safely in the craft process"
             },
             "coreElements": [
-              "S6"
+              "S6 Työturvallisuus"
             ],
             "verbs": []
           },
@@ -484,14 +484,14 @@
             "code": "T6",
             "text": {
               "local": "T6 ohjata oppilasta käyttämään tieto- ja viestintäteknologian mahdollisuuksia käsityön suunnittelussa, valmistuksessa ja dokumentoinnissa, sekä yhteisöllisen tiedon tuottamisessa ja jakamisessa",
-              "en": ""
+              "en": "T6 guide the pupil to use the possibilities of information and communication technology in craft design, production, and documentation, as well as in collaborative knowledge creation and sharing"
             },
             "coreElements": [
-              "S1",
-              "S2",
-              "S4",
-              "S3",
-              "S5"
+              "S1 Innovointi",
+              "S2 Muotoilu",
+              "S4 Dokumentointi ja arviointi",
+              "S3 Suunnittelu",
+              "S5 Tekeminen"
             ],
             "verbs": []
           },
@@ -499,10 +499,10 @@
             "code": "T7",
             "text": {
               "local": "T7 ohjata oppilasta tuntemaan käsityön, kädentaitojen ja teknologisen kehityksen merkitys omassa elämässään, yhteiskunnassa, yrittäjyydessä ja muussa työelämässä",
-              "en": ""
+              "en": "T7 guide the pupil to understand the significance of crafts, manual skills, and technological development in their own life, in society, in entrepreneurship, and in other areas of working life"
             },
             "coreElements": [
-              "S7"
+              "S7 Yrittäjämäinen oppiminen"
             ],
             "verbs": []
           },
@@ -510,10 +510,10 @@
             "code": "T8",
             "text": {
               "local": "T8 ohjata oppilaita taloudelliseen ajatteluun ja kehittämään käsityöprosessiin liittyviä valintoja, jotka edistävät kestävää elämäntapaa",
-              "en": ""
+              "en": "T8 guide pupils towards economic thinking and to develop choices related to the craft process that promote a sustainable way of life"
             },
             "coreElements": [
-              "S8"
+              "S8 Tiedostaminen ja osallistuminen"
             ],
             "verbs": []
           }

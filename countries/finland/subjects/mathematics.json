@@ -17,121 +17,121 @@
         "code": "S1",
         "name": {
           "local": "S1 Ajattelun taidot ja menetelmät",
-          "en": ""
+          "en": "S1 Thinking skills and methods"
         },
         "description": {
           "local": "Harjoitellaan loogista ajattelua vaativia toimintoja kuten sääntöjen ja riippuvuuksien etsimistä ja esittämistä täsmällisesti. Pohditaan ja määritetään vaihtoehtojen lukumääriä. Vahvistetaan oppilaiden päättelykykyä ja taitoa perustella. Harjoitellaan matemaattisen tekstin tulkitsemista ja tuottamista. Tutustutaan todistamisen perusteisiin. Harjoitellaan väitelauseiden totuusarvon päättelyä. Syvennetään algoritmista ajattelua. Ohjelmoidaan ja samalla harjoitellaan hyviä ohjelmointikäytäntöjä. Sovelletaan itse tehtyjä tai valmiita tietokoneohjelmia osana matematiikan opiskelua.",
-          "en": ""
+          "en": "Activities requiring logical thinking are practised, such as finding and expressing rules and dependencies precisely. The number of alternatives is considered and determined. Pupils' reasoning ability and skill in justifying are strengthened. Interpreting and producing mathematical text is practised. The basics of proof are introduced. Determining the truth value of propositions is practised. Algorithmic thinking is deepened. Programming is carried out while practising good programming practices. Self-made or ready-made computer programs are applied as part of mathematics studies."
         }
       },
       {
         "code": "S2",
         "name": {
           "local": "S2 Luvut ja laskutoimitukset",
-          "en": ""
+          "en": "S2 Numbers and operations"
         },
         "description": {
           "local": "Harjoitellaan peruslaskutoimituksia myös negatiivisilla luvuilla. Vahvistetaan laskutaitoa murtoluvuilla ja opitaan murtoluvun kertominen ja jakaminen murtoluvulla. Tutustutaan vastaluvun, käänteisluvun ja itseisarvon käsitteisiin. Lukualuetta laajennetaan reaalilukuihin. Perehdytään lukujen jaollisuuteen ja jaetaan lukuja alkutekijöihin. Syvennetään desimaalilukujen laskutoimituksien osaamista. Vahvistetaan ymmärrystä tarkan arvon ja likiarvon erosta sekä pyöristämisestä. Varmistetaan prosentin käsitteen ymmärtäminen. Harjoitellaan prosenttiosuuden laskemista ja prosenttiluvun osoittaman määrän laskemista kokonaisuudesta. Lisäksi opitaan laskemaan muuttunut arvo, perusarvo sekä muutos- ja vertailuprosentti. Harjoitellaan potenssilaskentaa, kun eksponenttina on kokonaisluku. Perehdytään neliöjuuren käsitteeseen ja käytetään neliöjuurta laskutoimituksissa.",
-          "en": ""
+          "en": "Basic operations are practised also with negative numbers. Calculation skills with fractions are strengthened and multiplying and dividing a fraction by a fraction are learned. The concepts of opposite number, reciprocal, and absolute value are introduced. The number domain is extended to real numbers. Divisibility of numbers is explored and numbers are factored into prime factors. Skills in decimal number operations are deepened. Understanding of the difference between exact value and approximate value, as well as rounding, is strengthened. Understanding of the concept of percentage is ensured. Calculating percentage shares and calculating the quantity indicated by a percentage from a whole are practised. Additionally, calculating changed value, base value, and percentage of change and comparison are learned. Exponentiation with integer exponents is practised. The concept of square root is explored and square root is used in calculations."
         }
       },
       {
         "code": "S3",
         "name": {
           "local": "S3 Algebra",
-          "en": ""
+          "en": "S3 Algebra"
         },
         "description": {
           "local": "Perehdytään muuttujan käsitteeseen ja lausekkeen arvon laskemiseen. Harjoitellaan potenssilausekkeiden sieventämistä. Tutustutaan polynomin käsitteeseen ja harjoitellaan polynomien yhteen-, vähennys- ja kertolaskua. Harjoitellaan muodostamaan lausekkeita ja sieventämään niitä. Muodostetaan ja ratkaistaan ensimmäisen asteen yhtälöitä ja vaillinaisia toisen asteen yhtälöitä. Ratkaistaan yhtälöpareja graafisesti ja algebrallisesti. Tutustutaan ensimmäisen asteen epäyhtälöihin ja ratkaistaan niitä. Syvennetään oppilaiden taitoa tutkia ja muodostaa lukujonoja. Käytetään verrantoa tehtävien ratkaisussa.",
-          "en": ""
+          "en": "The concept of variable and calculating the value of an expression are explored. Simplifying power expressions is practised. The concept of polynomial is introduced and addition, subtraction, and multiplication of polynomials are practised. Forming and simplifying expressions is practised. First-degree equations and incomplete second-degree equations are formed and solved. Systems of equations are solved graphically and algebraically. First-degree inequalities are introduced and solved. Pupils' skills in investigating and forming number sequences are deepened. Proportion is used in problem solving."
         }
       },
       {
         "code": "S4",
         "name": {
           "local": "S4 Funktiot",
-          "en": ""
+          "en": "S4 Functions"
         },
         "description": {
           "local": "Kuvataan riippuvuuksia sekä graafisesti että algebrallisesti. Tutustutaan suoraan ja kääntäen verrannollisuuteen. Perehdytään funktion käsitteeseen. Piirretään suoria ja paraabeleja koordinaatistoon. Opitaan suoran kulmakertoimen ja vakiotermin käsitteet. Tulkitaan kuvaajia esimerkiksi tutkimalla funktion kasvamista ja vähenemistä. Määritetään funktioiden nollakohtia.",
-          "en": ""
+          "en": "Dependencies are described both graphically and algebraically. Direct and inverse proportionality are introduced. The concept of function is explored. Lines and parabolas are drawn in a coordinate system. The concepts of slope and constant term of a line are learned. Graphs are interpreted, for example by investigating the increase and decrease of a function. Zeros of functions are determined."
         }
       },
       {
         "code": "S5",
         "name": {
           "local": "S5 Geometria",
-          "en": ""
+          "en": "S5 Geometry"
         },
         "description": {
           "local": "Laajennetaan pisteen, janan, suoran ja kulman käsitteiden ymmärtämistä ja perehdytään viivan ja puolisuoran käsitteisiin. Tutkitaan suoriin, kulmiin ja monikulmioihin liittyviä ominaisuuksia. Vahvistetaan yhdenmuotoisuuden ja yhtenevyyden käsitteiden ymmärtämistä. Harjoitellaan geometrista konstruointia. Opitaan käyttämään Pythagoraan lausetta, Pythagoraan lauseen käänteislausetta ja trigonometrisia funktioita. Opitaan kehä- ja keskuskulma sekä tutustutaan Thaleen lauseeseen.\n\nLasketaan monikulmioiden piirejä ja pinta-aloja.\n\nHarjoitellaan laskemaan ympyrän pinta-ala, kehän ja kaaren pituus sekä sektorin pinta-ala.\n\nTutkitaan kolmiulotteisia kappaleita. Opitaan laskemaan pallon, lieriön ja kartion pinta-aloja ja tilavuuksia.\n\nVarmennetaan ja laajennetaan mittayksiköiden ja yksikkömuunnosten hallintaa.",
-          "en": ""
+          "en": "Understanding of the concepts of point, line segment, line, and angle is extended, and the concepts of curve and ray are explored. Properties related to lines, angles, and polygons are investigated. Understanding of the concepts of similarity and congruence is strengthened. Geometric construction is practised. The Pythagorean theorem, the converse of the Pythagorean theorem, and trigonometric functions are learned. Inscribed and central angles are learned and Thales' theorem is introduced.\n\nPerimeters and areas of polygons are calculated.\n\nCalculating the area of a circle, the length of circumference and arc, and the area of a sector are practised.\n\nThree-dimensional solids are investigated. Calculating the surface areas and volumes of spheres, cylinders, and cones is learned.\n\nMastery of units of measurement and unit conversions is confirmed and extended."
         }
       },
       {
         "code": "S6",
         "name": {
           "local": "S6 Tietojen käsittely ja tilastot sekä todennäköisyys",
-          "en": ""
+          "en": "S6 Data processing, statistics, and probability"
         },
         "description": {
           "local": "Syvennetään oppilaiden taitoja kerätä, jäsentää ja analysoida tietoa. Varmistetaan keskiarvon ja tyyppiarvon ymmärtäminen. Harjoitellaan määrittämään frekvenssi, suhteellinen frekvenssi ja mediaani. Tutustutaan hajonnan käsitteeseen. Tulkitaan ja tuotetaan erilaisia diagrammeja. Lasketaan todennäköisyyksiä.",
-          "en": ""
+          "en": "Pupils' skills in collecting, organising, and analysing data are deepened. Understanding of mean and mode is ensured. Determining frequency, relative frequency, and median is practised. The concept of dispersion is introduced. Various diagrams are interpreted and produced. Probabilities are calculated."
         }
       },
       {
         "code": "S1",
         "name": {
           "local": "S1 Ajattelun taidot",
-          "en": ""
+          "en": "S1 Thinking skills"
         },
         "description": {
           "local": "Oppilaille tarjotaan mahdollisuuksia löytää yhtäläisyyksiä, eroja ja säännönmukaisuuksia. Vertaillaan, luokitellaan ja asetetaan järjestykseen sekä havaitaan syy- ja seuraussuhteita. Harjoitellaan tarkastelemaan matemaattisia tilanteita eri näkökulmista. Tutustuminen ohjelmoinnin alkeisiin alkaa laatimalla vaiheittaisia toimintaohjeita, joita myös testataan.",
-          "en": ""
+          "en": "Pupils are offered opportunities to find similarities, differences, and regularities. Comparing, classifying, and ordering are practised, and cause-and-effect relationships are observed. Examining mathematical situations from different perspectives is practised. Introduction to the basics of programming begins by creating step-by-step instructions, which are also tested."
         }
       },
       {
         "code": "S3",
         "name": {
           "local": "S3 Geometria ja mittaaminen",
-          "en": ""
+          "en": "S3 Geometry and measurement"
         },
         "description": {
           "local": "Kehitetään oppilaiden taitoa hahmottaa kolmiulotteista ympäristöä ja havaita siinä tason geometriaa. Harjoitellaan suunta- ja sijaintikäsitteiden käyttöä.\n\nTutkitaan yhdessä kappaleita ja tasokuvioita. Tunnistamisen lisäksi rakennetaan ja piirretään. Ohjataan oppilaita löytämään ja nimeämään ominaisuuksia, joiden mukaan kappaleita ja tasokuviota myös luokitellaan.\n\nHarjoitellaan mittaamista ja ohjataan oppilaita oivaltamaan mittaamisen periaate. Käsitellään suureita pituus, massa, tilavuus ja aika sekä harjoitellaan niihin liittyvien mittayksiköiden käyttöä. Keskeisiä mittayksiköitä ovat metri ja senttimetri, kilogramma ja gramma sekä litra ja desilitra. Harjoitellaan kellonaikoja ja ajanyksiköitä.",
-          "en": ""
+          "en": "Pupils' ability to perceive a three-dimensional environment and to identify plane geometry within it is developed. The use of direction and position concepts is practised.\n\nSolids and plane figures are explored together. In addition to recognising, building and drawing are carried out. Pupils are guided to find and name properties by which solids and plane figures are also classified.\n\nMeasurement is practised and pupils are guided to understand the principle of measurement. The quantities length, mass, volume, and time are covered and the use of related units of measurement is practised. Key units of measurement are metre and centimetre, kilogram and gram, and litre and decilitre. Telling time and units of time are practised."
         }
       },
       {
         "code": "S4",
         "name": {
           "local": "S4 Tietojenkäsittely ja tilastot",
-          "en": ""
+          "en": "S4 Data processing and statistics"
         },
         "description": {
           "local": "Pohjustetaan oppilaiden taitoja kerätä ja tallentaa tietoja kiinnostavista aihepiireistä. Laaditaan ja tulkitaan yksinkertaisia taulukoita ja pylväsdiagrammeja.",
-          "en": ""
+          "en": "The groundwork is laid for pupils' skills in collecting and recording data on topics of interest. Simple tables and bar charts are created and interpreted."
         }
       },
       {
         "code": "S4",
         "name": {
           "local": "S4 Geometria ja mittaaminen",
-          "en": ""
+          "en": "S4 Geometry and measurement"
         },
         "description": {
           "local": "Rakennetaan, piirretään, tutkitaan ja luokitellaan kappaleita ja kuvioita. Luokitellaan kappaleet lieriöihin, kartioihin ja muihin kappaleisiin. Tutustutaan tarkemmin suorakulmaiseen särmiöön, ympyrälieriöön, ympyräpohjaiseen kartioon ja pyramidiin. Luokitellaan tasokuviot monikulmioihin ja muihin kuvioihin sekä tutkitaan niiden ominaisuuksia. Perehdytään tarkemmin kolmioihin, nelikulmioihin ja ympyrään. Perehdytään pisteen, janan, suoran ja kulman käsitteisiin. Harjoitellaan kulmien piirtämistä, mittaamista ja luokittelemista.\n\nTarkastellaan symmetriaa suoran suhteen. Ohjataan oppilaita havaitsemaan myös kierto- ja siirtosymmetrioita ympäristössä esimerkiksi osana taidetta.\n\nKäsitellään koordinaatistosta ensin ensimmäinen neljännes ja laajennetaan sitten kaikkiin neljänneksiin.\n\nTutustutaan mittakaavan käsitteeseen ja käytetään sitä suurennoksissa ja pienennöksissä. Ohjataan oppilaita hyödyntämään mittakaavaa kartan käytössä.\n\nHarjoitellaan mittaamista ja kiinnitetään huomiota mittaustarkkuuteen, mittaustuloksen arviointiin ja mittauksen tarkistamiseen. Mitataan ja lasketaan erimuotoisten kuvioiden piirejä ja pinta-aloja sekä suorakulmaisten särmiöiden tilavuuksia. Ohjataan oppilaita ymmärtämään, miten mittayksikköjärjestelmä rakentuu. Harjoitellaan yksikönmuunnoksia yleisimmin käytetyillä mittayksiköillä.",
-          "en": ""
+          "en": "Solids and figures are built, drawn, investigated, and classified. Solids are classified into cylinders, cones, and other solids. The rectangular prism, circular cylinder, circular cone, and pyramid are explored in more detail. Plane figures are classified into polygons and other figures and their properties are investigated. Triangles, quadrilaterals, and the circle are explored in more detail. The concepts of point, line segment, line, and angle are explored. Drawing, measuring, and classifying angles are practised.\n\nSymmetry with respect to a line is examined. Pupils are also guided to observe rotational and translational symmetries in the environment, for example as part of art.\n\nThe first quadrant of the coordinate system is covered first, then extended to all four quadrants.\n\nThe concept of scale is introduced and used for enlargements and reductions. Pupils are guided to utilise scale when using maps.\n\nMeasurement is practised with attention to measurement accuracy, evaluating measurement results, and verifying measurements. Perimeters and areas of figures of various shapes are measured and calculated, as well as volumes of rectangular prisms. Pupils are guided to understand how the system of units of measurement is structured. Unit conversions with the most commonly used units of measurement are practised."
         }
       },
       {
         "code": "S5",
         "name": {
           "local": "S5 Tietojenkäsittely, tilastot ja todennäköisyys",
-          "en": ""
+          "en": "S5 Data processing, statistics, and probability"
         },
         "description": {
           "local": "Kehitetään oppilaiden taitoja kerätä tietoa järjestelmällisesti kiinnostavista aihepiireistä. Tallennetaan ja esitetään tietoa taulukoiden ja diagrammien avulla. Käsitellään tilastollisista tunnusluvuista suurin ja pienin arvo, keskiarvo ja tyyppiarvo.\n\nTutustutaan todennäköisyyteen arkitilanteiden perusteella päättelemällä, onko tapahtuma mahdoton, mahdollinen vai varma.",
-          "en": ""
+          "en": "Pupils' skills in collecting data systematically on topics of interest are developed. Data is recorded and presented using tables and diagrams. The statistical measures of maximum and minimum value, mean, and mode are covered.\n\nProbability is introduced by reasoning from everyday situations whether an event is impossible, possible, or certain."
         }
       }
     ],
@@ -147,7 +147,7 @@
             "code": "T1",
             "text": {
               "local": "T1 tukea oppilaan innostusta ja kiinnostusta matematiikkaa kohtaan sekä myönteisen minäkuvan ja itseluottamuksen kehittymistä",
-              "en": ""
+              "en": "T1 support the pupil's enthusiasm and interest in mathematics and the development of a positive self-image and self-confidence"
             },
             "coreElements": [
               "S4",
@@ -161,7 +161,7 @@
             "code": "T2",
             "text": {
               "local": "T2 ohjata oppilasta kehittämään taitoaan tehdä havaintoja matematiikan näkökulmasta sekä tulkita ja hyödyntää niitä eri tilanteissa",
-              "en": ""
+              "en": "T2 guide the pupil in developing their skill in making observations from a mathematical perspective and in interpreting and utilising them in different situations"
             },
             "coreElements": [
               "S4",
@@ -175,7 +175,7 @@
             "code": "T3",
             "text": {
               "local": "T3 kannustaa oppilasta esittämään ratkaisujaan ja päätelmiään konkreettisin välinein, piirroksin, suullisesti ja kirjallisesti myös tieto- ja viestintäteknologiaa hyödyntäen",
-              "en": ""
+              "en": "T3 encourage the pupil to present their solutions and conclusions using concrete tools, drawings, orally and in writing, also utilising information and communication technology"
             },
             "coreElements": [
               "S4",
@@ -189,7 +189,7 @@
             "code": "T4",
             "text": {
               "local": "T4 ohjata oppilasta kehittämään päättely- ja ongelmanratkaisutaitojaan",
-              "en": ""
+              "en": "T4 guide the pupil in developing their reasoning and problem-solving skills"
             },
             "coreElements": [
               "S4",
@@ -203,7 +203,7 @@
             "code": "T5",
             "text": {
               "local": "T5 ohjata oppilasta ymmärtämään matemaattisia käsitteitä ja merkintätapoja",
-              "en": ""
+              "en": "T5 guide the pupil in understanding mathematical concepts and notations"
             },
             "coreElements": [
               "S4",
@@ -217,7 +217,7 @@
             "code": "T6",
             "text": {
               "local": "T6 tukea oppilasta lukukäsitteen kehittymisessä ja kymmenjärjestelmän periaatteen ymmärtämisessä",
-              "en": ""
+              "en": "T6 support the pupil in the development of the number concept and in understanding the principle of the decimal system"
             },
             "coreElements": [
               "S2"
@@ -228,7 +228,7 @@
             "code": "T7",
             "text": {
               "local": "T7 perehdyttää oppilasta peruslaskutoimitusten periaatteisiin ja tutustuttaa niiden ominaisuuksiin",
-              "en": ""
+              "en": "T7 familiarise the pupil with the principles of basic operations and introduce their properties"
             },
             "coreElements": [
               "S2"
@@ -239,7 +239,7 @@
             "code": "T8",
             "text": {
               "local": "T8 ohjata oppilasta kehittämään sujuvaa peruslaskutaitoa luonnollisilla luvuilla ja käyttämään erilaisia päässälaskustrategioita",
-              "en": ""
+              "en": "T8 guide the pupil in developing fluent basic calculation skills with natural numbers and in using various mental arithmetic strategies"
             },
             "coreElements": [
               "S2"
@@ -250,7 +250,7 @@
             "code": "T9",
             "text": {
               "local": "T9 tutustuttaa oppilas geometrisiin muotoihin ja ohjata havainnoimaan niiden ominaisuuksia",
-              "en": ""
+              "en": "T9 introduce the pupil to geometric shapes and guide them in observing their properties"
             },
             "coreElements": [
               "S3"
@@ -261,7 +261,7 @@
             "code": "T10",
             "text": {
               "local": "T10 ohjata oppilasta ymmärtämään mittaamisen periaate",
-              "en": ""
+              "en": "T10 guide the pupil in understanding the principle of measurement"
             },
             "coreElements": [
               "S3"
@@ -272,7 +272,7 @@
             "code": "T11",
             "text": {
               "local": "T11 tutustuttaa oppilas taulukoihin ja diagrammeihin",
-              "en": ""
+              "en": "T11 introduce the pupil to tables and diagrams"
             },
             "coreElements": [
               "S4"
@@ -283,7 +283,7 @@
             "code": "T12",
             "text": {
               "local": "T12 harjaannuttaa oppilasta laatimaan vaiheittaisia toimintaohjeita ja toimimaan ohjeen mukaan",
-              "en": ""
+              "en": "T12 train the pupil to create step-by-step instructions and to follow instructions"
             },
             "coreElements": [
               "S1"
@@ -303,7 +303,7 @@
             "code": "T1",
             "text": {
               "local": "T1 pitää yllä oppilaan innostusta ja kiinnostusta matematiikkaa kohtaan sekä tukea myönteistä minäkuvaa ja itseluottamusta",
-              "en": ""
+              "en": "T1 maintain the pupil's enthusiasm and interest in mathematics and support a positive self-image and self-confidence"
             },
             "coreElements": [
               "S1",
@@ -318,7 +318,7 @@
             "code": "T2",
             "text": {
               "local": "T2 ohjata oppilasta havaitsemaan yhteyksiä oppimiensa asioiden välillä",
-              "en": ""
+              "en": "T2 guide the pupil in noticing connections between the things they have learned"
             },
             "coreElements": [
               "S1",
@@ -333,7 +333,7 @@
             "code": "T3",
             "text": {
               "local": "T3 ohjata oppilasta kehittämään taitoaan esittää kysymyksiä ja tehdä perusteltuja päätelmiä havaintojensa pohjalta",
-              "en": ""
+              "en": "T3 guide the pupil in developing their skill in asking questions and making justified conclusions based on their observations"
             },
             "coreElements": [
               "S1",
@@ -348,7 +348,7 @@
             "code": "T4",
             "text": {
               "local": "T4 kannustaa oppilasta esittämään päättelyään ja ratkaisujaan muille konkreettisin välinein, piirroksin, suullisesti ja kirjallisesti myös tieto- ja viestintäteknologiaa hyödyntäen",
-              "en": ""
+              "en": "T4 encourage the pupil to present their reasoning and solutions to others using concrete tools, drawings, orally and in writing, also utilising information and communication technology"
             },
             "coreElements": [
               "S1",
@@ -363,7 +363,7 @@
             "code": "T5",
             "text": {
               "local": "T5 ohjata ja tukea oppilasta ongelmanratkaisutaitojen kehittämisessä",
-              "en": ""
+              "en": "T5 guide and support the pupil in developing problem-solving skills"
             },
             "coreElements": [
               "S1",
@@ -378,7 +378,7 @@
             "code": "T6",
             "text": {
               "local": "T6 ohjata oppilasta kehittämään taitoaan arvioida ratkaisun järkevyyttä ja tuloksen mielekkyyttä",
-              "en": ""
+              "en": "T6 guide the pupil in developing their skill in evaluating the reasonableness of a solution and the meaningfulness of a result"
             },
             "coreElements": [
               "S1",
@@ -393,7 +393,7 @@
             "code": "T7",
             "text": {
               "local": "T7 ohjata oppilasta käyttämään ja ymmärtämään matemaattisia käsitteitä ja merkintöjä",
-              "en": ""
+              "en": "T7 guide the pupil in using and understanding mathematical concepts and notations"
             },
             "coreElements": [
               "S1",
@@ -408,7 +408,7 @@
             "code": "T8",
             "text": {
               "local": "T8 tukea ja ohjata oppilasta vahvistamaan ja laajentamaan ymmärrystään kymmenjärjestelmästä",
-              "en": ""
+              "en": "T8 support and guide the pupil in strengthening and expanding their understanding of the decimal system"
             },
             "coreElements": [
               "S2"
@@ -419,7 +419,7 @@
             "code": "T9",
             "text": {
               "local": "T9 tukea oppilasta lukukäsitteen kehittymisessä positiivisiin rationaalilukuihin ja negatiivisiin kokonaislukuihin",
-              "en": ""
+              "en": "T9 support the pupil in the development of the number concept to include positive rational numbers and negative integers"
             },
             "coreElements": [
               "S2"
@@ -430,7 +430,7 @@
             "code": "T10",
             "text": {
               "local": "T10 opastaa oppilasta saavuttamaan sujuva laskutaito päässä ja kirjallisesti hyödyntäen laskutoimitusten ominaisuuksia",
-              "en": ""
+              "en": "T10 instruct the pupil in achieving fluent calculation skills mentally and in writing by utilising the properties of operations"
             },
             "coreElements": [
               "S2"
@@ -441,7 +441,7 @@
             "code": "T11",
             "text": {
               "local": "T11 ohjata oppilasta havainnoimaan ja kuvailemaan kappaleiden ja kuvioiden geometrisia ominaisuuksia sekä tutustuttaa oppilas geometrisiin käsitteisiin",
-              "en": ""
+              "en": "T11 guide the pupil in observing and describing the geometric properties of solids and figures and introduce the pupil to geometric concepts"
             },
             "coreElements": [
               "S4"
@@ -452,7 +452,7 @@
             "code": "T12",
             "text": {
               "local": "T12 ohjata oppilasta arvioimaan mittauskohteen suuruutta ja valitsemaan mittaamiseen sopivan välineen ja mittayksikön sekä pohtimaan mittaustuloksen järkevyyttä",
-              "en": ""
+              "en": "T12 guide the pupil in estimating the magnitude of what is being measured and in selecting an appropriate tool and unit of measurement, as well as considering the reasonableness of the measurement result"
             },
             "coreElements": [
               "S4"
@@ -463,7 +463,7 @@
             "code": "T13",
             "text": {
               "local": "T13 ohjata oppilasta laatimaan ja tulkitsemaan taulukoita ja diagrammeja sekä käyttämään tilastollisia tunnuslukuja sekä tarjota kokemuksia todennäköisyydestä",
-              "en": ""
+              "en": "T13 guide the pupil in creating and interpreting tables and diagrams and in using statistical measures, as well as provide experiences of probability"
             },
             "coreElements": [
               "S5"
@@ -474,7 +474,7 @@
             "code": "T14",
             "text": {
               "local": "T14 innostaa oppilasta laatimaan toimintaohjeita tietokoneohjelmina graafisessa ohjelmointiympäristössä",
-              "en": ""
+              "en": "T14 inspire the pupil to create instructions as computer programs in a graphical programming environment"
             },
             "coreElements": [
               "S1"
@@ -494,7 +494,7 @@
             "code": "T1",
             "text": {
               "local": "T1 vahvistaa oppilaan motivaatiota, myönteistä minäkuvaa ja itseluottamusta matematiikan oppijana",
-              "en": ""
+              "en": "T1 strengthen the pupil's motivation, positive self-image, and self-confidence as a learner of mathematics"
             },
             "coreElements": [
               "S2",
@@ -510,7 +510,7 @@
             "code": "T2",
             "text": {
               "local": "T2 kannustaa oppilasta ottamaan vastuuta matematiikan oppimisesta sekä yksin että yhdessä toimien",
-              "en": ""
+              "en": "T2 encourage the pupil to take responsibility for learning mathematics both independently and collaboratively"
             },
             "coreElements": [
               "S2",
@@ -526,7 +526,7 @@
             "code": "T3",
             "text": {
               "local": "T3 ohjata oppilasta havaitsemaan ja ymmärtämään oppimiensa asioiden välisiä yhteyksiä",
-              "en": ""
+              "en": "T3 guide the pupil in perceiving and understanding the connections between the things they have learned"
             },
             "coreElements": [
               "S2",
@@ -542,7 +542,7 @@
             "code": "T4",
             "text": {
               "local": "T4 kannustaa oppilasta harjaantumaan täsmälliseen matemaattiseen ilmaisuun suullisesti ja kirjallisesti",
-              "en": ""
+              "en": "T4 encourage the pupil to develop skill in precise mathematical expression both orally and in writing"
             },
             "coreElements": [
               "S2",
@@ -558,7 +558,7 @@
             "code": "T5",
             "text": {
               "local": "T5 tukea oppilasta loogista ja luovaa ajattelua vaativien matemaattisten tehtävien ratkaisemisessa ja siinä tarvittavien taitojen kehittämisessä",
-              "en": ""
+              "en": "T5 support the pupil in solving mathematical tasks that require logical and creative thinking and in developing the skills needed for this"
             },
             "coreElements": [
               "S2",
@@ -574,7 +574,7 @@
             "code": "T6",
             "text": {
               "local": "T6 ohjata oppilasta arvioimaan ja kehittämään matemaattisia ratkaisujaan sekä tarkastelemaan kriittisesti tuloksen mielekkyyttä",
-              "en": ""
+              "en": "T6 guide the pupil in evaluating and developing their mathematical solutions and in critically examining the meaningfulness of results"
             },
             "coreElements": [
               "S2",
@@ -590,7 +590,7 @@
             "code": "T7",
             "text": {
               "local": "T7 rohkaista oppilasta soveltamaan matematiikkaa muissakin oppiaineissa ja ympäröivässä yhteiskunnassa",
-              "en": ""
+              "en": "T7 encourage the pupil to apply mathematics in other subjects and in the surrounding society"
             },
             "coreElements": [
               "S2",
@@ -606,7 +606,7 @@
             "code": "T8",
             "text": {
               "local": "T8 ohjata oppilasta kehittämään tiedonhallinta- ja analysointitaitojaan sekä opastaa tiedon kriittiseen tarkasteluun",
-              "en": ""
+              "en": "T8 guide the pupil in developing their data management and analysis skills and instruct them in the critical examination of information"
             },
             "coreElements": [
               "S1",
@@ -619,7 +619,7 @@
             "code": "T9",
             "text": {
               "local": "T9 opastaa oppilasta soveltamaan tieto- ja viestintäteknologiaa matematiikan opiskelussa sekä ongelmien ratkaisemisessa",
-              "en": ""
+              "en": "T9 instruct the pupil in applying information and communication technology in the study of mathematics and in problem solving"
             },
             "coreElements": [
               "S2",
@@ -635,7 +635,7 @@
             "code": "T10",
             "text": {
               "local": "T10 ohjata oppilasta vahvistamaan päättely- ja päässälaskutaitoa ja kannustaa oppilasta käyttämään laskutaitoaan eri tilanteissa",
-              "en": ""
+              "en": "T10 guide the pupil in strengthening reasoning and mental arithmetic skills and encourage the pupil to use their calculation skills in different situations"
             },
             "coreElements": [
               "S2",
@@ -647,7 +647,7 @@
             "code": "T11",
             "text": {
               "local": "T11 ohjata oppilasta kehittämään kykyään laskea peruslaskutoimituksia rationaaliluvuilla",
-              "en": ""
+              "en": "T11 guide the pupil in developing their ability to perform basic operations with rational numbers"
             },
             "coreElements": [
               "S2"
@@ -658,7 +658,7 @@
             "code": "T12",
             "text": {
               "local": "T12 tukea oppilasta laajentamaan lukukäsitteen ymmärtämistä reaalilukuihin",
-              "en": ""
+              "en": "T12 support the pupil in extending their understanding of the number concept to real numbers"
             },
             "coreElements": [
               "S2"
@@ -669,7 +669,7 @@
             "code": "T13",
             "text": {
               "local": "T13 tukea oppilasta laajentamaan ymmärrystään prosenttilaskennasta",
-              "en": ""
+              "en": "T13 support the pupil in expanding their understanding of percentage calculations"
             },
             "coreElements": [
               "S2",
@@ -681,7 +681,7 @@
             "code": "T14",
             "text": {
               "local": "T14 ohjata oppilasta ymmärtämään tuntemattoman käsite ja kehittämään yhtälönratkaisutaitojaan",
-              "en": ""
+              "en": "T14 guide the pupil in understanding the concept of unknown and in developing their equation-solving skills"
             },
             "coreElements": [
               "S3",
@@ -693,7 +693,7 @@
             "code": "T15",
             "text": {
               "local": "T15 ohjata oppilasta ymmärtämään muuttujan käsite ja tutustuttaa funktion käsitteeseen. Ohjata oppilasta harjoittelemaan funktion kuvaajan tulkitsemista ja tuottamista",
-              "en": ""
+              "en": "T15 guide the pupil in understanding the concept of variable and introduce the concept of function. Guide the pupil in practising the interpretation and production of function graphs"
             },
             "coreElements": [
               "S3",
@@ -705,7 +705,7 @@
             "code": "T16",
             "text": {
               "local": "T16 tukea oppilasta ymmärtämään geometrian käsitteitä ja niiden välisiä yhteyksiä",
-              "en": ""
+              "en": "T16 support the pupil in understanding geometric concepts and the connections between them"
             },
             "coreElements": [
               "S5"
@@ -716,7 +716,7 @@
             "code": "T17",
             "text": {
               "local": "T17 ohjata oppilasta ymmärtämään ja hyödyntämään suorakulmaiseen kolmioon ja ympyrään liittyviä ominaisuuksia",
-              "en": ""
+              "en": "T17 guide the pupil in understanding and utilising properties related to the right-angled triangle and the circle"
             },
             "coreElements": [
               "S5"
@@ -727,7 +727,7 @@
             "code": "T18",
             "text": {
               "local": "T18 kannustaa oppilasta kehittämään taitoaan laskea pinta-aloja ja tilavuuksia",
-              "en": ""
+              "en": "T18 encourage the pupil to develop their skill in calculating areas and volumes"
             },
             "coreElements": [
               "S5"
@@ -738,7 +738,7 @@
             "code": "T19",
             "text": {
               "local": "T19 ohjata oppilasta määrittämään tilastollisia tunnuslukuja ja laskemaan todennäköisyyksiä",
-              "en": ""
+              "en": "T19 guide the pupil in determining statistical measures and calculating probabilities"
             },
             "coreElements": [
               "S6"
@@ -749,7 +749,7 @@
             "code": "T20",
             "text": {
               "local": "T20 ohjata oppilasta kehittämään algoritmista ajatteluaan sekä taitojaan soveltaa matematiikkaa ja ohjelmointia ongelmien ratkaisemiseen",
-              "en": ""
+              "en": "T20 guide the pupil in developing their algorithmic thinking and skills in applying mathematics and programming to problem solving"
             },
             "coreElements": [
               "S1"

@@ -17,33 +17,33 @@
         "code": "S1",
         "name": {
           "local": "S1 Ruokaosaaminen ja ruokakulttuuri",
-          "en": ""
+          "en": "S1 Food skills and food culture"
         },
         "description": {
           "local": "Sisällöt valitaan siten, että ne tukevat ruoanvalmistus- ja leivontataitojen kehittymistä. Aterioiden suunnittelu, toteutus ja erilaiset ruokailutilanteet tähtäävät ruokaan ja syömiseen liittyvien valintojen ja tottumusten pohtimiseen ravitsemussuositusten, ruokaturvallisuuden, ruokaketjun, elintarviketuntemuksen, taloudellisuuden, eettisyyden ja ruokaan liittyvän luotettavan tiedon näkökulmasta. Opetussisältöihin kuuluvat ruoka- ja tapakulttuuri osana identiteettiä sekä kodin juhlia.",
-          "en": ""
+          "en": "Content is selected to support the development of cooking and baking skills. Meal planning, preparation and various dining situations aim at reflecting on food and eating-related choices and habits from the perspectives of nutritional recommendations, food safety, the food chain, food product knowledge, economy, ethics and reliable food-related information. Teaching content includes food and social customs as part of identity and family celebrations."
         }
       },
       {
         "code": "S2",
         "name": {
           "local": "S2 Asuminen ja yhdessä eläminen",
-          "en": ""
+          "en": "S2 Housing and living together"
         },
         "description": {
           "local": "Sisällöt valitaan siten, että ne tukevat yhdessä elämisen, asumistaitojen ja asumisen ympäristö- ja kustannustietoisuuden kehittymistä. Puhtaanapito samoin kuin tekstiilien ja materiaalien hoito tarkoituksenmukaisine aineineen, laitteineen, välineineen ja työtapoineen tähtäävät arjessa tarvittavien taitojen kehittymiseen. Sisältöjen avulla perehdytään hyviin tapoihin, tasapuoliseen voimavarojen käyttöön ja vastuunottoon perheessä. Sisällöt johdattavat arvioimaan asumiseen ja kotitalouteen liittyviä palveluita.",
-          "en": ""
+          "en": "Content is selected to support the development of skills for living together, housing skills and environmental and cost awareness in housing. Cleaning as well as the care of textiles and materials with appropriate substances, appliances, tools and working methods aim at developing skills needed in everyday life. Through the content, students learn about good manners, the equitable use of resources and taking responsibility in the family. The content guides students to evaluate services related to housing and household management."
         }
       },
       {
         "code": "S3",
         "name": {
           "local": "S3 Kuluttaja- ja talousosaaminen kodissa",
-          "en": ""
+          "en": "S3 Consumer and financial skills in the home"
         },
         "description": {
           "local": "Sisällöt valitaan siten, että ne ohjaavat oppilaita asioimaan sekä tuntemaan vastuitaan ja oikeuksiaan valintoja ja sopimuksia tekevinä kuluttajina. Sisällöt johdattavat median- ja teknologian käyttöön arjen työvälineenä ja kannustavat pohtimaan vertaisryhmän ja median vaikutusta omiin kulutusvalintoihin. Sisällöt harjaannuttavat vastuulliseen päätöksentekoon ja ajankohtaisen tiedon hankintaan sekä evästävät tunnistamaan kotitalouksien rahankäyttöön liittyviä tilanteita ja ongelmia.",
-          "en": ""
+          "en": "Content is selected to guide students in conducting transactions and knowing their responsibilities and rights as consumers who make choices and enter into agreements. The content leads students to use media and technology as everyday tools and encourages them to reflect on the influence of peer groups and media on their own consumer choices. The content develops responsible decision-making and the acquisition of current information, and prepares students to recognise situations and problems related to household finances."
         }
       }
     ],
@@ -59,11 +59,11 @@
             "code": "T1",
             "text": {
               "local": "T1 ohjata oppilasta suunnittelemaan, organisoimaan ja arvioimaan työtä ja toimintaa",
-              "en": ""
+              "en": "T1 guide the pupil to plan, organise and evaluate work and activities"
             },
             "coreElements": [
-              "S1",
-              "S2"
+              "S1 Ruokaosaaminen ja ruokakulttuuri",
+              "S2 Asuminen ja yhdessä eläminen"
             ],
             "verbs": []
           },
@@ -71,11 +71,11 @@
             "code": "T2",
             "text": {
               "local": "T2 ohjata oppilasta harjoittelemaan kotitalouden hallinnassa tarvittavia kädentaitoja sekä kannustaa luovuuteen ja estetiikan huomioimiseen",
-              "en": ""
+              "en": "T2 guide the pupil to practise the manual skills needed in household management and encourage creativity and attention to aesthetics"
             },
             "coreElements": [
-              "S1",
-              "S2"
+              "S1 Ruokaosaaminen ja ruokakulttuuri",
+              "S2 Asuminen ja yhdessä eläminen"
             ],
             "verbs": []
           },
@@ -83,12 +83,12 @@
             "code": "T3",
             "text": {
               "local": "T3 ohjata ja rohkaista oppilasta valitsemaan ja käyttämään hyvinvointia edistävästi ja kestävän kulutuksen mukaisesti materiaaleja, työvälineitä, laitteita sekä tieto- ja viestintäteknologiaa",
-              "en": ""
+              "en": "T3 guide and encourage the pupil to select and use materials, tools, appliances and information and communication technology in ways that promote well-being and sustainable consumption"
             },
             "coreElements": [
-              "S1",
-              "S2",
-              "S3"
+              "S1 Ruokaosaaminen ja ruokakulttuuri",
+              "S2 Asuminen ja yhdessä eläminen",
+              "S3 Kuluttaja- ja talousosaaminen kodissa"
             ],
             "verbs": []
           },
@@ -96,11 +96,11 @@
             "code": "T4",
             "text": {
               "local": "T4 ohjata oppilasta suunnittelemaan ajankäyttöään ja työn etenemistä sekä ylläpitämään järjestystä oppimistehtävien aikana",
-              "en": ""
+              "en": "T4 guide the pupil to plan their use of time and the progress of work and to maintain orderliness during learning tasks"
             },
             "coreElements": [
-              "S1",
-              "S2"
+              "S1 Ruokaosaaminen ja ruokakulttuuri",
+              "S2 Asuminen ja yhdessä eläminen"
             ],
             "verbs": []
           },
@@ -108,12 +108,12 @@
             "code": "T5",
             "text": {
               "local": "T5 ohjata ja motivoida oppilasta toimimaan hygieenisesti, turvallisesti ja ergonomisesti sekä ohjata kiinnittämään oppilaan huomiota käytettävissä oleviin voimavaroihin",
-              "en": ""
+              "en": "T5 guide and motivate the pupil to work hygienically, safely and ergonomically, and to direct the pupil's attention to the resources available"
             },
             "coreElements": [
-              "S1",
-              "S2",
-              "S3"
+              "S1 Ruokaosaaminen ja ruokakulttuuri",
+              "S2 Asuminen ja yhdessä eläminen",
+              "S3 Kuluttaja- ja talousosaaminen kodissa"
             ],
             "verbs": []
           },
@@ -121,12 +121,12 @@
             "code": "T6",
             "text": {
               "local": "T6 ohjata oppilasta harjoittelemaan kuuntelua ja rakentavaa keskustelua ja argumentointia oppimistehtävien suunnittelussa ja toteuttamisessa",
-              "en": ""
+              "en": "T6 guide the pupil to practise listening, constructive discussion and argumentation in planning and carrying out learning tasks"
             },
             "coreElements": [
-              "S1",
-              "S2",
-              "S3"
+              "S1 Ruokaosaaminen ja ruokakulttuuri",
+              "S2 Asuminen ja yhdessä eläminen",
+              "S3 Kuluttaja- ja talousosaaminen kodissa"
             ],
             "verbs": []
           },
@@ -134,12 +134,12 @@
             "code": "T7",
             "text": {
               "local": "T7 aktivoida oppilasta tunnistamaan arjen rakentumista ja kulttuurisesti monimuotoisia toimintaympäristöjä sekä kotitalouksien perinteitä",
-              "en": ""
+              "en": "T7 activate the pupil to recognise the structure of everyday life, culturally diverse operating environments and household traditions"
             },
             "coreElements": [
-              "S1",
-              "S2",
-              "S3"
+              "S1 Ruokaosaaminen ja ruokakulttuuri",
+              "S2 Asuminen ja yhdessä eläminen",
+              "S3 Kuluttaja- ja talousosaaminen kodissa"
             ],
             "verbs": []
           },
@@ -147,11 +147,11 @@
             "code": "T8",
             "text": {
               "local": "T8 ohjata oppilasta työskentelemään yksin ja ryhmässä sekä sopimaan työtehtävien jakamisesta ja ajankäytöstä",
-              "en": ""
+              "en": "T8 guide the pupil to work independently and in a group and to agree on the division of tasks and use of time"
             },
             "coreElements": [
-              "S1",
-              "S2"
+              "S1 Ruokaosaaminen ja ruokakulttuuri",
+              "S2 Asuminen ja yhdessä eläminen"
             ],
             "verbs": []
           },
@@ -159,12 +159,12 @@
             "code": "T9",
             "text": {
               "local": "T9 kannustaa oppilasta toimimaan hyvien tapojen mukaisesti vuorovaikutustilanteissa sekä pohtimaan oman käytöksen merkitystä ryhmän ja yhteisön toiminnassa",
-              "en": ""
+              "en": "T9 encourage the pupil to act according to good manners in social interaction situations and to reflect on the significance of one's own behaviour in the functioning of a group and community"
             },
             "coreElements": [
-              "S1",
-              "S2",
-              "S3"
+              "S1 Ruokaosaaminen ja ruokakulttuuri",
+              "S2 Asuminen ja yhdessä eläminen",
+              "S3 Kuluttaja- ja talousosaaminen kodissa"
             ],
             "verbs": []
           },
@@ -172,12 +172,12 @@
             "code": "T10",
             "text": {
               "local": "T10 kannustaa oppilasta hankkimaan ja arvioimaan kotitalouteen liittyvää tietoa sekä ohjata käyttämään luotettavaa tietoa valintojen perustana",
-              "en": ""
+              "en": "T10 encourage the pupil to acquire and evaluate information related to home economics and guide them to use reliable information as the basis for choices"
             },
             "coreElements": [
-              "S1",
-              "S2",
-              "S3"
+              "S1 Ruokaosaaminen ja ruokakulttuuri",
+              "S2 Asuminen ja yhdessä eläminen",
+              "S3 Kuluttaja- ja talousosaaminen kodissa"
             ],
             "verbs": []
           },
@@ -185,11 +185,11 @@
             "code": "T11",
             "text": {
               "local": "T11 harjaannuttaa oppilasta lukemaan, tulkitsemaan ja arvioimaan toimintaohjeita sekä merkkejä ja symboleja, jotka käsittelevät kotitaloutta ja lähiympäristöä",
-              "en": ""
+              "en": "T11 train the pupil to read, interpret and evaluate instructions as well as signs and symbols related to home economics and the local environment"
             },
             "coreElements": [
-              "S1",
-              "S2"
+              "S1 Ruokaosaaminen ja ruokakulttuuri",
+              "S2 Asuminen ja yhdessä eläminen"
             ],
             "verbs": []
           },
@@ -197,12 +197,12 @@
             "code": "T12",
             "text": {
               "local": "T12 ohjata oppilasta, ongelmanratkaisuun ja luovuuteen erilaisissa tilanteissa ja ympäristöissä",
-              "en": ""
+              "en": "T12 guide the pupil towards problem-solving and creativity in various situations and environments"
             },
             "coreElements": [
-              "S1",
-              "S2",
-              "S3"
+              "S1 Ruokaosaaminen ja ruokakulttuuri",
+              "S2 Asuminen ja yhdessä eläminen",
+              "S3 Kuluttaja- ja talousosaaminen kodissa"
             ],
             "verbs": []
           },
@@ -210,12 +210,12 @@
             "code": "T13",
             "text": {
               "local": "T13 ohjata oppilasta kestävään elämäntapaan kiinnittämällä oppilaan huomiota ympäristö- ja kustannustietoisuuteen osana arjen valintoja",
-              "en": ""
+              "en": "T13 guide the pupil towards a sustainable way of life by directing the pupil's attention to environmental and cost awareness as part of everyday choices"
             },
             "coreElements": [
-              "S1",
-              "S2",
-              "S3"
+              "S1 Ruokaosaaminen ja ruokakulttuuri",
+              "S2 Asuminen ja yhdessä eläminen",
+              "S3 Kuluttaja- ja talousosaaminen kodissa"
             ],
             "verbs": []
           }

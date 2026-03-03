@@ -17,33 +17,33 @@
         "code": "S1",
         "name": {
           "local": "S1 Terveyttä tukeva kasvu ja kehitys",
-          "en": ""
+          "en": "S1 Growth and Development that Support Health"
         },
         "description": {
           "local": "Sisällöissä painotetaan terveyden eri osa-alueiden kokonaisvaltaista hahmottamista terveyden edistämisen ja sairauksien ehkäisyn näkökulmasta. Opetuksessa käsitellään elämänkulun sekä kasvun ja kehityksen yleisiä tunnuspiirteitä, monimuotoisuutta ja henkilökohtaisuutta. Kasvun ja kehityksen sisällöissä painottuvat identiteetin, minäkuvan ja itsetuntemuksen rakentuminen, seksuaalinen kehittyminen, huolenpidon sekä perheen ja läheisten merkitys, mielen hyvinvointi ja itsensä arvostaminen sekä turvataidot. Tunne- ja vuorovaikutustaitojen sisällöissä kiinnitetään huomiota vuorovaikutustilanteissa toimimiseen, tunteiden ilmaisuun ja niiden säätelyyn. Lisäksi perehdytään ristiriitojen, ongelmatilanteiden, stressin ja kriisien rakentavaan käsittelyyn.",
-          "en": ""
+          "en": "The content emphasises a holistic understanding of the different dimensions of health from the perspective of health promotion and disease prevention. Teaching addresses the general characteristics, diversity, and personal nature of the life course, growth, and development. The content on growth and development focuses on the construction of identity, self-image, and self-knowledge, sexual development, the significance of care and of family and close relationships, mental well-being and self-esteem, and safety skills. The content on emotional and social interaction skills focuses on functioning in social situations, expressing emotions, and regulating them. In addition, the constructive handling of conflicts, problem situations, stress, and crises is explored."
         }
       },
       {
         "code": "S2",
         "name": {
           "local": "S2 Terveyttä tukevat ja kuluttavat tekijät sekä sairauksien ehkäisy",
-          "en": ""
+          "en": "S2 Factors that Support and Undermine Health, and Disease Prevention"
         },
         "description": {
           "local": "Sisältöjä valitaan syventäen tietoa ja ymmärrystä terveyttä tukevista voimavaroista ja sairauksia ehkäisevistä tekijöistä. Terveyteen liittyvistä tottumuksista käsitellään arkirytmi, uni, ravitsemus ja liikunta. Sisällöissä perehdytään seksuaalisuuteen, seksuaaliterveyden eri osa-alueisiin ja seksuaalisen kehityksen monimuotoisuuteen. Terveyden voimavaroista tarkastellaan mielenterveyttä, hyvinvointia tukevia ympäristöjä ja yhteisöjä sekä mielekästä vapaa-ajan toimintaa. Lisäksi käsitellään turvallisuustaitoja ja -valmiuksia, ensiaputaitoja, itsehoitoa sekä tuen ja avun hakemista. Sisältöjä valittaessa otetaan huomioon myös ajankohtaisia terveysilmiöitä sekä tarkastellaan terveyteen liittyvän tiedon luotettavuutta.\n\nTerveyden vaaratekijöistä nostetaan esiin liikkumattomuus ja passiivinen elämäntapa, ravitsemuksen ja nukkumisen ongelmat, kiusaaminen ja stressi. Sisällöissä otetaan huomioon nuoren mielen pahoinvointi, riippuvuudet sekä päihteet ja niiden käytön ehkäisy. Sairauksien ehkäisyyn liittyvistä sisällöistä valitaan keskeiset ja ajankohtaiset tartuntataudit sekä kansantaudit ja tapaturmat.",
-          "en": ""
+          "en": "Content is selected to deepen knowledge and understanding of health-supporting resources and disease-preventing factors. Health-related habits addressed include daily routines, sleep, nutrition, and physical activity. The content covers sexuality, the different dimensions of sexual health, and the diversity of sexual development. Health resources examined include mental health, environments and communities that support well-being, and meaningful leisure activities. In addition, safety skills and preparedness, first aid skills, self-care, and seeking support and help are addressed. When selecting content, current health phenomena are also taken into account, and the reliability of health-related information is examined.\n\nAmong risk factors for health, physical inactivity and a sedentary lifestyle, problems with nutrition and sleep, bullying, and stress are highlighted. The content takes into account young people's mental distress, addictions, substance use, and the prevention of substance abuse. From the content related to disease prevention, key and current infectious diseases, common lifestyle diseases, and accidents are selected."
         }
       },
       {
         "code": "S3",
         "name": {
           "local": "S3 Terveys, yhteisöt, yhteiskunta ja kulttuuri",
-          "en": ""
+          "en": "S3 Health, Communities, Society, and Culture"
         },
         "description": {
           "local": "Sisällöissä otetaan esille opiskelu-, työ- ja toimintakyky nuoruudessa. Kestävää elämäntapaa tarkastellessa otetaan huomioon sosiaalinen kestävyys ja vastuullinen kuluttaminen. Elinympäristön terveysvaikutuksia käsiteltäessä nostetaan esille keskeisiä terveyden edistämisen ja sairauksien ehkäisyn keinoja, terveyspalvelut, kansalaistoiminta ja ympäristön terveysriskit.\n\nTietolähteitä, erilaisia terveysmarkkinoinnin ja vaikuttamisen keinoja tarkastellaan erityisesti tiedon luotettavuuden ja terveysvaikutusten näkökulmasta. Terveyden edistämisen sisällöissä otetaan huomioon kulttuurin terveyttä edistävä merkitys ja kulttuurinen herkkyys, kestävä elämäntapa, kansalaisten yhdenvertaisuus ja osallisuus sekä ihmisoikeuksien kunnioittaminen. Sisältöjä käsiteltäessä otetaan huomioon eri näkökulmia kuten lapsuus ja lasten oikeudet, vanhuus, vammaisuus tai pitkäaikaissairaus.",
-          "en": ""
+          "en": "The content addresses study, work, and functional capacity in adolescence. When examining a sustainable way of life, social sustainability and responsible consumption are taken into account. When addressing the health effects of the living environment, key means of health promotion and disease prevention, health services, civic action, and environmental health risks are highlighted.\n\nInformation sources and various means of health marketing and influence are examined particularly from the perspectives of information reliability and health effects. The content on health promotion takes into account the health-promoting significance of culture and cultural sensitivity, sustainable lifestyle, equality and participation of citizens, and respect for human rights. When addressing the content, different perspectives are considered, such as childhood and children's rights, old age, disability, or chronic illness."
         }
       }
     ],
@@ -59,12 +59,12 @@
             "code": "T1",
             "text": {
               "local": "T1 ohjata oppilasta ymmärtämään terveyden laaja-alaisuutta, terveyden edistämistä sekä elämänkulkua, kasvua ja kehitystä voimavaralähtöisesti",
-              "en": ""
+              "en": "T1 guide the pupil to understand the multidimensional nature of health, health promotion, and the life course, growth, and development from a resource-based perspective"
             },
             "coreElements": [
-              "S3",
-              "S2",
-              "S1"
+              "S3 Terveys, yhteisöt, yhteiskunta ja kulttuuri",
+              "S2 Terveyttä tukevat ja kuluttavat tekijät sekä sairauksien ehkäisy",
+              "S1 Terveyttä tukeva kasvu ja kehitys"
             ],
             "verbs": []
           },
@@ -72,10 +72,10 @@
             "code": "T2",
             "text": {
               "local": "T2 ohjata oppilasta kehittämään valmiuksiaan tunne- ja vuorovaikutustaidoissa ja kykyä toimia erilaisissa ristiriita- ja kriisitilanteissa",
-              "en": ""
+              "en": "T2 guide the pupil to develop their competencies in emotional and social interaction skills and the ability to act in various conflict and crisis situations"
             },
             "coreElements": [
-              "S1"
+              "S1 Terveyttä tukeva kasvu ja kehitys"
             ],
             "verbs": []
           },
@@ -83,10 +83,10 @@
             "code": "T3",
             "text": {
               "local": "T3 ohjata oppilasta kehittämään itsetuntemustaan, omien arvojen ja asenteiden sekä kehon ja mielen viestien tunnistamista ja säätelemään käyttäytymistään, oppimistaan ja opiskeluaan tukevia tekijöitä",
-              "en": ""
+              "en": "T3 guide the pupil to develop their self-knowledge, the ability to recognise their own values and attitudes as well as bodily and mental signals, and to regulate factors that support their behaviour, learning, and studying"
             },
             "coreElements": [
-              "S1"
+              "S1 Terveyttä tukeva kasvu ja kehitys"
             ],
             "verbs": []
           },
@@ -94,11 +94,11 @@
             "code": "T4",
             "text": {
               "local": "T4 ohjata oppilasta pohtimaan yksilöllisyyteen, yhteisöllisyyteen ja yhdenvertaisuuteen liittyviä kysymyksiä terveyden näkökulmasta sekä tukea oppilaan valmiuksia luoda vastuullisia ratkaisuja ihmisten välisissä vuorovaikutustilanteissa",
-              "en": ""
+              "en": "T4 guide the pupil to reflect on questions related to individuality, community, and equality from a health perspective, and to support the pupil's ability to create responsible solutions in interpersonal interaction situations"
             },
             "coreElements": [
-              "S3",
-              "S1"
+              "S3 Terveys, yhteisöt, yhteiskunta ja kulttuuri",
+              "S1 Terveyttä tukeva kasvu ja kehitys"
             ],
             "verbs": []
           },
@@ -106,12 +106,12 @@
             "code": "T5",
             "text": {
               "local": "T5 ohjata oppilasta syventämään ymmärrystään fyysisestä, psyykkisestä ja sosiaalisesta terveydestä ja niitä vahvistavista ja vaarantavista tekijöistä ja mekanismeista sekä tukea oppilaan valmiuksia käyttää näihin liittyviä käsitteitä asianmukaisesti",
-              "en": ""
+              "en": "T5 guide the pupil to deepen their understanding of physical, psychological, and social health and the factors and mechanisms that strengthen and jeopardise them, and to support the pupil's ability to use related concepts appropriately"
             },
             "coreElements": [
-              "S3",
-              "S2",
-              "S1"
+              "S3 Terveys, yhteisöt, yhteiskunta ja kulttuuri",
+              "S2 Terveyttä tukevat ja kuluttavat tekijät sekä sairauksien ehkäisy",
+              "S1 Terveyttä tukeva kasvu ja kehitys"
             ],
             "verbs": []
           },
@@ -119,11 +119,11 @@
             "code": "",
             "text": {
               "local": "T 6 tukea oppilaan kehittymistä terveyteen ja sairauteen liittyvän tiedon hankkijana ja käyttäjänä sekä edistää valmiuksia toimia tarkoituksenmukaisesti terveyteen, turvallisuuteen ja sairauksiin liittyvissä tilanteissa",
-              "en": ""
+              "en": "T6 support the pupil's development as an acquirer and user of health- and illness-related information, and promote the ability to act appropriately in situations related to health, safety, and illness"
             },
             "coreElements": [
-              "S3",
-              "S2"
+              "S3 Terveys, yhteisöt, yhteiskunta ja kulttuuri",
+              "S2 Terveyttä tukevat ja kuluttavat tekijät sekä sairauksien ehkäisy"
             ],
             "verbs": []
           },
@@ -131,11 +131,11 @@
             "code": "T7",
             "text": {
               "local": "T7 ohjata oppilasta tunnistamaan ja arvioimaan omia terveyteen ja turvallisuuteen liittyviä tottumuksiaan, valintojaan ja niiden perusteluja sekä rohkaista oppilasta pohtimaan oman terveyden kannalta merkityksellisiä voimavaroja",
-              "en": ""
+              "en": "T7 guide the pupil to recognise and evaluate their own health- and safety-related habits, choices, and the reasoning behind them, and to encourage the pupil to reflect on resources that are significant for their own health"
             },
             "coreElements": [
-              "S2",
-              "S1"
+              "S2 Terveyttä tukevat ja kuluttavat tekijät sekä sairauksien ehkäisy",
+              "S1 Terveyttä tukeva kasvu ja kehitys"
             ],
             "verbs": []
           },
@@ -143,12 +143,12 @@
             "code": "",
             "text": {
               "local": "T 8 ohjata oppilasta tunnistamaan ja tarkastelemaan kriittisesti terveyteen ja sairauteen liittyviä ilmiöitä, niihin liittyviä arvoja ja normeja sekä arvioimaan tiedon luotettavuutta ja merkitystä",
-              "en": ""
+              "en": "T8 guide the pupil to identify and critically examine phenomena related to health and illness, the values and norms associated with them, and to evaluate the reliability and significance of information"
             },
             "coreElements": [
-              "S3",
-              "S2",
-              "S1"
+              "S3 Terveys, yhteisöt, yhteiskunta ja kulttuuri",
+              "S2 Terveyttä tukevat ja kuluttavat tekijät sekä sairauksien ehkäisy",
+              "S1 Terveyttä tukeva kasvu ja kehitys"
             ],
             "verbs": []
           },
@@ -156,10 +156,10 @@
             "code": "",
             "text": {
               "local": "T 9 ohjata oppilasta ymmärtämään ympäristön, yhteisöjen, kulttuurin, ja tieto- ja viestintäteknologian merkitystä terveydelle ja hyvinvoinnille",
-              "en": ""
+              "en": "T9 guide the pupil to understand the significance of the environment, communities, culture, and information and communication technology for health and well-being"
             },
             "coreElements": [
-              "S3"
+              "S3 Terveys, yhteisöt, yhteiskunta ja kulttuuri"
             ],
             "verbs": []
           },
@@ -167,11 +167,11 @@
             "code": "",
             "text": {
               "local": "T 10 ohjata oppilasta luomaan perustaa opiskelu-, toiminta- ja työkyvylle ja sen ylläpitämiselle sekä kuvaamaan terveyspalvelujen asianmukaista käyttöä",
-              "en": ""
+              "en": "T10 guide the pupil to build a foundation for and maintain study, functional, and work capacity, and to describe the appropriate use of health services"
             },
             "coreElements": [
-              "S2",
-              "S1"
+              "S2 Terveyttä tukevat ja kuluttavat tekijät sekä sairauksien ehkäisy",
+              "S1 Terveyttä tukeva kasvu ja kehitys"
             ],
             "verbs": []
           },
@@ -179,12 +179,12 @@
             "code": "",
             "text": {
               "local": "T 11 ohjata oppilasta ymmärtämään ja arvioimaan perheen ja omaan elämänpiiriin kuuluvien ihmisten ja yhteisöjen edustamia terveyskäsityksiä, tunnistamaan niiden merkitystä itselle sekä muodostamaan kuvaa itselle sopivista oppimisen keinoista.",
-              "en": ""
+              "en": "T11 guide the pupil to understand and evaluate the health conceptions held by the family and people and communities in their own sphere of life, to recognise their significance for oneself, and to form a picture of suitable learning strategies for themselves"
             },
             "coreElements": [
-              "S3",
-              "S2",
-              "S1"
+              "S3 Terveys, yhteisöt, yhteiskunta ja kulttuuri",
+              "S2 Terveyttä tukevat ja kuluttavat tekijät sekä sairauksien ehkäisy",
+              "S1 Terveyttä tukeva kasvu ja kehitys"
             ],
             "verbs": []
           },
@@ -192,10 +192,10 @@
             "code": "",
             "text": {
               "local": "T 12 tukea oppilaan valmiuksia arvioida kriittisesti terveyteen ja sairauteen liittyvää viestintää sekä eritellä yksilön oikeuksia, vastuita ja vaikuttamiskeinoja terveyttä ja turvallisuutta koskevissa asioissa omassa oppimisympäristössä ja lähiyhteisöissä.",
-              "en": ""
+              "en": "T12 support the pupil's ability to critically evaluate health- and illness-related communication and to analyse the individual's rights, responsibilities, and means of influence in matters concerning health and safety in their own learning environment and local communities"
             },
             "coreElements": [
-              "S3"
+              "S3 Terveys, yhteisöt, yhteiskunta ja kulttuuri"
             ],
             "verbs": []
           }

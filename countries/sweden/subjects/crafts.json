@@ -17,33 +17,33 @@
         "code": "",
         "name": {
           "local": "förmåga att formge och framställa föremål i olika material med hjälp av lämpliga verktyg och hantverkstekniker,",
-          "en": ""
+          "en": "the ability to design and produce objects in different materials using appropriate tools and craft techniques,"
         },
         "description": {
           "local": "förmåga att formge och framställa föremål i olika material med hjälp av lämpliga verktyg och hantverkstekniker,",
-          "en": ""
+          "en": "the ability to design and produce objects in different materials using appropriate tools and craft techniques,"
         }
       },
       {
         "code": "",
         "name": {
           "local": "förmåga att utveckla idéer samt välja och motivera tillvägagångssätt i slöjdarbetet utifrån syftet med arbetet, och",
-          "en": ""
+          "en": "the ability to develop ideas and choose and justify approaches in craft work based on the purpose of the work, and"
         },
         "description": {
           "local": "förmåga att utveckla idéer samt välja och motivera tillvägagångssätt i slöjdarbetet utifrån syftet med arbetet, och",
-          "en": ""
+          "en": "the ability to develop ideas and choose and justify approaches in craft work based on the purpose of the work, and"
         }
       },
       {
         "code": "",
         "name": {
           "local": "förmåga att reflektera över arbetsprocesser och resultat utifrån kvalitet, uttryck och hållbar utveckling.",
-          "en": ""
+          "en": "the ability to reflect on work processes and results in terms of quality, expression and sustainable development."
         },
         "description": {
           "local": "förmåga att reflektera över arbetsprocesser och resultat utifrån kvalitet, uttryck och hållbar utveckling.",
-          "en": ""
+          "en": "the ability to reflect on work processes and results in terms of quality, expression and sustainable development."
         }
       }
     ],
@@ -59,7 +59,7 @@
             "code": "SL-1-3-1",
             "text": {
               "local": "Metall, textil och trä. Materialens egenskaper och användningsområden.",
-              "en": ""
+              "en": "Metal, textile and wood. The properties and uses of the materials."
             },
             "coreElements": [
               "Slöjdens material, verktyg och hantverkstekniker"
@@ -70,7 +70,7 @@
             "code": "SL-1-3-2",
             "text": {
               "local": "Verktyg och redskap, hur de benämns och hur de används på ett säkert och ända­målsenligt sätt.",
-              "en": ""
+              "en": "Tools and implements, what they are called and how they are used in a safe and purposeful manner."
             },
             "coreElements": [
               "Slöjdens material, verktyg och hantverkstekniker"
@@ -81,7 +81,7 @@
             "code": "SL-1-3-3",
             "text": {
               "local": "Några enkla former av hantverkstekniker och begrepp som används i sam­band med dessa.",
-              "en": ""
+              "en": "Some simple forms of craft techniques and the terminology used in connection with them."
             },
             "coreElements": [
               "Slöjdens material, verktyg och hantverkstekniker"
@@ -92,7 +92,7 @@
             "code": "SL-1-3-4",
             "text": {
               "local": "Enkla skisser och arbetsbeskrivningar, hur de kan förstås och följas.",
-              "en": ""
+              "en": "Simple sketches and work descriptions, how they can be understood and followed."
             },
             "coreElements": [
               "Slöjdens material, verktyg och hantverkstekniker"
@@ -105,7 +105,7 @@
             "code": "SL-1-3-5",
             "text": {
               "local": "Slöjdarbetets olika delar: idéutveckling, överväganden, framställning och ref­lektion över arbetsprocessen.",
-              "en": ""
+              "en": "The different parts of craft work: idea development, considerations, production and reflection on the work process."
             },
             "coreElements": [
               "Slöjdens arbetsprocesser"
@@ -116,7 +116,7 @@
             "code": "SL-1-3-6",
             "text": {
               "local": "Undersökande av olika materials egenskaper.",
-              "en": ""
+              "en": "Exploration of the properties of different materials."
             },
             "coreElements": [
               "Slöjdens arbetsprocesser"
@@ -130,7 +130,7 @@
             "code": "SL-1-3-7",
             "text": {
               "local": "Bilder, föremål och andra inspirationskällor för det egna skapandet.",
-              "en": ""
+              "en": "Images, objects and other sources of inspiration for one's own creative work."
             },
             "coreElements": [
               "Slöjdens uttryck och betydelse för hållbar utveckling"
@@ -143,7 +143,7 @@
             "code": "SL-1-3-8",
             "text": {
               "local": "Några slöjdmaterials ursprung och miljöpåverkan, till exempel ståltråd, ull och furu.",
-              "en": ""
+              "en": "The origins and environmental impact of some craft materials, for example steel wire, wool and pine."
             },
             "coreElements": [
               "Slöjdens uttryck och betydelse för hållbar utveckling"
@@ -154,7 +154,7 @@
             "code": "SL-1-3-9",
             "text": {
               "local": "Resurshushållning vid användning av material i slöjdarbetet.",
-              "en": ""
+              "en": "Resource conservation when using materials in craft work."
             },
             "coreElements": [
               "Slöjdens uttryck och betydelse för hållbar utveckling"
@@ -174,7 +174,7 @@
             "code": "SL-4-6-1",
             "text": {
               "local": "Metall, textil, trä och andra material. Materialens egenskaper, an­vänd­nings­områden och kombinationsmöjligheter med varandra.",
-              "en": ""
+              "en": "Metal, textile, wood and other materials. The properties, uses and possibilities for combining the materials with each other."
             },
             "coreElements": [
               "Slöjdens material, verktyg och hantverkstekniker"
@@ -185,7 +185,7 @@
             "code": "SL-4-6-2",
             "text": {
               "local": "Verktyg, redskap och maskiner, hur de benämns och hur de används på ett säkert och ändamålsenligt sätt.",
-              "en": ""
+              "en": "Tools, implements and machines, what they are called and how they are used in a safe and purposeful manner."
             },
             "coreElements": [
               "Slöjdens material, verktyg och hantverkstekniker"
@@ -196,7 +196,7 @@
             "code": "SL-4-6-3",
             "text": {
               "local": "Enkla former av hantverkstekniker och begrepp som används i samband med dessa.",
-              "en": ""
+              "en": "Simple forms of craft techniques and the terminology used in connection with them."
             },
             "coreElements": [
               "Slöjdens material, verktyg och hantverkstekniker"
@@ -207,7 +207,7 @@
             "code": "SL-4-6-4",
             "text": {
               "local": "Skisser, mönster och arbetsbeskrivningar, hur de kan förstås och följas.",
-              "en": ""
+              "en": "Sketches, patterns and work descriptions, how they can be understood and followed."
             },
             "coreElements": [
               "Slöjdens material, verktyg och hantverkstekniker"
@@ -220,7 +220,7 @@
             "code": "SL-4-6-5",
             "text": {
               "local": "Slöjdarbetets olika delar: idéutveckling, överväganden, framställning och ref­lektion över arbetsprocessen. Hur delarna i arbetsprocessen samverkar till en helhet.",
-              "en": ""
+              "en": "The different parts of craft work: idea development, considerations, production and reflection on the work process. How the parts of the work process interact to form a whole."
             },
             "coreElements": [
               "Slöjdens arbetsprocesser"
@@ -231,7 +231,7 @@
             "code": "SL-4-6-6",
             "text": {
               "local": "Undersökande av olika materials egenskaper och användbarhet i det egna slöjd­arbetet.",
-              "en": ""
+              "en": "Exploration of the properties and usability of different materials in one's own craft work."
             },
             "coreElements": [
               "Slöjdens arbetsprocesser"
@@ -245,7 +245,7 @@
             "code": "SL-4-6-7",
             "text": {
               "local": "Hantverk och slöjdtraditioner från olika kulturer som inspirationskällor för det egna skapandet.",
-              "en": ""
+              "en": "Handicrafts and craft traditions from different cultures as sources of inspiration for one's own creative work."
             },
             "coreElements": [
               "Slöjdens uttryck och betydelse för hållbar utveckling"
@@ -258,7 +258,7 @@
             "code": "SL-4-6-8",
             "text": {
               "local": "Hur färg, form och material bidrar till olika uttryck hos slöjdföremål.",
-              "en": ""
+              "en": "How colour, form and material contribute to different expressions in craft objects."
             },
             "coreElements": [
               "Slöjdens uttryck och betydelse för hållbar utveckling"
@@ -269,7 +269,7 @@
             "code": "SL-4-6-9",
             "text": {
               "local": "Slöjdmaterials ursprung, framställning och miljöpåverkan, till exempel tenn, bomullstyg, teak och läder.",
-              "en": ""
+              "en": "The origins, production and environmental impact of craft materials, for example pewter, cotton fabric, teak and leather."
             },
             "coreElements": [
               "Slöjdens uttryck och betydelse för hållbar utveckling"
@@ -280,7 +280,7 @@
             "code": "SL-4-6-10",
             "text": {
               "local": "Resurshushållning genom återbruk av material.",
-              "en": ""
+              "en": "Resource conservation through reuse of materials."
             },
             "coreElements": [
               "Slöjdens uttryck och betydelse för hållbar utveckling"
@@ -293,35 +293,35 @@
             "gradeStep": "E",
             "text": {
               "local": "Betygskriterier för betyget E i slutet av årskurs 6Eleven formger och framställer på ett delvis genomarbetat sätt enkla slöjdföremål i olika material och med enkla hantverkstekniker. I slöjdarbetet använder eleven verktyg på ett säkert och i huvudsak fungerande sätt. Utifrån syftet med slöjdarbetet och någon idé väljer eleven ett i huvudsak fungerande tillvägagångssätt. Under arbetsprocessen bidrar eleven till att formulera och välja handlingsalternativ. Eleven beskriver på ett enkelt sätt arbetsprocessen och hur den har påverkat slöjdföremålets kvalitet.",
-              "en": ""
+              "en": "Grading criteria for grade E at the end of year 6. The pupil designs and produces simple craft objects in different materials and with simple craft techniques in a partially thorough manner. In the craft work, the pupil uses tools in a safe and mainly functional way. Based on the purpose of the craft work and an idea, the pupil chooses a mainly functional approach. During the work process, the pupil contributes to formulating and choosing courses of action. The pupil describes in a simple way the work process and how it has affected the quality of the craft object."
             }
           },
           {
             "gradeStep": "D",
             "text": {
               "local": "Betygskriterier för betyget D i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan C och E.",
-              "en": ""
+              "en": "Grading criteria for grade D at the end of year 6. The pupil's knowledge is assessed overall as being between C and E."
             }
           },
           {
             "gradeStep": "C",
             "text": {
               "local": "Betygskriterier för betyget C i slutet av årskurs 6Eleven formger och framställer på ett genomarbetat sätt enkla slöjdföremål i olika material och med enkla hantverkstekniker. I slöjdarbetet använder eleven verktyg på ett säkert och ändamålsenligt sätt. Utifrån syftet med slöjdarbetet och någon idé väljer eleven ett fungerande tillvägagångssätt. Under arbetsprocessen formulerar och väljer eleven handlingsalternativ som efter någon bearbetning leder framåt. Eleven beskriver på ett utvecklat sätt arbetsprocessen och hur den har påverkat slöjdföremålets kvalitet.",
-              "en": ""
+              "en": "Grading criteria for grade C at the end of year 6. The pupil designs and produces simple craft objects in different materials and with simple craft techniques in a thorough manner. In the craft work, the pupil uses tools in a safe and purposeful way. Based on the purpose of the craft work and an idea, the pupil chooses a functional approach. During the work process, the pupil formulates and chooses courses of action that, after some refinement, lead forward. The pupil describes in a developed way the work process and how it has affected the quality of the craft object."
             }
           },
           {
             "gradeStep": "B",
             "text": {
               "local": "Betygskriterier för betyget B i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan A och C.",
-              "en": ""
+              "en": "Grading criteria for grade B at the end of year 6. The pupil's knowledge is assessed overall as being between A and C."
             }
           },
           {
             "gradeStep": "A",
             "text": {
               "local": "Betygskriterier för betyget A i slutet av årskurs 6Eleven formger och framställer på ett väl genomarbetat sätt enkla slöjdföremål i olika material och med enkla hantverkstekniker. I slöjdarbetet använder eleven verktyg på ett säkert och ändamålsenligt och effektivt sätt. Utifrån syftet med slöjdarbetet och någon idé väljer eleven ett väl fungerande tillvägagångssätt. Under arbetsprocessen formulerar och väljer eleven handlingsalternativ som leder framåt. Eleven beskriver på ett välutvecklat sätt arbetsprocessen och hur den har påverkat slöjdföremålets kvalitet.",
-              "en": ""
+              "en": "Grading criteria for grade A at the end of year 6. The pupil designs and produces simple craft objects in different materials and with simple craft techniques in a highly thorough manner. In the craft work, the pupil uses tools in a safe, purposeful and efficient way. Based on the purpose of the craft work and an idea, the pupil chooses a highly functional approach. During the work process, the pupil formulates and chooses courses of action that lead forward. The pupil describes in a well-developed way the work process and how it has affected the quality of the craft object."
             }
           }
         ]
@@ -337,7 +337,7 @@
             "code": "SL-7-9-1",
             "text": {
               "local": "Metall, textil, trä och andra material. Materialens kombinationsmöjligheter med varandra.",
-              "en": ""
+              "en": "Metal, textile, wood and other materials. The possibilities for combining the materials with each other."
             },
             "coreElements": [
               "Slöjdens material, verktyg och hantverkstekniker"
@@ -348,7 +348,7 @@
             "code": "SL-7-9-2",
             "text": {
               "local": "Verktyg, redskap och maskiner, hur de benämns och hur de används på ett säkert och ändamålsenligt sätt.",
-              "en": ""
+              "en": "Tools, implements and machines, what they are called and how they are used in a safe and purposeful manner."
             },
             "coreElements": [
               "Slöjdens material, verktyg och hantverkstekniker"
@@ -359,7 +359,7 @@
             "code": "SL-7-9-3",
             "text": {
               "local": "Utvecklade former av hantverkstekniker och begrepp som används i sam­band med dessa.",
-              "en": ""
+              "en": "Advanced forms of craft techniques and the terminology used in connection with them."
             },
             "coreElements": [
               "Slöjdens material, verktyg och hantverkstekniker"
@@ -372,7 +372,7 @@
             "code": "SL-7-9-4",
             "text": {
               "local": "Två- och tredimensionella skisser, modeller, mönster och arbets­beskriv­ningar, skapade såväl med som utan digitala verktyg.",
-              "en": ""
+              "en": "Two- and three-dimensional sketches, models, patterns and work descriptions, created both with and without digital tools."
             },
             "coreElements": [
               "Slöjdens material, verktyg och hantverkstekniker"
@@ -385,7 +385,7 @@
             "code": "SL-7-9-5",
             "text": {
               "local": "Slöjdarbetets olika delar: idéutveckling, överväganden, framställning samt ref­lektion över arbetsprocessen och resultatet. Hur delarna i arbets­processen samverkar och påverkar resultatet.",
-              "en": ""
+              "en": "The different parts of craft work: idea development, considerations, production and reflection on the work process and the result. How the parts of the work process interact and affect the result."
             },
             "coreElements": [
               "Slöjdens arbetsprocesser"
@@ -396,7 +396,7 @@
             "code": "SL-7-9-6",
             "text": {
               "local": "Undersökande av olika material och hantverkstekniker utifrån deras kom­bi­nations- och konstruktionsmöjligheter.",
-              "en": ""
+              "en": "Exploration of different materials and craft techniques based on their possibilities for combination and construction."
             },
             "coreElements": [
               "Slöjdens arbetsprocesser"
@@ -410,7 +410,7 @@
             "code": "SL-7-9-7",
             "text": {
               "local": "Design, mode, konsthantverk och hemslöjd från olika kulturer och tider som inspirationskällor för det egna skapandet.",
-              "en": ""
+              "en": "Design, fashion, artistic crafts and traditional handicrafts from different cultures and eras as sources of inspiration for one's own creative work."
             },
             "coreElements": [
               "Slöjdens uttryck och betydelse för hållbar utveckling"
@@ -423,7 +423,7 @@
             "code": "SL-7-9-8",
             "text": {
               "local": "Hur färg, form och material kan kombineras för att skapa personliga uttryck i egna slöjdföremål.",
-              "en": ""
+              "en": "How colour, form and material can be combined to create personal expressions in one's own craft objects."
             },
             "coreElements": [
               "Slöjdens uttryck och betydelse för hållbar utveckling"
@@ -436,7 +436,7 @@
             "code": "SL-7-9-9",
             "text": {
               "local": "Jämförelser mellan olika slöjdmaterial utifrån deras kvalitet och påverkan på miljön, till exempel mellan natur- och konstmaterial, förnybara och icke för­nybara material.",
-              "en": ""
+              "en": "Comparisons between different craft materials based on their quality and environmental impact, for example between natural and synthetic materials, renewable and non-renewable materials."
             },
             "coreElements": [
               "Slöjdens uttryck och betydelse för hållbar utveckling"
@@ -447,7 +447,7 @@
             "code": "SL-7-9-10",
             "text": {
               "local": "Resurshushållning genom återbruk, reparation samt vård av material och före­mål.",
-              "en": ""
+              "en": "Resource conservation through reuse, repair and care of materials and objects."
             },
             "coreElements": [
               "Slöjdens uttryck och betydelse för hållbar utveckling"
@@ -460,35 +460,35 @@
             "gradeStep": "E",
             "text": {
               "local": "Betygskriterier för betyget E i slutet av årskurs 9Eleven formger och framställer slöjdföremål på ett delvis genomarbetat sätt. I slöjdarbetet använder eleven verktyg på ett säkert och i huvudsak fungerande sätt. Eleven utvecklar i viss utsträckning idéer med utgångspunkt i inspirationskällor och prövar då hur material och hantverkstekniker kan kombineras med hänsyn till föremålens form och funktion. Utifrån syftet med slöjdarbetet väljer eleven ett i huvudsak fungerande tillvägagångssätt och ger enkla motiveringar till sina val. Under arbetsprocessen bidrar eleven till att formulera och välja handlingsalternativ. Eleven för enkla resonemang om arbetsprocessen och resultatet samt hur det genomförda arbetet har påverkat kvaliteten, uttrycket och miljön.",
-              "en": ""
+              "en": "Grading criteria for grade E at the end of year 9. The pupil designs and produces craft objects in a partially thorough manner. In the craft work, the pupil uses tools in a safe and mainly functional way. The pupil develops ideas to some extent based on sources of inspiration and tests how materials and craft techniques can be combined with regard to the form and function of the objects. Based on the purpose of the craft work, the pupil chooses a mainly functional approach and gives simple justifications for their choices. During the work process, the pupil contributes to formulating and choosing courses of action. The pupil presents simple reasoning about the work process and the result, as well as how the completed work has affected quality, expression and the environment."
             }
           },
           {
             "gradeStep": "D",
             "text": {
               "local": "Betygskriterier för betyget D i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan C och E.",
-              "en": ""
+              "en": "Grading criteria for grade D at the end of year 9. The pupil's knowledge is assessed overall as being between C and E."
             }
           },
           {
             "gradeStep": "C",
             "text": {
               "local": "Betygskriterier för betyget C i slutet av årskurs 9Eleven formger och framställer slöjdföremål på ett genomarbetat sätt. I slöjdarbetet använder eleven verktyg på ett säkert och ändamålsenligt sätt. Eleven utvecklar i relativt stor utsträckning idéer med utgångspunkt i inspirationskällor och prövar och omprövar då hur material och hantverkstekniker kan kombineras med hänsyn till föremålens form och funktion. Utifrån syftet med slöjdarbetet väljer eleven ett fungerande tillvägagångssätt och ger utvecklade motiveringar till sina val. Under arbetsprocessen formulerar och väljer eleven handlingsalternativ som efter någon bearbetning leder framåt. Eleven för utvecklade resonemang om arbetsprocessen och resultatet samt hur det genomförda arbetet har påverkat kvaliteten, uttrycket och miljön.",
-              "en": ""
+              "en": "Grading criteria for grade C at the end of year 9. The pupil designs and produces craft objects in a thorough manner. In the craft work, the pupil uses tools in a safe and purposeful way. The pupil develops ideas to a relatively large extent based on sources of inspiration and tests and re-evaluates how materials and craft techniques can be combined with regard to the form and function of the objects. Based on the purpose of the craft work, the pupil chooses a functional approach and gives developed justifications for their choices. During the work process, the pupil formulates and chooses courses of action that, after some refinement, lead forward. The pupil presents developed reasoning about the work process and the result, as well as how the completed work has affected quality, expression and the environment."
             }
           },
           {
             "gradeStep": "B",
             "text": {
               "local": "Betygskriterier för betyget B i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan A och C.",
-              "en": ""
+              "en": "Grading criteria for grade B at the end of year 9. The pupil's knowledge is assessed overall as being between A and C."
             }
           },
           {
             "gradeStep": "A",
             "text": {
               "local": "Betygskriterier för betyget A i slutet av årskurs 9Eleven formger och framställer slöjdföremål på ett väl genomarbetat sätt. I slöjdarbetet använder eleven verktyg på ett säkert och ändamålsenligt sätt med precision. Eleven utvecklar i stor utsträckning idéer med utgångspunkt i inspirationskällor och prövar och omprövar då systematiskt hur material och hantverkstekniker kan kombineras med hänsyn till föremålens form och funktion. Utifrån syftet med slöjdarbetet väljer eleven ett väl fungerande tillvägagångssätt och ger välutvecklade motiveringar till sina val. Under arbetsprocessen formulerar och väljer eleven handlingsalternativ som leder framåt. Eleven för välutvecklade resonemang om arbetsprocessen och resultatet samt hur det genomförda arbetet har påverkat kvaliteten, uttrycket och miljön.",
-              "en": ""
+              "en": "Grading criteria for grade A at the end of year 9. The pupil designs and produces craft objects in a highly thorough manner. In the craft work, the pupil uses tools in a safe and purposeful way with precision. The pupil develops ideas to a large extent based on sources of inspiration and systematically tests and re-evaluates how materials and craft techniques can be combined with regard to the form and function of the objects. Based on the purpose of the craft work, the pupil chooses a highly functional approach and gives well-developed justifications for their choices. During the work process, the pupil formulates and chooses courses of action that lead forward. The pupil presents well-developed reasoning about the work process and the result, as well as how the completed work has affected quality, expression and the environment."
             }
           }
         ]

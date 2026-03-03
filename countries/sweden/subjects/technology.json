@@ -17,33 +17,33 @@
         "code": "",
         "name": {
           "local": "förmåga att reflektera över olika val av tekniska lösningar, deras konsekvenser för individen, samhället och miljön samt hur tekniken har förändrats över tid,",
-          "en": ""
+          "en": "the ability to reflect on different choices of technical solutions, their consequences for the individual, society and the environment, and how technology has changed over time,"
         },
         "description": {
           "local": "förmåga att reflektera över olika val av tekniska lösningar, deras konsekvenser för individen, samhället och miljön samt hur tekniken har förändrats över tid,",
-          "en": ""
+          "en": "the ability to reflect on different choices of technical solutions, their consequences for the individual, society and the environment, and how technology has changed over time,"
         }
       },
       {
         "code": "",
         "name": {
           "local": "kunskaper om tekniska lösningar och hur ingående delar samverkar för att uppnå ändamålsenlighet och funktion, och",
-          "en": ""
+          "en": "knowledge of technical solutions and how component parts interact to achieve fitness for purpose and function, and"
         },
         "description": {
           "local": "kunskaper om tekniska lösningar och hur ingående delar samverkar för att uppnå ändamålsenlighet och funktion, och",
-          "en": ""
+          "en": "knowledge of technical solutions and how component parts interact to achieve fitness for purpose and function, and"
         }
       },
       {
         "code": "",
         "name": {
           "local": "förmåga att genomföra teknikutvecklings- och konstruktionsarbeten.",
-          "en": ""
+          "en": "the ability to carry out technology development and construction work."
         },
         "description": {
           "local": "förmåga att genomföra teknikutvecklings- och konstruktionsarbeten.",
-          "en": ""
+          "en": "the ability to carry out technology development and construction work."
         }
       }
     ],
@@ -59,7 +59,7 @@
             "code": "TK-1-3-1",
             "text": {
               "local": "Några föremål och något tekniskt system i elevernas vardag, hur de är anpassade efter människans behov samt hur de har förändrats över tid.",
-              "en": ""
+              "en": "Some objects and a technical system in the pupils' everyday lives, how they are adapted to human needs and how they have changed over time."
             },
             "coreElements": [
               "Teknik, människa, samhälle och miljö"
@@ -70,7 +70,7 @@
             "code": "TK-1-3-2",
             "text": {
               "local": "Säkerhet vid elevernas användning av teknik, till exempel elektricitet och olika tjänster via internet.",
-              "en": ""
+              "en": "Safety in the pupils' use of technology, for example electricity and various services via the internet."
             },
             "coreElements": [
               "Teknik, människa, samhälle och miljö"
@@ -81,7 +81,7 @@
             "code": "TK-1-3-3",
             "text": {
               "local": "Hur några föremål i elevernas vardag används och fungerar. Enkla me­ka­nis­mer, till exempel i verktyg och leksaker av olika slag. Begrepp som an­vänds i samband med detta.",
-              "en": ""
+              "en": "How some objects in the pupils' everyday lives are used and function. Simple mechanisms, for example in tools and toys of various kinds. Terminology used in connection with this."
             },
             "coreElements": [
               "Tekniska lösningar"
@@ -92,7 +92,7 @@
             "code": "TK-1-3-4",
             "text": {
               "local": "Vad datorer används till och deras delar för inmatning, utmatning och lag­ring av information. Föremål i elevernas vardag som styrs med hjälp av pro­gram­mering, till exempel hushållsmaskiner och smarta telefoner.",
-              "en": ""
+              "en": "What computers are used for and their components for input, output and storage of information. Objects in the pupils' everyday lives that are controlled by programming, for example household appliances and smartphones."
             },
             "coreElements": [
               "Tekniska lösningar"
@@ -103,7 +103,7 @@
             "code": "TK-1-3-5",
             "text": {
               "local": "Material för konstruktionsarbete. Materialens egenskaper och hur mate­ria­len benämns och kan sammanfogas.",
-              "en": ""
+              "en": "Materials for construction work. The properties of the materials and how the materials are named and can be joined together."
             },
             "coreElements": [
               "Tekniska lösningar"
@@ -114,7 +114,7 @@
             "code": "TK-1-3-6",
             "text": {
               "local": "Undersökande av hur några föremål i elevernas vardag är utformade och hur deras funktion kan förbättras.",
-              "en": ""
+              "en": "Exploration of how some objects in the pupils' everyday lives are designed and how their function can be improved."
             },
             "coreElements": [
               "Arbetsmetoder för utveckling av tekniska lösningar"
@@ -128,7 +128,7 @@
             "code": "TK-1-3-7",
             "text": {
               "local": "Egna konstruktioner där man använder enkla mekanismer.",
-              "en": ""
+              "en": "Own constructions using simple mechanisms."
             },
             "coreElements": [
               "Arbetsmetoder för utveckling av tekniska lösningar"
@@ -139,7 +139,7 @@
             "code": "TK-1-3-8",
             "text": {
               "local": "Styrning av föremål med programmering.",
-              "en": ""
+              "en": "Controlling objects through programming."
             },
             "coreElements": [
               "Arbetsmetoder för utveckling av tekniska lösningar"
@@ -150,7 +150,7 @@
             "code": "TK-1-3-9",
             "text": {
               "local": "Dokumentation av tekniska lösningar: skisser, bilder, ord samt enkla fysi­ska och digitala modeller.",
-              "en": ""
+              "en": "Documentation of technical solutions: sketches, images, words as well as simple physical and digital models."
             },
             "coreElements": [
               "Arbetsmetoder för utveckling av tekniska lösningar"
@@ -170,7 +170,7 @@
             "code": "TK-4-6-1",
             "text": {
               "local": "Några tekniska system och hur de påverkar människa och miljö, till exem­pel vatten- och avloppssystem och system för återvinning. Hur systemen har förändrats över tid och några orsaker till detta.",
-              "en": ""
+              "en": "Some technical systems and how they affect people and the environment, for example water and sewage systems and recycling systems. How the systems have changed over time and some reasons for this."
             },
             "coreElements": [
               "Teknik, människa, samhälle och miljö"
@@ -181,7 +181,7 @@
             "code": "TK-4-6-2",
             "text": {
               "local": "Möjligheter, risker och säkerhet vid teknikanvändning i vardagen, till exem­pel vid användning av elektricitet och vid överföring av information i digitala miljöer.",
-              "en": ""
+              "en": "Opportunities, risks and safety in everyday use of technology, for example when using electricity and when transferring information in digital environments."
             },
             "coreElements": [
               "Teknik, människa, samhälle och miljö"
@@ -192,7 +192,7 @@
             "code": "TK-4-6-3",
             "text": {
               "local": "Konsekvenser av teknikval: olika tekniska lösningars för- och nackdelar för människa och miljö.",
-              "en": ""
+              "en": "Consequences of technology choices: the advantages and disadvantages of different technical solutions for people and the environment."
             },
             "coreElements": [
               "Teknik, människa, samhälle och miljö"
@@ -203,7 +203,7 @@
             "code": "TK-4-6-4",
             "text": {
               "local": "Hur några komponenter i vanliga tekniska system benämns och samverkar, till exempel i en cykel eller i ett enkelt produktions- eller transportsystem.",
-              "en": ""
+              "en": "How some components in common technical systems are named and interact, for example in a bicycle or in a simple production or transport system."
             },
             "coreElements": [
               "Tekniska lösningar"
@@ -214,7 +214,7 @@
             "code": "TK-4-6-5",
             "text": {
               "local": "Föremål som innehåller rörliga delar och hur de rörliga delarna är sam­man­foga­de med hjälp av olika mekanismer för att överföra och förstärka krafter.",
-              "en": ""
+              "en": "Objects that contain moving parts and how the moving parts are joined together using different mechanisms to transfer and amplify forces."
             },
             "coreElements": [
               "Tekniska lösningar"
@@ -227,7 +227,7 @@
             "code": "TK-4-6-6",
             "text": {
               "local": "Några av datorns delar och deras funktioner, till exempel processor och arbets­minne. Hur datorer styrs av program och kan kopplas samman i nät­verk.",
-              "en": ""
+              "en": "Some of the computer's components and their functions, for example processor and working memory. How computers are controlled by programs and can be connected in networks."
             },
             "coreElements": [
               "Tekniska lösningar"
@@ -238,7 +238,7 @@
             "code": "TK-4-6-7",
             "text": {
               "local": "Tekniska lösningar som utnyttjar elkomponenter och enkel elektronik för att åstadkomma ljud, ljus eller rörelse, till exempel larm och belysning. Be­grepp som används i samband med detta.",
-              "en": ""
+              "en": "Technical solutions that use electrical components and simple electronics to produce sound, light or movement, for example alarms and lighting. Terminology used in connection with this."
             },
             "coreElements": [
               "Tekniska lösningar"
@@ -249,7 +249,7 @@
             "code": "TK-4-6-8",
             "text": {
               "local": "Hur hållfasta och stabila konstruktioner är uppbyggda, till exempel skal, ar­mering och fackverk. Material som används i hållfasta och stabila konstruktioner.",
-              "en": ""
+              "en": "How strong and stable structures are built, for example shells, reinforcement and trusses. Materials used in strong and stable structures."
             },
             "coreElements": [
               "Tekniska lösningar"
@@ -260,7 +260,7 @@
             "code": "TK-4-6-9",
             "text": {
               "local": "Teknikutvecklingsarbetets olika faser: identifiering av behov, under­sök­ning, förslag till lösningar, konstruktion och utprövning.",
-              "en": ""
+              "en": "The different phases of technology development work: identification of needs, investigation, proposed solutions, construction and testing."
             },
             "coreElements": [
               "Arbetsmetoder för utveckling av tekniska lösningar"
@@ -271,7 +271,7 @@
             "code": "TK-4-6-10",
             "text": {
               "local": "Egna konstruktioner där man använder mekanismer, elektriska kopplingar samt hållfasta och stabila strukturer.",
-              "en": ""
+              "en": "Own constructions using mechanisms, electrical connections as well as strong and stable structures."
             },
             "coreElements": [
               "Arbetsmetoder för utveckling av tekniska lösningar"
@@ -282,7 +282,7 @@
             "code": "TK-4-6-11",
             "text": {
               "local": "Styrning av egna konstruktioner eller andra föremål med programmering.",
-              "en": ""
+              "en": "Controlling own constructions or other objects through programming."
             },
             "coreElements": [
               "Arbetsmetoder för utveckling av tekniska lösningar"
@@ -293,7 +293,7 @@
             "code": "TK-4-6-12",
             "text": {
               "local": "Dokumentation av tekniska lösningar: skisser med vyer och mått­angi­vel­ser, ord samt fysiska och digitala modeller.",
-              "en": ""
+              "en": "Documentation of technical solutions: sketches with views and dimensions, words as well as physical and digital models."
             },
             "coreElements": [
               "Arbetsmetoder för utveckling av tekniska lösningar"
@@ -306,35 +306,35 @@
             "gradeStep": "E",
             "text": {
               "local": "Betygskriterier för betyget E i slutet av årskurs 6Eleven ger exempel på tekniska lösningar och beskriver på ett enkelt sätt några av deras för- och nackdelar för individ och miljö samt hur de har förändrats över tid. Eleven undersöker tekniska lösningar och beskriver på ett enkelt sätt hur några delar samverkar för att uppnå ändamålsenlighet och funktion. Eleven genomför enkla teknikutvecklings- och konstruktionsarbeten på ett delvis genomarbetat sätt. I arbetet bidrar eleven till att formulera och välja handlingsalternativ. Eleven gör dokumentationer där intentionen i lösningen till viss del är synliggjord.",
-              "en": ""
+              "en": "Grading criteria for grade E at the end of year 6. The pupil gives examples of technical solutions and describes in a simple way some of their advantages and disadvantages for the individual and the environment, as well as how they have changed over time. The pupil investigates technical solutions and describes in a simple way how some parts interact to achieve fitness for purpose and function. The pupil carries out simple technology development and construction work in a partially thorough manner. In the work, the pupil contributes to formulating and choosing courses of action. The pupil produces documentation where the intention of the solution is made visible to some extent."
             }
           },
           {
             "gradeStep": "D",
             "text": {
               "local": "Betygskriterier för betyget D i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan C och E.",
-              "en": ""
+              "en": "Grading criteria for grade D at the end of year 6. The pupil's knowledge is assessed overall as being between C and E."
             }
           },
           {
             "gradeStep": "C",
             "text": {
               "local": "Betygskriterier för betyget C i slutet av årskurs 6Eleven ger exempel på tekniska lösningar och beskriver på ett utvecklat sätt några av deras för- och nackdelar för individ och miljö samt hur de har förändrats över tid. Eleven undersöker tekniska lösningar och beskriver på ett utvecklat sätt hur några delar samverkar för att uppnå ändamålsenlighet och funktion. Eleven genomför enkla teknikutvecklings- och konstruktionsarbeten på ett genomarbetat sätt. I arbetet formulerar och väljer eleven handlingsalternativ som med någon bearbetning leder framåt. Eleven gör dokumentationer där intentionen i lösningen är relativt väl synliggjord.",
-              "en": ""
+              "en": "Grading criteria for grade C at the end of year 6. The pupil gives examples of technical solutions and describes in a developed way some of their advantages and disadvantages for the individual and the environment, as well as how they have changed over time. The pupil investigates technical solutions and describes in a developed way how some parts interact to achieve fitness for purpose and function. The pupil carries out simple technology development and construction work in a thorough manner. In the work, the pupil formulates and chooses courses of action that, with some refinement, lead forward. The pupil produces documentation where the intention of the solution is made relatively well visible."
             }
           },
           {
             "gradeStep": "B",
             "text": {
               "local": "Betygskriterier för betyget B i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan A och C.",
-              "en": ""
+              "en": "Grading criteria for grade B at the end of year 6. The pupil's knowledge is assessed overall as being between A and C."
             }
           },
           {
             "gradeStep": "A",
             "text": {
               "local": "Betygskriterier för betyget A i slutet av årskurs 6Eleven ger exempel på tekniska lösningar och beskriver på ett välutvecklat sätt några av deras för- och nackdelar för individ och miljö samt hur de har förändrats över tid. Eleven undersöker tekniska lösningar och beskriver på ett välutvecklat sätt hur några delar samverkar för att uppnå ändamålsenlighet och funktion. Eleven genomför enkla teknikutvecklings- och konstruktionsarbeten på ett väl genomarbetat sätt. I arbetet formulerar och väljer eleven handlingsalternativ som leder framåt. Eleven gör dokumentationer där intentionen i lösningen är väl synliggjord.",
-              "en": ""
+              "en": "Grading criteria for grade A at the end of year 6. The pupil gives examples of technical solutions and describes in a well-developed way some of their advantages and disadvantages for the individual and the environment, as well as how they have changed over time. The pupil investigates technical solutions and describes in a well-developed way how some parts interact to achieve fitness for purpose and function. The pupil carries out simple technology development and construction work in a highly thorough manner. In the work, the pupil formulates and chooses courses of action that lead forward. The pupil produces documentation where the intention of the solution is made clearly visible."
             }
           }
         ]
@@ -350,7 +350,7 @@
             "code": "TK-7-9-1",
             "text": {
               "local": "Internet och några andra globala tekniska system samt deras fördelar, risker och begränsningar.",
-              "en": ""
+              "en": "The internet and some other global technical systems, and their advantages, risks and limitations."
             },
             "coreElements": [
               "Teknik, människa, samhälle och miljö"
@@ -361,7 +361,7 @@
             "code": "TK-7-9-2",
             "text": {
               "local": "Möjligheter, risker och säkerhet vid teknikanvändning i samhället, däri­bland vid lagring av data.",
-              "en": ""
+              "en": "Opportunities, risks and safety in the use of technology in society, including data storage."
             },
             "coreElements": [
               "Teknik, människa, samhälle och miljö"
@@ -372,7 +372,7 @@
             "code": "TK-7-9-3",
             "text": {
               "local": "Konsekvenser av teknikval utifrån ekologiska, ekonomiska och sociala as­pek­ter av hållbar utveckling.",
-              "en": ""
+              "en": "Consequences of technology choices from ecological, economic and social aspects of sustainable development."
             },
             "coreElements": [
               "Teknik, människa, samhälle och miljö"
@@ -383,7 +383,7 @@
             "code": "TK-7-9-4",
             "text": {
               "local": "Hur tekniken möjliggjort vetenskapliga upptäckter och hur vetenskapen har möjliggjort tekniska innovationer.",
-              "en": ""
+              "en": "How technology has enabled scientific discoveries and how science has enabled technological innovations."
             },
             "coreElements": [
               "Teknik, människa, samhälle och miljö"
@@ -394,7 +394,7 @@
             "code": "TK-7-9-5",
             "text": {
               "local": "Hur föreställningar om teknik påverkar individers användning av tekniska lös­ningar och yrkesval.",
-              "en": ""
+              "en": "How perceptions of technology affect individuals' use of technical solutions and career choices."
             },
             "coreElements": [
               "Teknik, människa, samhälle och miljö"
@@ -405,7 +405,7 @@
             "code": "TK-7-9-6",
             "text": {
               "local": "Hur komponenter och delsystem benämns och samverkar inom tekniska sy­stem, till exempel informations- och kommunikationsteknik och transport­system.",
-              "en": ""
+              "en": "How components and subsystems are named and interact within technical systems, for example information and communication technology and transport systems."
             },
             "coreElements": [
               "Tekniska lösningar"
@@ -416,7 +416,7 @@
             "code": "TK-7-9-7",
             "text": {
               "local": "Tekniska lösningar för styrning och reglering med hjälp av elektronik och olika typer av sensorer. Hur tekniska lösningar som utnyttjar elektronik kan prog­ram­meras. Begrepp som används i samband med detta.",
-              "en": ""
+              "en": "Technical solutions for control and regulation using electronics and different types of sensors. How technical solutions that use electronics can be programmed. Terminology used in connection with this."
             },
             "coreElements": [
               "Tekniska lösningar"
@@ -427,7 +427,7 @@
             "code": "TK-7-9-8",
             "text": {
               "local": "Tekniska lösningar för hållfasta och stabila konstruktioner samt betydelsen av materialens egenskaper, till exempel drag- och tryckhållfasthet, hårdhet och elasticitet.",
-              "en": ""
+              "en": "Technical solutions for strong and stable structures, and the significance of material properties, for example tensile and compressive strength, hardness and elasticity."
             },
             "coreElements": [
               "Tekniska lösningar"
@@ -438,7 +438,7 @@
             "code": "TK-7-9-9",
             "text": {
               "local": "Bearbetning av råvara till färdig produkt och hantering av avfall i någon indu­striell process, till exempel vid tillverkning av livsmedel och för­pack­ningar.",
-              "en": ""
+              "en": "Processing of raw materials into finished products and handling of waste in an industrial process, for example in the manufacture of food products and packaging."
             },
             "coreElements": [
               "Tekniska lösningar"
@@ -449,7 +449,7 @@
             "code": "TK-7-9-10",
             "text": {
               "local": "Teknikutvecklingsarbetets olika faser: identifiering av behov, under­sökning, förslag till lösningar, konstruktion och utprövning. Hur faserna i arbets­processen samverkar i det egna arbetet och i teknik­utvecklingsarbeten i samhället, till exempel inom arkitektur och kollek­tiv­tra­fik.",
-              "en": ""
+              "en": "The different phases of technology development work: identification of needs, investigation, proposed solutions, construction and testing. How the phases of the work process interact in one's own work and in technology development work in society, for example in architecture and public transport."
             },
             "coreElements": [
               "Arbetsmetoder för utveckling av tekniska lösningar"
@@ -460,7 +460,7 @@
             "code": "TK-7-9-11",
             "text": {
               "local": "Hur digitala verktyg kan användas i teknikutvecklingsarbete, till exempel för att göra ritningar och simuleringar.",
-              "en": ""
+              "en": "How digital tools can be used in technology development work, for example for making drawings and simulations."
             },
             "coreElements": [
               "Arbetsmetoder för utveckling av tekniska lösningar"
@@ -473,7 +473,7 @@
             "code": "TK-7-9-12",
             "text": {
               "local": "Egna konstruktioner där man använder styrning eller reglering med hjälp av programmering.",
-              "en": ""
+              "en": "Own constructions using control or regulation through programming."
             },
             "coreElements": [
               "Arbetsmetoder för utveckling av tekniska lösningar"
@@ -484,7 +484,7 @@
             "code": "TK-7-9-13",
             "text": {
               "local": "Dokumentation av tekniska lösningar: skisser, ritningar, fysiska och digi­tala modeller samt rapporter som beskriver teknikutvecklings- och kon­struk­tionsarbeten.",
-              "en": ""
+              "en": "Documentation of technical solutions: sketches, drawings, physical and digital models as well as reports describing technology development and construction work."
             },
             "coreElements": [
               "Arbetsmetoder för utveckling av tekniska lösningar"
@@ -497,35 +497,35 @@
             "gradeStep": "E",
             "text": {
               "local": "Betygskriterier för betyget E i slutet av årskurs 9Eleven för enkla resonemang om val av tekniska lösningar och deras konsekvenser för individ, samhälle och miljö. Eleven beskriver på ett enkelt sätt hur några tekniska lösningar har förändrats över tid och orsaker till förändringarna. Eleven undersöker olika tekniska lösningar och förklarar på ett enkelt sätt hur ingående delar samverkar för att uppnå ändamålsenlighet och funktion. Eleven genomför teknikutvecklings- och konstruktionsarbeten på ett delvis genomarbetat sätt. I arbetet prövar eleven idéer till lösningar och bidrar till att formulera och välja handlingsalternativ. Eleven gör dokumentationer där intentionen i lösningen till viss del är synliggjord.",
-              "en": ""
+              "en": "Grading criteria for grade E at the end of year 9. The pupil presents simple reasoning about choices of technical solutions and their consequences for the individual, society and the environment. The pupil describes in a simple way how some technical solutions have changed over time and reasons for the changes. The pupil investigates different technical solutions and explains in a simple way how component parts interact to achieve fitness for purpose and function. The pupil carries out technology development and construction work in a partially thorough manner. In the work, the pupil tests ideas for solutions and contributes to formulating and choosing courses of action. The pupil produces documentation where the intention of the solution is made visible to some extent."
             }
           },
           {
             "gradeStep": "D",
             "text": {
               "local": "Betygskriterier för betyget D i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan C och E.",
-              "en": ""
+              "en": "Grading criteria for grade D at the end of year 9. The pupil's knowledge is assessed overall as being between C and E."
             }
           },
           {
             "gradeStep": "C",
             "text": {
               "local": "Betygskriterier för betyget C i slutet av årskurs 9Eleven för utvecklade resonemang om val av tekniska lösningar och deras konsekvenser för individ, samhälle och miljö. Eleven beskriver på ett utvecklat sätt hur några tekniska lösningar har förändrats över tid och orsaker till förändringarna. Eleven undersöker olika tekniska lösningar och förklarar på ett utvecklat sätt hur ingående delar samverkar för att uppnå ändamålsenlighet och funktion. Eleven genomför teknikutvecklings- och konstruktionsarbeten på ett genomarbetat sätt. I arbetet prövar och omprövar eleven idéer till lösningar samt formulerar och väljer handlingsalternativ som med någon bearbetning leder framåt. Eleven gör dokumentationer där intentionen i lösningen är relativt väl synliggjord.",
-              "en": ""
+              "en": "Grading criteria for grade C at the end of year 9. The pupil presents developed reasoning about choices of technical solutions and their consequences for the individual, society and the environment. The pupil describes in a developed way how some technical solutions have changed over time and reasons for the changes. The pupil investigates different technical solutions and explains in a developed way how component parts interact to achieve fitness for purpose and function. The pupil carries out technology development and construction work in a thorough manner. In the work, the pupil tests and re-evaluates ideas for solutions and formulates and chooses courses of action that, with some refinement, lead forward. The pupil produces documentation where the intention of the solution is made relatively well visible."
             }
           },
           {
             "gradeStep": "B",
             "text": {
               "local": "Betygskriterier för betyget B i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan A och C.",
-              "en": ""
+              "en": "Grading criteria for grade B at the end of year 9. The pupil's knowledge is assessed overall as being between A and C."
             }
           },
           {
             "gradeStep": "A",
             "text": {
               "local": "Betygskriterier för betyget A i slutet av årskurs 9Eleven för välutvecklade resonemang om val av tekniska lösningar och deras konsekvenser för individ, samhälle och miljö. Eleven beskriver på ett välutvecklat sätt hur några tekniska lösningar har förändrats över tid och orsaker till förändringarna. Eleven undersöker olika tekniska lösningar och förklarar på ett välutvecklat sätt hur ingående delar samverkar för att uppnå ändamålsenlighet och funktion och visar då på andra liknande lösningar. Eleven genomför teknikutvecklings- och konstruktionsarbeten på ett väl genomarbetat sätt. I arbetet prövar och omprövar eleven systematiskt idéer till lösningar samt formulerar och väljer handlingsalternativ som leder framåt. Eleven gör dokumentationer där intentionen i lösningen är väl synliggjord.",
-              "en": ""
+              "en": "Grading criteria for grade A at the end of year 9. The pupil presents well-developed reasoning about choices of technical solutions and their consequences for the individual, society and the environment. The pupil describes in a well-developed way how some technical solutions have changed over time and reasons for the changes. The pupil investigates different technical solutions and explains in a well-developed way how component parts interact to achieve fitness for purpose and function, and identifies other similar solutions. The pupil carries out technology development and construction work in a highly thorough manner. In the work, the pupil systematically tests and re-evaluates ideas for solutions and formulates and chooses courses of action that lead forward. The pupil produces documentation where the intention of the solution is made clearly visible."
             }
           }
         ]

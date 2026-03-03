@@ -17,33 +17,33 @@
         "code": "",
         "name": {
           "local": "förmåga att sjunga och spela i olika musikaliska former och genrer,",
-          "en": ""
+          "en": "the ability to sing and play in different musical forms and genres,"
         },
         "description": {
           "local": "förmåga att sjunga och spela i olika musikaliska former och genrer,",
-          "en": ""
+          "en": "the ability to sing and play in different musical forms and genres,"
         }
       },
       {
         "code": "",
         "name": {
           "local": "förmåga att skapa musik samt uttrycka och kommunicera tankar och idéer i musikalisk form, och",
-          "en": ""
+          "en": "the ability to create music and to express and communicate thoughts and ideas in musical form, and"
         },
         "description": {
           "local": "förmåga att skapa musik samt uttrycka och kommunicera tankar och idéer i musikalisk form, och",
-          "en": ""
+          "en": "the ability to create music and to express and communicate thoughts and ideas in musical form, and"
         }
       },
       {
         "code": "",
         "name": {
           "local": "förmåga att uppleva och reflektera över musikens innehåll, funktion och be­tydelse i olika sociala, kulturella och historiska sammanhang.",
-          "en": ""
+          "en": "the ability to experience and reflect on the content, function and significance of music in different social, cultural and historical contexts."
         },
         "description": {
           "local": "förmåga att uppleva och reflektera över musikens innehåll, funktion och be­tydelse i olika sociala, kulturella och historiska sammanhang.",
-          "en": ""
+          "en": "the ability to experience and reflect on the content, function and significance of music in different social, cultural and historical contexts."
         }
       }
     ],
@@ -59,7 +59,7 @@
             "code": "MU-1-3-1",
             "text": {
               "local": "Sång och spel i olika former. Unison sång, kanon, växelsång och ensemble­spel.",
-              "en": ""
+              "en": "Singing and playing in different forms. Unison singing, canon, call and response singing and ensemble playing."
             },
             "coreElements": [
               "Musicerande och musikskapande"
@@ -70,7 +70,7 @@
             "code": "MU-1-3-2",
             "text": {
               "local": "Imitation och improvisation med röst, rörelse och instrument.",
-              "en": ""
+              "en": "Imitation and improvisation with voice, movement and instruments."
             },
             "coreElements": [
               "Musicerande och musikskapande"
@@ -83,7 +83,7 @@
             "code": "MU-1-3-3",
             "text": {
               "local": "Komposition med utgångspunkt i inspirationskällor, till exempel bild, rörel­se och musik.",
-              "en": ""
+              "en": "Composition based on sources of inspiration, for example images, movement and music."
             },
             "coreElements": [
               "Musicerande och musikskapande"
@@ -94,7 +94,7 @@
             "code": "MU-1-3-4",
             "text": {
               "local": "Gestaltning av sånger och berättelser med ljud, rytmer och rörelser.",
-              "en": ""
+              "en": "Performance of songs and stories with sounds, rhythms and movements."
             },
             "coreElements": [
               "Musicerande och musikskapande"
@@ -105,7 +105,7 @@
             "code": "MU-1-3-5",
             "text": {
               "local": "Rösten och hur den kan användas för musikaliska uttryck genom variation av klang, rytm och dynamik.",
-              "en": ""
+              "en": "The voice and how it can be used for musical expression through variation of timbre, rhythm and dynamics."
             },
             "coreElements": [
               "Musikens verktyg"
@@ -118,7 +118,7 @@
             "code": "MU-1-3-6",
             "text": {
               "local": "Slagverksinstrument, stränginstrument, tangentinstrument och digitala verk­tyg för musicerande och musikskapande.",
-              "en": ""
+              "en": "Percussion instruments, string instruments, keyboard instruments and digital tools for playing and creating music."
             },
             "coreElements": [
               "Musikens verktyg"
@@ -131,7 +131,7 @@
             "code": "MU-1-3-7",
             "text": {
               "local": "Röstvård och hörselvård vid sång, spel och lyssnande.",
-              "en": ""
+              "en": "Vocal care and hearing protection when singing, playing and listening."
             },
             "coreElements": [
               "Musikens verktyg"
@@ -142,7 +142,7 @@
             "code": "MU-1-3-8",
             "text": {
               "local": "Musikaliska byggstenar: puls, rytm, tempo, klang, tonhöjd och dynamik.",
-              "en": ""
+              "en": "Musical building blocks: pulse, rhythm, tempo, timbre, pitch and dynamics."
             },
             "coreElements": [
               "Musikens verktyg"
@@ -153,7 +153,7 @@
             "code": "MU-1-3-9",
             "text": {
               "local": "Musiksymboler, bilder och grundläggande notkännedom.",
-              "en": ""
+              "en": "Musical symbols, images and basic music notation knowledge."
             },
             "coreElements": [
               "Musikens verktyg"
@@ -164,7 +164,7 @@
             "code": "MU-1-3-10",
             "text": {
               "local": "Musik som knyter an till elevens vardagliga och högtidliga sammanhang, däri­bland nationalsången och några av de vanligaste psalmerna, samt in­blickar i svensk och nordisk barnvisetradition.",
-              "en": ""
+              "en": "Music connected to the pupil's everyday and ceremonial contexts, including the national anthem and some of the most common hymns, as well as insights into Swedish and Nordic children's song traditions."
             },
             "coreElements": [
               "Musikens sammanhang och funktioner"
@@ -175,7 +175,7 @@
             "code": "MU-1-3-11",
             "text": {
               "local": "Olika musikinstrument. Hur de låter, vad de heter och hur de ser ut.",
-              "en": ""
+              "en": "Different musical instruments. How they sound, what they are called and what they look like."
             },
             "coreElements": [
               "Musikens sammanhang och funktioner"
@@ -186,7 +186,7 @@
             "code": "MU-1-3-12",
             "text": {
               "local": "Associationer i form av tankar, känslor och inre bilder som uppkommer genom musikupplevelser.",
-              "en": ""
+              "en": "Associations in the form of thoughts, feelings and mental images that arise through musical experiences."
             },
             "coreElements": [
               "Musikens sammanhang och funktioner"
@@ -206,7 +206,7 @@
             "code": "MU-4-6-1",
             "text": {
               "local": "Sång, melodispel och ackompanjemang i olika genrer, unisont och i stämmor.",
-              "en": ""
+              "en": "Singing, melody playing and accompaniment in different genres, in unison and in parts."
             },
             "coreElements": [
               "Musicerande och musikskapande"
@@ -217,7 +217,7 @@
             "code": "MU-4-6-2",
             "text": {
               "local": "Imitation och improvisation med röst, rörelse och instrument med utgångs­punkt i musikaliska byggstenar.",
-              "en": ""
+              "en": "Imitation and improvisation with voice, movement and instruments based on musical building blocks."
             },
             "coreElements": [
               "Musicerande och musikskapande"
@@ -230,7 +230,7 @@
             "code": "MU-4-6-3",
             "text": {
               "local": "Komposition med utgångspunkt i musikaliska byggstenar.",
-              "en": ""
+              "en": "Composition based on musical building blocks."
             },
             "coreElements": [
               "Musicerande och musikskapande"
@@ -241,7 +241,7 @@
             "code": "MU-4-6-4",
             "text": {
               "local": "Gestaltning av idéer genom att musicera och genom att kombinera musik med andra uttrycksformer.",
-              "en": ""
+              "en": "Expression of ideas through making music and through combining music with other forms of expression."
             },
             "coreElements": [
               "Musicerande och musikskapande"
@@ -252,7 +252,7 @@
             "code": "MU-4-6-5",
             "text": {
               "local": "Rösten och hur den kan varieras och användas musikaliskt i olika vokala uttryck, till exempel sång, jojk och rap.",
-              "en": ""
+              "en": "The voice and how it can be varied and used musically in different vocal expressions, for example singing, joik and rap."
             },
             "coreElements": [
               "Musikens verktyg"
@@ -265,7 +265,7 @@
             "code": "MU-4-6-6",
             "text": {
               "local": "Ackord-, melodi-, bas- och slagverksinstrument samt digitala verktyg för musice­rande och musikskapande.",
-              "en": ""
+              "en": "Chord, melody, bass and percussion instruments, as well as digital tools for playing and creating music."
             },
             "coreElements": [
               "Musikens verktyg"
@@ -278,7 +278,7 @@
             "code": "MU-4-6-7",
             "text": {
               "local": "Röstvård och hörselvård vid musikaliska aktiviteter i olika miljöer.",
-              "en": ""
+              "en": "Vocal care and hearing protection during musical activities in different environments."
             },
             "coreElements": [
               "Musikens verktyg"
@@ -289,7 +289,7 @@
             "code": "MU-4-6-8",
             "text": {
               "local": "Musikaliska byggstenar: puls, rytm, tempo, taktarter, klang, tonhöjd, dyna­mik, fraser, perioder, musikalisk form och ackord.",
-              "en": ""
+              "en": "Musical building blocks: pulse, rhythm, tempo, time signatures, timbre, pitch, dynamics, phrases, periods, musical form and chords."
             },
             "coreElements": [
               "Musikens verktyg"
@@ -300,7 +300,7 @@
             "code": "MU-4-6-9",
             "text": {
               "local": "Musiksymboler, grafisk notation, ackordbeteckningar och grundläggande not­kännedom.",
-              "en": ""
+              "en": "Musical symbols, graphic notation, chord symbols and basic music notation knowledge."
             },
             "coreElements": [
               "Musikens verktyg"
@@ -311,7 +311,7 @@
             "code": "MU-4-6-10",
             "text": {
               "local": "Musikens påverkan på och betydelse för människa och samhälle. Hur musik kan uppfattas och användas i vardagliga och högtidliga sam­man­hang.",
-              "en": ""
+              "en": "The influence and significance of music for people and society. How music can be perceived and used in everyday and ceremonial contexts."
             },
             "coreElements": [
               "Musikens sammanhang och funktioner"
@@ -324,7 +324,7 @@
             "code": "MU-4-6-11",
             "text": {
               "local": "Musik tillsammans med bild, text och dans. Hur olika uttrycksformer kan sam­spela.",
-              "en": ""
+              "en": "Music together with images, text and dance. How different forms of expression can interact."
             },
             "coreElements": [
               "Musikens sammanhang och funktioner"
@@ -335,7 +335,7 @@
             "code": "MU-4-6-12",
             "text": {
               "local": "Musikinstrumentens funktioner i olika ensemble- och orkestertyper.",
-              "en": ""
+              "en": "The functions of musical instruments in different types of ensembles and orchestras."
             },
             "coreElements": [
               "Musikens sammanhang och funktioner"
@@ -346,7 +346,7 @@
             "code": "MU-4-6-13",
             "text": {
               "local": "Musikaliska karaktärsdrag i konstmusik, folkmusik och populärmusik från oli­ka kulturer.",
-              "en": ""
+              "en": "Musical characteristics in classical music, folk music and popular music from different cultures."
             },
             "coreElements": [
               "Musikens sammanhang och funktioner"
@@ -359,35 +359,35 @@
             "gradeStep": "E",
             "text": {
               "local": "Betygskriterier för betyget E i slutet av årskurs 6Eleven musicerar och genomför sina sång- och spelstämmor med viss säkerhet. Dessutom anpassar eleven i huvudsak sitt musicerande till det musikaliska sammanhanget. Genom musikaliskt skapande uttrycker eleven idéer och tankar på ett i huvudsak fungerande sätt. Eleven komponerar musikaliska uttryck som har en i huvudsak fungerande form. Eleven urskiljer och ger med viss säkerhet exempel på instrument och musikaliska karaktärsdrag i olika typer av musik. Dessutom uttrycker eleven viss förståelse för musikens innehåll, funktion och betydelse i något sammanhang.",
-              "en": ""
+              "en": "Grading criteria for grade E at the end of year 6. The pupil makes music and performs their singing and playing parts with some confidence. In addition, the pupil basically adapts their music-making to the musical context. Through musical creation, the pupil expresses ideas and thoughts in a basically functional way. The pupil composes musical expressions that have a basically functional form. The pupil distinguishes and gives examples with some confidence of instruments and musical characteristics in different types of music. In addition, the pupil expresses some understanding of the content, function and significance of music in some context."
             }
           },
           {
             "gradeStep": "D",
             "text": {
               "local": "Betygskriterier för betyget D i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan C och E.",
-              "en": ""
+              "en": "Grading criteria for grade D at the end of year 6. The pupil's knowledge is assessed overall as being between C and E."
             }
           },
           {
             "gradeStep": "C",
             "text": {
               "local": "Betygskriterier för betyget C i slutet av årskurs 6Eleven musicerar och genomför sina sång- och spelstämmor med relativt god säkerhet. Dessutom anpassar eleven väl sitt musicerande till det musikaliska sammanhanget. Genom musikaliskt skapande uttrycker eleven idéer och tankar på ett fungerande sätt. Eleven komponerar musikaliska uttryck som har en fungerande form. Eleven urskiljer och ger med relativt god säkerhet exempel på instrument och musikaliska karaktärsdrag i olika typer av musik. Dessutom uttrycker eleven relativt god förståelse för musikens innehåll, funktion och betydelse i något sammanhang.",
-              "en": ""
+              "en": "Grading criteria for grade C at the end of year 6. The pupil makes music and performs their singing and playing parts with relatively good confidence. In addition, the pupil adapts their music-making well to the musical context. Through musical creation, the pupil expresses ideas and thoughts in a functional way. The pupil composes musical expressions that have a functional form. The pupil distinguishes and gives examples with relatively good confidence of instruments and musical characteristics in different types of music. In addition, the pupil expresses relatively good understanding of the content, function and significance of music in some context."
             }
           },
           {
             "gradeStep": "B",
             "text": {
               "local": "Betygskriterier för betyget B i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan A och C.",
-              "en": ""
+              "en": "Grading criteria for grade B at the end of year 6. The pupil's knowledge is assessed overall as being between A and C."
             }
           },
           {
             "gradeStep": "A",
             "text": {
               "local": "Betygskriterier för betyget A i slutet av årskurs 6Eleven musicerar och genomför sina sång- och spelstämmor med god säkerhet. Dessutom anpassar eleven sitt musicerande mycket väl till det musikaliska sammanhanget. Genom musikaliskt skapande uttrycker eleven idéer och tankar på ett väl fungerande sätt. Eleven komponerar musikaliska uttryck som har en väl fungerande form. Eleven urskiljer och ger med god säkerhet exempel på instrument och musikaliska karaktärsdrag i olika typer av musik. Dessutom uttrycker eleven god förståelse för musikens innehåll, funktion och betydelse i något sammanhang.",
-              "en": ""
+              "en": "Grading criteria for grade A at the end of year 6. The pupil makes music and performs their singing and playing parts with good confidence. In addition, the pupil adapts their music-making very well to the musical context. Through musical creation, the pupil expresses ideas and thoughts in a well-functioning way. The pupil composes musical expressions that have a well-functioning form. The pupil distinguishes and gives examples with good confidence of instruments and musical characteristics in different types of music. In addition, the pupil expresses good understanding of the content, function and significance of music in some context."
             }
           }
         ]
@@ -403,7 +403,7 @@
             "code": "MU-7-9-1",
             "text": {
               "local": "Sång, melodispel och ackompanjemang med genretypiska musikaliska uttryck, unisont och i stämmor.",
-              "en": ""
+              "en": "Singing, melody playing and accompaniment with genre-typical musical expressions, in unison and in parts."
             },
             "coreElements": [
               "Musicerande och musikskapande"
@@ -414,7 +414,7 @@
             "code": "MU-7-9-2",
             "text": {
               "local": "Rytmisk och melodisk improvisation med röst, rörelse och instrument med ut­gångs­­punkt i musikaliska byggstenar.",
-              "en": ""
+              "en": "Rhythmic and melodic improvisation with voice, movement and instruments based on musical building blocks."
             },
             "coreElements": [
               "Musicerande och musikskapande"
@@ -427,7 +427,7 @@
             "code": "MU-7-9-3",
             "text": {
               "local": "Komposition i olika genrer, till exempel visor, ljudkompositioner och låtar.",
-              "en": ""
+              "en": "Composition in different genres, for example folk songs, sound compositions and songs."
             },
             "coreElements": [
               "Musicerande och musikskapande"
@@ -438,7 +438,7 @@
             "code": "MU-7-9-4",
             "text": {
               "local": "Gestaltning och kommunikation av musikaliska tankar och idéer i kom­bi­na­tion med andra uttrycksformer.",
-              "en": ""
+              "en": "Expression and communication of musical thoughts and ideas in combination with other forms of expression."
             },
             "coreElements": [
               "Musicerande och musikskapande"
@@ -449,7 +449,7 @@
             "code": "MU-7-9-5",
             "text": {
               "local": "Rösten och hur den kan varieras och användas för vokala uttryck inom oli­ka genrer och ensembletyper.",
-              "en": ""
+              "en": "The voice and how it can be varied and used for vocal expressions within different genres and types of ensembles."
             },
             "coreElements": [
               "Musikens verktyg"
@@ -462,7 +462,7 @@
             "code": "MU-7-9-6",
             "text": {
               "local": "Ackord-, melodi-, bas- och slagverksinstrument samt digitala verktyg för musice­rande och musikskapande.",
-              "en": ""
+              "en": "Chord, melody, bass and percussion instruments, as well as digital tools for playing and creating music."
             },
             "coreElements": [
               "Musikens verktyg"
@@ -475,7 +475,7 @@
             "code": "MU-7-9-7",
             "text": {
               "local": "Röstvård och hörselvård. Orsaker till att tal, sång, musiklyssnande och musice­rande kan bidra till skador samt hur dessa skador kan förebyggas.",
-              "en": ""
+              "en": "Vocal care and hearing protection. Causes of how speech, singing, listening to music and music-making can contribute to damage, and how such damage can be prevented."
             },
             "coreElements": [
               "Musikens verktyg"
@@ -486,7 +486,7 @@
             "code": "MU-7-9-8",
             "text": {
               "local": "Musikaliska byggstenar: puls, rytm, tempo, taktarter, klang, tonhöjd, dy­na­mik, fraser, perioder, musikalisk form, ackord, ackompanjemangsmodeller och basgångar.",
-              "en": ""
+              "en": "Musical building blocks: pulse, rhythm, tempo, time signatures, timbre, pitch, dynamics, phrases, periods, musical form, chords, accompaniment patterns and bass lines."
             },
             "coreElements": [
               "Musikens verktyg"
@@ -497,7 +497,7 @@
             "code": "MU-7-9-9",
             "text": {
               "local": "Musiksymboler, grafisk notation, ackordbeteckningar och grundläggande no­tkännedom.",
-              "en": ""
+              "en": "Musical symbols, graphic notation, chord symbols and basic music notation knowledge."
             },
             "coreElements": [
               "Musikens verktyg"
@@ -508,7 +508,7 @@
             "code": "MU-7-9-10",
             "text": {
               "local": "Musikens påverkan på och betydelse för människa och samhälle. Musikens funk­tion för att uttrycka identitet, normer och grupptillhörighet i olika kul­tu­rer och sociala sammanhang.",
-              "en": ""
+              "en": "The influence and significance of music for people and society. The function of music in expressing identity, norms and group belonging in different cultures and social contexts."
             },
             "coreElements": [
               "Musikens sammanhang och funktioner"
@@ -521,7 +521,7 @@
             "code": "MU-7-9-11",
             "text": {
               "local": "Hur musik används som meningsskapande uttrycksform i olika medier, till exempel i film och spel.",
-              "en": ""
+              "en": "How music is used as a meaning-making form of expression in different media, for example in film and games."
             },
             "coreElements": [
               "Musikens sammanhang och funktioner"
@@ -534,7 +534,7 @@
             "code": "MU-7-9-12",
             "text": {
               "local": "Rättigheter och skyldigheter vid bruk av musik i olika sammanhang.",
-              "en": ""
+              "en": "Rights and obligations when using music in different contexts."
             },
             "coreElements": [
               "Musikens sammanhang och funktioner"
@@ -545,7 +545,7 @@
             "code": "MU-7-9-13",
             "text": {
               "local": "Musikinstrumentens funktioner och uttryck i olika genrer och sam­man­hang.",
-              "en": ""
+              "en": "The functions and expressions of musical instruments in different genres and contexts."
             },
             "coreElements": [
               "Musikens sammanhang och funktioner"
@@ -556,7 +556,7 @@
             "code": "MU-7-9-14",
             "text": {
               "local": "Musikaliska karaktärsdrag i konstmusik, folkmusik och populärmusik från oli­ka tidsperioder. Framväxten av olika genrer samt några centrala ton­sätta­re, låtskrivare och musikaliska verk.",
-              "en": ""
+              "en": "Musical characteristics in classical music, folk music and popular music from different time periods. The emergence of different genres, as well as some key composers, songwriters and musical works."
             },
             "coreElements": [
               "Musikens sammanhang och funktioner"
@@ -569,35 +569,35 @@
             "gradeStep": "E",
             "text": {
               "local": "Betygskriterier för betyget E i slutet av årskurs 9Eleven musicerar och genomför sina sång- och spelstämmor med viss säkerhet. Dessutom anpassar eleven sitt musicerande i huvudsak till det musikaliska sammanhanget och musikens karaktär. Genom musikaliskt skapande uttrycker eleven idéer och tankar på ett i huvudsak fungerande sätt. Eleven komponerar musik som har en i huvudsak fungerande form och karaktäristisk stil. Eleven urskiljer och jämför musikaliska karaktärsdrag i musik från olika tidsperioder och genrer med viss säkerhet. Dessutom uttrycker eleven viss förståelse för musikens innehåll, funktion och betydelse i olika sammanhang.",
-              "en": ""
+              "en": "Grading criteria for grade E at the end of year 9. The pupil makes music and performs their singing and playing parts with some confidence. In addition, the pupil basically adapts their music-making to the musical context and the character of the music. Through musical creation, the pupil expresses ideas and thoughts in a basically functional way. The pupil composes music that has a basically functional form and characteristic style. The pupil distinguishes and compares musical characteristics in music from different time periods and genres with some confidence. In addition, the pupil expresses some understanding of the content, function and significance of music in different contexts."
             }
           },
           {
             "gradeStep": "D",
             "text": {
               "local": "Betygskriterier för betyget D i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan C och E.",
-              "en": ""
+              "en": "Grading criteria for grade D at the end of year 9. The pupil's knowledge is assessed overall as being between C and E."
             }
           },
           {
             "gradeStep": "C",
             "text": {
               "local": "Betygskriterier för betyget C i slutet av årskurs 9Eleven musicerar och genomför sina sång- och spelstämmor med relativt god säkerhet. Dessutom anpassar eleven sitt musicerande väl till det musikaliska sammanhanget och musikens karaktär. Genom musikaliskt skapande uttrycker eleven idéer och tankar på ett fungerande sätt. Eleven komponerar musik som har en fungerande form och karaktäristisk stil. Eleven urskiljer och jämför musikaliska karaktärsdrag från olika tidsperioder och genrer med relativt god säkerhet. Eleven uttrycker relativt god förståelse för musikens innehåll, funktion och betydelse i olika sammanhang.",
-              "en": ""
+              "en": "Grading criteria for grade C at the end of year 9. The pupil makes music and performs their singing and playing parts with relatively good confidence. In addition, the pupil adapts their music-making well to the musical context and the character of the music. Through musical creation, the pupil expresses ideas and thoughts in a functional way. The pupil composes music that has a functional form and characteristic style. The pupil distinguishes and compares musical characteristics from different time periods and genres with relatively good confidence. The pupil expresses relatively good understanding of the content, function and significance of music in different contexts."
             }
           },
           {
             "gradeStep": "B",
             "text": {
               "local": "Betygskriterier för betyget B i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan A och C.",
-              "en": ""
+              "en": "Grading criteria for grade B at the end of year 9. The pupil's knowledge is assessed overall as being between A and C."
             }
           },
           {
             "gradeStep": "A",
             "text": {
               "local": "Betygskriterier för betyget A i slutet av årskurs 9Eleven musicerar och genomför sina sång- och spelstämmor med god säkerhet. Dessutom anpassar eleven sitt musicerande mycket väl till det musikaliska sammanhanget och musikens karaktär. Genom musikaliskt skapande uttrycker eleven idéer och tankar på ett väl fungerande sätt. Eleven komponerar musik som har en väl fungerande form och karaktäristisk stil. Eleven urskiljer och jämför musikaliska karaktärsdrag från olika tidsperioder och genrer med god säkerhet. Dessutom uttrycker eleven god förståelse för musikens innehåll, funktion och betydelse i olika sammanhang.",
-              "en": ""
+              "en": "Grading criteria for grade A at the end of year 9. The pupil makes music and performs their singing and playing parts with good confidence. In addition, the pupil adapts their music-making very well to the musical context and the character of the music. Through musical creation, the pupil expresses ideas and thoughts in a well-functioning way. The pupil composes music that has a well-functioning form and characteristic style. The pupil distinguishes and compares musical characteristics from different time periods and genres with good confidence. In addition, the pupil expresses good understanding of the content, function and significance of music in different contexts."
             }
           }
         ]

@@ -10,29 +10,29 @@
     "code": "ARB01-03",
     "name": {
       "local": "Læreplan for arbeidslivsfag på ungdomstrinnet",
-      "en": "Læreplan for arbeidslivsfag på ungdomstrinnet"
+      "en": "Curriculum for Work-Life Studies"
     },
     "coreElements": [
       {
         "code": "KE103",
         "name": {
           "local": "Praktiske og yrkesrettede arbeidsoppdrag",
-          "en": "Praktiske og yrkesrettede arbeidsoppdrag"
+          "en": "Practical and vocational work assignments"
         },
         "description": {
           "local": "I arbeidslivsfag produserer elevene varer og tjenester som det er behov for i samfunnet. De gjør seg erfaringer med reelle og virkelighetsnære arbeidssituasjoner. De bruker interne og eksterne læringsarenaer. De utvikler et begrepsapparat og ferdigheter knyttet til arbeidslivet. Elevene bruker bærekraftige prinsipper der økonomiske, sosiale og miljømessige forhold hører sammen i alle deler av arbeidsprosessen.",
-          "en": "I arbeidslivsfag produserer elevene varer og tjenester som det er behov for i samfunnet. De gjør seg erfaringer med reelle og virkelighetsnære arbeidssituasjoner. De bruker interne og eksterne læringsarenaer. De utvikler et begrepsapparat og ferdigheter knyttet til arbeidslivet. Elevene bruker bærekraftige prinsipper der økonomiske, sosiale og miljømessige forhold hører sammen i alle deler av arbeidsprosessen."
+          "en": "In work-life studies, pupils produce goods and services that are needed in society. They gain experience with real and realistic work situations. They use internal and external learning arenas. They develop a vocabulary and skills related to working life. The pupils use sustainable principles where economic, social and environmental factors are interconnected in all parts of the work process."
         }
       },
       {
         "code": "KE104",
         "name": {
           "local": "Arbeidsfellesskap og helse, miljø og sikkerhet i arbeidsoppdraget",
-          "en": "Arbeidsfellesskap og helse, miljø og sikkerhet i arbeidsoppdraget"
+          "en": "Work community and health, environment and safety in work assignments"
         },
         "description": {
           "local": "Elevene følger arbeidslivets regler, forskrifter og etiske retningslinjer og gjør en risikovurdering ved behov. De medvirker i beslutningsprosesser både som leder og medarbeider, tar ansvar for egen arbeidsplass, vurderer sin egen og medelevers arbeidsinnsats og jobber på selvstendig grunnlag. Elevene utfordrer tradisjonelle oppfatninger av yrkesliv og likestilling ved å prøve ut arbeidsoppgaver knyttet til ulike yrker.",
-          "en": "Elevene følger arbeidslivets regler, forskrifter og etiske retningslinjer og gjør en risikovurdering ved behov. De medvirker i beslutningsprosesser både som leder og medarbeider, tar ansvar for egen arbeidsplass, vurderer sin egen og medelevers arbeidsinnsats og jobber på selvstendig grunnlag. Elevene utfordrer tradisjonelle oppfatninger av yrkesliv og likestilling ved å prøve ut arbeidsoppgaver knyttet til ulike yrker."
+          "en": "The pupils follow the rules, regulations and ethical guidelines of working life and carry out risk assessments when needed. They participate in decision-making processes both as leaders and co-workers, take responsibility for their own workplace, assess their own and fellow pupils work efforts, and work independently. The pupils challenge traditional perceptions of occupations and equality by trying out work tasks related to different professions."
         }
       }
     ],
@@ -41,7 +41,7 @@
         "afterGrade": 10,
         "label": {
           "local": "Arbeidslivsfag",
-          "en": "Arbeidslivsfag"
+          "en": "Work-Life Studies"
         },
         "competenceGoals": [
           {

@@ -17,33 +17,33 @@
         "code": "S1",
         "name": {
           "local": "S1 Fyysinen toimintakyky",
-          "en": ""
+          "en": "S1 Physical functional capacity"
         },
         "description": {
           "local": "Opetukseen sisältyy runsaasti fyysisesti aktiivista toimintaa. Liikunnan opetukseen valitaan havainto- ja ratkaisuntekotaitoja ja niiden soveltamista monipuolisesti kehittäviä turvallisia tehtäviä (kuten liikuntaleikit ja pallopelit). Tasapaino-, liikkumis- ja välineenkäsittelytaitoja vahvistetaan liikuntamuotojen (kuten jää-, lumi-, luonto-, perus-, musiikki- ja tanssiliikunta sekä palloilut ja voimistelut) ja liikuntalajien avulla monipuolisesti eri vuodenaikoina ja erilaisissa oppimisympäristöissä. Liikunnan opetukseen kuuluu uinnin, vesiliikunnan ja vesipelastuksen opetusta.\n\nMonipuoliset tehtävät, leikit, harjoitteet ja pelit mahdollistavat osallisuuden, pätevyyden, itsenäisyyden sekä kehollisen ilmaisun ja esteettisyyden kokemuksia. Liikunnan opetukseen valitaan tehtäviä, joilla opetellaan harjoittelemaan voimaa, nopeutta, kestävyyttä ja liikkuvuutta. Liikuntatehtävien avulla oppilaat oppivat arvioimaan, ylläpitämään ja kehittämään omaa fyysistä toimintakykyään. Valtakunnallisen fyysisen toimintakyvyn seurantajärjestelmä Move!:n mittaukset tehdään niin, että ne tukevat 8. vuosiluokalla koulussa järjestettäviä laajoja terveystarkastuksia.",
-          "en": ""
+          "en": "Teaching includes a great deal of physically active activity. Safe tasks that develop perceptual and decision-making skills and their versatile application are selected for physical education (such as movement games and ball games). Balance, locomotion and object control skills are strengthened through various forms of physical activity (such as ice, snow, outdoor, basic, music and dance activities as well as ball games and gymnastics) and sports in a versatile manner across different seasons and in various learning environments. Physical education includes instruction in swimming, water activities and water rescue.\n\nVersatile tasks, games, exercises and sports enable experiences of participation, competence, autonomy and bodily expression and aesthetics. Tasks are selected for physical education that teach pupils to practise strength, speed, endurance and flexibility. Through physical activity tasks, pupils learn to evaluate, maintain and develop their own physical functional capacity. The measurements of the national Move! physical functional capacity monitoring system are conducted in a manner that supports the comprehensive health examinations organised in schools in grade 8."
         }
       },
       {
         "code": "S2",
         "name": {
           "local": "S2 Sosiaalinen toimintakyky",
-          "en": ""
+          "en": "S2 Social functional capacity"
         },
         "description": {
           "local": "Liikuntatehtävien avulla oppilaat oppivat arvioimaan ja kehittämään omaa sosiaalista toimintakykyään. Liikunnan opetukseen valitaan erilaisia pari- ja ryhmätehtäviä, leikkejä, harjoituksia ja pelejä, joissa opitaan ottamaan toiset huomioon sekä auttamaan ja avustamaan muita. Tehtävien myötä opitaan vastuun ottamista yhteisistä asioista ja niiden järjestelyistä sekä säännöistä. Myönteistä yhteisöllisyyttä lisätään ryhmätehtävillä.",
-          "en": ""
+          "en": "Through physical activity tasks, pupils learn to evaluate and develop their own social functional capacity. Various pair and group tasks, games, exercises and sports are selected for physical education, in which pupils learn to take others into account and to help and assist others. Through the tasks, pupils learn to take responsibility for shared matters, their organisation and rules. Positive sense of community is enhanced through group tasks."
         }
       },
       {
         "code": "S3",
         "name": {
           "local": "S3 Psyykkinen toimintakyky",
-          "en": ""
+          "en": "S3 Psychological functional capacity"
         },
         "description": {
           "local": "Liikunnan opetuksessa käytetään tehtäviä, joissa opitaan pitkäjännitteisesti ponnistelemaan yksin ja yhdessä muiden kanssa tavoitteen saavuttamiseksi. Erilaisilla tehtävillä harjoitellaan vastuun ottamista. Iloa ja virkistystä tuottavilla liikuntatehtävillä edistetään myönteisten tunteiden kokemista, jotka vahvistavat pätevyyden kokemuksia ja myönteistä minäkäsitystä. Opetuksen yhteydessä annetaan tietoa liikunnan merkityksestä kasvulle ja kehitykselle, tutustutaan harjoittelun periaatteisiin sekä annetaan tietoa liikunnan harrastusmahdollisuuksista ja toimintatavoista eri liikuntamuodoissa.",
-          "en": ""
+          "en": "Physical education uses tasks in which pupils learn to make sustained effort both independently and together with others to achieve goals. Various tasks are used to practise taking responsibility. Physical activity tasks that produce joy and refreshment promote the experience of positive emotions, which strengthen feelings of competence and a positive self-concept. In connection with teaching, information is provided about the significance of physical activity for growth and development, training principles are introduced, and information is given about opportunities for physical activity and the practices of different forms of exercise."
         }
       }
     ],
@@ -59,10 +59,10 @@
             "code": "T1",
             "text": {
               "local": "T1 kannustaa oppilasta fyysiseen aktiivisuuteen, kokeilemaan itsenäisesti ja yhdessä uusia, erilaisia liikuntatehtäviä sekä rohkaista ilmaisemaan itseään liikunnan avulla",
-              "en": ""
+              "en": "T1 encourage the pupil towards physical activity, to try new and different movement tasks independently and together, and to encourage self-expression through physical activity"
             },
             "coreElements": [
-              "S1"
+              "S1 Fyysinen toimintakyky"
             ],
             "verbs": []
           },
@@ -70,10 +70,10 @@
             "code": "T2",
             "text": {
               "local": "T2 ohjata oppilasta harjaannuttamaan havaintomotorisia taitojaan eli havainnoimaan itseään ja ympäristöään aistien avulla sekä tekemään liikuntatilanteisiin sopivia ratkaisuja",
-              "en": ""
+              "en": "T2 guide the pupil to develop their perceptual-motor skills, i.e. to observe themselves and their environment through the senses and to make decisions appropriate to movement situations"
             },
             "coreElements": [
-              "S1"
+              "S1 Fyysinen toimintakyky"
             ],
             "verbs": []
           },
@@ -81,10 +81,10 @@
             "code": "T3",
             "text": {
               "local": "T3 vahvistaa motoristen perustaitojen (tasapaino-, liikkumis- ja välineenkäsittelytaidot) oppimista niin, että oppilas oppii soveltamaan niitä eri oppimisympäristöissä, eri tilanteissa ja eri vuodenaikoina",
-              "en": ""
+              "en": "T3 strengthen the learning of fundamental motor skills (balance, locomotion and object control skills) so that the pupil learns to apply them in different learning environments, situations and seasons"
             },
             "coreElements": [
-              "S1"
+              "S1 Fyysinen toimintakyky"
             ],
             "verbs": []
           },
@@ -92,10 +92,10 @@
             "code": "T4",
             "text": {
               "local": "T4 harjaannuttaa oppilasta liikkumaan turvallisesti erilaisissa ympäristöissä, erilaisilla välineillä ja telineillä",
-              "en": ""
+              "en": "T4 train the pupil to move safely in different environments, with different equipment and on different apparatus"
             },
             "coreElements": [
-              "S1"
+              "S1 Fyysinen toimintakyky"
             ],
             "verbs": []
           },
@@ -103,10 +103,10 @@
             "code": "T5",
             "text": {
               "local": "T5 tutustuttaa oppilas vesiliikuntaan ja varmistaa alkeisuimataito",
-              "en": ""
+              "en": "T5 introduce the pupil to water activities and ensure basic swimming skills"
             },
             "coreElements": [
-              "S1"
+              "S1 Fyysinen toimintakyky"
             ],
             "verbs": []
           },
@@ -114,10 +114,10 @@
             "code": "T6",
             "text": {
               "local": "T6 ohjata oppilasta turvalliseen ja asialliseen toimintaan liikuntatunneilla",
-              "en": ""
+              "en": "T6 guide the pupil towards safe and appropriate behaviour in physical education lessons"
             },
             "coreElements": [
-              "S1"
+              "S1 Fyysinen toimintakyky"
             ],
             "verbs": []
           },
@@ -125,10 +125,10 @@
             "code": "T7",
             "text": {
               "local": "T7 ohjata oppilasta säätelemään toimintaansa ja tunneilmaisuaan vuorovaikutuksellisissa liikuntatilanteissa",
-              "en": ""
+              "en": "T7 guide the pupil to regulate their behaviour and emotional expression in interactive movement situations"
             },
             "coreElements": [
-              "S2"
+              "S2 Sosiaalinen toimintakyky"
             ],
             "verbs": []
           },
@@ -136,10 +136,10 @@
             "code": "T8",
             "text": {
               "local": "T8 tukea yhdessä työskentelyn taitoja, kuten yhdessä sovittujen sääntöjen noudattamista, ohjaamalla oppilasta ottamaan vastuuta yhteispelien ja -leikkien onnistumisesta",
-              "en": ""
+              "en": "T8 support collaborative working skills, such as following jointly agreed rules, by guiding the pupil to take responsibility for the success of shared games and activities"
             },
             "coreElements": [
-              "S2"
+              "S2 Sosiaalinen toimintakyky"
             ],
             "verbs": []
           },
@@ -147,10 +147,10 @@
             "code": "T9",
             "text": {
               "local": "T9 tukea oppilaan myönteisen minäkäsityksen vahvistumista, ohjata itsenäiseen työskentelyyn sekä itsensä monipuoliseen ilmaisemiseen.",
-              "en": ""
+              "en": "T9 support the strengthening of the pupil's positive self-concept, guide them towards independent work and versatile self-expression"
             },
             "coreElements": [
-              "S3"
+              "S3 Psyykkinen toimintakyky"
             ],
             "verbs": []
           },
@@ -158,10 +158,10 @@
             "code": "T10",
             "text": {
               "local": "T10 varmistaa myönteisten liikunnallisten kokemusten saaminen ja rohkaista oppilasta kokeilemaan oman toimintakykynsä rajoja",
-              "en": ""
+              "en": "T10 ensure that the pupil gains positive movement experiences and encourage them to test the limits of their own functional capacity"
             },
             "coreElements": [
-              "S3"
+              "S3 Psyykkinen toimintakyky"
             ],
             "verbs": []
           }
@@ -178,10 +178,10 @@
             "code": "T1",
             "text": {
               "local": "T1 kannustaa oppilaita fyysiseen aktiivisuuteen, kokeilemaan erilaisia liikuntatehtäviä ja harjoittelemaan parhaansa yrittäen.",
-              "en": ""
+              "en": "T1 encourage pupils towards physical activity, to try different movement tasks and to practise while trying their best"
             },
             "coreElements": [
-              "S1"
+              "S1 Fyysinen toimintakyky"
             ],
             "verbs": []
           },
@@ -189,10 +189,10 @@
             "code": "T2",
             "text": {
               "local": "T2 ohjata oppilasta harjaannuttamaan havaintomotorisia taitojaan eli havainnoimaan itseään ja ympäristöään aistien avulla sekä tekemään liikuntatilanteisiin sopivia ratkaisuja.",
-              "en": ""
+              "en": "T2 guide the pupil to develop their perceptual-motor skills, i.e. to observe themselves and their environment through the senses and to make decisions appropriate to movement situations"
             },
             "coreElements": [
-              "S1"
+              "S1 Fyysinen toimintakyky"
             ],
             "verbs": []
           },
@@ -200,10 +200,10 @@
             "code": "T3",
             "text": {
               "local": "T3 ohjata oppilasta sekä vahvistamaan tasapaino- ja liikkumistaitojaan että soveltamaan niitä monipuolisesti erilaisissa oppimisympäristöissä, eri vuodenaikoina sekä eri tilanteissa.",
-              "en": ""
+              "en": "T3 guide the pupil both to strengthen their balance and locomotion skills and to apply them in a versatile manner in different learning environments, seasons and situations"
             },
             "coreElements": [
-              "S1"
+              "S1 Fyysinen toimintakyky"
             ],
             "verbs": []
           },
@@ -211,10 +211,10 @@
             "code": "T4",
             "text": {
               "local": "T4 ohjata oppilasta sekä vahvistamaan että soveltamaan välineenkäsittelytaitojaan monipuolisesti erilaisissa oppimisympäristöissä käyttämällä erilaisia välineitä eri vuodenaikoina erilaisissa tilanteissa.",
-              "en": ""
+              "en": "T4 guide the pupil both to strengthen and to apply their object control skills in a versatile manner in different learning environments, using different equipment in different seasons and situations"
             },
             "coreElements": [
-              "S1"
+              "S1 Fyysinen toimintakyky"
             ],
             "verbs": []
           },
@@ -222,10 +222,10 @@
             "code": "T5",
             "text": {
               "local": "T5 kannustaa ja ohjata oppilasta arvioimaan, ylläpitämään ja kehittämään fyysisiä ominaisuuksiaan: nopeutta, liikkuvuutta, kestävyyttä ja voimaa.",
-              "en": ""
+              "en": "T5 encourage and guide the pupil to evaluate, maintain and develop their physical capacities: speed, flexibility, endurance and strength"
             },
             "coreElements": [
-              "S1"
+              "S1 Fyysinen toimintakyky"
             ],
             "verbs": []
           },
@@ -233,10 +233,10 @@
             "code": "T6",
             "text": {
               "local": "T6 opettaa uimataito, jotta oppilas pystyy liikkumaan vedessä ja pelastautumaan vedestä",
-              "en": ""
+              "en": "T6 teach swimming skills so that the pupil is able to move in water and rescue themselves from water"
             },
             "coreElements": [
-              "S1"
+              "S1 Fyysinen toimintakyky"
             ],
             "verbs": []
           },
@@ -244,10 +244,10 @@
             "code": "T7",
             "text": {
               "local": "T7 ohjata oppilasta turvalliseen ja asialliseen toimintaan liikuntatunneilla.",
-              "en": ""
+              "en": "T7 guide the pupil towards safe and appropriate behaviour in physical education lessons"
             },
             "coreElements": [
-              "S1"
+              "S1 Fyysinen toimintakyky"
             ],
             "verbs": []
           },
@@ -255,10 +255,10 @@
             "code": "T8",
             "text": {
               "local": "T8 ohjata oppilasta työskentelemään kaikkien kanssa sekä säätelemään toimintaansa ja tunneilmaisuaan liikuntatilanteissa toiset huomioon ottaen.",
-              "en": ""
+              "en": "T8 guide the pupil to work with everyone and to regulate their behaviour and emotional expression in movement situations while taking others into account"
             },
             "coreElements": [
-              "S2"
+              "S2 Sosiaalinen toimintakyky"
             ],
             "verbs": []
           },
@@ -266,10 +266,10 @@
             "code": "T9",
             "text": {
               "local": "T9 ohjata oppilasta toimimaan reilun pelin periaatteella sekä kantamaan vastuuta yhteisistä oppimistilanteista.",
-              "en": ""
+              "en": "T9 guide the pupil to act according to the principles of fair play and to take responsibility for shared learning situations"
             },
             "coreElements": [
-              "S2"
+              "S2 Sosiaalinen toimintakyky"
             ],
             "verbs": []
           },
@@ -277,10 +277,10 @@
             "code": "T10",
             "text": {
               "local": "T10 kannustaa oppilasta ottamaan vastuuta omasta toiminnasta ja vahvistaa itsenäisen työskentelyn taitoja.",
-              "en": ""
+              "en": "T10 encourage the pupil to take responsibility for their own actions and strengthen independent working skills"
             },
             "coreElements": [
-              "S3"
+              "S3 Psyykkinen toimintakyky"
             ],
             "verbs": []
           },
@@ -288,10 +288,10 @@
             "code": "T11",
             "text": {
               "local": "T11 huolehtia siitä, että oppilaat saavat riittävästi myönteisiä kokemuksia omasta kehosta, pätevyydestä ja yhteisöllisyydestä.",
-              "en": ""
+              "en": "T11 ensure that pupils gain sufficient positive experiences of their own body, competence and sense of community"
             },
             "coreElements": [
-              "S3"
+              "S3 Psyykkinen toimintakyky"
             ],
             "verbs": []
           }
@@ -308,10 +308,10 @@
             "code": "T1",
             "text": {
               "local": "T1 kannustaa oppilasta fyysiseen aktiivisuuteen, kokeilemaan erilaisia liikuntamuotoja ja harjoittelemaan parhaansa yrittäen",
-              "en": ""
+              "en": "T1 encourage the pupil towards physical activity, to try different forms of exercise and to practise while trying their best"
             },
             "coreElements": [
-              "S1"
+              "S1 Fyysinen toimintakyky"
             ],
             "verbs": []
           },
@@ -319,10 +319,10 @@
             "code": "T2",
             "text": {
               "local": "T2 ohjata oppilasta harjaannuttamaan havaintomotorisia taitojaan eli havainnoimaan itseään ja ympäristöään aistien avulla sekä tekemään liikuntatilanteisiin sopivia ratkaisuja",
-              "en": ""
+              "en": "T2 guide the pupil to develop their perceptual-motor skills, i.e. to observe themselves and their environment through the senses and to make decisions appropriate to movement situations"
             },
             "coreElements": [
-              "S1"
+              "S1 Fyysinen toimintakyky"
             ],
             "verbs": []
           },
@@ -330,10 +330,10 @@
             "code": "T3",
             "text": {
               "local": "T3 ohjata oppilasta harjoittelun avulla kehittämään tasapaino- ja liikkumistaitojaan, jotta oppilas osaa käyttää, yhdistää ja soveltaa niitä monipuolisesti erilaisissa oppimisympäristöissä, eri vuodenaikoina ja eri liikuntamuodoissa",
-              "en": ""
+              "en": "T3 guide the pupil through practice to develop their balance and locomotion skills so that they can use, combine and apply them in a versatile manner in different learning environments, seasons and forms of exercise"
             },
             "coreElements": [
-              "S1"
+              "S1 Fyysinen toimintakyky"
             ],
             "verbs": []
           },
@@ -341,10 +341,10 @@
             "code": "T4",
             "text": {
               "local": "T4 ohjata oppilasta harjoittelun avulla kehittämään välineenkäsittelytaitojaan, jotta oppilas osaa käyttää, yhdistää ja soveltaa niitä monipuolisesti erilaisissa oppimisympäristöissä, eri välineillä, eri vuodenaikoina ja eri liikuntamuodoissa",
-              "en": ""
+              "en": "T4 guide the pupil through practice to develop their object control skills so that they can use, combine and apply them in a versatile manner in different learning environments, with different equipment, in different seasons and in different forms of exercise"
             },
             "coreElements": [
-              "S1"
+              "S1 Fyysinen toimintakyky"
             ],
             "verbs": []
           },
@@ -352,10 +352,10 @@
             "code": "T5",
             "text": {
               "local": "T5 kannustaa ja ohjata oppilasta arvioimaan, ylläpitämään ja kehittämään fyysisiä ominaisuuksiaan: voimaa, nopeutta, kestävyyttä ja liikkuvuutta",
-              "en": ""
+              "en": "T5 encourage and guide the pupil to evaluate, maintain and develop their physical capacities: strength, speed, endurance and flexibility"
             },
             "coreElements": [
-              "S1"
+              "S1 Fyysinen toimintakyky"
             ],
             "verbs": []
           },
@@ -363,10 +363,10 @@
             "code": "T6",
             "text": {
               "local": "T6 vahvistaa uima- ja vesipelastustaitoja, jotta oppilas osaa sekä uida että pelastautua ja pelastaa vedestä",
-              "en": ""
+              "en": "T6 strengthen swimming and water rescue skills so that the pupil can both swim and rescue themselves and others from water"
             },
             "coreElements": [
-              "S1"
+              "S1 Fyysinen toimintakyky"
             ],
             "verbs": []
           },
@@ -374,10 +374,10 @@
             "code": "T7",
             "text": {
               "local": "T7 ohjata oppilasta turvalliseen ja asialliseen toimintaan",
-              "en": ""
+              "en": "T7 guide the pupil towards safe and appropriate behaviour"
             },
             "coreElements": [
-              "S1"
+              "S1 Fyysinen toimintakyky"
             ],
             "verbs": []
           },
@@ -385,10 +385,10 @@
             "code": "T8",
             "text": {
               "local": "T8 ohjata oppilasta työskentelemään kaikkien kanssa sekä säätelemään toimintaansa ja tunneilmaisuaan liikuntatilanteissa toiset huomioon ottaen",
-              "en": ""
+              "en": "T8 guide the pupil to work with everyone and to regulate their behaviour and emotional expression in movement situations while taking others into account"
             },
             "coreElements": [
-              "S2"
+              "S2 Sosiaalinen toimintakyky"
             ],
             "verbs": []
           },
@@ -396,10 +396,10 @@
             "code": "T9",
             "text": {
               "local": "T9 ohjata oppilasta toimimaan reilun pelin periaatteella sekä ottamaan vastuuta yhteisistä oppimistilanteista",
-              "en": ""
+              "en": "T9 guide the pupil to act according to the principles of fair play and to take responsibility for shared learning situations"
             },
             "coreElements": [
-              "S2"
+              "S2 Sosiaalinen toimintakyky"
             ],
             "verbs": []
           },
@@ -407,10 +407,10 @@
             "code": "T10",
             "text": {
               "local": "T10 kannustaa oppilasta ottamaan vastuuta omasta toiminnasta ja vahvistaa oppilaan itsenäisen työskentelyn taitoja",
-              "en": ""
+              "en": "T10 encourage the pupil to take responsibility for their own actions and strengthen the pupil's independent working skills"
             },
             "coreElements": [
-              "S3"
+              "S3 Psyykkinen toimintakyky"
             ],
             "verbs": []
           },
@@ -418,10 +418,10 @@
             "code": "T11",
             "text": {
               "local": "T11 huolehtia siitä, että oppilaat saavat riittävästi myönteisiä kokemuksia omasta kehosta, pätevyydestä ja yhteisöllisyydestä",
-              "en": ""
+              "en": "T11 ensure that pupils gain sufficient positive experiences of their own body, competence and sense of community"
             },
             "coreElements": [
-              "S3"
+              "S3 Psyykkinen toimintakyky"
             ],
             "verbs": []
           },
@@ -429,10 +429,10 @@
             "code": "T12",
             "text": {
               "local": "T12 auttaa oppilasta ymmärtämään riittävän fyysisen aktiivisuuden ja liikunnallisen elämäntavan merkitys kokonaisvaltaiselle hyvinvoinnille",
-              "en": ""
+              "en": "T12 help the pupil understand the significance of sufficient physical activity and an active lifestyle for overall well-being"
             },
             "coreElements": [
-              "S3"
+              "S3 Psyykkinen toimintakyky"
             ],
             "verbs": []
           },
@@ -440,10 +440,10 @@
             "code": "T13",
             "text": {
               "local": "T13 tutustuttaa oppilas yleisten liikuntamuotojen harrastamiseen liittyviin mahdollisuuksiin, tietoihin ja taitoihin, jotta hän saa edellytyksiä löytää itselleen sopivia iloa ja virkistystä tuottavia liikuntaharrastuksia",
-              "en": ""
+              "en": "T13 introduce the pupil to the opportunities, knowledge and skills related to common forms of exercise so that they have the prerequisites to find enjoyable and refreshing physical activity hobbies suitable for them"
             },
             "coreElements": [
-              "S3"
+              "S3 Psyykkinen toimintakyky"
             ],
             "verbs": []
           }

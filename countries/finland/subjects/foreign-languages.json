@@ -17,33 +17,33 @@
         "code": "S1",
         "name": {
           "local": "S1 Kasvu kulttuuriseen moninaisuuteen ja kielitietoisuuteen",
-          "en": ""
+          "en": "S1 Growing into Cultural Diversity and Language Awareness"
         },
         "description": {
           "local": "Rakennetaan ymmärrystä maailman moni- ja rinnakkaiskielisyydestä sekä kielellisistä oikeuksista. Tutkitaan englannin kielen kehittymistä globaaliksi lingua francaksi. Otetaan selkoa joidenkin sellaisten maiden kulttuureista ja elämänmuodoista, joissa englanti on keskeisin yhteiskunnassa käytetty kieli. Käytetään sellaisia kielitiedon käsitteitä, jotka auttavat oppilaita englannin kielen opiskelussa sekä kielten välisessä vertailussa. Hankitaan tietoa joistakin englannin kielen varianteista.",
-          "en": ""
+          "en": "An understanding of the multilingual and parallel-language nature of the world and of linguistic rights is built. The development of English as a global lingua franca is investigated. The cultures and ways of life of some countries where English is the primary language used in society are explored. Linguistic concepts that help pupils in the study of English and in comparing languages are used. Information about some varieties of English is acquired."
         }
       },
       {
         "code": "S2",
         "name": {
           "local": "S2 Kielenopiskelutaidot",
-          "en": ""
+          "en": "S2 Language Learning Skills"
         },
         "description": {
           "local": "Vahvistetaan edelleen kieltenopiskelutaitoja. Harjoitellaan oppimateriaalin monipuolista käyttöä, sanastojen käyttöä, kokonaisuuksien hahmottamista, ryhmittelyä, tiedon hakemista ja tiedon luotettavuuden arviointia.",
-          "en": ""
+          "en": "Language learning skills are further strengthened. The versatile use of learning materials, the use of dictionaries, perceiving overall structures, categorisation, information retrieval, and evaluating the reliability of information are practised."
         }
       },
       {
         "code": "S3",
         "name": {
           "local": "S3 Kehittyvä kielitaito, taito toimia vuorovaikutuksessa, taito tulkita tekstejä, taito tuottaa tekstejä",
-          "en": ""
+          "en": "S3 Developing Language Proficiency: Interaction Skills, Text Interpretation Skills, Text Production Skills"
         },
         "description": {
           "local": "Sisältöjä yhdessä valittaessa näkökulmana on nuoren toiminta englannin kielellä eri yhteisöissä, ajankohtaisuus, oppilaiden kiinnostuksen kohteet, suuntautuminen toisen asteen opintoihin sekä tutustuminen nuorten työelämässä ja opiskelussa tarvittavaan kielitaitoon sekä oppilaiden osallisuus ja toimijuus paikallisesti ja globaalisti. Otetaan huomioon englannin kielen levinneisyys ja asema globaalin kommunikaation kielenä. Sanastoa ja rakenteita opetellaan monenlaisista teksteistä, kuten kertovista, kuvaavista tai vaikuttavista teksteistä. Havainnoidaan ja harjoitellaan runsaasti erilaisia vuorovaikutustilanteita eri viestintäkanavia hyödyntäen.",
-          "en": ""
+          "en": "When selecting content collaboratively, the perspective is the young person's use of English in different communities, topicality, pupils' interests, orientation towards upper secondary studies, and familiarisation with the language skills needed by young people in working life and studies, as well as pupils' participation and agency locally and globally. The spread and status of English as a language of global communication are taken into account. Vocabulary and structures are studied from various types of texts, such as narrative, descriptive, or persuasive texts. Various interaction situations are extensively observed and practised using different communication channels."
         }
       }
     ],
@@ -59,10 +59,10 @@
             "code": "T1",
             "text": {
               "local": "T1 ohjata oppilasta havaitsemaan lähiympäristön ja maailman kielellinen ja kulttuurinen runsaus sekä englannin asema globaalin viestinnän kielenä",
-              "en": ""
+              "en": "T1 guide the pupil to notice the linguistic and cultural richness of the immediate environment and the world, and the status of English as a language of global communication"
             },
             "coreElements": [
-              "S1"
+              "S1 Kasvu kulttuuriseen moninaisuuteen ja kielitietoisuuteen"
             ],
             "verbs": []
           },
@@ -70,10 +70,10 @@
             "code": "T2",
             "text": {
               "local": "T2 motivoida oppilasta arvostamaan omaa kieli- ja kulttuuritaustaansa sekä maailman kielellistä ja kulttuurista moninaisuutta ja kohtaamaan ihmisiä ilman arvottavia ennakko-oletuksia",
-              "en": ""
+              "en": "T2 motivate the pupil to value their own linguistic and cultural background as well as the linguistic and cultural diversity of the world, and to encounter people without prejudicial assumptions"
             },
             "coreElements": [
-              "S1"
+              "S1 Kasvu kulttuuriseen moninaisuuteen ja kielitietoisuuteen"
             ],
             "verbs": []
           },
@@ -81,10 +81,10 @@
             "code": "T3",
             "text": {
               "local": "T3 ohjata oppilasta havaitsemaan kieliä yhdistäviä ja erottavia ilmiöitä sekä tukea oppilaan kielellisen päättelykyvyn kehittymistä",
-              "en": ""
+              "en": "T3 guide the pupil to notice phenomena that connect and distinguish languages, and to support the development of the pupil's linguistic reasoning ability"
             },
             "coreElements": [
-              "S1"
+              "S1 Kasvu kulttuuriseen moninaisuuteen ja kielitietoisuuteen"
             ],
             "verbs": []
           },
@@ -92,10 +92,10 @@
             "code": "T4",
             "text": {
               "local": "T4 ohjata oppilasta ymmärtämään, että englanniksi on saatavilla runsaasti aineistoa ja valitsemaan niistä omaa oppimistaan edistävää, sisällöltään ja vaikeustasoltaan sopivaa aineistoa",
-              "en": ""
+              "en": "T4 guide the pupil to understand that a wealth of material is available in English and to select material that promotes their own learning and is suitable in content and level of difficulty"
             },
             "coreElements": [
-              "S1"
+              "S1 Kasvu kulttuuriseen moninaisuuteen ja kielitietoisuuteen"
             ],
             "verbs": []
           },
@@ -103,10 +103,10 @@
             "code": "T5",
             "text": {
               "local": "T5 tutustua yhdessä opetuksen tavoitteisiin ja luoda salliva opiskeluilmapiiri, jossa tärkeintä on viestin välittyminen sekä kannustava yhdessä oppiminen",
-              "en": ""
+              "en": "T5 explore the learning objectives together and create a permissive study atmosphere in which the most important thing is getting the message across and supportive collaborative learning"
             },
             "coreElements": [
-              "S2"
+              "S2 Kielenopiskelutaidot"
             ],
             "verbs": []
           },
@@ -114,10 +114,10 @@
             "code": "T6",
             "text": {
               "local": "T6 ohjata oppilasta ottamaan vastuuta omasta kielenopiskelustaan ja kannustaa harjaannuttamaan kielitaitoaan rohkeasti ja myös tieto- ja viestintäteknologiaa käyttäen sekä kokeilemaan, millaiset tavat oppia kieliä sopivat hänelle parhaiten",
-              "en": ""
+              "en": "T6 guide the pupil to take responsibility for their own language learning and encourage them to practise their language skills boldly, including through the use of information and communication technology, and to try out which ways of learning languages suit them best"
             },
             "coreElements": [
-              "S2"
+              "S2 Kielenopiskelutaidot"
             ],
             "verbs": []
           },
@@ -125,10 +125,10 @@
             "code": "T7",
             "text": {
               "local": "T7 ohjata oppilasta harjoittelemaan vuorovaikutusta aihepiiriltään monenlaisissa tilanteissa rohkaisten viestinnän jatkumiseen mahdollisista katkoksista huolimatta",
-              "en": ""
+              "en": "T7 guide the pupil to practise interaction in situations on a variety of topics, encouraging the continuation of communication despite possible breakdowns"
             },
             "coreElements": [
-              "S3"
+              "S3 Kehittyvä kielitaito, taito toimia vuorovaikutuksessa, taito tulkita tekstejä, taito tuottaa tekstejä"
             ],
             "verbs": []
           },
@@ -136,10 +136,10 @@
             "code": "T8",
             "text": {
               "local": "T8 rohkaista oppilasta pitämään yllä viestintätilannetta käyttäen monenlaisia viestinnän jatkamisen keinoja",
-              "en": ""
+              "en": "T8 encourage the pupil to sustain a communicative situation using a variety of strategies for continuing communication"
             },
             "coreElements": [
-              "S3"
+              "S3 Kehittyvä kielitaito, taito toimia vuorovaikutuksessa, taito tulkita tekstejä, taito tuottaa tekstejä"
             ],
             "verbs": []
           },
@@ -147,10 +147,10 @@
             "code": "T9",
             "text": {
               "local": "T9 tukea oppilaan viestinnän kulttuurista sopivuutta tarjoamalla mahdollisuuksia harjoitella monipuolisia sosiaalisia tilanteita",
-              "en": ""
+              "en": "T9 support the cultural appropriateness of the pupil's communication by providing opportunities to practise a variety of social situations"
             },
             "coreElements": [
-              "S3"
+              "S3 Kehittyvä kielitaito, taito toimia vuorovaikutuksessa, taito tulkita tekstejä, taito tuottaa tekstejä"
             ],
             "verbs": []
           },
@@ -158,10 +158,10 @@
             "code": "T10",
             "text": {
               "local": "T10 ohjata oppilasta työskentelemään vaativuudeltaan monentasoisten puhuttujen ja kirjoitettujen tekstien parissa käyttäen erilaisia ymmärtämisstrategioita",
-              "en": ""
+              "en": "T10 guide the pupil to work with spoken and written texts of varying levels of difficulty using different comprehension strategies"
             },
             "coreElements": [
-              "S3"
+              "S3 Kehittyvä kielitaito, taito toimia vuorovaikutuksessa, taito tulkita tekstejä, taito tuottaa tekstejä"
             ],
             "verbs": []
           },
@@ -169,10 +169,10 @@
             "code": "T11",
             "text": {
               "local": "T11 tarjota oppilaalle mahdollisuuksia tuottaa puhetta ja kirjoitusta aihepiirejä laajentaen sekä kiinnittäen huomiota myös keskeisiin rakenteisiin ja ääntämisen perussääntöihin",
-              "en": ""
+              "en": "T11 provide the pupil with opportunities to produce speech and writing while expanding the range of topics, and paying attention to key structures and basic rules of pronunciation"
             },
             "coreElements": [
-              "S3"
+              "S3 Kehittyvä kielitaito, taito toimia vuorovaikutuksessa, taito tulkita tekstejä, taito tuottaa tekstejä"
             ],
             "verbs": []
           }
@@ -189,10 +189,10 @@
             "code": "T1",
             "text": {
               "local": "T1 edistää oppilaan taitoa pohtia englannin asemaan ja variantteihin liittyviä ilmiöitä ja arvoja antaa oppilaalle valmiuksia kehittää kulttuurienvälistä toimintakykyä",
-              "en": ""
+              "en": "T1 promote the pupil's ability to reflect on phenomena and values related to the status and varieties of English, and provide the pupil with the capacity to develop intercultural competence"
             },
             "coreElements": [
-              "S1"
+              "S1 Kasvu kulttuuriseen moninaisuuteen ja kielitietoisuuteen"
             ],
             "verbs": []
           },
@@ -200,10 +200,10 @@
             "code": "T2",
             "text": {
               "local": "T2 kannustaa löytämään kiinnostavia englanninkielisiä sisältöjä ja toimintaympäristöjä, jotka laajentavat käsitystä globalisoituvasta maailmasta ja siinä toimimisen mahdollisuuksista",
-              "en": ""
+              "en": "T2 encourage the pupil to find interesting English-language content and environments that broaden their understanding of the globalising world and the possibilities of operating within it"
             },
             "coreElements": [
-              "S1"
+              "S1 Kasvu kulttuuriseen moninaisuuteen ja kielitietoisuuteen"
             ],
             "verbs": []
           },
@@ -211,10 +211,10 @@
             "code": "T3",
             "text": {
               "local": "T3 ohjata oppilasta havaitsemaan, millaisia säännönmukaisuuksia englannin kielessä on, miten samoja asioita ilmaistaan muissa kielissä sekä käyttämään kielitiedon käsitteitä oppimisensa tukena",
-              "en": ""
+              "en": "T3 guide the pupil to notice what kinds of regularities exist in English, how the same things are expressed in other languages, and to use linguistic concepts to support their learning"
             },
             "coreElements": [
-              "S1"
+              "S1 Kasvu kulttuuriseen moninaisuuteen ja kielitietoisuuteen"
             ],
             "verbs": []
           },
@@ -222,10 +222,10 @@
             "code": "T4",
             "text": {
               "local": "T4 rohkaista oppilasta asettamaan tavoitteita, hyödyntämään monipuolisia tapoja oppia englantia ja arvioimaan oppimistaan itsenäisesti ja yhteistyössä sekä ohjata oppilasta myönteiseen vuorovaikutukseen, jossa tärkeintä on viestin välittyminen",
-              "en": ""
+              "en": "T4 encourage the pupil to set goals, to use diverse ways of learning English, and to evaluate their learning independently and collaboratively, and to guide the pupil towards positive interaction in which the most important thing is getting the message across"
             },
             "coreElements": [
-              "S2"
+              "S2 Kielenopiskelutaidot"
             ],
             "verbs": []
           },
@@ -233,10 +233,10 @@
             "code": "T5",
             "text": {
               "local": "T5 kehittää oppilaan itsenäisyyttä soveltaa luovasti kielitaitoaan sekä jatkuvan kieltenopiskelun valmiuksia",
-              "en": ""
+              "en": "T5 develop the pupil's independence in applying their language skills creatively and their readiness for lifelong language learning"
             },
             "coreElements": [
-              "S2"
+              "S2 Kielenopiskelutaidot"
             ],
             "verbs": []
           },
@@ -244,10 +244,10 @@
             "code": "T6",
             "text": {
               "local": "T6 rohkaista oppilasta osallistumaan keskusteluihin monenlaisista oppilaiden ikätasolle ja elämänkokemukseen sopivista aiheista, joissa käsitellään myös mielipiteitä",
-              "en": ""
+              "en": "T6 encourage the pupil to participate in conversations on a variety of topics appropriate to the pupils' age level and life experience, including topics that involve opinions"
             },
             "coreElements": [
-              "S3"
+              "S3 Kehittyvä kielitaito, taito toimia vuorovaikutuksessa, taito tulkita tekstejä, taito tuottaa tekstejä"
             ],
             "verbs": []
           },
@@ -255,10 +255,10 @@
             "code": "T7",
             "text": {
               "local": "T7 tukea oppilaan aloitteellisuutta viestinnässä, kompensaatiokeinojen käytössä ja merkitysneuvottelun käymisessä",
-              "en": ""
+              "en": "T7 support the pupil's initiative in communication, in the use of compensation strategies, and in negotiation of meaning"
             },
             "coreElements": [
-              "S3"
+              "S3 Kehittyvä kielitaito, taito toimia vuorovaikutuksessa, taito tulkita tekstejä, taito tuottaa tekstejä"
             ],
             "verbs": []
           },
@@ -266,10 +266,10 @@
             "code": "T8",
             "text": {
               "local": "T8 auttaa oppilasta tunnistamaan viestinnän kulttuurisia piirteitä ja tukea oppilaiden rakentavaa kulttuurienvälistä viestintää",
-              "en": ""
+              "en": "T8 help the pupil to recognise cultural features of communication and to support pupils' constructive intercultural communication"
             },
             "coreElements": [
-              "S3"
+              "S3 Kehittyvä kielitaito, taito toimia vuorovaikutuksessa, taito tulkita tekstejä, taito tuottaa tekstejä"
             ],
             "verbs": []
           },
@@ -277,10 +277,10 @@
             "code": "T9",
             "text": {
               "local": "T9 tarjota oppilaalle mahdollisuuksia kuulla ja lukea monenlaisia itselleen merkityksellisiä yleiskielisiä ja yleistajuisia tekstejä erilaisista lähteistä sekä tulkita niitä käyttäen erilaisia strategioita",
-              "en": ""
+              "en": "T9 provide the pupil with opportunities to listen to and read various types of personally meaningful standard and accessible texts from different sources, and to interpret them using different strategies"
             },
             "coreElements": [
-              "S3"
+              "S3 Kehittyvä kielitaito, taito toimia vuorovaikutuksessa, taito tulkita tekstejä, taito tuottaa tekstejä"
             ],
             "verbs": []
           },
@@ -288,10 +288,10 @@
             "code": "T10",
             "text": {
               "local": "T10 ohjata oppilasta tuottamaan sekä puhuttua että kirjoitettua tekstiä erilaisiin tarkoituksiin yleisistä ja itselleen merkityksellisistä aiheista kiinnittäen huomiota rakenteiden monipuolisuuteen ja ohjaten hyvään ääntämiseen",
-              "en": ""
+              "en": "T10 guide the pupil to produce both spoken and written text for various purposes on general and personally meaningful topics, paying attention to the versatility of structures and guiding good pronunciation"
             },
             "coreElements": [
-              "S3"
+              "S3 Kehittyvä kielitaito, taito toimia vuorovaikutuksessa, taito tulkita tekstejä, taito tuottaa tekstejä"
             ],
             "verbs": []
           }
