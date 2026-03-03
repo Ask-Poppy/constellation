@@ -119,7 +119,7 @@ All three countries have `knowledgeCriteria` on grade bands, but the grading sca
 | Sweden | Betygskriterier A-F | Up to 5 levels: E, D, C, B, A | Skolverket API |
 | Finland | Arvosana 4-10 | 4 levels: grade 5, 7, 8, 9 | ePerusteet API |
 
-Norway's kjennetegn are only available for 10. trinn (and some VGS subjects). Sweden has criteria from year 3 onward. Finland has criteria for grades 3-6 and 7-9 bands.
+Coverage matches each country's grading system: Norway doesn't grade before 8. trinn (kjennetegn published at 10. trinn), Sweden doesn't grade before year 6 (pass threshold at year 3), and Finland uses verbal assessment for grades 1-3 (numeric criteria from grade 4).
 
 ### Bilingual Text
 
