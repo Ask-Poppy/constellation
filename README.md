@@ -79,6 +79,13 @@ Each subject file follows a common format:
             "verbs": ["explore", "use"]
           }
         ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "4",
+            "label": { "local": "God kompetanse, karakter 4", "en": "Good competency, grade 4" },
+            "text": { "local": "Eleven viser..." }
+          }
+        ],
         "assessment": [
           {
             "type": { "local": "Standpunktvurdering", "en": "Assessment of coursework" },
@@ -99,8 +106,20 @@ Each subject file follows a common format:
 | `coreElements` | Key knowledge areas within the subject | All |
 | `interdisciplinaryThemes` | Cross-subject themes (health, democracy, sustainability) | All |
 | `basicSkills` | Foundational skills applied in the subject (oral, reading, writing, numeracy, digital) | All |
+| `gradeBands[].knowledgeCriteria` | Assessment rubrics describing competency at each grade level | All (see below) |
 | `gradeBands[].assessment` | Assessment arrangements (coursework, exams) for the grade band | Norway |
-| `gradeBands[].knowledgeCriteria` | Graded knowledge requirements (E through A) | Sweden |
+
+### Assessment Criteria
+
+All three countries have `knowledgeCriteria` on grade bands, but the grading scales differ:
+
+| Country | Scale | Levels | Source |
+|---------|-------|--------|--------|
+| Norway | Karakter 1-6 | 3 levels: grade 2 (low), 4 (good), 6 (excellent) | Scraped from udir.no HTML pages |
+| Sweden | Betygskriterier A-F | Up to 5 levels: E, D, C, B, A | Skolverket API |
+| Finland | Arvosana 4-10 | 4 levels: grade 5, 7, 8, 9 | ePerusteet API |
+
+Norway's kjennetegn are only available for 10. trinn (and some VGS subjects). Sweden has criteria from year 3 onward. Finland has criteria for grades 3-6 and 7-9 bands.
 
 ### Bilingual Text
 
@@ -163,6 +182,15 @@ python scripts/sync_norway.py              # All Norwegian subjects
 python scripts/sync_norway.py SAF01-04     # Single subject by code
 python scripts/sync_sweden.py              # All Swedish subjects
 python scripts/sync_finland.py             # All Finnish subjects
+```
+
+### Assessment criteria (Norway)
+
+Norway's kjennetegn på måloppnåelse are not in the GREP API — they exist only as HTML on udir.no. A separate scraper fetches and injects them into existing subject files:
+
+```bash
+python scripts/scrape_norway_kjennetegn.py              # Scrape mapped 10. trinn subjects
+python scripts/scrape_norway_kjennetegn.py --dry-run     # List pages without scraping
 ```
 
 ## License
