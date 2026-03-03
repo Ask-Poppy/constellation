@@ -4,13 +4,17 @@
     "api": "https://data.udir.no/kl06/v201906/laereplaner-lk20/FSP01-04",
     "curriculum": "LK20",
     "license": "NLOD",
-    "lastSynced": "2026-03-02T21:41:13Z"
+    "lastSynced": "2026-03-03T08:37:55Z"
   },
   "subject": {
     "code": "FSP01-04",
     "name": {
       "local": "Læreplan i fremmedspråk",
       "en": "Curriculum for Foreign Languages"
+    },
+    "description": {
+      "local": "Fremmedspråk handler om å forstå og bli forstått. Faget skal bidra til å fremme elevenes personlige utvikling og legge til rette for at de kan samhandle med og oppleve glede i møte med andre mennesker og kulturer. I en globalisert verden har vi behov for å kommunisere på flere språk. Formell og uformell kommunikasjon lokalt, nasjonalt og internasjonalt krever språkkunnskaper og kunnskap om andre kulturer og levesett. Dette gjelder ikke minst i studier og i arbeidslivet. Faget kan bidra til å utvikle elevenes interkulturelle forståelse.",
+      "en": "The foreign languages subject is based on understanding and being understood. The subject shall help to promote the pupils’ personal development and facilitate for interacting with and experiencing joy in the encounter with other people and cultures. In a globalised world, there is a greater need to communicate in several languages. Formal and informal communication locally, nationally and internationally requires language skills and knowledge of other cultures and ways of life. This applies not least in educational studies and in working life. The subject can help pupils to develop their intercultural understanding."
     },
     "coreElements": [
       {
@@ -55,6 +59,65 @@
         "description": {
           "local": "Å utforske og utnytte faglig relevant språkteknologi og nye medier gir utvidede muligheter for kreativ og kritisk læring, bruk og forståelse av språk, kommunikasjon og interkulturell kompetanse.",
           "en": "Exploring and utilising subject-relevant language technology and new media provides additional opportunities for creative and critical learning, use and understanding of language, communication and intercultural competence."
+        }
+      }
+    ],
+    "interdisciplinaryThemes": [
+      {
+        "code": "TT2",
+        "name": {
+          "local": "Demokrati og medborgerskap",
+          "en": "Democracy and citizenship"
+        },
+        "description": {
+          "local": "I fremmedspråk handler det tverrfaglige temaet demokrati og medborgerskap om at elevene skal øve opp evnen til å tenke kritisk, og at de skal lære seg å håndtere meningsbrytninger og respektere uenigheter. Dette kan åpne for flere måter å tolke verden på, bidra til å skape nysgjerrighet og engasjement og medvirke til å forebygge fordommer.",
+          "en": "The interdisciplinary topic democracy and citizenship in the foreign-languages subject refers to training the ability of the pupils to think critically and learn to deal with differences of opinion and respect disagreements. This can open for additional ways of interpreting the world, help to cultivate curiosity and engagement and prevent prejudice."
+        }
+      }
+    ],
+    "basicSkills": [
+      {
+        "code": "GF1",
+        "name": {
+          "local": "Muntlige ferdigheter",
+          "en": "Oral skills"
+        },
+        "description": {
+          "local": "Muntlige ferdigheter i fremmedspråk er å skape mening gjennom å lytte, snakke og samtale i ulike kommunikasjonssituasjoner. Utviklingen av muntlige ferdigheter i fremmedspråk går fra å bruke ferdighetene i dagligdagse sammenhenger til å bruke dem i stadig mer komplekse situasjoner. Dette innebærer å ta i bruk et gradvis bredere ordforråd og flere språklige strukturer.",
+          "en": "Oral skills in the foreign-languages subject refers to creating meaning through listening, talking and conversing in different communication situations. The development of oral skills in the foreign-languages subject ranges from using the skills in everyday life to using them in increasingly more complex situations. This means using a gradually broader vocabulary and more language structures."
+        }
+      },
+      {
+        "code": "GF2",
+        "name": {
+          "local": "Å kunne skrive",
+          "en": "Writing"
+        },
+        "description": {
+          "local": "Å kunne skrive i fremmedspråk er å skape ulike typer tekster som kommuniserer et innhold. Utviklingen av skriveferdigheter i fremmedspråk går fra å skrive enkle tekster om dagligdagse emner til å produsere stadig mer komplekse tekster om faglige emner. Dette innebærer også å tilegne seg et gradvis bredere ordforråd, å ta i bruk flere språklige strukturer, og å bruke hjelpemidler på en hensiktsmessig måte. Å bruke tastatur med språkets tegn og å skrive fremmedspråket digitalt er en viktig del av det å kunne skrive og å formidle kompetanse i faget.",
+          "en": "Writing in the foreign-languages subject refers to creating different types of texts that communicate content. The development of writing skills in the foreign-languages subject goes from writing simple texts about everyday topics to producing increasingly complex texts about subject-related topics. This also means acquiring a gradually broader vocabulary, using more language structures and using aids appropriately. The ability to use a keyboard with the language’s characters or letters and to write the foreign language digitally is an important part of being able to write and to convey competence in this subject."
+        }
+      },
+      {
+        "code": "GF3",
+        "name": {
+          "local": "Å kunne lese",
+          "en": "Reading"
+        },
+        "description": {
+          "local": "Å kunne lese i fremmedspråk er å forstå innholdet i ulike typer tekster, både på papir og digitalt. Utviklingen av leseferdigheter i fremmedspråk går fra å forstå hovedinnhold i enklere tekster til å forstå stadig mer innhold i komplekse tekster i ulike sjangre. Dette innebærer å forstå stadig flere ord, uttrykk og språklige strukturer, og å bruke strategier, hjelpemidler og kilder på en hensiktsmessig måte slik at det å lese bidrar til språklæring og interkulturell kompetanse.",
+          "en": "Reading in the foreign-languages subject refers to understanding the content of different types of text, on paper and on screen. The development of reading skills in the foreign-languages subject ranges from understanding the main content of simple texts to understanding increasingly more content in complex texts in different genres. This means understanding increasingly more words, expressions and language structures and using strategies, aids and sources appropriately so that reading contributes to language learning and intercultural competence."
+        }
+      },
+      {
+        "code": "GF5",
+        "name": {
+          "local": "Digitale ferdigheter",
+          "en": "Digital skills"
+        },
+        "description": {
+          "local": "Digitale ferdigheter i fremmedspråk er å bruke digitale ressurser og medier til å utvide læringsarenaen og tilføre læringsprosessen verdifulle dimensjoner. Utviklingen av digitale ferdigheter i fremmedspråk går fra å bruke disse ressursene til språklæring og møte med autentisk språk, til i økende grad å bruke dem selvstendig for å kommunisere muntlig og skriftlig, innhente kunnskap, utforske kultur og geografi og lage sammensatte produkter. Dette innebærer å utvikle en bevisst og kritisk holdning til bruk av digitale kilder, å vise dømmekraft i bruk av digitale medier og ressurser, og å følge regler for digital samhandling og personvern.",
+          "en": "Digital skills in the foreign-languages subject means using digital resources and media to expand the learning arena and to add valuable dimensions to the learning process. The development of digital skills in the foreign-languages subject progresses from using these resources for language learning and encounters with authentic language to using them more and more independently to communicate both orally and in writing, to acquire knowledge, explore culture and geography and create complex products. This means developing an aware and critical attitude to using digital sources, showing judgment in the use of digital media and resources and complying with rules for digital interaction and privacy protection."
         }
       }
     ],
@@ -190,6 +253,35 @@
               "Beskrive"
             ]
           }
+        ],
+        "assessment": [
+          {
+            "type": {
+              "local": "Standpunktvurdering",
+              "en": "Assessment of coursework"
+            },
+            "description": {
+              "local": "Etter 10. trinn: Eleven skal ha én standpunktkarakter.Etter vg2/vg3: Eleven skal ha én standpunktkarakter."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for elever",
+              "en": "Examination for pupils"
+            },
+            "description": {
+              "local": "Etter 10. trinn: Eleven kan trekkes ut til muntlig eksamen med forberedelsesdel. Muntlig eksamen blir utarbeidet og sensurert lokalt.Etter vg2/vg3: Eleven kan trekkes ut til skriftlig eksamen. Skriftlig eksamen bli utarbeidet og sensurert sentralt. Skriftlig eksamen gjennomføres digitalt ved bruk av det enkelte språks tastatur. Eleven kan også trekkes ut til muntlig eksamen med forberedelsesdel. Muntlig eksamen blir utarbeidet og sensurert lokalt."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for privatister",
+              "en": "Examination for external candidates"
+            },
+            "description": {
+              "local": "Etter vg2/vg3: Privatisten skal opp til skriftlig eksamen. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Privatisten skal også opp til muntlig eksamen. Skriftlig eksamen gjennomføres digitalt ved bruk av det enkelte språks tastatur. Muntlig eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen."
+            }
+          }
         ]
       },
       {
@@ -323,6 +415,35 @@
               "Gjøre rede for",
               "Presentere"
             ]
+          }
+        ],
+        "assessment": [
+          {
+            "type": {
+              "local": "Standpunktvurdering",
+              "en": "Assessment of coursework"
+            },
+            "description": {
+              "local": "Etter 10. trinn: Eleven skal ha én standpunktkarakter.Etter vg2/vg3: Eleven skal ha én standpunktkarakter."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for elever",
+              "en": "Examination for pupils"
+            },
+            "description": {
+              "local": "Etter 10. trinn: Eleven kan trekkes ut til muntlig eksamen med forberedelsesdel. Muntlig eksamen blir utarbeidet og sensurert lokalt.Etter vg2/vg3: Eleven kan trekkes ut til skriftlig eksamen. Skriftlig eksamen bli utarbeidet og sensurert sentralt. Skriftlig eksamen gjennomføres digitalt ved bruk av det enkelte språks tastatur. Eleven kan også trekkes ut til muntlig eksamen med forberedelsesdel. Muntlig eksamen blir utarbeidet og sensurert lokalt."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for privatister",
+              "en": "Examination for external candidates"
+            },
+            "description": {
+              "local": "Etter vg2/vg3: Privatisten skal opp til skriftlig eksamen. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Privatisten skal også opp til muntlig eksamen. Skriftlig eksamen gjennomføres digitalt ved bruk av det enkelte språks tastatur. Muntlig eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen."
+            }
           }
         ]
       }

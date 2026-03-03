@@ -4,13 +4,17 @@
     "api": "https://data.udir.no/kl06/v201906/laereplaner-lk20/KHV01-02",
     "curriculum": "LK20",
     "license": "NLOD",
-    "lastSynced": "2026-03-02T21:39:41Z"
+    "lastSynced": "2026-03-03T08:37:02Z"
   },
   "subject": {
     "code": "KHV01-02",
     "name": {
       "local": "Læreplan i kunst og håndverk",
       "en": "Curriculum for Art and crafts"
+    },
+    "description": {
+      "local": "Kunst og håndverk er et sentralt fag for praktiske ferdigheter, kreativitet og refleksjon over visuell og materiell kultur. Gjennom å delta i estetiske prosesser skal elevene få erfaring med å forestille seg det som ennå ikke er, og et grunnlag for å medvirke i kultur- og samfunnsutvikling. Faget skal forberede elevene på et hverdags- og arbeidsliv som stiller krav om innovasjon, praktiske ferdigheter og evne til å gjøre estetiske og etiske valg. Samarbeid med lokalt kultur- og næringsliv skal bidra til å knytte elevenes skapende arbeid til aktuelle problemstillinger.",
+      "en": "Art and crafts is an important subject for practical skills, creativity and reflection on visual and material cultures. By participating in aesthetic processes, the pupils imagine what has not yet been created, and receive a foundation for participation in sociocultural development. The subject shall prepare the pupils for everyday life and a workplace that requires innovation, practical skills and the ability to make aesthetic and ethical choices. Cooperation with local culture, and industry and commerce shall help connect the pupil's creative work to current issues."
     },
     "coreElements": [
       {
@@ -55,6 +59,98 @@
         "description": {
           "local": "Kjerneelementet kulturforståelse innebærer at elevene skal utforske samtidens visuelle kultur og kulturarv fra ulike verdensdeler som kilde til opplevelser og inspirasjon til egen skapende praksis. Elevene skal møte eksempler på og reflektere over hvordan kunst, håndverk og design speiler og er med på å forme kultur, samfunnsutvikling og folks identitet. Kunnskap om visuell og materiell kultur gir grunnlag for å ta bevisste valg som forbruker og medborger og i eget skapende arbeid.",
           "en": "The core element cultural awareness involves exploring modern visual culture and cultural heritage in different parts of the world as experiential and inspirational sources in their own creative practice. The pupils encounter examples of and reflect on how art, crafts and design mirror and play a role in the shaping of culture, social development and human identity. Knowledge of visual and material cultures lays the foundation for making conscious choices as a consumer and fellow citizen, as well as in one's own creative work."
+        }
+      }
+    ],
+    "interdisciplinaryThemes": [
+      {
+        "code": "TT1",
+        "name": {
+          "local": "Folkehelse og livsmestring",
+          "en": "Health and life skills"
+        },
+        "description": {
+          "local": "I kunst og håndverk handler det tverrfaglige temaet folkehelse og livsmestring om at elevene utvikler evne til skapende tankeprosesser og praktisk problemløsing. Elevene opparbeider praktiske ferdigheter og evne til å stille spørsmål, møte utfordringer i hverdagen og se muligheter i ukjente situasjoner. Elevene får verktøy til å utforske meninger, ideer og følelser og til å uttrykke seg gjennom ulike formater og arenaer. Arbeid med visuell og materiell kultur bidrar til å styrke elevenes selvbilde og identitetsutvikling, gir forståelse av mangfold og skaper mening i tilværelsen",
+          "en": "In arts and crafts, the interdisciplinary topic of health and life skills addresses the development of creative thinking processes and practical problem-solving skills. The pupils improve their practical skills and the ability to ask questions, face everyday challenges and see the potential in unfamiliar situations. The pupils are provided with tools to explore opinions, ideas and emotions, and to express themselves through different formats and arenas. Work on visual and material cultures helps strengthen the pupil's self-image and identity development, develops diversity awareness and gives meaning to life."
+        }
+      },
+      {
+        "code": "TT2",
+        "name": {
+          "local": "Demokrati og medborgerskap",
+          "en": "Democracy and citizenship"
+        },
+        "description": {
+          "local": "I kunst og håndverk handler det tverrfaglige temaet demokrati og medborgerskap om at elevene utfordres til å reflektere kritisk over kunst, design og materiell og immateriell kultur og til å gi uttrykk for egne opplevelser, tanker og meninger. Gjennom møter med kunst og kultur og arbeid med visuelle ytringer kan elevene utvikle evne til å tolke, medvirke i og endre samfunnet de lever i.",
+          "en": "In art and crafts, the interdisciplinary topic of democracy and citizenship challenges the pupils to critically reflect on art, design and material and intellectual cultures, and to express their own experiences, thoughts and opinions. Through encounters with art and culture, and work on visual expression, the pupils develop the ability to interpret, participate and change the society in which they live."
+        }
+      },
+      {
+        "code": "TT3",
+        "name": {
+          "local": "Bærekraftig utvikling",
+          "en": "Sustainability"
+        },
+        "description": {
+          "local": "I kunst og håndverk handler det tverrfaglige temaet bærekraftig utvikling om at elevene gjennom praktisk skapende arbeid utvikler evne til å se forbedringer i produkter og til å utforske mer bærekraftige levesett for framtiden. Kritisk undersøkelse av forbrukskultur og erfaring med bruk og gjenbruk av materialer kan gi elevene grunnlag for å gjøre etiske valg. I arbeid med teknologi, materialer og produktutvikling kan elevene øke sin bevissthet om hvilken innvirkning naturen har på mennesker, og hvordan menneskets levesett påvirker naturen og klimaet.",
+          "en": "In art and crafts, the interdisciplinary topic of sustainable development involves developing the ability to notice product improvements and to explore a more sustainable future lifestyle through practical creative work. Critical investigation of consumer culture and experience with using and recycling materials provides the pupils with a foundation for making ethical choices. When working with technology, materials and product development, the pupils increase their awareness of the impact of nature on humans and how human lifestyles impact nature and the climate."
+        }
+      }
+    ],
+    "basicSkills": [
+      {
+        "code": "GF1",
+        "name": {
+          "local": "Muntlige ferdigheter",
+          "en": "Oral skills"
+        },
+        "description": {
+          "local": "Muntlige ferdigheter i kunst og håndverk er å kunne sette ord på og reflektere over estetiske opplevelser og skapende prosesser. Det innebærer å bruke fagbegreper i dialog, samtaler og muntlige presentasjoner. Utviklingen av muntlige ferdigheter i kunst og håndverk går fra å kunne fortelle om egne observasjoner og opplevelser til å kunne beskrive visuelle virkemidler, håndverk og kunst- og kulturhistoriske referanser.",
+          "en": "Oral skills in art and crafts involve being able to express and reflect on aesthetic experiences and creative processes. This involves using subject terminology in dialogue, conversations and oral presentations. The development of oral skills in art and crafts progresses from being able to talk about one's own observations and experiences to being able to describe visual instruments, crafts, and art and historical cultural references."
+        }
+      },
+      {
+        "code": "GF2",
+        "name": {
+          "local": "Å kunne skrive",
+          "en": "Writing"
+        },
+        "description": {
+          "local": "Å kunne skrive i kunst og håndverk er å kommunisere visuelt gjennom tegn og symboler. Det innebærer også å kunne skrive tekster for å synliggjøre ideer, valg og meninger under det praktiske arbeidet. Videre omfatter det å kunne kombinere tekst og bilder i arbeid med layout og andre visuelle uttrykk. Utviklingen av å kunne skrive i kunst og håndverk går fra å kunne sette sammen tekst, tegn og symboler til å kunne øke lesbarhet, tilpasse tekst til formålet og gjøre kreative sammenstillinger av visuelle virkemidler.",
+          "en": "Writing in art and crafts involves being able to communicate visually through signs and symbols. This also involves being able to write texts to tangibly express ideas, choices and opinions during practical work. Further, it involves being able to combine texts and images when working on layouts and other visual expressions. The development of writing in art and crafts progresses from being able to put together texts, signs and symbols to being able to increase the readability of the texts, adjust texts to the purpose, and to make creative juxtapositions with visual instruments."
+        }
+      },
+      {
+        "code": "GF3",
+        "name": {
+          "local": "Å kunne lese",
+          "en": "Reading"
+        },
+        "description": {
+          "local": "Å kunne lese i kunst og håndverk er å tolke, forstå og vurdere visuelle og materielle omgivelser. Å kunne lese tekniske tegninger og anvisninger er sentralt i praktisk problemløsing og for å kunne vurdere form, funksjonalitet og holdbarhet. Utviklingen av å kunne lese i kunst og håndverk går fra å gjenkjenne og avkode til å reflektere kritisk over visuelle virkemidler og kulturelle referanser.",
+          "en": "Reading in art and crafts involves being able to interpret, understand and assess visual and material surroundings. The ability to read technical drawings and instructions is essential in practical problem solving, as well as for being able to assess shape, functionality and durability. The development of reading in art and crafts progresses from being able to recognise and decode matters to critical reflection on visual instruments and cultural references."
+        }
+      },
+      {
+        "code": "GF4",
+        "name": {
+          "local": "Å kunne regne",
+          "en": "Numeracy"
+        },
+        "description": {
+          "local": "Å kunne regne i kunst og håndverk er å bruke matematiske framgangsmåter i praktisk skapende arbeid. Det innebærer å ta nøyaktige mål, å beregne målestokk, volum og proporsjoner og å utforske konstruksjon av mønster, form og rom. Utviklingen av å kunne regne i kunst og håndverk går fra å kunne følge en angitt framgangsmåte til å kunne bruke matematiske framgangsmåter som verktøy i egen problemløsing.",
+          "en": "Numeracy in arts and crafts involves being able to use mathematical approaches in practical creative work. This involves taking accurate measurements, calculating scales, volume and proportions, and exploring the construction of patterns, shapes and mass. The development of numeracy in arts and crafts progresses from being able to follow a given approach to being able to use mathematical approaches as tools in one's own problem solving."
+        }
+      },
+      {
+        "code": "GF5",
+        "name": {
+          "local": "Digitale ferdigheter",
+          "en": "Digital skills"
+        },
+        "description": {
+          "local": "Digitale ferdigheter i kunst og håndverk innebærer å kunne bruke digitale verktøy og medier til inspirasjon, utprøving, dokumentasjon og presentasjon. Det innebærer også å bruke digitale verktøy og programmering i kreative og skapende prosesser. Kjennskap til regler om opphavsrett og personvern når man bruker egne eller andres bilder, filmer og skapende arbeid, er vesentlig på alle trinn. Utviklingen av digitale ferdigheter i kunst og håndverk går fra å bruke enkle digitale verktøy og medier, til å forme egne digitale produkter som skaper opplevelser og kommuniserer følelser, ideer og meninger.",
+          "en": "Digital skills in arts and crafts involve being able to use digital tools and media for inspiration, testing, documentation and presentation. They also involve using digital tools and programming in creative and innovative processes. Knowledge of copyright and privacy regulations when using one's own images, videos and creative work and those of others are fundamental at all year levels. The development of digital skills in art and crafts progresses from being able to use simple digital tools and media to designing one's own digital products that create experiences and communicate emotions, ideas and opinions."
         }
       }
     ],

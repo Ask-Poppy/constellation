@@ -17,66 +17,66 @@
         "code": "S1",
         "name": {
           "local": "S1 Luonnontieteellinen tutkimus",
-          "en": ""
+          "en": "S1 Scientific inquiry"
         },
         "description": {
           "local": "Eri sisältöalueista ja oppilaiden mielenkiinnon kohteista valitaan sopivia sisältöjä tarkasti ohjeistettuihin ja avoimiin tutkimuksiin. Erilaisissa tutkimuksissa painotetaan tarkoituksenmukaisesti tutkimisprosessin vaiheita kuten ongelman tai ilmiön pohtimista, suunnittelua, koejärjestelyjen rakentamista, havainnointia ja mittaamista, tulosten koontia ja käsittelyä sekä tulosten arviointia ja esittämistä. Tutustutaan tieto- ja viestintäteknologian hyödyntämiseen tutkimusten eri vaiheissa.",
-          "en": ""
+          "en": "Suitable contents are selected from different content areas and pupils' interests for closely guided and open-ended investigations. In various investigations, the different stages of the research process are appropriately emphasised, such as considering the problem or phenomenon, planning, building experimental setups, observation and measurement, compilation and processing of results, and evaluation and presentation of results. The use of information and communication technology in different stages of research is explored."
         }
       },
       {
         "code": "S2",
         "name": {
           "local": "S2 Fysiikka omassa elämässä ja elinympäristössä",
-          "en": ""
+          "en": "S2 Physics in one's own life and living environment"
         },
         "description": {
           "local": "Sisältöjä valitaan siten, että oman elämän ja elinympäristön ilmiöitä pohditaan erityisesti terveyden ja turvallisuuden näkökulmista. Sisältöjen valinnassa otetaan huomioon paikallinen toimintaympäristö. Tutustutaan sähkömagneettisen ja hiukkassäteilyn lajeihin. Joihinkin lämpöilmiöihin syvennytään kvalitatiivisella tasolla.",
-          "en": ""
+          "en": "Contents are selected so that phenomena in one's own life and living environment are considered especially from the perspectives of health and safety. The local operating environment is taken into account when selecting contents. Types of electromagnetic and particle radiation are explored. Some thermal phenomena are studied at a qualitative level."
         }
       },
       {
         "code": "S3",
         "name": {
           "local": "S3 Fysiikka yhteiskunnassa",
-          "en": ""
+          "en": "S3 Physics in society"
         },
         "description": {
           "local": "Fysiikan ilmiöihin ja teknologisiin sovelluksiin liittyviä sisältöjä valitaan erityisesti yhteiskunnan toiminnan ja kehittymisen näkökulmista. Pääpaino on energiantuotannossa ja kestävässä energiavarojen käytössä. Tutustutaan erilaisiin koulutuspolkuihin ja ammatteihin, joissa tarvitaan fysiikan osaamista.",
-          "en": ""
+          "en": "Contents related to physical phenomena and technological applications are selected especially from the perspectives of the functioning and development of society. The main focus is on energy production and the sustainable use of energy resources. Different educational paths and professions that require physics expertise are explored."
         }
       },
       {
         "code": "S4",
         "name": {
           "local": "S4 Fysiikka maailmankuvan rakentajana",
-          "en": ""
+          "en": "S4 Physics as a builder of worldview"
         },
         "description": {
           "local": "Sisältöjä valitaan siten, että niissä tulevat esiin fysiikan luonne tieteenä, energian säilymisen periaate sekä maailmankaikkeuden rakenteet ja mittasuhteet. Sisältöihin kuuluvat myös tutustuminen fysiikkaan liittyviin uutisiin, ajankohtaisiin ilmiöihin, sovelluksiin ja nykypäivän tutkimukseen.",
-          "en": ""
+          "en": "Contents are selected so that the nature of physics as a science, the principle of conservation of energy, and the structures and scales of the universe are addressed. Contents also include familiarisation with physics-related news, current phenomena, applications, and present-day research."
         }
       },
       {
         "code": "S5",
         "name": {
           "local": "S5 Vuorovaikutus ja liike",
-          "en": ""
+          "en": "S5 Interactions and motion"
         },
         "description": {
           "local": "Sisällöt liittyvät erilaisiin vuorovaikutuksiin ja kappaleiden liiketiloihin. Kahden kappaleen vuorovaikutustilanteista siirrytään yhteen kappaleeseen vaikuttaviin voimiin ja niiden vaikutukseen kappaleen liikkeeseen. Liiketilaa kuvataan tasaisen ja muuttuvan liikkeen malleilla myös kvantitatiivisesti. Mekaaninen työ ja teho kytketään kvalitatiivisesti energiaan.",
-          "en": ""
+          "en": "Contents relate to various interactions and states of motion of objects. From two-body interaction situations, the focus shifts to forces acting on a single object and their effect on the object's motion. States of motion are described using models of uniform and changing motion, also quantitatively. Mechanical work and power are qualitatively connected to energy."
         }
       },
       {
         "code": "S6",
         "name": {
           "local": "S6 Sähkö",
-          "en": ""
+          "en": "S6 Electricity"
         },
         "description": {
           "local": "Virtapiirin tarkastelussa käytetään lähtökohtana jännitteen ja sähkövirran välistä yhteyttä. Sitä tarkastellaan ensin kvalitatiivisesti ilmiöiden ja ominaisuuksien tasolla, sitten kvantitatiivisesti mittaamalla suureiden arvoja ja tutkimalla suureiden välisiä riippuvuuksia. Sisältöjä valitaan myös kodin sähköturvallisuuteen sekä sähkön käyttöön ja tuottamiseen liittyen. Sähköinen varautuminen ja magnetismi yhdistetään kvalitatiivisesti virtapiirien ilmiömaailmaan.",
-          "en": ""
+          "en": "The examination of circuits is based on the relationship between voltage and electric current. It is first examined qualitatively at the level of phenomena and properties, then quantitatively by measuring values of quantities and investigating dependencies between quantities. Contents are also selected relating to home electrical safety and the use and production of electricity. Electric charging and magnetism are qualitatively connected to the world of circuit phenomena."
         }
       }
     ],
@@ -92,7 +92,7 @@
             "code": "T1",
             "text": {
               "local": "T1 kannustaa ja innostaa oppilasta fysiikan opiskeluun",
-              "en": ""
+              "en": "T1 encourage and inspire the pupil to study physics"
             },
             "coreElements": [
               "S1 Luonnontieteellinen tutkimus",
@@ -108,7 +108,7 @@
             "code": "T2",
             "text": {
               "local": "T2 ohjata ja kannustaa oppilasta tunnistamaan omaa fysiikan osaamistaan, asettamaan tavoitteita omalle työskentelylleen sekä työskentelemään pitkäjänteisesti",
-              "en": ""
+              "en": "T2 guide and encourage the pupil to recognise their own physics competence, to set goals for their own work, and to work with perseverance"
             },
             "coreElements": [
               "S1 Luonnontieteellinen tutkimus",
@@ -124,7 +124,7 @@
             "code": "T3",
             "text": {
               "local": "T3 ohjata oppilasta ymmärtämään fysiikan osaamisen merkitystä omassa elämässä, elinympäristössä ja yhteiskunnassa",
-              "en": ""
+              "en": "T3 guide the pupil to understand the significance of physics competence in their own life, living environment, and society"
             },
             "coreElements": [
               "S1 Luonnontieteellinen tutkimus",
@@ -140,7 +140,7 @@
             "code": "T4",
             "text": {
               "local": "T4 ohjata oppilasta käyttämään fysiikan osaamistaan kestävän tulevaisuuden rakentamisessa sekä arvioimaan omia valintojaan energiavarojen kestävän käytön kannalta",
-              "en": ""
+              "en": "T4 guide the pupil to use their physics competence in building a sustainable future and to evaluate their own choices in terms of sustainable use of energy resources"
             },
             "coreElements": [
               "S1 Luonnontieteellinen tutkimus",
@@ -156,7 +156,7 @@
             "code": "T5",
             "text": {
               "local": "T5 kannustaa oppilasta muodostamaan kysymyksiä tarkasteltavista ilmiöistä sekä kehittämään kysymyksiä edelleen tutkimusten ja muun toiminnan lähtökohdiksi",
-              "en": ""
+              "en": "T5 encourage the pupil to formulate questions about the phenomena under consideration and to further develop questions as starting points for investigations and other activities"
             },
             "coreElements": [
               "S1 Luonnontieteellinen tutkimus",
@@ -172,7 +172,7 @@
             "code": "T6",
             "text": {
               "local": "T6 ohjata oppilasta toteuttamaan kokeellisia tutkimuksia yhteistyössä muiden kanssa sekä työskentelemään turvallisesti ja johdonmukaisesti",
-              "en": ""
+              "en": "T6 guide the pupil to carry out experimental investigations in cooperation with others and to work safely and systematically"
             },
             "coreElements": [
               "S1 Luonnontieteellinen tutkimus",
@@ -188,7 +188,7 @@
             "code": "T7",
             "text": {
               "local": "T7 ohjata oppilasta käsittelemään, tulkitsemaan ja esittämään omien tutkimustensa tuloksia sekä arvioimaan niitä ja koko tutkimusprosessia",
-              "en": ""
+              "en": "T7 guide the pupil to process, interpret, and present the results of their own investigations and to evaluate them and the entire research process"
             },
             "coreElements": [
               "S1 Luonnontieteellinen tutkimus",
@@ -204,7 +204,7 @@
             "code": "T8",
             "text": {
               "local": "T8 ohjata oppilasta ymmärtämään teknologisten sovellusten toimintaperiaatteita ja merkitystä sekä innostaa osallistumaan yksinkertaisten teknologisten ratkaisujen ideointiin, suunnitteluun, kehittämiseen ja soveltamiseen yhteistyössä muiden kanssa",
-              "en": ""
+              "en": "T8 guide the pupil to understand the operating principles and significance of technological applications and to inspire participation in the ideation, planning, development, and application of simple technological solutions in cooperation with others"
             },
             "coreElements": [
               "S1 Luonnontieteellinen tutkimus",
@@ -220,7 +220,7 @@
             "code": "T9",
             "text": {
               "local": "T9 opastaa oppilasta käyttämään tieto- ja viestintäteknologiaa tiedon ja mittaustulosten hankkimiseen, käsittelemiseen ja esittämiseen sekä tukea oppilaan oppimista havainnollistavien simulaatioiden avulla",
-              "en": ""
+              "en": "T9 instruct the pupil to use information and communication technology for acquiring, processing, and presenting information and measurement results, and to support the pupil's learning through illustrative simulations"
             },
             "coreElements": [
               "S1 Luonnontieteellinen tutkimus",
@@ -236,7 +236,7 @@
             "code": "T10",
             "text": {
               "local": "T10 ohjata oppilasta käyttämään fysiikan käsitteitä täsmällisesti sekä jäsentämään omia käsiterakenteitaan kohti luonnontieteellisten teorioiden mukaisia käsityksiä",
-              "en": ""
+              "en": "T10 guide the pupil to use physics concepts precisely and to structure their own conceptual frameworks towards conceptions consistent with scientific theories"
             },
             "coreElements": [
               "S1 Luonnontieteellinen tutkimus",
@@ -252,7 +252,7 @@
             "code": "T11",
             "text": {
               "local": "T11 ohjata oppilasta käyttämään erilaisia malleja ilmiöiden kuvaamisessa ja selittämisessä sekä ennusteiden tekemisessä",
-              "en": ""
+              "en": "T11 guide the pupil to use various models in describing and explaining phenomena and in making predictions"
             },
             "coreElements": [
               "S1 Luonnontieteellinen tutkimus",
@@ -268,7 +268,7 @@
             "code": "T12",
             "text": {
               "local": "T12 ohjata oppilasta käyttämään ja arvioimaan kriittisesti eri tietolähteitä sekä ilmaisemaan ja perustelemaan erilaisia näkemyksiä fysiikalle ominaisella tavalla",
-              "en": ""
+              "en": "T12 guide the pupil to use and critically evaluate different sources of information and to express and justify various viewpoints in a manner characteristic of physics"
             },
             "coreElements": [
               "S1 Luonnontieteellinen tutkimus",
@@ -284,7 +284,7 @@
             "code": "T13",
             "text": {
               "local": "T13 ohjata oppilasta hahmottamaan luonnontieteellisen tiedon luonnetta ja kehittymistä sekä tieteellisiä tapoja tuottaa tietoa",
-              "en": ""
+              "en": "T13 guide the pupil to understand the nature and development of scientific knowledge and scientific ways of producing knowledge"
             },
             "coreElements": [
               "S1 Luonnontieteellinen tutkimus",
@@ -300,7 +300,7 @@
             "code": "T14",
             "text": {
               "local": "T14 ohjata oppilasta saavuttamaan riittävät tiedolliset valmiudet jatko-opintoja varten vuorovaikutuksesta ja liikkeestä sekä sähköstä",
-              "en": ""
+              "en": "T14 guide the pupil to achieve sufficient knowledge for further studies regarding interactions, motion, and electricity"
             },
             "coreElements": [
               "S5 Vuorovaikutus ja liike",
@@ -312,7 +312,7 @@
             "code": "T15",
             "text": {
               "local": "T15 ohjata oppilasta soveltamaan fysiikan tietojaan ja taitojaan monialaisissa oppimiskokonaisuuksissa sekä tarjota mahdollisuuksia tutustua fysiikan soveltamiseen erilaisissa tilanteissa kuten luonnossa, elinkeinoelämässä, järjestöissä tai tiedeyhteisöissä",
-              "en": ""
+              "en": "T15 guide the pupil to apply their physics knowledge and skills in multidisciplinary learning modules and to offer opportunities to explore the application of physics in various contexts such as nature, business, organisations, or the scientific community"
             },
             "coreElements": [
               "S1 Luonnontieteellinen tutkimus",

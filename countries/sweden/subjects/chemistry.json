@@ -17,33 +17,33 @@
         "code": "",
         "name": {
           "local": "kunskaper om kemins begrepp och förklaringsmodeller för att beskriva och förklara samband i naturen, i samhället och i människokroppen,",
-          "en": ""
+          "en": "knowledge of the concepts and explanatory models of chemistry for describing and explaining relationships in nature, in society and in the human body,"
         },
         "description": {
           "local": "kunskaper om kemins begrepp och förklaringsmodeller för att beskriva och förklara samband i naturen, i samhället och i människokroppen,",
-          "en": ""
+          "en": "knowledge of the concepts and explanatory models of chemistry for describing and explaining relationships in nature, in society and in the human body,"
         }
       },
       {
         "code": "",
         "name": {
           "local": "förmåga att använda kemi för att granska information, kommunicera och ta ställning i frågor som rör miljö och hälsa, och",
-          "en": ""
+          "en": "ability to use chemistry to examine information, communicate and take a position on issues concerning the environment and health, and"
         },
         "description": {
           "local": "förmåga att använda kemi för att granska information, kommunicera och ta ställning i frågor som rör miljö och hälsa, och",
-          "en": ""
+          "en": "ability to use chemistry to examine information, communicate and take a position on issues concerning the environment and health, and"
         }
       },
       {
         "code": "",
         "name": {
           "local": "förmåga att genomföra systematiska undersökningar i kemi.",
-          "en": ""
+          "en": "ability to carry out systematic investigations in chemistry."
         },
         "description": {
           "local": "förmåga att genomföra systematiska undersökningar i kemi.",
-          "en": ""
+          "en": "ability to carry out systematic investigations in chemistry."
         }
       }
     ],
@@ -59,7 +59,7 @@
             "code": "KE-1-3-1",
             "text": {
               "local": "Årstidsväxlingar i naturen. Några djurs och växters livscykler och an­pass­ningar till olika livsmiljöer och årstider.",
-              "en": ""
+              "en": "Seasonal changes in nature. The life cycles of some animals and plants, and their adaptations to different habitats and seasons."
             },
             "coreElements": [
               "Året runt i naturen"
@@ -70,7 +70,7 @@
             "code": "KE-1-3-2",
             "text": {
               "local": "Djur, växter och svampar i närmiljön, hur de kan grupperas samt namn på några vanligt förekommande arter.",
-              "en": ""
+              "en": "Animals, plants and fungi in the local environment, how they can be grouped, and the names of some commonly occurring species."
             },
             "coreElements": [
               "Året runt i naturen"
@@ -81,7 +81,7 @@
             "code": "KE-1-3-3",
             "text": {
               "local": "Enkla näringskedjor som beskriver samband mellan organismer i eko­system.",
-              "en": ""
+              "en": "Simple food chains describing relationships between organisms in ecosystems."
             },
             "coreElements": [
               "Året runt i naturen"
@@ -92,7 +92,7 @@
             "code": "KE-1-3-4",
             "text": {
               "local": "Några av människans organ, deras namn och översiktliga funktion.",
-              "en": ""
+              "en": "Some of the human organs, their names and general function."
             },
             "coreElements": [
               "Kropp och hälsa"
@@ -103,7 +103,7 @@
             "code": "KE-1-3-5",
             "text": {
               "local": "Människans upplevelser av ljus, ljud, värme, smak och doft med hjälp av oli­ka sinnen.",
-              "en": ""
+              "en": "Human perception of light, sound, heat, taste and smell through different senses."
             },
             "coreElements": [
               "Kropp och hälsa"
@@ -114,7 +114,7 @@
             "code": "KE-1-3-6",
             "text": {
               "local": "Betydelsen av kost, sömn, hygien, motion och sociala relationer för att må bra.",
-              "en": ""
+              "en": "The importance of diet, sleep, hygiene, exercise and social relationships for well-being."
             },
             "coreElements": [
               "Kropp och hälsa"
@@ -125,7 +125,7 @@
             "code": "KE-1-3-7",
             "text": {
               "local": "Tyngdkraft, tyngdpunkt, jämvikt, balans och friktion som kan upplevas och obser­veras vid lek och rörelse.",
-              "en": ""
+              "en": "Gravity, centre of gravity, equilibrium, balance and friction that can be experienced and observed during play and movement."
             },
             "coreElements": [
               "Kraft och rörelse"
@@ -136,7 +136,7 @@
             "code": "KE-1-3-8",
             "text": {
               "local": "Solsystemets himlakroppar och deras rörelser. Människan i rymden.",
-              "en": ""
+              "en": "The celestial bodies of the solar system and their movements. Humans in space."
             },
             "coreElements": [
               "Kraft och rörelse"
@@ -147,7 +147,7 @@
             "code": "KE-1-3-9",
             "text": {
               "local": "Hur material kan sorteras efter några egenskaper, till exempel utseende, om de är magnetiska och om de flyter eller sjunker i vatten. Hur materialen kan åter­vinnas.",
-              "en": ""
+              "en": "How materials can be sorted by certain properties, for example appearance, whether they are magnetic, and whether they float or sink in water. How materials can be recycled."
             },
             "coreElements": [
               "Material och ämnen"
@@ -158,7 +158,7 @@
             "code": "KE-1-3-10",
             "text": {
               "local": "Några blandningar och hur de kan delas upp i sina olika beståndsdelar, till exem­pel genom avdunstning och filtrering.",
-              "en": ""
+              "en": "Some mixtures and how they can be separated into their different components, for example through evaporation and filtration."
             },
             "coreElements": [
               "Material och ämnen"
@@ -169,7 +169,7 @@
             "code": "KE-1-3-11",
             "text": {
               "local": "Vattnets olika former: fast, flytande och gas. Avdunstning, kokning, kon­den­sering, smältning och stelning.",
-              "en": ""
+              "en": "The different forms of water: solid, liquid and gas. Evaporation, boiling, condensation, melting and solidification."
             },
             "coreElements": [
               "Material och ämnen"
@@ -180,7 +180,7 @@
             "code": "KE-1-3-12",
             "text": {
               "local": "Enkla fältstudier, observationer och experiment. Utförande och dokumen­ta­tion av undersökningarna med ord, bilder och digitala verktyg.",
-              "en": ""
+              "en": "Simple field studies, observations and experiments. Carrying out and documenting the investigations with words, pictures and digital tools."
             },
             "coreElements": [
               "Systematiska undersökningar"
@@ -193,7 +193,7 @@
             "code": "KE-1-3-13",
             "text": {
               "local": "Några berättelser om hur naturvetenskaplig kunskap vuxit fram.",
-              "en": ""
+              "en": "Some stories about how scientific knowledge has developed."
             },
             "coreElements": [
               "Systematiska undersökningar"
@@ -206,7 +206,7 @@
             "gradeStep": "",
             "text": {
               "local": "Kriterier för bedömning av godtagbara kunskaper i slutet av årskurs 3Eleven visar grundläggande kunskaper om natur, kropp och hälsa, kraft och rörelse samt material och ämnen. Utifrån egna upplevelser och utforskande av närmiljön beskriver eleven enkla naturvetenskapliga samband i naturen och människokroppen. Utifrån tydliga instruktioner utför eleven enkla fältstudier, observationer och experiment.",
-              "en": ""
+              "en": "Criteria for assessing acceptable knowledge at the end of year 3. The pupil demonstrates basic knowledge of nature, the body and health, force and motion, and materials and substances. Based on their own experiences and exploration of the local environment, the pupil describes simple scientific relationships in nature and the human body. Following clear instructions, the pupil carries out simple field studies, observations and experiments."
             }
           }
         ]
@@ -222,7 +222,7 @@
             "code": "KE-4-6-1",
             "text": {
               "local": "Materiens uppbyggnad visualiserad med hjälp av enkla partikelmodeller.",
-              "en": ""
+              "en": "The structure of matter visualised using simple particle models."
             },
             "coreElements": [
               "Kemin i naturen, i samhället och i människokroppen"
@@ -233,7 +233,7 @@
             "code": "KE-4-6-2",
             "text": {
               "local": "Indelning av ämnen och material utifrån egenskaperna löslighet, lednings­förmåga, surt eller basiskt.",
-              "en": ""
+              "en": "Classification of substances and materials based on the properties of solubility, conductivity, and acidity or alkalinity."
             },
             "coreElements": [
               "Kemin i naturen, i samhället och i människokroppen"
@@ -244,7 +244,7 @@
             "code": "KE-4-6-3",
             "text": {
               "local": "Vattnets egenskaper och kretslopp.",
-              "en": ""
+              "en": "The properties and cycle of water."
             },
             "coreElements": [
               "Kemin i naturen, i samhället och i människokroppen"
@@ -255,7 +255,7 @@
             "code": "KE-4-6-4",
             "text": {
               "local": "Luftens egenskaper och sammansättning.",
-              "en": ""
+              "en": "The properties and composition of air."
             },
             "coreElements": [
               "Kemin i naturen, i samhället och i människokroppen"
@@ -266,7 +266,7 @@
             "code": "KE-4-6-5",
             "text": {
               "local": "Fotosyntes och förbränning som exempel på kemiska reaktioner i naturen.",
-              "en": ""
+              "en": "Photosynthesis and combustion as examples of chemical reactions in nature."
             },
             "coreElements": [
               "Kemin i naturen, i samhället och i människokroppen"
@@ -277,7 +277,7 @@
             "code": "KE-4-6-6",
             "text": {
               "local": "Fossila och förnybara bränslen och deras påverkan på klimatet.",
-              "en": ""
+              "en": "Fossil and renewable fuels and their impact on the climate."
             },
             "coreElements": [
               "Kemin i naturen, i samhället och i människokroppen"
@@ -288,7 +288,7 @@
             "code": "KE-4-6-7",
             "text": {
               "local": "Matens innehåll och näringsämnenas betydelse för hälsan.",
-              "en": ""
+              "en": "The content of food and the importance of nutrients for health."
             },
             "coreElements": [
               "Kemin i naturen, i samhället och i människokroppen"
@@ -299,7 +299,7 @@
             "code": "KE-4-6-8",
             "text": {
               "local": "Vanliga kemikalier i hemmet. Deras användning och påverkan på miljön och människan samt hur de är märkta och bör hanteras.",
-              "en": ""
+              "en": "Common chemicals in the home. Their use and impact on the environment and humans, and how they are labelled and should be handled."
             },
             "coreElements": [
               "Kemin i naturen, i samhället och i människokroppen"
@@ -312,7 +312,7 @@
             "code": "KE-4-6-9",
             "text": {
               "local": "Råvarors förädling till produkter, till exempel metaller, papper och plast. Hur produkterna kan återanvändas eller återvinnas.",
-              "en": ""
+              "en": "The processing of raw materials into products, for example metals, paper and plastic. How the products can be reused or recycled."
             },
             "coreElements": [
               "Kemin i naturen, i samhället och i människokroppen"
@@ -325,7 +325,7 @@
             "code": "KE-4-6-10",
             "text": {
               "local": "Observationer och experiment med såväl analoga som digitala verktyg. Plane­ring, utförande, värdering av resultat samt dokumentation med ord, bilder och tabeller.",
-              "en": ""
+              "en": "Observations and experiments using both analogue and digital tools. Planning, carrying out, evaluating results and documenting with words, pictures and tables."
             },
             "coreElements": [
               "Systematiska undersökningar och granskning av information"
@@ -338,7 +338,7 @@
             "code": "KE-4-6-11",
             "text": {
               "local": "Några upptäckter inom kemiområdet och deras betydelse för människans lev­nads­villkor och syn på naturen.",
-              "en": ""
+              "en": "Some discoveries in the field of chemistry and their significance for human living conditions and views of nature."
             },
             "coreElements": [
               "Systematiska undersökningar och granskning av information"
@@ -349,7 +349,7 @@
             "code": "KE-4-6-12",
             "text": {
               "local": "Kritisk granskning och användning av information som rör kemi.",
-              "en": ""
+              "en": "Critical examination and use of information relating to chemistry."
             },
             "coreElements": [
               "Systematiska undersökningar och granskning av information"
@@ -362,35 +362,35 @@
             "gradeStep": "E",
             "text": {
               "local": "Betygskriterier för betyget E i slutet av årskurs 6Eleven visar grundläggande kunskaper om kemins begrepp och förklaringsmodeller. Med viss användning av begreppen och förklaringsmodellerna beskriver eleven enkla kemiska samband i naturen, i samhället och i människokroppen. Eleven använder information som rör kemi för att med viss naturvetenskaplig underbyggnad föra resonemang i frågor som rör miljö och hälsa. Eleven söker svar på frågor genom att utföra systematiska undersökningar på ett säkert och i huvudsak fungerande sätt. Eleven värderar resultaten och beskriver på ett enkelt sätt undersökningarna.",
-              "en": ""
+              "en": "Grading criteria for grade E at the end of year 6. The pupil demonstrates basic knowledge of the concepts and explanatory models of chemistry. With some use of the concepts and explanatory models, the pupil describes simple chemical relationships in nature, in society and in the human body. The pupil uses information relating to chemistry to reason with some scientific basis on issues concerning the environment and health. The pupil seeks answers to questions by carrying out systematic investigations in a safe and essentially functioning way. The pupil evaluates the results and describes the investigations in a simple way."
             }
           },
           {
             "gradeStep": "D",
             "text": {
               "local": "Betygskriterier för betyget D i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan C och E.",
-              "en": ""
+              "en": "Grading criteria for grade D at the end of year 6. The pupil's knowledge is assessed overall as being between C and E."
             }
           },
           {
             "gradeStep": "C",
             "text": {
               "local": "Betygskriterier för betyget C i slutet av årskurs 6Eleven visar goda kunskaper om kemins begrepp och förklaringsmodeller. Med relativt god användning av begreppen och förklaringsmodellerna beskriver eleven enkla kemiska samband i naturen, i samhället och i människokroppen. Eleven använder information som rör kemi för att med relativt god naturvetenskaplig underbyggnad föra resonemang i frågor som rör miljö och hälsa. Eleven söker svar på frågor genom att utföra systematiska undersökningar på ett säkert och fungerande sätt. Eleven värderar resultaten och beskriver på ett utvecklat sätt undersökningarna.",
-              "en": ""
+              "en": "Grading criteria for grade C at the end of year 6. The pupil demonstrates good knowledge of the concepts and explanatory models of chemistry. With relatively good use of the concepts and explanatory models, the pupil describes simple chemical relationships in nature, in society and in the human body. The pupil uses information relating to chemistry to reason with a relatively good scientific basis on issues concerning the environment and health. The pupil seeks answers to questions by carrying out systematic investigations in a safe and functioning way. The pupil evaluates the results and describes the investigations in a developed way."
             }
           },
           {
             "gradeStep": "B",
             "text": {
               "local": "Betygskriterier för betyget B i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan A och C.",
-              "en": ""
+              "en": "Grading criteria for grade B at the end of year 6. The pupil's knowledge is assessed overall as being between A and C."
             }
           },
           {
             "gradeStep": "A",
             "text": {
               "local": "Betygskriterier för betyget A i slutet av årskurs 6Eleven visar mycket goda kunskaper om kemins begrepp och förklaringsmodeller. Med god användning av begreppen och förklaringsmodellerna beskriver eleven enkla kemiska samband i naturen, i samhället och i människokroppen. Eleven använder information som rör kemi för att med god naturvetenskaplig underbyggnad föra resonemang i frågor som rör miljö och hälsa. Eleven söker svar på frågor genom att utföra systematiska undersökningar på ett säkert och väl fungerande sätt. Eleven värderar resultaten och beskriver på ett välutvecklat sätt undersökningarna.",
-              "en": ""
+              "en": "Grading criteria for grade A at the end of year 6. The pupil demonstrates very good knowledge of the concepts and explanatory models of chemistry. With good use of the concepts and explanatory models, the pupil describes simple chemical relationships in nature, in society and in the human body. The pupil uses information relating to chemistry to reason with a good scientific basis on issues concerning the environment and health. The pupil seeks answers to questions by carrying out systematic investigations in a safe and well-functioning way. The pupil evaluates the results and describes the investigations in a well-developed way."
             }
           }
         ]
@@ -406,7 +406,7 @@
             "code": "KE-7-9-1",
             "text": {
               "local": "Materiens uppbyggnad, kretslopp och oförstörbarhet visualiserat med hjälp av partikelmodeller. Grundämnen, molekyl- och jonföreningar samt hur äm­nen omvandlas genom kemiska reaktioner. Atomer, elektroner och kärn­partiklar.",
-              "en": ""
+              "en": "The structure, cycling and conservation of matter visualised using particle models. Elements, molecular and ionic compounds, and how substances are transformed through chemical reactions. Atoms, electrons and nuclear particles."
             },
             "coreElements": [
               "Kemin i naturen, i samhället och i människokroppen"
@@ -417,7 +417,7 @@
             "code": "KE-7-9-2",
             "text": {
               "local": "Separations- och analysmetoder, till exempel filtrering, fällning, pH-mät­ning och identifikation av ämnen.",
-              "en": ""
+              "en": "Separation and analysis methods, for example filtration, precipitation, pH measurement and identification of substances."
             },
             "coreElements": [
               "Kemin i naturen, i samhället och i människokroppen"
@@ -428,7 +428,7 @@
             "code": "KE-7-9-3",
             "text": {
               "local": "Vatten som lösningsmedel och transportör av ämnen, till exempel i mark, väx­ter och människokroppen.",
-              "en": ""
+              "en": "Water as a solvent and transporter of substances, for example in soil, plants and the human body."
             },
             "coreElements": [
               "Kemin i naturen, i samhället och i människokroppen"
@@ -439,7 +439,7 @@
             "code": "KE-7-9-4",
             "text": {
               "local": "Några kemiska processer i mark, luft och vatten samt deras koppling till frå­gor om miljö och hälsa, till exempel växthuseffekten, vattenrening och sprid­ning av miljögifter.",
-              "en": ""
+              "en": "Some chemical processes in soil, air and water, and their connection to issues of environment and health, for example the greenhouse effect, water purification and the spread of environmental toxins."
             },
             "coreElements": [
               "Kemin i naturen, i samhället och i människokroppen"
@@ -450,7 +450,7 @@
             "code": "KE-7-9-5",
             "text": {
               "local": "Kolatomens egenskaper och kretslopp i naturen, i samhället och i män­ni­sko­­kroppen.",
-              "en": ""
+              "en": "The properties and cycle of the carbon atom in nature, in society and in the human body."
             },
             "coreElements": [
               "Kemin i naturen, i samhället och i människokroppen"
@@ -461,7 +461,7 @@
             "code": "KE-7-9-6",
             "text": {
               "local": "Kolhydrater, proteiner och fetter samt deras funktioner i människokroppen.",
-              "en": ""
+              "en": "Carbohydrates, proteins and fats, and their functions in the human body."
             },
             "coreElements": [
               "Kemin i naturen, i samhället och i människokroppen"
@@ -472,7 +472,7 @@
             "code": "KE-7-9-7",
             "text": {
               "local": "Utveckling av produkter och material, till exempel läkemedel, funktions­klä­der och batterier.",
-              "en": ""
+              "en": "Development of products and materials, for example pharmaceuticals, functional clothing and batteries."
             },
             "coreElements": [
               "Kemin i naturen, i samhället och i människokroppen"
@@ -483,7 +483,7 @@
             "code": "KE-7-9-8",
             "text": {
               "local": "Några produkters livscykler och påverkan på miljön.",
-              "en": ""
+              "en": "The life cycles of some products and their impact on the environment."
             },
             "coreElements": [
               "Kemin i naturen, i samhället och i människokroppen"
@@ -494,7 +494,7 @@
             "code": "KE-7-9-9",
             "text": {
               "local": "Observationer och experiment med såväl analoga som digitala verktyg. Formulering av undersökningsbara frågor, planering, utförande, värdering av resultat samt dokumentation med bilder, tabeller, diagram och rapporter.",
-              "en": ""
+              "en": "Observations and experiments using both analogue and digital tools. Formulating investigable questions, planning, carrying out, evaluating results and documenting with pictures, tables, charts and reports."
             },
             "coreElements": [
               "Systematiska undersökningar och granskning av information"
@@ -507,7 +507,7 @@
             "code": "KE-7-9-10",
             "text": {
               "local": "Sambandet mellan kemiska undersökningar och utvecklingen av begrepp och förklaringsmodeller. De kemiska förklaringsmodellernas historiska framväxt, användbarhet och föränderlighet.",
-              "en": ""
+              "en": "The connection between chemical investigations and the development of concepts and explanatory models. The historical emergence, usefulness and changeability of chemical explanatory models."
             },
             "coreElements": [
               "Systematiska undersökningar och granskning av information"
@@ -518,7 +518,7 @@
             "code": "KE-7-9-11",
             "text": {
               "local": "Informationssökning, kritisk granskning och användning av information som rör kemi. Argumentation och ställningstaganden i aktuella frågor som rör miljö och hälsa.",
-              "en": ""
+              "en": "Searching for information, critical examination and use of information relating to chemistry. Argumentation and taking positions on current issues concerning the environment and health."
             },
             "coreElements": [
               "Systematiska undersökningar och granskning av information"
@@ -531,35 +531,35 @@
             "gradeStep": "E",
             "text": {
               "local": "Betygskriterier för betyget E i slutet av årskurs 9Eleven visar grundläggande kunskaper om kemins begrepp och förklaringsmodeller. Med viss användning av begreppen och förklaringsmodellerna beskriver och förklarar eleven kemiska samband i naturen, i samhället och i människokroppen. I frågor som rör miljö och hälsa för eleven resonemang samt framför och bemöter argument med viss naturvetenskaplig underbyggnad. Eleven söker information som rör kemi och använder då olika källor och för enkla resonemang om informationens och källornas trovärdighet och relevans. Eleven söker svar på frågor genom att planera och utföra systematiska undersökningar på ett säkert och i huvudsak fungerande sätt. Eleven värderar undersökningarna genom att föra enkla resonemang utifrån frågeställningarna.",
-              "en": ""
+              "en": "Grading criteria for grade E at the end of year 9. The pupil demonstrates basic knowledge of the concepts and explanatory models of chemistry. With some use of the concepts and explanatory models, the pupil describes and explains chemical relationships in nature, in society and in the human body. On issues concerning the environment and health, the pupil reasons and presents and responds to arguments with some scientific basis. The pupil searches for information relating to chemistry, uses different sources and conducts simple reasoning about the credibility and relevance of the information and sources. The pupil seeks answers to questions by planning and carrying out systematic investigations in a safe and essentially functioning way. The pupil evaluates the investigations by conducting simple reasoning based on the research questions."
             }
           },
           {
             "gradeStep": "D",
             "text": {
               "local": "Betygskriterier för betyget D i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan C och E.",
-              "en": ""
+              "en": "Grading criteria for grade D at the end of year 9. The pupil's knowledge is assessed overall as being between C and E."
             }
           },
           {
             "gradeStep": "C",
             "text": {
               "local": "Betygskriterier för betyget C i slutet av årskurs 9Eleven visar goda kunskaper om kemins begrepp och förklaringsmodeller. Med relativt god användning av begreppen och förklaringsmodellerna beskriver och förklarar eleven kemiska samband i naturen, i samhället och i människokroppen. I frågor som rör miljö och hälsa för eleven resonemang samt framför och bemöter argument med relativt god naturvetenskaplig underbyggnad. Eleven söker information som rör kemi och använder då olika källor och för utvecklade resonemang om informationens och källornas trovärdighet och relevans. Eleven söker svar på frågor genom att planera och utföra systematiska undersökningar på ett säkert och fungerande sätt. Eleven värderar undersökningarna genom att föra utvecklade resonemang utifrån frågeställningarna.",
-              "en": ""
+              "en": "Grading criteria for grade C at the end of year 9. The pupil demonstrates good knowledge of the concepts and explanatory models of chemistry. With relatively good use of the concepts and explanatory models, the pupil describes and explains chemical relationships in nature, in society and in the human body. On issues concerning the environment and health, the pupil reasons and presents and responds to arguments with a relatively good scientific basis. The pupil searches for information relating to chemistry, uses different sources and conducts developed reasoning about the credibility and relevance of the information and sources. The pupil seeks answers to questions by planning and carrying out systematic investigations in a safe and functioning way. The pupil evaluates the investigations by conducting developed reasoning based on the research questions."
             }
           },
           {
             "gradeStep": "B",
             "text": {
               "local": "Betygskriterier för betyget B i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan A och C.",
-              "en": ""
+              "en": "Grading criteria for grade B at the end of year 9. The pupil's knowledge is assessed overall as being between A and C."
             }
           },
           {
             "gradeStep": "A",
             "text": {
               "local": "Betygskriterier för betyget A i slutet av årskurs 9Eleven visar mycket goda kunskaper om kemins begrepp och förklaringsmodeller. Med god användning av begreppen och förklaringsmodellerna beskriver och förklarar eleven kemiska samband i naturen, i samhället och i människokroppen. I frågor som rör miljö och hälsa för eleven resonemang samt framför och bemöter argument med god naturvetenskaplig underbyggnad. Eleven söker information som rör kemi och använder då olika källor och för välutvecklade resonemang om informationens och källornas trovärdighet och relevans. Eleven söker svar på frågor genom att planera och utföra systematiska undersökningar på ett säkert och väl fungerande sätt. Eleven värderar undersökningarna genom att föra välutvecklade resonemang utifrån frågeställningarna.",
-              "en": ""
+              "en": "Grading criteria for grade A at the end of year 9. The pupil demonstrates very good knowledge of the concepts and explanatory models of chemistry. With good use of the concepts and explanatory models, the pupil describes and explains chemical relationships in nature, in society and in the human body. On issues concerning the environment and health, the pupil reasons and presents and responds to arguments with a good scientific basis. The pupil searches for information relating to chemistry, uses different sources and conducts well-developed reasoning about the credibility and relevance of the information and sources. The pupil seeks answers to questions by planning and carrying out systematic investigations in a safe and well-functioning way. The pupil evaluates the investigations by conducting well-developed reasoning based on the research questions."
             }
           }
         ]

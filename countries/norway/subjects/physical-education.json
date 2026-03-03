@@ -4,13 +4,17 @@
     "api": "https://data.udir.no/kl06/v201906/laereplaner-lk20/KRO01-05",
     "curriculum": "LK20",
     "license": "NLOD",
-    "lastSynced": "2026-03-02T21:40:14Z"
+    "lastSynced": "2026-03-03T08:37:36Z"
   },
   "subject": {
     "code": "KRO01-05",
     "name": {
       "local": "Læreplan i kroppsøving",
       "en": "Curriculum in Physical education"
+    },
+    "description": {
+      "local": "Kroppsøving er et sentralt fag for å stimulere til livslang bevegelsesglede og til en fysisk aktiv livsstil ut fra egne forutsetninger. Faget skal bidra til at elevene lærer, sanser, opplever og skaper med kroppen. Gjennom bevegelsesaktivitet og naturferdsel sammen med andre fremmer kroppsøving samarbeid, forståelse og respekt for hverandre. Faget skal bidra til at elevene utvikler kompetanse om trening, livsstil og helse og erfarer hva egen innsats betyr for å oppnå mål. Innsatsen til elevene er derfor en del av kompetansen i kroppsøving. Faget skal motivere elevene til å holde ved like en fysisk aktiv og helsefremmende livsstil etter avsluttet skolegang og i framtidig arbeidsliv.",
+      "en": "Physical education is an important subject for stimulating lifelong joy of movement and a physically active lifestyle based on personal qualities and abilities. The subject shall help the pupils to learn, sense, experience and create with their bodies. Through movement activities and nature wandering together with others, physical education promotes collaboration, understanding and respect for each other. The subject shall help the pupils to develop their competence in exercising, lifestyle choices and health, and also to experience the importance of one’s own efforts for achieving goals. The pupils’ efforts are therefore part of the competence in physical education. The subject shall motivate the pupils to maintain a physically active and health-promoting lifestyle after leaving school and in their future working lives."
     },
     "coreElements": [
       {
@@ -47,6 +51,98 @@
         }
       }
     ],
+    "interdisciplinaryThemes": [
+      {
+        "code": "TT1",
+        "name": {
+          "local": "Folkehelse og livsmestring",
+          "en": "Health and life skills"
+        },
+        "description": {
+          "local": "I kroppsøving handler det tverrfaglige temaet folkehelse og livsmestring om å fremme god psykisk og fysisk helse og gi elevene verktøy til å ta ansvarlige livsvalg. Faget skal fremme et positivt selvbilde som kan gi elevene en trygg identitet. Faget skal medvirke til at elevene får kunnskap om ulike perspektiver på bevegelsesaktiviteter og helse. Elevene skal også lære å forvalte helse som ressurs på en måte som gagner den enkelte, og lære å ta gode valg for egen og andres helse gjennom livet.",
+          "en": "In physical education the interdisciplinary topic of health and life skills refers to promoting good mental and physical health and giving the pupils tools to make responsible life choices. The subject shall promote a positive self-image which can give the pupils a stable identity. The subject shall help the pupils to acquire knowledge about different perspectives on movement activities and health. The pupils shall also learn to treat health as a resource in a way that benefits each individual, and learn to make choices that are good for their own and others’ health throughout life."
+        }
+      },
+      {
+        "code": "TT2",
+        "name": {
+          "local": "Demokrati og medborgerskap",
+          "en": "Democracy and citizenship"
+        },
+        "description": {
+          "local": "I kroppsøving handler det tverrfaglige temaet demokrati og medborgerskap om å fremme evne til samspill i aktiviteter og refleksjon over hva egen deltakelse og egen innsats innebærer for samspill og læring i faget. Faget skal medvirke til at elevene får kunnskap om og forståelse av demokratiske verdier og spilleregler gjennom medvirkning og medansvar i deltakelse og samarbeid. Faget skal også gi rom for å øve opp kritisk tenkning og lære å håndtere meningsbrytning og respektere uenighet.",
+          "en": "In physical education the interdisciplinary topic of democracy and citizenship refers to promoting the ability to interact in activities, and to reflecting on what one’s own participation and efforts mean for interaction and learning in the subject. The subject shall contribute to giving the pupils knowledge about and understanding of democratic values and rules through co-participation, co-responsibility and cooperation in interaction with others. The subject shall also help the pupils to practise in thinking critically, learning to deal with differences of opinion and respecting disagreement."
+        }
+      },
+      {
+        "code": "TT3",
+        "name": {
+          "local": "Bærekraftig utvikling",
+          "en": "Sustainability"
+        },
+        "description": {
+          "local": "I kroppsøving handler det tverrfaglige temaet bærekraftig utvikling om naturopplevelser med vekt på trygg og bærekraftig ferdsel. Faget skal medvirke til forståelse av at valgene den enkelte gjør, har betydning og konsekvenser for bærekraftig utvikling og vern av livet på jorda, både lokalt, regionalt og globalt.",
+          "en": "In physical education the interdisciplinary topic of sustainability refers to experiencing nature with emphasis on safe and sustainable outdoor life nature wandering. The subject shall contribute to understanding that the choices each person makes have an impact on and consequences for sustainable development and the protection of life on Earth, locally, regionally and globally."
+        }
+      }
+    ],
+    "basicSkills": [
+      {
+        "code": "GF1",
+        "name": {
+          "local": "Muntlige ferdigheter",
+          "en": "Oral skills"
+        },
+        "description": {
+          "local": "Muntlige ferdigheter i kroppsøving er å kunne lytte og kommunisere i bevegelsesaktiviteter og å kunne forklare og uttrykke egne erfaringer og refleksjoner. Utviklingen av muntlige ferdigheter i kroppsøving går fra språklig utforsking i bevegelseserfaringer til videre refleksjon og drøfting rundt sentralt innhold i faget.",
+          "en": "Oral skills in physical education refers to the ability to listen and communicate in movement activities and to being able to explain and express one’s own experiences and reflections. The development of oral skills in physical education progresses from language exploration of movement experiences to further reflection on and discussion of important content in the subject."
+        }
+      },
+      {
+        "code": "GF2",
+        "name": {
+          "local": "Å kunne skrive",
+          "en": "Writing"
+        },
+        "description": {
+          "local": "Å kunne skrive i kroppsøving er å planlegge, gi uttrykk for og vurdere egen utvikling i faget. Det innebærer også å utforme egne treningsplaner. Utviklingen av skriveferdigheter i kroppsøving går fra å bruke tegninger, bilder, figurer og planer til å kunne skrive mer fagspesifikke tekster og illustrasjoner.",
+          "en": "Writing in physical education refers to planning, expressing and assessing one’s own development in the subject. This also means being able to prepare one’s own exercise plans. The development of writing skills in physical education progresses from using drawings, pictures, figures and plans to being able to write more subject-specific texts and illustrations."
+        }
+      },
+      {
+        "code": "GF3",
+        "name": {
+          "local": "Å kunne lese",
+          "en": "Reading"
+        },
+        "description": {
+          "local": "Å kunne lese i kroppsøving er å finne, tolke og kritisk vurdere ulike former for tekster og informasjon og å søke kunnskap som er nødvendig for å utvikle kompetanse i faget. Utviklingen av leseferdigheter i kroppsøving går fra å hente inn og reflektere over informasjon fra enkle instruksjoner, kart og tekster til å kunne lese mer sammensatte og fagspesifikke tekster, kart og bilder.",
+          "en": "Reading in physical education refers to finding, interpreting and critically assessing different types of texts and information, and to searching for the necessary knowledge to develop competence in the subject. The development of reading skills in physical education progresses from collecting and reflecting on information from simple instructions, maps and texts to being able to read more multimedia and subject-specific texts, map and pictures."
+        }
+      },
+      {
+        "code": "GF4",
+        "name": {
+          "local": "Å kunne regne",
+          "en": "Numeracy"
+        },
+        "description": {
+          "local": "Å kunne regne i kroppsøving innebærer å bruke matematiske uttrykk for å planlegge, gjennomføre og reflektere over ulike forhold i mangfoldet av bevegelsesaktiviteter i faget. Utviklingen av regneferdigheter i kroppsøving går fra å erfare avstand, aktiviteter, spill og lek til gjennom økende kompleksitet, å kunne relatere bevegelsesaktivitetene til begreper som vekt, fart, kraft, tid og mengde.",
+          "en": "Numeracy in physical education refers to using mathematical expressions to plan, carry out and reflect on different aspects in the diversity of movement activities in the subject. The development of numeracy skills in physical education progresses from experiencing distance, activities, play and games through increasing complexity to being able to relate movement activities to such concepts as weight, speed, force, time and amount."
+        }
+      },
+      {
+        "code": "GF5",
+        "name": {
+          "local": "Digitale ferdigheter",
+          "en": "Digital skills"
+        },
+        "description": {
+          "local": "Digitale ferdigheter i kroppsøving er å kunne bruke digitale ressurser til å utforske, være skapende og håndtere praktiske utfordringer i faget. Det innebærer også å bruke digitale ressurser bevisst og kritisk til å utvikle en trygg identitet, kroppsbevissthet og et positivt selvbilde. Utviklingen av digitale ferdigheter i kroppsøving går fra å kunne følge regler for digital samhandling og personvern til å kunne planlegge og vurdere egentrening ved hjelp av digitale ressurser.",
+          "en": "Digital skills in physical education refers to the ability to use digital resources to explore, be creative and solve practical challenges in the subject. It also refers to using digital resources critically and with awareness to develop a stable identity, awareness of the body and a positive self-image. The development of digital skills in physical education progresses from being able to follow rules for digital interaction and protection of individual information to using digital resources to plan and assess one’s own fitness and exercise."
+        }
+      }
+    ],
     "gradeBands": [
       {
         "afterGrade": 2,
@@ -62,8 +158,8 @@
               "en": "explore one’s own bodily movement in play and other activities, alone and together with others"
             },
             "coreElements": [
-              "Bevegelse og kroppslig læring",
-              "Deltakelse og samspill i bevegelsesaktiviteter"
+              "Bevegelse og kroppsleg læring",
+              "Deltaking og samspel i bevegelsesaktivitetar"
             ],
             "verbs": [
               "Utforske"
@@ -76,7 +172,7 @@
               "en": "explore and carry out basic movements such as to crawl, walk, run, hop on one leg, jump, land, turn and roll in different environments based on one’s own abilities"
             },
             "coreElements": [
-              "Bevegelse og kroppslig læring"
+              "Bevegelse og kroppsleg læring"
             ],
             "verbs": [
               "Utforske",
@@ -90,7 +186,7 @@
               "en": "practise in delivering, receiving and playing with different objects and types of ball"
             },
             "coreElements": [
-              "Bevegelse og kroppslig læring"
+              "Bevegelse og kroppsleg læring"
             ],
             "verbs": [
               "Øve"
@@ -103,7 +199,7 @@
               "en": "play and interact with others in activities in a variety of movement environments"
             },
             "coreElements": [
-              "Deltakelse og samspill i bevegelsesaktiviteter"
+              "Deltaking og samspel i bevegelsesaktivitetar"
             ],
             "verbs": []
           },
@@ -114,7 +210,7 @@
               "en": "play and perform basic exercises to get accustomed to water, such as to dive, float, glide, move through the water and jump into and orient oneself in water"
             },
             "coreElements": [
-              "Bevegelse og kroppslig læring"
+              "Bevegelse og kroppsleg læring"
             ],
             "verbs": []
           },
@@ -125,7 +221,7 @@
               "en": "understand and follow simple rules for interaction in various movement activities"
             },
             "coreElements": [
-              "Deltakelse og samspill i bevegelsesaktiviteter"
+              "Deltaking og samspel i bevegelsesaktivitetar"
             ],
             "verbs": [
               "Forstå"
@@ -138,7 +234,7 @@
               "en": "explore nature in the local environment with a variety of activities in each of the seasons"
             },
             "coreElements": [
-              "Uteaktiviteter og naturferdsel"
+              "Uteaktivitetar og naturferdsel"
             ],
             "verbs": [
               "Utforske"
@@ -151,7 +247,7 @@
               "en": "understand and follow rules for hiking and wear the proper clothing according to the weather and outdoor conditions"
             },
             "coreElements": [
-              "Uteaktiviteter og naturferdsel"
+              "Uteaktivitetar og naturferdsel"
             ],
             "verbs": [
               "Forstå",
@@ -165,7 +261,7 @@
               "en": "practise safe behaviour in traffic"
             },
             "coreElements": [
-              "Uteaktiviteter og naturferdsel"
+              "Uteaktivitetar og naturferdsel"
             ],
             "verbs": [
               "Øve"
@@ -178,7 +274,7 @@
               "en": "practise safe behaviour when in the water and practise how to call for help"
             },
             "coreElements": [
-              "Uteaktiviteter og naturferdsel"
+              "Uteaktivitetar og naturferdsel"
             ],
             "verbs": [
               "Øve"
@@ -200,7 +296,7 @@
               "en": "explore and play games, take part in sports activities, dancing and other movement activities"
             },
             "coreElements": [
-              "Deltakelse og samspill i bevegelsesaktiviteter"
+              "Deltaking og samspel i bevegelsesaktivitetar"
             ],
             "verbs": [
               "Utforske",
@@ -214,7 +310,7 @@
               "en": "use one's body to explore activities and develop basic movements"
             },
             "coreElements": [
-              "Bevegelse og kroppslig læring"
+              "Bevegelse og kroppsleg læring"
             ],
             "verbs": [
               "Utforske",
@@ -229,7 +325,7 @@
               "en": "practise and use basic skills, such as running with, throwing, bouncing, kicking and catching a ball in various movement activities"
             },
             "coreElements": [
-              "Bevegelse og kroppslig læring"
+              "Bevegelse og kroppsleg læring"
             ],
             "verbs": [
               "Bruke",
@@ -243,7 +339,7 @@
               "en": "show the ability to swim by falling into deep water, front stroke swimming 100 m, during which the pupil dives down and picks up an object with his or her hands, stopping and resting for three minutes (while keeping afloat on one's stomach, orienting oneself, rolling over, floating on one’s back), then swimming 100 m backstroke, and climbing ashore"
             },
             "coreElements": [
-              "Bevegelse og kroppslig læring"
+              "Bevegelse og kroppsleg læring"
             ],
             "verbs": []
           },
@@ -254,7 +350,7 @@
               "en": "understand and follow rules for interaction in games and movement activities"
             },
             "coreElements": [
-              "Deltakelse og samspill i bevegelsesaktiviteter"
+              "Deltaking og samspel i bevegelsesaktivitetar"
             ],
             "verbs": [
               "Forstå",
@@ -268,7 +364,7 @@
               "en": "understand how one’s own body and others’ bodies are different, and include others in different movement activities"
             },
             "coreElements": [
-              "Deltakelse og samspill i bevegelsesaktiviteter"
+              "Deltaking og samspel i bevegelsesaktivitetar"
             ],
             "verbs": [
               "Forstå"
@@ -281,8 +377,8 @@
               "en": "explore outdoor activities and cooperate with others during the different seasons in the local environment"
             },
             "coreElements": [
-              "Deltakelse og samspill i bevegelsesaktiviteter",
-              "Uteaktiviteter og naturferdsel"
+              "Deltaking og samspel i bevegelsesaktivitetar",
+              "Uteaktivitetar og naturferdsel"
             ],
             "verbs": [
               "Utforske",
@@ -296,7 +392,7 @@
               "en": "make and use maps to orient oneself in familiar terrain"
             },
             "coreElements": [
-              "Uteaktiviteter og naturferdsel"
+              "Uteaktivitetar og naturferdsel"
             ],
             "verbs": [
               "Bruke"
@@ -309,7 +405,7 @@
               "en": "practise safe and sustainable nature wandering"
             },
             "coreElements": [
-              "Uteaktiviteter og naturferdsel"
+              "Uteaktivitetar og naturferdsel"
             ],
             "verbs": [
               "Øve"
@@ -342,7 +438,7 @@
               "en": "explore, play and play games, and play together with others in various movement activities"
             },
             "coreElements": [
-              "Deltakelse og samspill i bevegelsesaktiviteter"
+              "Deltaking og samspel i bevegelsesaktivitetar"
             ],
             "verbs": [
               "Utforske",
@@ -356,8 +452,8 @@
               "en": "practise complex movements, alone and together with others"
             },
             "coreElements": [
-              "Bevegelse og kroppslig læring",
-              "Deltakelse og samspill i bevegelsesaktiviteter"
+              "Bevegelse og kroppsleg læring",
+              "Deltaking og samspel i bevegelsesaktivitetar"
             ],
             "verbs": [
               "Øve"
@@ -370,7 +466,7 @@
               "en": "take part in activities according to one’s own interests and abilities in dancing, outdoor life, sports activities and other movement activities"
             },
             "coreElements": [
-              "Bevegelse og kroppslig læring"
+              "Bevegelse og kroppsleg læring"
             ],
             "verbs": [
               "Gjennomføre"
@@ -383,7 +479,7 @@
               "en": "use maps, digital tools and signs in nature to orient oneself in nature and the local environment"
             },
             "coreElements": [
-              "Uteaktiviteter og naturferdsel"
+              "Uteaktivitetar og naturferdsel"
             ],
             "verbs": [
               "Bruke"
@@ -396,7 +492,7 @@
               "en": "understand and follow the rules for activities and games and respect the results"
             },
             "coreElements": [
-              "Deltakelse og samspill i bevegelsesaktiviteter"
+              "Deltaking og samspel i bevegelsesaktivitetar"
             ],
             "verbs": [
               "Forstå"
@@ -409,7 +505,7 @@
               "en": "understand the differences between oneself and others and participate in movement activities that may be adapted to the abilities of others, not only one's personal preferences"
             },
             "coreElements": [
-              "Deltakelse og samspill i bevegelsesaktiviteter"
+              "Deltaking og samspel i bevegelsesaktivitetar"
             ],
             "verbs": [
               "Forstå"
@@ -422,7 +518,7 @@
               "en": "perform basic techniques in front stoke swimming, backstroke swimming and swimming under water"
             },
             "coreElements": [
-              "Bevegelse og kroppslig læring"
+              "Bevegelse og kroppsleg læring"
             ],
             "verbs": []
           },
@@ -433,7 +529,7 @@
               "en": "assess the safety of outdoor activities and nature wandering and learn self-rescue in water"
             },
             "coreElements": [
-              "Uteaktiviteter og naturferdsel"
+              "Uteaktivitetar og naturferdsel"
             ],
             "verbs": [
               "Vurdere",
@@ -447,7 +543,7 @@
               "en": "use the local environment and explore local outdoor life cultures"
             },
             "coreElements": [
-              "Uteaktiviteter og naturferdsel"
+              "Uteaktivitetar og naturferdsel"
             ],
             "verbs": [
               "Utforske",
@@ -461,7 +557,7 @@
               "en": "explain the public right of access in nature and behaviour in nature"
             },
             "coreElements": [
-              "Uteaktiviteter og naturferdsel"
+              "Uteaktivitetar og naturferdsel"
             ],
             "verbs": [
               "Gjøre rede for"
@@ -474,7 +570,7 @@
               "en": "go on overnight trips and reflect on one’s own experiences of nature"
             },
             "coreElements": [
-              "Uteaktiviteter og naturferdsel"
+              "Uteaktivitetar og naturferdsel"
             ],
             "verbs": [
               "Reflektere",
@@ -497,8 +593,8 @@
               "en": "explore one’s own opportunities for exercising, health and well-being through play, dancing, outdoor life, sports activities and other movement activities"
             },
             "coreElements": [
-              "Bevegelse og kroppslig læring",
-              "Deltakelse og samspill i bevegelsesaktiviteter"
+              "Bevegelse og kroppsleg læring",
+              "Deltaking og samspel i bevegelsesaktivitetar"
             ],
             "verbs": [
               "Utforske"
@@ -511,7 +607,7 @@
               "en": "exercise and develop skills in a variety of movement activities"
             },
             "coreElements": [
-              "Bevegelse og kroppslig læring"
+              "Bevegelse og kroppsleg læring"
             ],
             "verbs": [
               "Utvikle",
@@ -525,7 +621,7 @@
               "en": "practise and carry out dance activities from youth cultures and other cultures, and together with co-pupils create and present dance compositions"
             },
             "coreElements": [
-              "Deltakelse og samspill i bevegelsesaktiviteter"
+              "Deltaking og samspel i bevegelsesaktivitetar"
             ],
             "verbs": [
               "Gjennomføre",
@@ -540,7 +636,7 @@
               "en": "reflect on how different presentations of the body in media and society affect movement activity, and how the pupil sees his or her body and self-image"
             },
             "coreElements": [
-              "Bevegelse og kroppslig læring"
+              "Bevegelse og kroppsleg læring"
             ],
             "verbs": [
               "Reflektere"
@@ -553,7 +649,7 @@
               "en": "plan and perform movement activities that can be carried out in the case of injury or illness"
             },
             "coreElements": [
-              "Bevegelse og kroppslig læring"
+              "Bevegelse og kroppsleg læring"
             ],
             "verbs": [
               "Gjennomføre",
@@ -567,8 +663,8 @@
               "en": "use one’s own skills and knowledge in a way that might help others to have progress"
             },
             "coreElements": [
-              "Bevegelse og kroppslig læring",
-              "Deltakelse og samspill i bevegelsesaktiviteter"
+              "Bevegelse og kroppsleg læring",
+              "Deltaking og samspel i bevegelsesaktivitetar"
             ],
             "verbs": [
               "Bruke"
@@ -581,7 +677,7 @@
               "en": "recognise differences between oneself and others in movement activities and include everyone, regardless background and abilities"
             },
             "coreElements": [
-              "Deltakelse og samspill i bevegelsesaktiviteter"
+              "Deltaking og samspel i bevegelsesaktivitetar"
             ],
             "verbs": []
           },
@@ -592,7 +688,7 @@
               "en": "understand the use of several types of maps and digital tools and use them to orient oneself in familiar and unfamiliar terrain"
             },
             "coreElements": [
-              "Uteaktiviteter og naturferdsel"
+              "Uteaktivitetar og naturferdsel"
             ],
             "verbs": [
               "Forstå",
@@ -615,7 +711,7 @@
               "en": "understand and perform lifesaving in, on and by water out in nature"
             },
             "coreElements": [
-              "Uteaktiviteter og naturferdsel"
+              "Uteaktivitetar og naturferdsel"
             ],
             "verbs": [
               "Gjennomføre",
@@ -641,8 +737,8 @@
               "en": "practise outdoor life in all the seasons, including camping out, and reflect on what experiences in nature may mean for oneself and others"
             },
             "coreElements": [
-              "Deltakelse og samspill i bevegelsesaktiviteter",
-              "Uteaktiviteter og naturferdsel"
+              "Deltaking og samspel i bevegelsesaktivitetar",
+              "Uteaktivitetar og naturferdsel"
             ],
             "verbs": [
               "Reflektere",
@@ -656,13 +752,33 @@
               "en": "assess the risk and safety of a variety of outdoor activities, understand and carry out sustainable and safe nature wandering"
             },
             "coreElements": [
-              "Uteaktiviteter og naturferdsel"
+              "Uteaktivitetar og naturferdsel"
             ],
             "verbs": [
               "Vurdere",
               "Gjennomføre",
               "Forstå"
             ]
+          }
+        ],
+        "assessment": [
+          {
+            "type": {
+              "local": "Standpunktvurdering",
+              "en": "Assessment of coursework"
+            },
+            "description": {
+              "local": "10. trinn: Eleven skal ha én standpunktkarakter:Vg1 særløp i yrkesfaglige utdanningsprogram: Eleven skal ha én standpunktkarakter.Vg2 yrkesfaglige utdanningsprogram: Eleven skal ha én standpunktkarakter.Vg3 studieforberedende og yrkesfaglige utdanningsprogram i skole: Eleven skal ha én standpunktkarakter.Vg3 påbygging til generell studiekompetanse: Eleven skal ha én standpunktkarakter.Når faget går over flere år, skal elevene få standpunktvurdering bare på det øverste nivået i faget."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for privatister",
+              "en": "Examination for external candidates"
+            },
+            "description": {
+              "local": "10. trinn: Det er ingen privatistordning i faget.Vg2 yrkesfaglige utdanningsprogram: Privatisten skal opp til en muntlig-praktisk eksamen som blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen.Vg3 studieforberedende og yrkesfaglige utdanningsprogram i skole: Privatisten skal opp til en muntlig-praktisk eksamen som blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen."
+            }
           }
         ]
       },
@@ -680,8 +796,8 @@
               "en": "exercise and create new varieties of play, movement activities and dance with others"
             },
             "coreElements": [
-              "Bevegelse og kroppslig læring",
-              "Deltakelse og samspill i bevegelsesaktiviteter"
+              "Bevegelse og kroppsleg læring",
+              "Deltaking og samspel i bevegelsesaktivitetar"
             ],
             "verbs": [
               "Trene"
@@ -694,7 +810,7 @@
               "en": "plan and follow methods for practising and exercising to achieve individual goals, including when one is not fully able to participate in the activity"
             },
             "coreElements": [
-              "Bevegelse og kroppslig læring"
+              "Bevegelse og kroppsleg læring"
             ],
             "verbs": [
               "Gjennomføre",
@@ -708,7 +824,7 @@
               "en": "use one’s own skills and knowledge to cooperate with others and contribute to making others good in activities and interaction"
             },
             "coreElements": [
-              "Deltakelse og samspill i bevegelsesaktiviteter"
+              "Deltaking og samspel i bevegelsesaktivitetar"
             ],
             "verbs": [
               "Samarbeide",
@@ -722,7 +838,7 @@
               "en": "prevent injury in movement activities and perform basic first aid"
             },
             "coreElements": [
-              "Uteaktiviteter og naturferdsel"
+              "Uteaktivitetar og naturferdsel"
             ],
             "verbs": []
           },
@@ -733,7 +849,7 @@
               "en": "use maps and digital tools in a way that ensures safe nature wandering for oneself and others"
             },
             "coreElements": [
-              "Uteaktiviteter og naturferdsel"
+              "Uteaktivitetar og naturferdsel"
             ],
             "verbs": [
               "Bruke"
@@ -746,11 +862,22 @@
               "en": "use local traditions in nature wandering during all four seasons"
             },
             "coreElements": [
-              "Uteaktiviteter og naturferdsel"
+              "Uteaktivitetar og naturferdsel"
             ],
             "verbs": [
               "Bruke"
             ]
+          }
+        ],
+        "assessment": [
+          {
+            "type": {
+              "local": "Standpunktvurdering",
+              "en": "Assessment of coursework"
+            },
+            "description": {
+              "local": "10. trinn: Eleven skal ha én standpunktkarakter:Vg1 særløp i yrkesfaglige utdanningsprogram: Eleven skal ha én standpunktkarakter.Vg2 yrkesfaglige utdanningsprogram: Eleven skal ha én standpunktkarakter.Vg3 studieforberedende og yrkesfaglige utdanningsprogram i skole: Eleven skal ha én standpunktkarakter.Vg3 påbygging til generell studiekompetanse: Eleven skal ha én standpunktkarakter.Når faget går over flere år, skal elevene få standpunktvurdering bare på det øverste nivået i faget."
+            }
           }
         ]
       },
@@ -768,7 +895,7 @@
               "en": "take part in games, sports activities and other movement activities and understand how different activities affect and develop coordination, strength, stamina and mobility"
             },
             "coreElements": [
-              "Bevegelse og kroppslig læring"
+              "Bevegelse og kroppsleg læring"
             ],
             "verbs": [
               "Gjennomføre",
@@ -782,7 +909,7 @@
               "en": "exercise alone and reflect on how physical activity can promote good physical and mental health and contribute to a health-promoting lifestyle after completing school and in one’s future working life"
             },
             "coreElements": [
-              "Bevegelse og kroppslig læring"
+              "Bevegelse og kroppsleg læring"
             ],
             "verbs": [
               "Reflektere"
@@ -795,7 +922,7 @@
               "en": "follow rules for participating in different movement activities and contribute to learning for others"
             },
             "coreElements": [
-              "Deltakelse og samspill i bevegelsesaktiviteter"
+              "Deltaking og samspel i bevegelsesaktivitetar"
             ],
             "verbs": []
           },
@@ -806,7 +933,7 @@
               "en": "plan and carry out activities in outdoor life during the different seasons where the purpose is to have good experiences in nature"
             },
             "coreElements": [
-              "Uteaktiviteter og naturferdsel"
+              "Uteaktivitetar og naturferdsel"
             ],
             "verbs": [
               "Gjennomføre",
@@ -820,11 +947,31 @@
               "en": "have a sustainable approach to nature wandering and find ways of practising outdoor life in the local area"
             },
             "coreElements": [
-              "Uteaktiviteter og naturferdsel"
+              "Uteaktivitetar og naturferdsel"
             ],
             "verbs": [
               "Gjennomføre"
             ]
+          }
+        ],
+        "assessment": [
+          {
+            "type": {
+              "local": "Standpunktvurdering",
+              "en": "Assessment of coursework"
+            },
+            "description": {
+              "local": "10. trinn: Eleven skal ha én standpunktkarakter:Vg1 særløp i yrkesfaglige utdanningsprogram: Eleven skal ha én standpunktkarakter.Vg2 yrkesfaglige utdanningsprogram: Eleven skal ha én standpunktkarakter.Vg3 studieforberedende og yrkesfaglige utdanningsprogram i skole: Eleven skal ha én standpunktkarakter.Vg3 påbygging til generell studiekompetanse: Eleven skal ha én standpunktkarakter.Når faget går over flere år, skal elevene få standpunktvurdering bare på det øverste nivået i faget."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for privatister",
+              "en": "Examination for external candidates"
+            },
+            "description": {
+              "local": "10. trinn: Det er ingen privatistordning i faget.Vg2 yrkesfaglige utdanningsprogram: Privatisten skal opp til en muntlig-praktisk eksamen som blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen.Vg3 studieforberedende og yrkesfaglige utdanningsprogram i skole: Privatisten skal opp til en muntlig-praktisk eksamen som blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen."
+            }
           }
         ]
       },
@@ -842,8 +989,8 @@
               "en": "practise and develop knowledge and skills in different movement activities based on one’s own background and abilities"
             },
             "coreElements": [
-              "Bevegelse og kroppslig læring",
-              "Deltakelse og samspill i bevegelsesaktiviteter"
+              "Bevegelse og kroppsleg læring",
+              "Deltaking og samspel i bevegelsesaktivitetar"
             ],
             "verbs": [
               "Utvikle",
@@ -857,7 +1004,7 @@
               "en": "plan, carry out and assess one's own exercising and explain how this may contribute to a physically active and health-promoting lifestyle after completing school"
             },
             "coreElements": [
-              "Bevegelse og kroppslig læring"
+              "Bevegelse og kroppsleg læring"
             ],
             "verbs": [
               "Vurdere",
@@ -872,7 +1019,7 @@
               "en": "describe and discuss relationships between movement, body, exercise and health in society"
             },
             "coreElements": [
-              "Bevegelse og kroppslig læring"
+              "Bevegelse og kroppsleg læring"
             ],
             "verbs": [
               "Drøfte",
@@ -886,7 +1033,7 @@
               "en": "collaborate on solving practical tasks in a common learning community, and based on practising and activity, reflect on how one's own participation may affect others"
             },
             "coreElements": [
-              "Deltakelse og samspill i bevegelsesaktiviteter"
+              "Deltaking og samspel i bevegelsesaktivitetar"
             ],
             "verbs": [
               "Samarbeide",
@@ -900,12 +1047,32 @@
               "en": "plan and carry out outdoor activities and outdoor life in the local area"
             },
             "coreElements": [
-              "Uteaktiviteter og naturferdsel"
+              "Uteaktivitetar og naturferdsel"
             ],
             "verbs": [
               "Gjennomføre",
               "Planlegge"
             ]
+          }
+        ],
+        "assessment": [
+          {
+            "type": {
+              "local": "Standpunktvurdering",
+              "en": "Assessment of coursework"
+            },
+            "description": {
+              "local": "10. trinn: Eleven skal ha én standpunktkarakter:Vg1 særløp i yrkesfaglige utdanningsprogram: Eleven skal ha én standpunktkarakter.Vg2 yrkesfaglige utdanningsprogram: Eleven skal ha én standpunktkarakter.Vg3 studieforberedende og yrkesfaglige utdanningsprogram i skole: Eleven skal ha én standpunktkarakter.Vg3 påbygging til generell studiekompetanse: Eleven skal ha én standpunktkarakter.Når faget går over flere år, skal elevene få standpunktvurdering bare på det øverste nivået i faget."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for privatister",
+              "en": "Examination for external candidates"
+            },
+            "description": {
+              "local": "10. trinn: Det er ingen privatistordning i faget.Vg2 yrkesfaglige utdanningsprogram: Privatisten skal opp til en muntlig-praktisk eksamen som blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen.Vg3 studieforberedende og yrkesfaglige utdanningsprogram i skole: Privatisten skal opp til en muntlig-praktisk eksamen som blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen."
+            }
           }
         ]
       }

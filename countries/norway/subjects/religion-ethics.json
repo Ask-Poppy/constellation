@@ -4,13 +4,17 @@
     "api": "https://data.udir.no/kl06/v201906/laereplaner-lk20/RLE01-03",
     "curriculum": "LK20",
     "license": "NLOD",
-    "lastSynced": "2026-03-02T21:39:26Z"
+    "lastSynced": "2026-03-03T08:36:46Z"
   },
   "subject": {
     "code": "RLE01-03",
     "name": {
       "local": "Læreplan i kristendom, religion, livssyn og etikk (KRLE)",
       "en": "Læreplan i kristendom, religion, livssyn og etikk (KRLE)"
+    },
+    "description": {
+      "local": "KRLE er et sentralt fag for å forstå seg selv, andre og verden rundt seg. Gjennom kunnskap om ulike religioner og livssyn skal elevene utvikle evne til å leve i og med mangfold i samfunns- og arbeidslivet. KRLE skal gi øvelse i etisk refleksjon og bidra til å utvikle elevenes dømmekraft i hverdagen og i møte med samfunnsutfordringer.",
+      "en": "KRLE er et sentralt fag for å forstå seg selv, andre og verden rundt seg. Gjennom kunnskap om ulike religioner og livssyn skal elevene utvikle evne til å leve i og med mangfold i samfunns- og arbeidslivet. KRLE skal gi øvelse i etisk refleksjon og bidra til å utvikle elevenes dømmekraft i hverdagen og i møte med samfunnsutfordringer."
     },
     "coreElements": [
       {
@@ -66,6 +70,98 @@
         "description": {
           "local": "Elevene skal kunne identifisere etiske dilemmaer og drøfte moralske spørsmål ved hjelp av egen erfaringsbakgrunn, evne til innlevelse og ulike etiske modeller og begreper. Etisk refleksjon gir mulighet til å håndtere store og små spørsmål, konflikter og utfordringer med betydning for skolesamfunnet, hverdagslivet og det globale samfunnet. Filosofiske tenkemåter gir elevene redskaper til å analysere argumentasjon og påstander.",
           "en": "Elevene skal kunne identifisere etiske dilemmaer og drøfte moralske spørsmål ved hjelp av egen erfaringsbakgrunn, evne til innlevelse og ulike etiske modeller og begreper. Etisk refleksjon gir mulighet til å håndtere store og små spørsmål, konflikter og utfordringer med betydning for skolesamfunnet, hverdagslivet og det globale samfunnet. Filosofiske tenkemåter gir elevene redskaper til å analysere argumentasjon og påstander."
+        }
+      }
+    ],
+    "interdisciplinaryThemes": [
+      {
+        "code": "TT1",
+        "name": {
+          "local": "Folkehelse og livsmestring",
+          "en": "Folkehelse og livsmestring"
+        },
+        "description": {
+          "local": "I KRLE handler det tverrfaglige temaet folkehelse og livsmestring om at elevene skal få utforske eksistensielle spørsmål og svar. Arbeidet med faget gir elevene kunnskap om menneskeverdet og hvordan dette forankres i ulike religioner og livssyn. Faget bidrar til å utvikle elevenes evne til å reflektere over etiske spørsmål og problemstillinger som gjelder identitet, kjønn, seksualitet og psykisk helse.",
+          "en": "I KRLE handler det tverrfaglige temaet folkehelse og livsmestring om at elevene skal få utforske eksistensielle spørsmål og svar. Arbeidet med faget gir elevene kunnskap om menneskeverdet og hvordan dette forankres i ulike religioner og livssyn. Faget bidrar til å utvikle elevenes evne til å reflektere over etiske spørsmål og problemstillinger som gjelder identitet, kjønn, seksualitet og psykisk helse."
+        }
+      },
+      {
+        "code": "TT2",
+        "name": {
+          "local": "Demokrati og medborgerskap",
+          "en": "Demokrati og medborgerskap"
+        },
+        "description": {
+          "local": "I KRLE handler det tverrfaglige temaet demokrati og medborgerskap om at elevene skal delta i etisk refleksjon og få øvelse i å innta ulike perspektiver. KRLE bidrar til å styrke elevenes evne til å håndtere utfordrende spørsmål og være åpne for andres synspunkter i et mangfoldig samfunn. Gjennom å delta i etisk refleksjon blir elevene i stand til å problematisere makt og utenforskap og til å stille spørsmål ved gjengse normer.",
+          "en": "I KRLE handler det tverrfaglige temaet demokrati og medborgerskap om at elevene skal delta i etisk refleksjon og få øvelse i å innta ulike perspektiver. KRLE bidrar til å styrke elevenes evne til å håndtere utfordrende spørsmål og være åpne for andres synspunkter i et mangfoldig samfunn. Gjennom å delta i etisk refleksjon blir elevene i stand til å problematisere makt og utenforskap og til å stille spørsmål ved gjengse normer."
+        }
+      },
+      {
+        "code": "TT3",
+        "name": {
+          "local": "Bærekraftig utvikling",
+          "en": "Bærekraftig utvikling"
+        },
+        "description": {
+          "local": "I KRLE handler det tverrfaglige temaet bærekraftig utvikling om at elevene skal utforske eksistensielle spørsmål og delta i etisk refleksjon over naturen og menneskets plass i den. Dette innebærer at elevene kan reflektere over hvordan menneske, miljø og samfunn påvirker hverandre, og over hvordan de kan ta ansvarlige valg.",
+          "en": "I KRLE handler det tverrfaglige temaet bærekraftig utvikling om at elevene skal utforske eksistensielle spørsmål og delta i etisk refleksjon over naturen og menneskets plass i den. Dette innebærer at elevene kan reflektere over hvordan menneske, miljø og samfunn påvirker hverandre, og over hvordan de kan ta ansvarlige valg."
+        }
+      }
+    ],
+    "basicSkills": [
+      {
+        "code": "GF1",
+        "name": {
+          "local": "Muntlige ferdigheter",
+          "en": "Muntlige ferdigheter"
+        },
+        "description": {
+          "local": "Muntlige ferdigheter i KRLE innebærer å kunne lytte til, fortelle om, presentere og samtale om faglige emner, og å kunne argumentere for egne synspunkter og innta ulike perspektiver. Muntlige ferdigheter innebærer også å bruke fagspesifikke begreper til å utforske, drøfte og reflektere over fagets kunnskapsområder. Muntlige ferdigheter innebærer dessuten å kunne uttrykke ulike meninger og argumentere for disse ved hjelp av filosofiske samtaleformer og filosofisk samhandling og refleksjon. Utviklingen av muntlige ferdigheter går fra å kunne samtale om et emne til å kunne presentere og drøfte komplekse faglige problemstillinger. Dette innebærer i økende grad å kunne bruke fagbegreper til å uttrykke og vurdere egen forståelse. Muntlige ferdigheter innebærer også å gradvis utvikle evnen til å lytte til andre.",
+          "en": "Muntlige ferdigheter i KRLE innebærer å kunne lytte til, fortelle om, presentere og samtale om faglige emner, og å kunne argumentere for egne synspunkter og innta ulike perspektiver. Muntlige ferdigheter innebærer også å bruke fagspesifikke begreper til å utforske, drøfte og reflektere over fagets kunnskapsområder. Muntlige ferdigheter innebærer dessuten å kunne uttrykke ulike meninger og argumentere for disse ved hjelp av filosofiske samtaleformer og filosofisk samhandling og refleksjon. Utviklingen av muntlige ferdigheter går fra å kunne samtale om et emne til å kunne presentere og drøfte komplekse faglige problemstillinger. Dette innebærer i økende grad å kunne bruke fagbegreper til å uttrykke og vurdere egen forståelse. Muntlige ferdigheter innebærer også å gradvis utvikle evnen til å lytte til andre."
+        }
+      },
+      {
+        "code": "GF2",
+        "name": {
+          "local": "Å kunne skrive",
+          "en": "Å kunne skrive"
+        },
+        "description": {
+          "local": "Å kunne skrive i KRLE innebærer å kunne bruke skrift- og billedspråk til å kommunisere og til å utvikle kunnskap om religioner, livssyn og etikk. Ferdigheten omfatter også å kunne utforske ulike syn og argumentere for og imot ulike standpunkter. Det omfatter også å kunne bruke fagspesifikke begreper i skriftlig arbeid og å kunne vurdere egen læring i arbeid med faglige tekster. Utviklingen av det å kunne skrive i faget går fra å kunne fortelle og beskrive til å kunne utforske faglige problemstillinger. Dette innebærer at elevene i skriftlige arbeider gradvis tar i bruk fagspesifikke begreper og ulike kilder for å utvikle kompetanse til å vurdere egen læring i arbeid med faglige tekster.",
+          "en": "Å kunne skrive i KRLE innebærer å kunne bruke skrift- og billedspråk til å kommunisere og til å utvikle kunnskap om religioner, livssyn og etikk. Ferdigheten omfatter også å kunne utforske ulike syn og argumentere for og imot ulike standpunkter. Det omfatter også å kunne bruke fagspesifikke begreper i skriftlig arbeid og å kunne vurdere egen læring i arbeid med faglige tekster. Utviklingen av det å kunne skrive i faget går fra å kunne fortelle og beskrive til å kunne utforske faglige problemstillinger. Dette innebærer at elevene i skriftlige arbeider gradvis tar i bruk fagspesifikke begreper og ulike kilder for å utvikle kompetanse til å vurdere egen læring i arbeid med faglige tekster."
+        }
+      },
+      {
+        "code": "GF3",
+        "name": {
+          "local": "Å kunne lese",
+          "en": "Å kunne lese"
+        },
+        "description": {
+          "local": "Å kunne lese i KRLE innebærer å oppleve og forstå ulike religiøse og filosofiske tekster. Det omfatter også å reflektere over og tolke tekster, illustrasjoner, symboler og andre uttrykk. Videre innebærer det å sammenligne og systematisere informasjon og vurdere kilder kritisk. Utviklingen av det å kunne lese i KRLE går fra å kunne forstå innholdet i enkle tekster til å kunne analysere og vurdere form og innhold i komplekse tekster. Dette innebærer i økende grad å forstå fagbegreper og å kunne finne, bruke og vurdere ulike kilder til informasjon.",
+          "en": "Å kunne lese i KRLE innebærer å oppleve og forstå ulike religiøse og filosofiske tekster. Det omfatter også å reflektere over og tolke tekster, illustrasjoner, symboler og andre uttrykk. Videre innebærer det å sammenligne og systematisere informasjon og vurdere kilder kritisk. Utviklingen av det å kunne lese i KRLE går fra å kunne forstå innholdet i enkle tekster til å kunne analysere og vurdere form og innhold i komplekse tekster. Dette innebærer i økende grad å forstå fagbegreper og å kunne finne, bruke og vurdere ulike kilder til informasjon."
+        }
+      },
+      {
+        "code": "GF4",
+        "name": {
+          "local": "Å kunne regne",
+          "en": "Å kunne regne"
+        },
+        "description": {
+          "local": "Å kunne regne i KRLE innebærer å kunne bruke og forstå tidslinjer i møte med framstillinger av religioner og livssyn. Det innebærer også å forstå hvordan statistikk og tabeller kan brukes. Utviklingen av det å kunne regne i faget innebærer i økende grad å kunne forstå og reflektere over statistisk materiale og tabeller.",
+          "en": "Å kunne regne i KRLE innebærer å kunne bruke og forstå tidslinjer i møte med framstillinger av religioner og livssyn. Det innebærer også å forstå hvordan statistikk og tabeller kan brukes. Utviklingen av det å kunne regne i faget innebærer i økende grad å kunne forstå og reflektere over statistisk materiale og tabeller."
+        }
+      },
+      {
+        "code": "GF5",
+        "name": {
+          "local": "Digitale ferdigheter",
+          "en": "Digitale ferdigheter"
+        },
+        "description": {
+          "local": "Digitale ferdigheter i KRLE innebærer å kunne bruke digitale ressurser i eget skapende arbeid. Det omfatter også å kunne innhente informasjon om religioner og livssyn fra digitale kilder og tolke og kritisk vurdere informasjonen. Utviklingen av digitale ferdigheter i faget går fra å bruke enkle sammensetninger av tekst, lyd og bilder til å kunne lage og vurdere sammensatte digitale produkter for framstilling av faglige temaer. Digital dømmekraft utvikles gradvis gjennom økende grad av etisk refleksjon over hvordan digitale ressurser brukes.",
+          "en": "Digitale ferdigheter i KRLE innebærer å kunne bruke digitale ressurser i eget skapende arbeid. Det omfatter også å kunne innhente informasjon om religioner og livssyn fra digitale kilder og tolke og kritisk vurdere informasjonen. Utviklingen av digitale ferdigheter i faget går fra å bruke enkle sammensetninger av tekst, lyd og bilder til å kunne lage og vurdere sammensatte digitale produkter for framstilling av faglige temaer. Digital dømmekraft utvikles gradvis gjennom økende grad av etisk refleksjon over hvordan digitale ressurser brukes."
         }
       }
     ],
@@ -698,6 +794,26 @@
             "verbs": [
               "Drøfte"
             ]
+          }
+        ],
+        "assessment": [
+          {
+            "type": {
+              "local": "Standpunktvurdering",
+              "en": "Standpunktvurdering"
+            },
+            "description": {
+              "local": "10. trinn: Eleven skal ha én standpunktkarakter."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for privatister",
+              "en": "Eksamen for privatister"
+            },
+            "description": {
+              "local": "10. trinn: Se gjeldende ordning for grunnopplæring for voksne."
+            }
           }
         ]
       }

@@ -17,66 +17,66 @@
         "code": "S1",
         "name": {
           "local": "S1 Luonnontieteellinen tutkimus",
-          "en": ""
+          "en": "S1 Scientific inquiry"
         },
         "description": {
           "local": "Turvallisen työskentelyn periaatteet ja perustyötaidot luovat pohjan kokeelliselle työskentelylle. Eri sisältöalueista ja oppilaiden mielenkiinnon kohteista valitaan sopivia aihepiirejä suljettuihin ja avoimiin tutkimuksiin. Erilaisissa tutkimuksissa painotetaan tarkoituksenmukaisesti tutkimusprosessin eri vaiheita kuten ongelman tai ilmiön pohtimista, suunnittelua, koejärjestelyn toteuttamista, havainnointia, tulosten koontia ja käsittelyä sekä tulosten arviointia ja esittämistä. Tutustutaan tieto- ja viestintäteknologian hyödyntämiseen tutkimusten eri vaiheissa.",
-          "en": ""
+          "en": "The principles of safe working and basic work skills form the foundation for experimental work. Suitable topics for closed and open-ended investigations are selected from different content areas and pupils' interests. In various investigations, the different stages of the research process are appropriately emphasised, such as considering the problem or phenomenon, planning, carrying out the experimental setup, observation, compilation and processing of results, and evaluation and presentation of results. The use of information and communication technology in different stages of research is explored."
         }
       },
       {
         "code": "S2",
         "name": {
           "local": "S2 Kemia omassa elämässä ja elinympäristössä",
-          "en": ""
+          "en": "S2 Chemistry in one's own life and living environment"
         },
         "description": {
           "local": "Sisältöjä valitaan siten, että oman elämän ja elinympäristön ilmiöitä pohditaan erityisesti terveyden ja turvallisuuden näkökulmista. Sisältöjen valinnassa otetaan huomioon paikallinen toimintaympäristö ja lähiympäristön tila. Tutustutaan kodin kemikaaleihin ja paloturvallisuuteen. Tutkitaan olomuotojen muutoksia.",
-          "en": ""
+          "en": "Contents are selected so that phenomena in one's own life and living environment are considered especially from the perspectives of health and safety. The local operating environment and the state of the immediate surroundings are taken into account when selecting contents. Household chemicals and fire safety are explored. Changes of state are investigated."
         }
       },
       {
         "code": "S3",
         "name": {
           "local": "S3 Kemia yhteiskunnassa",
-          "en": ""
+          "en": "S3 Chemistry in society"
         },
         "description": {
           "local": "Kemian ilmiöihin ja sovelluksiin liittyviä sisältöjä valitaan erityisesti ihmiskunnan hyvinvoinnin ja teknologian näkökulmista. Pääpaino on kestävässä luonnonvarojen käytössä, ja tuotteiden elinkaariajattelu on yhtenä tarkastelutapana. Tutustutaan erilaisiin koulutuspolkuihin ja ammatteihin, joissa tarvitaan kemian osaamista.",
-          "en": ""
+          "en": "Contents related to chemical phenomena and applications are selected especially from the perspectives of human well-being and technology. The main focus is on sustainable use of natural resources, and product life-cycle thinking is one approach. Different educational paths and professions that require chemistry expertise are explored."
         }
       },
       {
         "code": "S4",
         "name": {
           "local": "S4 Kemia maailmankuvan rakentajana",
-          "en": ""
+          "en": "S4 Chemistry as a builder of worldview"
         },
         "description": {
           "local": "Sisältöjä valitaan siten, että niissä tulee esiin kemian luonne tieteenä, aineen ja energian säilymisen periaatteet sekä luonnon mittasuhteet. Sisältöihin kuuluvat myös tutustuminen kemiaan liittyviin uutisiin, ajankohtaisiin ilmiöihin, sovelluksiin ja nykypäivän tutkimukseen.",
-          "en": ""
+          "en": "Contents are selected so that the nature of chemistry as a science, the principles of conservation of matter and energy, and the scales of nature are addressed. Contents also include familiarisation with chemistry-related news, current phenomena, applications, and present-day research."
         }
       },
       {
         "code": "S5",
         "name": {
           "local": "S5 Aineiden ominaisuudet ja rakenne",
-          "en": ""
+          "en": "S5 Properties and structure of substances"
         },
         "description": {
           "local": "Tutkitaan monipuolisesti seosten ja puhtaiden aineiden ominaisuuksia kuten vesi- ja rasvaliukoisuutta. Alkuaineiden ominaisuuksien pohjalta tutustutaan aineen koostumiseen atomeista, atomin rakenteeseen ja jaksolliseen järjestelmään. Malleja ja simulaatioita käytetään yhdisteiden rakentumisen hahmottamisessa. Tutustutaan hiileen, sen yhdisteisiin ja ravintoaineisiin. Perehdytään johonkin orgaaniseen yhdisteryhmään.",
-          "en": ""
+          "en": "The properties of mixtures and pure substances, such as water and fat solubility, are investigated in diverse ways. Based on the properties of elements, the composition of matter from atoms, atomic structure, and the periodic table are introduced. Models and simulations are used to understand the formation of compounds. Carbon, its compounds, and nutrients are explored. One group of organic compounds is studied."
         }
       },
       {
         "code": "S6",
         "name": {
           "local": "S6 Aineiden ominaisuudet ja muutokset",
-          "en": ""
+          "en": "S6 Properties and changes of substances"
         },
         "description": {
           "local": "Tutustutaan energian ja aineiden muuttumiseen kemiallisissa reaktioissa. Havainnoidaan reaktionnopeutta ja pohditaan siihen vaikuttavia tekijöitä. Perehdytään hiilen kiertokulkuun ja sen merkitykseen elämälle. Tutustutaan pitoisuuteen ja happamuuteen arkisten esimerkkien yhteydessä. Harjoitellaan kemian merkkikielen ja yksinkertaisten reaktioyhtälöiden tulkitsemista.",
-          "en": ""
+          "en": "Changes of energy and substances in chemical reactions are explored. Reaction rate is observed and factors affecting it are discussed. The carbon cycle and its significance for life are studied. Concentration and acidity are introduced through everyday examples. Interpreting chemical notation and simple reaction equations is practised."
         }
       }
     ],
@@ -92,7 +92,7 @@
             "code": "T1",
             "text": {
               "local": "T1 kannustaa ja innostaa oppilasta kemian opiskeluun",
-              "en": ""
+              "en": "T1 encourage and inspire the pupil to study chemistry"
             },
             "coreElements": [
               "S5 Aineiden ominaisuudet ja rakenne",
@@ -108,7 +108,7 @@
             "code": "T2",
             "text": {
               "local": "T2 ohjata ja kannustaa oppilasta tunnistamaan omaa kemian osaamistaan, asettamaan tavoitteita omalle työskentelylleen sekä työskentelemään pitkäjänteisesti",
-              "en": ""
+              "en": "T2 guide and encourage the pupil to recognise their own chemistry competence, to set goals for their own work, and to work with perseverance"
             },
             "coreElements": [
               "S5 Aineiden ominaisuudet ja rakenne",
@@ -124,7 +124,7 @@
             "code": "T3",
             "text": {
               "local": "T3 ohjata oppilasta ymmärtämään kemian osaamisen merkitystä omassa elämässä, elinympäristössä ja yhteiskunnassa",
-              "en": ""
+              "en": "T3 guide the pupil to understand the significance of chemistry competence in their own life, living environment, and society"
             },
             "coreElements": [
               "S5 Aineiden ominaisuudet ja rakenne",
@@ -140,7 +140,7 @@
             "code": "T4",
             "text": {
               "local": "T4 ohjata oppilasta käyttämään kemian osaamistaan kestävän tulevaisuuden rakentamisessa sekä arvioimaan omia valintojaan luonnonvarojen kestävän käytön ja tuotteen elinkaaren kannalta",
-              "en": ""
+              "en": "T4 guide the pupil to use their chemistry competence in building a sustainable future and to evaluate their own choices in terms of sustainable use of natural resources and product life cycle"
             },
             "coreElements": [
               "S5 Aineiden ominaisuudet ja rakenne",
@@ -156,7 +156,7 @@
             "code": "T5",
             "text": {
               "local": "T5 kannustaa oppilasta muodostamaan kysymyksiä tarkasteltavista ilmiöistä sekä kehittämään kysymyksiä edelleen tutkimusten ja muun toiminnan lähtökohdiksi",
-              "en": ""
+              "en": "T5 encourage the pupil to formulate questions about the phenomena under consideration and to further develop questions as starting points for investigations and other activities"
             },
             "coreElements": [
               "S5 Aineiden ominaisuudet ja rakenne",
@@ -172,7 +172,7 @@
             "code": "T6",
             "text": {
               "local": "T6 ohjata oppilasta toteuttamaan kokeellisia tutkimuksia yhteistyössä muiden kanssa sekä työskentelemään turvallisesti ja johdonmukaisesti",
-              "en": ""
+              "en": "T6 guide the pupil to carry out experimental investigations in cooperation with others and to work safely and systematically"
             },
             "coreElements": [
               "S5 Aineiden ominaisuudet ja rakenne",
@@ -188,7 +188,7 @@
             "code": "T7",
             "text": {
               "local": "T7 ohjata oppilasta käsittelemään, tulkitsemaan ja esittämään omien tutkimustensa tuloksia sekä arvioimaan niitä ja koko tutkimusprosessia",
-              "en": ""
+              "en": "T7 guide the pupil to process, interpret, and present the results of their own investigations and to evaluate them and the entire research process"
             },
             "coreElements": [
               "S5 Aineiden ominaisuudet ja rakenne",
@@ -204,7 +204,7 @@
             "code": "T8",
             "text": {
               "local": "T8 ohjata oppilasta hahmottamaan kemian soveltamista teknologiassa sekä osallistumaan kemiaa soveltavien ratkaisujen ideointiin, suunnitteluun, kehittämiseen ja soveltamiseen yhteistyössä muiden kanssa",
-              "en": ""
+              "en": "T8 guide the pupil to understand the application of chemistry in technology and to participate in the ideation, planning, development, and application of solutions that apply chemistry, in cooperation with others"
             },
             "coreElements": [
               "S5 Aineiden ominaisuudet ja rakenne",
@@ -220,7 +220,7 @@
             "code": "T9",
             "text": {
               "local": "T9 ohjata oppilasta käyttämään tieto- ja viestintäteknologiaa tiedon ja tutkimustulosten hankkimiseen, käsittelemiseen ja esittämiseen sekä tukea oppilaan oppimista havainnollistavien simulaatioiden avulla",
-              "en": ""
+              "en": "T9 guide the pupil to use information and communication technology for acquiring, processing, and presenting information and research results, and to support the pupil's learning through illustrative simulations"
             },
             "coreElements": [
               "S5 Aineiden ominaisuudet ja rakenne",
@@ -236,7 +236,7 @@
             "code": "T10",
             "text": {
               "local": "T10 ohjata oppilasta käyttämään kemian käsitteitä täsmällisesti sekä jäsentämään omia käsiterakenteitaan kohti luonnontieteellisten teorioiden mukaisia käsityksiä",
-              "en": ""
+              "en": "T10 guide the pupil to use chemistry concepts precisely and to structure their own conceptual frameworks towards conceptions consistent with scientific theories"
             },
             "coreElements": [
               "S5 Aineiden ominaisuudet ja rakenne",
@@ -252,7 +252,7 @@
             "code": "T11",
             "text": {
               "local": "T11 ohjata oppilasta käyttämään erilaisia malleja kuvaamaan ja selittämään aineen rakennetta ja kemiallisia ilmiöitä",
-              "en": ""
+              "en": "T11 guide the pupil to use various models to describe and explain the structure of matter and chemical phenomena"
             },
             "coreElements": [
               "S5 Aineiden ominaisuudet ja rakenne",
@@ -268,7 +268,7 @@
             "code": "T12",
             "text": {
               "local": "T12 ohjata oppilasta käyttämään ja arvioimaan kriittisesti eri tietolähteitä sekä ilmaisemaan ja perustelemaan erilaisia näkemyksiä kemialle ominaisella tavalla",
-              "en": ""
+              "en": "T12 guide the pupil to use and critically evaluate different sources of information and to express and justify various viewpoints in a manner characteristic of chemistry"
             },
             "coreElements": [
               "S5 Aineiden ominaisuudet ja rakenne",
@@ -284,7 +284,7 @@
             "code": "T13",
             "text": {
               "local": "T13 ohjata oppilasta hahmottamaan luonnontieteellisen tiedon luonnetta ja kehittymistä sekä tieteellisiä tapoja tuottaa tietoa",
-              "en": ""
+              "en": "T13 guide the pupil to understand the nature and development of scientific knowledge and scientific ways of producing knowledge"
             },
             "coreElements": [
               "S4 Kemia maailmankuvan rakentajana",
@@ -296,7 +296,7 @@
             "code": "T14",
             "text": {
               "local": "T14 ohjata oppilasta ymmärtämään perusperiaatteita aineen ominaisuuksista, rakenteesta ja aineiden muutoksista",
-              "en": ""
+              "en": "T14 guide the pupil to understand the basic principles of the properties and structure of matter and changes of substances"
             },
             "coreElements": [
               "S5 Aineiden ominaisuudet ja rakenne",
@@ -308,7 +308,7 @@
             "code": "T15",
             "text": {
               "local": "T15 ohjata oppilasta soveltamaan kemian tietojaan ja taitojaan monialaisissa oppimiskokonaisuuksissa sekä tarjota mahdollisuuksia tutustua kemian soveltamiseen erilaisissa tilanteissa kuten luonnossa, elinkeinoelämässä, järjestöissä tai tiedeyhteisöissä",
-              "en": ""
+              "en": "T15 guide the pupil to apply their chemistry knowledge and skills in multidisciplinary learning modules and to offer opportunities to explore the application of chemistry in various contexts such as nature, business, organisations, or the scientific community"
             },
             "coreElements": [
               "S5 Aineiden ominaisuudet ja rakenne",

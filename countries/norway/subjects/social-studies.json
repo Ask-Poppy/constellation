@@ -4,13 +4,17 @@
     "api": "https://data.udir.no/kl06/v201906/laereplaner-lk20/SAF01-04",
     "curriculum": "LK20",
     "license": "NLOD",
-    "lastSynced": "2026-03-02T21:39:11Z"
+    "lastSynced": "2026-03-03T08:36:29Z"
   },
   "subject": {
     "code": "SAF01-04",
     "name": {
       "local": "Læreplan i samfunnsfag",
       "en": "Curriculum for Social Studies"
+    },
+    "description": {
+      "local": "Samfunnsfag er et sentralt fag for at elevene skal bli deltakende, engasjerte og kritisk tenkende medborgere. Faget skal bidra til at elevene ser sammenhenger mellom individuelle valg, samfunnsstrukturer og tålegrensene i naturen. I samfunnsfag skal elevene få mulighet til å utforske sin egen identitet, lokalsamfunnet de lever i, og nasjonale og globale problemstillinger. Gjennom arbeidet med faget skal elevene forstå hvordan geografiske, historiske og nåtidige forhold legger betingelser for hvordan mennesker dekker behovene sine, og for hvordan makt og ressurser fordeles. Elevene skal bli bevisst på hvordan vi er historieskapte, men også historieskapende. Faget skal bidra til identitetsutviklingen til den enkelte og forståelsen av de forskjellige fellesskapene vi mennesker inngår i. Det innebærer også å inkludere majoritets- og minoritetsperspektiver, og særlig samisk kultur og samfunnsliv. Slik bidrar samfunnsfaget til å styrke elevenes forståelse av seg selv, av samfunnet de lever i, og av hvordan de kan påvirke sitt eget liv og framtiden.",
+      "en": "Social studies is an important subject furnishing the pupils with the skills to be participating, engaged and deliberating members of society. The subject shall help the pupils to recognise the connections between individual choices, societal structures and tolerance limits in nature. In social studies, the pupils shall have the opportunity to explore their own identity, the local communities they live in and national and global challenges. In working on this subject, the pupils shall learn how geographic, historical and current events are the foundation from which people satisfy their needs, and how power and resources are distributed. The pupils shall learn that we are not only shaped by history, but that we also shape history. The subject shall contribute to developing the pupils’ understanding of their individual identity, and of the diversified communities we belong to. This means that the subject is studied through a majority and a minority perspective with a specific focus on the Sami culture and community. Social studies shall thus help to strengthen the pupils’ understanding of themselves, of the society in which they live and the ways in which they can influence their own lives and the future."
     },
     "coreElements": [
       {
@@ -69,6 +73,98 @@
         }
       }
     ],
+    "interdisciplinaryThemes": [
+      {
+        "code": "TT1",
+        "name": {
+          "local": "Folkehelse og livsmestring",
+          "en": "Health and life skills"
+        },
+        "description": {
+          "local": "I samfunnsfag handler det tverrfaglige temaet folkehelse og livsmestring om at elevene skal bli bevisst på sin egen identitet og identitetsutvikling og forstå individet som en del av ulike fellesskap. Innsikt i hvordan relasjoner og tilhørighet blir påvirket av samhandling med andre, også digitalt, er en del av kompetansen i faget. Faget skal bidra til at elevene kan gjøre gode livsvalg og håndtere utfordringer knyttet til seksualitet, personlig økonomi, rus, utenforskap og digital samhandling. Faget skal også bidra til å skape forståelse, respekt og toleranse for mangfold og andres verdier og livsvalg, og det skal gi perspektiver på hva et godt liv kan være. Gjennom faget skal elevene kunne identifisere områder der menneskeverdet blir utfordret, for eksempel i forbindelse med menneskehandel og vår tids slaveri, og peke på tiltak for å ivareta menneskers grunnleggende behov.",
+          "en": "In the social studies subject the interdisciplinary topic of health and life skills refers to the pupils learning to be aware of their own identity and the development of their identity, as well as understanding the role of the individual in different settings. One part of the competence in this subject is to gain insight into how relationships and belonging play a part in interactions with others, including digitally. The subject shall help the pupils to make smart life choices and deal with challenges relating to sexuality, personal finances, drug and alcohol abuse, exclusion and digital interaction. The subject shall also enhance the pupils’ understanding, respect and tolerance for diversity and other peoples’ values and life choices, and provide perspectives on what may constitute a good life. Through this subject, the pupils shall learn to identify areas in which human rights are violated, for example human trafficking and modern-day slavery, and to identify measures that can be taken to protect our basic human rights."
+        }
+      },
+      {
+        "code": "TT2",
+        "name": {
+          "local": "Demokrati og medborgerskap",
+          "en": "Democracy and citizenship"
+        },
+        "description": {
+          "local": "I samfunnsfag handler det tverrfaglige temaet demokrati og medborgerskap om at elevene utvikler kunnskaper og ferdigheter for å kunne skape og delta i demokratiske prosesser. Faget skal bidra til at elevene utvikler kunnskap om og innsikt i demokratiske verdier og prinsipper. Gjennom arbeid med samfunnsfag skal elevene tenke kritisk, innta ulike perspektiver, håndtere meningsbrytning og vise aktivt medborgerskap. Samfunnsfag skal bidra til at elevene kan delta i og videreutvikle demokratiet og forebygge ekstreme holdninger, ekstreme handlinger og terrorisme. Kunnskap om terrorhandlingen i Norge 22. juli 2011 skal inngå i opplæringen om dette.",
+          "en": "In the social studies subject the interdisciplinary topic of democracy and citizenship refers to the pupils’ development of knowledge and skills for creating and participating in democratic processes. The subject shall help pupils to develop their knowledge of and gain insight into democratic values and principles. Working in social studies, the pupils shall learn to think critically, consider different perspectives, deal with disagreements of opinion and demonstrate their active citizenship. Social studies shall help the pupils to participate in and develop democracy and prevent extremist attitudes, extremist acts and terrorism. Learning about the terrorist attack in Norway on 22nd July 2011 shall be a part of this instruction."
+        }
+      },
+      {
+        "code": "TT3",
+        "name": {
+          "local": "Bærekraftig utvikling",
+          "en": "Sustainability"
+        },
+        "description": {
+          "local": "I samfunnsfag handler det tverrfaglige temaet bærekraftig utvikling om at elevene forstår sammenhengen mellom de sosiale, økonomiske og miljømessige forholdene ved bærekraft. Kunnskap om sammenhenger mellom natur og samfunn, om hvordan mennesker påvirker klima og miljø, og om hvordan levekår, levesett og demografi henger sammen, bidrar til denne forståelsen. I samfunnsfag skal elevene reflektere over og drøfte dilemmaer og spenningsforhold knyttet til de ulike dimensjonene ved bærekraftig utvikling og se at handlinger på både individ- og samfunnsnivå har betydning.",
+          "en": "In the social studies subject the interdisciplinary topic of sustainability refers to the pupils learning to understand what the interaction between social, economic and environmental conditions means for sustainability. Knowledge of the connections between nature and society, how people affect the climate and environment, and how living conditions, lifestyles and demographics are interconnected, shall all contribute to this understanding. In the social studies subject the pupils shall reflect on and discuss the dilemmas and tensions relating to the different dimensions of sustainable development and shall see how actions on both the individual and societal levels have significance."
+        }
+      }
+    ],
+    "basicSkills": [
+      {
+        "code": "GF1",
+        "name": {
+          "local": "Muntlige ferdigheter",
+          "en": "Oral skills"
+        },
+        "description": {
+          "local": "Muntlige ferdigheter i samfunnsfag innebærer å kunne lytte til, tolke, formulere og fremme meninger, gi respons og diskutere med andre. Å få tak i andres meninger og stille oppklarende og utdypende spørsmål inngår også. Utviklingen av de muntlige ferdighetene går fra å uttrykke egne meninger, ta ordet etter tur og lytte og gi respons til andre, til å innta ulike perspektiver og begrunne argumentasjon i større årsakssammenhenger. Utviklingen innebærer videre å fortelle om sammenhenger, drøfte faglige spørsmål og håndtere mer kompleks informasjon og å forstå hvordan ulike uttrykksmåter påvirker budskap og mottaker.",
+          "en": "Oral skills in social studies refers to being able to listen to, interpret, formulate and present opinions, and to respond to and discuss them with others. This also includes listening to other people’s opinions and asking clarifying and in-depth questions. The development of oral skills progresses from being able to express one’s own opinions, taking turns in discussions and listening to and answering the responses of others, to being able to adopt various perspectives and justify arguments in wider causal contexts. This development also involves an increasing degree of being able to talk about connections, discuss subject-specific questions and process more complex information, as well as being able to understand how different ways of expressing opinions may have impact on the message and the receiver."
+        }
+      },
+      {
+        "code": "GF2",
+        "name": {
+          "local": "Å kunne skrive",
+          "en": "Writing"
+        },
+        "description": {
+          "local": "Å kunne skrive i samfunnsfag innebærer å planlegge, utforme og bearbeide tekster som er tilpasset formålet med skrivingen. Det innebærer også å dele, formidle og presentere kunnskap og informasjon skriftlig og å bruke samfunnsfaglige begreper, bygge opp argumentasjon og utforske og problematisere samfunnsfaglige temaer. Videre innebærer det å kunne dokumentere og presentere resultater av samfunnsfaglige undersøkelser skriftlig. Utviklingen av skriveferdigheter i faget går fra å formulere enkle faktasetninger og spørsmål og vise til kilder, til å skrive fagtekster, drøfte problemstillinger og vise til mer komplekse kilder.",
+          "en": "Writing in social studies refers to the ability to plan, structure and work with texts that have been adapted to the purpose. This also involves the ability to share, impart and present knowledge and information in writing, and to use social-studies concepts, as well as the ability to construct arguments, and explore and problematise social-studies-related topics. This also refers to the ability to document and present findings of social-studies related research in writing. The development of writing skills in the subject progresses from formulating simple sentences presenting facts and questions and referring to sources, to being able to write academic texts, discuss issues and refer to more complex sources."
+        }
+      },
+      {
+        "code": "GF3",
+        "name": {
+          "local": "Å kunne lese",
+          "en": "Reading"
+        },
+        "description": {
+          "local": "Å kunne lese i samfunnsfag innebærer å utforske, tolke og reflektere kritisk over ulike historiske, geografiske og samfunnskunnskaplige kilder. Videre innebærer det å finne informasjon og bevisst velge og velge bort ulike kilder. Å lese innebærer å reflektere over hvordan ståsted og perspektiv påvirker ulike kilder, kjenne igjen argumentasjon og skille mellom meninger, fakta og påstander. Utviklingen av leseferdigheter i faget går fra å bruke få og tilrettelagte kilder til selv å finne og sammenligne informasjon i et større mangfold av kilder med større kompleksitet.",
+          "en": "Reading in social studies refers to the ability to explore, interpret and deliberate on various historical, geographic and social studies sources. This also involves finding information and making well-reasoned decisions to select or eliminate various sources. Reading thus refers to the ability to reflect on how attitudes and perspectives affect the various sources, recognising argumentation and distinguishing between opinions, facts and claims. The development of reading skills in the subject progresses from being able to use a small number of adapted sources, to finding and comparing a broader and more complex range of sources on one’s own."
+        }
+      },
+      {
+        "code": "GF4",
+        "name": {
+          "local": "Å kunne regne",
+          "en": "Numeracy"
+        },
+        "description": {
+          "local": "Å kunne regne i samfunnsfag innebærer å kunne innhente, bearbeide, analysere og vurdere tallmateriale og store data i lys av kontekst og for å ta stilling til samfunnsspørsmål. Videre innebærer det å bruke tidslinjer og målestokk til å utforske og presentere historiske og geografiske forhold og se sammenhenger. Å kunne arbeide med problemstillinger knyttet til økonomi og forbruk, og sammenhengen mellom disse, inngår også. Utviklingen av regneferdigheter i faget går fra å tolke konkrete og enkle tabeller og grafiske framstillinger til å kombinere og analysere større datamengder og se endringer over tid.",
+          "en": "Numeracy in social studies refers to the ability to compile, work with, analyse and assess statistics and big data in light of the context, and to take a position on societal issues. This involves using timelines and metrics to explore and present historical and geographic contexts and to see the connections between them. This also refers to working on issues connected to the economy and consumption, and recognising how they are interconnected. The development of numeracy skills in this subject progresses from being able to interpret concrete and simple tables and graphs to the ability to combine and analyse larger data sets and see the changes over time."
+        }
+      },
+      {
+        "code": "GF5",
+        "name": {
+          "local": "Digitale ferdigheter",
+          "en": "Digital skills"
+        },
+        "description": {
+          "local": "Samfunnsfag har et særlig ansvar for at elevene utvikler digitalt medborgerskap. Digitale ferdigheter i samfunnsfag innebærer å kunne bruke digitale verktøy til å finne, behandle og navigere i digitale kilder, utøve digital kildekritikk og velge ut relevant informasjon. Det handler også om å kunne kommunisere, samarbeide og skape digitale produkter og om å følge regler og normer for nettbasert kommunikasjon, personvern og opphavsrett. Ferdighetene innebærer også å ivareta informasjons- og datasikkerhet. Utviklingen av digitale ferdigheter går fra å utforske og bruke digitale ressurser, til å søke og velge informasjon selvstendig og til å vise god digital dømmekraft når man velger informasjon, bruker digitale ressurser og kommuniserer digitalt.",
+          "en": "Social studies is a key subject for developing the pupils’ digital citizenship. Having digital skills in social studies refers to the ability to use digital tools to find, process and navigate in digital sources, and to critically assess digital sources and select relevant information. This also refers to the ability to communicate, collaborate and create digital products and to follow the rules and norms for online communication, privacy protection and copyright. These skills refer to the ability to protect and secure online information and data. The development of digital skills in this subject progresses from being able to explore and use digital resources, to the ability to search for and select information on one’s own, and to demonstrate good judgement when choosing digital information, using digital resources and communicating online."
+        }
+      }
+    ],
     "gradeBands": [
       {
         "afterGrade": 2,
@@ -85,7 +181,7 @@
             },
             "coreElements": [
               "Undring og utforsking",
-              "Samfunnskritisk tenkning og sammenhenger"
+              "Samfunnskritisk tenking og samanhengar"
             ],
             "verbs": [
               "Utvikle",
@@ -100,7 +196,7 @@
             },
             "coreElements": [
               "Undring og utforsking",
-              "Samfunnskritisk tenkning og sammenhenger"
+              "Samfunnskritisk tenking og samanhengar"
             ],
             "verbs": []
           },
@@ -111,8 +207,8 @@
               "en": "explore and describe the cultural heritage and cultural and natural landscape of the local community"
             },
             "coreElements": [
-              "Samfunnskritisk tenkning og sammenhenger",
-              "Bærekraftige samfunn"
+              "Samfunnskritisk tenking og samanhengar",
+              "Berekraftige samfunn"
             ],
             "verbs": [
               "Utforske",
@@ -126,8 +222,8 @@
               "en": "explore and present the ways in which people lived one to two generations ago"
             },
             "coreElements": [
-              "Samfunnskritisk tenkning og sammenhenger",
-              "Bærekraftige samfunn",
+              "Samfunnskritisk tenking og samanhengar",
+              "Berekraftige samfunn",
               "Identitetsutvikling og fellesskap"
             ],
             "verbs": [
@@ -142,8 +238,8 @@
               "en": "reflect on why people have different opinions and make different choices"
             },
             "coreElements": [
-              "Samfunnskritisk tenkning og sammenhenger",
-              "Demokratiforståelse og deltakelse",
+              "Samfunnskritisk tenking og samanhengar",
+              "Demokratiforståing og deltaking",
               "Identitetsutvikling og fellesskap"
             ],
             "verbs": [
@@ -168,7 +264,7 @@
               "en": "describe and give examples of diversity in Norway, with an emphasis on different types of families and communities, including the indigenous Sami people"
             },
             "coreElements": [
-              "Demokratiforståelse og deltakelse",
+              "Demokratiforståing og deltaking",
               "Identitetsutvikling og fellesskap"
             ],
             "verbs": [
@@ -183,8 +279,8 @@
             },
             "coreElements": [
               "Undring og utforsking",
-              "Samfunnskritisk tenkning og sammenhenger",
-              "Bærekraftige samfunn"
+              "Samfunnskritisk tenking og samanhengar",
+              "Berekraftige samfunn"
             ],
             "verbs": [
               "Utforske",
@@ -198,8 +294,8 @@
               "en": "present and give examples of children’s rights in Norway and in the world, and what children can do when these rights are violated"
             },
             "coreElements": [
-              "Samfunnskritisk tenkning og sammenhenger",
-              "Demokratiforståelse og deltakelse",
+              "Samfunnskritisk tenking og samanhengar",
+              "Demokratiforståing og deltaking",
               "Identitetsutvikling og fellesskap"
             ],
             "verbs": [
@@ -214,8 +310,8 @@
             },
             "coreElements": [
               "Undring og utforsking",
-              "Samfunnskritisk tenkning og sammenhenger",
-              "Demokratiforståelse og deltakelse"
+              "Samfunnskritisk tenking og samanhengar",
+              "Demokratiforståing og deltaking"
             ],
             "verbs": [
               "Utforske",
@@ -251,8 +347,8 @@
               "en": "explore and give examples of how people in different parts of the world can have an impact on each other’s lives"
             },
             "coreElements": [
-              "Demokratiforståelse og deltakelse",
-              "Bærekraftige samfunn",
+              "Demokratiforståing og deltaking",
+              "Berekraftige samfunn",
               "Identitetsutvikling og fellesskap"
             ],
             "verbs": [
@@ -276,7 +372,7 @@
             },
             "coreElements": [
               "Undring og utforsking",
-              "Samfunnskritisk tenkning og sammenhenger"
+              "Samfunnskritisk tenking og samanhengar"
             ],
             "verbs": [
               "Utforske",
@@ -291,7 +387,7 @@
               "en": "explore cultural heritage and how people lived during the time the cultural heritage is from, and compare this with how we live today"
             },
             "coreElements": [
-              "Samfunnskritisk tenkning og sammenhenger",
+              "Samfunnskritisk tenking og samanhengar",
               "Identitetsutvikling og fellesskap"
             ],
             "verbs": [
@@ -306,8 +402,8 @@
               "en": "describe cultural and natural landscapes in Norway and talk about how historical and geographical sources, including maps, can provide information about these landscapes"
             },
             "coreElements": [
-              "Samfunnskritisk tenkning og sammenhenger",
-              "Bærekraftige samfunn"
+              "Samfunnskritisk tenking og samanhengar",
+              "Berekraftige samfunn"
             ],
             "verbs": [
               "Beskrive"
@@ -320,7 +416,7 @@
               "en": "talk about why conflicts arise in the school and local environment, listen to others’ opinions, and collaborate with them to find constructive solutions"
             },
             "coreElements": [
-              "Demokratiforståelse og deltakelse",
+              "Demokratiforståing og deltaking",
               "Identitetsutvikling og fellesskap"
             ],
             "verbs": [
@@ -334,7 +430,7 @@
               "en": "present human rights and children’s rights, and reflect on why we have these rights"
             },
             "coreElements": [
-              "Demokratiforståelse og deltakelse",
+              "Demokratiforståing og deltaking",
               "Identitetsutvikling og fellesskap"
             ],
             "verbs": [
@@ -349,8 +445,8 @@
               "en": "present reasons as to why the Sami people have been given indigenous status in Norway, and describe the different forms of Sami cultural and community life, both from the past and today"
             },
             "coreElements": [
-              "Samfunnskritisk tenkning og sammenhenger",
-              "Demokratiforståelse og deltakelse",
+              "Samfunnskritisk tenking og samanhengar",
+              "Demokratiforståing og deltaking",
               "Identitetsutvikling og fellesskap"
             ],
             "verbs": [
@@ -366,8 +462,8 @@
             },
             "coreElements": [
               "Undring og utforsking",
-              "Samfunnskritisk tenkning og sammenhenger",
-              "Bærekraftige samfunn"
+              "Samfunnskritisk tenking og samanhengar",
+              "Berekraftige samfunn"
             ],
             "verbs": [
               "Utforske"
@@ -380,7 +476,7 @@
               "en": "reflect on the connections between personal finances and one’s own consumption"
             },
             "coreElements": [
-              "Samfunnskritisk tenkning og sammenhenger",
+              "Samfunnskritisk tenking og samanhengar",
               "Identitetsutvikling og fellesskap"
             ],
             "verbs": [
@@ -394,7 +490,7 @@
               "en": "talk about identity, diversity and community, and reflect on what it might be like if one is not a part of the community"
             },
             "coreElements": [
-              "Samfunnskritisk tenkning og sammenhenger",
+              "Samfunnskritisk tenking og samanhengar",
               "Identitetsutvikling og fellesskap"
             ],
             "verbs": [
@@ -434,8 +530,8 @@
             },
             "coreElements": [
               "Undring og utforsking",
-              "Samfunnskritisk tenkning og sammenhenger",
-              "Demokratiforståelse og deltakelse"
+              "Samfunnskritisk tenking og samanhengar",
+              "Demokratiforståing og deltaking"
             ],
             "verbs": [
               "Utvikle",
@@ -450,7 +546,7 @@
             },
             "coreElements": [
               "Undring og utforsking",
-              "Demokratiforståelse og deltakelse",
+              "Demokratiforståing og deltaking",
               "Identitetsutvikling og fellesskap"
             ],
             "verbs": [
@@ -474,7 +570,7 @@
             },
             "coreElements": [
               "Undring og utforsking",
-              "Samfunnskritisk tenkning og sammenhenger"
+              "Samfunnskritisk tenking og samanhengar"
             ],
             "verbs": [
               "Gjennomføre",
@@ -489,7 +585,7 @@
             },
             "coreElements": [
               "Undring og utforsking",
-              "Samfunnskritisk tenkning og sammenhenger"
+              "Samfunnskritisk tenking og samanhengar"
             ],
             "verbs": [
               "Reflektere",
@@ -504,7 +600,7 @@
             },
             "coreElements": [
               "Undring og utforsking",
-              "Samfunnskritisk tenkning og sammenhenger"
+              "Samfunnskritisk tenking og samanhengar"
             ],
             "verbs": [
               "Sammenligne",
@@ -519,8 +615,8 @@
             },
             "coreElements": [
               "Undring og utforsking",
-              "Samfunnskritisk tenkning og sammenhenger",
-              "Bærekraftige samfunn",
+              "Samfunnskritisk tenking og samanhengar",
+              "Berekraftige samfunn",
               "Identitetsutvikling og fellesskap"
             ],
             "verbs": [
@@ -534,8 +630,8 @@
               "en": "describe geographic features in different parts of the world and reflect on how these features have impact on the lives of the people who live there"
             },
             "coreElements": [
-              "Samfunnskritisk tenkning og sammenhenger",
-              "Bærekraftige samfunn"
+              "Samfunnskritisk tenking og samanhengar",
+              "Berekraftige samfunn"
             ],
             "verbs": [
               "Reflektere",
@@ -549,8 +645,8 @@
               "en": "reflect on why conflicts arise, and discuss how both the individual and society can deal with conflicts"
             },
             "coreElements": [
-              "Samfunnskritisk tenkning og sammenhenger",
-              "Demokratiforståelse og deltakelse",
+              "Samfunnskritisk tenking og samanhengar",
+              "Demokratiforståing og deltaking",
               "Identitetsutvikling og fellesskap"
             ],
             "verbs": [
@@ -566,7 +662,7 @@
             },
             "coreElements": [
               "Undring og utforsking",
-              "Demokratiforståelse og deltakelse",
+              "Demokratiforståing og deltaking",
               "Identitetsutvikling og fellesskap"
             ],
             "verbs": [
@@ -582,8 +678,8 @@
             },
             "coreElements": [
               "Undring og utforsking",
-              "Samfunnskritisk tenkning og sammenhenger",
-              "Demokratiforståelse og deltakelse",
+              "Samfunnskritisk tenking og samanhengar",
+              "Demokratiforståing og deltaking",
               "Identitetsutvikling og fellesskap"
             ],
             "verbs": [
@@ -598,8 +694,8 @@
               "en": "talk about human values and equality, and compare how human rights have been established and implemented in various countries"
             },
             "coreElements": [
-              "Samfunnskritisk tenkning og sammenhenger",
-              "Demokratiforståelse og deltakelse",
+              "Samfunnskritisk tenking og samanhengar",
+              "Demokratiforståing og deltaking",
               "Identitetsutvikling og fellesskap"
             ],
             "verbs": [
@@ -613,8 +709,8 @@
               "en": "explore the main features in the history of the Sami people and the national minorities of Norway and make a presentation about the rights the Sami and national minorities of Norway have today"
             },
             "coreElements": [
-              "Samfunnskritisk tenkning og sammenhenger",
-              "Demokratiforståelse og deltakelse",
+              "Samfunnskritisk tenking og samanhengar",
+              "Demokratiforståing og deltaking",
               "Identitetsutvikling og fellesskap"
             ],
             "verbs": [
@@ -629,7 +725,7 @@
               "en": "reflect on how commercialism can influence consumption, personal finances and one’s self-image"
             },
             "coreElements": [
-              "Samfunnskritisk tenkning og sammenhenger",
+              "Samfunnskritisk tenking og samanhengar",
               "Identitetsutvikling og fellesskap"
             ],
             "verbs": [
@@ -644,9 +740,9 @@
             },
             "coreElements": [
               "Undring og utforsking",
-              "Samfunnskritisk tenkning og sammenhenger",
-              "Demokratiforståelse og deltakelse",
-              "Bærekraftige samfunn",
+              "Samfunnskritisk tenking og samanhengar",
+              "Demokratiforståing og deltaking",
+              "Berekraftige samfunn",
               "Identitetsutvikling og fellesskap"
             ],
             "verbs": [
@@ -691,8 +787,8 @@
               "en": "describe key events that have led to the democracy we have in Norway today and compare how individuals have the power to influence different systems of government"
             },
             "coreElements": [
-              "Samfunnskritisk tenkning og sammenhenger",
-              "Demokratiforståelse og deltakelse"
+              "Samfunnskritisk tenking og samanhengar",
+              "Demokratiforståing og deltaking"
             ],
             "verbs": [
               "Sammenligne",
@@ -707,7 +803,7 @@
             },
             "coreElements": [
               "Undring og utforsking",
-              "Samfunnskritisk tenkning og sammenhenger"
+              "Samfunnskritisk tenking og samanhengar"
             ],
             "verbs": [
               "Reflektere"
@@ -721,8 +817,8 @@
             },
             "coreElements": [
               "Undring og utforsking",
-              "Samfunnskritisk tenkning og sammenhenger",
-              "Demokratiforståelse og deltakelse",
+              "Samfunnskritisk tenking og samanhengar",
+              "Demokratiforståing og deltaking",
               "Identitetsutvikling og fellesskap"
             ],
             "verbs": [
@@ -746,7 +842,7 @@
             },
             "coreElements": [
               "Undring og utforsking",
-              "Samfunnskritisk tenkning og sammenhenger"
+              "Samfunnskritisk tenking og samanhengar"
             ],
             "verbs": [
               "Drøfte",
@@ -762,8 +858,8 @@
             },
             "coreElements": [
               "Undring og utforsking",
-              "Samfunnskritisk tenkning og sammenhenger",
-              "Demokratiforståelse og deltakelse"
+              "Samfunnskritisk tenking og samanhengar",
+              "Demokratiforståing og deltaking"
             ],
             "verbs": [
               "Vurdere",
@@ -778,8 +874,8 @@
             },
             "coreElements": [
               "Undring og utforsking",
-              "Samfunnskritisk tenkning og sammenhenger",
-              "Demokratiforståelse og deltakelse",
+              "Samfunnskritisk tenking og samanhengar",
+              "Demokratiforståing og deltaking",
               "Identitetsutvikling og fellesskap"
             ],
             "verbs": [
@@ -794,9 +890,9 @@
             },
             "coreElements": [
               "Undring og utforsking",
-              "Samfunnskritisk tenkning og sammenhenger",
-              "Demokratiforståelse og deltakelse",
-              "Bærekraftige samfunn",
+              "Samfunnskritisk tenking og samanhengar",
+              "Demokratiforståing og deltaking",
+              "Berekraftige samfunn",
               "Identitetsutvikling og fellesskap"
             ],
             "verbs": [
@@ -811,9 +907,9 @@
               "en": "reflect on how people have fought and continue to fight for change in society while also having been and still being influenced by geographic conditions and historical contexts"
             },
             "coreElements": [
-              "Samfunnskritisk tenkning og sammenhenger",
-              "Demokratiforståelse og deltakelse",
-              "Bærekraftige samfunn"
+              "Samfunnskritisk tenking og samanhengar",
+              "Demokratiforståing og deltaking",
+              "Berekraftige samfunn"
             ],
             "verbs": [
               "Reflektere"
@@ -826,8 +922,8 @@
               "en": "compare how political, geographic and historical events affect living conditions, settlement patterns and demographics in different parts of the world today"
             },
             "coreElements": [
-              "Samfunnskritisk tenkning og sammenhenger",
-              "Bærekraftige samfunn"
+              "Samfunnskritisk tenking og samanhengar",
+              "Berekraftige samfunn"
             ],
             "verbs": [
               "Sammenligne"
@@ -840,9 +936,9 @@
               "en": "explain the causes and consequences of key historical and contemporary conflicts, and reflect on whether changes in certain conditions could have prevented the conflicts"
             },
             "coreElements": [
-              "Samfunnskritisk tenkning og sammenhenger",
-              "Demokratiforståelse og deltakelse",
-              "Bærekraftige samfunn"
+              "Samfunnskritisk tenking og samanhengar",
+              "Demokratiforståing og deltaking",
+              "Berekraftige samfunn"
             ],
             "verbs": [
               "Reflektere",
@@ -856,8 +952,8 @@
               "en": "explain the causes and consequences of terrorism and genocide, such as the Holocaust, and reflect on how extremist attitudes and extremist acts can be prevented"
             },
             "coreElements": [
-              "Samfunnskritisk tenkning og sammenhenger",
-              "Demokratiforståelse og deltakelse",
+              "Samfunnskritisk tenking og samanhengar",
+              "Demokratiforståing og deltaking",
               "Identitetsutvikling og fellesskap"
             ],
             "verbs": [
@@ -873,9 +969,9 @@
             },
             "coreElements": [
               "Undring og utforsking",
-              "Samfunnskritisk tenkning og sammenhenger",
-              "Demokratiforståelse og deltakelse",
-              "Bærekraftige samfunn",
+              "Samfunnskritisk tenking og samanhengar",
+              "Demokratiforståing og deltaking",
+              "Berekraftige samfunn",
               "Identitetsutvikling og fellesskap"
             ],
             "verbs": [
@@ -890,8 +986,8 @@
               "en": "explain the policy of Norwegianisation of the Sami people and national minorities, and the injustices they have been subjected to, and thus reflect on what consequences this has had and has on both the individual and societal level"
             },
             "coreElements": [
-              "Samfunnskritisk tenkning og sammenhenger",
-              "Demokratiforståelse og deltakelse",
+              "Samfunnskritisk tenking og samanhengar",
+              "Demokratiforståing og deltaking",
               "Identitetsutvikling og fellesskap"
             ],
             "verbs": [
@@ -907,8 +1003,8 @@
             },
             "coreElements": [
               "Undring og utforsking",
-              "Samfunnskritisk tenkning og sammenhenger",
-              "Bærekraftige samfunn"
+              "Samfunnskritisk tenking og samanhengar",
+              "Berekraftige samfunn"
             ],
             "verbs": [
               "Beskrive",
@@ -922,7 +1018,7 @@
               "en": "assess how work, income and consumption can have an impact on one’s personal finances, standard of living and quality of life"
             },
             "coreElements": [
-              "Bærekraftige samfunn",
+              "Berekraftige samfunn",
               "Identitetsutvikling og fellesskap"
             ],
             "verbs": [
@@ -936,7 +1032,7 @@
               "en": "reflect on equalities and inequalities in identities, ways of life and cultural expressions, and discuss the opportunities and challenges related to diversity"
             },
             "coreElements": [
-              "Samfunnskritisk tenkning og sammenhenger",
+              "Samfunnskritisk tenking og samanhengar",
               "Identitetsutvikling og fellesskap"
             ],
             "verbs": [
@@ -979,8 +1075,8 @@
               "en": "reflect on which forces in society have power today, and how they justify their positions"
             },
             "coreElements": [
-              "Samfunnskritisk tenkning og sammenhenger",
-              "Demokratiforståelse og deltakelse"
+              "Samfunnskritisk tenking og samanhengar",
+              "Demokratiforståing og deltaking"
             ],
             "verbs": [
               "Reflektere"
@@ -993,7 +1089,7 @@
               "en": "explore different platforms for digital interaction and reflect on how digital participation and digital interaction affect the form and content of societal debates"
             },
             "coreElements": [
-              "Demokratiforståelse og deltakelse",
+              "Demokratiforståing og deltaking",
               "Identitetsutvikling og fellesskap"
             ],
             "verbs": [
@@ -1009,7 +1105,7 @@
             },
             "coreElements": [
               "Undring og utforsking",
-              "Samfunnskritisk tenkning og sammenhenger",
+              "Samfunnskritisk tenking og samanhengar",
               "Identitetsutvikling og fellesskap"
             ],
             "verbs": [
@@ -1025,12 +1121,41 @@
             },
             "coreElements": [
               "Undring og utforsking",
-              "Demokratiforståelse og deltakelse"
+              "Demokratiforståing og deltaking"
             ],
             "verbs": [
               "Reflektere",
               "Beskrive"
             ]
+          }
+        ],
+        "assessment": [
+          {
+            "type": {
+              "local": "Standpunktvurdering",
+              "en": "Assessment of coursework"
+            },
+            "description": {
+              "local": "10. trinn: Eleven skal ha én standpunktkarakter."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for elever",
+              "en": "Examination for pupils"
+            },
+            "description": {
+              "local": "10. trinn: Eleven kan trekkes ut til muntlig eksamen med forberedelsesdel. Muntlig eksamen blir utarbeidet og sensurert lokalt."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for privatister",
+              "en": "Examination for external candidates"
+            },
+            "description": {
+              "local": "10. trinn: Se gjeldende ordning for grunnskoleopplæring for voksne."
+            }
           }
         ]
       }

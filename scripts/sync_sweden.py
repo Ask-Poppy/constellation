@@ -157,6 +157,13 @@ def parse_year_range(year_str: str) -> int | None:
     return GRADE_BAND_AFTER_GRADE.get(year_str)
 
 
+def extract_description(purpose_html: str) -> str:
+    parts = purpose_html.split("<ul>")
+    intro = parts[0] if parts else ""
+    text = strip_html(intro).replace("\u00ad", "")
+    return text
+
+
 def extract_purpose_aims(purpose_html: str) -> list[str]:
     items = extract_bullet_points(purpose_html)
     return items
@@ -199,6 +206,7 @@ def sync_subject(code: str, filename: str) -> dict | None:
     knowledge_reqs = subject.get("knowledgeRequirements", [])
     purpose_html = subject.get("purpose", "")
 
+    description_local = extract_description(purpose_html)
     purpose_aims = extract_purpose_aims(purpose_html)
 
     core_elements = []
@@ -277,6 +285,7 @@ def sync_subject(code: str, filename: str) -> dict | None:
         "subject": {
             "code": subject_code,
             "name": {"local": subject_name, "en": ENGLISH_NAMES.get(code, "")},
+            "description": {"local": description_local, "en": ""},
             "coreElements": core_elements,
             "gradeBands": grade_bands,
         },

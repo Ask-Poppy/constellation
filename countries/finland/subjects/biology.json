@@ -17,66 +17,66 @@
         "code": "S1",
         "name": {
           "local": "S1 Biologinen tutkimus",
-          "en": ""
+          "en": "S1 Biological inquiry"
         },
         "description": {
           "local": "Sisältöjä valitaan siten, että biologisen tutkimuksen vaiheet tulevat oppilaan oman toiminnan kautta tutuiksi.",
-          "en": ""
+          "en": "Contents are selected so that the stages of biological inquiry become familiar to the pupil through their own activities."
         }
       },
       {
         "code": "S2",
         "name": {
           "local": "S2 Tutkimusretkiä luontoon ja lähiympäristöön",
-          "en": ""
+          "en": "S2 Field trips to nature and the local environment"
         },
         "description": {
           "local": "Sisältöjä valittaessa painotetaan vastuullista luonnossa liikkumista, lajintuntemusta sekä metsän ja muiden ekosysteemien tutkimista ja vertailua. Maastotyöskentelyssä havainnoidaan ja arvioidaan ympäristöä ja siinä tapahtuvia muutoksia sekä ihmisen vaikutusta niihin.",
-          "en": ""
+          "en": "When selecting contents, emphasis is placed on responsible outdoor activities, species identification, and the study and comparison of forests and other ecosystems. During fieldwork, the environment and changes occurring in it, as well as human impact on them, are observed and assessed."
         }
       },
       {
         "code": "S3",
         "name": {
           "local": "S3 Ekosysteemin perusrakenne ja toiminta",
-          "en": ""
+          "en": "S3 Basic structure and function of ecosystems"
         },
         "description": {
           "local": "Sisällöt painottuvat suomalaisen metsäekosysteemin rakenteeseen ja toimintaan sekä ihmisen toiminnan vaikutuksiin niissä. Lisäksi käsitellään perustietoja vesi-, suo-, tunturi- ja kaupunkiekosysteemeistä. Tutustutaan lajien ekologiaan ja niiden välisiin vuorovaikutussuhteisiin. Opetukseen sisältyy eliökokoelman koostaminen. Sisältöjä valittaessa painotetaan ekosysteemien monimuotoisuuden tärkeyttä.",
-          "en": ""
+          "en": "Contents focus on the structure and function of Finnish forest ecosystems and the effects of human activity on them. Basic knowledge of aquatic, mire, fell, and urban ecosystems is also covered. Pupils explore species ecology and interactions between species. Teaching includes the compilation of a specimen collection. When selecting contents, the importance of ecosystem biodiversity is emphasised."
         }
       },
       {
         "code": "S4",
         "name": {
           "local": "S4 Mitä elämä on?",
-          "en": ""
+          "en": "S4 What is life?"
         },
         "description": {
           "local": "Sisällöissä keskitytään tutkimaan elämän perusilmiöitä biologialle tyypillisin tutkimusmenetelmin. Opetukseen sisällytetään kasvien kasvatusta. Eliökunnan rakenteeseen ja monimuotoisuuteen perehdytään vertailemalla eliöiden rakenteita, elintoimintoja ja elinympäristöjä. Tutustutaan perinnöllisyyden ja evoluution perusteisiin. Tarkastellaan bioteknologian mahdollisuuksia ja haasteita.",
-          "en": ""
+          "en": "Contents focus on investigating the fundamental phenomena of life using research methods typical of biology. Teaching includes growing plants. The structure and diversity of the living world are explored by comparing the structures, vital functions, and habitats of organisms. The basics of heredity and evolution are introduced. The opportunities and challenges of biotechnology are examined."
         }
       },
       {
         "code": "S5",
         "name": {
           "local": "S5 Ihminen",
-          "en": ""
+          "en": "S5 The human being"
         },
         "description": {
           "local": "Sisällöissä keskitytään tutkimaan ihmiskehon toimintaa ja syvennetään tietämystä ihmisen rakenteesta, elintoiminnoista ja säätelyjärjestelmistä. Tarkastellaan kasvuun, kehitykseen ja terveyteen vaikuttavien biologisten tekijöiden perusteita. Tutustutaan, miten perimä ja ympäristö vaikuttavat ihmisen eri ominaisuuksien kehittymiseen.",
-          "en": ""
+          "en": "Contents focus on investigating the functioning of the human body and deepening knowledge of human anatomy, vital functions, and regulatory systems. The biological factors affecting growth, development, and health are examined. Pupils explore how heredity and the environment influence the development of various human traits."
         }
       },
       {
         "code": "S6",
         "name": {
           "local": "S6 Kohti kestävää tulevaisuutta",
-          "en": ""
+          "en": "S6 Towards a sustainable future"
         },
         "description": {
           "local": "Sisällöt liittyvät luonnon monimuotoisuuden säilyttämiseen, ilmastonmuutokseen, luonnonvarojen kestävään käyttöön ja muutoksiin lähiympäristössä. Pohditaan luonnonvarojen kestävän käytön ekologisia, sosiaalisia, taloudellisia ja eettisiä periaatteita, kestävää ravinnontuotantoa sekä eläinten hyvinvointia. Käsitellään biotalouden ja ekosysteemipalveluiden mahdollisuuksia kestävän tulevaisuuden kannalta. Tutustutaan luonnonsuojelun tavoitteisiin, keinoihin ja saavutuksiin.",
-          "en": ""
+          "en": "Contents relate to the conservation of biodiversity, climate change, the sustainable use of natural resources, and changes in the local environment. The ecological, social, economic, and ethical principles of sustainable use of natural resources, sustainable food production, and animal welfare are discussed. The potential of bioeconomy and ecosystem services for a sustainable future is explored. The goals, methods, and achievements of nature conservation are introduced."
         }
       }
     ],
@@ -92,7 +92,7 @@
             "code": "T1",
             "text": {
               "local": "T1 ohjata oppilasta ymmärtämään ekosysteemin perusrakennetta ja toimintaa sekä vertailemaan erilaisia ekosysteemejä ja tunnistamaan lajeja",
-              "en": ""
+              "en": "T1 guide the pupil to understand the basic structure and function of ecosystems, to compare different ecosystems, and to identify species"
             },
             "coreElements": [
               "S4 Mitä elämä on?",
@@ -107,7 +107,7 @@
             "code": "T2",
             "text": {
               "local": "T2 auttaa oppilasta kuvailemaan eliöiden rakenteita ja elintoimintoja sekä ymmärtämään eliökunnan rakennetta",
-              "en": ""
+              "en": "T2 help the pupil to describe the structures and vital functions of organisms and to understand the structure of the living world"
             },
             "coreElements": [
               "S5 Ihminen",
@@ -122,7 +122,7 @@
             "code": "T3",
             "text": {
               "local": "T3 ohjata oppilasta tutkimaan eliöiden sopeutumista eri elinympäristöihin ja ymmärtämään erilaisten elinympäristöjen merkitys luonnon monimuotoisuudelle",
-              "en": ""
+              "en": "T3 guide the pupil to investigate the adaptation of organisms to different habitats and to understand the significance of diverse habitats for biodiversity"
             },
             "coreElements": [
               "S4 Mitä elämä on?",
@@ -137,7 +137,7 @@
             "code": "T4",
             "text": {
               "local": "T4 ohjata oppilasta ymmärtämään perinnöllisyyden ja evoluution perusperiaatteita",
-              "en": ""
+              "en": "T4 guide the pupil to understand the basic principles of heredity and evolution"
             },
             "coreElements": [
               "S5 Ihminen",
@@ -150,7 +150,7 @@
             "code": "T5",
             "text": {
               "local": "T5 ohjata oppilasta ymmärtämään ihmisen kehitystä ja elimistön perustoimintoja",
-              "en": ""
+              "en": "T5 guide the pupil to understand human development and the basic functions of the body"
             },
             "coreElements": [
               "S5 Ihminen"
@@ -161,7 +161,7 @@
             "code": "T6",
             "text": {
               "local": "T6 ohjata oppilasta arvioimaan luonnonympäristössä tapahtuvia muutoksia ja ihmisen vaikutusta ympäristöön sekä ymmärtämään ekosysteemipalveluiden merkitys",
-              "en": ""
+              "en": "T6 guide the pupil to assess changes occurring in the natural environment and human impact on the environment, and to understand the significance of ecosystem services"
             },
             "coreElements": [
               "S6 Kohti kestävää tulevaisuutta"
@@ -172,7 +172,7 @@
             "code": "T7",
             "text": {
               "local": "T7 ohjata oppilasta kehittämään luonnontieteellistä ajattelutaitoa sekä syy- ja seuraussuhteiden ymmärtämistä",
-              "en": ""
+              "en": "T7 guide the pupil to develop scientific thinking skills and the understanding of cause-and-effect relationships"
             },
             "coreElements": [
               "S5 Ihminen",
@@ -188,7 +188,7 @@
             "code": "T8",
             "text": {
               "local": "T8 opastaa oppilasta käyttämään biologian tutkimusvälineistöä ja tieto- ja viestintäteknologiaa",
-              "en": ""
+              "en": "T8 instruct the pupil to use biological research equipment and information and communication technology"
             },
             "coreElements": [
               "S5 Ihminen",
@@ -203,7 +203,7 @@
             "code": "T9",
             "text": {
               "local": "T9 ohjata oppilasta koostamaan eliökokoelma ja kasvattamaan kasveja biologisten ilmiöiden ymmärtämiseksi",
-              "en": ""
+              "en": "T9 guide the pupil to compile a specimen collection and grow plants in order to understand biological phenomena"
             },
             "coreElements": [
               "S4 Mitä elämä on?",
@@ -218,7 +218,7 @@
             "code": "T10",
             "text": {
               "local": "T10 ohjata oppilasta tekemään tutkimuksia sekä koulussa että koulun ulkopuolella",
-              "en": ""
+              "en": "T10 guide the pupil to conduct investigations both in school and outside school"
             },
             "coreElements": [
               "S5 Ihminen",
@@ -234,7 +234,7 @@
             "code": "T11",
             "text": {
               "local": "T11 kannustaa oppilasta soveltamaan biologian tietoja ja taitoja omassa elämässä sekä yhteiskunnallisessa keskustelussa ja päätöksenteossa",
-              "en": ""
+              "en": "T11 encourage the pupil to apply biological knowledge and skills in their own life and in societal discussion and decision-making"
             },
             "coreElements": [
               "S6 Kohti kestävää tulevaisuutta"
@@ -245,7 +245,7 @@
             "code": "T12",
             "text": {
               "local": "T12 innostaa oppilasta syventämään kiinnostusta luontoa ja sen ilmiöitä kohtaan sekä vahvistamaan luontosuhdetta ja ympäristötietoisuutta",
-              "en": ""
+              "en": "T12 inspire the pupil to deepen their interest in nature and its phenomena and to strengthen their relationship with nature and environmental awareness"
             },
             "coreElements": [
               "S5 Ihminen",
@@ -261,7 +261,7 @@
             "code": "T13",
             "text": {
               "local": "T13 ohjata oppilasta tekemään eettisesti perusteltuja valintoja",
-              "en": ""
+              "en": "T13 guide the pupil to make ethically justified choices"
             },
             "coreElements": [
               "S6 Kohti kestävää tulevaisuutta"
@@ -272,7 +272,7 @@
             "code": "T14",
             "text": {
               "local": "T14 innostaa oppilasta vaikuttamaan ja toimimaan kestävän tulevaisuuden rakentamiseksi",
-              "en": ""
+              "en": "T14 inspire the pupil to participate and act in building a sustainable future"
             },
             "coreElements": [
               "S6 Kohti kestävää tulevaisuutta"

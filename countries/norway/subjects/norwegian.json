@@ -4,13 +4,17 @@
     "api": "https://data.udir.no/kl06/v201906/laereplaner-lk20/NOR01-07",
     "curriculum": "LK20",
     "license": "NLOD",
-    "lastSynced": "2026-03-02T21:37:21Z"
+    "lastSynced": "2026-03-03T08:34:33Z"
   },
   "subject": {
     "code": "NOR01-07",
     "name": {
       "local": "Læreplan i norsk",
       "en": "Curriculum for Norwegian"
+    },
+    "description": {
+      "local": "Norsk er et sentralt fag for kulturforståelse, kommunikasjon, danning og identitetsutvikling. Faget skal gi elevene tilgang til kulturens tekster, sjangre og språklige mangfold og skal bidra til at de utvikler språk for å tenke, kommunisere og lære. Faget norsk skal ruste elevene til å delta i demokratiske prosesser og skal forberede dem på et arbeidsliv som stiller krav om variert kompetanse i lesing, skriving og muntlig kommunikasjon.",
+      "en": "Norwegian is an important subject when it comes to cultural understanding, communication, all-round education and development of identity. The subject shall provide the pupils with access to the texts, genres and linguistic diversity of the culture, and shall help them to develop language for thinking, communicating and learning. The Norwegian subject shall equip the pupils to participate in democratic processes and prepare them for a working life that requires varied competence in reading, writing and oral communication."
     },
     "coreElements": [
       {
@@ -77,6 +81,87 @@
         "description": {
           "local": "Elevene skal ha kunnskap om dagens språksituasjon i Norge og utforske dens historiske bakgrunn. De skal ha innsikt i sammenhengen mellom språk, kultur og identitet og kunne forstå egen og andres språklige situasjon i Norge.",
           "en": "The pupils shall learn about the current language situation in Norway and be able to explore its historical background. They shall acquire insight into the relationship between language, culture and identity and shall be able to understand their own and others’ language situation in Norway."
+        }
+      }
+    ],
+    "interdisciplinaryThemes": [
+      {
+        "code": "TT1",
+        "name": {
+          "local": "Folkehelse og livsmestring",
+          "en": "Health and life skills"
+        },
+        "description": {
+          "local": "I norsk handler det tverrfaglige temaet folkehelse og livsmestring om å utvikle elevenes evne til å uttrykke seg skriftlig og muntlig. Dette gir elevene grunnlag for å kunne gi uttrykk for egne følelser, tanker og erfaringer, noe som er viktig for å håndtere relasjoner og delta i et sosialt fellesskap. Lesing av skjønnlitteratur og sakprosa kan både bekrefte og utfordre elevenes selvbilde og dermed bidra til deres identitetsutvikling og livsmestring.",
+          "en": "In the Norwegian subject, the interdisciplinary topic of health and life skills refers to developing the ability of the pupils to express themselves in writing and orally. This is the foundation for being able to express their feelings, thoughts and experiences, which is important for dealing with relationships and participating in a social community. Reading fiction and factual prose can both confirm and challenge the pupils’ self-image, thereby contributing to identity development and life skills."
+        }
+      },
+      {
+        "code": "TT2",
+        "name": {
+          "local": "Demokrati og medborgerskap",
+          "en": "Democracy and citizenship"
+        },
+        "description": {
+          "local": "I norsk handler det tverrfaglige temaet demokrati og medborgerskap om å utvikle elevenes muntlige og skriftlige retoriske ferdigheter, slik at de kan gi uttrykk for egne tanker og meninger og delta i samfunnsliv og demokratiske prosesser. Gjennom kritisk arbeid med tekster og ytringer øver elevene opp evnen til kritisk tenkning og lærer seg å håndtere meningsbrytninger gjennom refleksjon, dialog og diskusjon. Lesing av skjønnlitteratur og sakprosa gir elevene innblikk i andre menneskers livssituasjon og utfordringer. Dette kan bidra til at de utvikler forståelse, toleranse og respekt for andre menneskers synspunkter og perspektiver, og det kan legge grunnlag for konstruktiv samhandling.",
+          "en": "In the Norwegian subject, the interdisciplinary topic of democracy and citizenship refers to developing the oral and written rhetorical skills of the pupils so they are able to express their own thoughts and opinions and to participate in societal and democratic processes. Through working with texts and utterances in a critical manner, the pupils shall train their ability to think critically and learn to address differences of opinion through reflection, dialogue and discussion. By reading fiction and factual prose, the pupils shall gain insight into the life situation and challenges of other people. This can help them to develop understanding, tolerance and respect for other people’s opinions and perspectives, and build the foundation for constructive interaction."
+        }
+      },
+      {
+        "code": "TT3",
+        "name": {
+          "local": "Bærekraftig utvikling",
+          "en": "Sustainability"
+        },
+        "description": {
+          "local": "I norsk handler det tverrfaglige temaet bærekraftig utvikling om at elevene skal utvikle kunnskap om hvordan tekster framstiller natur, miljø og livsbetingelser, lokalt og globalt. Gjennom å møte fagets tekstmangfold, lese kritisk og delta i dialog kan elevene utvikle evnen til å forstå og håndtere meningsmotsetninger og interessekonflikter som kan oppstå når samfunnet endres i en mer bærekraftig retning. Faget norsk bidrar til å bevisstgjøre elevene og ruste dem til å handle og påvirke samfunnet gjennom språket.",
+          "en": "In the Norwegian subject the interdisciplinary topic of sustainability shall develop the pupils’ knowledge of how texts present nature, the environment and living conditions, both locally and globally. Through experiencing the diversity of texts in the Norwegian subject, reading critically and participating in dialogue, the pupils can develop the ability to understand and deal with differences of opinion and conflicts of interest that can arise when society transitions towards greater sustainability. The Norwegian subject shall help pupils to become aware of this issue and enable them to take action and influence society through language."
+        }
+      }
+    ],
+    "basicSkills": [
+      {
+        "code": "GF1",
+        "name": {
+          "local": "Muntlige ferdigheter",
+          "en": "Oral skills"
+        },
+        "description": {
+          "local": "Muntlige ferdigheter i norsk er å kunne samhandle med andre gjennom å lytte, fortelle og samtale. Det innebærer å bruke retoriske ferdigheter og å uttrykke seg hensiktsmessig i ulike spontane og forberedte kommunikasjonssituasjoner, inkludert å kunne planlegge og framføre ulike typer muntlige presentasjoner tilpasset mottakerne. Norsk har et særlig ansvar for utviklingen av muntlige ferdigheter. Utviklingen av muntlige ferdigheter i norsk går fra tidlig samhandling i lek og faglige aktiviteter til å bruke det muntlige språket stadig mer presist og nyansert i ulike norskfaglige samtaler og presentasjoner.",
+          "en": "Oral skills in the Norwegian subject refers to the ability to interact with others through listening, narrating and talking. This means using rhetorical skills and expressing oneself in an appropriate manner in different spontaneous and planned communication situations, including the ability to plan and carry out various types of oral presentations adapted to the receiver. The Norwegian subject has special responsibility for developing oral skills. The development of oral skills in the Norwegian language spans from early interaction in play and subject-related activities to using the spoken knowledge more and more precisely and with more and more nuances in the various conversations and presentations in the Norwegian subject."
+        }
+      },
+      {
+        "code": "GF2",
+        "name": {
+          "local": "Å kunne skrive",
+          "en": "Writing"
+        },
+        "description": {
+          "local": "Å kunne skrive i norsk er å kunne uttrykke seg i et bredt utvalg skjønnlitterære og sakpregede sjangre. Det innebærer å utvikle personlige skriftlige uttrykksmåter og å beherske skrivestrategier, rettskriving og oppbygging av tekster. Å skrive er også en måte å utvikle og strukturere tanker på og en metode for å lære. Norsk har et særlig ansvar for opplæringen i å kunne skrive. Utviklingen av å kunne skrive i norsk går fra den grunnleggende skriveopplæringen til å planlegge, utforme og bearbeide tekster i ulike sjangre og tilpasset formål, medium og mottaker. Skriving i norsk innebærer å uttrykke seg med en stadig større språklig sikkerhet på både hovedmål og sidemål.Den første skriveopplæringen skal foregå på elevens hovedmål.",
+          "en": "Writing in the Norwegian subject refers to the ability to express oneself in a wide range of fictional and factual genres. This means developing personal written forms of expression and mastering writing strategies, spelling and text composition. Writing is also a way of developing and structuring thoughts and a method for learning. The Norwegian subject has special responsibility for developing written skills. The development of writing skills in Norwegian ranges from learning basic writing to planning, formulating and editing texts in various genres and adapted to the purpose, medium and receiver. Writing in the Norwegian subject means expressing oneself with increasing linguistic confidence in both the written first-choice and second-choice languages.The first teaching of writing skills shall be in the pupils’ written first-choice language."
+        }
+      },
+      {
+        "code": "GF3",
+        "name": {
+          "local": "Å kunne lese",
+          "en": "Reading"
+        },
+        "description": {
+          "local": "Å kunne lese i norsk innebærer å lese både på papir og digitalt. Det innebærer å kunne lese og reflektere over skjønnlitteratur og sakprosa, å beherske lesestrategier tilpasset formålet med lesingen og å kunne vurdere tekster kritisk. Lesing i norsk innebærer også å lese sammensatte tekster som kan inneholde skrift, bilder, tegninger, tall og andre uttrykksformer. Norsk har et særlig ansvar for opplæringen i å kunne lese. Utviklingen av å kunne lese i norsk går fra den grunnleggende avkodingen til å lese, tolke og reflektere over tekster i ulike sjangre, for ulike formål og av ulik lengde og kompleksitet.Den første leseopplæringen skal foregå på elevens hovedmål.",
+          "en": "Reading in the Norwegian subject refers to the ability to read texts on paper and on screens. This means the ability to read and reflect on fiction and factual prose, to master reading strategies adapted to the purpose of the reading and to assess texts critically. Reading in the Norwegian subject also refers to reading multimedia texts that may contain text, pictures, drawings, statistics and other forms of expression. The Norwegian subject has special responsibility for teaching reading skills. The development of reading skills in Norwegian spans the basic decoding of sounds to reading, interpreting and reflecting on texts in various genres for different purposes and of different lengths and complexities.The first teaching of reading skills shall be in the pupils’ first-choice language."
+        }
+      },
+      {
+        "code": "GF5",
+        "name": {
+          "local": "Digitale ferdigheter",
+          "en": "Digital skills"
+        },
+        "description": {
+          "local": "Digitale ferdigheter i norsk er å kunne finne, vurdere og bruke digitale kilder i arbeid med tekst. Det innebærer å bruke digitale ressurser kreativt til å skape sammensatte tekster og å utvikle kritisk og etisk bevissthet om det å framstille seg selv og andre digitalt. Utviklingen av digitale ferdigheter i norsk går fra å lage enkle sammensatte tekster til å planlegge, utvikle og redigere sammensatte tekster basert på kunnskap om hvordan de forskjellige uttrykksformene virker sammen. Utviklingen innebærer også å vise en stadig større grad av selvstendighet og dømmekraft i valg og bruk av digitale kilder.",
+          "en": "Digital skills in the Norwegian subject refers to finding, assessing and using digital sources when working with texts. This means using digital resources creatively in order to create multimedia texts and to develop critical and ethical awareness of what it means to present oneself and others in a digital format. The development of digital skills in the Norwegian subject progresses from creating simple multimedia texts to planning, developing and editing multimedia texts based on knowledge of how the different forms of expression are interrelated. This development also means demonstrating an increasing degree of independence and judgement in the choice and use of digital sources."
         }
       }
     ],
@@ -932,6 +1017,35 @@
               "Reflektere"
             ]
           }
+        ],
+        "assessment": [
+          {
+            "type": {
+              "local": "Standpunktvurdering",
+              "en": "Assessment of coursework"
+            },
+            "description": {
+              "local": "10. trinn: Eleven skal ha tre standpunktkarakterer, én i norsk muntlig, én i norsk skriftlig hovedmål og én i norsk skriftlig sidemål.Vg2 yrkesfaglige utdanningsprogram: Eleven skal ha én standpunktkarakter.Vg3 studieforberedende utdanningsprogram: Eleven skal ha tre standpunktkarakterer, én i norsk muntlig, én i norsk skriftlig hovedmål og én i norsk skriftlig sidemål.Vg3 påbygging til generell studiekompetanse: Eleven skal ha tre standpunktkarakterer, én i norsk muntlig, én i norsk skriftlig hovedmål og én i norsk skriftlig sidemål."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for elever",
+              "en": "Examination for pupils"
+            },
+            "description": {
+              "local": "10. trinn: Eleven kan trekkes ut til to dagers skriftlig eksamen som omfatter norsk hovedmål og norsk sidemål. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Eleven kan også trekkes ut til muntlig eksamen med forberedelsesdel. Muntlig eksamen blir utarbeidet og sensurert lokalt.Vg2 yrkesfaglige utdanningsprogram: Eleven kan trekkes ut til skriftlig eksamen i norsk hovedmål. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Eleven kan også trekkes ut til muntlig eksamen med forberedelsesdel. Muntlig eksamen blir utarbeidet og sensurert lokalt.Vg3 studieforberedende utdanningsprogram: Eleven skal opp til skriftlig eksamen i norsk hovedmål. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Eleven kan også trekkes ut til skriftlig eksamen i norsk sidemål. I tillegg kan eleven trekkes ut til muntlig eksamen med forberedelsesdel. Muntlig eksamen blir utarbeidet og sensurert lokalt.Vg3 påbygging til generell studiekompetanse: Eleven skal opp til skriftlig eksamen i norsk hovedmål. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Eleven kan også trekkes ut til skriftlig eksamen i norsk sidemål. I tillegg kan eleven trekkes ut til muntlig eksamen med forberedelsesdel. Muntlig eksamen blir utarbeidet og sensurert lokalt."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for privatister",
+              "en": "Examination for external candidates"
+            },
+            "description": {
+              "local": "10. trinn: Se gjeldende ordning for grunnskoleopplæring for voksne.Vg2 yrkesfaglige utdanningsprogram: Privatisten skal opp til skriftlig eksamen i norsk hovedmål. Skriftlig eksamen blir utarbeidet og sensurert sentralt. I tillegg skal privatisten opp til muntlig eksamen. Muntlig eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen.Vg3 studieforberedende utdanningsprogram: Privatisten skal opp til skriftlig eksamen både i norsk hovedmål og i norsk sidemål. Skriftlig eksamen blir utarbeidet og sensurert sentralt. I tillegg skal privatisten opp til muntlig eksamen. Muntlig eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen.Vg3 påbygging til generell studiekompetanse: Privatisten skal opp til skriftlig eksamen både i norsk hovedmål og i norsk sidemål. Skriftlig eksamen blir utarbeidet og sensurert sentralt. I tillegg skal privatisten opp til muntlig eksamen. Muntlig eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen."
+            }
+          }
         ]
       },
       {
@@ -1298,6 +1412,35 @@
               "Gjøre rede for"
             ]
           }
+        ],
+        "assessment": [
+          {
+            "type": {
+              "local": "Standpunktvurdering",
+              "en": "Assessment of coursework"
+            },
+            "description": {
+              "local": "10. trinn: Eleven skal ha tre standpunktkarakterer, én i norsk muntlig, én i norsk skriftlig hovedmål og én i norsk skriftlig sidemål.Vg2 yrkesfaglige utdanningsprogram: Eleven skal ha én standpunktkarakter.Vg3 studieforberedende utdanningsprogram: Eleven skal ha tre standpunktkarakterer, én i norsk muntlig, én i norsk skriftlig hovedmål og én i norsk skriftlig sidemål.Vg3 påbygging til generell studiekompetanse: Eleven skal ha tre standpunktkarakterer, én i norsk muntlig, én i norsk skriftlig hovedmål og én i norsk skriftlig sidemål."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for elever",
+              "en": "Examination for pupils"
+            },
+            "description": {
+              "local": "10. trinn: Eleven kan trekkes ut til to dagers skriftlig eksamen som omfatter norsk hovedmål og norsk sidemål. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Eleven kan også trekkes ut til muntlig eksamen med forberedelsesdel. Muntlig eksamen blir utarbeidet og sensurert lokalt.Vg2 yrkesfaglige utdanningsprogram: Eleven kan trekkes ut til skriftlig eksamen i norsk hovedmål. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Eleven kan også trekkes ut til muntlig eksamen med forberedelsesdel. Muntlig eksamen blir utarbeidet og sensurert lokalt.Vg3 studieforberedende utdanningsprogram: Eleven skal opp til skriftlig eksamen i norsk hovedmål. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Eleven kan også trekkes ut til skriftlig eksamen i norsk sidemål. I tillegg kan eleven trekkes ut til muntlig eksamen med forberedelsesdel. Muntlig eksamen blir utarbeidet og sensurert lokalt.Vg3 påbygging til generell studiekompetanse: Eleven skal opp til skriftlig eksamen i norsk hovedmål. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Eleven kan også trekkes ut til skriftlig eksamen i norsk sidemål. I tillegg kan eleven trekkes ut til muntlig eksamen med forberedelsesdel. Muntlig eksamen blir utarbeidet og sensurert lokalt."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for privatister",
+              "en": "Examination for external candidates"
+            },
+            "description": {
+              "local": "10. trinn: Se gjeldende ordning for grunnskoleopplæring for voksne.Vg2 yrkesfaglige utdanningsprogram: Privatisten skal opp til skriftlig eksamen i norsk hovedmål. Skriftlig eksamen blir utarbeidet og sensurert sentralt. I tillegg skal privatisten opp til muntlig eksamen. Muntlig eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen.Vg3 studieforberedende utdanningsprogram: Privatisten skal opp til skriftlig eksamen både i norsk hovedmål og i norsk sidemål. Skriftlig eksamen blir utarbeidet og sensurert sentralt. I tillegg skal privatisten opp til muntlig eksamen. Muntlig eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen.Vg3 påbygging til generell studiekompetanse: Privatisten skal opp til skriftlig eksamen både i norsk hovedmål og i norsk sidemål. Skriftlig eksamen blir utarbeidet og sensurert sentralt. I tillegg skal privatisten opp til muntlig eksamen. Muntlig eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen."
+            }
+          }
         ]
       },
       {
@@ -1432,6 +1575,35 @@
             "verbs": [
               "Gjøre rede for"
             ]
+          }
+        ],
+        "assessment": [
+          {
+            "type": {
+              "local": "Standpunktvurdering",
+              "en": "Assessment of coursework"
+            },
+            "description": {
+              "local": "10. trinn: Eleven skal ha tre standpunktkarakterer, én i norsk muntlig, én i norsk skriftlig hovedmål og én i norsk skriftlig sidemål.Vg2 yrkesfaglige utdanningsprogram: Eleven skal ha én standpunktkarakter.Vg3 studieforberedende utdanningsprogram: Eleven skal ha tre standpunktkarakterer, én i norsk muntlig, én i norsk skriftlig hovedmål og én i norsk skriftlig sidemål.Vg3 påbygging til generell studiekompetanse: Eleven skal ha tre standpunktkarakterer, én i norsk muntlig, én i norsk skriftlig hovedmål og én i norsk skriftlig sidemål."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for elever",
+              "en": "Examination for pupils"
+            },
+            "description": {
+              "local": "10. trinn: Eleven kan trekkes ut til to dagers skriftlig eksamen som omfatter norsk hovedmål og norsk sidemål. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Eleven kan også trekkes ut til muntlig eksamen med forberedelsesdel. Muntlig eksamen blir utarbeidet og sensurert lokalt.Vg2 yrkesfaglige utdanningsprogram: Eleven kan trekkes ut til skriftlig eksamen i norsk hovedmål. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Eleven kan også trekkes ut til muntlig eksamen med forberedelsesdel. Muntlig eksamen blir utarbeidet og sensurert lokalt.Vg3 studieforberedende utdanningsprogram: Eleven skal opp til skriftlig eksamen i norsk hovedmål. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Eleven kan også trekkes ut til skriftlig eksamen i norsk sidemål. I tillegg kan eleven trekkes ut til muntlig eksamen med forberedelsesdel. Muntlig eksamen blir utarbeidet og sensurert lokalt.Vg3 påbygging til generell studiekompetanse: Eleven skal opp til skriftlig eksamen i norsk hovedmål. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Eleven kan også trekkes ut til skriftlig eksamen i norsk sidemål. I tillegg kan eleven trekkes ut til muntlig eksamen med forberedelsesdel. Muntlig eksamen blir utarbeidet og sensurert lokalt."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for privatister",
+              "en": "Examination for external candidates"
+            },
+            "description": {
+              "local": "10. trinn: Se gjeldende ordning for grunnskoleopplæring for voksne.Vg2 yrkesfaglige utdanningsprogram: Privatisten skal opp til skriftlig eksamen i norsk hovedmål. Skriftlig eksamen blir utarbeidet og sensurert sentralt. I tillegg skal privatisten opp til muntlig eksamen. Muntlig eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen.Vg3 studieforberedende utdanningsprogram: Privatisten skal opp til skriftlig eksamen både i norsk hovedmål og i norsk sidemål. Skriftlig eksamen blir utarbeidet og sensurert sentralt. I tillegg skal privatisten opp til muntlig eksamen. Muntlig eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen.Vg3 påbygging til generell studiekompetanse: Privatisten skal opp til skriftlig eksamen både i norsk hovedmål og i norsk sidemål. Skriftlig eksamen blir utarbeidet og sensurert sentralt. I tillegg skal privatisten opp til muntlig eksamen. Muntlig eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen."
+            }
           }
         ]
       },
@@ -1573,6 +1745,35 @@
               "Reflektere",
               "Gjøre rede for"
             ]
+          }
+        ],
+        "assessment": [
+          {
+            "type": {
+              "local": "Standpunktvurdering",
+              "en": "Assessment of coursework"
+            },
+            "description": {
+              "local": "10. trinn: Eleven skal ha tre standpunktkarakterer, én i norsk muntlig, én i norsk skriftlig hovedmål og én i norsk skriftlig sidemål.Vg2 yrkesfaglige utdanningsprogram: Eleven skal ha én standpunktkarakter.Vg3 studieforberedende utdanningsprogram: Eleven skal ha tre standpunktkarakterer, én i norsk muntlig, én i norsk skriftlig hovedmål og én i norsk skriftlig sidemål.Vg3 påbygging til generell studiekompetanse: Eleven skal ha tre standpunktkarakterer, én i norsk muntlig, én i norsk skriftlig hovedmål og én i norsk skriftlig sidemål."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for elever",
+              "en": "Examination for pupils"
+            },
+            "description": {
+              "local": "10. trinn: Eleven kan trekkes ut til to dagers skriftlig eksamen som omfatter norsk hovedmål og norsk sidemål. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Eleven kan også trekkes ut til muntlig eksamen med forberedelsesdel. Muntlig eksamen blir utarbeidet og sensurert lokalt.Vg2 yrkesfaglige utdanningsprogram: Eleven kan trekkes ut til skriftlig eksamen i norsk hovedmål. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Eleven kan også trekkes ut til muntlig eksamen med forberedelsesdel. Muntlig eksamen blir utarbeidet og sensurert lokalt.Vg3 studieforberedende utdanningsprogram: Eleven skal opp til skriftlig eksamen i norsk hovedmål. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Eleven kan også trekkes ut til skriftlig eksamen i norsk sidemål. I tillegg kan eleven trekkes ut til muntlig eksamen med forberedelsesdel. Muntlig eksamen blir utarbeidet og sensurert lokalt.Vg3 påbygging til generell studiekompetanse: Eleven skal opp til skriftlig eksamen i norsk hovedmål. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Eleven kan også trekkes ut til skriftlig eksamen i norsk sidemål. I tillegg kan eleven trekkes ut til muntlig eksamen med forberedelsesdel. Muntlig eksamen blir utarbeidet og sensurert lokalt."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for privatister",
+              "en": "Examination for external candidates"
+            },
+            "description": {
+              "local": "10. trinn: Se gjeldende ordning for grunnskoleopplæring for voksne.Vg2 yrkesfaglige utdanningsprogram: Privatisten skal opp til skriftlig eksamen i norsk hovedmål. Skriftlig eksamen blir utarbeidet og sensurert sentralt. I tillegg skal privatisten opp til muntlig eksamen. Muntlig eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen.Vg3 studieforberedende utdanningsprogram: Privatisten skal opp til skriftlig eksamen både i norsk hovedmål og i norsk sidemål. Skriftlig eksamen blir utarbeidet og sensurert sentralt. I tillegg skal privatisten opp til muntlig eksamen. Muntlig eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen.Vg3 påbygging til generell studiekompetanse: Privatisten skal opp til skriftlig eksamen både i norsk hovedmål og i norsk sidemål. Skriftlig eksamen blir utarbeidet og sensurert sentralt. I tillegg skal privatisten opp til muntlig eksamen. Muntlig eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen."
+            }
           }
         ]
       },
@@ -1839,6 +2040,35 @@
               "Reflektere",
               "Gjøre rede for"
             ]
+          }
+        ],
+        "assessment": [
+          {
+            "type": {
+              "local": "Standpunktvurdering",
+              "en": "Assessment of coursework"
+            },
+            "description": {
+              "local": "10. trinn: Eleven skal ha tre standpunktkarakterer, én i norsk muntlig, én i norsk skriftlig hovedmål og én i norsk skriftlig sidemål.Vg2 yrkesfaglige utdanningsprogram: Eleven skal ha én standpunktkarakter.Vg3 studieforberedende utdanningsprogram: Eleven skal ha tre standpunktkarakterer, én i norsk muntlig, én i norsk skriftlig hovedmål og én i norsk skriftlig sidemål.Vg3 påbygging til generell studiekompetanse: Eleven skal ha tre standpunktkarakterer, én i norsk muntlig, én i norsk skriftlig hovedmål og én i norsk skriftlig sidemål."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for elever",
+              "en": "Examination for pupils"
+            },
+            "description": {
+              "local": "10. trinn: Eleven kan trekkes ut til to dagers skriftlig eksamen som omfatter norsk hovedmål og norsk sidemål. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Eleven kan også trekkes ut til muntlig eksamen med forberedelsesdel. Muntlig eksamen blir utarbeidet og sensurert lokalt.Vg2 yrkesfaglige utdanningsprogram: Eleven kan trekkes ut til skriftlig eksamen i norsk hovedmål. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Eleven kan også trekkes ut til muntlig eksamen med forberedelsesdel. Muntlig eksamen blir utarbeidet og sensurert lokalt.Vg3 studieforberedende utdanningsprogram: Eleven skal opp til skriftlig eksamen i norsk hovedmål. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Eleven kan også trekkes ut til skriftlig eksamen i norsk sidemål. I tillegg kan eleven trekkes ut til muntlig eksamen med forberedelsesdel. Muntlig eksamen blir utarbeidet og sensurert lokalt.Vg3 påbygging til generell studiekompetanse: Eleven skal opp til skriftlig eksamen i norsk hovedmål. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Eleven kan også trekkes ut til skriftlig eksamen i norsk sidemål. I tillegg kan eleven trekkes ut til muntlig eksamen med forberedelsesdel. Muntlig eksamen blir utarbeidet og sensurert lokalt."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for privatister",
+              "en": "Examination for external candidates"
+            },
+            "description": {
+              "local": "10. trinn: Se gjeldende ordning for grunnskoleopplæring for voksne.Vg2 yrkesfaglige utdanningsprogram: Privatisten skal opp til skriftlig eksamen i norsk hovedmål. Skriftlig eksamen blir utarbeidet og sensurert sentralt. I tillegg skal privatisten opp til muntlig eksamen. Muntlig eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen.Vg3 studieforberedende utdanningsprogram: Privatisten skal opp til skriftlig eksamen både i norsk hovedmål og i norsk sidemål. Skriftlig eksamen blir utarbeidet og sensurert sentralt. I tillegg skal privatisten opp til muntlig eksamen. Muntlig eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen.Vg3 påbygging til generell studiekompetanse: Privatisten skal opp til skriftlig eksamen både i norsk hovedmål og i norsk sidemål. Skriftlig eksamen blir utarbeidet og sensurert sentralt. I tillegg skal privatisten opp til muntlig eksamen. Muntlig eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen."
+            }
           }
         ]
       }

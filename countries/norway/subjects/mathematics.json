@@ -4,13 +4,17 @@
     "api": "https://data.udir.no/kl06/v201906/laereplaner-lk20/MAT01-05",
     "curriculum": "LK20",
     "license": "NLOD",
-    "lastSynced": "2026-03-02T21:36:38Z"
+    "lastSynced": "2026-03-03T08:33:46Z"
   },
   "subject": {
     "code": "MAT01-05",
     "name": {
       "local": "Læreplan i matematikk 1.–10. trinn",
       "en": "Curriculum for Mathematics year 1–10"
+    },
+    "description": {
+      "local": "Matematikk er et sentralt fag for å kunne forstå mønstre og sammenhenger i samfunnet og naturen gjennom modellering og anvendelser. Matematikk skal bidra til at elevene utvikler et presist språk for resonnering, kritisk tenkning og kommunikasjon gjennom abstraksjon og generalisering. Matematikk skal forberede elevene på et samfunn og arbeidsliv i utvikling ved å gi dem kompetanse i utforsking og problemløsing.",
+      "en": "Mathematics is an important subject for understanding the patterns and relationships within society and nature through the use of modelling and applications. Mathematics shall help pupils to develop a precise language for reasoning, critical thinking and communication through abstraction and generalisation. Mathematics shall prepare pupils for a society and working life in development by providing them with the competence to explore and solve problems."
     },
     "coreElements": [
       {
@@ -80,6 +84,87 @@
         }
       }
     ],
+    "interdisciplinaryThemes": [
+      {
+        "code": "TT1",
+        "name": {
+          "local": "Folkehelse og livsmestring",
+          "en": "Health and life skills"
+        },
+        "description": {
+          "local": "I matematikk handler det tverrfaglige temaet folkehelse og livsmestring om å gi elevene kompetanse i problemløsing, i statistikk og i personlig økonomi. Gjennom faget skal elevene få utvikle forståelse for teknologi, statistikk og matematiske representasjoner og modeller som kan hjelpe dem til å gjøre ansvarlige livsvalg.",
+          "en": "In mathematics the interdisciplinary topic of health and life skills refers to giving the pupils competence in problem solving, in statistics and in personal finance. Through the subject, the pupils shall develop an understanding of technology, statistics and mathematical representations and models that can help them to make responsible life choices."
+        }
+      },
+      {
+        "code": "TT2",
+        "name": {
+          "local": "Demokrati og medborgerskap",
+          "en": "Democracy and citizenship"
+        },
+        "description": {
+          "local": "I matematikk handler det tverrfaglige temaet demokrati og medborgerskap om å gi elevene kompetanse i å utforske og analysere funn fra reelle datasett og tallmaterialer fra natur, samfunn, arbeidsliv og hverdagsliv. Videre handler det om at elevene lærer å vurdere hvor gyldige slike funn er. Slik kompetanse er viktig å for å kunne formulere egne argumenter og delta i samfunnsdebatten. Faget skal gjøre elevene bevisste på forutsetninger og premisser for matematiske modeller som ligger til grunn for beslutninger i deres eget liv og i samfunnet.",
+          "en": "In mathematics the interdisciplinary topic of democracy and citizenship refers to giving the pupils the competence to explore and analyse findings from real datasets and data collected from nature, society, working life and everyday life. It also refers to the pupils learning how to evaluate the validity of such findings. This type of competence is important in order to formulate one’s own arguments and participate in public debate. The subject shall make the pupils concious of the underlying conditions and premises for the mathematical models which form the basis for decisions in their own lives and in society."
+        }
+      }
+    ],
+    "basicSkills": [
+      {
+        "code": "GF1",
+        "name": {
+          "local": "Muntlige ferdigheter",
+          "en": "Oral skills"
+        },
+        "description": {
+          "local": "Muntlige ferdigheter i matematikk innebærer å skape mening gjennom å samtale i og om matematikk. Det vil si å kommunisere ideer og drøfte matematiske problemer, strategier og løsninger med andre. Utviklingen av muntlige ferdigheter i matematikk går fra å bruke hverdagsspråk til gradvis å bruke et mer presist matematisk språk.",
+          "en": "Oral skills in mathematics refers to creating meaning through dialogue in and about mathematics. This means communicating ideas and discussing mathematical problems, strategies and solutions with others. The development of oral skills in mathematics goes from using an everyday language to gradually using a more precise mathematical language."
+        }
+      },
+      {
+        "code": "GF2",
+        "name": {
+          "local": "Å kunne skrive",
+          "en": "Writing"
+        },
+        "description": {
+          "local": "Å kunne skrive i matematikk innebærer å beskrive og forklare sammenhenger, oppdagelser og ideer ved hjelp av hensiktsmessige representasjoner. Å kunne skrive i matematikk er et redskap for å utvikle egne tanker og egen læring. Det innebærer å kunne løse problemer og presentere løsninger som er tilpasset mottakeren og situasjonen. Utviklingen av skriveferdigheter i matematikk går fra å bruke hverdagsspråk til gradvis å bruke et mer presist matematisk språk.",
+          "en": "Writing in mathematics refers to describing and explaining relationships, discoveries and ideas using suitable representations. Writing in mathematics is a tool for developing one’s own thoughts and learning. This means the ability to solve problems and to present solutions that are adapted to the receiver and the situation. The development of writing skills in mathematics goes from using an everyday language to gradually using a more precise mathematical language."
+        }
+      },
+      {
+        "code": "GF3",
+        "name": {
+          "local": "Å kunne lese",
+          "en": "Reading"
+        },
+        "description": {
+          "local": "Å kunne lese i matematikk innebærer å skape mening både i tekster fra daglig- og samfunnslivet og i matematikkfaglige tekster. Å kunne lese i matematikk vil si å sortere informasjon, analysere og vurdere form og innhold og sammenfatte informasjon i sammensatte tekster. Utviklingen av leseferdigheter i matematikk handler om å finne og bruke informasjon i stadig mer komplekse tekster med avansert symbolspråk og begrepsbruk.",
+          "en": "Reading in mathematics refers to creating meaning in texts from everyday life, society and the field of mathematics. Reading in mathematics means being able to sort information, analyse and evaluate its form and content, and summarise information in multimodal texts. The development of reading skills in mathematics refers to finding and using information in increasingly complex texts with advanced symbolic language and use of concepts."
+        }
+      },
+      {
+        "code": "GF4",
+        "name": {
+          "local": "Å kunne regne",
+          "en": "Numeracy"
+        },
+        "description": {
+          "local": "Å kunne regne i matematikk vil si å bruke matematiske representasjoner, begreper og framgangsmåter til å gjøre utregninger og vurdere om løsninger er gyldige. Det innebærer å kjenne igjen konkrete problemer som kan løses ved regning, og formulere spørsmål om disse. Matematikk har et særlig ansvar for opplæringen i å kunne regne. Utviklingen av regneferdigheter i matematikk handler om å analysere og løse et spekter av stadig mer komplekse problemer med effektive og hensiktsmessige begreper, symboler, metoder og strategier.",
+          "en": "Numeracy in mathematics refers to using mathematical representations, concepts and approaches to do calculations and evaluate whether solutions are valid. This means recognising concrete problems that can be solved using numeracy skills and formulating questions about these. Mathematics has a particular responsibility for teaching numeracy. Development of numeracy skills in mathematics means analysing and solving a range of increasingly more complex problems with effective and suitable concepts, symbols, methods and strategies."
+        }
+      },
+      {
+        "code": "GF5",
+        "name": {
+          "local": "Digitale ferdigheter",
+          "en": "Digital skills"
+        },
+        "description": {
+          "local": "Digitale ferdigheter i matematikk innebærer å kunne bruke graftegner, regneark, CAS, dynamisk geometriprogram og programmering til å utforske og løse matematiske problemer. Videre innebærer det å finne, analysere, behandle og presentere informasjon ved hjelp av digitale verktøy. Utviklingen av digitale ferdigheter innebærer i økende grad å bruke og velge hensiktsmessige digitale verktøy som hjelpemiddel for å utforske, løse og presentere matematiske problemer.",
+          "en": "Digital skills in mathematics refers to the ability to use graphing tools, spreadsheets, CAS, dynamic geometry software and programming to explore and solve mathematical problems. It also means finding, analysing, processing and presenting information using digital tools. The development of digital skills refers to increasingly being able to choose and use suitable digital tools as aids for exploring, solving and presenting mathematical problems."
+        }
+      }
+    ],
     "gradeBands": [
       {
         "afterGrade": 2,
@@ -110,7 +195,7 @@
               "en": "explore numbers, sets and counting through play, nature, visual art, music and children’s literature, represent the numbers in different ways and translate between the different representations"
             },
             "coreElements": [
-              "Utforsking og problemløsing",
+              "Utforsking og problemløysing",
               "Representasjon og kommunikasjon"
             ],
             "verbs": [
@@ -124,7 +209,7 @@
               "en": "experiment with counting, both up and down, choosing different starting points and various intervals, and describe patterns in the countings"
             },
             "coreElements": [
-              "Utforsking og problemløsing",
+              "Utforsking og problemløysing",
               "Representasjon og kommunikasjon"
             ],
             "verbs": [
@@ -138,7 +223,7 @@
               "en": "explore and describe general properties of even and odd numbers"
             },
             "coreElements": [
-              "Utforsking og problemløsing",
+              "Utforsking og problemløysing",
               "Abstraksjon og generalisering"
             ],
             "verbs": [
@@ -166,7 +251,7 @@
               "en": "place numbers on the number line, and use the number line for calculations and solving problems"
             },
             "coreElements": [
-              "Utforsking og problemløsing",
+              "Utforsking og problemløysing",
               "Representasjon og kommunikasjon"
             ],
             "verbs": [
@@ -180,7 +265,7 @@
               "en": "explore addition and subtraction and use this to formulate and solve problems from play and one's own everyday life"
             },
             "coreElements": [
-              "Utforsking og problemløsing"
+              "Utforsking og problemløysing"
             ],
             "verbs": [
               "Utforske",
@@ -194,7 +279,7 @@
               "en": "explore the commutative and associative properties of addition and use these in mental arithmetic"
             },
             "coreElements": [
-              "Utforsking og problemløsing",
+              "Utforsking og problemløysing",
               "Abstraksjon og generalisering"
             ],
             "verbs": [
@@ -222,7 +307,7 @@
               "en": "explore, draw and describe geometric shapes from one’s own local environment and argue for ways to sort them by properties"
             },
             "coreElements": [
-              "Utforsking og problemløsing",
+              "Utforsking og problemløysing",
               "Resonnering og argumentasjon"
             ],
             "verbs": [
@@ -237,7 +322,7 @@
               "en": "measure and compare quantities relating to length and area, using non-standard and standardised units of measurement, describe how and discuss the results"
             },
             "coreElements": [
-              "Utforsking og problemløsing",
+              "Utforsking og problemløysing",
               "Resonnering og argumentasjon"
             ],
             "verbs": [
@@ -253,7 +338,7 @@
               "en": "explain how to tell the time using a clock and calendar"
             },
             "coreElements": [
-              "Modellering og anvendelser"
+              "Modellering og anvendingar"
             ],
             "verbs": [
               "Beskrive"
@@ -266,7 +351,7 @@
               "en": "create and follow rules and step-by-step instructions during play and games"
             },
             "coreElements": [
-              "Utforsking og problemløsing",
+              "Utforsking og problemløysing",
               "Abstraksjon og generalisering"
             ],
             "verbs": []
@@ -287,7 +372,7 @@
               "en": "develop and use suitable strategies for subtracting in practical situations"
             },
             "coreElements": [
-              "Utforsking og problemløsing",
+              "Utforsking og problemløysing",
               "Representasjon og kommunikasjon"
             ],
             "verbs": [
@@ -302,7 +387,7 @@
               "en": "explore and explain relationships between addition and subtraction and use this in one’s own mental arithmetic and problem solving"
             },
             "coreElements": [
-              "Utforsking og problemløsing",
+              "Utforsking og problemløysing",
               "Abstraksjon og generalisering"
             ],
             "verbs": [
@@ -317,7 +402,7 @@
               "en": "explore multiplication by counting"
             },
             "coreElements": [
-              "Utforsking og problemløsing"
+              "Utforsking og problemløysing"
             ],
             "verbs": [
               "Utforske"
@@ -330,7 +415,7 @@
               "en": "experiment with multiplication and division in everyday situations"
             },
             "coreElements": [
-              "Utforsking og problemløsing"
+              "Utforsking og problemløysing"
             ],
             "verbs": []
           },
@@ -352,7 +437,7 @@
               "en": "use commutative, associative and distributive properties to explore and describe strategies in multiplication"
             },
             "coreElements": [
-              "Utforsking og problemløsing",
+              "Utforsking og problemløysing",
               "Abstraksjon og generalisering"
             ],
             "verbs": [
@@ -382,7 +467,7 @@
               "en": "explore equilibrium and balance in practical situations, represent this in different ways and switch between the different representations"
             },
             "coreElements": [
-              "Utforsking og problemløsing",
+              "Utforsking og problemløysing",
               "Representasjon og kommunikasjon"
             ],
             "verbs": [
@@ -396,7 +481,7 @@
               "en": "use different units of measurement for length and mass in practical situations and argue for the choice of unit of measurement"
             },
             "coreElements": [
-              "Modellering og anvendelser",
+              "Modellering og anvendingar",
               "Resonnering og argumentasjon"
             ],
             "verbs": [
@@ -410,7 +495,7 @@
               "en": "experiment with and explain positions in the coordinate system"
             },
             "coreElements": [
-              "Utforsking og problemløsing"
+              "Utforsking og problemløysing"
             ],
             "verbs": []
           },
@@ -421,7 +506,7 @@
               "en": "create and follow rules and step-by-step instructions in play and games related to the coordinate system"
             },
             "coreElements": [
-              "Utforsking og problemløsing",
+              "Utforsking og problemløysing",
               "Abstraksjon og generalisering"
             ],
             "verbs": []
@@ -442,7 +527,7 @@
               "en": "explore and use measurement division and partitive division in practical situations"
             },
             "coreElements": [
-              "Utforsking og problemløsing"
+              "Utforsking og problemløysing"
             ],
             "verbs": [
               "Utforske",
@@ -467,7 +552,7 @@
               "en": "explore, use and describe different strategies for division"
             },
             "coreElements": [
-              "Utforsking og problemløsing",
+              "Utforsking og problemløysing",
               "Representasjon og kommunikasjon"
             ],
             "verbs": [
@@ -483,7 +568,7 @@
               "en": "explore and explain relationships between the four arithmetical operations and use the relationships in a suitable way in calculations"
             },
             "coreElements": [
-              "Utforsking og problemløsing",
+              "Utforsking og problemløysing",
               "Resonnering og argumentasjon"
             ],
             "verbs": [
@@ -498,7 +583,7 @@
               "en": "model situations from one’s own everyday life and explain one's own thought processes"
             },
             "coreElements": [
-              "Modellering og anvendelser"
+              "Modellering og anvendingar"
             ],
             "verbs": []
           },
@@ -509,7 +594,7 @@
               "en": "make arithmetic expressions for practical situations and find practical situations that fit given arithmetic expressions"
             },
             "coreElements": [
-              "Modellering og anvendelser",
+              "Modellering og anvendingar",
               "Representasjon og kommunikasjon",
               "Abstraksjon og generalisering"
             ],
@@ -522,7 +607,7 @@
               "en": "explore, describe and compare properties of two and three dimensional figures using angles, edges and corners"
             },
             "coreElements": [
-              "Utforsking og problemløsing"
+              "Utforsking og problemløysing"
             ],
             "verbs": [
               "Sammenligne",
@@ -538,7 +623,7 @@
               "en": "use non-standard units of measurement for area and volume in practical situations and argue for the choice of unit of measurement"
             },
             "coreElements": [
-              "Utforsking og problemløsing",
+              "Utforsking og problemløysing",
               "Resonnering og argumentasjon"
             ],
             "verbs": [
@@ -552,7 +637,7 @@
               "en": "explore and describe structures and patterns in play and games"
             },
             "coreElements": [
-              "Utforsking og problemløsing",
+              "Utforsking og problemløysing",
               "Abstraksjon og generalisering"
             ],
             "verbs": [
@@ -567,7 +652,7 @@
               "en": "create algorithms and express them using variables, conditions and loops"
             },
             "coreElements": [
-              "Utforsking og problemløsing",
+              "Utforsking og problemløysing",
               "Abstraksjon og generalisering"
             ],
             "verbs": []
@@ -628,7 +713,7 @@
               "en": "develop and use different strategies for calculations with positive numbers and fractions, and explain one’s own thought processes"
             },
             "coreElements": [
-              "Modellering og anvendelser"
+              "Modellering og anvendingar"
             ],
             "verbs": [
               "Utvikle",
@@ -642,7 +727,7 @@
               "en": "formulate and solve problems from one’s own everyday life that are related to fractions"
             },
             "coreElements": [
-              "Utforsking og problemløsing"
+              "Utforsking og problemløysing"
             ],
             "verbs": []
           },
@@ -653,7 +738,7 @@
               "en": "discuss randomness and probability in games and practical situations and relate this to fractions"
             },
             "coreElements": [
-              "Utforsking og problemløsing",
+              "Utforsking og problemløysing",
               "Resonnering og argumentasjon"
             ],
             "verbs": []
@@ -665,7 +750,7 @@
               "en": "solve equations and inequalities through logical reasoning and explain what it means that a number is a solution to an equation"
             },
             "coreElements": [
-              "Utforsking og problemløsing",
+              "Utforsking og problemløysing",
               "Resonnering og argumentasjon"
             ],
             "verbs": []
@@ -677,7 +762,7 @@
               "en": "create and solve tasks in a spreadsheet related to personal finance"
             },
             "coreElements": [
-              "Modellering og anvendelser",
+              "Modellering og anvendingar",
               "Representasjon og kommunikasjon"
             ],
             "verbs": []
@@ -689,7 +774,7 @@
               "en": "formulate and solve problems from one’s own everyday life that are related to time"
             },
             "coreElements": [
-              "Modellering og anvendelser"
+              "Modellering og anvendingar"
             ],
             "verbs": []
           },
@@ -700,7 +785,7 @@
               "en": "create and programme algorithms with the use of variables, conditions and loops"
             },
             "coreElements": [
-              "Utforsking og problemløsing",
+              "Utforsking og problemløysing",
               "Abstraksjon og generalisering"
             ],
             "verbs": []
@@ -721,7 +806,7 @@
               "en": "explore, name and place decimal numbers on the number line"
             },
             "coreElements": [
-              "Utforsking og problemløsing",
+              "Utforsking og problemløysing",
               "Representasjon og kommunikasjon"
             ],
             "verbs": [
@@ -750,7 +835,7 @@
               "en": "formulate and solve problems from one’s own everyday life related to decimal numbers, fractions and percentages, and explain one’s own thought processes"
             },
             "coreElements": [
-              "Utforsking og problemløsing"
+              "Utforsking og problemløysing"
             ],
             "verbs": []
           },
@@ -775,7 +860,7 @@
               "en": "explore and describe symmetry in patterns and carry out congruent mapping with and without a coordinate system"
             },
             "coreElements": [
-              "Utforsking og problemløsing"
+              "Utforsking og problemløysing"
             ],
             "verbs": [
               "Utforske",
@@ -789,7 +874,7 @@
               "en": "measure the radius, diameter and circumference of circles, and explore and argue for how they are interrelated"
             },
             "coreElements": [
-              "Utforsking og problemløsing",
+              "Utforsking og problemløysing",
               "Resonnering og argumentasjon"
             ],
             "verbs": [
@@ -804,7 +889,7 @@
               "en": "explore measures for area and volume in practical situations and represent them in different ways"
             },
             "coreElements": [
-              "Utforsking og problemløsing",
+              "Utforsking og problemløysing",
               "Representasjon og kommunikasjon"
             ],
             "verbs": [
@@ -818,7 +903,7 @@
               "en": "use different strategies to calculate area and circumference, and explore the relationships between these"
             },
             "coreElements": [
-              "Modellering og anvendelser"
+              "Modellering og anvendingar"
             ],
             "verbs": [
               "Utforske",
@@ -846,7 +931,7 @@
               "en": "use variables, loops, conditions and functions in programming to explore geometric figures and patterns"
             },
             "coreElements": [
-              "Utforsking og problemløsing",
+              "Utforsking og problemløysing",
               "Abstraksjon og generalisering"
             ],
             "verbs": [
@@ -870,7 +955,7 @@
               "en": "develop and use suitable strategies in calculations with fractions, decimal numbers and percentages, and explain one’s own thought processes"
             },
             "coreElements": [
-              "Utforsking og problemløsing",
+              "Utforsking og problemløysing",
               "Resonnering og argumentasjon"
             ],
             "verbs": [
@@ -885,7 +970,7 @@
               "en": "represent and use fractions, decimal numbers and percentages in different ways and explore the mathematical relationships between these representations"
             },
             "coreElements": [
-              "Utforsking og problemløsing",
+              "Utforsking og problemløysing",
               "Representasjon og kommunikasjon"
             ],
             "verbs": [
@@ -900,7 +985,7 @@
               "en": "explore negative numbers in practical situations"
             },
             "coreElements": [
-              "Utforsking og problemløsing"
+              "Utforsking og problemløysing"
             ],
             "verbs": [
               "Utforske"
@@ -926,7 +1011,7 @@
               "en": "use compound mathematical expressions to describe and do calculations"
             },
             "coreElements": [
-              "Modellering og anvendelser",
+              "Modellering og anvendingar",
               "Abstraksjon og generalisering"
             ],
             "verbs": [
@@ -955,8 +1040,8 @@
               "en": "explore and use suitable measures of central tendency in one’s own and others’ statistical inquiries"
             },
             "coreElements": [
-              "Utforsking og problemløsing",
-              "Modellering og anvendelser"
+              "Utforsking og problemløysing",
+              "Modellering og anvendingar"
             ],
             "verbs": [
               "Utforske",
@@ -970,7 +1055,7 @@
               "en": "log, sort, present and read data in tables and diagrams, and argue for the choice of representation"
             },
             "coreElements": [
-              "Modellering og anvendelser"
+              "Modellering og anvendingar"
             ],
             "verbs": [
               "Presentere"
@@ -983,7 +1068,7 @@
               "en": "create and evaluate budgets and accounts by using spreadsheets with cell references and formulas"
             },
             "coreElements": [
-              "Modellering og anvendelser"
+              "Modellering og anvendingar"
             ],
             "verbs": [
               "Vurdere",
@@ -997,7 +1082,7 @@
               "en": "use programming to explore data in tables and datasets"
             },
             "coreElements": [
-              "Utforsking og problemløsing"
+              "Utforsking og problemløysing"
             ],
             "verbs": [
               "Utforske",
@@ -1020,7 +1105,7 @@
               "en": "use powers and square roots in exploration and problem solving, and argue for approaches and results"
             },
             "coreElements": [
-              "Utforsking og problemløsing",
+              "Utforsking og problemløysing",
               "Resonnering og argumentasjon",
               "Representasjon og kommunikasjon"
             ],
@@ -1048,7 +1133,7 @@
               "en": "explore and describe prime number factorisation and use it while calculating with fractions"
             },
             "coreElements": [
-              "Modellering og anvendelser"
+              "Modellering og anvendingar"
             ],
             "verbs": [
               "Utforske",
@@ -1063,7 +1148,7 @@
               "en": "explore rules of algebra"
             },
             "coreElements": [
-              "Utforsking og problemløsing"
+              "Utforsking og problemløysing"
             ],
             "verbs": [
               "Utforske"
@@ -1089,7 +1174,7 @@
               "en": "create and solve problems related to compound units of measurement"
             },
             "coreElements": [
-              "Modellering og anvendelser",
+              "Modellering og anvendingar",
               "Representasjon og kommunikasjon"
             ],
             "verbs": []
@@ -1101,7 +1186,7 @@
               "en": "make and explain mathematical expressions with numbers, variables and constants related to practical situations"
             },
             "coreElements": [
-              "Modellering og anvendelser",
+              "Modellering og anvendingar",
               "Representasjon og kommunikasjon",
               "Abstraksjon og generalisering"
             ],
@@ -1114,7 +1199,7 @@
               "en": "create, solve and explain equations related to practical situations"
             },
             "coreElements": [
-              "Modellering og anvendelser"
+              "Modellering og anvendingar"
             ],
             "verbs": []
           },
@@ -1125,8 +1210,8 @@
               "en": "explore, explain and compare functions related to practical situations"
             },
             "coreElements": [
-              "Utforsking og problemløsing",
-              "Modellering og anvendelser",
+              "Utforsking og problemløysing",
+              "Modellering og anvendingar",
               "Resonnering og argumentasjon"
             ],
             "verbs": [
@@ -1153,7 +1238,7 @@
               "en": "explore how algorithms can be created, tested and improved by means of programming"
             },
             "coreElements": [
-              "Utforsking og problemløsing"
+              "Utforsking og problemløysing"
             ],
             "verbs": [
               "Utforske"
@@ -1203,7 +1288,7 @@
               "en": "explore, describe and argue for relationships between the length of the sides in triangles"
             },
             "coreElements": [
-              "Utforsking og problemløsing",
+              "Utforsking og problemløysing",
               "Resonnering og argumentasjon"
             ],
             "verbs": [
@@ -1218,7 +1303,7 @@
               "en": "explore and argue for how changing the conditions in a geometric problem affects the solutions"
             },
             "coreElements": [
-              "Utforsking og problemløsing",
+              "Utforsking og problemløysing",
               "Resonnering og argumentasjon"
             ],
             "verbs": [
@@ -1232,7 +1317,7 @@
               "en": "explore and argue for formulas for area and volume of three-dimensional figures"
             },
             "coreElements": [
-              "Utforsking og problemløsing",
+              "Utforsking og problemløysing",
               "Abstraksjon og generalisering"
             ],
             "verbs": [
@@ -1246,7 +1331,7 @@
               "en": "interpret and critically evaluate statistical representations found in media and the local community"
             },
             "coreElements": [
-              "Modellering og anvendelser",
+              "Modellering og anvendingar",
               "Resonnering og argumentasjon",
               "Representasjon og kommunikasjon"
             ],
@@ -1262,7 +1347,7 @@
               "en": "find and discuss measures of central tendency and measures of variability in real datasets"
             },
             "coreElements": [
-              "Modellering og anvendelser"
+              "Modellering og anvendingar"
             ],
             "verbs": []
           },
@@ -1273,7 +1358,7 @@
               "en": "explore and argue for how representations of numbers and data can be used to promote different points of view"
             },
             "coreElements": [
-              "Utforsking og problemløsing",
+              "Utforsking og problemløysing",
               "Resonnering og argumentasjon",
               "Representasjon og kommunikasjon"
             ],
@@ -1301,7 +1386,7 @@
               "en": "simulate outcomes in random events and calculate the probability that something will occur by using programming"
             },
             "coreElements": [
-              "Utforsking og problemløsing"
+              "Utforsking og problemløysing"
             ],
             "verbs": [
               "Bruke"
@@ -1323,7 +1408,7 @@
               "en": "explore and generalise multiplication of polynomials algebraically and geometrically"
             },
             "coreElements": [
-              "Utforsking og problemløsing",
+              "Utforsking og problemløysing",
               "Abstraksjon og generalisering"
             ],
             "verbs": [
@@ -1337,7 +1422,7 @@
               "en": "explore and compare the properties of different functions using digital tools"
             },
             "coreElements": [
-              "Utforsking og problemløsing",
+              "Utforsking og problemløysing",
               "Abstraksjon og generalisering"
             ],
             "verbs": [
@@ -1353,7 +1438,7 @@
               "en": "create, solve and explain equation sets related to practical situations"
             },
             "coreElements": [
-              "Modellering og anvendelser"
+              "Modellering og anvendingar"
             ],
             "verbs": []
           },
@@ -1364,7 +1449,7 @@
               "en": "calculate the slope of a linear function, and use it to explain the concepts change per unit and average speed"
             },
             "coreElements": [
-              "Modellering og anvendelser",
+              "Modellering og anvendingar",
               "Representasjon og kommunikasjon"
             ],
             "verbs": [
@@ -1378,7 +1463,7 @@
               "en": "explore the relationship between constant change by percentage, growth factors and exponential functions"
             },
             "coreElements": [
-              "Utforsking og problemløsing",
+              "Utforsking og problemløysing",
               "Abstraksjon og generalisering"
             ],
             "verbs": [
@@ -1392,7 +1477,7 @@
               "en": "extract and interpret relevant information from texts related to purchases, sales and different types of loans, and use this to formulate and solve problems"
             },
             "coreElements": [
-              "Utforsking og problemløsing",
+              "Utforsking og problemløysing",
               "Representasjon og kommunikasjon"
             ],
             "verbs": [
@@ -1407,7 +1492,7 @@
               "en": "plan, carry out and present an exploratory work related to one’s personal finances"
             },
             "coreElements": [
-              "Utforsking og problemløsing",
+              "Utforsking og problemløysing",
               "Representasjon og kommunikasjon"
             ],
             "verbs": [
@@ -1422,7 +1507,7 @@
               "en": "use functions in modelling and argue for approaches and results"
             },
             "coreElements": [
-              "Modellering og anvendelser",
+              "Modellering og anvendingar",
               "Resonnering og argumentasjon"
             ],
             "verbs": [
@@ -1436,7 +1521,7 @@
               "en": "model situations related to real datasets, present the results and argue for the validity of the models"
             },
             "coreElements": [
-              "Modellering og anvendelser",
+              "Modellering og anvendingar",
               "Resonnering og argumentasjon",
               "Representasjon og kommunikasjon"
             ],
@@ -1451,12 +1536,41 @@
               "en": "explore mathematical properties and relationships by using programming"
             },
             "coreElements": [
-              "Utforsking og problemløsing"
+              "Utforsking og problemløysing"
             ],
             "verbs": [
               "Utforske",
               "Bruke"
             ]
+          }
+        ],
+        "assessment": [
+          {
+            "type": {
+              "local": "Standpunktvurdering",
+              "en": "Assessment of coursework"
+            },
+            "description": {
+              "local": "10. trinn: Eleven skal ha én standpunktkarakter."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for elever",
+              "en": "Examination for pupils"
+            },
+            "description": {
+              "local": "10. trinn: Eleven kan trekkes ut til skriftlig eksamen. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Eleven kan også trekkes ut til muntlig-praktisk eksamen med forberedelsesdel. Muntlig-praktisk eksamen blir utarbeidet og sensurert lokalt."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for privatister",
+              "en": "Examination for external candidates"
+            },
+            "description": {
+              "local": "10. trinn: Se ordningen som gjelder for grunnskoleopplæring for voksne."
+            }
           }
         ]
       }

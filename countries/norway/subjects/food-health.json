@@ -4,13 +4,17 @@
     "api": "https://data.udir.no/kl06/v201906/laereplaner-lk20/MHE01-02",
     "curriculum": "LK20",
     "license": "NLOD",
-    "lastSynced": "2026-03-02T21:40:24Z"
+    "lastSynced": "2026-03-03T08:37:47Z"
   },
   "subject": {
     "code": "MHE01-02",
     "name": {
       "local": "Læreplan i mat og helse",
       "en": "Curriculum for Food and Health"
+    },
+    "description": {
+      "local": "Mat og helse er et sentralt fag for å utvikle forståelse av sammenhenger mellom kosthold og helse. I mat og helse skal elevene lære å planlegge og lage mat og oppleve måltider sammen med andre. Faget skal bidra til at elevene utvikler kompetanse til å mestre eget liv. Mat og helse skal bidra til å fremme folkehelsen, matgleden og interessen for mangfoldet av matvarer og måltidsskikker i samfunnet. Mat og helse skal stimulere til kreativitet, samarbeid og gjennomføringsevne.",
+      "en": "Food and health is an important subject for understanding the relationship between diet and health. In food and health, the pupils learn how to plan, cook and enjoy meals with others. The subject shall also help pupils develop life skills. Food and health contributes to health promotion, the enjoyment of food, and interest in the diversity of foods and food customs in society. Food and health shall stimulate creativity, cooperation and the ability to achieve."
     },
     "coreElements": [
       {
@@ -47,6 +51,87 @@
         }
       }
     ],
+    "interdisciplinaryThemes": [
+      {
+        "code": "TT1",
+        "name": {
+          "local": "Folkehelse og livsmestring",
+          "en": "Health and life skills"
+        },
+        "description": {
+          "local": "I faget mat og helse handler det tverrfaglige temaet folkehelse og livsmestring om å gi elevene kunnskap om matvarer og matvaner som gir grunnlag for god helse. Gjennom å planlegge og lage mat og måltider skal elevene få god innsikt i den nasjonale kostrådene. Faget skal bidra til å fremme folkehelsen og forebygge livsstilssykdommer. Det skal bidra til livsmestring for den enkelte og til å redusere sosiale forskjeller i helse. Måltidsfellesskap og praktisk samarbeid på kjøkkenet skal bidra til å styrke elevenes selvfølelse og opplevelse av tilknytning og fellesskap.",
+          "en": "In food and health, the interdisciplinary topic of health and life skills involves providing the pupils with knowledge about foods and food habits that form the basis for good health. By planning and cooking food and meals, the pupils gain insight into national dietary guidelines. The subject shall contribute to health promotion and prevention of lifestyle diseases, personal life skills and reduce social inequalities in health. Eating together and practical cooperation in the kitchen shall help increase the pupil's self-esteem and sense of belonging to a community."
+        }
+      },
+      {
+        "code": "TT3",
+        "name": {
+          "local": "Bærekraftig utvikling",
+          "en": "Sustainability"
+        },
+        "description": {
+          "local": "I faget mat og helse handler det tverrfaglige temaet bærekraftig utvikling om å legge vekt på at både matproduksjon og matforbruket bør skje på måter som ikke er til skade nasjonalt eller globalt verken nå eller i framtiden. Faget skal bidra til at elevene blir bevisst på etiske og økonomiske spørsmål om matproduksjon og matforbruk og på fordeling av matressurser, slik at de blir i stand til å ta ansvarlige valg og utvikle gode verdier og holdninger.",
+          "en": "In the subject of food and health, the interdisciplinary topic of sustainable development emphasises how both food production and consumption should not at the present time or in the future be carried in ways that would cause national or global harm. The subject shall help pupils become aware of ethical and economic questions around food production, consumption and the distribution of food resources, so they can make responsible choices and develop good values and attitudes."
+        }
+      }
+    ],
+    "basicSkills": [
+      {
+        "code": "GF1",
+        "name": {
+          "local": "Muntlige ferdigheter",
+          "en": "Oral skills"
+        },
+        "description": {
+          "local": "Muntlige ferdigheter i mat og helse er å kunne formidle faglig undring og refleksjon gjennom fortellinger, samtaler, diskusjoner og presentasjoner. Utviklingen av muntlige ferdigheter i mat og helse går fra å samtale om matlaging og måltider til å presentere og diskutere stadig mer komplekse temaer om helse, matforbruk og matsikkerhet. Etter hvert må elevene bruke flere fagord når de skal begrunne valgene sine eller delta i faglige diskusjoner.",
+          "en": "Oral skills in food and health involve being able to convey curiosity about the subject and reflection through storytelling, conversations, discussions and presentations. The development of oral skills in food and health progresses from talking about cooking and meals to presenting and discussing increasingly complex topics related to health, food consumption and food safety. The pupils must gradually use more subject terminology when grounding their choices or participating in academic discussions."
+        }
+      },
+      {
+        "code": "GF2",
+        "name": {
+          "local": "Å kunne skrive",
+          "en": "Writing"
+        },
+        "description": {
+          "local": "Å kunne skrive i mat og helse er å utforme tekster til bruk i matlaging og i forbindelse med måltider. Det er også å formidle faglig kompetanse og å kunne gi uttrykk for synspunkter eller valg. Utviklingen av skriveferdigheter i mat og helse går fra å kunne skrive enkle handlelister og korte sammensatte tekster til å kunne planlegge og utforme oppskrifter og menyer.",
+          "en": "Writing in food and health involves structuring texts to use when cooking and in conjunction with meals. It also involves conveying academic competence and being able to express one's own views or choices. The development of writing skills in food and health progresses from being able to write simple shopping lists and short complex texts to being able to plan and create recipes and menus."
+        }
+      },
+      {
+        "code": "GF3",
+        "name": {
+          "local": "Å kunne lese",
+          "en": "Reading"
+        },
+        "description": {
+          "local": "Å kunne lese i mat og helse er å forstå, tolke og vurdere oppskrifter, tabeller og illustrasjoner i forbindelse med matlaging. Det er også å forstå og vurdere relevante fagtekster. Utviklingen av leseferdigheter i faget går fra å forstå enkle illustrasjoner og sammensatte tekster på papir og skjerm til å tolke og kritisk vurdere mer komplekse fagtekster, figurer og tabeller i ulike medier.",
+          "en": "Reading in food and health involves understanding, interpreting and assessing recipes, tables and illustrations in conjunction with cooking. It also involves understanding and assessing relevant specialised texts. The development of reading skills in the subject progresses from understanding simple illustrations and complex texts on paper and screens to interpreting and critically assessing more complex specialised texts, figures and tables via different media."
+        }
+      },
+      {
+        "code": "GF4",
+        "name": {
+          "local": "Å kunne regne",
+          "en": "Numeracy"
+        },
+        "description": {
+          "local": "Å kunne regne i mat og helse er å kjenne igjen og bruke tall og betegnelser for volum, vekt, mengde, brøk, forholdstall, tid, temperatur og geometriske figurer i forbindelse med matlaging. Det er også å regne ut og vurdere proporsjoner i oppskrifter og å formidle tall og tallmateriale når man skal sammenligne eller diskutere faglige og tverrfaglige temaer. Utviklingen av regneferdigheter går fra å kunne bruke korrekte enheter for rom og vekt og lage enkle diagrammer og tabeller til å kunne bruke ulike matematiske ferdigheter i planleggingen og gjennomføringen av matlaging. Videre går utviklingen til å kunne lage mer komplekse tabeller og figurer i skriftlige arbeid.",
+          "en": "Numeracy in food and health involves knowing and using figures and units for volume, weight, quantities, fractions, percentages, time, temperature and geometric figures in conjunction with cooking. It also involves calculating and assessing portions in recipes and conveying numbers and figures when comparing or discussing academic and interdisciplinary topics. The development of numeracy skills progresses from being able to use correct mass and weight units, and the creation of simple diagrams and tables, to being able to use various mathematical skills in the planning and execution of cooking meals, as well as being able to create more complex tables and figures in written work."
+        }
+      },
+      {
+        "code": "GF5",
+        "name": {
+          "local": "Digitale ferdigheter",
+          "en": "Digital skills"
+        },
+        "description": {
+          "local": "Digitale ferdigheter i mat og helse er å kunne bruke et variert utvalg av digitale ressurser og teknologier for å styrke de praktiske matlagingsferdighetene. Det er også å formidle og vurdere digitale tekster og lyd-, bilde- og filmfiler som er relevante og troverdige for faget. Utviklingen av digitale ferdigheter i mat og helse går fra å kunne bruke digitale ressurser til å lete etter informasjon, følge oppskrifter og presentere fakta, til å bruke et bredt utvalg av digitale ressurser for å kritisk vurdere informasjon fra ulike medier og for å kommunisere om faglige refleksjoner. Utviklingen kan også gå fra å bruke enkel til å bruke mer avansert teknologi i forbindelse med matlaging.",
+          "en": "Digital skills in food and cooking involve being able to use a range of digital resources and technologies to strengthen practical cooking skills. They also involve conveying and assessing credible and appropriate digital texts, and audio, image and video files for the subject. The development of digital skills in food and health progresses from being able to use digital resources to searching for information, following recipes and presenting facts to using a wide range of digital resources to critically assess information from different media and to communicate academic reflection. The development may also progress from using simple to more advanced technology in connection with cooking."
+        }
+      }
+    ],
     "gradeBands": [
       {
         "afterGrade": 4,
@@ -62,7 +147,7 @@
               "en": "follow the principles of food hygiene when cooking"
             },
             "coreElements": [
-              "Helsefremmende kosthold"
+              "Helsefremjande kosthald"
             ],
             "verbs": []
           },
@@ -73,8 +158,8 @@
               "en": "use utensils, simple cooking techniques, and mass and volume measurements"
             },
             "coreElements": [
-              "Helsefremmende kosthold",
-              "Bærekraftige matvaner og bærekraftig forbruk"
+              "Helsefremjande kosthald",
+              "Berekraftige matvanar og berekraftig forbruk"
             ],
             "verbs": [
               "Bruke"
@@ -87,7 +172,7 @@
               "en": "recognise flavours in foods and question why we taste them differently"
             },
             "coreElements": [
-              "Helsefremmende kosthold",
+              "Helsefremjande kosthald",
               "Mat og måltid som identitets- og kulturuttrykk"
             ],
             "verbs": []
@@ -99,7 +184,7 @@
               "en": "describe the characteristics of healthy and a wide variety of food and why they are important to health"
             },
             "coreElements": [
-              "Helsefremmende kosthold"
+              "Helsefremjande kosthald"
             ],
             "verbs": []
           },
@@ -110,7 +195,7 @@
               "en": "utilise local foods in cooking and present the parts of the supply chain from raw ingredients to meals"
             },
             "coreElements": [
-              "Bærekraftige matvaner og bærekraftig forbruk"
+              "Berekraftige matvanar og berekraftig forbruk"
             ],
             "verbs": [
               "Presentere"
@@ -123,7 +208,7 @@
               "en": "sort food waste and explain why it is important"
             },
             "coreElements": [
-              "Bærekraftige matvaner og bærekraftig forbruk"
+              "Berekraftige matvanar og berekraftig forbruk"
             ],
             "verbs": []
           },
@@ -134,7 +219,7 @@
               "en": "create simple meals and help create a pleasant frame around meals with others"
             },
             "coreElements": [
-              "Helsefremmende kosthold",
+              "Helsefremjande kosthald",
               "Mat og måltid som identitets- og kulturuttrykk"
             ],
             "verbs": []
@@ -146,7 +231,7 @@
               "en": "talk about food customs in Norway, Samiland and other cultures and the value of eating with others"
             },
             "coreElements": [
-              "Helsefremmende kosthold",
+              "Helsefremjande kosthald",
               "Mat og måltid som identitets- og kulturuttrykk"
             ],
             "verbs": []
@@ -158,7 +243,7 @@
               "en": "talk about how school meals may contribute to having a good day at school"
             },
             "coreElements": [
-              "Helsefremmende kosthold",
+              "Helsefremjande kosthald",
               "Mat og måltid som identitets- og kulturuttrykk"
             ],
             "verbs": []
@@ -179,8 +264,8 @@
               "en": "to use utensils, basic techniques and cooking methods to make safe and sustainable food that lays the foundation for good health"
             },
             "coreElements": [
-              "Helsefremmende kosthold",
-              "Bærekraftige matvaner og bærekraftig forbruk"
+              "Helsefremjande kosthald",
+              "Berekraftige matvanar og berekraftig forbruk"
             ],
             "verbs": [
               "Bruke"
@@ -193,7 +278,7 @@
               "en": "use their senses to explore and assess the flavour of food and texture, and explore food preparation"
             },
             "coreElements": [
-              "Helsefremmende kosthold"
+              "Helsefremjande kosthald"
             ],
             "verbs": [
               "Utforske",
@@ -208,7 +293,7 @@
               "en": "recognise and describe the basic flavours in foods, and explain and discuss how flavours can affect food preferences and food choices"
             },
             "coreElements": [
-              "Helsefremmende kosthold"
+              "Helsefremjande kosthald"
             ],
             "verbs": []
           },
@@ -219,8 +304,8 @@
               "en": "use recipes in cooking and calculate and assess the volume of portions both with and without using digital resources"
             },
             "coreElements": [
-              "Helsefremmende kosthold",
-              "Bærekraftige matvaner og bærekraftig forbruk"
+              "Helsefremjande kosthald",
+              "Berekraftige matvanar og berekraftig forbruk"
             ],
             "verbs": [
               "Vurdere",
@@ -234,7 +319,7 @@
               "en": "demonstrate the relationship between food groups and nutrients important for good health"
             },
             "coreElements": [
-              "Helsefremmende kosthold"
+              "Helsefremjande kosthald"
             ],
             "verbs": []
           },
@@ -245,8 +330,8 @@
               "en": "use food labelling and dietary models to put together a healthy, varied and sustainable diet and reflect on their choices"
             },
             "coreElements": [
-              "Helsefremmende kosthold",
-              "Bærekraftige matvaner og bærekraftig forbruk"
+              "Helsefremjande kosthald",
+              "Berekraftige matvanar og berekraftig forbruk"
             ],
             "verbs": [
               "Reflektere",
@@ -260,8 +345,8 @@
               "en": "use digital resources to compare and discuss product information and advertisements in various media"
             },
             "coreElements": [
-              "Helsefremmende kosthold",
-              "Bærekraftige matvaner og bærekraftig forbruk"
+              "Helsefremjande kosthald",
+              "Berekraftige matvanar og berekraftig forbruk"
             ],
             "verbs": [
               "Sammenligne",
@@ -276,7 +361,7 @@
               "en": "use food and leftovers, and reflect on their own food consumption"
             },
             "coreElements": [
-              "Bærekraftige matvaner og bærekraftig forbruk"
+              "Berekraftige matvanar og berekraftig forbruk"
             ],
             "verbs": [
               "Reflektere"
@@ -289,7 +374,7 @@
               "en": "explore and present traditional Norwegian and Sami food preservation methods and talk about the raw ingredients that are preserved"
             },
             "coreElements": [
-              "Bærekraftige matvaner og bærekraftig forbruk",
+              "Berekraftige matvanar og berekraftig forbruk",
               "Mat og måltid som identitets- og kulturuttrykk"
             ],
             "verbs": [
@@ -304,7 +389,7 @@
               "en": "make meals from different cultures, and describe and explore how a social community and interaction may contribute to improved health"
             },
             "coreElements": [
-              "Helsefremmende kosthold",
+              "Helsefremjande kosthald",
               "Mat og måltid som identitets- og kulturuttrykk"
             ],
             "verbs": [
@@ -327,8 +412,8 @@
               "en": "plan and use suitable utensils, techniques and cooking methods to create safe and sustainable food that lays the foundation for good health"
             },
             "coreElements": [
-              "Helsefremmende kosthold",
-              "Bærekraftige matvaner og bærekraftig forbruk"
+              "Helsefremjande kosthald",
+              "Berekraftige matvanar og berekraftig forbruk"
             ],
             "verbs": [
               "Planlegge",
@@ -342,8 +427,8 @@
               "en": "use their senses to assess the quality of foods, explore and combine flavours in cooking and improve recipes, menus and food preparation"
             },
             "coreElements": [
-              "Helsefremmende kosthold",
-              "Bærekraftige matvaner og bærekraftig forbruk",
+              "Helsefremjande kosthald",
+              "Berekraftige matvanar og berekraftig forbruk",
               "Mat og måltid som identitets- og kulturuttrykk"
             ],
             "verbs": [
@@ -359,8 +444,8 @@
               "en": "discuss how diet may contribute to good health, and use digital resources to assess their own diet and to choose healthy and a variety of different foods when cooking"
             },
             "coreElements": [
-              "Helsefremmende kosthold",
-              "Bærekraftige matvaner og bærekraftig forbruk"
+              "Helsefremjande kosthald",
+              "Berekraftige matvanar og berekraftig forbruk"
             ],
             "verbs": [
               "Vurdere",
@@ -375,7 +460,7 @@
               "en": "describe and critically assess claims, advice and information about diet and health"
             },
             "coreElements": [
-              "Helsefremmende kosthold"
+              "Helsefremjande kosthald"
             ],
             "verbs": [
               "Vurdere",
@@ -389,7 +474,7 @@
               "en": "critically assess information about food production and discuss how consumer power can impact local and global food production"
             },
             "coreElements": [
-              "Bærekraftige matvaner og bærekraftig forbruk"
+              "Berekraftige matvanar og berekraftig forbruk"
             ],
             "verbs": [
               "Vurdere",
@@ -403,8 +488,8 @@
               "en": "explore the carbon footprint of foods, and describe how food choices and food consumption may impact the environment, climate and food safety"
             },
             "coreElements": [
-              "Helsefremmende kosthold",
-              "Bærekraftige matvaner og bærekraftig forbruk"
+              "Helsefremjande kosthald",
+              "Berekraftige matvanar og berekraftig forbruk"
             ],
             "verbs": [
               "Utforske",
@@ -418,7 +503,7 @@
               "en": "make food from Norway, Samiland and other cultures, and compare and explore raw ingredients and cooking methods used in different food cultures"
             },
             "coreElements": [
-              "Bærekraftige matvaner og bærekraftig forbruk",
+              "Berekraftige matvanar og berekraftig forbruk",
               "Mat og måltid som identitets- og kulturuttrykk"
             ],
             "verbs": [
@@ -436,6 +521,35 @@
               "Mat og måltid som identitets- og kulturuttrykk"
             ],
             "verbs": []
+          }
+        ],
+        "assessment": [
+          {
+            "type": {
+              "local": "Standpunktvurdering",
+              "en": "Assessment of coursework"
+            },
+            "description": {
+              "local": "10. trinn eller på det steget faget blir avsluttet: Eleven skal ha én standpunktkarakter."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for elever",
+              "en": "Examination for pupils"
+            },
+            "description": {
+              "local": "10. trinn eller på det steget faget blir avsluttet: Eleven har ikke eksamen."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for privatister",
+              "en": "Examination for external candidates"
+            },
+            "description": {
+              "local": "10. trinn eller på det steget faget blir avsluttet: Det er ikke privatistordning i faget."
+            }
           }
         ]
       }

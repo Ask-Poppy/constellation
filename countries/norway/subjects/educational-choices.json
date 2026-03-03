@@ -4,13 +4,17 @@
     "api": "https://data.udir.no/kl06/v201906/laereplaner-lk20/UTV01-03",
     "curriculum": "LK20",
     "license": "NLOD",
-    "lastSynced": "2026-03-02T21:41:17Z"
+    "lastSynced": "2026-03-03T08:37:59Z"
   },
   "subject": {
     "code": "UTV01-03",
     "name": {
       "local": "Læreplan for utdanningsvalg på ungdomstrinnet",
       "en": "Curriculum for selection of education for lower secondary education"
+    },
+    "description": {
+      "local": "Utdanningsvalg er et sentralt fag for å bidra til å gjøre elevene i stand til å ta gode utdannings- og yrkesvalg. Faget skal bidra til at elevene utvikler en trygg identitet og til at de skal kunne ta valg ut fra egne interesser og forutsetninger. Gjennom arbeidet med faget skal elevene skaffe seg kunnskap om muligheter og krav i utdanningssystemet og i arbeidslivet. Faget skal bidra til at elevene utvikler kompetanse i å håndtere overganger, bidra til deltakelse og skape forståelse for sammenhenger mellom utdanning og jobbmuligheter.",
+      "en": "Selection of education is an important subject for helping pupils to make good education and career choices. The subject shall help the pupils to develop a strong identity and make choices based on their own interests and ability. Through work on the subject, the pupils gain knowledge of the possibilities and requirements of the education system and labour market. The subject shall help the pupils develop competence to handle transitions, contribute to participation and create awareness of the connection between education and job opportunities."
     },
     "coreElements": [
       {
@@ -22,6 +26,76 @@
         "description": {
           "local": "Å utvikle karrierekompetanse handler om å forstå og utvikle seg selv og egen læring, og å utvikle en trygg identitet. Det handler også om å utforske utdanningsmuligheter og arbeidslivet. Dette inkluderer ferdigheter i å kunne samle, analysere og ta i bruk informasjon både om utdanning, arbeid og seg selv. Ferdigheter i å håndtere overgangsfaser i livet og ferdigheter i å ta valg og forstå konsekvenser av valg, skal også være en del av faget. Elevene må oppleve karrierelæringen som helhetlig og relevant.",
           "en": "The development of career readiness involves self-understanding, self-development and self-learning, and development of a strong identity. It also involves exploring education opportunities and the labour market. It includes skills for gathering, analysing and using information about oneself, education and employment. The subject also includes transition skills, decision-making skills, and the ability to understand the consequences of one's own decisions. The pupils must perceive career learning as all-inclusive and relevant."
+        }
+      }
+    ],
+    "interdisciplinaryThemes": [
+      {
+        "code": "TT1",
+        "name": {
+          "local": "Folkehelse og livsmestring",
+          "en": "Health and life skills"
+        },
+        "description": {
+          "local": "I utdanningsvalg handler det tverrfaglige temaet folkehelse og livsmestring om at elevene lærer å håndtere medgang, motgang, utfordringer og overganger på best mulig måte. Gjennom læring og samhandling i faget skal elevene få innsikt i faktorer som kan ha betydning for livsmestring og karrierevalg, bli forberedt på deltakelse i arbeid og livslang læring, og få muligheter til å utvikle et positivt selvbilde og en trygg identitet.",
+          "en": "In selection of education, the interdisciplinary topic of health and life skills involves learning to cope with success, adversity, challenges and transitions in the best possible way. Through learning and collaboration in the subject, the pupils gain insight into factors that may be significant to life skills and career choices, preparation for participation in employment and lifelong learning, and possibility to develop a positive self-image and strong identity."
+        }
+      }
+    ],
+    "basicSkills": [
+      {
+        "code": "GF1",
+        "name": {
+          "local": "Muntlige ferdigheter",
+          "en": "Oral skills"
+        },
+        "description": {
+          "local": "Muntlige ferdigheter i utdanningsvalg innebærer å mestre relevant fagterminologi, drøfte egne muligheter når det gjelder utdanning og arbeid, vurdere og videreutvikle innspill fra andre og fremme egne meninger.",
+          "en": "Oral skills in selection of education involve mastering relevant subject terminology, discussing personal options in relation to education and employment, assessing and further developing input from others and asserting personal opinions."
+        }
+      },
+      {
+        "code": "GF2",
+        "name": {
+          "local": "Å kunne skrive",
+          "en": "Writing"
+        },
+        "description": {
+          "local": "Å kunne skrive i utdanningsvalg innebærer å dokumentere kunnskap og arbeidsprosesser, og reflektere over egen læring i arbeid med faglige tekster. Det innebærer også å kunne grunngi og argumentere for egne utdannings- og yrkesønsker.",
+          "en": "Writing in selection of education involves documenting knowledge and work processes, and reflecting on self-learning when working on subject texts. It also involves being able to reason and argue for the education and career one desires."
+        }
+      },
+      {
+        "code": "GF3",
+        "name": {
+          "local": "Å kunne lese",
+          "en": "Reading"
+        },
+        "description": {
+          "local": "Å kunne lese i utdanningsvalg innebærer å forstå, systematisere og bruke informasjon fra tekster, bilder, film og andre informasjonskanaler om utdanning, yrker og leveveier. Det innebærer også å vurdere om kildene er troverdige.",
+          "en": "Reading in selection of education involves understanding, systematising and using information from texts, images, videos and other information channels about education, careers and earning a living. This also involves assessing the credibility of the sources."
+        }
+      },
+      {
+        "code": "GF4",
+        "name": {
+          "local": "Å kunne regne",
+          "en": "Numeracy"
+        },
+        "description": {
+          "local": "Å kunne regne i utdanningsvalg innebærer å bruke tallmateriale om økonomisk verdi av arbeid og statistisk materiale som er relevant for faget.",
+          "en": "Numeracy in selection of education involves using figures on the economic value of working and statistics relevant to the subject"
+        }
+      },
+      {
+        "code": "GF5",
+        "name": {
+          "local": "Digitale ferdigheter",
+          "en": "Digital skills"
+        },
+        "description": {
+          "local": "Digitale ferdigheter i utdanningsvalg innebærer å samle, analysere og bruke informasjon om utdanninger og yrker fra digitale kilder og vurdere kildene kritisk. Det består også i å gjøre seg kjent med digital teknologi i yrkene man utforsker.",
+          "en": "Digital skills in selection of education involves gathering, analysing and using information about education programmes and occupations from digital sources and critically assessing the sources. It also involves becoming familiar with the digital technology in the occupations being explored."
         }
       }
     ],
@@ -166,6 +240,17 @@
             "verbs": [
               "Tolke"
             ]
+          }
+        ],
+        "assessment": [
+          {
+            "type": {
+              "local": "Eksamen for privatister",
+              "en": "Examination for external candidates"
+            },
+            "description": {
+              "local": "10. trinn eller det årstrinnet faget avsluttes: Det er ikke privatistordning i faget."
+            }
           }
         ]
       }

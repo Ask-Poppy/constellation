@@ -17,33 +17,33 @@
         "code": "",
         "name": {
           "local": "förmåga att planera och tillaga mat och måltider för olika behov och sam­man­hang samt hantera annat praktiskt arbete som förekommer i ett hem,",
-          "en": ""
+          "en": "the ability to plan and prepare food and meals for different needs and contexts, as well as to handle other practical work that occurs in a home,"
         },
         "description": {
           "local": "förmåga att planera och tillaga mat och måltider för olika behov och sam­man­hang samt hantera annat praktiskt arbete som förekommer i ett hem,",
-          "en": ""
+          "en": "the ability to plan and prepare food and meals for different needs and contexts, as well as to handle other practical work that occurs in a home,"
         }
       },
       {
         "code": "",
         "name": {
           "local": "kunskaper om ekonomi och konsumtion i hemmet, och",
-          "en": ""
+          "en": "knowledge of finances and consumption in the home, and"
         },
         "description": {
           "local": "kunskaper om ekonomi och konsumtion i hemmet, och",
-          "en": ""
+          "en": "knowledge of finances and consumption in the home, and"
         }
       },
       {
         "code": "",
         "name": {
           "local": "förmåga att värdera val och handlingar som förekommer i ett hem utifrån hur de påverkar hälsa, ekonomi och miljö.",
-          "en": ""
+          "en": "the ability to evaluate choices and actions that occur in a home based on how they affect health, finances and the environment."
         },
         "description": {
           "local": "förmåga att värdera val och handlingar som förekommer i ett hem utifrån hur de påverkar hälsa, ekonomi och miljö.",
-          "en": ""
+          "en": "the ability to evaluate choices and actions that occur in a home based on how they affect health, finances and the environment."
         }
       }
     ],
@@ -59,7 +59,7 @@
             "code": "HKK-1-6-1",
             "text": {
               "local": "Matlagning för olika sammanhang.",
-              "en": ""
+              "en": "Cooking for different contexts."
             },
             "coreElements": [
               "Mat och matlagning"
@@ -70,7 +70,7 @@
             "code": "HKK-1-6-2",
             "text": {
               "local": "Enkla metoder för matlagning, däribland bakning. Att planera, organisera och utvärdera arbetet.",
-              "en": ""
+              "en": "Simple methods for cooking, including baking. Planning, organising and evaluating the work."
             },
             "coreElements": [
               "Mat och matlagning"
@@ -85,7 +85,7 @@
             "code": "HKK-1-6-3",
             "text": {
               "local": "Enkla instruktioner och recept. Hur de kan läsas och följas samt vanliga be­grepp för matlagning.",
-              "en": ""
+              "en": "Simple instructions and recipes. How they can be read and followed, as well as common cooking terms."
             },
             "coreElements": [
               "Mat och matlagning"
@@ -96,7 +96,7 @@
             "code": "HKK-1-6-4",
             "text": {
               "local": "Samtal om upplevelser av smak, doft, konsistens och textur i samband med mat­lagning.",
-              "en": ""
+              "en": "Conversations about experiences of taste, smell, consistency and texture in connection with cooking."
             },
             "coreElements": [
               "Mat och matlagning"
@@ -107,7 +107,7 @@
             "code": "HKK-1-6-5",
             "text": {
               "local": "Redskap och teknisk utrustning som kan användas vid matlagning och hur dessa används på ett funktionellt och säkert sätt.",
-              "en": ""
+              "en": "Utensils and technical equipment that can be used in cooking and how these are used in a functional and safe way."
             },
             "coreElements": [
               "Mat och matlagning"
@@ -120,7 +120,7 @@
             "code": "HKK-1-6-6",
             "text": {
               "local": "Hygien och livsmedelssäkerhet i samband med hantering, tillagning och för­varing av livsmedel.",
-              "en": ""
+              "en": "Hygiene and food safety in connection with the handling, preparation and storage of food."
             },
             "coreElements": [
               "Mat och matlagning"
@@ -131,7 +131,7 @@
             "code": "HKK-1-6-7",
             "text": {
               "local": "Ungas privatekonomi. Relationen mellan sparande och konsumtion. Olika sätt för att betala och spara.",
-              "en": ""
+              "en": "Young people's personal finances. The relationship between saving and consumption. Different ways to pay and save."
             },
             "coreElements": [
               "Privatekonomi och konsumtion"
@@ -142,7 +142,7 @@
             "code": "HKK-1-6-8",
             "text": {
               "local": "Skillnaden mellan saklig konsumentinformation och annan påverkan på kon­sumtionsval. Reklam i olika former, även dolda reklambudskap.",
-              "en": ""
+              "en": "The difference between factual consumer information and other influences on consumption choices. Advertising in different forms, including hidden advertising messages."
             },
             "coreElements": [
               "Privatekonomi och konsumtion"
@@ -153,7 +153,7 @@
             "code": "HKK-1-6-9",
             "text": {
               "local": "Jämförelser av några vanliga varor utifrån jämförpris.",
-              "en": ""
+              "en": "Comparisons of some common products based on unit price."
             },
             "coreElements": [
               "Privatekonomi och konsumtion"
@@ -164,7 +164,7 @@
             "code": "HKK-1-6-10",
             "text": {
               "local": "Vikten av att äta varierat och balanserat för att må bra. Hur måltider kan för­delas över en dag.",
-              "en": ""
+              "en": "The importance of eating a varied and balanced diet to feel well. How meals can be distributed throughout a day."
             },
             "coreElements": [
               "Levnadsvanor"
@@ -175,7 +175,7 @@
             "code": "HKK-1-6-11",
             "text": {
               "local": "Måltidens betydelse för gemenskap. Olika mattraditioner.",
-              "en": ""
+              "en": "The significance of the meal for social togetherness. Different food traditions."
             },
             "coreElements": [
               "Levnadsvanor"
@@ -186,7 +186,7 @@
             "code": "HKK-1-6-12",
             "text": {
               "local": "Resurshushållning av livsmedel och andra förbrukningsvaror i hemmet. Åter­vinning i hemmet och i närområdet och hur den fungerar.",
-              "en": ""
+              "en": "Resource management of food and other consumables in the home. Recycling in the home and in the local area and how it works."
             },
             "coreElements": [
               "Levnadsvanor"
@@ -197,7 +197,7 @@
             "code": "HKK-1-6-13",
             "text": {
               "local": "Några olika certifieringar och märkningar av livsmedel och andra varor samt deras betydelse.",
-              "en": ""
+              "en": "Some different certifications and labels on food and other products, and their significance."
             },
             "coreElements": [
               "Levnadsvanor"
@@ -208,7 +208,7 @@
             "code": "HKK-1-6-14",
             "text": {
               "local": "Rutiner och metoder för rengöring.",
-              "en": ""
+              "en": "Routines and methods for cleaning."
             },
             "coreElements": [
               "Levnadsvanor"
@@ -221,35 +221,35 @@
             "gradeStep": "E",
             "text": {
               "local": "Betygskriterier för betyget E i slutet av årskurs 6Eleven tillagar enkla måltider och hanterar andra praktiska uppgifter som förekommer i ett hem genom att använda i huvudsak fungerande tillvägagångssätt. Eleven ger exempel på olika sätt att spara och betala och beskriver på ett enkelt sätt vad som kan påverka konsumtionsval. Eleven värderar på ett enkelt sätt hur val och handlingar som förekommer i ett hem påverkar hälsa, ekonomi och miljö.",
-              "en": ""
+              "en": "Grading criteria for grade E at the end of year 6. The pupil prepares simple meals and handles other practical tasks that occur in a home by using basically functional approaches. The pupil gives examples of different ways to save and pay, and describes in a simple way what can influence consumption choices. The pupil evaluates in a simple way how choices and actions that occur in a home affect health, finances and the environment."
             }
           },
           {
             "gradeStep": "D",
             "text": {
               "local": "Betygskriterier för betyget D i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan C och E.",
-              "en": ""
+              "en": "Grading criteria for grade D at the end of year 6. The pupil's knowledge is assessed overall as being between C and E."
             }
           },
           {
             "gradeStep": "C",
             "text": {
               "local": "Betygskriterier för betyget C i slutet av årskurs 6Eleven tillagar enkla måltider och hanterar andra praktiska uppgifter som förekommer i ett hem genom att använda fungerande tillvägagångsätt. Eleven ger exempel på olika sätt att spara och betala och beskriver på ett utvecklat sätt vad som kan påverka konsumtionsval. Eleven värderar på ett utvecklat sätt hur val och handlingar som förekommer i ett hem påverkar hälsa, ekonomi och miljö.",
-              "en": ""
+              "en": "Grading criteria for grade C at the end of year 6. The pupil prepares simple meals and handles other practical tasks that occur in a home by using functional approaches. The pupil gives examples of different ways to save and pay, and describes in a developed way what can influence consumption choices. The pupil evaluates in a developed way how choices and actions that occur in a home affect health, finances and the environment."
             }
           },
           {
             "gradeStep": "B",
             "text": {
               "local": "Betygskriterier för betyget B i slutet av årskurs 6Elevens kunskaper bedöms sammantaget vara mellan A och C.",
-              "en": ""
+              "en": "Grading criteria for grade B at the end of year 6. The pupil's knowledge is assessed overall as being between A and C."
             }
           },
           {
             "gradeStep": "A",
             "text": {
               "local": "Betygskriterier för betyget A i slutet av årskurs 6Eleven tillagar enkla måltider och hanterar andra praktiska uppgifter som förekommer i ett hem genom att använda väl fungerande tillvägagångssätt. Eleven ger exempel på olika sätt att spara och betala och beskriver på ett välutvecklat sätt vad som kan påverka konsumtionsval. Eleven värderar på ett välutvecklat sätt hur val och handlingar som förekommer i ett hem påverkar hälsa, ekonomi och miljö.",
-              "en": ""
+              "en": "Grading criteria for grade A at the end of year 6. The pupil prepares simple meals and handles other practical tasks that occur in a home by using well-functioning approaches. The pupil gives examples of different ways to save and pay, and describes in a well-developed way what can influence consumption choices. The pupil evaluates in a well-developed way how choices and actions that occur in a home affect health, finances and the environment."
             }
           }
         ]
@@ -265,7 +265,7 @@
             "code": "HKK-7-9-1",
             "text": {
               "local": "Matlagning för olika behov och sammanhang.",
-              "en": ""
+              "en": "Cooking for different needs and contexts."
             },
             "coreElements": [
               "Mat och matlagning"
@@ -276,7 +276,7 @@
             "code": "HKK-7-9-2",
             "text": {
               "local": "Livsmedels egenskaper och användningsområden.",
-              "en": ""
+              "en": "Properties and uses of foodstuffs."
             },
             "coreElements": [
               "Mat och matlagning"
@@ -287,7 +287,7 @@
             "code": "HKK-7-9-3",
             "text": {
               "local": "Val av livsmedel och metoder för matlagning, däribland bakning. Att pla­nera, organisera och utvärdera arbetet.",
-              "en": ""
+              "en": "Choice of foodstuffs and methods for cooking, including baking. Planning, organising and evaluating the work."
             },
             "coreElements": [
               "Mat och matlagning"
@@ -301,7 +301,7 @@
             "code": "HKK-7-9-4",
             "text": {
               "local": "Skapande av egna måltider, till exempel utifrån säsong och rester.",
-              "en": ""
+              "en": "Creating own meals, for example based on season and leftovers."
             },
             "coreElements": [
               "Mat och matlagning"
@@ -314,7 +314,7 @@
             "code": "HKK-7-9-5",
             "text": {
               "local": "Instruktioner och recept. Hur de kan läsas och följas samt begrepp för mat­lag­ning.",
-              "en": ""
+              "en": "Instructions and recipes. How they can be read and followed, as well as cooking terms."
             },
             "coreElements": [
               "Mat och matlagning"
@@ -325,7 +325,7 @@
             "code": "HKK-7-9-6",
             "text": {
               "local": "Samtal om upplevelser av smak, doft, konsistens och textur i samband med mat­lagning.",
-              "en": ""
+              "en": "Conversations about experiences of taste, smell, consistency and texture in connection with cooking."
             },
             "coreElements": [
               "Mat och matlagning"
@@ -336,7 +336,7 @@
             "code": "HKK-7-9-7",
             "text": {
               "local": "Redskap och teknisk utrustning som kan användas vid matlagning och hur dessa används på ett funktionellt och säkert sätt.",
-              "en": ""
+              "en": "Utensils and technical equipment that can be used in cooking and how these are used in a functional and safe way."
             },
             "coreElements": [
               "Mat och matlagning"
@@ -349,7 +349,7 @@
             "code": "HKK-7-9-8",
             "text": {
               "local": "Hygien och livsmedelssäkerhet i samband med hantering, tillagning och för­varing av livsmedel.",
-              "en": ""
+              "en": "Hygiene and food safety in connection with the handling, preparation and storage of food."
             },
             "coreElements": [
               "Mat och matlagning"
@@ -360,7 +360,7 @@
             "code": "HKK-7-9-9",
             "text": {
               "local": "Ungas privatekonomi. Konsumtion och ekonomisk planering, däribland att göra en budget.",
-              "en": ""
+              "en": "Young people's personal finances. Consumption and financial planning, including making a budget."
             },
             "coreElements": [
               "Privatekonomi och konsumtion"
@@ -371,7 +371,7 @@
             "code": "HKK-7-9-10",
             "text": {
               "local": "Att handla på kredit, teckna abonnemang samt låna och spara pengar.",
-              "en": ""
+              "en": "Buying on credit, signing up for subscriptions, and borrowing and saving money."
             },
             "coreElements": [
               "Privatekonomi och konsumtion"
@@ -382,7 +382,7 @@
             "code": "HKK-7-9-11",
             "text": {
               "local": "Skillnaden mellan saklig konsumentinformation och annan påverkan på kon­sumtionsval. Reklam i olika former, även dolda reklambudskap.",
-              "en": ""
+              "en": "The difference between factual consumer information and other influences on consumption choices. Advertising in different forms, including hidden advertising messages."
             },
             "coreElements": [
               "Privatekonomi och konsumtion"
@@ -393,7 +393,7 @@
             "code": "HKK-7-9-12",
             "text": {
               "local": "Konsumenters rättigheter och skyldigheter. Garanti, reklamation, ånger­rätt, öppet köp och köp från privatperson samt skillnad mellan köp i butik och på internet.",
-              "en": ""
+              "en": "Consumer rights and obligations. Warranty, complaints, right of withdrawal, open purchase and purchases from private individuals, as well as the difference between in-store and online purchases."
             },
             "coreElements": [
               "Privatekonomi och konsumtion"
@@ -404,7 +404,7 @@
             "code": "HKK-7-9-13",
             "text": {
               "local": "Sammansättning av varierade och balanserade måltider och anpassning till indi­viduella behov.",
-              "en": ""
+              "en": "Composing varied and balanced meals and adapting to individual needs."
             },
             "coreElements": [
               "Levnadsvanor"
@@ -415,7 +415,7 @@
             "code": "HKK-7-9-14",
             "text": {
               "local": "Måltidens betydelse för gemenskap. Olika mattraditioner.",
-              "en": ""
+              "en": "The significance of the meal for social togetherness. Different food traditions."
             },
             "coreElements": [
               "Levnadsvanor"
@@ -426,7 +426,7 @@
             "code": "HKK-7-9-15",
             "text": {
               "local": "Arbetsfördelning i hemmet ur ett jämställdhetsperspektiv.",
-              "en": ""
+              "en": "Division of labour in the home from a gender equality perspective."
             },
             "coreElements": [
               "Levnadsvanor"
@@ -437,7 +437,7 @@
             "code": "HKK-7-9-16",
             "text": {
               "local": "Resurshushållning. Ställningstaganden vid val och användning av livs­me­del och andra varor. Hur produktion, transport och återvinning av livs­me­del och andra varor påverkar människors hälsa, ekonomi och miljö.",
-              "en": ""
+              "en": "Resource management. Considerations when choosing and using food and other products. How the production, transport and recycling of food and other products affect people's health, finances and the environment."
             },
             "coreElements": [
               "Levnadsvanor"
@@ -448,7 +448,7 @@
             "code": "HKK-7-9-17",
             "text": {
               "local": "Rutiner och metoder för rengöring och tvätt.",
-              "en": ""
+              "en": "Routines and methods for cleaning and laundry."
             },
             "coreElements": [
               "Levnadsvanor"
@@ -461,35 +461,35 @@
             "gradeStep": "E",
             "text": {
               "local": "Betygskriterier för betyget E i slutet av årskurs 9Eleven planerar och tillagar måltider och hanterar andra praktiska uppgifter som förekommer i ett hem genom att använda i huvudsak fungerande tillvägagångssätt. Eleven värderar på ett enkelt sätt hur arbetsprocessen har påverkat resultatets kvalitet. Eleven beskriver på ett enkelt sätt faktorer och beslut som kan påverka privatekonomi och konsumtionsval. Eleven värderar på ett enkelt sätt hur val och handlingar som förekommer i ett hem påverkar hälsa, ekonomi och miljö.",
-              "en": ""
+              "en": "Grading criteria for grade E at the end of year 9. The pupil plans and prepares meals and handles other practical tasks that occur in a home by using basically functional approaches. The pupil evaluates in a simple way how the work process has affected the quality of the result. The pupil describes in a simple way factors and decisions that can affect personal finances and consumption choices. The pupil evaluates in a simple way how choices and actions that occur in a home affect health, finances and the environment."
             }
           },
           {
             "gradeStep": "D",
             "text": {
               "local": "Betygskriterier för betyget D i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan C och E.",
-              "en": ""
+              "en": "Grading criteria for grade D at the end of year 9. The pupil's knowledge is assessed overall as being between C and E."
             }
           },
           {
             "gradeStep": "C",
             "text": {
               "local": "Betygskriterier för betyget C i slutet av årskurs 9Eleven planerar och tillagar måltider och hanterar andra praktiska uppgifter som förekommer i ett hem genom att använda fungerande tillvägagångssätt. Eleven värderar på ett utvecklat sätt hur arbetsprocessen har påverkat resultatets kvalitet. Eleven beskriver på ett utvecklat sätt faktorer och beslut som kan påverka privatekonomi och konsumtionsval. Eleven värderar på ett utvecklat sätt hur val och handlingar som förekommer i ett hem påverkar hälsa, ekonomi och miljö.",
-              "en": ""
+              "en": "Grading criteria for grade C at the end of year 9. The pupil plans and prepares meals and handles other practical tasks that occur in a home by using functional approaches. The pupil evaluates in a developed way how the work process has affected the quality of the result. The pupil describes in a developed way factors and decisions that can affect personal finances and consumption choices. The pupil evaluates in a developed way how choices and actions that occur in a home affect health, finances and the environment."
             }
           },
           {
             "gradeStep": "B",
             "text": {
               "local": "Betygskriterier för betyget B i slutet av årskurs 9Elevens kunskaper bedöms sammantaget vara mellan A och C.",
-              "en": ""
+              "en": "Grading criteria for grade B at the end of year 9. The pupil's knowledge is assessed overall as being between A and C."
             }
           },
           {
             "gradeStep": "A",
             "text": {
               "local": "Betygskriterier för betyget A i slutet av årskurs 9Eleven planerar och tillagar måltider och hanterar andra praktiska uppgifter som förekommer i ett hem genom att använda väl fungerande tillvägagångssätt. Eleven värderar på ett välutvecklat sätt hur arbetsprocessen har påverkat resultatets kvalitet. Eleven beskriver på ett välutvecklat sätt faktorer och beslut som kan påverka privatekonomi och konsumtionsval. Eleven värderar på ett välutvecklat sätt hur val och handlingar som förekommer i ett hem påverkar hälsa, ekonomi och miljö.",
-              "en": ""
+              "en": "Grading criteria for grade A at the end of year 9. The pupil plans and prepares meals and handles other practical tasks that occur in a home by using well-functioning approaches. The pupil evaluates in a well-developed way how the work process has affected the quality of the result. The pupil describes in a well-developed way factors and decisions that can affect personal finances and consumption choices. The pupil evaluates in a well-developed way how choices and actions that occur in a home affect health, finances and the environment."
             }
           }
         ]

@@ -4,13 +4,17 @@
     "api": "https://data.udir.no/kl06/v201906/laereplaner-lk20/ENG01-05",
     "curriculum": "LK20",
     "license": "NLOD",
-    "lastSynced": "2026-03-02T21:37:52Z"
+    "lastSynced": "2026-03-03T08:35:06Z"
   },
   "subject": {
     "code": "ENG01-05",
     "name": {
       "local": "Læreplan i engelsk",
       "en": "Curriculum in English"
+    },
+    "description": {
+      "local": "Engelsk er et sentralt fag for kulturforståelse, kommunikasjon, danning og identitetsutvikling. Faget skal gi elevene et grunnlag for å kommunisere med andre lokalt og globalt, uavhengig av kulturell og språklig bakgrunn. Engelsk skal bidra til å utvikle elevenes interkulturelle forståelse av ulike levemåter, tenkesett og kommunikasjonsmønstre. Faget skal forberede elevene på en utdanning og et samfunns- og arbeidsliv som stiller krav om engelskspråklig kompetanse i lesing, skriving og muntlig kommunikasjon.",
+      "en": "English is an important subject for cultural understanding, communication, all-round education and identity development. The subject shall give the pupils the foundation for communicating with others, both locally and globally, regardless of cultural or linguistic background. English shall help the pupils to develop an intercultural understanding of different ways of living, ways of thinking and communication patterns. It shall prepare the pupils for an education and societal and working life that requires English-language competence in reading, writing and oral communication."
     },
     "coreElements": [
       {
@@ -44,6 +48,76 @@
         "description": {
           "local": "Språklæringen skjer i møte med engelskspråklige tekster. Tekstbegrepet brukes i vid forstand: muntlige og skriftlige, trykte og digitale, grafiske og kunstneriske, formelle og uformelle, skjønnlitterære og sakpregede, fra nåtid og fortid. Tekstene kan inneholde skrift, bilder, lyd, tegninger, grafer, tall og andre uttrykksformer som er satt sammen for å understreke og formidle et budskap. Arbeid med engelskspråklige tekster bidrar til å gi elevene kunnskap om og erfaring med språklig og kulturelt mangfold, og også innsikt i urfolks levemåter, tenkesett og tradisjoner. Gjennom å reflektere over, tolke og kritisk vurdere ulike typer engelskspråklige tekster skal elevene tilegne seg språk og kunnskap om kultur og samfunn. Elevene utvikler med dette interkulturell kompetanse slik at de kan forholde seg til ulike levemåter, tenkesett og kommunikasjonsmønstre. Elevene skal få et grunnlag for å se sin egen og andres identitet i en flerspråklig og flerkulturell sammenheng.",
           "en": "Language learning takes place in the encounter with texts in English. The concept of text is used in a broad sense: texts can be spoken and written, printed and digital, graphic and artistic, formal and informal, fictional and factual, contemporary and historical. The texts can contain writing, pictures, audio, drawings, graphs, numbers and other forms of expression that are combined to enhance and present a message. Working with texts in English helps to develop the pupils’ knowledge and experience of linguistic and cultural diversity, as well as their insight into ways of living, ways of thinking and traditions of indigenous peoples. By reflecting on, interpreting and critically assessing different types of texts in English, the pupils shall acquire language and knowledge of culture and society. Thus the pupils will develop intercultural competence enabling them to deal with different ways of living, ways of thinking and communication patterns. They shall build the foundation for seeing their own identity and others’ identities in a multilingual and multicultural context."
+        }
+      }
+    ],
+    "interdisciplinaryThemes": [
+      {
+        "code": "TT1",
+        "name": {
+          "local": "Folkehelse og livsmestring",
+          "en": "Health and life skills"
+        },
+        "description": {
+          "local": "I engelsk handler det tverrfaglige temaet folkehelse og livsmestring om å utvikle elevenes evne til å uttrykke seg skriftlig og muntlig på engelsk. Dette legger grunnlag for å kunne gi uttrykk for egne følelser, tanker, erfaringer og meninger. Opplæringen kan gi nye perspektiver på ulike tenkesett og kommunikasjonsmønstre, og på egen og andres levemåte og livssituasjon. Å håndtere situasjoner som krever språk- og kulturkompetanse kan gi elevene mestringsfølelse og bidra til at de utvikler et positivt selvbilde og en trygg identitet.",
+          "en": "In the English subject, the interdisciplinary topic of health and life skills refers to developing the ability of the pupils to express themselves in writing and orally in English. This forms the basis for being able to express their feelings, thoughts, experiences and opinions and can provide new perspectives on different ways of thinking and communication patterns, as well as on the pupils’ own way of life and that of others. The ability to handle situations that require linguistic and cultural competence can give pupils a sense of achievement and help them develop a positive self-image and a secure identity."
+        }
+      },
+      {
+        "code": "TT2",
+        "name": {
+          "local": "Demokrati og medborgerskap",
+          "en": "Democracy and citizenship"
+        },
+        "description": {
+          "local": "I engelsk handler det tverrfaglige temaet demokrati og medborgerskap om å utvikle elevenes forståelse for at deres oppfatning av verden er kulturavhengig. Ved å lære engelsk kan elevene møte ulike samfunn og kulturer gjennom å kommunisere med andre over hele verden, uavhengig av språklig og kulturell bakgrunn. Dette kan bidra til å åpne for flere måter å tolke verden på og være med på å skape nysgjerrighet og engasjement, og medvirke til å forebygge fordommer.",
+          "en": "In the English subject, the interdisciplinary topic of democracy and citizenship refers to helping the pupils to develop their understanding of the fact that the way they view the world is culture dependent. By learning English, the pupils can experience different societies and cultures by communicating with others around the world, regardless of linguistic or cultural background. This can open for new ways to interpret the world, and promote curiosity and engagement and help to prevent prejudices."
+        }
+      }
+    ],
+    "basicSkills": [
+      {
+        "code": "GF1",
+        "name": {
+          "local": "Muntlige ferdigheter",
+          "en": "Oral skills"
+        },
+        "description": {
+          "local": "Muntlige ferdigheter i engelsk er å skape mening gjennom å lytte, tale og samtale. Det handler om å videreformidle informasjon, tilpasse språket til formål, mottaker og situasjon og å velge egnede strategier. Utviklingen av muntlige ferdigheter i engelsk handler om å bruke det muntlige språket gradvis mer presist og nyansert til å kommunisere om forskjellige emner, i formelle og uformelle situasjoner til ulike mottakere med ulik språklig bakgrunn.",
+          "en": "Oral skills in English refers to creating meaning through listening, talking and engaging in conversation. This means presenting information, adapting the language to the purpose, the receiver and the situation and choosing suitable strategies. Developing oral skills in English means using the spoken language gradually more accurately and with more nuances in order to communicate on different topics in formal and informal situations with a variety of receivers with varying linguistic backgrounds."
+        }
+      },
+      {
+        "code": "GF2",
+        "name": {
+          "local": "Å kunne skrive",
+          "en": "Writing"
+        },
+        "description": {
+          "local": "Å kunne skrive i engelsk er å kunne uttrykke ideer og meninger på en forståelig og hensiktsmessig måte i ulike typer tekster, på papir og digitalt. Å skrive handler om å planlegge, utforme og bearbeide tekster som kommuniserer, og å tilpasse språket til formål, mottaker og situasjon og velge egnede skrivestrategier. Utviklingen av skriveferdigheter i engelsk går fra å lære enkeltord og fraser til å skape ulike typer sammenhengende tekster som formidler synspunkter og kunnskap. Det innebærer også å bruke ulike typer kilder på en kritisk og etterrettelig måte.",
+          "en": "Writing in English means being able to express ideas and opinions in an understandable and appropriate manner in various types of texts, both on paper and on screen. Writing requires planning, formulating and processing texts that communicate, and to adapt the language to the purpose, receiver and situation, and to choose appropriate writing strategies. The development of writing proficiency in English progresses from learning single words and phrases to creating different types of coherent texts that present viewpoints and knowledge. It also entails using different types of sources in a critical and verifiable manner."
+        }
+      },
+      {
+        "code": "GF3",
+        "name": {
+          "local": "Å kunne lese",
+          "en": "Reading"
+        },
+        "description": {
+          "local": "Å kunne lese i engelsk er å forstå og reflektere over innhold i ulike typer tekster på papir og digitalt og skal bidra til leseglede og tilegnelse av språk. Det innebærer å lese og finne informasjon i sammensatte tekster med konkurrerende budskap og å bruke lesestrategier til å forstå eksplisitt og implisitt informasjon. Utviklingen av leseferdigheter i engelsk går fra å eksperimentere med språklyder, stavemønstre og stavelser til å lese varierte og komplekse tekster med flyt og forståelse og i stadig større grad kunne reflektere over og vurdere ulike typer tekster kritisk.",
+          "en": "Reading in English means understanding and reflecting on the content of various types of texts on paper and on screen, and contributing to reading pleasure and language acquisition. It means reading and finding information in multimedia texts with competing messages and using reading strategies to understand explicit and implicit information. The development of reading skills in English progresses from experimenting with phonemes and speech sounds, spelling patterns and syllables to reading varied and complex texts with fluency and comprehension and being increasingly able to critically reflect on and assess different types of texts."
+        }
+      },
+      {
+        "code": "GF5",
+        "name": {
+          "local": "Digitale ferdigheter",
+          "en": "Digital skills"
+        },
+        "description": {
+          "local": "Digitale ferdigheter i engelsk er å kunne bruke digitale medier og ressurser for å styrke språklæringen, for å møte autentiske språkmodeller og samtalepartnere på engelsk og for å tilegne seg relevant kunnskap i engelskfaget. Det innebærer å opptre kritisk og reflektert i engelskspråklige digitale uttrykksformer og i kommunikasjon med andre. Utviklingen av digitale ferdigheter i engelsk går fra å utforske språket til å kunne samhandle med andre, skape tekster og tilegne seg kunnskap ved å innhente, utforske og kritisk vurdere informasjon fra ulike engelskspråklige kilder.",
+          "en": "Digital skills in English involve being able to use digital media and resources to strengthen language learning, to encounter authentic language models and interlocutors in English, and to acquire relevant knowledge in English. This requires critical and reflected behaviour using digital forms of expression in English and in communication with others. The development of digital skills in English progresses from exploring the language to interacting with others, creating texts and acquiring knowledge by obtaining, exploring and critically assessing information from different English-language sources."
         }
       }
     ],
@@ -859,6 +933,35 @@
               "Utforske"
             ]
           }
+        ],
+        "assessment": [
+          {
+            "type": {
+              "local": "Standpunktvurdering",
+              "en": "Assessment of coursework"
+            },
+            "description": {
+              "local": "Etter 10. trinn: Eleven skal ha én standpunktkarakter.Etter Vg1 studieforberedende utdanningsprogram / yrkesfaglige utdanningsprogram: Eleven skal ha én standpunktkarakter."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for elever",
+              "en": "Examination for pupils"
+            },
+            "description": {
+              "local": "Etter 10. trinn: Eleven kan trekkes ut til skriftlig eksamen. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Eleven kan også trekkes ut til muntlig eksamen med forberedelsesdel. Muntlig eksamen blir utarbeidet og sensurert lokalt.Etter Vg1 studieforberedende utdanningsprogram / yrkesfaglige utdanningsprogram: Eleven kan trekkes ut til skriftlig eksamen. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Eleven kan også trekkes ut til muntlig eksamen med forberedelsesdel. Muntlig eksamen blir utarbeidet og sensurert lokalt."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for privatister",
+              "en": "Examination for external candidates"
+            },
+            "description": {
+              "local": "Etter 10. trinn: Se gjeldende ordning for grunnskole-opplæring for voksne.Etter Vg1 studieforberedende utdanningsprogram / yrkesfaglige utdanningsprogram: Privatisten skal opp til skriftlig eksamen. Skriftlig eksamen blir utarbeidet og sensurert sentralt. I tillegg skal privatisten opp til muntlig eksamen. Muntlig eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen."
+            }
+          }
         ]
       },
       {
@@ -1097,6 +1200,35 @@
             "verbs": [
               "Reflektere"
             ]
+          }
+        ],
+        "assessment": [
+          {
+            "type": {
+              "local": "Standpunktvurdering",
+              "en": "Assessment of coursework"
+            },
+            "description": {
+              "local": "Etter 10. trinn: Eleven skal ha én standpunktkarakter.Etter Vg1 studieforberedende utdanningsprogram / yrkesfaglige utdanningsprogram: Eleven skal ha én standpunktkarakter."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for elever",
+              "en": "Examination for pupils"
+            },
+            "description": {
+              "local": "Etter 10. trinn: Eleven kan trekkes ut til skriftlig eksamen. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Eleven kan også trekkes ut til muntlig eksamen med forberedelsesdel. Muntlig eksamen blir utarbeidet og sensurert lokalt.Etter Vg1 studieforberedende utdanningsprogram / yrkesfaglige utdanningsprogram: Eleven kan trekkes ut til skriftlig eksamen. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Eleven kan også trekkes ut til muntlig eksamen med forberedelsesdel. Muntlig eksamen blir utarbeidet og sensurert lokalt."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for privatister",
+              "en": "Examination for external candidates"
+            },
+            "description": {
+              "local": "Etter 10. trinn: Se gjeldende ordning for grunnskole-opplæring for voksne.Etter Vg1 studieforberedende utdanningsprogram / yrkesfaglige utdanningsprogram: Privatisten skal opp til skriftlig eksamen. Skriftlig eksamen blir utarbeidet og sensurert sentralt. I tillegg skal privatisten opp til muntlig eksamen. Muntlig eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen."
+            }
           }
         ]
       },
@@ -1340,6 +1472,35 @@
             "verbs": [
               "Reflektere"
             ]
+          }
+        ],
+        "assessment": [
+          {
+            "type": {
+              "local": "Standpunktvurdering",
+              "en": "Assessment of coursework"
+            },
+            "description": {
+              "local": "Etter 10. trinn: Eleven skal ha én standpunktkarakter.Etter Vg1 studieforberedende utdanningsprogram / yrkesfaglige utdanningsprogram: Eleven skal ha én standpunktkarakter."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for elever",
+              "en": "Examination for pupils"
+            },
+            "description": {
+              "local": "Etter 10. trinn: Eleven kan trekkes ut til skriftlig eksamen. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Eleven kan også trekkes ut til muntlig eksamen med forberedelsesdel. Muntlig eksamen blir utarbeidet og sensurert lokalt.Etter Vg1 studieforberedende utdanningsprogram / yrkesfaglige utdanningsprogram: Eleven kan trekkes ut til skriftlig eksamen. Skriftlig eksamen blir utarbeidet og sensurert sentralt. Eleven kan også trekkes ut til muntlig eksamen med forberedelsesdel. Muntlig eksamen blir utarbeidet og sensurert lokalt."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for privatister",
+              "en": "Examination for external candidates"
+            },
+            "description": {
+              "local": "Etter 10. trinn: Se gjeldende ordning for grunnskole-opplæring for voksne.Etter Vg1 studieforberedende utdanningsprogram / yrkesfaglige utdanningsprogram: Privatisten skal opp til skriftlig eksamen. Skriftlig eksamen blir utarbeidet og sensurert sentralt. I tillegg skal privatisten opp til muntlig eksamen. Muntlig eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen."
+            }
           }
         ]
       }

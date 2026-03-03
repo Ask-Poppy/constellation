@@ -83,6 +83,85 @@ def extract_grade_number(title: str) -> int | None:
     return None
 
 
+def extract_description(om_faget: dict) -> dict:
+    frv = om_faget.get("fagets-relevans-og-verdier", {})
+    relevans = frv.get("fagets-relevans", {})
+    return {
+        "local": clean_html(get_text(relevans.get("beskrivelse", {}), "nob")),
+        "en": clean_html(get_text(relevans.get("beskrivelse", {}), "eng")),
+    }
+
+
+def extract_interdisciplinary_themes(om_faget: dict) -> list[dict]:
+    ttf = om_faget.get("tverrfaglige-temaer-i-faget", {})
+    themes = []
+    for t in ttf.get("tverrfaglige-temaer", []):
+        ref = t.get("referanse", {})
+        themes.append({
+            "code": ref.get("kode", ""),
+            "name": {
+                "local": clean_html(get_text(t.get("overskrift", {}), "nob")),
+                "en": clean_html(get_text(t.get("overskrift", {}), "eng")),
+            },
+            "description": {
+                "local": clean_html(get_text(t.get("beskrivelse", {}), "nob")),
+                "en": clean_html(get_text(t.get("beskrivelse", {}), "eng")),
+            },
+        })
+    return themes
+
+
+def extract_basic_skills(om_faget: dict) -> list[dict]:
+    gf = om_faget.get("grunnleggende-ferdigheter-i-faget", {})
+    skills = []
+    for s in gf.get("grunnleggende-ferdigheter", []):
+        ref = s.get("referanse", {})
+        skills.append({
+            "code": ref.get("kode", "") if isinstance(ref, dict) else "",
+            "name": {
+                "local": clean_html(get_text(s.get("overskrift", {}), "nob")),
+                "en": clean_html(get_text(s.get("overskrift", {}), "eng")),
+            },
+            "description": {
+                "local": clean_html(get_text(s.get("beskrivelse", {}), "nob")),
+                "en": clean_html(get_text(s.get("beskrivelse", {}), "eng")),
+            },
+        })
+    return skills
+
+
+def parse_assessment(vurderingsordninger: list[dict]) -> list[dict]:
+    result = []
+    for v in vurderingsordninger:
+        title_nob = clean_html(get_text(v.get("overskrift", {}), "nob"))
+        title_eng = clean_html(get_text(v.get("overskrift", {}), "eng"))
+        desc_nob = clean_html(get_text(v.get("beskrivelse", {}), "nob"))
+        result.append({
+            "type": {
+                "local": title_nob,
+                "en": title_eng,
+            },
+            "description": {
+                "local": desc_nob,
+            },
+        })
+    return result
+
+
+def match_assessment_to_grade(assessment_entries: list[dict], after_grade: int) -> list[dict]:
+    grade_labels = {
+        2: "2. trinn", 4: "4. trinn", 7: "7. trinn", 10: "10. trinn",
+        11: "vg1", 12: "vg2", 13: "vg3",
+    }
+    label = grade_labels.get(after_grade, f"{after_grade}. trinn")
+    matched = []
+    for entry in assessment_entries:
+        desc = entry["description"]["local"].lower()
+        if label.lower() in desc:
+            matched.append(entry)
+    return matched
+
+
 def sync_subject(code: str, filename: str) -> dict | None:
     print(f"\nFetching {code}...")
 
@@ -93,8 +172,17 @@ def sync_subject(code: str, filename: str) -> dict | None:
     subject_name_local = get_text(curriculum.get("tittel", {}), "nob")
     subject_name_en = get_text(curriculum.get("tittel", {}), "eng")
 
+    om_faget = curriculum.get("om-faget-kapittel", {})
+
+    description = extract_description(om_faget)
+    interdisciplinary_themes = extract_interdisciplinary_themes(om_faget)
+    basic_skills = extract_basic_skills(om_faget)
+
+    vk = curriculum.get("vurderingsordninger-kapittel", {})
+    all_assessment = parse_assessment(vk.get("vurderingsordninger", []))
+
     core_elements = []
-    ke_section = curriculum.get("om-faget-kapittel", {}).get("kjerneelementer-i-faget", {})
+    ke_section = om_faget.get("kjerneelementer-i-faget", {})
     for ke_ref in ke_section.get("kjerneelementer", []):
         ke_code = ke_ref.get("kode")
         if ke_code:
@@ -191,11 +279,17 @@ def sync_subject(code: str, filename: str) -> dict | None:
 
             total_goals += 1
 
-        grade_bands.append({
+        band = {
             "afterGrade": after_grade,
             "label": {"local": label_local, "en": label_en},
             "competenceGoals": goals,
-        })
+        }
+
+        grade_assessment = match_assessment_to_grade(all_assessment, after_grade)
+        if grade_assessment:
+            band["assessment"] = grade_assessment
+
+        grade_bands.append(band)
 
         print(f"  Grade {after_grade}: {len(goals)} goals")
 
@@ -212,7 +306,10 @@ def sync_subject(code: str, filename: str) -> dict | None:
         "subject": {
             "code": code,
             "name": {"local": subject_name_local, "en": subject_name_en},
+            "description": description,
             "coreElements": core_elements,
+            "interdisciplinaryThemes": interdisciplinary_themes,
+            "basicSkills": basic_skills,
             "gradeBands": grade_bands,
         },
     }

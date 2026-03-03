@@ -4,13 +4,17 @@
     "api": "https://data.udir.no/kl06/v201906/laereplaner-lk20/MUS01-02",
     "curriculum": "LK20",
     "license": "NLOD",
-    "lastSynced": "2026-03-02T21:39:52Z"
+    "lastSynced": "2026-03-03T08:37:14Z"
   },
   "subject": {
     "code": "MUS01-02",
     "name": {
       "local": "Læreplan i musikk",
       "en": "Curriculum for Music"
+    },
+    "description": {
+      "local": "Musikk er et sentralt fag for skaperkraft, kulturforståelse og identitetsutvikling. Gjennom faget får elevene grunnlag til å delta i musikk i et livslangt perspektiv. I faget musikk utvikler elevene kompetanse i spill, sang og dans, i å lage musikk og i å forme og forstå et mangfold av uttrykk. Faget skal bidra til at elevene forstår hvordan musikk både springer ut av kulturer, skaper kultur og bidrar til samfunnsendringer, og elevene skal få erfare at musikk kan bidra til livskvalitet. Faget musikk skal forberede elevene på deltakelse i et samfunns- og arbeidsliv som har behov for praktiske og estetiske ferdigheter, kreativitet og sosial samhandling.",
+      "en": "Music is an important subject for creative power, cultural understanding and development of identity. The subject shall give the pupils the basis for participating in music in a lifelong perspective. In the music subject, the pupils develop competence in playing, singing and dancing, in making music and in forming and understanding a diversity of expressions. The subject shall help the pupils to understand how music stems from cultures, creates culture and contributes to social change, and the pupils shall be given the opportunity to experience that music can contribute to the quality of life. The music subject shall prepare the pupils for participation in a social and working life which needs practical and aesthetic skills, creativity and social interaction."
     },
     "coreElements": [
       {
@@ -55,6 +59,87 @@
         "description": {
           "local": "Kjerneelementet kulturforståelse handler om hvordan sangen og musikken elevene utøver, lager og opplever, er forankret og har betydning i kulturen den springer ut av. Å kunne forstå egne og andres musikalske uttrykk, å utøve musikk, å lage musikk og å oppleve musikk både forutsetter og bidrar til kulturell kompetanse. Spill, sang og dans som estetiske uttrykk er påvirket av, og er uttrykk for, historiske og samfunnsmessige forhold. Musikkens mening skapes når musikk brukes i sosiale sammenhenger, og musikk gir mening til sosiale hendelser og ritualer.",
           "en": "The core element of cultural understanding refers to how singing and music that are performed, made and experienced by the pupils are anchored in and are important to the culture they originate in. Being able to understand one’s own musical expressions and those of others, performing music, making music and experiencing music all require and contribute to musical competence. Playing, singing and dancing as aesthetic expressions are influenced by and are expressions of historical and societal circumstances. The meaning of music is created when music is used in social contexts, and music gives meaning to social events and rituals."
+        }
+      }
+    ],
+    "interdisciplinaryThemes": [
+      {
+        "code": "TT1",
+        "name": {
+          "local": "Folkehelse og livsmestring",
+          "en": "Health and life skills"
+        },
+        "description": {
+          "local": "I musikkfaget handler det tverrfaglige temaet folkehelse og livsmestring om at eleven utvikler evne til å uttrykke seg gjennom spill, sang, andre vokale uttrykk og dans. Fellesskapet rundt musikk bygger relasjoner mellom mennesker, gir mestringsfølelse og bidrar til et positivt selvbilde, når musikkens faglige og estetiske dimensjoner ivaretas. Musikk er en ressurs for å gjenkjenne, sette ord på og håndtere tanker og følelser, i medgang og motgang. Kunstneriske uttrykk gir mulighet til å forstå både eget og andres følelsesliv bedre, og dette legger grunnlag for god psykisk helse.",
+          "en": "In the music subject the interdisciplinary topic health and life skills refers to the pupils developing the ability to express themselves through playing, singing and other vocal expressions and dancing. The sense of togetherness around music builds relationships between people, gives a sense of mastering and contributes to a positive self-image when the aesthetic and practical dimensions of music are in focus. Music is a resource for recognising, naming and dealing with thoughts and emotions, in good times and bad. Artistic expressions give the opportunity to understand your own emotions better, as well as those of others, and this forms the basis for good mental health."
+        }
+      },
+      {
+        "code": "TT2",
+        "name": {
+          "local": "Demokrati og medborgerskap",
+          "en": "Democracy and citizenship"
+        },
+        "description": {
+          "local": "I musikk handler det tverrfaglige temaet demokrati og medborgerskap om at elevene utvikler kunnskap om hvordan musikk kan være en viktig demokratisk ressurs. Arbeid med temaet i faget gir elevene forståelse av hvordan de kan ta i bruk kunstneriske ytringsformer og estetiske uttrykk i demokratiske prosesser. Faget musikk skal bidra til bevissthet om hvordan musikk til alle tider har vært brukt til å uttrykke meninger og til å skape og kommunisere identiteter. I musikk øver elevene seg i å håndtere meningsbrytninger og respektere uenighet, og de utvikler bevissthet om både retten til å ytre seg og ytringsfrihetens grenser.",
+          "en": "In music the interdisciplinary topic of democracy and citizenship refers to the pupils developing knowledge about how music can be an important democratic resource. Working with the topic in the subject gives the pupils an understanding of how to use artistic forms of expression and aesthetic expressions in democratic processes. The music subject shall contribute to awareness of how throughout time music has been used to express opinions and to create and communicate identities. In music the pupils train in dealing with differences of opinion and respecting disagreement, and they develop awareness of the right to utter opinions and emotions and the boundaries of freedom of speech."
+        }
+      }
+    ],
+    "basicSkills": [
+      {
+        "code": "GF1",
+        "name": {
+          "local": "Muntlige ferdigheter",
+          "en": "Oral skills"
+        },
+        "description": {
+          "local": "Muntlige ferdigheter i musikkfaget er å kunne bruke stemmen variert i sang og andre vokale uttrykk til å improvisere, gjengi og formidle musikalsk stoff. Muntlige ferdigheter vil også si å kunne sette ord på og diskutere egne skapende prosesser og å kunne reflektere over musikalske erfaringer og opplevelser. Utviklingen av muntlige ferdigheter i musikk går fra å kunne formidle enkelt musikalsk stoff til å kunne formidle mer komplekse musikalske uttrykk, og fra å kunne fortelle om egne opplevelser og bruk av enkle virkemidler til å kunne beskrive mer komplekse musikkfaglige emner, estetiske opplevelser, musikalske virkemidler og musikkens funksjoner mer inngående.",
+          "en": "Oral skills in the music subject refers to the ability to be able to use one's voice in a variety of ways in singing and other vocal expressions to improvise, reproduce and present musical material. Oral skills also refer to finding words for and discussing one's own creative processes and being able to reflect on musical experiences and perceptions. The development of oral skills progresses from being able to present simple musical content to being able to present more complex musical expressions, and from being able to relate about one’s own experiences and using simple techniques to being able to describe more complex music-subject-related topics, aesthetic perceptions, musical techniques and the functions of music in more detail."
+        }
+      },
+      {
+        "code": "GF2",
+        "name": {
+          "local": "Å kunne skrive",
+          "en": "Writing"
+        },
+        "description": {
+          "local": "Å kunne skrive i musikk er å ta i bruk ulike former for analog og digital notasjon som gir støtte til å utøve, lage og oppleve musikk og støtte til å dokumentere prosesser og resultater. I dette inngår grafisk notasjon, noter eller besifring. Utviklingen i å kunne skrive i musikk går fra å bli kjent med og kunne bruke enkle notasjonsteknikker til å kunne bruke ulike former for notasjon og skriftspråk til å utforske, dokumentere og formidle musikalske ideer.",
+          "en": "Writing in music refers to using various forms of analogue and digital notations which support performing, making and experiencing music, and supports the documentation of processes and results. This includes graphic notation, written music or written figures. The development in writing music progresses from becoming familiar with and being able to use simple notation techniques to using different forms of notation and written language to explore, document and present musical ideas."
+        }
+      },
+      {
+        "code": "GF3",
+        "name": {
+          "local": "Å kunne lese",
+          "en": "Reading"
+        },
+        "description": {
+          "local": "Å kunne lese i musikk er å tolke og forstå ulike musikalske tekster, både nedskrevne musikalske tegn og symboler og tekster sammensatt av flere modaliteter, digitalt og i sceniske fremføringer. Utviklingen i å kunne lese i musikk går fra å kunne gjenkjenne, samtale om og bruke enkle tegn og symboler til å kunne nyttiggjøre seg ulike notasjonsformer i musikalsk samhandling og å kunne forstå og reflektere over bruk av musikk, dans og tilhørende virkemidler i stadig mer komplekse uttrykk.",
+          "en": "Reading in music refers to interpreting and understanding different musical texts, including written musical notation and symbols and texts composed of several modalities, digitally and in stage presentations. The development of the ability to read progresses from being able to recognise, talk about and use simple signs and symbols to utilizing various forms of notation in musical interaction, and being able to understand and reflect on the use of music, dance and accompanying techniques in increasingly complex expressions."
+        }
+      },
+      {
+        "code": "GF4",
+        "name": {
+          "local": "Å kunne regne",
+          "en": "Numeracy"
+        },
+        "description": {
+          "local": "Å kunne regne i musikk er å forstå og bruke musikkens grunnelementer, som puls, takt, rytmer, tonehøyde, tekstur og form. Det innebærer å utforske og eksperimentere med mønstre og strukturer, og gjøre beregninger av tid og rom når musikk og dans utspilles. Utviklingen i å kunne regne i musikk går fra å kunne lage, utøve og beskrive enkle mønstre og strukturer, og gjøre enkle beregninger av tid og rom, til en dypere kroppslig og kognitiv forståelse av presisjon og kompleksitet knyttet til musikkens grunnelementer, mønstre og strukturer, tid og rom.",
+          "en": "Numeracy in music refers to understanding and using the basic elements of music, such as beat, time, rhythm, pitch, texture and form. It also refers to exploring and experimenting with patterns and structures, and being able to make calculations of time and space when music and dance are performed. The development of numeracy in music progresses from being able to make, perform and describe simple patterns and structures, and being able to make simple calculations of time and space, to deeper bodily and cognitive understanding of precision and complexity relating to the basic elements of music, patterns and structures, time and space"
+        }
+      },
+      {
+        "code": "GF5",
+        "name": {
+          "local": "Digitale ferdigheter",
+          "en": "Digital skills"
+        },
+        "description": {
+          "local": "Digitale ferdigheter i musikk er å kunne bruke musikkteknologi til å utøve, lage og oppleve musikk. Dette innebærer å bruke digitale verktøy kreativt til å gjøre opptak, bearbeide og manipulere lyd og bruke programmering i skapende arbeid. Digitale ferdigheter er også å utøve digital dømmekraft. Det innebærer å følge regler for opphavsrett i møte med egen og andres musikk og utvise nettetikk i samhandling med andre. Utviklingen av digitale ferdigheter i musikk går fra å bruke enkle digitale verktøy til å forme musikalske arbeider, til å bruke digitale verktøy og teknologi strategisk og variert for å oppnå hensiktsmessige og kreative musikalske uttrykk. Det går også fra å kunne utøve personvern og nettetikk i enkeltstående situasjoner til å kunne vise god dømmekraft og bidra til ansvarlig samhandling i musikalske fellesskap.",
+          "en": "Digital skills in music refers to being able to use music technology to perform, make and experience music. It also refers to using digital tools creatively to make recordings, process and manipulate audio and use programming in creative work. Digital skills also refers to being able to judge digital sources and interaction. This means complying with copyright rules relating to one’s own and others’ music and demonstrating web ethics in interaction with others. The development of digital skills in music progresses from using simple digital tools for composing musical works, to using digital tools and technology strategically and with variation to achieve well-reasoned and creative musical expressions. It also progresses from exercising protection of personal information and web ethics in individual situations to demonstrating sound judgment and contributing to responsible interaction in musical environments."
         }
       }
     ],
@@ -492,6 +577,35 @@
               "Utforske",
               "Drøfte"
             ]
+          }
+        ],
+        "assessment": [
+          {
+            "type": {
+              "local": "Standpunktvurdering",
+              "en": "Assessment of coursework"
+            },
+            "description": {
+              "local": "10. trinn eller på det trinnet faget blir avsluttet: Eleven skal ha én standpunktkarakter."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for elever",
+              "en": "Examination for pupils"
+            },
+            "description": {
+              "local": "10. trinn eller på det trinnet faget blir avsluttet: Eleven har ikke eksamen."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for privatister",
+              "en": "Examination for external candidates"
+            },
+            "description": {
+              "local": "10. trinn eller på det trinnet faget blir avsluttet: Det er ikke privatistordning i faget."
+            }
           }
         ]
       }

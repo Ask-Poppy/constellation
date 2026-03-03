@@ -4,13 +4,17 @@
     "api": "https://data.udir.no/kl06/v201906/laereplaner-lk20/NAT01-04",
     "curriculum": "LK20",
     "license": "NLOD",
-    "lastSynced": "2026-03-02T21:38:48Z"
+    "lastSynced": "2026-03-03T08:36:06Z"
   },
   "subject": {
     "code": "NAT01-04",
     "name": {
       "local": "Læreplan i naturfag",
       "en": "Curriculum for Natural science"
+    },
+    "description": {
+      "local": "Naturfag er et sentralt fag for å beskrive og forstå hvordan vår fysiske verden er bygget opp. Faget skal bidra til at elevene får naturopplevelser og et faglig grunnlag for å verne om naturressurser, bevare biologisk mangfold og bidra til en bærekraftig utvikling. Naturfag skal også bidra til at elevene utvikler kompetanse til å ivareta egen og andres helse. Når elevene tar i bruk naturfaglig språk og naturfaglige metoder, praksiser og tenkemåter i arbeid med faglige emner, vil de få grunnlag for å forstå hvordan naturfaglig kunnskap brukes og utvikles. Kunnskap om samspillet mellom natur, individ, teknologi og samfunn kan fremme elevenes evne til kritisk tenkning og bidra til at de tar bevisste valg i hverdagen. Naturfag skal forberede elevene på et arbeids- og samfunnsliv som vil stille krav til en utforskende tilnærming og teknologisk kompetanse.",
+      "en": "Natural science is an important subject for describing and understanding the structure of our physical world. The subject shall help to give the pupils experiences of nature and the know-how for protecting natural resources, preserving biological diversity and contributing to sustainability. Natural science shall also contribute to the pupils’ development of competence to take care of their own and others’ health. When the pupils use natural-science terminology and natural-science methods, practices and approaches for working on topics in the subject, they will acquire the foundation for understanding how natural-science knowledge is used and developed. Knowledge about the interaction between nature, individuals, technology and society can promote the pupils’ ability to think critically and help them make conscious decisions in their daily lives. Natural science shall prepare the pupils for a working and societal life that will require an exploratory approach and technological competence."
     },
     "coreElements": [
       {
@@ -66,6 +70,98 @@
         "description": {
           "local": "Elevene skal forstå hvordan kroppens store og små systemer virker sammen. De skal også forstå hvordan kroppen utvikler seg, og hvordan fysisk og psykisk helse kan ivaretas. Kunnskap om kroppens systemer og hvordan de påvirker hverandre, skal hjelpe elevene til å ta vare på egen kropp og helse i et livslangt perspektiv.",
           "en": "The pupils shall understand how the macro and micro systems of the body work together. They shall also understand how the body develops and how physical and mental health can be looked after. Knowledge about the body’s systems and how they affect one another, shall help the pupils to take care of their own bodies and health in a lifelong perspective."
+        }
+      }
+    ],
+    "interdisciplinaryThemes": [
+      {
+        "code": "TT1",
+        "name": {
+          "local": "Folkehelse og livsmestring",
+          "en": "Health and life skills"
+        },
+        "description": {
+          "local": "I naturfag handler det tverrfaglige temaet folkehelse og livsmestring om å gi elevene kompetanse til å forstå sin egen kropp og ivareta sin egen fysiske og psykiske helse. Elevene skal kunne forholde seg kritisk til og bruke helserelatert informasjon til å ta gode og ansvarlige valg knyttet til helse, sikkerhet og miljø i både hverdags- og arbeidsliv.",
+          "en": "In natural science the interdisciplinary topic of health and life skills refers to providing the pupils with the competence to understand their own body and take care of their physical and mental health. The pupils shall be able to take a critical approach to health-related information and to use this to make good and responsible choices related to health, safety and the environment, in their everyday lives and in working life."
+        }
+      },
+      {
+        "code": "TT2",
+        "name": {
+          "local": "Demokrati og medborgerskap",
+          "en": "Democracy and citizenship"
+        },
+        "description": {
+          "local": "I naturfag handler det tverrfaglige temaet demokrati og medborgerskap om at elevene skal få grunnlag for å skille mellom vitenskapelig basert kunnskap og kunnskap som ikke er basert på vitenskap. Naturfag skal samtidig bidra til åpenhet for den erfaringsbaserte og tradisjonelle kunnskapen som samer har om naturen. Kompetanse i naturfag gir grunnlag for å forstå og være kritisk til argumentasjonen i samfunnsdebatten, og er viktig for at elevene skal kunne være aktive medborgere og bidra til en teknologisk og bærekraftig utvikling.",
+          "en": "In natural science the interdisciplinary topic of democracy and citizenship refers to providing the pupils with the basis for distinguishing between knowledge based on science and knowledge that is not based on science. Natural science shall also contribute to openness for experience-based and traditional knowledge the Sami have of nature. Competence in natural science shall be the underpinning for understanding and being critical about argumentation in public debates and is important so that pupils will be active citizens and contribute to technological development and sustainability."
+        }
+      },
+      {
+        "code": "TT3",
+        "name": {
+          "local": "Bærekraftig utvikling",
+          "en": "Sustainability"
+        },
+        "description": {
+          "local": "I naturfag handler det tverrfaglige temaet bærekraftig utvikling om at elevene skal få kompetanse til å gjøre miljøbevisste valg og handlinger, og se disse i sammenheng med lokale og globale miljø- og klimautfordringer. Kunnskap om sammenhenger i naturen er nødvendig for å forstå hvordan vi mennesker er med på å påvirke den. Naturfaglig kompetanse kan bidra til at vi finner løsninger for å begrense klimautfordringene, bevare biologisk mangfold og forvalte jordas naturressurser på en bærekraftig måte.",
+          "en": "In natural science the interdisciplinary topic of sustainability refers to the pupils acquiring the competence to make environmentally aware decisions and actions, and to see these in relation to local and global environmental and climate challenges. Knowledge about interconnections in nature is necessary to understand how we influence them. Competence in natural science can help us to find solutions to limit the climate challenges we face, preserve biological diversity and manage the earth’s natural resources in a sustainable manner."
+        }
+      }
+    ],
+    "basicSkills": [
+      {
+        "code": "GF1",
+        "name": {
+          "local": "Muntlige ferdigheter",
+          "en": "Oral skills"
+        },
+        "description": {
+          "local": "Muntlige ferdigheter i naturfag er å kunne delta i fagsamtaler og dele og utvikle kunnskap med naturfaglig innhold basert på observasjoner, erfaringer og faglig informasjon. Muntlige ferdigheter i naturfag innebærer også å bruke naturfaglige begreper for å beskrive, vise forståelse, formidle kunnskap, utvikle spørsmål, argumentere, forklare, reflektere og begrunne egne holdninger og valg. Utviklingen av muntlige ferdigheter i naturfag går fra å kunne lytte og samtale om opplevelser og observasjoner til å kunne presentere og diskutere stadig mer komplekse sammenhenger i faget og å kunne benytte seg av et stadig mer presist naturfaglig språk.",
+          "en": "Oral skills in natural science refers to the ability to take part in subject-related conversations and to share and develop knowledge with natural-science content based on observations, experiences and information from the field. Oral skills also refers to using natural-science terminology and concepts to describe, demonstrate understanding, present knowledge, develop questions, argue, explain, reflect and give grounds for one’s own attitudes and decisions. The development of oral skills in the natural-science subject progresses from listening and talking about experiences and observations to presenting and discussing increasingly complex interconnections in the subject and the ability to use increasingly precise natural-science terminology."
+        }
+      },
+      {
+        "code": "GF2",
+        "name": {
+          "local": "Å kunne skrive",
+          "en": "Writing"
+        },
+        "description": {
+          "local": "Å kunne skrive i naturfag er å formulere spørsmål og hypoteser og skrive naturfaglige forklaringer basert på evidens og kilder. Det innebærer også å beskrive observasjoner og erfaringer og å formulere og argumentere for synspunkter. Utviklingen av skriveferdigheter i naturfag går fra å bruke tegninger og tekst til gradvis å ta i bruk mer presist naturfaglig språk, inkludert figurer og symboler. Dette innebærer å kunne skrive stadig mer komplekse tekster og benytte ulike teksttyper som bygger på kritisk og variert kildebruk tilpasset formål og mottaker.",
+          "en": "Writing in natural science refers to formulating questions and hypotheses and writing natural-science explanations based on evidence and sources. It also refers to describing observations and experiences, as well as formulating and arguing in favour of points of view. The development of writing skills in natural science progresses from using drawings and text to gradually using more precise natural-science terminology, including figures and symbols. This refers to the ability to write increasingly complex texts and to use different types of text which build on a critical and varied use of sources adapted to the purpose and receiver."
+        }
+      },
+      {
+        "code": "GF3",
+        "name": {
+          "local": "Å kunne lese",
+          "en": "Reading"
+        },
+        "description": {
+          "local": "Å kunne lese i naturfag er å kunne forstå naturfaglige begreper, symboler, figurer og argumenter gjennom arbeid med naturfaglige tekster. Lesing i naturfag innebærer også å utforske, identifisere, tolke og bruke informasjon fra ulike teksttyper og vurdere kritisk hvordan naturvitenskapelig informasjon framstilles og brukes i argumenter. Utviklingen av å lese i naturfag går fra å finne og bruke informasjon i tekster til å forstå tekster med stadig flere fagbegreper, symboler, figurer, tabeller og implisitt informasjon.",
+          "en": "Reading in natural science refers to the ability to understand natural-science concepts, symbols, figures and arguments by working with natural-science texts. Reading in natural science also refers to exploring, identifying, interpreting and using information from different types of texts and to critically assess how natural-science information is presented and used in argumentation. The development of reading skills in natural science progresses from finding and using information in texts to understanding texts with increasingly more subject-relevant terminology, symbols, figures, tables and implicit information."
+        }
+      },
+      {
+        "code": "GF4",
+        "name": {
+          "local": "Å kunne regne",
+          "en": "Numeracy"
+        },
+        "description": {
+          "local": "Å kunne regne i naturfag er å kunne innhente, bearbeide og framstille relevant tallmateriale. Regning i naturfag innebærer å bruke begreper og velge passende måleinstrumenter, måleenheter og formler for å løse naturfaglige problemstillinger. Regning i naturfag er også å kunne sammenligne, vurdere og argumentere for om beregninger, resultater og framstillinger er gyldige eller ikke. Utviklingen av å regne i naturfag går fra å bruke enkle metoder for å telle opp, sortere og klassifisere til å kunne vurdere valg av metoder, begreper, formler og måleinstrumenter. Elevene utvikler også regneferdigheter ved å lage mer avanserte framstillinger og ved å bruke regning i faglig argumentasjon.",
+          "en": "Numeracy in natural science refers to the ability to collect, adapt and present relevant statistics. Numeracy in natural science also means using concepts and choosing suitable measuring instruments, measuring units and formulas to solve natural-science problems. Numeracy in natural science also refers to the ability to compare, assess and argue whether calculations, results and presentations are valid or not. The development of numeracy in natural science progresses from using simple methods for counting, sorting and classifying to the ability to assess the choice of methods, concepts, formulas and measuring instruments. The pupils also develop numeracy skills by creating increasingly advanced presentations and using calculations in subject-related argumentation."
+        }
+      },
+      {
+        "code": "GF5",
+        "name": {
+          "local": "Digitale ferdigheter",
+          "en": "Digital skills"
+        },
+        "description": {
+          "local": "Digitale ferdigheter i naturfag er å kunne bruke digitale verktøy til å utforske, registrere, beregne, visualisere, programmere, modellere, dokumentere og publisere data fra forsøk, feltarbeid og andres studier. Digitale ferdigheter er også å bruke søkeverktøy, beherske søkestrategier, kritisk vurdere kilder og velge ut relevant informasjon om naturfaglige emner. Utviklingen av digitale ferdigheter i naturfag går fra å kunne bruke enkle digitale verktøy til å i økende grad utvise selvstendighet og dømmekraft i valg og bruk av digitale verktøy og kilder.",
+          "en": "Digital skills in natural science refers to using digital tools to explore, register, calculate, visualise, program, model, document and publish data from experiments, fieldwork and studies by others. Digital skills also refers to using search engines, mastering search strategies, critically assessing sources and selecting relevant information on natural-science topics. The development of digital skills in natural science progresses from the ability to use simple digital tools to demonstrating increasing independence and judgement in the choice and use of digital sources."
         }
       }
     ],
@@ -1110,6 +1206,35 @@
               "Beskrive"
             ]
           }
+        ],
+        "assessment": [
+          {
+            "type": {
+              "local": "Standpunktvurdering",
+              "en": "Assessment of coursework"
+            },
+            "description": {
+              "local": "10. trinn: Eleven skal ha én standpunktkarakter.Vg1 yrkesfaglige utdanningsprogram: Eleven skal ha én standpunktkarakter.Vg1 studieforberedende utdanningsprogram: Eleven skal ha én standpunktkarakter.Vg3 påbygging til generell studiekompetanse: Eleven skal ha én standpunktkarakter."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for elever",
+              "en": "Examination for pupils"
+            },
+            "description": {
+              "local": "10. trinn: Eleven kan trekkes ut til muntlig-praktisk eksamen med forberedelsesdel. Eksamen blir utarbeidet og sensurert lokalt.Vg1 yrkesfaglige utdanningsprogram: Eleven kan trekkes ut til muntlig-praktisk eksamen med forberedelsesdel. Eksamen blir utarbeidet og sensurert lokalt.Vg1 studieforberedende utdanningsprogram: Eleven kan trekkes ut til muntlig-praktisk eksamen med forberedelsesdel. Eksamen blir utarbeidet og sensurert lokalt.Vg3 påbygging til generell studiekompetanse: Eleven kan trekkes ut til muntlig-praktisk eksamen med forberedelsesdel. Eksamen blir utarbeidet og sensurert lokalt."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for privatister",
+              "en": "Examination for external candidates"
+            },
+            "description": {
+              "local": "10. trinn: Se gjeldende ordning for grunnskoleopplæring for voksne.Vg1 yrkesfaglige utdanningsprogram: Privatisten skal opp til muntlig-praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen.Vg1 studieforberedende utdanningsprogram: Privatisten skal opp til muntlig-praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen.Vg3 påbygging til generell studiekompetanse: Privatisten skal opp til muntlig-praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen."
+            }
+          }
         ]
       },
       {
@@ -1362,6 +1487,35 @@
               "Drøfte"
             ]
           }
+        ],
+        "assessment": [
+          {
+            "type": {
+              "local": "Standpunktvurdering",
+              "en": "Assessment of coursework"
+            },
+            "description": {
+              "local": "10. trinn: Eleven skal ha én standpunktkarakter.Vg1 yrkesfaglige utdanningsprogram: Eleven skal ha én standpunktkarakter.Vg1 studieforberedende utdanningsprogram: Eleven skal ha én standpunktkarakter.Vg3 påbygging til generell studiekompetanse: Eleven skal ha én standpunktkarakter."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for elever",
+              "en": "Examination for pupils"
+            },
+            "description": {
+              "local": "10. trinn: Eleven kan trekkes ut til muntlig-praktisk eksamen med forberedelsesdel. Eksamen blir utarbeidet og sensurert lokalt.Vg1 yrkesfaglige utdanningsprogram: Eleven kan trekkes ut til muntlig-praktisk eksamen med forberedelsesdel. Eksamen blir utarbeidet og sensurert lokalt.Vg1 studieforberedende utdanningsprogram: Eleven kan trekkes ut til muntlig-praktisk eksamen med forberedelsesdel. Eksamen blir utarbeidet og sensurert lokalt.Vg3 påbygging til generell studiekompetanse: Eleven kan trekkes ut til muntlig-praktisk eksamen med forberedelsesdel. Eksamen blir utarbeidet og sensurert lokalt."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for privatister",
+              "en": "Examination for external candidates"
+            },
+            "description": {
+              "local": "10. trinn: Se gjeldende ordning for grunnskoleopplæring for voksne.Vg1 yrkesfaglige utdanningsprogram: Privatisten skal opp til muntlig-praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen.Vg1 studieforberedende utdanningsprogram: Privatisten skal opp til muntlig-praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen.Vg3 påbygging til generell studiekompetanse: Privatisten skal opp til muntlig-praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen."
+            }
+          }
         ]
       },
       {
@@ -1473,6 +1627,35 @@
               "Vurdere",
               "Bruke"
             ]
+          }
+        ],
+        "assessment": [
+          {
+            "type": {
+              "local": "Standpunktvurdering",
+              "en": "Assessment of coursework"
+            },
+            "description": {
+              "local": "10. trinn: Eleven skal ha én standpunktkarakter.Vg1 yrkesfaglige utdanningsprogram: Eleven skal ha én standpunktkarakter.Vg1 studieforberedende utdanningsprogram: Eleven skal ha én standpunktkarakter.Vg3 påbygging til generell studiekompetanse: Eleven skal ha én standpunktkarakter."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for elever",
+              "en": "Examination for pupils"
+            },
+            "description": {
+              "local": "10. trinn: Eleven kan trekkes ut til muntlig-praktisk eksamen med forberedelsesdel. Eksamen blir utarbeidet og sensurert lokalt.Vg1 yrkesfaglige utdanningsprogram: Eleven kan trekkes ut til muntlig-praktisk eksamen med forberedelsesdel. Eksamen blir utarbeidet og sensurert lokalt.Vg1 studieforberedende utdanningsprogram: Eleven kan trekkes ut til muntlig-praktisk eksamen med forberedelsesdel. Eksamen blir utarbeidet og sensurert lokalt.Vg3 påbygging til generell studiekompetanse: Eleven kan trekkes ut til muntlig-praktisk eksamen med forberedelsesdel. Eksamen blir utarbeidet og sensurert lokalt."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for privatister",
+              "en": "Examination for external candidates"
+            },
+            "description": {
+              "local": "10. trinn: Se gjeldende ordning for grunnskoleopplæring for voksne.Vg1 yrkesfaglige utdanningsprogram: Privatisten skal opp til muntlig-praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen.Vg1 studieforberedende utdanningsprogram: Privatisten skal opp til muntlig-praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen.Vg3 påbygging til generell studiekompetanse: Privatisten skal opp til muntlig-praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen."
+            }
           }
         ]
       },
@@ -1589,6 +1772,35 @@
               "Beskrive"
             ]
           }
+        ],
+        "assessment": [
+          {
+            "type": {
+              "local": "Standpunktvurdering",
+              "en": "Assessment of coursework"
+            },
+            "description": {
+              "local": "10. trinn: Eleven skal ha én standpunktkarakter.Vg1 yrkesfaglige utdanningsprogram: Eleven skal ha én standpunktkarakter.Vg1 studieforberedende utdanningsprogram: Eleven skal ha én standpunktkarakter.Vg3 påbygging til generell studiekompetanse: Eleven skal ha én standpunktkarakter."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for elever",
+              "en": "Examination for pupils"
+            },
+            "description": {
+              "local": "10. trinn: Eleven kan trekkes ut til muntlig-praktisk eksamen med forberedelsesdel. Eksamen blir utarbeidet og sensurert lokalt.Vg1 yrkesfaglige utdanningsprogram: Eleven kan trekkes ut til muntlig-praktisk eksamen med forberedelsesdel. Eksamen blir utarbeidet og sensurert lokalt.Vg1 studieforberedende utdanningsprogram: Eleven kan trekkes ut til muntlig-praktisk eksamen med forberedelsesdel. Eksamen blir utarbeidet og sensurert lokalt.Vg3 påbygging til generell studiekompetanse: Eleven kan trekkes ut til muntlig-praktisk eksamen med forberedelsesdel. Eksamen blir utarbeidet og sensurert lokalt."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for privatister",
+              "en": "Examination for external candidates"
+            },
+            "description": {
+              "local": "10. trinn: Se gjeldende ordning for grunnskoleopplæring for voksne.Vg1 yrkesfaglige utdanningsprogram: Privatisten skal opp til muntlig-praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen.Vg1 studieforberedende utdanningsprogram: Privatisten skal opp til muntlig-praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen.Vg3 påbygging til generell studiekompetanse: Privatisten skal opp til muntlig-praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen."
+            }
+          }
         ]
       },
       {
@@ -1700,6 +1912,35 @@
               "Utforske"
             ]
           }
+        ],
+        "assessment": [
+          {
+            "type": {
+              "local": "Standpunktvurdering",
+              "en": "Assessment of coursework"
+            },
+            "description": {
+              "local": "10. trinn: Eleven skal ha én standpunktkarakter.Vg1 yrkesfaglige utdanningsprogram: Eleven skal ha én standpunktkarakter.Vg1 studieforberedende utdanningsprogram: Eleven skal ha én standpunktkarakter.Vg3 påbygging til generell studiekompetanse: Eleven skal ha én standpunktkarakter."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for elever",
+              "en": "Examination for pupils"
+            },
+            "description": {
+              "local": "10. trinn: Eleven kan trekkes ut til muntlig-praktisk eksamen med forberedelsesdel. Eksamen blir utarbeidet og sensurert lokalt.Vg1 yrkesfaglige utdanningsprogram: Eleven kan trekkes ut til muntlig-praktisk eksamen med forberedelsesdel. Eksamen blir utarbeidet og sensurert lokalt.Vg1 studieforberedende utdanningsprogram: Eleven kan trekkes ut til muntlig-praktisk eksamen med forberedelsesdel. Eksamen blir utarbeidet og sensurert lokalt.Vg3 påbygging til generell studiekompetanse: Eleven kan trekkes ut til muntlig-praktisk eksamen med forberedelsesdel. Eksamen blir utarbeidet og sensurert lokalt."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for privatister",
+              "en": "Examination for external candidates"
+            },
+            "description": {
+              "local": "10. trinn: Se gjeldende ordning for grunnskoleopplæring for voksne.Vg1 yrkesfaglige utdanningsprogram: Privatisten skal opp til muntlig-praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen.Vg1 studieforberedende utdanningsprogram: Privatisten skal opp til muntlig-praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen.Vg3 påbygging til generell studiekompetanse: Privatisten skal opp til muntlig-praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen."
+            }
+          }
         ]
       },
       {
@@ -1809,6 +2050,35 @@
             "verbs": [
               "Drøfte"
             ]
+          }
+        ],
+        "assessment": [
+          {
+            "type": {
+              "local": "Standpunktvurdering",
+              "en": "Assessment of coursework"
+            },
+            "description": {
+              "local": "10. trinn: Eleven skal ha én standpunktkarakter.Vg1 yrkesfaglige utdanningsprogram: Eleven skal ha én standpunktkarakter.Vg1 studieforberedende utdanningsprogram: Eleven skal ha én standpunktkarakter.Vg3 påbygging til generell studiekompetanse: Eleven skal ha én standpunktkarakter."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for elever",
+              "en": "Examination for pupils"
+            },
+            "description": {
+              "local": "10. trinn: Eleven kan trekkes ut til muntlig-praktisk eksamen med forberedelsesdel. Eksamen blir utarbeidet og sensurert lokalt.Vg1 yrkesfaglige utdanningsprogram: Eleven kan trekkes ut til muntlig-praktisk eksamen med forberedelsesdel. Eksamen blir utarbeidet og sensurert lokalt.Vg1 studieforberedende utdanningsprogram: Eleven kan trekkes ut til muntlig-praktisk eksamen med forberedelsesdel. Eksamen blir utarbeidet og sensurert lokalt.Vg3 påbygging til generell studiekompetanse: Eleven kan trekkes ut til muntlig-praktisk eksamen med forberedelsesdel. Eksamen blir utarbeidet og sensurert lokalt."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for privatister",
+              "en": "Examination for external candidates"
+            },
+            "description": {
+              "local": "10. trinn: Se gjeldende ordning for grunnskoleopplæring for voksne.Vg1 yrkesfaglige utdanningsprogram: Privatisten skal opp til muntlig-praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen.Vg1 studieforberedende utdanningsprogram: Privatisten skal opp til muntlig-praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen.Vg3 påbygging til generell studiekompetanse: Privatisten skal opp til muntlig-praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen."
+            }
           }
         ]
       },
@@ -1921,6 +2191,35 @@
             "verbs": [
               "Vurdere"
             ]
+          }
+        ],
+        "assessment": [
+          {
+            "type": {
+              "local": "Standpunktvurdering",
+              "en": "Assessment of coursework"
+            },
+            "description": {
+              "local": "10. trinn: Eleven skal ha én standpunktkarakter.Vg1 yrkesfaglige utdanningsprogram: Eleven skal ha én standpunktkarakter.Vg1 studieforberedende utdanningsprogram: Eleven skal ha én standpunktkarakter.Vg3 påbygging til generell studiekompetanse: Eleven skal ha én standpunktkarakter."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for elever",
+              "en": "Examination for pupils"
+            },
+            "description": {
+              "local": "10. trinn: Eleven kan trekkes ut til muntlig-praktisk eksamen med forberedelsesdel. Eksamen blir utarbeidet og sensurert lokalt.Vg1 yrkesfaglige utdanningsprogram: Eleven kan trekkes ut til muntlig-praktisk eksamen med forberedelsesdel. Eksamen blir utarbeidet og sensurert lokalt.Vg1 studieforberedende utdanningsprogram: Eleven kan trekkes ut til muntlig-praktisk eksamen med forberedelsesdel. Eksamen blir utarbeidet og sensurert lokalt.Vg3 påbygging til generell studiekompetanse: Eleven kan trekkes ut til muntlig-praktisk eksamen med forberedelsesdel. Eksamen blir utarbeidet og sensurert lokalt."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for privatister",
+              "en": "Examination for external candidates"
+            },
+            "description": {
+              "local": "10. trinn: Se gjeldende ordning for grunnskoleopplæring for voksne.Vg1 yrkesfaglige utdanningsprogram: Privatisten skal opp til muntlig-praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen.Vg1 studieforberedende utdanningsprogram: Privatisten skal opp til muntlig-praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen.Vg3 påbygging til generell studiekompetanse: Privatisten skal opp til muntlig-praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen."
+            }
           }
         ]
       },
@@ -2035,6 +2334,35 @@
               "Utforske"
             ]
           }
+        ],
+        "assessment": [
+          {
+            "type": {
+              "local": "Standpunktvurdering",
+              "en": "Assessment of coursework"
+            },
+            "description": {
+              "local": "10. trinn: Eleven skal ha én standpunktkarakter.Vg1 yrkesfaglige utdanningsprogram: Eleven skal ha én standpunktkarakter.Vg1 studieforberedende utdanningsprogram: Eleven skal ha én standpunktkarakter.Vg3 påbygging til generell studiekompetanse: Eleven skal ha én standpunktkarakter."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for elever",
+              "en": "Examination for pupils"
+            },
+            "description": {
+              "local": "10. trinn: Eleven kan trekkes ut til muntlig-praktisk eksamen med forberedelsesdel. Eksamen blir utarbeidet og sensurert lokalt.Vg1 yrkesfaglige utdanningsprogram: Eleven kan trekkes ut til muntlig-praktisk eksamen med forberedelsesdel. Eksamen blir utarbeidet og sensurert lokalt.Vg1 studieforberedende utdanningsprogram: Eleven kan trekkes ut til muntlig-praktisk eksamen med forberedelsesdel. Eksamen blir utarbeidet og sensurert lokalt.Vg3 påbygging til generell studiekompetanse: Eleven kan trekkes ut til muntlig-praktisk eksamen med forberedelsesdel. Eksamen blir utarbeidet og sensurert lokalt."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for privatister",
+              "en": "Examination for external candidates"
+            },
+            "description": {
+              "local": "10. trinn: Se gjeldende ordning for grunnskoleopplæring for voksne.Vg1 yrkesfaglige utdanningsprogram: Privatisten skal opp til muntlig-praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen.Vg1 studieforberedende utdanningsprogram: Privatisten skal opp til muntlig-praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen.Vg3 påbygging til generell studiekompetanse: Privatisten skal opp til muntlig-praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen."
+            }
+          }
         ]
       },
       {
@@ -2145,6 +2473,35 @@
               "Vurdere",
               "Gjøre rede for"
             ]
+          }
+        ],
+        "assessment": [
+          {
+            "type": {
+              "local": "Standpunktvurdering",
+              "en": "Assessment of coursework"
+            },
+            "description": {
+              "local": "10. trinn: Eleven skal ha én standpunktkarakter.Vg1 yrkesfaglige utdanningsprogram: Eleven skal ha én standpunktkarakter.Vg1 studieforberedende utdanningsprogram: Eleven skal ha én standpunktkarakter.Vg3 påbygging til generell studiekompetanse: Eleven skal ha én standpunktkarakter."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for elever",
+              "en": "Examination for pupils"
+            },
+            "description": {
+              "local": "10. trinn: Eleven kan trekkes ut til muntlig-praktisk eksamen med forberedelsesdel. Eksamen blir utarbeidet og sensurert lokalt.Vg1 yrkesfaglige utdanningsprogram: Eleven kan trekkes ut til muntlig-praktisk eksamen med forberedelsesdel. Eksamen blir utarbeidet og sensurert lokalt.Vg1 studieforberedende utdanningsprogram: Eleven kan trekkes ut til muntlig-praktisk eksamen med forberedelsesdel. Eksamen blir utarbeidet og sensurert lokalt.Vg3 påbygging til generell studiekompetanse: Eleven kan trekkes ut til muntlig-praktisk eksamen med forberedelsesdel. Eksamen blir utarbeidet og sensurert lokalt."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for privatister",
+              "en": "Examination for external candidates"
+            },
+            "description": {
+              "local": "10. trinn: Se gjeldende ordning for grunnskoleopplæring for voksne.Vg1 yrkesfaglige utdanningsprogram: Privatisten skal opp til muntlig-praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen.Vg1 studieforberedende utdanningsprogram: Privatisten skal opp til muntlig-praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen.Vg3 påbygging til generell studiekompetanse: Privatisten skal opp til muntlig-praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen."
+            }
           }
         ]
       },
@@ -2257,6 +2614,35 @@
               "Gjøre rede for"
             ]
           }
+        ],
+        "assessment": [
+          {
+            "type": {
+              "local": "Standpunktvurdering",
+              "en": "Assessment of coursework"
+            },
+            "description": {
+              "local": "10. trinn: Eleven skal ha én standpunktkarakter.Vg1 yrkesfaglige utdanningsprogram: Eleven skal ha én standpunktkarakter.Vg1 studieforberedende utdanningsprogram: Eleven skal ha én standpunktkarakter.Vg3 påbygging til generell studiekompetanse: Eleven skal ha én standpunktkarakter."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for elever",
+              "en": "Examination for pupils"
+            },
+            "description": {
+              "local": "10. trinn: Eleven kan trekkes ut til muntlig-praktisk eksamen med forberedelsesdel. Eksamen blir utarbeidet og sensurert lokalt.Vg1 yrkesfaglige utdanningsprogram: Eleven kan trekkes ut til muntlig-praktisk eksamen med forberedelsesdel. Eksamen blir utarbeidet og sensurert lokalt.Vg1 studieforberedende utdanningsprogram: Eleven kan trekkes ut til muntlig-praktisk eksamen med forberedelsesdel. Eksamen blir utarbeidet og sensurert lokalt.Vg3 påbygging til generell studiekompetanse: Eleven kan trekkes ut til muntlig-praktisk eksamen med forberedelsesdel. Eksamen blir utarbeidet og sensurert lokalt."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for privatister",
+              "en": "Examination for external candidates"
+            },
+            "description": {
+              "local": "10. trinn: Se gjeldende ordning for grunnskoleopplæring for voksne.Vg1 yrkesfaglige utdanningsprogram: Privatisten skal opp til muntlig-praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen.Vg1 studieforberedende utdanningsprogram: Privatisten skal opp til muntlig-praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen.Vg3 påbygging til generell studiekompetanse: Privatisten skal opp til muntlig-praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen."
+            }
+          }
         ]
       },
       {
@@ -2367,6 +2753,35 @@
               "Drøfte"
             ]
           }
+        ],
+        "assessment": [
+          {
+            "type": {
+              "local": "Standpunktvurdering",
+              "en": "Assessment of coursework"
+            },
+            "description": {
+              "local": "10. trinn: Eleven skal ha én standpunktkarakter.Vg1 yrkesfaglige utdanningsprogram: Eleven skal ha én standpunktkarakter.Vg1 studieforberedende utdanningsprogram: Eleven skal ha én standpunktkarakter.Vg3 påbygging til generell studiekompetanse: Eleven skal ha én standpunktkarakter."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for elever",
+              "en": "Examination for pupils"
+            },
+            "description": {
+              "local": "10. trinn: Eleven kan trekkes ut til muntlig-praktisk eksamen med forberedelsesdel. Eksamen blir utarbeidet og sensurert lokalt.Vg1 yrkesfaglige utdanningsprogram: Eleven kan trekkes ut til muntlig-praktisk eksamen med forberedelsesdel. Eksamen blir utarbeidet og sensurert lokalt.Vg1 studieforberedende utdanningsprogram: Eleven kan trekkes ut til muntlig-praktisk eksamen med forberedelsesdel. Eksamen blir utarbeidet og sensurert lokalt.Vg3 påbygging til generell studiekompetanse: Eleven kan trekkes ut til muntlig-praktisk eksamen med forberedelsesdel. Eksamen blir utarbeidet og sensurert lokalt."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for privatister",
+              "en": "Examination for external candidates"
+            },
+            "description": {
+              "local": "10. trinn: Se gjeldende ordning for grunnskoleopplæring for voksne.Vg1 yrkesfaglige utdanningsprogram: Privatisten skal opp til muntlig-praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen.Vg1 studieforberedende utdanningsprogram: Privatisten skal opp til muntlig-praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen.Vg3 påbygging til generell studiekompetanse: Privatisten skal opp til muntlig-praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen."
+            }
+          }
         ]
       },
       {
@@ -2476,6 +2891,35 @@
             "verbs": [
               "Vurdere"
             ]
+          }
+        ],
+        "assessment": [
+          {
+            "type": {
+              "local": "Standpunktvurdering",
+              "en": "Assessment of coursework"
+            },
+            "description": {
+              "local": "10. trinn: Eleven skal ha én standpunktkarakter.Vg1 yrkesfaglige utdanningsprogram: Eleven skal ha én standpunktkarakter.Vg1 studieforberedende utdanningsprogram: Eleven skal ha én standpunktkarakter.Vg3 påbygging til generell studiekompetanse: Eleven skal ha én standpunktkarakter."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for elever",
+              "en": "Examination for pupils"
+            },
+            "description": {
+              "local": "10. trinn: Eleven kan trekkes ut til muntlig-praktisk eksamen med forberedelsesdel. Eksamen blir utarbeidet og sensurert lokalt.Vg1 yrkesfaglige utdanningsprogram: Eleven kan trekkes ut til muntlig-praktisk eksamen med forberedelsesdel. Eksamen blir utarbeidet og sensurert lokalt.Vg1 studieforberedende utdanningsprogram: Eleven kan trekkes ut til muntlig-praktisk eksamen med forberedelsesdel. Eksamen blir utarbeidet og sensurert lokalt.Vg3 påbygging til generell studiekompetanse: Eleven kan trekkes ut til muntlig-praktisk eksamen med forberedelsesdel. Eksamen blir utarbeidet og sensurert lokalt."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for privatister",
+              "en": "Examination for external candidates"
+            },
+            "description": {
+              "local": "10. trinn: Se gjeldende ordning for grunnskoleopplæring for voksne.Vg1 yrkesfaglige utdanningsprogram: Privatisten skal opp til muntlig-praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen.Vg1 studieforberedende utdanningsprogram: Privatisten skal opp til muntlig-praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen.Vg3 påbygging til generell studiekompetanse: Privatisten skal opp til muntlig-praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen."
+            }
           }
         ]
       },
@@ -2639,6 +3083,35 @@
               "Vurdere",
               "Gjøre rede for"
             ]
+          }
+        ],
+        "assessment": [
+          {
+            "type": {
+              "local": "Standpunktvurdering",
+              "en": "Assessment of coursework"
+            },
+            "description": {
+              "local": "10. trinn: Eleven skal ha én standpunktkarakter.Vg1 yrkesfaglige utdanningsprogram: Eleven skal ha én standpunktkarakter.Vg1 studieforberedende utdanningsprogram: Eleven skal ha én standpunktkarakter.Vg3 påbygging til generell studiekompetanse: Eleven skal ha én standpunktkarakter."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for elever",
+              "en": "Examination for pupils"
+            },
+            "description": {
+              "local": "10. trinn: Eleven kan trekkes ut til muntlig-praktisk eksamen med forberedelsesdel. Eksamen blir utarbeidet og sensurert lokalt.Vg1 yrkesfaglige utdanningsprogram: Eleven kan trekkes ut til muntlig-praktisk eksamen med forberedelsesdel. Eksamen blir utarbeidet og sensurert lokalt.Vg1 studieforberedende utdanningsprogram: Eleven kan trekkes ut til muntlig-praktisk eksamen med forberedelsesdel. Eksamen blir utarbeidet og sensurert lokalt.Vg3 påbygging til generell studiekompetanse: Eleven kan trekkes ut til muntlig-praktisk eksamen med forberedelsesdel. Eksamen blir utarbeidet og sensurert lokalt."
+            }
+          },
+          {
+            "type": {
+              "local": "Eksamen for privatister",
+              "en": "Examination for external candidates"
+            },
+            "description": {
+              "local": "10. trinn: Se gjeldende ordning for grunnskoleopplæring for voksne.Vg1 yrkesfaglige utdanningsprogram: Privatisten skal opp til muntlig-praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen.Vg1 studieforberedende utdanningsprogram: Privatisten skal opp til muntlig-praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen.Vg3 påbygging til generell studiekompetanse: Privatisten skal opp til muntlig-praktisk eksamen. Eksamen blir utarbeidet og sensurert lokalt. Fylkeskommunen avgjør om privatister skal få forberedelsesdel ved lokalt gitt eksamen."
+            }
           }
         ]
       }

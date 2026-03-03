@@ -273,6 +273,10 @@ def sync_subject(subject_meta: dict) -> dict | None:
     if not detail:
         return None
 
+    tehtava = detail.get("tehtava", {})
+    tehtava_teksti = tehtava.get("teksti", {}) if isinstance(tehtava, dict) else {}
+    description_fi = clean_html(get_fi(tehtava_teksti)) if isinstance(tehtava_teksti, dict) else ""
+
     kohdealue_map = build_kohdealue_map(detail.get("kohdealueet", []))
 
     source_data = detail
@@ -324,6 +328,7 @@ def sync_subject(subject_meta: dict) -> dict | None:
         "subject": {
             "code": code,
             "name": {"local": source_name_fi, "en": name_en},
+            "description": {"local": description_fi, "en": ""},
             "coreElements": content_areas,
             "gradeBands": grade_bands,
         },

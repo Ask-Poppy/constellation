@@ -17,33 +17,33 @@
         "code": "S1",
         "name": {
           "local": "S1 Suhde omaan uskontoon",
-          "en": ""
+          "en": "S1 Relationship with one's own religion"
         },
         "description": {
           "local": "Opetuksen sisältöjen valinnassa keskeistä on kristinusko eri puolilla maailmaa, painottaen nykytilannetta. Opetuksessa tarkastellaan kristinuskon syntyä, leviämistä ja jakaantumista kirkkokunniksi. Perehdytään suurimpiin kristillisiin kirkkokuntiin: katolinen ja ortodoksinen kirkko sekä protestanttiset kirkot, erityisesti luterilainen kirkko. Opetuksessa perehdytään kirkkokuntien levinneisyyteen, keskeisiin opetuksiin. Tutkitaan Raamatun syntyhistoriaa, keskeistä sisältöä ja tulkintatapoja sekä uskonnon kulttuurivaikutuksia. Perehdytään syvemmin kristinuskoon Suomessa ja sen kulttuurivaikutuksiin. Jäsennetään omaa suhdetta luterilaisuuteen, suomalaisuuteen ja eurooppalaisuuteen.",
-          "en": ""
+          "en": "The selection of content focuses on Christianity around the world, with emphasis on the current situation. Teaching examines the origins of Christianity, its spread and division into denominations. Students become acquainted with the largest Christian denominations: the Catholic and Orthodox churches and the Protestant churches, particularly the Lutheran church. Teaching covers the distribution and central teachings of the denominations. Students investigate the history of the Bible's formation, its central content and methods of interpretation, as well as the cultural influence of religion. Students explore Christianity in Finland and its cultural impact in greater depth. They reflect on their own relationship to Lutheranism, Finnish identity and European identity."
         }
       },
       {
         "code": "S2",
         "name": {
           "local": "S2 Uskontojen maailma",
-          "en": ""
+          "en": "S2 The world of religions"
         },
         "description": {
           "local": "Opetuksessa tarkastellaan suurten maailmanuskontojen levinneisyyttä, perusopetuksia ja vaikutusta kulttuuriin eri puolilla maailmaa. Tutustutaan lisäksi luonnonuskontoihin ja uusiin uskonnollisiin liikkeisiin sekä uskonnottomuuteen elämänkatsomuksena. Uskontoja tarkastellaan tieteellisestä näkökulmasta ottaen huomioon uskonnon eri ulottuvuudet. Sisältöjen valinnassa otetaan huomioon uskon ja tiedon sekä uskonnollisen kielen ja tieteellisen kielen erottaminen, uskontokritiikki sekä uskontojen näkyminen kulttuurin eri osa-alueilla, mediassa, politiikassa, populaarikulttuurissa, taiteessa ja tapakulttuurissa. Syvennetään ekumenian sekä uskontojen ja katsomusten välisen dialogin ymmärtämistä osana uskontojen välistä toimintaa ja maailmanrauhaa.",
-          "en": ""
+          "en": "Teaching examines the distribution, basic teachings and cultural influence of major world religions around the globe. Students also become acquainted with indigenous religions, new religious movements and non-religiousness as a worldview. Religions are examined from a scholarly perspective, taking into account the different dimensions of religion. Content selection considers the distinction between faith and knowledge, between religious language and scientific language, religious criticism, and the visibility of religions in various areas of culture, media, politics, popular culture, art and customs. Students deepen their understanding of ecumenism and interfaith and inter-worldview dialogue as part of cooperation between religions and world peace."
         }
       },
       {
         "code": "S3",
         "name": {
           "local": "S3 Hyvä elämä",
-          "en": ""
+          "en": "S3 The good life"
         },
         "description": {
           "local": "Opetuksessa keskeistä on etiikan peruskäsitteiden tunteminen ja ymmärtäminen. Perehdytään syvällisemmin kristinuskon ja muiden uskontojen eettiseen opetukseen ja eri kristillisten kirkkojen eettisiin painotuksiin sekä Raamatun ja etiikan suhteeseen. Tutustutaan YK:n Yleismaailmalliseen ihmisoikeuksien julistukseen ja ihmisoikeusetiikkaan. Opetuksen sisällöiksi valitaan elämänkysymyksiin, suomalaiseen yhteiskuntaan, globaaliin vastuuseen sekä ympäristöön ja eläimiin liittyviä eettisiä kysymyksiä. Tarkastellaan eettisiä kysymyksiä mediasta otetuilla ajankohtaisilla esimerkeillä. Pohditaan omien valintojen eettisiä ulottuvuuksia ja niiden vaikutusta omaan ja toisten hyvinvointiin.",
-          "en": ""
+          "en": "Central to the teaching is knowledge and understanding of the basic concepts of ethics. Students explore the ethical teachings of Christianity and other religions in greater depth, along with the ethical emphases of different Christian churches and the relationship between the Bible and ethics. Students become acquainted with the UN Universal Declaration of Human Rights and human rights ethics. Content is selected from ethical questions related to life issues, Finnish society, global responsibility, and the environment and animals. Ethical questions are examined through current examples from the media. Students reflect on the ethical dimensions of their own choices and their impact on their own and others' well-being."
         }
       }
     ],
@@ -59,7 +59,7 @@
             "code": "T1",
             "text": {
               "local": "T1 herättää oppilaassa mielenkiinto uskonnon opiskelua kohtaan ja opastaa tuntemaan oman perheen uskonnollista ja katsomuksellista taustaa",
-              "en": ""
+              "en": "T1 awaken the pupil's interest in the study of religion and guide them to become familiar with the religious and worldview background of their own family"
             },
             "coreElements": [
               "S1 Suhde omaan uskontoon",
@@ -72,7 +72,7 @@
             "code": "T2",
             "text": {
               "local": "T2 ohjata oppilasta tutustumaan opiskeltavan uskonnon keskeisiin käsitteisiin, kertomuksiin ja symboleihin",
-              "en": ""
+              "en": "T2 guide the pupil to become acquainted with the key concepts, narratives and symbols of the religion being studied"
             },
             "coreElements": [
               "S1 Suhde omaan uskontoon"
@@ -83,7 +83,7 @@
             "code": "T3",
             "text": {
               "local": "T3 ohjata oppilasta tutustumaan opiskeltavan uskonnon vuodenkiertoon, juhliin ja tapoihin",
-              "en": ""
+              "en": "T3 guide the pupil to become acquainted with the annual cycle, celebrations and customs of the religion being studied"
             },
             "coreElements": [
               "S1 Suhde omaan uskontoon"
@@ -94,7 +94,7 @@
             "code": "T4",
             "text": {
               "local": "T4 kannustaa oppilasta tutustumaan luokan, koulun ja lähiympäristön uskontojen ja katsomusten tapoihin ja juhlaperinteisiin",
-              "en": ""
+              "en": "T4 encourage the pupil to become acquainted with the customs and celebratory traditions of the religions and worldviews in their classroom, school and local environment"
             },
             "coreElements": [
               "S2 Uskontojen maailma"
@@ -105,7 +105,7 @@
             "code": "T5",
             "text": {
               "local": "T5 rohkaista oppilasta tunnistamaan ja ilmaisemaan omia ajatuksiaan ja tunteitaan",
-              "en": ""
+              "en": "T5 encourage the pupil to recognise and express their own thoughts and feelings"
             },
             "coreElements": [
               "S1 Suhde omaan uskontoon",
@@ -117,7 +117,7 @@
             "code": "T6",
             "text": {
               "local": "T6 ohjata oppilasta toimimaan oikeudenmukaisesti, eläytymään toisen asemaan sekä kunnioittamaan toisen ihmisen ajatuksia ja vakaumusta sekä ihmisoikeuksia",
-              "en": ""
+              "en": "T6 guide the pupil to act justly, to empathise with others, and to respect other people's thoughts, convictions and human rights"
             },
             "coreElements": [
               "S1 Suhde omaan uskontoon",
@@ -130,7 +130,7 @@
             "code": "T7",
             "text": {
               "local": "T7 ohjata oppilaita eettiseen pohdintaan sekä hahmottamaan, mitä tarkoittaa vastuu itsestä, yhteisöstä, ympäristöstä ja luonnosta",
-              "en": ""
+              "en": "T7 guide pupils towards ethical reflection and to perceive what responsibility for oneself, one's community, the environment and nature means"
             },
             "coreElements": [
               "S3 Hyvä elämä"
@@ -141,7 +141,7 @@
             "code": "T8",
             "text": {
               "local": "T8 luoda oppilaalle tilaisuuksia harjoitella omien mielipiteiden esittämistä ja perustelemista sekä erilaisten mielipiteiden kuuntelemista ja ymmärtämistä",
-              "en": ""
+              "en": "T8 create opportunities for the pupil to practise presenting and justifying their own opinions, and to listen to and understand different opinions"
             },
             "coreElements": [
               "S1 Suhde omaan uskontoon",
@@ -162,7 +162,7 @@
             "code": "T1",
             "text": {
               "local": "T1 ohjata oppilasta perehtymään opiskeltavan uskonnon pyhiin kirjoihin ja kertomuksiin sekä keskeisiin oppeihin",
-              "en": ""
+              "en": "T1 guide the pupil to explore the sacred texts, narratives and central teachings of the religion being studied"
             },
             "coreElements": [
               "S1 Suhde omaan uskontoon"
@@ -173,7 +173,7 @@
             "code": "T2",
             "text": {
               "local": "T2 ohjata oppilas tutustumaan opiskeltavan uskonnon rituaaleihin ja tapoihin sekä pyhiin paikkoihin ja rakennuksiin",
-              "en": ""
+              "en": "T2 guide the pupil to become acquainted with the rituals, customs, sacred places and buildings of the religion being studied"
             },
             "coreElements": [
               "S1 Suhde omaan uskontoon"
@@ -184,7 +184,7 @@
             "code": "T3",
             "text": {
               "local": "T3 auttaa oppilasta tunnistamaan uskonnollisen kielen erityispiirteitä ja vertauskuvallisuutta",
-              "en": ""
+              "en": "T3 help the pupil to recognise the distinctive features and figurative nature of religious language"
             },
             "coreElements": [
               "S2 Uskontojen maailma",
@@ -196,7 +196,7 @@
             "code": "T4",
             "text": {
               "local": "T4 ohjata oppilasta etsimään, arvioimaan ja käyttämään uskontoa koskevaa tietoa erilaisista lähteistä",
-              "en": ""
+              "en": "T4 guide the pupil to seek, evaluate and use information about religion from various sources"
             },
             "coreElements": [
               "S2 Uskontojen maailma",
@@ -209,7 +209,7 @@
             "code": "T5",
             "text": {
               "local": "T5 opastaa oppilasta perehtymään Suomen ja Euroopan uskonnollisiin ja katsomuksellisiin juuriin ja nykytilaan",
-              "en": ""
+              "en": "T5 guide the pupil to explore the religious and worldview roots and current state of Finland and Europe"
             },
             "coreElements": [
               "S2 Uskontojen maailma",
@@ -221,7 +221,7 @@
             "code": "T6",
             "text": {
               "local": "T6 ohjata oppilas tutustumaan juutalaisuuteen, kristinuskoon ja islamiin ja niiden vaikutukseen ja historiaan Euroopassa",
-              "en": ""
+              "en": "T6 guide the pupil to become acquainted with Judaism, Christianity and Islam, and their influence and history in Europe"
             },
             "coreElements": [
               "S2 Uskontojen maailma",
@@ -233,7 +233,7 @@
             "code": "T7",
             "text": {
               "local": "T7 kannustaa oppilasta kunnioittamaan omaa ja toisen pyhää sekä käyttäytymään asianmukaisesti erilaisissa uskonnollisissa tilaisuuksissa ja tilanteissa",
-              "en": ""
+              "en": "T7 encourage the pupil to respect what is sacred to oneself and others, and to behave appropriately in various religious occasions and situations"
             },
             "coreElements": [
               "S2 Uskontojen maailma",
@@ -246,7 +246,7 @@
             "code": "T8",
             "text": {
               "local": "T8 ohjata oppilas perehtymään opiskeltavan uskonnon eettisiin opetuksiin sekä eri uskontoja yhdistäviin eettisiin periaatteisiin",
-              "en": ""
+              "en": "T8 guide the pupil to explore the ethical teachings of the religion being studied and the ethical principles shared by different religions"
             },
             "coreElements": [
               "S2 Uskontojen maailma",
@@ -259,7 +259,7 @@
             "code": "T9",
             "text": {
               "local": "T9 ohjata oppilasta ymmärtämään ihmisoikeuksiin ja erityisesti YK:n Lapsen oikeuksien sopimukseen sisältyviä arvoja yksilön ja yhteisön näkökulmasta",
-              "en": ""
+              "en": "T9 guide the pupil to understand the values contained in human rights, and particularly in the UN Convention on the Rights of the Child, from both individual and community perspectives"
             },
             "coreElements": [
               "S2 Uskontojen maailma",
@@ -271,7 +271,7 @@
             "code": "T10",
             "text": {
               "local": "T10 ohjata oppilasta arvioimaan tekemiään valintoja ja pohtimaan toiminnan taustalla vaikuttavia arvoja eettisten periaatteiden ja kestävän tulevaisuuden näkökulmasta",
-              "en": ""
+              "en": "T10 guide the pupil to evaluate the choices they make and to reflect on the values underlying their actions from the perspective of ethical principles and a sustainable future"
             },
             "coreElements": [
               "S2 Uskontojen maailma",
@@ -283,7 +283,7 @@
             "code": "T11",
             "text": {
               "local": "T11 luoda oppilaalle mahdollisuuksia keskustella eettisistä kysymyksistä, ilmaista rakentavasti ajatuksiaan ja tunteitaan sekä harjoitella perustelemaan omia näkemyksiään",
-              "en": ""
+              "en": "T11 create opportunities for the pupil to discuss ethical questions, to express their thoughts and feelings constructively, and to practise justifying their own views"
             },
             "coreElements": [
               "S2 Uskontojen maailma",
@@ -296,7 +296,7 @@
             "code": "T12",
             "text": {
               "local": "T12 auttaa ja tukea oppilasta muodostamaan ja vahvistamaan myönteistä maailmankatsomusta, itsetuntoa ja luottamusta elämään",
-              "en": ""
+              "en": "T12 help and support the pupil in forming and strengthening a positive worldview, self-esteem and trust in life"
             },
             "coreElements": [
               "S3 Hyvä elämä"
@@ -316,7 +316,7 @@
             "code": "T1",
             "text": {
               "local": "T1 ohjata oppilasta havaitsemaan uskonnon ja kulttuurin vuorovaikutus sekä tunnistamaan uskontoon liittyvä monimuotoisuus",
-              "en": ""
+              "en": "T1 guide the pupil to observe the interaction between religion and culture and to recognise the diversity associated with religion"
             },
             "coreElements": [
               "S1 Suhde omaan uskontoon",
@@ -328,7 +328,7 @@
             "code": "T2",
             "text": {
               "local": "T2 ohjata oppilasta syventämään tietojaan opiskeltavasta uskonnosta ja sen vaikutuksista",
-              "en": ""
+              "en": "T2 guide the pupil to deepen their knowledge of the religion being studied and its influence"
             },
             "coreElements": [
               "S1 Suhde omaan uskontoon"
@@ -339,7 +339,7 @@
             "code": "T3",
             "text": {
               "local": "T3 ohjata oppilasta perehtymään uskontoihin ja katsomuksiin eri puolilla maailmaa sekä uskonnottomuuteen",
-              "en": ""
+              "en": "T3 guide the pupil to explore religions and worldviews around the world as well as non-religiousness"
             },
             "coreElements": [
               "S2 Uskontojen maailma"
@@ -350,7 +350,7 @@
             "code": "T4",
             "text": {
               "local": "T4 ohjata oppilasta tuntemaan eri uskontojen ja katsomusten tapoja ja symboleita sekä tunnistamaan uskonnollisia aiheita mediassa, maailmanpolitiikassa, taiteessa ja populaarikulttuurissa",
-              "en": ""
+              "en": "T4 guide the pupil to know the customs and symbols of different religions and worldviews, and to recognise religious themes in media, world politics, art and popular culture"
             },
             "coreElements": [
               "S1 Suhde omaan uskontoon",
@@ -363,7 +363,7 @@
             "code": "T5",
             "text": {
               "local": "T5 ohjata oppilasta havaitsemaan ja arvioimaan erilaisia argumentaation tapoja sekä uskonnon ja tieteen kielen välisiä eroja",
-              "en": ""
+              "en": "T5 guide the pupil to observe and evaluate different forms of argumentation and the differences between religious and scientific language"
             },
             "coreElements": [
               "S1 Suhde omaan uskontoon",
@@ -375,7 +375,7 @@
             "code": "T6",
             "text": {
               "local": "T6 ohjata oppilasta perehtymään eettisen ajattelun keskeisiin käsitteisiin, ihmisoikeuksiin sekä opiskeltavan uskonnon ja muiden uskontojen ja katsomusten eettisiin periaatteisiin",
-              "en": ""
+              "en": "T6 guide the pupil to explore the key concepts of ethical thinking, human rights, and the ethical principles of the religion being studied as well as those of other religions and worldviews"
             },
             "coreElements": [
               "S3 Hyvä elämä"
@@ -386,7 +386,7 @@
             "code": "T7",
             "text": {
               "local": "T7 auttaa oppilasta pohtimaan uskontojen ja katsomusten maailmanlaajuista merkitystä ihmisten valintojen perusteina ja ohjaajina",
-              "en": ""
+              "en": "T7 help the pupil to reflect on the global significance of religions and worldviews as the basis and guide for people's choices"
             },
             "coreElements": [
               "S1 Suhde omaan uskontoon",
@@ -398,7 +398,7 @@
             "code": "T8",
             "text": {
               "local": "T8 rohkaista oppilasta pohtimaan ihmisyyteen kuuluvia elämänkysymyksiä, ajankohtaisia eettisiä kysymyksiä ja omien arvojen suhdetta niihin",
-              "en": ""
+              "en": "T8 encourage the pupil to reflect on existential questions related to being human, current ethical issues and the relationship of their own values to them"
             },
             "coreElements": [
               "S2 Uskontojen maailma",
@@ -410,7 +410,7 @@
             "code": "T9",
             "text": {
               "local": "T9 innostaa oppilasta tutkimaan omien valintojensa eettisiä ulottuvuuksia ja niiden vaikutusta hyvinvointiin ja kannustaa kestävään elämäntapaan",
-              "en": ""
+              "en": "T9 inspire the pupil to examine the ethical dimensions of their own choices and their impact on well-being, and to encourage a sustainable way of life"
             },
             "coreElements": [
               "S2 Uskontojen maailma",
@@ -422,7 +422,7 @@
             "code": "T10",
             "text": {
               "local": "T10 rohkaista oppilaita kohtaamaan erilaisia ihmisiä nyt ja tulevaisuudessa jatko-opinnoissa, työelämässä ja vapaa-ajalla",
-              "en": ""
+              "en": "T10 encourage pupils to encounter diverse people now and in the future in further studies, working life and leisure"
             },
             "coreElements": [
               "S1 Suhde omaan uskontoon",
