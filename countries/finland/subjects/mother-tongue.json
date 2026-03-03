@@ -4,8 +4,12 @@
     "api": "https://eperusteet.opintopolku.fi/eperusteet-service/api/external/peruste/419550/perusopetus/oppiaineet/466340",
     "curriculum": "POPS 2014",
     "license": "Open Government Data (Finland)",
-    "lastSynced": "2026-03-03T08:58:54Z",
-    "aiEnriched": ["description.en", "interdisciplinaryThemes", "basicSkills"]
+    "lastSynced": "2026-03-03T16:02:15Z",
+    "aiEnriched": [
+      "description.en",
+      "interdisciplinaryThemes",
+      "basicSkills"
+    ]
   },
   "subject": {
     "code": "AI",
@@ -169,7 +173,9 @@
               "local": "T1 ohjata oppilasta vahvistamaan taitoaan toimia erilaisissa vuorovaikutustilanteissa",
               "en": "T1 guide the pupil in strengthening their skills in engaging in various interaction situations"
             },
-            "coreElements": ["S1"],
+            "coreElements": [
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -178,7 +184,9 @@
               "local": "T2 opastaa oppilasta kehittämään kieltään ja mielikuvitustaan sekä vuorovaikutus- ja yhteistyötaitojaan tarjoamalla mahdollisuuksia osallistua erilaisiin ryhmäviestintätilanteisiin ja tutustua niiden käytänteisiin",
               "en": "T2 instruct the pupil in developing their language and imagination as well as interaction and collaboration skills by providing opportunities to participate in various group communication situations and become familiar with their practices"
             },
-            "coreElements": ["S1"],
+            "coreElements": [
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -187,7 +195,9 @@
               "local": "T3 tukea oppilasta vahvistamaan ilmaisurohkeuttaan ja ohjata häntä ilmaisemaan itseään kokonaisvaltaisesti, myös draaman avulla",
               "en": "T3 support the pupil in strengthening their courage of expression and guide them in expressing themselves holistically, also through drama"
             },
-            "coreElements": ["S1"],
+            "coreElements": [
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -196,7 +206,9 @@
               "local": "T4 ohjata oppilasta rakentamaan viestijäkuvaansa ja ymmärtämään, että ihmiset viestivät eri tavoin",
               "en": "T4 guide the pupil in building their communicator identity and understanding that people communicate in different ways"
             },
-            "coreElements": ["S1"],
+            "coreElements": [
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -205,7 +217,9 @@
               "local": "T5 ohjata ja innostaa oppilasta lukutaidon oppimisessa ja tekstien ymmärtämisen taitojen harjoittelussa sekä auttaa häntä tarkkailemaan omaa lukemistaan",
               "en": "T5 guide and inspire the pupil in learning to read and in practising text comprehension skills, and help them monitor their own reading"
             },
-            "coreElements": ["S2"],
+            "coreElements": [
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -214,7 +228,9 @@
               "local": "T6 ohjata oppilasta tarkastelemaan monimuotoisten tekstien merkityksiä ja rakenteita sekä laajentamaan sana- ja käsitevarantoaan tekstien tarkastelun yhteydessä",
               "en": "T6 guide the pupil in examining the meanings and structures of multimodal texts and in expanding their vocabulary and range of concepts in connection with text examination"
             },
-            "coreElements": ["S2"],
+            "coreElements": [
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -223,7 +239,9 @@
               "local": "T7 ohjata oppilasta hakemaan tietoa eri tavoin",
               "en": "T7 guide the pupil in seeking information in different ways"
             },
-            "coreElements": ["S2"],
+            "coreElements": [
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -232,7 +250,9 @@
               "local": "T8 kannustaa oppilasta kiinnostumaan lastenkirjallisuudesta, mediateksteistä ja muista teksteistä luomalla myönteisiä lukukokemuksia ja elämyksiä sekä tarjoamalla mahdollisuuksia tiedonhalun tyydyttämiseen sekä lukukokemusten jakamiseen",
               "en": "T8 encourage the pupil to become interested in children's literature, media texts, and other texts by creating positive reading experiences and by providing opportunities to satisfy their desire for knowledge and to share reading experiences"
             },
-            "coreElements": ["S2"],
+            "coreElements": [
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -241,7 +261,9 @@
               "local": "T9 rohkaista ja innostaa oppilasta kertomaan tarinoita ja mielipiteitä sekä kuvaamaan kokemuksiaan puhumalla, kirjoittamalla ja kuvien avulla",
               "en": "T9 encourage and inspire the pupil to tell stories and opinions and to describe their experiences through speaking, writing, and using images"
             },
-            "coreElements": ["S3"],
+            "coreElements": [
+              "S3"
+            ],
             "verbs": []
           },
           {
@@ -250,7 +272,9 @@
               "local": "T10 ohjata oppilasta tuottamaan yksinkertaisia kertovia, kuvaavia ja muita tekstejä, myös monimediaisissa ympäristöissä",
               "en": "T10 guide the pupil in producing simple narrative, descriptive, and other texts, also in multimedia environments"
             },
-            "coreElements": ["S3"],
+            "coreElements": [
+              "S3"
+            ],
             "verbs": []
           },
           {
@@ -259,7 +283,9 @@
               "local": "T11 opastaa oppilasta harjaannuttamaan käsinkirjoittamisen taitoa ja näppäintaitoja sekä ohjata oppilasta vähitellen tekstien suunnitteluun ja rakentamiseen sekä tuntemaan oikeinkirjoituksen perusasioita ja kirjoitettua kieltä koskevia sopimuksia",
               "en": "T11 instruct the pupil in developing handwriting skills and typing skills, and guide the pupil gradually towards planning and constructing texts, as well as knowing the basics of spelling and conventions of written language"
             },
-            "coreElements": ["S3"],
+            "coreElements": [
+              "S3"
+            ],
             "verbs": []
           },
           {
@@ -268,7 +294,9 @@
               "local": "T12 kannustaa oppilasta kehittämään kielitietoisuuttaan ja kielen peruskäsitteiden tuntemusta sekä ohjata tekemään havaintoja puhutusta ja kirjoitetusta kielestä sekä auttaa huomaamaan, että omalla kielenkäytöllä on vaikutusta toisten käyttäytymiseen",
               "en": "T12 encourage the pupil to develop their language awareness and knowledge of basic language concepts, and guide them in making observations about spoken and written language, as well as help them notice that their own use of language affects the behaviour of others"
             },
-            "coreElements": ["S4"],
+            "coreElements": [
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -277,7 +305,9 @@
               "local": "T13 innostaa oppilasta kuuntelemaan ja lukemaan lapsille suunnattua kirjallisuutta ja valitsemaan itseään kiinnostavaa luettavaa, kehittämään lukuharrastustaan sekä ohjata oppilasta kirjaston käyttöön",
               "en": "T13 inspire the pupil to listen to and read literature aimed at children and to choose reading material of personal interest, develop their reading hobby, and guide the pupil in using the library"
             },
-            "coreElements": ["S4"],
+            "coreElements": [
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -286,7 +316,9 @@
               "local": "T14 ohjata oppilasta arvostamaan omaa kieltään ja kulttuuriaan sekä kulttuurista moninaisuutta, tutustuttaa joihinkin lastenkulttuurin muotoihin ja innostaa niiden käyttäjäksi sekä kannustaa tuottamaan omaa kulttuuria yhdessä muiden kanssa",
               "en": "T14 guide the pupil in appreciating their own language and culture as well as cultural diversity, introduce some forms of children's culture and inspire them to engage with it, and encourage producing culture of their own together with others"
             },
-            "coreElements": ["S4"],
+            "coreElements": [
+              "S4"
+            ],
             "verbs": []
           }
         ]
@@ -304,7 +336,9 @@
               "local": "T1 opastaa oppilasta vahvistamaan taitoaan toimia rakentavasti erilaisissa viestintäympäristöissä ja ilmaisemaan mielipiteensä",
               "en": "T1 instruct the pupil in strengthening their skill in acting constructively in various communication environments and in expressing their opinion"
             },
-            "coreElements": ["S1"],
+            "coreElements": [
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -313,7 +347,9 @@
               "local": "T2 ohjata oppilasta huomaamaan omien kielellisten ja viestinnällisten valintojensa vaikutuksia ja huomioimaan toisten tarpeita ryhmäviestintätilanteissa",
               "en": "T2 guide the pupil in noticing the effects of their own linguistic and communicative choices and in taking into account the needs of others in group communication situations"
             },
-            "coreElements": ["S1"],
+            "coreElements": [
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -322,7 +358,9 @@
               "local": "T3 ohjata oppilasta käyttämään luovuuttaan ja ilmaisemaan itseään monipuolisesti erilaisissa viestintä- ja esitystilanteissa, myös draaman avulla",
               "en": "T3 guide the pupil in using their creativity and expressing themselves in diverse ways in various communication and presentation situations, also through drama"
             },
-            "coreElements": ["S1"],
+            "coreElements": [
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -331,7 +369,9 @@
               "local": "T4 kannustaa oppilasta kehittämään myönteistä viestijäkuvaa sekä halua ja kykyä toimia erilaisissa, myös monimediaisissa vuorovaikutustilanteissa",
               "en": "T4 encourage the pupil to develop a positive communicator identity and the willingness and ability to engage in various interaction situations, including multimedia ones"
             },
-            "coreElements": ["S1"],
+            "coreElements": [
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -340,7 +380,9 @@
               "local": "T5 ohjata oppilasta sujuvoittamaan lukutaitoaan ja käyttämään tekstin ymmärtämisen strategioita sekä tarkkailemaan ja arvioimaan omaa lukemistaan",
               "en": "T5 guide the pupil in developing reading fluency and in using text comprehension strategies as well as monitoring and evaluating their own reading"
             },
-            "coreElements": ["S2"],
+            "coreElements": [
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -349,7 +391,9 @@
               "local": "T6 opastaa oppilasta kehittämään monimuotoisten tekstien erittelyn, arvioinnin ja tulkitsemisen taitoja ja laajentamaan sana- ja käsitevarantoaan sekä edistämään ajattelutaitojaan",
               "en": "T6 instruct the pupil in developing skills in analysing, evaluating, and interpreting multimodal texts and in expanding their vocabulary and range of concepts, as well as advancing their thinking skills"
             },
-            "coreElements": ["S2"],
+            "coreElements": [
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -358,7 +402,9 @@
               "local": "T7 ohjata oppilasta tiedonhankintaan, monipuolisten tiedonlähteiden käyttöön ja tiedon luotettavuuden arviointiin",
               "en": "T7 guide the pupil in information retrieval, in using diverse sources of information, and in evaluating the reliability of information"
             },
-            "coreElements": ["S2"],
+            "coreElements": [
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -367,7 +413,9 @@
               "local": "T8 kannustaa oppilasta kehittämään kirjallisuudentuntemusta ja kiinnostustaan lapsille ja nuorille tarkoitettua kirjallisuutta, media- ja muita tekstejä kohtaan, luomalla mahdollisuuksia myönteisiin lukukokemuksiin ja -elämyksiin, tiedonhalun tyydyttämiseen sekä lukukokemusten jakamiseen, myös monimediaisissa ympäristöissä",
               "en": "T8 encourage the pupil to develop their knowledge of literature and their interest in literature, media texts, and other texts intended for children and young people, by creating opportunities for positive reading experiences, for satisfying their desire for knowledge, and for sharing reading experiences, also in multimedia environments"
             },
-            "coreElements": ["S2"],
+            "coreElements": [
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -376,7 +424,9 @@
               "local": "T9 rohkaista oppilasta ilmaisemaan kokemuksiaan, ajatuksiaan ja mielipiteitään ja vahvistamaan myönteistä kuvaa itsestään tekstien tuottajana",
               "en": "T9 encourage the pupil to express their experiences, thoughts, and opinions and to strengthen a positive self-image as a text producer"
             },
-            "coreElements": ["S3"],
+            "coreElements": [
+              "S3"
+            ],
             "verbs": []
           },
           {
@@ -385,7 +435,9 @@
               "local": "T10 kannustaa ja ohjata oppilasta kielentämään ajatuksiaan ja harjoittelemaan kertovien, kuvaavien, ohjaavien ja yksinkertaisten kantaa ottavien tekstien tuottamista, myös monimediaisissa ympäristöissä",
               "en": "T10 encourage and guide the pupil in verbalising their thoughts and in practising the production of narrative, descriptive, instructional, and simple opinion texts, also in multimedia environments"
             },
-            "coreElements": ["S3"],
+            "coreElements": [
+              "S3"
+            ],
             "verbs": []
           },
           {
@@ -394,7 +446,9 @@
               "local": "T11 ohjata oppilasta edistämään käsinkirjoittamisen ja näppäintaitojen sujuvoitumista ja vahvistamaan kirjoitetun kielen, ja tekstien rakenteiden ja oikeinkirjoituksen hallintaa",
               "en": "T11 guide the pupil in improving the fluency of handwriting and typing skills and in strengthening their command of written language, text structures, and spelling"
             },
-            "coreElements": ["S3"],
+            "coreElements": [
+              "S3"
+            ],
             "verbs": []
           },
           {
@@ -403,7 +457,9 @@
               "local": "T12 kannustaa oppilasta kehittämään tekstin tuottamisen prosesseja ja taitoa arvioida omia tekstejä, tarjota mahdollisuuksia tekstien tuottamiseen yhdessä, rakentavan palautteen antamiseen ja saamiseen, ohjata ottamaan huomioon tekstin vastaanottaja sekä toimimaan eettisesti verkossa yksityisyyttä ja tekijänoikeuksia kunnioittaen",
               "en": "T12 encourage the pupil to develop text production processes and the skill of evaluating their own texts, provide opportunities for producing texts together, for giving and receiving constructive feedback, guide them in considering the audience of the text, and in acting ethically online while respecting privacy and copyright"
             },
-            "coreElements": ["S3"],
+            "coreElements": [
+              "S3"
+            ],
             "verbs": []
           },
           {
@@ -412,7 +468,9 @@
               "local": "T13 ohjata oppilasta vahvistamaan kielitietoisuuttaan, innostaa häntä tutkimaan ja tarkkailemaan kieltä ja sen eri variantteja ja harjaannuttaa käyttämään käsitteitä, joiden avulla kielestä ja sen rakenteista puhutaan ja auttaa ymmärtämään kielellisten valintojen vaikutuksia",
               "en": "T13 guide the pupil in strengthening their language awareness, inspire them to investigate and observe language and its different variants, train them to use concepts for discussing language and its structures, and help them understand the effects of linguistic choices"
             },
-            "coreElements": ["S4"],
+            "coreElements": [
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -421,7 +479,9 @@
               "local": "T14 kannustaa oppilasta laajentamaan tekstivalikoimaansa ja lukemaan lapsille ja nuorille suunnattua kirjallisuutta sekä rohkaista lukuharrastukseen ja lukuelämysten jakamiseen ja kirjaston aktiiviseen käyttöön",
               "en": "T14 encourage the pupil to expand their range of texts and to read literature aimed at children and young people, and encourage a reading hobby, the sharing of reading experiences, and active use of the library"
             },
-            "coreElements": ["S4"],
+            "coreElements": [
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -430,8 +490,56 @@
               "local": "T15 tukea oppilasta kielellisen ja kulttuurisen identiteetin rakentamisessa ja ohjata arvostamaan eri kulttuureja ja kieliä sekä luoda oppilaalle mahdollisuuksia media- ja kulttuuritarjontaan tutustumiseen sekä oman kulttuurin tuottamiseen",
               "en": "T15 support the pupil in building their linguistic and cultural identity and guide them in appreciating different cultures and languages, as well as create opportunities for the pupil to become acquainted with media and cultural offerings and to produce their own culture"
             },
-            "coreElements": ["S4"],
+            "coreElements": [
+              "S4"
+            ],
             "verbs": []
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "5",
+            "label": {
+              "local": "Arvosana 5 (välttävä)",
+              "en": "Grade 5 (passable)"
+            },
+            "text": {
+              "local": "Toiminta vuorovaikutustilanteissa: Oppilas osaa toimia itselleen tutuissa ja epämuodollisissa vuorovaikutustilanteissa. Oppilas osaa ilmaista ajatuksiaan vastaamalla esitettyihin kysymyksiin.\nRyhmäviestinnän taidot: Oppilas osaa kuunnella muita ja osallistuu keskusteluun asiallisesti.\nEsiintymisen taidot: Oppilas osaa pitää lyhyen ja yksinkertaisen puhe-esityksen konkreettisesta, itselleen tutusta aiheesta apukysymysten avulla. Oppilas osaa ilmaista itseään ymmärrettävästi.\nVuorovaikutustaitojen kehittäminen: Oppilas osaa nimetä jonkin viestinnällisen vahvuutensa tai kehittämiskohteensa.\nLukutaidon kehit-tyminen: Oppilas osaa lukea rakenteeltaan ja kieleltään yksinkertaisia tekstejä hitaasti. Oppilas osaa ohjatusti käyttää jotakin yksinkertaista tekstinymmärtämisen perusstrategiaa. Oppilas osaa nimetä jonkin yksittäisen kehittämiskohteensa lukijana.\nTekstien erittely ja ymmärtäminen: Oppilas osaa selostaa jotakin tekstin sisällöstä apukysymysten avulla. Oppilas osaa tunnistaa teksteistä itselleen uusia sanoja ja käsitteitä.\nOppilas osaa tunnistaa ohjatusti joitakin yksinkertaisille tekstilajeille tyypillisiä piirteitä.\nTiedonhankintataidot ja lähdekriittisyys: Oppilas osaa etsiä ohjatusti yksittäisiä tietoja annetuista lähteistä.\nLapsille ja nuorille tarkoitetun kirjallisuuden ja tekstien tuntemus ja lukukokemusten jakaminen: Oppilas osaa ohjatusti selostaa yksinkertaisen fiktiivisen tekstin juonen. Oppilas osaa apukysymysten avulla kertoa luku-, kuuntelu- ja katselukokemuksistaan.\nKokemusten, ajatusten ja mielipiteiden ilmaiseminen sekä tekstin tuottamisen taitojen kehittäminen: Oppilas osaa tuottaa mallien tai apukysymysten avulla tekstejä, joissa hän ilmaisee ajatuksiaan, kokemuksiaan tai mielipiteitään. Oppilas osaa ohjatusti nimetä jonkin yksittäisen kehittämiskohteensa tekstin tuottajana.\nTekstilajien hallinta: Oppilas osaa tuottaa mallien tai apukysymysten avulla yksinkertaisia kertovia tekstejä itselleen tutuista aiheista.\nKirjoitustaidon kehittyminen ja kirjoitetun kielen hallinta: Oppilas osaa kirjoittaa käsin sekä tieto- ja viestintäteknologiaa hyödyntäen lyhyitä yhtenäisiä tekstejä, joista saa selvää. Oppilas osaa käyttää yksinkertaisia virke- ja lauserakenteita sekä käyttää satunnaisesti virkkeen lopetusmerkkejä ja isoa alkukirjainta virkkeen alussa ja erisnimissä. Ilmaisussa on paljon puheenvaraisuutta.\nTekstin tuottamisen prosessin hallinta ja eettinen viestintä: Oppilas osaa ideoida ja tuottaa tekstiä mallien tai apukysymysten avulla. Oppilas osaa tehdä joitakin pintatason havaintoja omasta tekstistään.\nKielen tarkastelun kehittyminen: Oppilas osaa tehdä satunnaisia havaintoja joistakin kielenkäyttötilanteista. Oppilas osaa nimetä joitakin kielen ja tekstien piirteitä ja rakenteita.\nKirjallisuuden tuntemus ja tekstivalikoiman laajentaminen: Oppilas on lukenut jonkin lyhyen kaunokirjallisen teoksen ja ikäkaudelleen sopivan tietokirjan.\nKielitietoisuuden ja kulttuurin tuntemuksen kehittyminen: Oppilas osaa ohjatusti nimetä joitakin kielten ja kulttuuristen piirteiden yhtäläisyyksiä ja eroja. Oppilas osaa kertoa median ja kulttuuripalvelujen käytöstään.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "7",
+            "label": {
+              "local": "Arvosana 7 (tyydyttävä)",
+              "en": "Grade 7 (satisfactory)"
+            },
+            "text": {
+              "local": "Toiminta vuorovaikutustilanteissa: Oppilas osaa toimia tavanomaisissa vuorovaikutustilanteissa. Oppilas osaa ilmaista ajatuksiaan ja mielipiteitään.\nRyhmäviestinnän taidot: Oppilas osaa käyttää erilaisia kielellisiä keinoja osallistuessaan keskusteluun ryhmätilanteessa. Oppilas osaa mukauttaa viestintäänsä jonkin verran tilanteeseen sopivaksi.\nEsiintymisen taidot: Oppilas osaa pitää lyhyen valmistellun puhe-esityksen itselleen tutusta aiheesta. Oppilas osaa käyttää joitakin kokonaisilmaisun keinoja esiintyessään.\nVuorovaikutustaitojen kehittäminen: Oppilas osaa kuvata itseään viestijänä ja nimetä muutaman vahvuutensa ja kehittämiskohteen.\nLukutaidon kehit-tyminen: Oppilas osaa lukea rakenteeltaan ja kieleltään yksinkertaisia tekstejä melko sujuvasti. Oppilas osaa käyttää jotakin yksinkertaista tekstinymmärtämisen perusstrategiaa. Oppilas osaa tarkkailla omaa lukemistaan ja kuvata itseään lukijana.\nTekstien erittely ja ymmärtäminen: Oppilas osaa erottaa tekstin pääasioita ja nimetä ohjatusti tekstin jonkin tavoitteen. Oppilas osaa ohjatusti päätellä itselleen uusien sanojen ja käsitteiden merkityksiä. Oppilas osaa tehdä ohjatusti havaintoja kertovien, kuvaavien, ohjaavien ja yksinkertaisten kantaa ottavien tekstien joistakin kielellisistä ja visuaalisista piirteistä.\nTiedonhankintataidot ja lähdekriittisyys: Oppilas osaa käyttää lähteenä eri tekstiympäristöjä sekä hakea ohjatusti tietoa niistä. Oppilas osaa ohjatusti tehdä havaintoja käyttämiensä lähteiden luotettavuudesta.\nLapsille ja nuorille tarkoitetun kirjallisuuden ja tekstien tuntemus ja lukukokemusten jakaminen: Oppilas osaa kuvailla fiktiivisten tekstien piirteitä käyttämällä käsitteitä juoni ja henkilö. Oppilas osaa kuvata pintapuolisesti luku-, kuuntelu- ja katselukokemuksiaan.\nKokemusten, ajatusten ja mielipiteiden ilmaiseminen sekä tekstin tuottamisen taitojen kehittäminen: Oppilas osaa ohjatusti tuottaa tekstejä, joissa hän ilmaisee kokemuksiaan, ajatuksiaan ja mielipiteitään ymmärrettävästi. Oppilas osaa kuvata itseään tekstin tuottajana ja nimetä jonkin vahvuuden ja kehittämiskohteen.\nTekstilajien hallinta: Oppilas osaa tuottaa ohjatusti kertovia, kuvaavia ja ohjaavia tekstejä sekä käyttää joitakin niille tyypillisiä ilmaisutapoja.\nKirjoitustaidon kehittyminen ja kirjoitetun kielen hallinta: Oppilas osaa kirjoittaa tekstejä melko sujuvasti sekä käsin kirjoittaen että tieto- ja viestintäteknologiaa hyödyntäen. Oppilas osaa ohjatusti otsikoida tekstinsä, muotoilla virkkeitä ja käyttää muutamia erilaisia lauserakenteita sekä noudattaa joitakin kirjoitetun yleiskielen käytänteitä.\nTekstin tuottamisen prosessin hallinta ja eettinen viestintä: Oppilas osaa ohjatusti suunnitella ja tuottaa tekstiä sekä yksin että ryhmässä. Oppilas osaa tehdä ohjatusti havaintoja omasta tekstistään. Hän osaa antaa niukkaa palautetta toisten teksteistä. Oppilas osaa käyttää mekaanisesti lähteitä. Oppilas noudattaa ohjatusti tekijänoikeuksia.\nKielen tarkastelun kehittyminen: Oppilas osaa tehdä havaintoja erilaisista kielenkäyttötilanteista. Oppilas osaa nimetä useita kielen ja tekstien piirteitä ja rakenteita.\nKirjallisuuden tuntemus ja tekstivalikoiman laajentaminen: Oppilas on lukenut osan sovituista kaunokirjallisista ja tietoteoksista. Oppilas pitäytyy itselleen tutuissa tekstilajeissa. Oppilas osaa käyttää kirjastopalveluja ohjatusti.\nKielitietoisuuden ja kulttuurin tuntemuksen kehittyminen: Oppilas osaa nimetä useita kielten ja kulttuuristen piirteiden yhtäläisyyksiä ja eroja. Oppilas osaa kuvata itseään kiinnostavaa media- ja kulttuuritarjontaa.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "8",
+            "label": {
+              "local": "Arvosana 8 (hyvä)",
+              "en": "Grade 8 (good)"
+            },
+            "text": {
+              "local": "Toiminta vuorovaikutustilanteissa: Oppilas osaa toimia erilaisissa vuorovaikutustilanteissa. Oppilas osaa ilmaista ajatuksiaan ja mielipiteitään sekä esittää mielipiteelleen joitakin perusteluja.\nRyhmäviestinnän taidot: Oppilas osaa hyödyntää kielellisten keinojen lisäksi äänenkäytön, viestien kohdentamisen ja kontaktinoton taitoja erilaisissa ryhmätilanteissa.\nOppilas osaa mukauttaa viestintäänsä ryhmätilanteeseen sopivaksi ja ottaa muut osallistujat huomioon.\nEsiintymisen taidot: Oppilas osaa pitää lyhyen valmistellun puhe-esityksen. Oppilas osaa käyttää kokonaisilmaisun keinoja esiintyessään.\nVuorovaikutustaitojen kehittäminen: Oppilas osaa kuvata vahvuuksiaan ja kehittämiskohteitaan viestijänä. Oppilas osaa ottaa vastaan palautetta ja antaa niukkaa palautetta.\nLukutaidon kehit-tyminen: Oppilas osaa lukea ikätasolleen sopivia tekstejä sujuvasti. Oppilas osaa käyttää tavallisimpia tekstinymmärtämisen perusstrategioita. Oppilas osaa tarkkailla ja arvioida itseään lukijana.\nTekstien erittely ja ymmärtäminen: Oppilas osaa ohjatusti tehdä havaintoja tekstin rakentamista merkityksistä ja pohtia sen tavoitteita.  Oppilas osaa päätellä itselleen uusien sanojen ja käsitteiden merkityksiä. Oppilas osaa kuvata ohjatusti tavallisimpien kertovien, kuvaavien, ohjaavien ja yksinkertaisten kantaa ottavien tekstien keskeisiä kielellisiä, visuaalisia ja \ntekstuaalisia piirteitä.\nTiedonhankintataidot ja lähdekriittisyys: Oppilas osaa käyttää erilaisia lähteitä sekä hakea tietoa niistä. Oppilas osaa nimetä joitakin lähteiden luotettavuuteen liittyviä piirteitä.\nLapsille ja nuorille tarkoitetun kirjallisuuden ja tekstien tuntemus ja lukukokemusten jakaminen: Oppilas osaa eritellä fiktiivisiä tekstejä käyttämällä käsitteitä juoni, henkilö, kertoja sekä tapahtumapaikka ja -aika. Oppilas osaa kuvata luku-, kuuntelu- ja katselukokemuksiaan.\nKokemusten, ajatusten ja mielipiteiden ilmaiseminen sekä tekstin tuottamisen taitojen kehittäminen: Oppilas osaa tuottaa ajatuksiaan, kokemuksiaan ja mielipiteitään ilmaisevia tekstejä. Oppilas osaa eritellä vahvuuksiaan ja kehittämiskohteitaan tekstin tuottajana.\nTekstilajien hallinta: Oppilas osaa ohjatusti käyttää kertoville, kuvaaville, ohjaaville ja yksinkertaisille kantaa ottaville teksteille tyypillisiä ilmaisutapoja.\nKirjoitustaidon kehittyminen ja kirjoitetun kielen hallinta: Oppilas osaa kirjoittaa tekstejä sujuvasti sekä käsin että tieto- ja viestintäteknologiaa hyödyntäen. Oppilas osaa ohjatusti otsikoida ja jaksottaa tekstinsä sekä hallitsee keskeiset kirjoitetun yleiskielen käytänteet.\nTekstin tuottamisen prosessin hallinta ja eettinen viestintä: Oppilas osaa ohjatusti muokata tekstiään palautteen pohjalta. Oppilas osaa arvioida omia tekstejään sekä antaa ja vastaanottaa palautetta teksteistä. Oppilas osaa ohjatusti käyttää lähteitä. Oppilas noudattaa tekijänoikeuksia.\nKielen tarkastelun kehittyminen: Oppilas osaa tehdä havaintoja kielellisten valintojen vaikutuksista eri tilanteissa. Oppilas osaa kuvailla sopivien käsitteiden avulla erilaisissa tilanteissa tuotettujen kielen ja tekstien piirteitä ja rakenteita.\nKirjallisuuden tuntemus ja tekstivalikoiman laajentaminen: Oppilas on lukenut sovitut kaunokirjalliset ja tietoteokset. Oppilas osaa valita luettavakseen erilaisia ikäkaudelleen sopivia tekstejä. Oppilas osaa käyttää kirjastopalveluja itsenäisesti.\nKielitietoisuuden ja kulttuurin tuntemuksen kehittyminen: Oppilas osaa ohjatusti vertailla kielten ja kulttuuristen piirteiden yhtäläisyyksiä ja eroja. Oppilas osaa kuvata median ja kulttuurin roolia arjessaan.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "9",
+            "label": {
+              "local": "Arvosana 9 (kiitettävä)",
+              "en": "Grade 9 (excellent)"
+            },
+            "text": {
+              "local": "Toiminta vuorovaikutustilanteissa: Oppilas osaa toimia rakentavasti monenlaisissa vuorovaikutustilanteissa. Oppilas osaa ilmaista mielipiteitään ja perustella niitä tilanteeseen sopivalla tavalla.\nRyhmäviestinnän taidot: Oppilas osaa mukauttaa kielellisiä ja viestinnällisiä keinojaan tilanteeseen sopivalla tavalla. Oppilas osaa toimia rakentavasti ryhmässä ja ottaa muiden näkemykset huomioon keskustellessaan.\nEsiintymisen taidot: Oppilas osaa pitää valmistellun puhe-esityksen. Oppilas osaa käyttää monipuolisesti kokonaisilmaisun keinoja esiintyessään.\nVuorovaikutustaitojen kehittäminen: Oppilas osaa arvioida omia viestintätaitojaan. Oppilas osaa ottaa vastaan ja hyödyntää palautetta omasta toiminnastaan sekä antaa monipuolista palautetta.\nLukutaidon kehit-tyminen: Oppilas osaa lukea monenlaisia ikä-tasolleen sopivia tekstejä sujuvasti. Oppilas osaa käyttää tekstinymmärtämisen perusstrategioita monipuolisesti ja tarkoituksenmukaisesti.\nTekstien erittely ja ymmärtäminen: Oppilas osaa tehdä havaintoja tekstin rakentamista merkityksistä ja pohtia sen tavoitteita.\nTiedonhankintataidot ja lähdekriittisyys: Oppilas osaa käyttää monipuolisesti erilaisia lähteitä.\nLapsille ja nuorille tarkoitetun kirjallisuuden ja tekstien tuntemus ja lukukokemusten jakaminen: Oppilas osaa eritellä fiktiivisiä tekstejä käyttämällä tarkoituksenmukaisia käsitteitä. Oppilas osaa kuvata monipuolisesti ja pohtia luku-, kuuntelu- ja katselukokemuksiaan.\nKokemusten, ajatusten ja mielipiteiden ilmaiseminen sekä tekstin tuottamisen taitojen kehittäminen: Oppilas osaa tuottaa monipuolisesti ja sujuvasti kokemuksiaan, ajatuksiaan ja mielipiteitään ilmaisevia tekstejä. Oppilas osaa arvioida realistisesti itseään tekstin tuottajana.\nTekstilajien hallinta: Oppilas osaa käyttää tarkoituksenmukaisesti kertoville, kuvaaville, oh-jaaville ja yksinkertaisille kantaa ottaville teksteille tyypillisiä ilmaisutapoja.\nKirjoitustaidon kehittyminen ja kirjoitetun kielen hallinta: Oppilas osaa kirjoittaa sujuvasti ja selkeästi käsin sekä tuottaa tekstiä tieto- ja viestintäteknologiaa hyödyntäen. Oppilas osaa otsikoida ja jaksottaa tekstinsä tarkoituksenmukaisella tavalla ja hallitsee kirjoitetun yleiskielen käytänteitä.\nTekstin tuottamisen prosessin hallinta ja eettinen viestintä: Oppilas osaa muokata tekstinsä rakennetta ja kieltä. Oppilas osaa arvioida omia tekstejään ja vastaanottaa palautetta sekä antaa rakentavaa palautetta muiden teksteistä. Oppilas osaa käyttää lähteitä tarkoituksenmukaisella tavalla.\nKielen tarkastelun kehittyminen: Oppilas osaa tehdä monipuolisia havaintoja kielellisten valintojen vaikutuksista suhteessa kielenkäyttötilanteen tavoitteeseen. Oppilas osaa kuvailla monipuolisesti sopivien käsitteiden avulla erilaisissa tilanteissa tuotettujen kielen ja tekstien piirteitä ja rakenteita.\nKirjallisuuden tuntemus ja tekstivalikoiman laajentaminen: Oppilas osaa valita luettavakseen myös itselleen uudenlaisia tekstejä. Oppilas osaa käyttää kirjastopalveluja monipuolisesti.\nKielitietoisuuden ja kulttuurin tuntemuksen kehittyminen: Oppilas osaa pohtia eri kielten ja kulttuuristen piirteiden yhtäläisyyksiä ja eroja. Oppilas osaa pohtia media- ja kulttuuritarjonnan merkitystä omaa kokemustaan laajemmin.",
+              "en": ""
+            }
           }
         ]
       },
@@ -448,7 +556,9 @@
               "local": "T1 ohjata oppilasta laajentamaan taitoaan toimia tavoitteellisesti, motivoituneesti, eettisesti ja rakentavasti erilaisissa viestintäympäristöissä",
               "en": "T1 guide the pupil in expanding their skill to act purposefully, with motivation, ethically, and constructively in various communication environments"
             },
-            "coreElements": ["S1"],
+            "coreElements": [
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -457,7 +567,9 @@
               "local": "T2 kannustaa oppilasta monipuolistamaan ryhmäviestintätaitojaan ja kehittämään taitojaan perustella näkemyksiään sekä kielellisiä ja viestinnällisiä valintojaan",
               "en": "T2 encourage the pupil to diversify their group communication skills and to develop their skills in justifying their views as well as their linguistic and communicative choices"
             },
-            "coreElements": ["S1"],
+            "coreElements": [
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -466,7 +578,9 @@
               "local": "T3 ohjata oppilasta monipuolistamaan taitojaan ilmaista itseään erilaisissa viestintä- ja esitystilanteissa, myös draaman keinoin.",
               "en": "T3 guide the pupil in diversifying their skills in expressing themselves in various communication and presentation situations, also through drama."
             },
-            "coreElements": ["S1"],
+            "coreElements": [
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -475,7 +589,9 @@
               "local": "T4 kannustaa oppilasta syventämään viestijäkuvaansa niin, että hän oppii havainnoimaan omaa viestintäänsä, tunnistamaan vahvuuksiaan sekä kehittämisalueitaan erilaisissa, myös monimediaisissa viestintäympäristöissä",
               "en": "T4 encourage the pupil to deepen their communicator identity so that they learn to observe their own communication, identify their strengths and areas for development in various communication environments, including multimedia ones"
             },
-            "coreElements": ["S1"],
+            "coreElements": [
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -484,7 +600,9 @@
               "local": "T5 ohjata oppilasta kehittämään tekstien ymmärtämisessä, tulkinnassa ja analysoimisessa tarvittavia strategioita ja metakognitiivisia taitoja sekä taitoa arvioida oman lukemisensa kehittämistarpeita",
               "en": "T5 guide the pupil in developing strategies and metacognitive skills needed for understanding, interpreting, and analysing texts, as well as the skill to evaluate the development needs of their own reading"
             },
-            "coreElements": ["S2"],
+            "coreElements": [
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -493,7 +611,9 @@
               "local": "T6 tarjota oppilaalle monipuolisia mahdollisuuksia valita, käyttää, tulkita ja arvioida monimuotoisia kaunokirjallisia, asia- ja mediatekstejä",
               "en": "T6 provide the pupil with diverse opportunities to choose, use, interpret, and evaluate multimodal literary, non-fiction, and media texts"
             },
-            "coreElements": ["S2"],
+            "coreElements": [
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -502,7 +622,9 @@
               "local": "T7 ohjata oppilasta kehittämään erittelevää ja kriittistä lukutaitoa, harjaannuttaa oppilasta tekemään havaintoja teksteistä ja tulkitsemaan niitä tarkoituksenmukaisia käsitteitä käyttäen sekä vakiinnuttamaan ja laajentamaan sana- ja käsitevarantoa",
               "en": "T7 guide the pupil in developing analytical and critical literacy, train the pupil to make observations about texts and interpret them using appropriate concepts, and to consolidate and expand their vocabulary and range of concepts"
             },
-            "coreElements": ["S2"],
+            "coreElements": [
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -511,7 +633,9 @@
               "local": "T8 kannustaa oppilasta kehittämään taitoaan arvioida erilaisista lähteistä hankkimaansa tietoa ja käyttämään sitä tarkoituksenmukaisella tavalla",
               "en": "T8 encourage the pupil to develop their skill in evaluating information acquired from various sources and in using it appropriately"
             },
-            "coreElements": ["S2"],
+            "coreElements": [
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -520,7 +644,9 @@
               "local": "T9 kannustaa oppilasta laajentamaan kiinnostusta itselle uudenlaisia fiktiivisiä kirjallisuus- ja tekstilajityyppejä kohtaan ja monipuolistamaan luku-, kuuntelu- ja katselukokemuksiaan ja niiden jakamisen keinoja sekä syventämään ymmärrystä fiktion keinoista",
               "en": "T9 encourage the pupil to expand their interest towards fictional literature and text genres that are new to them, to diversify their reading, listening, and viewing experiences and the means of sharing them, and to deepen understanding of the devices of fiction"
             },
-            "coreElements": ["S2"],
+            "coreElements": [
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -529,7 +655,9 @@
               "local": "T10 rohkaista oppilasta ilmaisemaan ajatuksiaan kirjoittamalla ja tuottamalla monimuotoisia tekstejä sekä auttaa oppilasta tunnistamaan omia vahvuuksiaan ja kehittämiskohteitaan tekstin tuottajana",
               "en": "T10 encourage the pupil to express their thoughts by writing and producing multimodal texts, and help the pupil identify their own strengths and areas for development as a text producer"
             },
-            "coreElements": ["S3"],
+            "coreElements": [
+              "S3"
+            ],
             "verbs": []
           },
           {
@@ -538,7 +666,9 @@
               "local": "T11 tarjota oppilaalle tilaisuuksia tuottaa kertovia, kuvaavia, ohjaavia ja erityisesti kantaa ottavia ja pohtivia tekstejä, myös monimediaisissa ympäristöissä, ja auttaa oppilasta valitsemaan kuhunkin tekstilajiin ja tilanteeseen sopivia ilmaisutapoja",
               "en": "T11 provide the pupil with opportunities to produce narrative, descriptive, instructional, and especially opinion and reflective texts, also in multimedia environments, and help the pupil choose modes of expression suitable for each text genre and situation"
             },
-            "coreElements": ["S3"],
+            "coreElements": [
+              "S3"
+            ],
             "verbs": []
           },
           {
@@ -547,7 +677,9 @@
               "local": "T12 ohjata oppilasta vahvistamaan tekstin tuottamisen prosesseja, tarjota oppilaalle tilaisuuksia tuottaa tekstiä yhdessä muiden kanssa sekä rohkaista oppilasta vahvistamaan taitoa antaa ja ottaa vastaan palautetta sekä arvioida itseään tekstin tuottajana",
               "en": "T12 guide the pupil in strengthening text production processes, provide the pupil with opportunities to produce text together with others, and encourage the pupil to strengthen the skill of giving and receiving feedback and evaluating themselves as a text producer"
             },
-            "coreElements": ["S3"],
+            "coreElements": [
+              "S3"
+            ],
             "verbs": []
           },
           {
@@ -556,7 +688,9 @@
               "local": "T13 ohjata oppilasta edistämään kirjoittamisen sujuvoittamista ja vahvistamaan tieto- ja viestintäteknologian käyttötaitoa tekstien tuottamisessa, syventämään ymmärrystään kirjoittamisesta viestintänä ja vahvistamaan yleiskielen hallintaa antamalla tietoa kirjoitetun kielen konventioista",
               "en": "T13 guide the pupil in improving writing fluency and strengthening the use of information and communication technology in text production, deepening their understanding of writing as communication, and strengthening their command of standard language by providing information about the conventions of written language"
             },
-            "coreElements": ["S3"],
+            "coreElements": [
+              "S3"
+            ],
             "verbs": []
           },
           {
@@ -565,7 +699,9 @@
               "local": "T14 harjaannuttaa oppilasta vahvistamaan tiedon hallinnan ja käyttämisen taitoja ja monipuolistamaan lähteiden käyttöä ja viittaustapojen hallintaa omassa tekstissä sekä opastaa oppilasta toimimaan eettisesti verkossa yksityisyyttä ja tekijänoikeuksia kunnioittaen",
               "en": "T14 train the pupil to strengthen information management and utilisation skills and to diversify source use and referencing in their own text, as well as instruct the pupil to act ethically online while respecting privacy and copyright"
             },
-            "coreElements": ["S3"],
+            "coreElements": [
+              "S3"
+            ],
             "verbs": []
           },
           {
@@ -574,7 +710,9 @@
               "local": "T15 ohjata oppilasta syventämään kielitietoisuuttaan ja kiinnostumaan kielen ilmiöistä, auttaa oppilasta tunnistamaan kielen rakenteita, eri rekistereitä, tyylipiirteitä ja sävyjä ja ymmärtämään kielellisten valintojen merkityksiä ja seurauksia",
               "en": "T15 guide the pupil in deepening their language awareness and in becoming interested in language phenomena, help the pupil identify language structures, different registers, stylistic features, and tones, and understand the meanings and consequences of linguistic choices"
             },
-            "coreElements": ["S4"],
+            "coreElements": [
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -583,7 +721,9 @@
               "local": "T16 kannustaa oppilasta avartamaan kirjallisuus- ja kulttuurinäkemystään, tutustuttaa häntä kirjallisuuden historiaan ja nykykirjallisuuteen, kirjallisuuden eri lajeihin sekä auttaa häntä pohtimaan kirjallisuuden ja kulttuurin merkitystä omassa elämässään, tarjota oppilaalle mahdollisuuksia luku- ja muiden kulttuurielämysten hankkimiseen ja jakamiseen",
               "en": "T16 encourage the pupil to broaden their view of literature and culture, introduce them to the history of literature and contemporary literature, different literary genres, and help them reflect on the significance of literature and culture in their own life, and provide the pupil with opportunities to acquire and share reading and other cultural experiences"
             },
-            "coreElements": ["S4"],
+            "coreElements": [
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -592,8 +732,56 @@
               "local": "T17 ohjata oppilas tutustumaan Suomen kielelliseen ja kulttuuriseen monimuotoisuuteen, suomen kielen taustaan ja piirteisiin ja auttaa oppilasta pohtimaan äidinkielen merkitystä sekä tiedostumaan omasta kielellisestä ja kulttuurisesta identiteetistään sekä innostaa oppilasta aktiiviseksi kulttuuritarjonnan käyttäjäksi ja tekijäksi",
               "en": "T17 guide the pupil in becoming acquainted with Finland's linguistic and cultural diversity, the background and features of the Finnish language, and help the pupil reflect on the significance of their mother tongue and become aware of their own linguistic and cultural identity, as well as inspire the pupil to become an active user and creator of cultural offerings"
             },
-            "coreElements": ["S4"],
+            "coreElements": [
+              "S4"
+            ],
             "verbs": []
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "5",
+            "label": {
+              "local": "Arvosana 5 (välttävä)",
+              "en": "Grade 5 (passable)"
+            },
+            "text": {
+              "local": "Toiminta  vuorovaikutusitilanteissa: Oppilas osaa toimia itselleen tutussa ryhmässä ja arkisissa vuorovaikutustilanteissa.\nRyhmäviestinnän taidot: Oppilas osaa kuunnella muita ja osallistuu keskusteluun. Oppilas osaa ilmaista mielipiteensä ja esittää sille jonkin perustelun.\nEsiintymisen taidot: Oppilas osaa pitää lyhyen puhe-esityksen konkreettisesta, itselleen tutusta aiheesta. Oppilas osaa ilmaista itseään ymmärrettävästi.\nVuorovaikutustaitojen kehittäminen: Oppilas osaa nimetä jonkin viestinnällisen vahvuutensa tai kehittämiskohteensa.\nTekstin ymmärtäminen ja omien vahvuuksien ja kehittämiskohteiden tunnistaminen: Oppilas osaa käyttää jotakin yksinkertaista tekstinymmärtämisen strategiaa. Oppilas osaa nimetä jonkin lukemiseen liittyvän vahvuutensa tai kehittämiskohteensa.\nTekstimaailman monipuolistuminen ja monilukutaito: Oppilas osaa lukea yksinkertaisia kaunokirjallisia, asia- ja mediatekstejä eri muodoissaan.\nAsia- ja mediatekstien erittely ja tulkinta: Oppilas osaa poimia tekstistä keskeisiä sisältöjä apukysymysten avulla. \nOppilas osaa nimetä muutaman yksinkertaiselle tekstilajille tyypillisen kielellisen tai tekstuaalisen piirteen.\nTiedonhankintataidot ja lähdekriittisyys: Oppilas osaa etsiä yksittäisiä tietoja annetuista lähteistä. Oppilas osaa nimetä muutaman lähteiden luotettavuuteen liittyvän piirteen.\nFiktiivisten tekstien erittely ja tulkinta: Oppilas osaa selostaa yksinkertaisen fiktiivisen tekstin juonen ja nimetä joitakin fiktion keinoja.\nMonimuotoisten tekstien tuottaminen ja tekstin tuottamisen taitojen kehittäminen: Oppilas osaa tuottaa mallien avulla yksinkertaisia tekstejä. Oppilas osaa nimetä jonkin vahvuutensa tai kehittämiskohteensa tekstin tuottajana.\nTekstilajien hallinta: Oppilas osaa tuottaa mallien avulla yksinkertaisia ja konkreettisia kertovia ja kuvaavia tekstejä itselleen tutuista aiheista.\nTekstin tuottamisen prosessien hallinta: Oppilas osaa ideoida ja tuottaa tekstiä mallien tai apukysymysten avulla. Oppilas osaa antaa niukkaa tai yksipuolista palautetta muiden teksteistä ja ottaa vastaan palautetta.\nYmmärrettävän tekstin tuottaminen ja kirjoitetun kielen konventioiden hallinta: Oppilas osaa tuottaa yksinkertaisen tekstin, jonka viestistä saa selvää. Oppilas osaa käyttää yksinkertaisia virke- ja lauserakenteita sekä pääosin virkkeen lopetusmerkkejä ja isoa alkukirjainta virkkeen alussa ja erisnimissä. Oppilas osaa kirjoittaa käsin ja tieto- ja viestintäteknologiaa hyödyntäen.\nTiedon esittäminen, hallinta sekä eettinen viestintä: Oppilas osaa tehdä yksinkertaisen tiivistyksen luetun, kuullun tai nähdyn pohjalta. Oppilas osaa käyttää lähteitä mekaanisesti ja yksinkertaisesti teksteissään. Oppilas noudattaa tekijänoikeuksia ja tietää, mitä yksityisyyden suojalla tarkoitetaan.\nKielitietoisuuden kehittyminen: Oppilas osaa havainnoida yksinkertaisia tekstien piirteitä. Oppilas osaa nimetä muutamia tavanomaisia kirjoitetun ja puhutun kielen sekä arki- ja yleiskielen eroja.\nKirjallisuuden tuntemus ja lukuharrastus: Oppilas osaa nimetä kirjallisuuden päälajit. Oppilas on lukenut muutamia kokonaisia kaunokirjallisia tekstejä, esimerkiksi novelleja.\nKielen merkityksen ja aseman hahmottaminen: Oppilas osaa nimetä Suomessa puhuttavia kieliä ja jonkin suomen sukukielen. Oppilas osaa nimetä jonkin suomen kielelle tyypillisen piirteen ja kertoa oman äidinkielensä merkityksestä itselleen.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "7",
+            "label": {
+              "local": "Arvosana 7 (tyydyttävä)",
+              "en": "Grade 7 (satisfactory)"
+            },
+            "text": {
+              "local": "Toiminta  vuorovaikutusitilanteissa: Oppilas osaa toimia tavoitteellisesti ryhmissä ja tavanomaisissa vuorovaikutustilanteissa.\nRyhmäviestinnän taidot: Oppilas osaa ottaa toisten näkemykset huomioon omassa viestinnäs-sään. Oppilas osaa ilmaista mielipiteensä asiallisesti ja esittää sille yksinkertaisia perusteluja.\nEsiintymisen taidot: Oppilas osaa pitää valmistellun yksinkertaisen puhe-esityksen. Oppilas osaa ilmaista itseään selkeästi.\nVuorovaikutustaitojen kehittäminen: Oppilas osaa kuvata itseään viestijänä ja nimetä muutamia vahvuuksiaan ja kehittämiskohteitaan.\nTekstin ymmärtäminen ja omien vahvuuksien ja kehittämiskohteiden tunnistaminen: Oppilas osaa käyttää muutamia tekstinymmärtämisen strategioita. Oppilas osaa kuvata itseään lukijana ja nimetä muutamia vahvuuksiaan ja kehittämiskohteitaan.\nTekstimaailman monipuolistuminen ja monilukutaito: Oppilas osaa valita, käyttää ja lukea erilaisia tekstejä mutta pitäytyy enimmäkseen itselleen tutuissa tekstilajeissa.\nAsia- ja mediatekstien erittely ja tulkinta: Oppilas osaa erottaa tekstin pääasiat ja kuvata tekstin tavoitteita. Oppilas osaa kuvata tavanomaisille tekstilajeille tyypillisiä kielellisiä ja tekstuaalisia piirteitä.\nTiedonhankintataidot ja lähdekriittisyys: Oppilas osaa käyttää tavanomaisia lähteitä ja hakea tietoa niistä. Oppilas osaa kuvata käyttämiensä lähteiden luotettavuutta.\nFiktiivisten tekstien erittely ja tulkinta: Oppilas osaa kuvailla fiktiivisen tekstin piirteitä ja tehdä havaintoja fiktion keinoista.\nMonimuotoisten tekstien tuottaminen ja tekstin tuottamisen taitojen kehittäminen: Oppilas osaa tuottaa erityyppisiä tekstejä ohjeiden mukaan. Oppilas osaa kuvata itseään tekstien tuottajana ja nimetä muutamia vahvuuksiaan ja kehittämiskohteitaan.\nTekstilajien hallinta: Oppilas osaa tuottaa ohjaavia ja yksinkertaisia kantaa ottavia tekstejä ja käyttää mallien avulla niille tyypillisiä keinoja.\nTekstin tuottamisen prosessien hallinta: Oppilas osaa suunnitella ja tuottaa tekstiä sekä yksin että ryhmässä. Oppilas osaa antaa palautetta ja hyödyntää saamaansa palautetta satunnaisesti tekstien tuottamisessa.\nYmmärrettävän tekstin tuottaminen ja kirjoitetun kielen konventioiden hallinta: Oppilas osaa tuottaa tekstin, jonka viesti välittyy pääosin helposti. Oppilas osaa jaksottaa tekstinsä ja kiinnittää huomiota virke- ja lauserakenteisiin sekä noudattaa useita kirjoitetun yleiskielen käytänteitä.\nTiedon esittäminen, hallinta sekä eettinen viestintä: Oppilas osaa tehdä yksinkertaisia muistiinpanoja ja merkitä käyttämänsä lähteet mallin mukaan.\nKielitietoisuuden kehittyminen: Oppilas osaa havainnoida tekstien ja kielen piirteitä. Oppilas osaa kuvata kielen vaihtelua eri kielenkäyttötilanteissa.\nKirjallisuuden tuntemus ja lukuharrastus: Oppilas osaa kuvailla kirjallisuuden päälajien tyypillisiä piirteitä. Oppilas osaa antaa esimerkkejä päälajeihin kuuluvista teoksista. Oppilas on lukenut osan lukuvuosittain sovituista teoksista.\nKielen merkityksen ja aseman hahmottaminen: Oppilas osaa kuvailla suomen kielen asemaa muiden kielten joukossa. Oppilas osaa nimetä keskeisiä suomen kielelle tyypillisiä piirteitä ja kuvailla äidinkielen merkitystä yksilölle.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "8",
+            "label": {
+              "local": "Arvosana 8 (hyvä)",
+              "en": "Grade 8 (good)"
+            },
+            "text": {
+              "local": "Toiminta  vuorovaikutusitilanteissa: Oppilas osaa toimia rakentavasti erilaisissa ryhmissä ja vuorovaikutustilanteissa.\nRyhmäviestinnän taidot: Oppilas osaa edistää puheenvuoroillaan keskustelua. Oppilas osaa ilmaista mielipiteensä selkeästi ja perustella sen melko monipuolisesti.\nEsiintymisen taidot: Oppilas osaa pitää valmistellun puhe-esityksen ja kohdentaa sen kuuli-joilleen. Oppilas osaa ilmaista itseään tilanteeseen sopivalla tavalla.\nVuorovaikutustaitojen kehittäminen: Oppilas osaa eritellä viestintätaitojaan sekä kuvata vahvuuksiaan ja kehittämiskohteitaan.\nTekstin ymmärtäminen ja omien vahvuuksien ja kehittämiskohteiden tunnistaminen: Oppilas osaa valita tekstilajiin sopivia tekstinymmärtämisen strategioita. Oppilas osaa eritellä lukutaitoaan ja kuvata vahvuuksiaan ja kehittämiskohteitaan.\nTekstimaailman monipuolistuminen ja monilukutaito: Oppilas osaa valita, käyttää ja tulkita eri tekstilajeja edustavia tekstejä.\nAsia- ja mediatekstien erittely ja tulkinta: Oppilas osaa eritellä tekstin tarkoitusperiä, kohderyhmiä ja merkityksiä. Oppilas osaa eritellä tekstilajien piirteitä ja kuvata niitä muutamien keskeisten käsitteiden avulla.\nTiedonhankintataidot ja lähdekriittisyys: Oppilas osaa kuvata tiedonhaun keskeiset vaiheet, etsiä erilaisia lähteitä ja hakea tietoa niistä. Oppilas osaa arvioida erilaisten lähteiden luotettavuutta ja käytettävyyttä.\nFiktiivisten tekstien erittely ja tulkinta: Oppilas osaa eritellä fiktiivisiä tekstejä eri muodoissaan.  Oppilas osaa käyttää erittelyssä muutamia keskeisiä käsitteitä sekä tunnistaa fiktion kielen ja ilmaisutapojen erityispiirteitä ja kerronnan keinoja.\nMonimuotoisten tekstien tuottaminen ja tekstin tuottamisen taitojen kehittäminen: Oppilas osaa tuottaa tavoitteen mukaisia tekstejä. Oppilas osaa eritellä vahvuuksiaan ja kehittämiskohteitaan tekstin tuottajana.\nTekstilajien hallinta: Oppilas osaa tuottaa pohtivia ja erilaisia kantaa ottavia tekstejä ja käyttää niille tyypillisiä keinoja.\nTekstin tuottamisen prosessien hallinta: Oppilas osaa muokata tekstin rakenteita ja kieliasua palautteen pohjalta. Oppilas osaa antaa rakentavaa palautetta ja hyödyntää saamaansa palautetta tekstin tuottamisen eri vaiheissa.\nYmmärrettävän tekstin tuottaminen ja kirjoitetun kielen konventioiden hallinta: Oppilas osaa tuottaa tekstin, joka on helposti ymmärrettävä ja sujuva. Oppilas osaa jäsentää tekstinsä ja kappaleensa loogisesti ja kiinnittää huomiota sananvalintoihin sekä noudattaa pääosin kirjoitetun yleiskielen käytänteitä tekstejä tuottaessaan ja muokatessaan. Oppilas osaa kirjoittaa sujuvasti käsin ja tieto- ja viestintäteknologiaa hyödyntäen.\nTiedon esittäminen, hallinta sekä eettinen viestintä: Oppilas osaa tehdä monipuolisia muistiinpanoja ja tiivistää hankkimaansa tietoa. Oppilas merkitsee lähteet asianmukaisella tavalla.\nKielitietoisuuden kehittyminen: Oppilas osaa eritellä eri rekisterien ja tyylien piirteitä. Oppilas osaa pohtia kielellisten ja tekstuaalisten valintojen merkityksiä ja vaikutuksia.\nKirjallisuuden tuntemus ja lukuharrastus: Oppilas osaa kuvailla kaunokirjallisuuden monimuotoisuutta. Oppilas osaa nimetä kirjallisuuden vaiheita ja yhdistää muutaman teoksen ja kirjailijan niihin. Oppilas on lukenut lukuvuosittain sovitut teokset.\nKielen merkityksen ja aseman hahmottaminen: Oppilas osaa kuvailla Suomen kielellistä ja kulttuurista moni-muotoisuutta. Oppilas osaa eritellä suomen kielelle tyypillisiä piirteitä ja pohtia äidinkielen yhteyttä identiteetteihin.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "9",
+            "label": {
+              "local": "Arvosana 9 (kiitettävä)",
+              "en": "Grade 9 (excellent)"
+            },
+            "text": {
+              "local": "Toiminta  vuorovaikutusitilanteissa: Oppilas osaa toimia rakentavasti monenlaisissa ryhmissä, myös vaativissa vuorovaikutustilanteissa.\nRyhmäviestinnän taidot: Oppilas osaa tulkita muiden puheenvuoroja ja niiden tavoitteita sekä säädellä omaa viestintäänsä tilanteen mukaan. Oppilas osaa ilmaista mielipiteensä tilanteeseen sopivalla tavalla ja perustella sen vakuuttavasti.\nEsiintymisen taidot: Oppilas osaa pitää valmistellun puhe-esityksen vaativastakin aiheesta. Oppilas osaa ilmaista itseään monipuolisesti ja mukauttaa ilmaisuaan kuulijoiden ja tavoitteen mukaan.\nVuorovaikutustaitojen kehittäminen: Oppilas osaa arvioida viestintätaitojaan ja vahvuuksiaan ja pohtia, miten voi taitojaan kehittää.\nTekstin ymmärtäminen ja omien vahvuuksien ja kehittämiskohteiden tunnistaminen: Oppilas osaa käyttää lukutilanteen kannalta tarkoituksenmukaisia teks-tinymmärtämisen strategioita. Oppilas osaa arvioida lukutaitojaan ja pohtia, miten voi niitä kehittää.\nTekstimaailman monipuolistuminen ja monilukutaito: Oppilas osaa valita, käyttää, tulkita ja arvioida myös itselleen uudenlaisia tekstejä.\nAsia- ja mediatekstien erittely ja tulkinta: Oppilas osaa tulkita ja pohtia tekstin rakentamia merkityksiä ja arvioida tekstin vaikutuksia. Oppilas osaa analysoida tekstilajien piirteitä tarkoituksenmukaisia käsitteitä käyttäen ja arvioida tekstiä suhteessa sen tavoitteisiin ja tarkoitusperiin.\nTiedonhankintataidot ja lähdekriittisyys: Oppilas osaa toimia tiedonhaun vaiheiden mukaisesti. Oppilas osaa käyttää monipuolisia lähteitä ja hakea niistä tietoa tarkoituksenmukaisella tavalla. Oppilas osaa pohtia lähteiden luotettavuuteen ja tiedon käytettävyyteen liittyviä tekijöitä ja perustella omat lähdevalintansa.\nFiktiivisten tekstien erittely ja tulkinta: Oppilas osaa analysoida fiktiivisiä tekstejä eri muodoissaan tarkoituksenmukaisia käsitteitä käyttäen. Oppilas osaa tulkita fiktiivisiä tekstejä ja pohtia fiktion monitulkintaisuutta.\nMonimuotoisten tekstien tuottaminen ja tekstin tuottamisen taitojen kehittäminen: Oppilas osaa tuottaa luovasti tilanteeseen ja tavoitteeseen sopivia tekstejä. Oppilas osaa arvioida vahvuuksiaan ja kehittämiskohteitaan tekstin tuottajana ja pohtia, miten voi taitojaan kehittää.\nTekstilajien hallinta: Oppilas osaa tuottaa itsenäisesti erilaisia tekstejä ja käyttää monipuolisesti niille tyypillisiä keinoja.\nTekstin tuottamisen prosessien hallinta: Oppilas osaa muokata monipuolisesti ja itsenäisesti tekstin ilmaisua ja rakenteita. Oppilas osaa antaa tekstien muokkaamista edistävää palautetta muiden teksteistä ja soveltaa saamaansa palautetta kehittäessään tekstin tuottamisen taitojaan.\nYmmärrettävän tekstin tuottaminen ja kirjoitetun kielen konventioiden hallinta: Oppilas osaa tuottaa eheän ja havainnollisen tekstin. Oppilas osaa käyttää sidosteisuuden keinoja monipuolisesti,  käyttää monipuolisia lause- ja virkerakenteita,  kiinnittää huomiota tekstin tyyliin sekä noudattaa kirjoitetun yleiskielen käytänteitä.\nTiedon esittäminen, hallinta sekä eettinen viestintä: Oppilas osaa yhdistellä omissa teksteissään useista lähteistä hankkimaansa tietoa.\nKielitietoisuuden kehittyminen: Oppilas osaa analysoida tekstien, rekisterien ja tyylien piirteitä. Oppilas osaa soveltaa tietoa kielellisten valintojen vaikutuksista omassa viestinnässään.\nKirjallisuuden tuntemus ja lukuharrastus: Oppilas osaa analysoida kaunokirjallisuuden monimuotoisuutta osana kulttuuria. Oppilas osaa kuvailla kirjallisuuden vaiheita sekä niiden keskeisiä tyylipiirteitä ja nimetä eri vaiheiden keskeisiä teoksia ja kirjailijoita. Oppilas tuntee monipuolisesti kirjallisuutta.\nKielen merkityksen ja aseman hahmottaminen: Oppilas osaa pohtia kielellisen ja kulttuurisen monimuotoisuuden merkityksiä yksilölle ja yhteiskunnalle. Oppilas osaa eritellä suomen kielelle tyypillisiä piirteitä suhteessa muihin kieliin ja pohtia äidinkielen käsitettä ja merkityksiä identiteettien rakentumisen kannalta.",
+              "en": ""
+            }
           }
         ]
       }

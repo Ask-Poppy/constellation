@@ -4,8 +4,12 @@
     "api": "https://eperusteet.opintopolku.fi/eperusteet-service/api/external/peruste/419550/perusopetus/oppiaineet/466346",
     "curriculum": "POPS 2014",
     "license": "Open Government Data (Finland)",
-    "lastSynced": "2026-03-03T08:58:55Z",
-    "aiEnriched": ["description.en", "interdisciplinaryThemes", "basicSkills"]
+    "lastSynced": "2026-03-03T16:02:16Z",
+    "aiEnriched": [
+      "description.en",
+      "interdisciplinaryThemes",
+      "basicSkills"
+    ]
   },
   "subject": {
     "code": "FY",
@@ -191,7 +195,14 @@
               "local": "T1 kannustaa ja innostaa oppilasta fysiikan opiskeluun",
               "en": "T1 encourage and inspire the pupil to study physics"
             },
-            "coreElements": ["S1", "S2", "S5", "S6", "S3", "S4"],
+            "coreElements": [
+              "S1",
+              "S2",
+              "S5",
+              "S6",
+              "S3",
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -200,7 +211,14 @@
               "local": "T2 ohjata ja kannustaa oppilasta tunnistamaan omaa fysiikan osaamistaan, asettamaan tavoitteita omalle työskentelylleen sekä työskentelemään pitkäjänteisesti",
               "en": "T2 guide and encourage the pupil to recognise their own physics competence, to set goals for their own work, and to work with perseverance"
             },
-            "coreElements": ["S1", "S2", "S5", "S6", "S3", "S4"],
+            "coreElements": [
+              "S1",
+              "S2",
+              "S5",
+              "S6",
+              "S3",
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -209,7 +227,14 @@
               "local": "T3 ohjata oppilasta ymmärtämään fysiikan osaamisen merkitystä omassa elämässä, elinympäristössä ja yhteiskunnassa",
               "en": "T3 guide the pupil to understand the significance of physics competence in their own life, living environment, and society"
             },
-            "coreElements": ["S1", "S2", "S5", "S6", "S3", "S4"],
+            "coreElements": [
+              "S1",
+              "S2",
+              "S5",
+              "S6",
+              "S3",
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -218,7 +243,14 @@
               "local": "T4 ohjata oppilasta käyttämään fysiikan osaamistaan kestävän tulevaisuuden rakentamisessa sekä arvioimaan omia valintojaan energiavarojen kestävän käytön kannalta",
               "en": "T4 guide the pupil to use their physics competence in building a sustainable future and to evaluate their own choices in terms of sustainable use of energy resources"
             },
-            "coreElements": ["S1", "S2", "S5", "S6", "S3", "S4"],
+            "coreElements": [
+              "S1",
+              "S2",
+              "S5",
+              "S6",
+              "S3",
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -227,7 +259,14 @@
               "local": "T5 kannustaa oppilasta muodostamaan kysymyksiä tarkasteltavista ilmiöistä sekä kehittämään kysymyksiä edelleen tutkimusten ja muun toiminnan lähtökohdiksi",
               "en": "T5 encourage the pupil to formulate questions about the phenomena under consideration and to further develop questions as starting points for investigations and other activities"
             },
-            "coreElements": ["S1", "S2", "S5", "S6", "S3", "S4"],
+            "coreElements": [
+              "S1",
+              "S2",
+              "S5",
+              "S6",
+              "S3",
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -236,7 +275,14 @@
               "local": "T6 ohjata oppilasta toteuttamaan kokeellisia tutkimuksia yhteistyössä muiden kanssa sekä työskentelemään turvallisesti ja johdonmukaisesti",
               "en": "T6 guide the pupil to carry out experimental investigations in cooperation with others and to work safely and systematically"
             },
-            "coreElements": ["S1", "S2", "S5", "S6", "S3", "S4"],
+            "coreElements": [
+              "S1",
+              "S2",
+              "S5",
+              "S6",
+              "S3",
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -245,7 +291,14 @@
               "local": "T7 ohjata oppilasta käsittelemään, tulkitsemaan ja esittämään omien tutkimustensa tuloksia sekä arvioimaan niitä ja koko tutkimusprosessia",
               "en": "T7 guide the pupil to process, interpret, and present the results of their own investigations and to evaluate them and the entire research process"
             },
-            "coreElements": ["S1", "S2", "S5", "S6", "S3", "S4"],
+            "coreElements": [
+              "S1",
+              "S2",
+              "S5",
+              "S6",
+              "S3",
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -254,7 +307,14 @@
               "local": "T8 ohjata oppilasta ymmärtämään teknologisten sovellusten toimintaperiaatteita ja merkitystä sekä innostaa osallistumaan yksinkertaisten teknologisten ratkaisujen ideointiin, suunnitteluun, kehittämiseen ja soveltamiseen yhteistyössä muiden kanssa",
               "en": "T8 guide the pupil to understand the operating principles and significance of technological applications and to inspire participation in the ideation, planning, development, and application of simple technological solutions in cooperation with others"
             },
-            "coreElements": ["S1", "S2", "S5", "S6", "S3", "S4"],
+            "coreElements": [
+              "S1",
+              "S2",
+              "S5",
+              "S6",
+              "S3",
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -263,7 +323,14 @@
               "local": "T9 opastaa oppilasta käyttämään tieto- ja viestintäteknologiaa tiedon ja mittaustulosten hankkimiseen, käsittelemiseen ja esittämiseen sekä tukea oppilaan oppimista havainnollistavien simulaatioiden avulla",
               "en": "T9 instruct the pupil to use information and communication technology for acquiring, processing, and presenting information and measurement results, and to support the pupil's learning through illustrative simulations"
             },
-            "coreElements": ["S1", "S2", "S5", "S6", "S3", "S4"],
+            "coreElements": [
+              "S1",
+              "S2",
+              "S5",
+              "S6",
+              "S3",
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -272,7 +339,14 @@
               "local": "T10 ohjata oppilasta käyttämään fysiikan käsitteitä täsmällisesti sekä jäsentämään omia käsiterakenteitaan kohti luonnontieteellisten teorioiden mukaisia käsityksiä",
               "en": "T10 guide the pupil to use physics concepts precisely and to structure their own conceptual frameworks towards conceptions consistent with scientific theories"
             },
-            "coreElements": ["S1", "S2", "S5", "S6", "S3", "S4"],
+            "coreElements": [
+              "S1",
+              "S2",
+              "S5",
+              "S6",
+              "S3",
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -281,7 +355,14 @@
               "local": "T11 ohjata oppilasta käyttämään erilaisia malleja ilmiöiden kuvaamisessa ja selittämisessä sekä ennusteiden tekemisessä",
               "en": "T11 guide the pupil to use various models in describing and explaining phenomena and in making predictions"
             },
-            "coreElements": ["S1", "S2", "S5", "S6", "S3", "S4"],
+            "coreElements": [
+              "S1",
+              "S2",
+              "S5",
+              "S6",
+              "S3",
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -290,7 +371,14 @@
               "local": "T12 ohjata oppilasta käyttämään ja arvioimaan kriittisesti eri tietolähteitä sekä ilmaisemaan ja perustelemaan erilaisia näkemyksiä fysiikalle ominaisella tavalla",
               "en": "T12 guide the pupil to use and critically evaluate different sources of information and to express and justify various viewpoints in a manner characteristic of physics"
             },
-            "coreElements": ["S1", "S2", "S5", "S6", "S3", "S4"],
+            "coreElements": [
+              "S1",
+              "S2",
+              "S5",
+              "S6",
+              "S3",
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -299,7 +387,14 @@
               "local": "T13 ohjata oppilasta hahmottamaan luonnontieteellisen tiedon luonnetta ja kehittymistä sekä tieteellisiä tapoja tuottaa tietoa",
               "en": "T13 guide the pupil to understand the nature and development of scientific knowledge and scientific ways of producing knowledge"
             },
-            "coreElements": ["S1", "S2", "S5", "S6", "S3", "S4"],
+            "coreElements": [
+              "S1",
+              "S2",
+              "S5",
+              "S6",
+              "S3",
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -308,7 +403,10 @@
               "local": "T14 ohjata oppilasta saavuttamaan riittävät tiedolliset valmiudet jatko-opintoja varten vuorovaikutuksesta ja liikkeestä sekä sähköstä",
               "en": "T14 guide the pupil to achieve sufficient knowledge for further studies regarding interactions, motion, and electricity"
             },
-            "coreElements": ["S5", "S6"],
+            "coreElements": [
+              "S5",
+              "S6"
+            ],
             "verbs": []
           },
           {
@@ -317,8 +415,61 @@
               "local": "T15 ohjata oppilasta soveltamaan fysiikan tietojaan ja taitojaan monialaisissa oppimiskokonaisuuksissa sekä tarjota mahdollisuuksia tutustua fysiikan soveltamiseen erilaisissa tilanteissa kuten luonnossa, elinkeinoelämässä, järjestöissä tai tiedeyhteisöissä",
               "en": "T15 guide the pupil to apply their physics knowledge and skills in multidisciplinary learning modules and to offer opportunities to explore the application of physics in various contexts such as nature, business, organisations, or the scientific community"
             },
-            "coreElements": ["S1", "S2", "S5", "S6", "S3", "S4"],
+            "coreElements": [
+              "S1",
+              "S2",
+              "S5",
+              "S6",
+              "S3",
+              "S4"
+            ],
             "verbs": []
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "5",
+            "label": {
+              "local": "Arvosana 5 (välttävä)",
+              "en": "Grade 5 (passable)"
+            },
+            "text": {
+              "local": "Fysiikan merkityksen ymmärtäminen: Oppilas tunnistaa joidenkin ilmiöiden liittymisen fysiikkaan sekä fysiikan osaamisen merkityksen joissakin ammateissa.\nKestävän kehityksen tiedot ja taidot fysiikan kannalta: Oppilas osaa antaa esimerkkejä omista valinnoistaan, joilla on merkitystä energiavarojen kestävän käytön kannalta.\nKysymysten muodostaminen sekä tutkimusten ja muun toiminnan suunnittelu: Oppilas tunnistaa ilmiöitä, joihin liittyen voidaan kehittää tutkimuskysymyksiä.\nKokeellisen tutkimuksen toteuttaminen: Oppilas osallistuu kokeelliseen työskentelyyn havainnoimalla tutkimusten toteuttamista työturvallisuusnäkökohdat huomioon ottaen ja pystyy kertomaan havainnoistaan.\nTutkimusten tulosten käsittely, esittäminen ja arviointi: Oppilas kuvailee tehtyä tutkimusta ja sen tuloksia tukeutumalla tutkimuksessa kerättyyn tietoon tai tehtyihin havaintoihin.\nTeknologinen osaaminen ja yhteistyö teknologisessa ongelmanratkaisussa: Oppilas tunnistaa teknologisten sovellusten merkityksen omassa elämässään ja osaa nimetä niistä muutamia esimerkkejä, joissa on sovellettu fysiikkaa.\nTieto- ja viestintäteknologian käyttö: Oppilas käyttää ohjatusti tieto- ja viestintäteknologiaa tiedon hankkimiseen.\n\nOppilas tutustuu johonkin oppimista tukevaan simulaatioon.\nKäsitteiden käyttö ja jäsentyminen: Oppilas selittää fysiikan ilmiöitä käyttäen joitakin fysiikan käsitteitä.\nMallien käyttäminen: Oppilas osaa antaa joitakin esimerkkejä ilmiöiden kuvaamisessa käytetyistä malleista.\nArgumentointitaidot ja tietolähteiden käyttäminen: Oppilas hakee tietoa erilaisista tietolähteistä ohjatusti.\nLuonnontieteellisen tiedon luonteen ja tiedon tuottamistavan hahmottaminen: Oppilas tunnistaa kokeellisuuden fysiikan tapana tuottaa luonnontieteellistä tietoa.\nTiedollisten jatko-opintovalmiuksien saavuttaminen vuorovaikutuksesta ja liikkeestä sekä sähköstä: Oppilas tunnistaa joitakin vuorovaikutukseen ja liikkeeseen sekä sähköön liittyviä käsitteitä, ilmiöitä ja suureita tutuissa tilanteissa.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "7",
+            "label": {
+              "local": "Arvosana 7 (tyydyttävä)",
+              "en": "Grade 7 (satisfactory)"
+            },
+            "text": {
+              "local": "Fysiikan merkityksen ymmärtäminen: Oppilas osaa antaa esimerkkejä arkisista tilanteista, joissa tarvitaan fysiikan tietoja ja taitoja.\n\nOppilas osaa nimetä ammatteja, joissa tarvitaan fysiikan osaamista.\nKestävän kehityksen tiedot ja taidot fysiikan kannalta: Oppilas osaa antaa esimerkkejä tilanteista, joissa fysiikkaa tarvitaan kestävän tulevaisuuden rakentamisessa.\n\nOppilas osaa nimetä joitakin hyviä ratkaisuja energiavarojen kestävän käytön kannalta.\nKysymysten muodostaminen sekä tutkimusten ja muun toiminnan suunnittelu: Oppilas muodostaa tarkasteltavaan aihepiiriin liittyviä yksinkertaisia kysymyksiä, joita voidaan kehittää tutkimusten lähtökohdiksi.\nKokeellisen tutkimuksen toteuttaminen: Oppilas osaa tehdä havaintoja ja mittauksia suunnitelmaa noudattaen, tarvittaessa ohjatusti.\n\nOppilas työskentelee turvallisesti muiden kanssa.\nTutkimusten tulosten käsittely, esittäminen ja arviointi: Oppilas käsittelee tutkimuksessa kerättyä tietoa, esittää tutkimusten tuloksia ohjeiden mukaisesti ja tekee yksinkertaisia johtopäätöksiä.\n\nOppilas osaa antaa esimerkkejä tulosten oikeellisuuteen ja luotettavuuteen vaikuttavista tekijöistä.\nTeknologinen osaaminen ja yhteistyö teknologisessa ongelmanratkaisussa: Oppilas osaa antaa esimerkkejä fysiikan soveltamisesta teknologiassa ja kuvailla näiden käyttöä.\n\nOppilas osallistuu teknologisen ongelmanratkaisun ideointiin ja suunnitteluun.\nTieto- ja viestintäteknologian käyttö: Oppilas käyttää tieto- ja viestintäteknologiaa tiedon hankkimiseen ja esittämiseen ohjeiden mukaisesti.\n\nOppilas osaa tehdä havaintoja simulaatiosta.\nKäsitteiden käyttö ja jäsentyminen: Oppilas selittää fysiikan ilmiöitä käyttäen fysiikan keskeisiä käsitteitä.\nMallien käyttäminen: Oppilas käyttää yksinkertaisia malleja ilmiöiden kuvaamiseen ja ennusteiden tekemiseen.\nArgumentointitaidot ja tietolähteiden käyttäminen: Oppilas hakee tietoa erilaisista tietolähteistä.\n\nOppilas osaa ilmaista erilaisia näkökulmia ja harjoittelee perustelemaan niitä fysiikalle ominaisella tavalla.\nLuonnontieteellisen tiedon luonteen ja tiedon tuottamistavan hahmottaminen: Oppilas osaa antaa esimerkkejä luonnontieteellisen tiedon kehittymisestä ja tieteellisistä tavoista tuottaa tietoa.\nTiedollisten jatko-opintovalmiuksien saavuttaminen vuorovaikutuksesta ja liikkeestä sekä sähköstä: Oppilas osaa käyttää joitakin vuorovaikutuksen ja liikkeen sekä sähkön keskeisiä käsitteitä, olioita, ilmiöitä, ominaisuuksia, suureita, malleja ja lakeja tutuissa tilanteissa.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "8",
+            "label": {
+              "local": "Arvosana 8 (hyvä)",
+              "en": "Grade 8 (good)"
+            },
+            "text": {
+              "local": "Fysiikan merkityksen ymmärtäminen: Oppilas selittää esimerkkien avulla, millaisista fysiikan tiedoista ja taidoista on hyötyä omassa elinympäristössä.\n\nOppilas osaa antaa esimerkkejä fysiikan osaamisen merkityksestä eri ammateissa ja jatko-opinnoissa.\nKestävän kehityksen tiedot ja taidot fysiikan kannalta: Oppilas osaa kuvata esimerkkien avulla, miten fysiikkaa käytetään kestävän tulevaisuuden rakentamisessa.\n\nOppilas osaa vertailla erilaisia ratkaisuja energiavarojen kestävän käytön kannalta.\nKysymysten muodostaminen sekä tutkimusten ja muun toiminnan suunnittelu: Oppilas muodostaa täsmennettyjä kysymyksiä tarkasteltavien ilmiöiden tutkimiseksi esimerkiksi rajaamalla muuttujia.\nKokeellisen tutkimuksen toteuttaminen: Oppilas työskentelee turvallisesti sekä tekee havaintoja ja mittauksia ohjeiden tai suunnitelman mukaan.\n\nOppilas työskentelee yhteistyössä muiden kanssa.\nTutkimusten tulosten käsittely, esittäminen ja arviointi: Oppilas käsittelee ja esittää tutkimusten tuloksia sekä tekee johtopäätöksiä.\n\nOppilas osaa antaa esimerkkejä tulosten oikeellisuuteen ja luotettavuuteen sekä tutkimusprosessin toimivuuteen vaikuttavista tekijöistä.\nTeknologinen osaaminen ja yhteistyö teknologisessa ongelmanratkaisussa: Oppilas osaa kuvata fysiikkaa soveltavia teknologisia sovelluksia ja selittää niiden toimintaperiaatteita.\n\nOppilas työskentelee yhteistyössä muiden kanssa yksinkertaisen fysiikkaa soveltavan teknologisen ratkaisun ideoinnissa, suunnittelussa, kehittämisessä ja soveltamisessa.\nTieto- ja viestintäteknologian käyttö: Oppilas käyttää tieto- ja viestintäteknologisia välineitä tai sovelluksia tiedon ja mittaustulosten hankkimiseen, käsittelemiseen ja esittämiseen.\n\nOppilas osaa tehdä havaintoja ja johtopäätöksiä simulaatiosta.\nKäsitteiden käyttö ja jäsentyminen: Oppilas selittää fysiikan ilmiöitä käyttäen fysiikan keskeisiä käsitteitä.\n\nOppilas osaa yhdistää toisiinsa ilmiön, siihen liittyvät ominaisuudet ja ominaisuuksia kuvaavat suureet.\nMallien käyttäminen: Oppilas käyttää yksinkertaisia malleja ja tekee niiden pohjalta ennusteita sekä osaa selittää, miten malli on muodostettu mittaustuloksista.\n\nOppilas osaa arvioida mallin suhdetta todellisuuteen.\nArgumentointitaidot ja tietolähteiden käyttäminen: Oppilas hakee tietoa erilaisista tietolähteistä ja valitsee yleisesti luotettavina pidettyjä tietolähteitä.  \n\nOppilas osaa ilmaista ja perustella erilaisia näkökulmia fysiikalle ominaisella tavalla.\nLuonnontieteellisen tiedon luonteen ja tiedon tuottamistavan hahmottaminen: Oppilas osaa kuvailla fysiikkaan liittyvien esimerkkien avulla luonnontieteellisen tiedon luonnetta ja kehittymistä.\n\nOppilas osaa kuvailla tieteellisiä tapoja tuottaa tietoa.\nTiedollisten jatko-opintovalmiuksien saavuttaminen vuorovaikutuksesta ja liikkeestä sekä sähköstä: Oppilas osaa käyttää vuorovaikutuksen ja liikkeen sekä sähkön keskeisiä käsitteitä, olioita, ilmiöitä, ominaisuuksia, suureita, malleja ja lakeja tutuissa tilanteissa.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "9",
+            "label": {
+              "local": "Arvosana 9 (kiitettävä)",
+              "en": "Grade 9 (excellent)"
+            },
+            "text": {
+              "local": "Fysiikan merkityksen ymmärtäminen: Oppilas selittää esimerkkien avulla, millaisista fysiikan tiedoista ja taidoista on hyötyä omassa elämässä ja yhteiskunnassa. \n\nOppilas osaa perustella fysiikan osaamisen merkitystä eri ammateissa sekä jatko-opinnoissa.\nKestävän kehityksen tiedot ja taidot fysiikan kannalta: Oppilas perustelee esimerkkien avulla, miten fysiikkaa käytetään kestävän tulevaisuuden rakentamisessa.\n\nOppilas osaa selittää kestävän tulevaisuuden rakentamiseen liittyviä syy-seuraussuhteita ja perustella erilaisia ratkaisuja energiavarojen kestävän käytön kannalta.\nKysymysten muodostaminen sekä tutkimusten ja muun toiminnan suunnittelu: Oppilas muodostaa perusteltuja kysymyksiä tarkasteltavista ilmiöistä tukeutumalla aikaisempaan tietoon ilmiöstä. \n\nOppilas kehittää kysymyksiä tutkimusten tai muun toiminnan lähtökohdiksi.\nKokeellisen tutkimuksen toteuttaminen: Oppilas työskentelee turvallisesti ja johdonmukaisesti, tarvittaessa itsenäisesti, sekä tekee havaintoja ja mittauksia tarkoituksenmukaisesti.\n\nOppilas osaa toteuttaa yhteistyössä erilaisia tutkimuksia ja tukee muita ryhmän jäseniä tarvittaessa.\nTutkimusten tulosten käsittely, esittäminen ja arviointi: Oppilas käsittelee, tulkitsee ja esittää tutkimusten tuloksia fysiikalle ominaisella tavalla sekä perustelee tehtyjä johtopäätöksiä tukeutumalla tutkimuksissa saatuun aineistoon.\n\nOppilas osaa arvioida sekä tuloksia että tutkimusprosessia.\nTeknologinen osaaminen ja yhteistyö teknologisessa ongelmanratkaisussa: Oppilas osaa kuvata fysiikkaa soveltavia teknologisia sovelluksia, selittää niiden toimintaperiaatteita ja perustella niiden merkitystä yhteiskunnalle.\n\nOppilas toimii teknologisen ratkaisun ideoinnissa, suunnittelussa, kehittämisessä ja soveltamisessa sekä itsenäisesti että rakentavasti yhteistyössä muiden kanssa.\nTieto- ja viestintäteknologian käyttö: Oppilas käyttää tieto- ja viestintäteknologisia välineitä tai sovelluksia omatoimisesti tiedon ja mittaustulosten hankkimiseen, käsittelemiseen ja esittämiseen.\n\nOppilas osaa tehdä havaintoja ja johtopäätöksiä simulaatiosta. \n\nOppilas osaa tehdä yleistyksiä simulaation avulla.\nKäsitteiden käyttö ja jäsentyminen: Oppilas selittää fysiikan ilmiöitä käyttäen fysiikan keskeisiä käsitteitä täsmällisesti.\n\nOppilas osaa yhdistää ilmiöihin liittyvät ominaisuudet ja ominaisuuksia kuvaavat suureet käsiterakenteeksi.\nMallien käyttäminen: Oppilas käyttää malleja ja tekee niiden pohjalta ennusteita sekä osaa muodostaa mittaustuloksista yksinkertaisia malleja.\n\nOppilas osaa arvioida mallin suhdetta todellisuuteen sekä mallin rajoituksia tai puutteita.\nArgumentointitaidot ja tietolähteiden käyttäminen: Oppilas hakee tietoa erilaisista tietolähteistä ja osaa pohtia tietolähteen luotettavuutta.\n\nOppilas osaa ilmaista ja perustella erilaisia näkökulmia fysiikalle ominaisella tavalla sekä vertailla keskenään ristiriitaisia näkökulmia.\nLuonnontieteellisen tiedon luonteen ja tiedon tuottamistavan hahmottaminen: Oppilas osaa selittää perustellen fysiikkaan liittyvien esimerkkien avulla luonnontieteellisen tiedon luonnetta ja kehittymistä.\n\nOppilas osaa selittää perustellen tieteellisiä tapoja tuottaa tietoa.\nTiedollisten jatko-opintovalmiuksien saavuttaminen vuorovaikutuksesta ja liikkeestä sekä sähköstä: Oppilas osaa käyttää vuorovaikutuksen ja liikkeen sekä sähkön keskeisiä käsitteitä, olioita, ilmiöitä, ominaisuuksia, suureita, malleja ja lakeja tutuissa ja soveltavissa tilanteissa.",
+              "en": ""
+            }
           }
         ]
       }

@@ -146,7 +146,9 @@
               "local": "følge prinsipper for god hygiene i forbindelse med matlaging",
               "en": "follow the principles of food hygiene when cooking"
             },
-            "coreElements": ["Helsefremjande kosthald"],
+            "coreElements": [
+              "Helsefremjande kosthald"
+            ],
             "verbs": []
           },
           {
@@ -159,7 +161,9 @@
               "Helsefremjande kosthald",
               "Berekraftige matvanar og berekraftig forbruk"
             ],
-            "verbs": ["Bruke"]
+            "verbs": [
+              "Bruke"
+            ]
           },
           {
             "code": "KM1779",
@@ -179,7 +183,9 @@
               "local": "fortelle om hva som kjennetegner sunn og variert mat, og hvorfor det er viktig for helsen",
               "en": "describe the characteristics of healthy and a wide variety of food and why they are important to health"
             },
-            "coreElements": ["Helsefremjande kosthald"],
+            "coreElements": [
+              "Helsefremjande kosthald"
+            ],
             "verbs": []
           },
           {
@@ -188,8 +194,12 @@
               "local": "utnytte lokale matvarer i matlaging og presentere leddene i produksjonskjeden fra råvare til måltid",
               "en": "utilise local foods in cooking and present the parts of the supply chain from raw ingredients to meals"
             },
-            "coreElements": ["Berekraftige matvanar og berekraftig forbruk"],
-            "verbs": ["Presentere"]
+            "coreElements": [
+              "Berekraftige matvanar og berekraftig forbruk"
+            ],
+            "verbs": [
+              "Presentere"
+            ]
           },
           {
             "code": "KM1783",
@@ -197,7 +207,9 @@
               "local": "sortere avfall i forbindelse med matlaging og forklare hvorfor det er viktig å gjøre det",
               "en": "sort food waste and explain why it is important"
             },
-            "coreElements": ["Berekraftige matvanar og berekraftig forbruk"],
+            "coreElements": [
+              "Berekraftige matvanar og berekraftig forbruk"
+            ],
             "verbs": []
           },
           {
@@ -255,7 +267,9 @@
               "Helsefremjande kosthald",
               "Berekraftige matvanar og berekraftig forbruk"
             ],
-            "verbs": ["Bruke"]
+            "verbs": [
+              "Bruke"
+            ]
           },
           {
             "code": "KM1767",
@@ -263,8 +277,14 @@
               "local": "bruke sansene til å utforske og vurdere matens smak og tekstur og til å utforske anretning av mat",
               "en": "use their senses to explore and assess the flavour of food and texture, and explore food preparation"
             },
-            "coreElements": ["Helsefremjande kosthald"],
-            "verbs": ["Utforske", "Vurdere", "Bruke"]
+            "coreElements": [
+              "Helsefremjande kosthald"
+            ],
+            "verbs": [
+              "Utforske",
+              "Vurdere",
+              "Bruke"
+            ]
           },
           {
             "code": "KM1774",
@@ -272,7 +292,9 @@
               "local": "kjenne igjen og gjøre rede for grunnsmaker i matvarer og fortelle om og diskutere hvordan smak kan påvirke matpreferanser og matvalg",
               "en": "recognise and describe the basic flavours in foods, and explain and discuss how flavours can affect food preferences and food choices"
             },
-            "coreElements": ["Helsefremjande kosthald"],
+            "coreElements": [
+              "Helsefremjande kosthald"
+            ],
             "verbs": []
           },
           {
@@ -285,7 +307,10 @@
               "Helsefremjande kosthald",
               "Berekraftige matvanar og berekraftig forbruk"
             ],
-            "verbs": ["Vurdere", "Bruke"]
+            "verbs": [
+              "Vurdere",
+              "Bruke"
+            ]
           },
           {
             "code": "KM1785",
@@ -293,7 +318,9 @@
               "local": "vise sammenhenger mellom matvaregrupper og næringsstoffer som er viktige for god helse",
               "en": "demonstrate the relationship between food groups and nutrients important for good health"
             },
-            "coreElements": ["Helsefremjande kosthald"],
+            "coreElements": [
+              "Helsefremjande kosthald"
+            ],
             "verbs": []
           },
           {
@@ -306,7 +333,10 @@
               "Helsefremjande kosthald",
               "Berekraftige matvanar og berekraftig forbruk"
             ],
-            "verbs": ["Reflektere", "Bruke"]
+            "verbs": [
+              "Reflektere",
+              "Bruke"
+            ]
           },
           {
             "code": "KM1771",
@@ -318,7 +348,11 @@
               "Helsefremjande kosthald",
               "Berekraftige matvanar og berekraftig forbruk"
             ],
-            "verbs": ["Sammenligne", "Drøfte", "Bruke"]
+            "verbs": [
+              "Sammenligne",
+              "Drøfte",
+              "Bruke"
+            ]
           },
           {
             "code": "KM1770",
@@ -326,8 +360,12 @@
               "local": "utnytte matvarer og rester fra matlaging og reflektere over eget matforbruk",
               "en": "use food and leftovers, and reflect on their own food consumption"
             },
-            "coreElements": ["Berekraftige matvanar og berekraftig forbruk"],
-            "verbs": ["Reflektere"]
+            "coreElements": [
+              "Berekraftige matvanar og berekraftig forbruk"
+            ],
+            "verbs": [
+              "Reflektere"
+            ]
           },
           {
             "code": "KM1769",
@@ -339,7 +377,10 @@
               "Berekraftige matvanar og berekraftig forbruk",
               "Mat og måltid som identitets- og kulturuttrykk"
             ],
-            "verbs": ["Utforske", "Presentere"]
+            "verbs": [
+              "Utforske",
+              "Presentere"
+            ]
           },
           {
             "code": "KM1768",
@@ -351,7 +392,9 @@
               "Helsefremjande kosthald",
               "Mat og måltid som identitets- og kulturuttrykk"
             ],
-            "verbs": ["Utforske"]
+            "verbs": [
+              "Utforske"
+            ]
           }
         ]
       },
@@ -372,7 +415,10 @@
               "Helsefremjande kosthald",
               "Berekraftige matvanar og berekraftig forbruk"
             ],
-            "verbs": ["Planlegge", "Bruke"]
+            "verbs": [
+              "Planlegge",
+              "Bruke"
+            ]
           },
           {
             "code": "KM1765",
@@ -385,7 +431,11 @@
               "Berekraftige matvanar og berekraftig forbruk",
               "Mat og måltid som identitets- og kulturuttrykk"
             ],
-            "verbs": ["Utforske", "Vurdere", "Bruke"]
+            "verbs": [
+              "Utforske",
+              "Vurdere",
+              "Bruke"
+            ]
           },
           {
             "code": "KM1764",
@@ -397,7 +447,11 @@
               "Helsefremjande kosthald",
               "Berekraftige matvanar og berekraftig forbruk"
             ],
-            "verbs": ["Vurdere", "Drøfte", "Bruke"]
+            "verbs": [
+              "Vurdere",
+              "Drøfte",
+              "Bruke"
+            ]
           },
           {
             "code": "KM1763",
@@ -405,8 +459,13 @@
               "local": "gjøre rede for og kritisk vurdere påstander, råd og informasjon om kosthold og helse",
               "en": "describe and critically assess claims, advice and information about diet and health"
             },
-            "coreElements": ["Helsefremjande kosthald"],
-            "verbs": ["Vurdere", "Gjøre rede for"]
+            "coreElements": [
+              "Helsefremjande kosthald"
+            ],
+            "verbs": [
+              "Vurdere",
+              "Gjøre rede for"
+            ]
           },
           {
             "code": "KM1762",
@@ -414,8 +473,13 @@
               "local": "kritisk vurdere informasjon om matproduksjon og drøfte hvordan forbrukermakt kan påvirke lokal og global matproduksjon",
               "en": "critically assess information about food production and discuss how consumer power can impact local and global food production"
             },
-            "coreElements": ["Berekraftige matvanar og berekraftig forbruk"],
-            "verbs": ["Vurdere", "Drøfte"]
+            "coreElements": [
+              "Berekraftige matvanar og berekraftig forbruk"
+            ],
+            "verbs": [
+              "Vurdere",
+              "Drøfte"
+            ]
           },
           {
             "code": "KM1761",
@@ -427,7 +491,10 @@
               "Helsefremjande kosthald",
               "Berekraftige matvanar og berekraftig forbruk"
             ],
-            "verbs": ["Utforske", "Gjøre rede for"]
+            "verbs": [
+              "Utforske",
+              "Gjøre rede for"
+            ]
           },
           {
             "code": "KM1772",
@@ -439,7 +506,10 @@
               "Berekraftige matvanar og berekraftig forbruk",
               "Mat og måltid som identitets- og kulturuttrykk"
             ],
-            "verbs": ["Sammenligne", "Utforske"]
+            "verbs": [
+              "Sammenligne",
+              "Utforske"
+            ]
           },
           {
             "code": "KM1786",
@@ -447,7 +517,9 @@
               "local": "vise gjennom matlaging og måltider hvordan identitet og fellesskap blir formidlet i ulike kulturer",
               "en": "demonstrate how cooking and meals convey identity and community in different cultures"
             },
-            "coreElements": ["Mat og måltid som identitets- og kulturuttrykk"],
+            "coreElements": [
+              "Mat og måltid som identitets- og kulturuttrykk"
+            ],
             "verbs": []
           }
         ],
@@ -477,6 +549,41 @@
             },
             "description": {
               "local": "10. trinn eller på det steget faget blir avsluttet: Det er ikke privatistordning i faget."
+            }
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "2",
+            "label": {
+              "local": "Lav kompetanse, karakter 2",
+              "en": "Low competency, grade 2"
+            },
+            "text": {
+              "local": "Eleven vurderer deler av eget praktisk arbeid og forklarer sine valg i matlagingsprosesser.\nEleven finner noen hensiktsmessige løsninger i skapende arbeid og bidrar i samarbeid om mat og måltider.\nEleven bruker noen rutiner knyttet til matlaging og viser en grunnleggende forståelse for trygg og bærekraftig mat som grunnlag for god helse.\nEleven viser noe forståelse og reflekterer over matens betydning for samspillet mellom individ og samfunn i det praktiske arbeidet.\nEleven reflekterer på en enkel måte over egne og andres synspunkter knyttet til kosthold, helse og bærekraft og viser noe dømmekraft og etisk bevissthet.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "4",
+            "label": {
+              "local": "God kompetanse, karakter 4",
+              "en": "Good competency, grade 4"
+            },
+            "text": {
+              "local": "Eleven vurderer eget praktisk arbeid og forklarer sine valg i matlagingsprosesser basert på forståelse for prosesser i matlaging og kunnskap i faget.\nEleven finner hensiktsmessige løsninger og bidrar på en konstruktiv måte til gjennomføring av skapende arbeid og samarbeid om mat og måltider.\nEleven bruker noen rutiner og arbeider stort sett selvstendig og forsvarlig med matlaging og viser en god forståelse for trygg og bærekraftig mat som grunnlag for god helse.\nEleven viser god forståelse og reflekterer over matens betydning for samspillet mellom individ og samfunn i det praktiske arbeidet.\nEleven reflekterer over egne og andres synspunkter knyttet til kosthold, helse og bærekraft og viser god dømmekraft og etisk bevissthet.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "6",
+            "label": {
+              "local": "Framifrå kompetanse, karakter 6",
+              "en": "Excellent competency, grade 6"
+            },
+            "text": {
+              "local": "Eleven vurderer og analyserer eget praktisk arbeid og forklarer sine valg i matlagingsprosesser på en måte som viser god forståelse for prosesser i matlaging og kunnskap i faget.\nEleven finner gode og hensiktsmessige løsninger og bidrar på en konstruktiv måte til gjennomføring av skapende arbeid og samarbeid om mat og måltider.\nEleven arbeider systematisk, selvstendig og forsvarlig med matlaging og viser svært god forståelse for trygg og bærekraftig mat som grunnlag for god helse.\nEleven viser svært god forståelse og reflekterer kritisk over matens betydning for samspillet mellom individ og samfunn i det praktiske arbeidet.\nEleven reflekterer over egne og andres synspunkter knyttet til kosthold, helse og bærekraft og viser svært god dømmekraft og etisk bevissthet.",
+              "en": ""
             }
           }
         ]

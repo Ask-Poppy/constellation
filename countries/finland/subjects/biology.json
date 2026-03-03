@@ -4,8 +4,12 @@
     "api": "https://eperusteet.opintopolku.fi/eperusteet-service/api/external/peruste/419550/perusopetus/oppiaineet/478970",
     "curriculum": "POPS 2014",
     "license": "Open Government Data (Finland)",
-    "lastSynced": "2026-03-03T08:58:56Z",
-    "aiEnriched": ["description.en", "interdisciplinaryThemes", "basicSkills"]
+    "lastSynced": "2026-03-03T16:02:17Z",
+    "aiEnriched": [
+      "description.en",
+      "interdisciplinaryThemes",
+      "basicSkills"
+    ]
   },
   "subject": {
     "code": "BI",
@@ -191,7 +195,13 @@
               "local": "T1 ohjata oppilasta ymmärtämään ekosysteemin perusrakennetta ja toimintaa sekä vertailemaan erilaisia ekosysteemejä ja tunnistamaan lajeja",
               "en": "T1 guide the pupil to understand the basic structure and function of ecosystems, to compare different ecosystems, and to identify species"
             },
-            "coreElements": ["S4", "S6", "S1", "S3", "S2"],
+            "coreElements": [
+              "S4",
+              "S6",
+              "S1",
+              "S3",
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -200,7 +210,13 @@
               "local": "T2 auttaa oppilasta kuvailemaan eliöiden rakenteita ja elintoimintoja sekä ymmärtämään eliökunnan rakennetta",
               "en": "T2 help the pupil to describe the structures and vital functions of organisms and to understand the structure of the living world"
             },
-            "coreElements": ["S5", "S4", "S1", "S3", "S2"],
+            "coreElements": [
+              "S5",
+              "S4",
+              "S1",
+              "S3",
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -209,7 +225,13 @@
               "local": "T3 ohjata oppilasta tutkimaan eliöiden sopeutumista eri elinympäristöihin ja ymmärtämään erilaisten elinympäristöjen merkitys luonnon monimuotoisuudelle",
               "en": "T3 guide the pupil to investigate the adaptation of organisms to different habitats and to understand the significance of diverse habitats for biodiversity"
             },
-            "coreElements": ["S4", "S6", "S1", "S3", "S2"],
+            "coreElements": [
+              "S4",
+              "S6",
+              "S1",
+              "S3",
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -218,7 +240,11 @@
               "local": "T4 ohjata oppilasta ymmärtämään perinnöllisyyden ja evoluution perusperiaatteita",
               "en": "T4 guide the pupil to understand the basic principles of heredity and evolution"
             },
-            "coreElements": ["S5", "S4", "S1"],
+            "coreElements": [
+              "S5",
+              "S4",
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -227,7 +253,9 @@
               "local": "T5 ohjata oppilasta ymmärtämään ihmisen kehitystä ja elimistön perustoimintoja",
               "en": "T5 guide the pupil to understand human development and the basic functions of the body"
             },
-            "coreElements": ["S5"],
+            "coreElements": [
+              "S5"
+            ],
             "verbs": []
           },
           {
@@ -236,7 +264,9 @@
               "local": "T6 ohjata oppilasta arvioimaan luonnonympäristössä tapahtuvia muutoksia ja ihmisen vaikutusta ympäristöön sekä ymmärtämään ekosysteemipalveluiden merkitys",
               "en": "T6 guide the pupil to assess changes occurring in the natural environment and human impact on the environment, and to understand the significance of ecosystem services"
             },
-            "coreElements": ["S6"],
+            "coreElements": [
+              "S6"
+            ],
             "verbs": []
           },
           {
@@ -245,7 +275,14 @@
               "local": "T7 ohjata oppilasta kehittämään luonnontieteellistä ajattelutaitoa sekä syy- ja seuraussuhteiden ymmärtämistä",
               "en": "T7 guide the pupil to develop scientific thinking skills and the understanding of cause-and-effect relationships"
             },
-            "coreElements": ["S5", "S4", "S6", "S1", "S3", "S2"],
+            "coreElements": [
+              "S5",
+              "S4",
+              "S6",
+              "S1",
+              "S3",
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -254,7 +291,13 @@
               "local": "T8 opastaa oppilasta käyttämään biologian tutkimusvälineistöä ja tieto- ja viestintäteknologiaa",
               "en": "T8 instruct the pupil to use biological research equipment and information and communication technology"
             },
-            "coreElements": ["S5", "S4", "S1", "S3", "S2"],
+            "coreElements": [
+              "S5",
+              "S4",
+              "S1",
+              "S3",
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -263,7 +306,13 @@
               "local": "T9 ohjata oppilasta koostamaan eliökokoelma ja kasvattamaan kasveja biologisten ilmiöiden ymmärtämiseksi",
               "en": "T9 guide the pupil to compile a specimen collection and grow plants in order to understand biological phenomena"
             },
-            "coreElements": ["S4", "S6", "S1", "S3", "S2"],
+            "coreElements": [
+              "S4",
+              "S6",
+              "S1",
+              "S3",
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -272,7 +321,14 @@
               "local": "T10 ohjata oppilasta tekemään tutkimuksia sekä koulussa että koulun ulkopuolella",
               "en": "T10 guide the pupil to conduct investigations both in school and outside school"
             },
-            "coreElements": ["S5", "S4", "S6", "S1", "S3", "S2"],
+            "coreElements": [
+              "S5",
+              "S4",
+              "S6",
+              "S1",
+              "S3",
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -281,7 +337,9 @@
               "local": "T11 kannustaa oppilasta soveltamaan biologian tietoja ja taitoja omassa elämässä sekä yhteiskunnallisessa keskustelussa ja päätöksenteossa",
               "en": "T11 encourage the pupil to apply biological knowledge and skills in their own life and in societal discussion and decision-making"
             },
-            "coreElements": ["S6"],
+            "coreElements": [
+              "S6"
+            ],
             "verbs": []
           },
           {
@@ -290,7 +348,14 @@
               "local": "T12 innostaa oppilasta syventämään kiinnostusta luontoa ja sen ilmiöitä kohtaan sekä vahvistamaan luontosuhdetta ja ympäristötietoisuutta",
               "en": "T12 inspire the pupil to deepen their interest in nature and its phenomena and to strengthen their relationship with nature and environmental awareness"
             },
-            "coreElements": ["S5", "S4", "S6", "S1", "S3", "S2"],
+            "coreElements": [
+              "S5",
+              "S4",
+              "S6",
+              "S1",
+              "S3",
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -299,7 +364,9 @@
               "local": "T13 ohjata oppilasta tekemään eettisesti perusteltuja valintoja",
               "en": "T13 guide the pupil to make ethically justified choices"
             },
-            "coreElements": ["S6"],
+            "coreElements": [
+              "S6"
+            ],
             "verbs": []
           },
           {
@@ -308,8 +375,56 @@
               "local": "T14 innostaa oppilasta vaikuttamaan ja toimimaan kestävän tulevaisuuden rakentamiseksi",
               "en": "T14 inspire the pupil to participate and act in building a sustainable future"
             },
-            "coreElements": ["S6"],
+            "coreElements": [
+              "S6"
+            ],
             "verbs": []
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "5",
+            "label": {
+              "local": "Arvosana 5 (välttävä)",
+              "en": "Grade 5 (passable)"
+            },
+            "text": {
+              "local": "Ekosysteemin rakenteen ja toiminnan tuntemus: Oppilas osaa luokitella metsäekosysteemin osia elollisiin ja elottomiin.\n\nOppilas rakentaa yksinkertaisen ravintoketjun esimerkkilajeista.\n\nOppilas tunnistaa ja nimeää joitakin lajeja.\nEliökunnan ja eliöiden rakenteiden ja elintoimintojen tuntemus: Oppilas osaa nimetä eliökunnat sekä eri eliöryhmille yhteisiä perusrakenteita ja toimintoja.\nEliöiden sopeutumisen ja elinympäristöjen monimuotoisuuden hahmottaminen: Oppilas osaa tunnistaa erilaisissa elinympäristöissä elävien eliöiden ominaisuuksia. \n\nOppilas antaa joitakin esimerkkejä erilaisissa elinympäristöissä elävistä eliöistä.\nPerinnöllisyyden ja evoluution perusperiaatteiden hahmottaminen: Oppilas osaa kertoa, että yksilön ominaisuuksiin vaikuttavat sekä perimä että ympäristö.  \n\nOppilas kertoo, että eliöt ovat kehittyneet evoluution tuloksena.\nIhmiselimistön rakenteen ja toiminnan hahmottaminen: Oppilas osaa nimetä ihmisen keskeisimpiä elimiä ja elimistöjä. \n\nOppilas kuvailee keskeisimpien elimistöjen tehtäviä.\nIhmisen ja luonnon vuorovaikutuksen hahmottaminen sekä kestävän tulevaisuuden ymmärrys: Oppilas osaa antaa esimerkkejä ihmisen toiminnan vaikutuksista ympäristöön. \n\nOppilas luettelee kestävän kehityksen osa-alueet.\nLuonnontieteellinen ajattelutaito: Oppilas osaa käyttää joitakin biologian peruskäsitteitä ja liittää niitä annettuihin biologian ilmiöihin.\n\nOppilas kertoo oppimastaan biologisesta ilmiöstä yksinkertaisesti omin sanoin.\nBiologisen tutkimusvälineistön, teknologian ja tiedon käyttö: Oppilas osallistuu opetukseen laboratoriossa ja maastossa. \n\nOppilas käyttää joitakin biologian tutkimusvälineitä ohjattuna.\n\nOppilas hakee biologista tietoa erilaisista tietolähteistä ohjatusti.\nEliökokoelman laatiminen ja kasvien kokeellinen kasvattaminen: Oppilas osaa koostaa ohjatusti pienen eliökokoelman.\n\nOppilas osallistuu kasvien kasvatukseen.\nBiologisen tutkimuksen tekeminen: Oppilas osallistuu biologisen tutkimuksen tekoon ja kertoo, mitä tutkimuksessa on tehty.\nBiologisten tietojen ja taitojen soveltaminen arjessa: Oppilas osaa kertoa esimerkkejä siitä, miten omat valinnat vaikuttavat terveyteen ja ympäristöön.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "7",
+            "label": {
+              "local": "Arvosana 7 (tyydyttävä)",
+              "en": "Grade 7 (satisfactory)"
+            },
+            "text": {
+              "local": "Ekosysteemin rakenteen ja toiminnan tuntemus: Oppilas osaa luokitella ja nimetä metsäekosysteemin osia ja kertoa niiden toiminnasta. \n\nOppilas tunnistaa ja nimeää erilaisia ekosysteemejä.\n \nOppilas tunnistaa ja nimeää lajeja.\nEliökunnan ja eliöiden rakenteiden ja elintoimintojen tuntemus: Oppilas osaa nimetä eliökunnat. \n\nOppilas nimeää ja vertailee eliöiden perusrakenteita ja kuvailee elintoimintoja.\nEliöiden sopeutumisen ja elinympäristöjen monimuotoisuuden hahmottaminen: Oppilas osaa kuvailla, miten lajit sopeutuvat eri elinympäristöihin. \n\nOppilas kertoo, mitä monimuotoisuus tarkoittaa.\nPerinnöllisyyden ja evoluution perusperiaatteiden hahmottaminen: Oppilas osaa antaa esimerkkejä perimän ja ympäristön vaikutuksista yksilön ominaisuuksiin.\n \nOppilas tietää, mitä bioteknologia tarkoittaa.\n\nOppilas kuvailee, miten elämä ja monimuotoisuus ovat kehittyneet evoluution kautta.\nIhmiselimistön rakenteen ja toiminnan hahmottaminen: Oppilas osaa nimetä ihmisen keskeisimpiä elimiä ja elimistöjä. \n\nOppilas kuvailee keskeisiä elintoimintoja.\n\nOppilas kuvailee ihmisen kasvun ja kehittymisen keskeisiä vaiheita.\nIhmisen ja luonnon vuorovaikutuksen hahmottaminen sekä kestävän tulevaisuuden ymmärrys: Oppilas osaa kuvailla ja antaa esimerkkejä ihmisen toiminnan vaikutuksista ympäristöön.\n\nOppilas kuvailee kestävän kehityksen osa-alueet ja antaa joitakin esimerkkejä kestävän tulevaisuuden rakentamiseksi biologian näkökulmasta.\n\nOppilas antaa esimerkkejä biotaloudesta ja ekosysteemipalveluista.\nLuonnontieteellinen ajattelutaito: Oppilas osaa käyttää biologisia peruskäsitteitä.\n\nOppilas esittää oppimansa biologisen ilmiön omin sanoin ja valitsee sopivan tavan tiedon esittämiseen. \n\nOppilas asettaa yksinkertaisia kysymyksiä luonnosta ja luonnonilmiöistä.\nBiologisen tutkimusvälineistön, teknologian ja tiedon käyttö: Oppilas osaa työskennellä turvallisesti laboratoriossa ja maastossa ohjatusti.\n\nOppilas käyttää biologian tutkimusvälineistöä ohjeen mukaan.\n\nOppilas hakee biologista tietoa muutamasta erilaisesta tietolähteestä.\nEliökokoelman laatiminen ja kasvien kokeellinen kasvattaminen: Oppilas osaa koostaa ohjeiden mukaisesti pienimuotoisen perinteisen tai digitaalisen kasvikokoelman tai muun digitaalisen eliökokoelman.\n\nOppilas toteuttaa ohjatusti kasvatuskokeen ja kertoo kasvatuskokeen tulokset.\nBiologisen tutkimuksen tekeminen: Oppilas osaa havainnoida laboratoriossa ja maastossa.\n\nOppilas tekee pienimuotoisen biologisen tutkimuksen.\nBiologisten tietojen ja taitojen soveltaminen arjessa: Oppilas osaa kertoa biologisen tiedon pohjalta esimerkkejä siitä, miten omat valinnat vaikuttavat terveyteen ja ympäristöön.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "8",
+            "label": {
+              "local": "Arvosana 8 (hyvä)",
+              "en": "Grade 8 (good)"
+            },
+            "text": {
+              "local": "Ekosysteemin rakenteen ja toiminnan tuntemus: Oppilas osaa kuvailla ja kertoa metsäekosysteemin perusrakenteen ja toiminnan. \n\nOppilas tunnistaa, nimeää ja vertailee erilaisia ekosysteemejä.\n\nOppilas tunnistaa ja nimeää lajeja eri ekosysteemeistä.\nEliökunnan ja eliöiden rakenteiden ja elintoimintojen tuntemus: Oppilas osaa nimeätä eliökunnat ja kuvailla eliökunnan luokittelun periaatteita esimerkkilajien avulla.\n\nOppilas nimeää ja vertailee eliöiden perusrakenteita sekä kertoo eliöiden elintoiminnoista ja niiden tehtävistä.\nEliöiden sopeutumisen ja elinympäristöjen monimuotoisuuden hahmottaminen: Oppilas osaa kertoa ja antaa esimerkkejä lajien esiintymisestä ja lajien sopeutumisesta eri elinympäristöihin. \n\nOppilas kertoo esimerkkejä elinympäristöjen merkityksestä luonnon monimuotoisuudelle.\n\nOppilas kertoo, miksi monimuotoisuus on tärkeää.\nPerinnöllisyyden ja evoluution perusperiaatteiden hahmottaminen: Oppilas osaa antaa esimerkkejä perimän ja ympäristön vaikutuksista yksilön ominaisuuksiin.\n\nOppilas antaa käytännön esimerkkejä, mihin bioteknologiaa hyödynnetään.\n\nOppilas kuvailee, miten elämä ja monimuotoisuus ovat kehittyneet evoluution kautta. \n\nOppilas selittää perinnöllisyyden ja evoluution yhteyden.\nIhmiselimistön rakenteen ja toiminnan hahmottaminen: Oppilas osaa nimetä ihmisen elimiä ja elimistöjä. \n\nOppilas kuvailee keskeisiä elintoimintoja ja säätelyjärjestelmiä.\n\nOppilas kertoo ihmisen kasvun ja kehittymisen keskeisiä vaiheita.\nIhmisen ja luonnon vuorovaikutuksen hahmottaminen sekä kestävän tulevaisuuden ymmärrys: Oppilas osaa kertoa ja antaa esimerkkejä ihmisen toiminnan vaikutuksista ympäristöön.\n\nOppilas kuvailee kestävän kehityksen osa-alueet ja antaa esimerkkejä kestävän tulevaisuuden rakentamiseksi biologian näkökulmasta.\n\nOppilas kertoo biotaloudesta ja ekosysteemipalveluista.\nLuonnontieteellinen ajattelutaito: Oppilas osaa käyttää biologisia käsitteitä tarkoituksenmukaisesti.\n\nOppilas esittää oppimansa asian omin sanoin biologialle ominaisella tavalla sekä valitsee sopivan tavan tiedon esittämiseen.\n\nOppilas esittää joitakin mielekkäitä kysymyksiä luonnosta ja luonnonilmiöistä sekä kertoo luonnontieteellisiä syy-seuraussuhteita.\nBiologisen tutkimusvälineistön, teknologian ja tiedon käyttö: Oppilas osaa työskennellä turvallisesti laboratoriossa ja maastossa. \n\nOppilas käyttää tarkoituksenmukaisesti biologian tutkimusvälineistöä.\n\nOppilas hakee biologista tietoa erilaisista tietolähteistä sekä valitsee joitakin luotettavia tietolähteitä.\nEliökokoelman laatiminen ja kasvien kokeellinen kasvattaminen: Oppilas osaa koostaa ohjeiden mukaisesti perinteisen tai digitaalisen kasvikokoelman tai muun digitaalisen eliökokoelman.\n\nOppilas toteuttaa kasvatuskokeen ja tekee siitä päätelmiä tarkasteltavaan biologiseen ilmiöön liittyen.\nBiologisen tutkimuksen tekeminen: Oppilas osaa havainnoida ja tallentaa keräämiään tietoja laboratoriossa ja maastossa.\n\nOppilas suunnittelee ja tekee pienimuotoisen biologisen tutkimuksen ja raportoi sen tuloksia.\nBiologisten tietojen ja taitojen soveltaminen arjessa: Oppilas osaa kertoa ja antaa esimerkkejä, miten biologisia tietoja ja taitoja voi soveltaa omassa elämässä ja yhteiskunnallisessa keskustelussa.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "9",
+            "label": {
+              "local": "Arvosana 9 (kiitettävä)",
+              "en": "Grade 9 (excellent)"
+            },
+            "text": {
+              "local": "Ekosysteemin rakenteen ja toiminnan tuntemus: Oppilas osaa selittää ja perustella metsäekosysteemin perusrakenteen ja toiminnan. \n\nOppilas vertailee eri ekosysteemejä ja selittää niiden syntyyn vaikuttavia tekijöitä.\n\nOppilas tunnistaa ja nimeää monipuolisesti lajeja eri ekosysteemeistä.\nEliökunnan ja eliöiden rakenteiden ja elintoimintojen tuntemus: Oppilas osaa nimetä eliökunnat ja perustella eliökunnan luokittelun periaatteita. \n\nOppilas tunnistaa, luokittelee ja vertailee keskeisimpiä eliöryhmiä.\n\nOppilas nimeää ja vertailee eliöiden rakenteita sekä selittää eliöiden elintoimintoja ja niiden tehtäviä.\nEliöiden sopeutumisen ja elinympäristöjen monimuotoisuuden hahmottaminen: Oppilas osaa selittää eliöiden sopeutumista eri elinympäristöihin ja kertoo sopeutumiseen liittyviä syy-seuraussuhteita.\n\nOppilas perustelee elinympäristöjen merkityksen luonnon monimuotoisuudelle.\n\nOppilas perustelee, miksi monimuotoisuus on tärkeää.\nPerinnöllisyyden ja evoluution perusperiaatteiden hahmottaminen: Oppilas osaa selittää perimän ja ympäristön yhteisvaikutuksen yksilön ominaisuuksien muodostumisessa ja soveltaa osaamistaan käytännön esimerkkeihin.\n\nOppilas kertoo esimerkkejä siitä, mihin bioteknologiaa hyödynnetään, sekä bioteknologian mahdollisuuksista ja haasteista.\n\nOppilas kuvailee, miten elämä ja monimuotoisuus ovat kehittyneet evoluution kautta, ja antaa esimerkkejä evoluutiosta jatkuvana prosessina.\n \nOppilas selittää perinnöllisyyden ja evoluution yhteyden esimerkkien avulla.\nIhmiselimistön rakenteen ja toiminnan hahmottaminen: Oppilas osaa nimetä ja kuvailla ihmisen elimiä ja elimistöjä. \n\nOppilas kuvailee keskeisiä elintoimintoja ja säätelyjärjestelmiä ja selittää, kuinka ne muodostavat toiminnallisia kokonaisuuksia.\n\nOppilas selittää perustellen ihmisen kasvun ja kehittymisen keskeisiä vaiheita.\nIhmisen ja luonnon vuorovaikutuksen hahmottaminen sekä kestävän tulevaisuuden ymmärrys: Oppilas osaa perustella, miten ihmisen toiminta vaikuttaa ympäristöön ja tarkastelee muutosten seurauksia.\n\nOppilas selittää syy-seuraussuhteita kestävän tulevaisuuden rakentamisessa ja perustelee näkemyksensä biologisen tiedon pohjalta.\n\nOppilas arvioi biotalouden ja ekosysteemipalveluiden merkitystä kestävän tulevaisuuden näkökulmasta.\nLuonnontieteellinen ajattelutaito: Oppilas osaa käyttää biologisia käsitteitä tarkoituksenmukaisesti.\n\nOppilas esittää oppimansa asian omin sanoin jäsennellysti biologialle ominaisella tavalla sekä valitsee sopivan tavan tiedon esittämiseen. \n\nOppilas esittää mielekkäitä kysymyksiä luonnosta ja luonnonilmiöistä sekä selittää ja perustelee luonnontieteellisiä syy-seuraussuhteita.\nBiologisen tutkimusvälineistön, teknologian ja tiedon käyttö: Oppilas osaa työskennellä itsenäisesti ja tavoitteellisesti laboratoriossa ja maastossa. \n\nOppilas käyttää biologian tutkimusvälineistöä ja arvioi eri biologian tutkimusvälineistön soveltuvuutta työskentelyyn.\n\nOppilas hakee biologista tietoa erilaisista tietolähteistä sekä arvioi tietolähteiden luotettavuutta ja soveltuvuutta.\nEliökokoelman laatiminen ja kasvien kokeellinen kasvattaminen: Oppilas osaa koostaa ohjeiden mukaisesti laajahkon ja huolellisesti toteutetun perinteisen tai digitaalisen kasvikokoelman tai muun digitaalisen eliökokoelman.\n\nOppilas suunnittelee ja toteuttaa kasvatuskokeen, arvioi kokeen tulosten luotettavuutta sekä selittää, miten kasvatuskoe liittyy tarkasteltavaan biologiseen ilmiöön.\nBiologisen tutkimuksen tekeminen: Oppilas osaa havainnoida ja tallentaa keräämiään tietoja laboratoriossa ja maastossa.\n\nOppilas suunnittelee ja toteuttaa oman tutkimuksen itsenäisesti ja raportoi sen tulokset selkeästi.\nBiologisten tietojen ja taitojen soveltaminen arjessa: Oppilas osaa pohtia ja perustella, miten biologisia tietoja voi soveltaa omassa elämässään sekä yhteiskunnallisessa keskustelussa ja päätöksenteossa.",
+              "en": ""
+            }
           }
         ]
       }

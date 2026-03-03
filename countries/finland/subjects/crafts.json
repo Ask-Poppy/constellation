@@ -4,8 +4,12 @@
     "api": "https://eperusteet.opintopolku.fi/eperusteet-service/api/external/peruste/419550/perusopetus/oppiaineet/530524",
     "curriculum": "POPS 2014",
     "license": "Open Government Data (Finland)",
-    "lastSynced": "2026-03-03T08:59:03Z",
-    "aiEnriched": ["description.en", "interdisciplinaryThemes", "basicSkills"]
+    "lastSynced": "2026-03-03T16:02:24Z",
+    "aiEnriched": [
+      "description.en",
+      "interdisciplinaryThemes",
+      "basicSkills"
+    ]
   },
   "subject": {
     "code": "KS",
@@ -312,7 +316,12 @@
               "local": "T1 rohkaista oppilasta kiinnostumaan ja innostumaan käsin tekemisestä sekä herättää uteliaisuutta keksivään ja kokeilevaan käsityöhön",
               "en": "T1 encourage the pupil to become interested in and enthusiastic about making things by hand, and to awaken curiosity towards inventive and experimental crafts"
             },
-            "coreElements": ["S2", "S1", "S4", "S3"],
+            "coreElements": [
+              "S2",
+              "S1",
+              "S4",
+              "S3"
+            ],
             "verbs": []
           },
           {
@@ -321,7 +330,11 @@
               "local": "T2 ohjata oppilas kokonaiseen käsityöprosessiin ja esittämään omia ideoitaan kuvallisesti sekä kertomaan käsityön tekemisestä ja valmiista tuotteesta",
               "en": "T2 guide the pupil through the complete craft process and to present their own ideas visually, as well as to describe the making process and the finished product"
             },
-            "coreElements": ["S2", "S1", "S3"],
+            "coreElements": [
+              "S2",
+              "S1",
+              "S3"
+            ],
             "verbs": []
           },
           {
@@ -330,7 +343,13 @@
               "local": "T3 ohjata oppilasta suunnittelemaan ja valmistamaan käsityötuotteita tai teoksia luottaen omiin esteettisiin ja teknisiin ratkaisuihinsa",
               "en": "T3 guide the pupil to design and produce craft products or works, trusting in their own aesthetic and technical solutions"
             },
-            "coreElements": ["S2", "S1", "S4", "S3", "S5"],
+            "coreElements": [
+              "S2",
+              "S1",
+              "S4",
+              "S3",
+              "S5"
+            ],
             "verbs": []
           },
           {
@@ -339,7 +358,11 @@
               "local": "T4 opastaa oppilasta tutustumaan moniin erilaisiin materiaaleihin ja niiden työstämiseen sekä ohjata toimimaan vastuuntuntoisesti ja turvallisesti",
               "en": "T4 instruct the pupil to explore many different materials and how to work with them, and to guide them to act responsibly and safely"
             },
-            "coreElements": ["S2", "S4", "S3"],
+            "coreElements": [
+              "S2",
+              "S4",
+              "S3"
+            ],
             "verbs": []
           },
           {
@@ -348,7 +371,14 @@
               "local": "T5 tukea oppilaan itsetunnon kehittymistä käsityössä onnistumisen, oivaltamisen ja keksimisen kokemusten kautta",
               "en": "T5 support the development of the pupil's self-esteem through experiences of success, discovery, and invention in crafts"
             },
-            "coreElements": ["S2", "S1", "S4", "S3", "S6", "S5"],
+            "coreElements": [
+              "S2",
+              "S1",
+              "S4",
+              "S3",
+              "S6",
+              "S5"
+            ],
             "verbs": []
           }
         ]
@@ -366,7 +396,14 @@
               "local": "T1 vahvistaa oppilaan kiinnostusta käsin tekemiseen sekä innostaa keksivään, kokeilevaan ja paikallisuutta hyödyntävään käsityöhön",
               "en": "T1 strengthen the pupil's interest in making things by hand and inspire inventive, experimental crafts that utilise local resources"
             },
-            "coreElements": ["S2", "S1", "S3", "S4", "S6", "S5"],
+            "coreElements": [
+              "S2",
+              "S1",
+              "S3",
+              "S4",
+              "S6",
+              "S5"
+            ],
             "verbs": []
           },
           {
@@ -375,7 +412,14 @@
               "local": "T2 ohjata oppilasta hahmottamaan ja hallitsemaan kokonainen käsityöprosessi ja sen dokumentointi",
               "en": "T2 guide the pupil to perceive and manage the complete craft process and its documentation"
             },
-            "coreElements": ["S2", "S1", "S3", "S4", "S6", "S5"],
+            "coreElements": [
+              "S2",
+              "S1",
+              "S3",
+              "S4",
+              "S6",
+              "S5"
+            ],
             "verbs": []
           },
           {
@@ -384,7 +428,12 @@
               "local": "T3 opastaa oppilasta suunnittelemaan ja valmistamaan yksin tai yhdessä käsityötuote tai -teos luottaen omiin esteettisiin ja teknisiin ratkaisuihin",
               "en": "T3 instruct the pupil to design and produce a craft product or work independently or collaboratively, trusting in their own aesthetic and technical solutions"
             },
-            "coreElements": ["S2", "S1", "S3", "S4"],
+            "coreElements": [
+              "S2",
+              "S1",
+              "S3",
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -393,7 +442,10 @@
               "local": "T4 ohjata oppilasta tunnistamaan käsitteistöä sekä tuntemaan monia erilaisia materiaaleja ja työstämään niitä tarkoituksenmukaisesti",
               "en": "T4 guide the pupil to recognise terminology and to become familiar with many different materials and to work with them appropriately"
             },
-            "coreElements": ["S3", "S5"],
+            "coreElements": [
+              "S3",
+              "S5"
+            ],
             "verbs": []
           },
           {
@@ -402,7 +454,13 @@
               "local": "T5 kannustaa oppilasta toimimaan pitkäjänteisesti ja vastuuntuntoisesti, huolehtimaan turvallisesta työskentelystä sekä valitsemaan ja käyttämään työhön sopivaa välineistöä",
               "en": "T5 encourage the pupil to work persistently and responsibly, to ensure safe working practices, and to select and use tools appropriate for the task"
             },
-            "coreElements": ["S2", "S1", "S3", "S4", "S5"],
+            "coreElements": [
+              "S2",
+              "S1",
+              "S3",
+              "S4",
+              "S5"
+            ],
             "verbs": []
           },
           {
@@ -411,7 +469,11 @@
               "local": "T6 opastaa oppilasta käyttämään tieto- ja viestintäteknologiaa käsityön suunnittelussa, valmistamisessa ja käsityöprosessin dokumentoinnissa",
               "en": "T6 instruct the pupil to use information and communication technology in craft design, production, and documentation of the craft process"
             },
-            "coreElements": ["S2", "S1", "S6"],
+            "coreElements": [
+              "S2",
+              "S1",
+              "S6"
+            ],
             "verbs": []
           },
           {
@@ -420,7 +482,9 @@
               "local": "T7 ohjata oppilasta arvioimaan, arvostamaan ja tarkastelemaan vuorovaikutteisesti omaa ja muiden kokonaisen käsityön prosessia",
               "en": "T7 guide the pupil to assess, appreciate, and examine their own and others' complete craft processes through interaction"
             },
-            "coreElements": ["S6"],
+            "coreElements": [
+              "S6"
+            ],
             "verbs": []
           },
           {
@@ -429,8 +493,59 @@
               "local": "T8 herättää oppilas arvioimaan kulutus- ja tuotantotapoja kriittisesti",
               "en": "T8 prompt the pupil to critically evaluate consumption and production practices"
             },
-            "coreElements": ["S2", "S1", "S3", "S5"],
+            "coreElements": [
+              "S2",
+              "S1",
+              "S3",
+              "S5"
+            ],
             "verbs": []
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "5",
+            "label": {
+              "local": "Arvosana 5 (välttävä)",
+              "en": "Grade 5 (passable)"
+            },
+            "text": {
+              "local": "Oman työn suunnittelu, valmistus, arviointi ja prosessin dokumentointi: Oppilas tunnistaa käsityöprosessin osat. Oppilas toteuttaa jonkin käsityöprosessin osan opettajan konkreettisesti ohjaamana ja dokumentoi sen.\nTuotteen valmistaminen: Oppilas suunnittelee tai valmistaa tuotetta tai teosta opettajan konkreettisesti ohjaamana.\nKäsityössä käytettävien materiaalien ja valmistusmenetelmien valinta, yhdistäminen ja työstäminen.: Oppilas tunnistaa joitakin käsityön työvälineitä, materiaaleja ja valmistusmenetelmiä opettajan konkreettisesti ohjaamana.\nTyöskentelytaidot.: Oppilas harjoittelee pitkäjänteistä ja turvallista työskentelyä opettajan\nkonkreettisesti ohjaamana. Oppilas valitsee ja käyttää työvälineitä\nopettajan konkreettisesti ohjaamana.\nTieto- ja viestintäteknologian käyttäminen omassa työskentelyssä.: Oppilas käyttää tieto- ja viestintäteknologiaa jonkin käsityöprosessin\nvaiheen aikana opettajan konkreettisesti ohjaamana.\nOman työn ja käsityöprosessin tarkastelu, vertaispalautteen antaminen.: Oppilas harjoittelee oman työn ja käsityöprosessin tarkastelua sekä vertaispalautteen antamista opettajan konkreettisesti ohjaamana.\nKulutus- ja tuotantotapojen pohdinta.: Oppilas valitsee ja käyttää materiaaleja taloudellisesti opettajan konkreettisesti ohjaamana.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "7",
+            "label": {
+              "local": "Arvosana 7 (tyydyttävä)",
+              "en": "Grade 7 (satisfactory)"
+            },
+            "text": {
+              "local": "Oman työn suunnittelu, valmistus, arviointi ja prosessin dokumentointi: Oppilas toteuttaa käsityöprosessin keskeiset osat opettajan ohjaamana.\nOppilas dokumentoi joitakin käsityöprosessin vaiheita.\nTuotteen valmistaminen: Oppilas valmistaa omaan tai yhteiseen suunnitelmaan perustuvan\ntuotteen tai teoksen opettajan ohjaamana.\nKäsityössä käytettävien materiaalien ja valmistusmenetelmien valinta, yhdistäminen ja työstäminen.: Oppilas tunnistaa ja nimeää käsityön käsitteistöä ja käyttää\nkäsityön työvälineitä, materiaaleja ja valmistusmenetelmiä opettajan ohjaamana.\nTyöskentelytaidot.: Oppilas työskentelee pitkäjänteisesti, vastuullisesti ja turvallisesti opettajan ohjaamana. Oppilas harjoittelee tavoitteellista työskentelyä.\nOppilas tietää käsityössä käytettävien työvälineiden ja laitteiden toimintaperiaatteita ja osaa käyttää niitä opettajan ohjaamana.\nTieto- ja viestintäteknologian käyttäminen omassa työskentelyssä.: Oppilas käyttää tieto- ja viestintäteknologiaa opettajan ohjaamana käsityön suunnittelussa, valmistuksessa ja käsityöprosessin\ndokumentoinnissa.\nOman työn ja käsityöprosessin tarkastelu, vertaispalautteen antaminen.: Oppilas osallistuu oman työn ja käsityöprosessin tarkasteluun sekä vertaispalautteen antamiseen opettajan ohjaamana.\nKulutus- ja tuotantotapojen pohdinta.: Oppilas pohtii kulutus- ja tuotantotapoja opettajan ohjaamana.\nOppilas valitsee ja käyttää materiaaleja taloudellisesti opettajan ohjaamana.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "8",
+            "label": {
+              "local": "Arvosana 8 (hyvä)",
+              "en": "Grade 8 (good)"
+            },
+            "text": {
+              "local": "Oman työn suunnittelu, valmistus, arviointi ja prosessin dokumentointi: Oppilas toteuttaa kokonaisen käsityöprosessin ja dokumentoi sen eri vaiheita.\nTuotteen valmistaminen: Oppilas valmistaa omaan tai yhteiseen suunnitelmaan perustuvan\ntuotteen tai teoksen, jossa on huomioitu esteettisyys ja toimivuus.\nKäsityössä käytettävien materiaalien ja valmistusmenetelmien valinta, yhdistäminen ja työstäminen.: Oppilas tuntee ja osaa käyttää käsityön käsitteistöä.\nOppilas valitsee, yhdistää ja käyttää eri materiaaleja ja\nvalmistusmenetelmiä tarkoituksenmukaisesti.\nTyöskentelytaidot.: Oppilas ottaa vastuuta omasta työskentelystään sekä toimii pitkäjänteisesti ja tavoitteellisesti. Oppilas tietää käsityössä käytettävien\ntyövälineiden ja laitteiden toimintaperiaatteita ja osaa käyttää niitä turvallisesti ja tarkoituksenmukaisesti.\nTieto- ja viestintäteknologian käyttäminen omassa työskentelyssä.: Oppilas käyttää tieto- ja viestintäteknologiaa ohjeistuksen mukaisesti\nkäsityön suunnittelussa, valmistamisessa ja käsityöprosessin dokumentoinnissa.\nOman työn ja käsityöprosessin tarkastelu, vertaispalautteen antaminen.: Oppilas osallistuu rakentavasti oman työn ja käsityöprosessin tarkasteluun. Oppilas osallistuu tarkoituksenmukaisesti vertaispalautteen antamiseen.\nKulutus- ja tuotantotapojen pohdinta.: Oppilas osaa kertoa, miten kulutus- ja tuotantotavat vaikuttavat tuotteen elinkaareen. Oppilas valmistaa tuotteitaan materiaalitaloudellisesti.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "9",
+            "label": {
+              "local": "Arvosana 9 (kiitettävä)",
+              "en": "Grade 9 (excellent)"
+            },
+            "text": {
+              "local": "Oman työn suunnittelu, valmistus, arviointi ja prosessin dokumentointi: Oppilas toteuttaa kokonaisen käsityöprosessin itsenäisesti ja dokumentoi\nkäsityöprosessin vaiheet. Oppilas pohtii omaa työskentelyään.\nTuotteen valmistaminen: Oppilas valmistaa omaan tai yhteiseen suunnitelmaan perustuvan\ntuotteen tai teoksen, jossa on huomioitu esteettisyys ja toimivuus.\nOppilas arvioi ja perustelee tuotteen esteettisiä tai toiminnallisia ratkaisuja.\nKäsityössä käytettävien materiaalien ja valmistusmenetelmien valinta, yhdistäminen ja työstäminen.: Oppilas käyttää käsityön käsitteistöä monipuolisesti. Oppilas valitsee,\nyhdistää ja käyttää taitavasti eri materiaaleja ja valmistusmenetelmiä soveltaen niitä tarkoituksenmukaisesti.\nTyöskentelytaidot.: Oppilas työskentelee vastuuntuntoisesti, pitkäjänteisesti ja tavoitteellisesti. Oppilas huomioi työturvallisuuden omassa ja toisten\nkanssa työskentelyssä. Oppilas tietää käsityössä käytettävien työvälineiden ja laitteiden toimintaperiaatteita ja osaa valita niistä tarkoituksenmukaisimmat.\nTieto- ja viestintäteknologian käyttäminen omassa työskentelyssä.: Oppilas käyttää itsenäisesti oman käsityöprosessinsa eri vaiheisiin ja niiden dokumentointiin sopivia tieto- ja viestintäteknologian välineitä.\nOman työn ja käsityöprosessin tarkastelu, vertaispalautteen antaminen.: Oppilas tarkastelee realistisesti omaa työtään ja käsityöprosessiaan.\nOppilas antaa aktiivisesti rakentavaa vertaispalautetta\nkäsityöprosessista.\nKulutus- ja tuotantotapojen pohdinta.: Oppilas tarkastelee monipuolisesti kulutus- ja tuotantotapojen vaikutusta\ntuotteen elinkaareen. Oppilas valmistaa tuotteitaan  materiaalitaloudellisesti ja perustelee valintojaan.",
+              "en": ""
+            }
           }
         ]
       },
@@ -447,7 +562,13 @@
               "local": "T1 ohjata oppilasta suunnittelemaan työskentelyään sekä ideoimaan, tutkimaan ja kokeilemaan yritteliäästi",
               "en": "T1 guide the pupil to plan their work and to ideate, investigate, and experiment with an entrepreneurial attitude"
             },
-            "coreElements": ["S1", "S2", "S4", "S3", "S5"],
+            "coreElements": [
+              "S1",
+              "S2",
+              "S4",
+              "S3",
+              "S5"
+            ],
             "verbs": []
           },
           {
@@ -456,7 +577,13 @@
               "local": "T2 ohjata oppilasta asettamaan käsityöhön omia oppimisen ja työskentelyn tavoitteita sekä toteuttamaan niiden perusteella kokonainen käsityöprosessi ja arvioimaan oppimistaan",
               "en": "T2 guide the pupil to set their own learning and working goals for crafts, to carry out a complete craft process based on these goals, and to assess their learning"
             },
-            "coreElements": ["S1", "S2", "S4", "S3", "S5"],
+            "coreElements": [
+              "S1",
+              "S2",
+              "S4",
+              "S3",
+              "S5"
+            ],
             "verbs": []
           },
           {
@@ -465,7 +592,13 @@
               "local": "T3 opastaa oppilasta tutustumaan ja käyttämään monipuolisesti erilaisia työvälineitä, materiaaleja ja tarkoituksenmukaisia työtapoja sekä kehittämään innovaatioita",
               "en": "T3 instruct the pupil to become familiar with and use a wide range of tools, materials, and appropriate working methods, and to develop innovations"
             },
-            "coreElements": ["S1", "S2", "S4", "S3", "S5"],
+            "coreElements": [
+              "S1",
+              "S2",
+              "S4",
+              "S3",
+              "S5"
+            ],
             "verbs": []
           },
           {
@@ -474,7 +607,13 @@
               "local": "T4 ohjata oppilasta käyttämään sujuvasti käsityön käsitteitä, merkkejä ja symboleja sekä vahvistamaan visuaalista, materiaalista ja teknologista ilmaisuaan",
               "en": "T4 guide the pupil to fluently use craft concepts, signs, and symbols, and to strengthen their visual, material, and technological expression"
             },
-            "coreElements": ["S1", "S2", "S4", "S3", "S5"],
+            "coreElements": [
+              "S1",
+              "S2",
+              "S4",
+              "S3",
+              "S5"
+            ],
             "verbs": []
           },
           {
@@ -483,7 +622,9 @@
               "local": "T5 ohjata oppilasta havainnoimaan, ennakoimaan ja reagoimaan työtilanteisiin liittyviin riskitekijöihin ja toimimaan turvallisesti käsityöprosessissa",
               "en": "T5 guide the pupil to observe, anticipate, and respond to risk factors related to work situations and to act safely in the craft process"
             },
-            "coreElements": ["S6"],
+            "coreElements": [
+              "S6"
+            ],
             "verbs": []
           },
           {
@@ -492,7 +633,13 @@
               "local": "T6 ohjata oppilasta käyttämään tieto- ja viestintäteknologian mahdollisuuksia käsityön suunnittelussa, valmistuksessa ja dokumentoinnissa, sekä yhteisöllisen tiedon tuottamisessa ja jakamisessa",
               "en": "T6 guide the pupil to use the possibilities of information and communication technology in craft design, production, and documentation, as well as in collaborative knowledge creation and sharing"
             },
-            "coreElements": ["S1", "S2", "S4", "S3", "S5"],
+            "coreElements": [
+              "S1",
+              "S2",
+              "S4",
+              "S3",
+              "S5"
+            ],
             "verbs": []
           },
           {
@@ -501,7 +648,9 @@
               "local": "T7 ohjata oppilasta tuntemaan käsityön, kädentaitojen ja teknologisen kehityksen merkitys omassa elämässään, yhteiskunnassa, yrittäjyydessä ja muussa työelämässä",
               "en": "T7 guide the pupil to understand the significance of crafts, manual skills, and technological development in their own life, in society, in entrepreneurship, and in other areas of working life"
             },
-            "coreElements": ["S7"],
+            "coreElements": [
+              "S7"
+            ],
             "verbs": []
           },
           {
@@ -510,8 +659,56 @@
               "local": "T8 ohjata oppilaita taloudelliseen ajatteluun ja kehittämään käsityöprosessiin liittyviä valintoja, jotka edistävät kestävää elämäntapaa",
               "en": "T8 guide pupils towards economic thinking and to develop choices related to the craft process that promote a sustainable way of life"
             },
-            "coreElements": ["S8"],
+            "coreElements": [
+              "S8"
+            ],
             "verbs": []
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "5",
+            "label": {
+              "local": "Arvosana 5 (välttävä)",
+              "en": "Grade 5 (passable)"
+            },
+            "text": {
+              "local": "Työskentely ja tuottaminen: Oppilas suunnittelee omaa työtään annetun ohjeen ja esimerkin pohjalta. \n\nOppilas osaa tehdä tietyn työvaiheen konkreettisesti ohjattuna.\nKokonaisen käsityöprosessin toteuttaminen: Oppilas asettaa opettajan avulla konkreettisen työskentelyyn liittyvän oppimisen tavoitteen. \n\nOppilas työskentelee vaihe kerrallaan ja pohtii käsityöprosessiaan ohjatusti.\nTyövälineiden käyttö, valmistusmenetelmien ja käsityön työtapojen tarkoituksenmukainen käyttäminen: Oppilas osallistuu molempien käsityön työtapojen opetukseen.\nOppilas käyttää erilaisia työvälineitä ja materiaaleja tarvittaessa konkreettisesti ohjattuna.\nVisuaalinen, materiaalinen ja esitysteknologinen ilmaisu: Oppilas tunnistaa erilaisia käsityön käsitteitä, merkkejä ja symboleita.\n\nOppilas ilmaisee konkreettisesti ohjattuna kuvallisesti joitain havaintojaan ja ajatuksiaan.\nTurvallinen työskentely: Oppilas noudattaa käsityöprosessissa annettuja työturvallisuusohjeita konkreettisesti ohjattuna.\nTieto- ja viestintätekniset taidot sekä yhteisöllinen työskentely: Oppilas käyttää konkreettisesti ohjattuna tieto- ja viestintäteknologiaa omassa tai yhteisessä käsityöprosessissa.\nArvioinnin kohteet oppiaineessa: Oppilas osallistuu opettajan ohjaamana käsityön ja kädentaitojen merkityksen pohdintaan.\nPerusteltujen valintojen tekeminen ja kestävän elämäntavan huomioiminen käsityöprosessissa: Oppilas osaa käyttää käsityömateriaaleja taloudellisesti opettajan ohjaamana.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "7",
+            "label": {
+              "local": "Arvosana 7 (tyydyttävä)",
+              "en": "Grade 7 (satisfactory)"
+            },
+            "text": {
+              "local": "Työskentely ja tuottaminen: Oppilas suunnittelee työtään annettujen ohjeiden mukaan. \n\nOppilas pyrkii työskentelemään yritteliäästi.\nKokonaisen käsityöprosessin toteuttaminen: Oppilas asettaa oppimisen ja työskentelyn tavoitteita ohjatusti. \n\nOppilas etenee käsityöprosessissa vaihe vaiheelta ohjeiden mukaan. \n\nOppilas pohtii käsityöprosessiaan annettujen vaihtoehtojen pohjalta.\nTyövälineiden käyttö, valmistusmenetelmien ja käsityön työtapojen tarkoituksenmukainen käyttäminen: Oppilas ymmärtää erilaisten käsityön työtapojen ja materiaalien merkityksen käsityöprosessissa ja valitsee niistä ohjatusti työskentelyynsä soveltuvat. \nOppilas käyttää erilaisia työvälineitä ja materiaaleja annettujen ohjeiden mukaisesti.\nVisuaalinen, materiaalinen ja esitysteknologinen ilmaisu: Oppilas käyttää käsityön käsitteitä, merkkejä ja symboleita ohjeen mukaan. \n\nOppilas ilmaisee havaintojaan ja ajatuksiaan kuvallisesti ja jotain muuta tapaa käyttämällä.\nTurvallinen työskentely: Oppilas tunnistaa käsityöprosessin keskeisiä työturvallisuuteen liittyviä riskitekijöitä ja noudattaa annettuja työturvallisuusohjeita.\nTieto- ja viestintätekniset taidot sekä yhteisöllinen työskentely: Oppilas osaa käyttää annetun ohjeen mukaan tieto- ja viestintäteknologiaa käsityön suunnittelussa, valmistuksessa ja dokumentoinnissa yksin tai yhdessä toisten kanssa.\nArvioinnin kohteet oppiaineessa: Oppilas osaa esimerkkien avulla kuvailla käsityön merkityksen arjessa, yhteiskunnassa ja työelämässä.\nPerusteltujen valintojen tekeminen ja kestävän elämäntavan huomioiminen käsityöprosessissa: Oppilas osaa osittain itsenäisesti tehdä taloudellisia valintoja työskentelyssään.\n\nOppilas ymmärtää käsityöprosessissa tehtävien valintojen ja kestävän elämäntavan välistä yhteyttä.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "8",
+            "label": {
+              "local": "Arvosana 8 (hyvä)",
+              "en": "Grade 8 (good)"
+            },
+            "text": {
+              "local": "Työskentely ja tuottaminen: Oppilas suunnittelee työskentelyään ja osaa tehdä valintoja ja etsiä työhönsä omia ratkaisuja.\nKokonaisen käsityöprosessin toteuttaminen: Oppilas osaa asettaa oppimiselle ja työskentelylle tavoitteita, työskentelee käsityöprosessin mukaisesti ja pohtii realistisesti käsityöprosessiaan.\nTyövälineiden käyttö, valmistusmenetelmien ja käsityön työtapojen tarkoituksenmukainen käyttäminen: Oppilas osaa valita tarkoituksenmukaisia materiaaleja ja valmistusmenetelmiä sekä osaa käyttää niitä kekseliäästi valmistaessaan suunnittelemiaan tuotteita tai teoksia.\nVisuaalinen, materiaalinen ja esitysteknologinen ilmaisu: Oppilas käyttää käsityön keskeisiä käsitteitä ja osaa esittää ideansa selkeästi esitysteknologiaa hyödyntäen.\nTurvallinen työskentely: Oppilas osaa arvioida työskentelyn vaaroja ja riskejä sekä toimii turvallisesti käsityöprosessissa.\nTieto- ja viestintätekniset taidot sekä yhteisöllinen työskentely: Oppilas osaa käyttää käsityöprosessin suunnittelussa, valmistamisessa ja dokumentoinnissa sekä yhteisöllisen tiedon tuottamisessa tieto- ja viestintäteknologiaa.\nArvioinnin kohteet oppiaineessa: Oppilas osaa pohtia käsityön ja kädentaitojen merkitystä omassa elämässään ja yhteiskunnassa.\nPerusteltujen valintojen tekeminen ja kestävän elämäntavan huomioiminen käsityöprosessissa: Oppilas osaa tehdä taloudellisia valintoja työskentelyssään.\n\nOppilas osaa arvioida käsityöprosessissa tehtävien valintojen ja kestävän elämäntavan välistä yhteyttä.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "9",
+            "label": {
+              "local": "Arvosana 9 (kiitettävä)",
+              "en": "Grade 9 (excellent)"
+            },
+            "text": {
+              "local": "Työskentely ja tuottaminen: Oppilas suunnittelee itsenäisesti työskentelyään. \n\nOppilas työskentelee yritteliäästi ja oma-aloitteisesti.\nKokonaisen käsityöprosessin toteuttaminen: Oppilas asettaa itsenäisesti oppimisen ja työskentelyn tavoitteita. \n\nOppilas etenee johdonmukaisesti ja pohtii käsityöprosessiaan analyyttisesti ja realistisesti.\nTyövälineiden käyttö, valmistusmenetelmien ja käsityön työtapojen tarkoituksenmukainen käyttäminen: Oppilas arvioi eri työvälineiden ja valmistusmenetelmien käyttö- kelpoisuutta käsityöprosessissa. \n\nOppilas soveltaa materiaaleihin ja työtapoihin liittyvää osaamistaan kekseliäästi, kokeilevasti ja tarkoituksenmu- kaisesti.\nVisuaalinen, materiaalinen ja esitysteknologinen ilmaisu: Oppilas käyttää tarkoituksenmukaisesti käsityön käsitteitä, merkkejä ja symboleita. \n\nOppilas ilmaisee ideansa monipuolisesti ja luovasti erilaisia materiaaleja ja esitysteknologiaa hyödyntäen.\nTurvallinen työskentely: Oppilas arvioi ja ennakoi työskentelyn vaaroja ja riskejä osana käsityöprosessia. \n\nOppilas työskentelee turvallisesti ja toimillaan edistää oppimisympäristön turvallisuutta.\nTieto- ja viestintätekniset taidot sekä yhteisöllinen työskentely: Oppilas käyttää tieto- ja viestintäteknologiaa monipuolisesti käsityöprosessin eri vaiheissa sekä yhteisöllisen tiedon tuottamisessa ja jakamisessa.\nArvioinnin kohteet oppiaineessa: Oppilas osaa tarkastella eri näkökulmista käsityön, kädentaitojen ja teknologisen kehityksen merkitystä omassa elämässään, yhteiskunnassa, yrittäjyydessä sekä muussa työelämässä.\nPerusteltujen valintojen tekeminen ja kestävän elämäntavan huomioiminen käsityöprosessissa: Oppilas tekee taloudellisia valintoja ja ymmärtää laadukkaan työn merkityksen.\n\nOppilas osaa arvioida ja perustella käsityöprosessiin ja kestävään elämäntapaan liittyviä valintoja.",
+              "en": ""
+            }
           }
         ]
       }

@@ -4,8 +4,12 @@
     "api": "https://eperusteet.opintopolku.fi/eperusteet-service/api/external/peruste/419550/perusopetus/oppiaineet/600170",
     "curriculum": "POPS 2014",
     "license": "Open Government Data (Finland)",
-    "lastSynced": "2026-03-03T08:59:03Z",
-    "aiEnriched": ["description.en", "interdisciplinaryThemes", "basicSkills"]
+    "lastSynced": "2026-03-03T16:02:25Z",
+    "aiEnriched": [
+      "description.en",
+      "interdisciplinaryThemes",
+      "basicSkills"
+    ]
   },
   "subject": {
     "code": "VK",
@@ -158,7 +162,9 @@
               "local": "T1 ohjata oppilasta havaitsemaan lähiympäristön ja maailman kielellinen ja kulttuurinen runsaus sekä englannin asema globaalin viestinnän kielenä",
               "en": "T1 guide the pupil to notice the linguistic and cultural richness of the immediate environment and the world, and the status of English as a language of global communication"
             },
-            "coreElements": ["S1"],
+            "coreElements": [
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -167,7 +173,9 @@
               "local": "T2 motivoida oppilasta arvostamaan omaa kieli- ja kulttuuritaustaansa sekä maailman kielellistä ja kulttuurista moninaisuutta ja kohtaamaan ihmisiä ilman arvottavia ennakko-oletuksia",
               "en": "T2 motivate the pupil to value their own linguistic and cultural background as well as the linguistic and cultural diversity of the world, and to encounter people without prejudicial assumptions"
             },
-            "coreElements": ["S1"],
+            "coreElements": [
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -176,7 +184,9 @@
               "local": "T3 ohjata oppilasta havaitsemaan kieliä yhdistäviä ja erottavia ilmiöitä sekä tukea oppilaan kielellisen päättelykyvyn kehittymistä",
               "en": "T3 guide the pupil to notice phenomena that connect and distinguish languages, and to support the development of the pupil's linguistic reasoning ability"
             },
-            "coreElements": ["S1"],
+            "coreElements": [
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -185,7 +195,9 @@
               "local": "T4 ohjata oppilasta ymmärtämään, että englanniksi on saatavilla runsaasti aineistoa ja valitsemaan niistä omaa oppimistaan edistävää, sisällöltään ja vaikeustasoltaan sopivaa aineistoa",
               "en": "T4 guide the pupil to understand that a wealth of material is available in English and to select material that promotes their own learning and is suitable in content and level of difficulty"
             },
-            "coreElements": ["S1"],
+            "coreElements": [
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -194,7 +206,9 @@
               "local": "T5 tutustua yhdessä opetuksen tavoitteisiin ja luoda salliva opiskeluilmapiiri, jossa tärkeintä on viestin välittyminen sekä kannustava yhdessä oppiminen",
               "en": "T5 explore the learning objectives together and create a permissive study atmosphere in which the most important thing is getting the message across and supportive collaborative learning"
             },
-            "coreElements": ["S2"],
+            "coreElements": [
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -203,7 +217,9 @@
               "local": "T6 ohjata oppilasta ottamaan vastuuta omasta kielenopiskelustaan ja kannustaa harjaannuttamaan kielitaitoaan rohkeasti ja myös tieto- ja viestintäteknologiaa käyttäen sekä kokeilemaan, millaiset tavat oppia kieliä sopivat hänelle parhaiten",
               "en": "T6 guide the pupil to take responsibility for their own language learning and encourage them to practise their language skills boldly, including through the use of information and communication technology, and to try out which ways of learning languages suit them best"
             },
-            "coreElements": ["S2"],
+            "coreElements": [
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -212,7 +228,9 @@
               "local": "T7 ohjata oppilasta harjoittelemaan vuorovaikutusta aihepiiriltään monenlaisissa tilanteissa rohkaisten viestinnän jatkumiseen mahdollisista katkoksista huolimatta",
               "en": "T7 guide the pupil to practise interaction in situations on a variety of topics, encouraging the continuation of communication despite possible breakdowns"
             },
-            "coreElements": ["S3"],
+            "coreElements": [
+              "S3"
+            ],
             "verbs": []
           },
           {
@@ -221,7 +239,9 @@
               "local": "T8 rohkaista oppilasta pitämään yllä viestintätilannetta käyttäen monenlaisia viestinnän jatkamisen keinoja",
               "en": "T8 encourage the pupil to sustain a communicative situation using a variety of strategies for continuing communication"
             },
-            "coreElements": ["S3"],
+            "coreElements": [
+              "S3"
+            ],
             "verbs": []
           },
           {
@@ -230,7 +250,9 @@
               "local": "T9 tukea oppilaan viestinnän kulttuurista sopivuutta tarjoamalla mahdollisuuksia harjoitella monipuolisia sosiaalisia tilanteita",
               "en": "T9 support the cultural appropriateness of the pupil's communication by providing opportunities to practise a variety of social situations"
             },
-            "coreElements": ["S3"],
+            "coreElements": [
+              "S3"
+            ],
             "verbs": []
           },
           {
@@ -239,7 +261,9 @@
               "local": "T10 ohjata oppilasta työskentelemään vaativuudeltaan monentasoisten puhuttujen ja kirjoitettujen tekstien parissa käyttäen erilaisia ymmärtämisstrategioita",
               "en": "T10 guide the pupil to work with spoken and written texts of varying levels of difficulty using different comprehension strategies"
             },
-            "coreElements": ["S3"],
+            "coreElements": [
+              "S3"
+            ],
             "verbs": []
           },
           {
@@ -248,8 +272,56 @@
               "local": "T11 tarjota oppilaalle mahdollisuuksia tuottaa puhetta ja kirjoitusta aihepiirejä laajentaen sekä kiinnittäen huomiota myös keskeisiin rakenteisiin ja ääntämisen perussääntöihin",
               "en": "T11 provide the pupil with opportunities to produce speech and writing while expanding the range of topics, and paying attention to key structures and basic rules of pronunciation"
             },
-            "coreElements": ["S3"],
+            "coreElements": [
+              "S3"
+            ],
             "verbs": []
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "5",
+            "label": {
+              "local": "Arvosana 5 (välttävä)",
+              "en": "Grade 5 (passable)"
+            },
+            "text": {
+              "local": "Kielellisen ja kulttuurisen moninaisuuden sekä englannin kielen aseman ja merkityksen hahmottaminen: Oppilas osaa nimetä joitakin hänen lähiympäristössään tai maailmassa käytettyjä kieliä.  \n\nOppilas osaa antaa jonkin esimerkin eri englanninkielisten maiden kulttuureille tyypillisistä asioista.\nKielellinen päättely: Oppilas osaa nimetä jonkin yhtäläisyyden ja eron englannin kielen ja äidinkielensä tai muun osaamansa kielen välillä.\nEnglanninkielisen aineiston löytäminen: Oppilas osaa antaa esimerkin jostakin itselleen sopivasta englanninkielisestä aineistosta.\nEnglannin kielen opiskelun tavoitteista kertominen ja ryhmässä toimiminen: Oppilas osaa nimetä jonkin tavoitteen englannin kielen opiskelulleen.\n\nOppilas osallistuu toisinaan ryhmän toimintaan ja tekee yhteistyötä.\nVastuun ottaminen englannin kielen opiskelusta ja sopivien kielen oppimistapojen löytäminen: Oppilas ottaa ohjattuna jonkin verran vastuuta englannin kielen opiskelustaan.\n\nOppilas osaa käyttää jotakin tapaa, mukaan lukien tieto- ja viestintäteknologiaa, oppiakseen englannin kieltä ja muita kieliä.\nVuorovaikutus erilaisissa tilanteissa: Taitotaso A1.1:\n\nOppilas selviytyy satunnaisesti viestintäkumppanin tukemana muutamasta, kaikkein yleisimmin toistuvasta ja rutiininomaisesta viestintätilanteesta.\nViestintästrategioiden käyttö: Taitotaso A1.1:\n\nOppilas tarvitsee paljon apukeinoja (esim. eleet, piirtäminen, sanastot, internet).\n\nOppilas osaa joskus arvailla tai päätellä yksittäisten sanojen merkityksiä asiayhteyden, yleistiedon tai muun kielitaitonsa perusteella.\n\nOppilas osaa ilmaista, onko ymmärtänyt.\nViestinnän kulttuurinen sopivuus: Taitotaso A1.1:\n\nOppilas osaa käyttää muutamia kielelle ja kulttuurille tyypillisimpiä kohteliaisuuden ilmauksia (tervehtiminen, hyvästely, kiittäminen) joissakin kaikkein rutiininomaisimmissa sosiaalisissa kontakteissa.\nTekstien tulkintataidot: Taitotaso A1.1:\n\nOppilas ymmärtää vähäisen määrän yksittäisiä puhuttuja ja kirjoitettuja sanoja ja ilmauksia.\n \nOppilas tuntee kirjainjärjestelmän tai hyvin rajallisen määrän kirjoitusmerkkejä.\nTekstien tuottamistaidot: Taitotaso A1.1:\n\nOppilas osaa ilmaista itseään puheessa hyvin suppeasti käyttäen harjoiteltuja sanoja ja opeteltuja vakioilmaisuja.\n\nOppilas ääntää joitakin harjoiteltuja ilmauksia ymmärrettävästi ja osaa kirjoittaa joitakin erillisiä sanoja ja sanontoja.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "7",
+            "label": {
+              "local": "Arvosana 7 (tyydyttävä)",
+              "en": "Grade 7 (satisfactory)"
+            },
+            "text": {
+              "local": "Kielellisen ja kulttuurisen moninaisuuden sekä englannin kielen aseman ja merkityksen hahmottaminen: Oppilas osaa kertoa, mitä kieliä hänen lähiympäristössään ja maailmassa käytetään.  \n\nOppilas osaa antaa joitakin esimerkkejä eri englanninkielisten maiden kulttuureille tyypillisistä asioista.\n\nOppilas osaa antaa esimerkin tilanteesta, jossa englantia käytetään globaalin viestinnän kielenä.\nKielellinen päättely: Oppilas osaa antaa esimerkkejä yhtäläisyyksistä ja eroista englannin kielen ja äidinkielensä tai muun osaamansa kielen välillä.\nEnglanninkielisen aineiston löytäminen: Oppilas osaa antaa esimerkkejä häntä itseään kiinnostavista englanninkielisistä aineistoista.\nEnglannin kielen opiskelun tavoitteista kertominen ja ryhmässä toimiminen: Oppilas osaa antaa joitakin esimerkkejä englannin kielen opiskelun tavoitteistaan.\n\nOppilas osallistuu ryhmän toimintaan ja tekee yhteistyötä.\nVastuun ottaminen englannin kielen opiskelusta ja sopivien kielen oppimistapojen löytäminen: Oppilas ottaa jonkin verran vastuuta englannin kielen opiskelustaan.\n\nOppilas osaa käyttää joitakin tapoja, mukaan lukien tieto- ja viestintäteknologiaa, oppiakseen englannin kieltä ja muita kieliä.\nVuorovaikutus erilaisissa tilanteissa: Taitotaso A1.3:\n\nOppilas selviytyy monista rutiininomaisista viestintätilanteista tukeutuen joskus viestintäkumppaniin.\nViestintästrategioiden käyttö: Taitotaso A1.3:\n\nOppilas osallistuu viestintään, mutta tarvitsee vielä usein apukeinoja.\n\nOppilas osaa reagoida suppein sanallisin ilmauksin, pienin elein (esim. nyökkäämällä), äännähdyksin tai muunlaisella minimipalautteella.\n\nOppilas joutuu pyytämään selvennystä tai toistoa hyvin usein.\nViestinnän kulttuurinen sopivuus: Taitotaso A1.3:\n\nOppilas osaa käyttää yleisimpiä kohteliaaseen kielenkäyttöön kuuluvia ilmauksia monissa rutiininomaisissa sosiaalisissa kontakteissa.\nTekstien tulkintataidot: Taitotaso A1.3:\n\nOppilas ymmärtää yksinkertaista, tuttua sanastoa ja ilmaisuja sisältävää kirjoitettua tekstiä ja hidasta puhetta asiayhteyden tukemana.\n\nOppilas pystyy löytämään tarvitsemansa yksinkertaisen tiedon lyhyestä tekstistä.\nTekstien tuottamistaidot: Taitotaso A1.3:\n\nOppilas osaa rajallisen määrän lyhyitä, ulkoa opeteltuja ilmauksia, keskeistä sanastoa ja perustason lauserakenteita.\n\nOppilas pystyy kertomaan arkisista ja itselleen tärkeistä asioista käyttäen suppeaa ilmaisuvarastoa ja kirjoittamaan yksinkertaisia viestejä.\n\nOppilas ääntää harjoitellut ilmaisut ymmärrettävästi.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "8",
+            "label": {
+              "local": "Arvosana 8 (hyvä)",
+              "en": "Grade 8 (good)"
+            },
+            "text": {
+              "local": "Kielellisen ja kulttuurisen moninaisuuden sekä englannin kielen aseman ja merkityksen hahmottaminen: Oppilas osaa kertoa lähiympäristönsä ja maailman kielellisestä runsaudesta.\n\nOppilas osaa antaa esimerkkejä eri englanninkielisten maiden kulttuureille tyypillisistä asioista.\n\nOppilas osaa kertoa, missä ja millaisissa tilanteissa englantia käytetään globaalin viestinnän kielenä.\nKielellinen päättely: Oppilas osaa kertoa yhtäläisyyksistä ja eroista englannin kielen ja äidinkielensä tai muun osaamansa \nkielen välillä.\n\nOppilas osaa nimetä joitakin kielellistä päättelyä tukevia strategioita.\nEnglanninkielisen aineiston löytäminen: Oppilas osaa kertoa englanninkielisistä aineistoista, jotka ovat hänelle itselleen sopivia ja jotka kiinnostavat häntä.\nEnglannin kielen opiskelun tavoitteista kertominen ja ryhmässä toimiminen: Oppilas osaa kertoa englannin kielen opiskelun tavoitteistaan.\n\nOppilas osallistuu ryhmän toimintaan ja tekee yhteistyötä kannustavasti.\nVastuun ottaminen englannin kielen opiskelusta ja sopivien kielen oppimistapojen löytäminen: Oppilas ottaa melko paljon vastuuta englannin kielen opiskelustaan.\n\nOppilas osaa käyttää useita oppimistaan edistäviä tapoja, mukaan lukien tieto- ja viestintäteknologiaa, oppiakseen englannin kieltä ja muita kieliä.\nVuorovaikutus erilaisissa tilanteissa: Taitotaso A2.1:\n\nOppilas pystyy vaihtamaan ajatuksia tai tietoja tutuissa ja jokapäiväisissä tilanteissa sekä toisinaan ylläpitämään viestintätilannetta.\nViestintästrategioiden käyttö: Taitotaso A2.1:\n\nOppilas osallistuu enenevässä määrin viestintään. \n\nOppilas turvautuu harvemmin ei-kielellisiin ilmaisuihin. \n\nOppilas joutuu pyytämään toistoa tai selvennystä melko usein.\n\nOppilas osaa jonkin verran soveltaa viestintäkumppanin ilmaisuja omassa viestinnässään.\nViestinnän kulttuurinen sopivuus: Taitotaso A2.1:\n\nOppilas selviytyy lyhyistä sosiaalisista tilanteista.\n\nOppilas osaa käyttää yleisimpiä kohteliaita tervehdyksiä ja puhuttelumuotoja sekä esittää kohteliaasti esimerkiksi pyyntöjä, kutsuja, ehdotuksia ja anteeksipyyntöjä ja vastata sellaisiin.\nTekstien tulkintataidot: Taitotaso A2.1:\n\nOppilas ymmärtää helppoja, tuttua sanastoa ja ilmaisuja sekä selkeää puhetta sisältäviä tekstejä. \n\nOppilas ymmärtää lyhyiden, yksinkertaisten, itseään kiinnostavien viestien ydinsisällön ja tekstin pääajatukset tuttua sanastoa sisältävästä, ennakoitavasta tekstistä.\n\nOppilas pystyy hyvin yksinkertaiseen päättelyyn asiayhteyden tukemana.\nTekstien tuottamistaidot: Taitotaso A2.1:\n\nOppilas pystyy kertomaan jokapäiväisistä ja konkreettisista sekä itselleen tärkeistä asioista käyttäen yksinkertaisia lauseita ja konkreettista sanastoa.\n \nOppilas osaa helposti ennakoitavan perussanaston ja monia keskeisimpiä rakenteita.\n\nOppilas osaa soveltaa joitakin ääntämisen perussääntöjä muissakin kuin harjoitelluissa ilmauksissa.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "9",
+            "label": {
+              "local": "Arvosana 9 (kiitettävä)",
+              "en": "Grade 9 (excellent)"
+            },
+            "text": {
+              "local": "Kielellisen ja kulttuurisen moninaisuuden sekä englannin kielen aseman ja merkityksen hahmottaminen: Oppilas osaa kertoa monipuolisesti lähiympäristönsä ja maailman kielellistä runsautta.\n\nOppilas osaa vertailla eri englanninkielisten maiden kulttuureille tyypillisiä asioita.\n\nOppilas osaa kertoa, missä ja millaisissa tilanteissa sekä miksi englantia käytetään globaalin viestinnän kielenä.\nKielellinen päättely: Oppilas osaa vertailla yhtäläisyyksiä ja eroja englannin kielen ja äidinkielensä tai muun osaamansa kielen välillä. \n\nOppilas osaa käyttää sopivia kielellistä päättelyä tukevia strategioita.\nEnglanninkielisen aineiston löytäminen: Oppilas osaa vertailla englanninkielisiä aineistoja, jotka ovat hänelle itselleen sopivia ja jotka kiinnostavat häntä.\nEnglannin kielen opiskelun tavoitteista kertominen ja ryhmässä toimiminen: Oppilas osaa kertoa englannin kielen opiskelun tavoitteistaan ja kertoa, kuinka hän työskentelee saavuttaakseen tavoitteensa.\n\nOppilas osallistuu ryhmän toimintaan ja tekee yhteistyötä monipuolisesti ja kannustavasti.\nVastuun ottaminen englannin kielen opiskelusta ja sopivien kielen oppimistapojen löytäminen: Oppilas ottaa paljon vastuuta englannin kielen opiskelustaan.\n\nOppilas osaa käyttää monipuolisesti oppimistaan edistäviä tapoja, mukaan lukien tieto- ja viestintäteknologiaa oppiakseen englannin kieltä ja muita kieliä.\nVuorovaikutus erilaisissa tilanteissa: Taitotaso A2.2:\n\nOppilas selviää kohtalaisesti monenlaisista jokapäiväisistä viestintätilanteista.\n\nOppilas pystyy enenevässä määrin olemaan aloitteellinen viestintätilanteessa.\nViestintästrategioiden käyttö: Taitotaso A2.2:\n\nOppilas osallistuu enenevässä määrin viestintään käyttäen tarvittaessa vakiosanontoja pyytäessään tarkennusta avainsanoista.\n \nOppilas joutuu pyytämään toistoa tai selvennystä silloin tällöin ja käyttää esim. lähikäsitettä tai yleisempää käsitettä, kun ei tiedä täsmällistä käsitettä (koira/eläin tai talo/mökki).\nViestinnän kulttuurinen sopivuus: Taitotaso A2.2:\n\nOppilas osaa käyttää kieltä yksinkertaisella tavalla kaikkein keskeisimpiin tarkoituksiin, kuten tiedonvaihtoon sekä mielipiteiden ja asenteiden asianmukaiseen ilmaisemiseen.\n\nOppilas pystyy keskustelemaan kohteliaasti käyttäen tavanomaisia ilmauksia ja perustason viestintärutiineja.\nTekstien tulkintataidot: Taitotaso A2.2:\n\nOppilas pystyy seuraamaan hyvin summittaisesti selväpiirteisen asiapuheen pääkohtia, tunnistaa usein ympärillään käytävän keskustelun aiheen ja ymmärtää pääasiat tuttua sanastoa sisältävästä yleiskielisestä tekstistä tai hitaasta puheesta.\n\nOppilas osaa päätellä tuntemattomien sanojen merkityksiä asiayhteydestä.\nTekstien tuottamistaidot: Taitotaso A2.2:\n\nOppilas osaa kuvata luettelomaisesti (ikäkaudelleen tyypillisiä) jokapäiväiseen elämään liittyviä asioita käyttäen tavallista sanastoa ja joitakin idiomaattisia ilmauksia sekä perustason rakenteita ja joskus hiukan vaativampiakin.\n\nOppilas osaa soveltaa joitakin ääntämisen perussääntöjä muissakin kuin harjoitelluissa ilmauksissa.",
+              "en": ""
+            }
           }
         ]
       },
@@ -266,7 +338,9 @@
               "local": "T1 edistää oppilaan taitoa pohtia englannin asemaan ja variantteihin liittyviä ilmiöitä ja arvoja antaa oppilaalle valmiuksia kehittää kulttuurienvälistä toimintakykyä",
               "en": "T1 promote the pupil's ability to reflect on phenomena and values related to the status and varieties of English, and provide the pupil with the capacity to develop intercultural competence"
             },
-            "coreElements": ["S1"],
+            "coreElements": [
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -275,7 +349,9 @@
               "local": "T2 kannustaa löytämään kiinnostavia englanninkielisiä sisältöjä ja toimintaympäristöjä, jotka laajentavat käsitystä globalisoituvasta maailmasta ja siinä toimimisen mahdollisuuksista",
               "en": "T2 encourage the pupil to find interesting English-language content and environments that broaden their understanding of the globalising world and the possibilities of operating within it"
             },
-            "coreElements": ["S1"],
+            "coreElements": [
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -284,7 +360,9 @@
               "local": "T3 ohjata oppilasta havaitsemaan, millaisia säännönmukaisuuksia englannin kielessä on, miten samoja asioita ilmaistaan muissa kielissä sekä käyttämään kielitiedon käsitteitä oppimisensa tukena",
               "en": "T3 guide the pupil to notice what kinds of regularities exist in English, how the same things are expressed in other languages, and to use linguistic concepts to support their learning"
             },
-            "coreElements": ["S1"],
+            "coreElements": [
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -293,7 +371,9 @@
               "local": "T4 rohkaista oppilasta asettamaan tavoitteita, hyödyntämään monipuolisia tapoja oppia englantia ja arvioimaan oppimistaan itsenäisesti ja yhteistyössä sekä ohjata oppilasta myönteiseen vuorovaikutukseen, jossa tärkeintä on viestin välittyminen",
               "en": "T4 encourage the pupil to set goals, to use diverse ways of learning English, and to evaluate their learning independently and collaboratively, and to guide the pupil towards positive interaction in which the most important thing is getting the message across"
             },
-            "coreElements": ["S2"],
+            "coreElements": [
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -302,7 +382,9 @@
               "local": "T5 kehittää oppilaan itsenäisyyttä soveltaa luovasti kielitaitoaan sekä jatkuvan kieltenopiskelun valmiuksia",
               "en": "T5 develop the pupil's independence in applying their language skills creatively and their readiness for lifelong language learning"
             },
-            "coreElements": ["S2"],
+            "coreElements": [
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -311,7 +393,9 @@
               "local": "T6 rohkaista oppilasta osallistumaan keskusteluihin monenlaisista oppilaiden ikätasolle ja elämänkokemukseen sopivista aiheista, joissa käsitellään myös mielipiteitä",
               "en": "T6 encourage the pupil to participate in conversations on a variety of topics appropriate to the pupils' age level and life experience, including topics that involve opinions"
             },
-            "coreElements": ["S3"],
+            "coreElements": [
+              "S3"
+            ],
             "verbs": []
           },
           {
@@ -320,7 +404,9 @@
               "local": "T7 tukea oppilaan aloitteellisuutta viestinnässä, kompensaatiokeinojen käytössä ja merkitysneuvottelun käymisessä",
               "en": "T7 support the pupil's initiative in communication, in the use of compensation strategies, and in negotiation of meaning"
             },
-            "coreElements": ["S3"],
+            "coreElements": [
+              "S3"
+            ],
             "verbs": []
           },
           {
@@ -329,7 +415,9 @@
               "local": "T8 auttaa oppilasta tunnistamaan viestinnän kulttuurisia piirteitä ja tukea oppilaiden rakentavaa kulttuurienvälistä viestintää",
               "en": "T8 help the pupil to recognise cultural features of communication and to support pupils' constructive intercultural communication"
             },
-            "coreElements": ["S3"],
+            "coreElements": [
+              "S3"
+            ],
             "verbs": []
           },
           {
@@ -338,7 +426,9 @@
               "local": "T9 tarjota oppilaalle mahdollisuuksia kuulla ja lukea monenlaisia itselleen merkityksellisiä yleiskielisiä ja yleistajuisia tekstejä erilaisista lähteistä sekä tulkita niitä käyttäen erilaisia strategioita",
               "en": "T9 provide the pupil with opportunities to listen to and read various types of personally meaningful standard and accessible texts from different sources, and to interpret them using different strategies"
             },
-            "coreElements": ["S3"],
+            "coreElements": [
+              "S3"
+            ],
             "verbs": []
           },
           {
@@ -347,8 +437,56 @@
               "local": "T10 ohjata oppilasta tuottamaan sekä puhuttua että kirjoitettua tekstiä erilaisiin tarkoituksiin yleisistä ja itselleen merkityksellisistä aiheista kiinnittäen huomiota rakenteiden monipuolisuuteen ja ohjaten hyvään ääntämiseen",
               "en": "T10 guide the pupil to produce both spoken and written text for various purposes on general and personally meaningful topics, paying attention to the versatility of structures and guiding good pronunciation"
             },
-            "coreElements": ["S3"],
+            "coreElements": [
+              "S3"
+            ],
             "verbs": []
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "5",
+            "label": {
+              "local": "Arvosana 5 (välttävä)",
+              "en": "Grade 5 (passable)"
+            },
+            "text": {
+              "local": "Kielen asemaan ja variantteihin liittyvien kysymysten huomaaminen ja kulttuurien välinen toimintakyky: Oppilas osaa nimetä joitakin maita, joissa englantia puhutaan.\n\nOppilas osaa kertoa jotakin kielialueen maiden kulttuureista ja elämänmuodoista.\nMaailmankansalaisen taitojen kehittäminen englannin kieltä hyödyntämällä: Oppilas osaa antaa esimerkkejä joistakin aineistoista ja toimintaympäristöistä, joissa voi käyttää englannin kieltä.\nKielellinen päättely: Oppilas osaa tehdä havaintoja joistakin englannin kielen säännönmukaisuuksista.\nTavoitteiden asettaminen, opiskelustrategioiden hyödyntäminen, oppimisen reflektointi ja vuorovaikutuksessa toimimisen tapojen hahmottaminen: Oppilas osaa käyttää joitakin itselle sopivia kielenoppimistapoja.\n\nOppilas osaa antaa joitakin esimerkkejä tavoista toimia rakentavasti vuorovaikutuksessa.\nJatkuvan kielenopiskelun valmiuksien kehittyminen: Oppilas osaa antaa joitakin esimerkkejä mahdollisuuksista kehittää englannin kielen taitoaan.\nVuorovaikutus erilaisissa tilanteissa: Taitotaso A1.3 \nOppilas selviytyy monista rutiininomaisista viestintätilanteista tukeutuen joskus viestintäkumppaniin.\nViestintästrategioiden käyttö: Taitotaso A1.3 Oppilas osallistuu viestintään, mutta tarvitsee edelleen usein apukeinoja.\n \nOppilas osaa reagoida suppein\nsanallisin ilmauksin, pienin elein (esim. nyökkäämällä), äännähdyksin tai muunlaisella minimipalautteella.\n\nOppilas joutuu pyytämään selvennystä tai toistoa hyvin\nusein.\nViestinnän kulttuurinen sopivuus: Taitotaso A1.3 Oppilas osaa käyttää yleisimpiä kohteliaaseen\nkielenkäyttöön kuuluvia ilmauksia monissa rutiininomaisissa sosiaalisissa kontakteissa.\nTekstien tulkintataidot: Taitotaso A1.3 Oppilas ymmärtää yksinkertaista, tuttua\nsanastoa ja ilmaisuja sisältävää kirjoitettua tekstiä ja hidasta puhetta asiayhteyden tukemana.\n\nOppilas pystyy löytämään tarvitsemansa yksinkertaisen tiedon lyhyestä tekstistä.\nTekstien tuottamistaidot: Taitotaso A1.3\nOppilas osaa rajallisen\nmäärän lyhyitä, ulkoa opeteltuja ilmauksia, keskeistä sanastoa ja\nperustason lauserakenteita.\n\nOppilas pystyy kertomaan arkisista ja itselleen tärkeistä asioista käyttäen suppeaa ilmaisuvarastoa ja kirjoittamaan yksinkertaisia viestejä sekä ääntää harjoitellut ilmaisut ymmärrettävästi.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "7",
+            "label": {
+              "local": "Arvosana 7 (tyydyttävä)",
+              "en": "Grade 7 (satisfactory)"
+            },
+            "text": {
+              "local": "Kielen asemaan ja variantteihin liittyvien kysymysten huomaaminen ja kulttuurien välinen toimintakyky: Oppilas osaa kertoa, missä englantia puhutaan ja että sitä puhutaan eri tavoin.\n\nOppilas osaa kuvailla kielialueen maiden kulttuureja ja elämänmuotoja. \n     \nOppilas osaa nimetä vuorovaikutukseen liittyviä kulttuurisia piirteitä.\nMaailmankansalaisen taitojen kehittäminen englannin kieltä hyödyntämällä: Oppilas osaa nimetä englanninkielisiä aineistoja ja toimintaympäristöjä, jotka edistävät hänen oppimistaan.\nKielellinen päättely: Oppilas osaa tehdä joitakin johtopäätöksiä englannin kielen säännönmukaisuuksista.\n\nOppilas osaa antaa joitakin esimerkkejä siitä, miten sama asia ilmaistaan englannissa ja jossakin muussa kielessä.\n\nOppilas osaa antaa joitakin esimerkkejä englannin kielen kielitiedon käsitteistä ja osaa käyttää niitä kielitaitonsa kehittämiseen.\nTavoitteiden asettaminen, opiskelustrategioiden hyödyntäminen, oppimisen reflektointi ja vuorovaikutuksessa toimimisen tapojen hahmottaminen: Oppilas osaa käyttää yleisimpiä itselle sopivia kielenoppimistapoja.\n\nOppilas osaa kuvata joitakin tapoja toimia rakentavasti vuorovaikutuksessa.\nJatkuvan kielenopiskelun valmiuksien kehittyminen: Oppilas osaa kuvailla mahdollisuuksia kehittää englannin kielen taitoaan myös koulun päätyttyä.\nVuorovaikutus erilaisissa tilanteissa: Taitotaso A2.2\nOppilas selviää kohtalaisesti monenlaisista jokapäiväisistä viestintätilanteista ja pystyy enenevässä määrin olemaan aloitteellinen viestintätilanteessa.\nViestintästrategioiden käyttö: Taitotaso A2.2 Oppilas osallistuu enenevässä määrin viestintään käyttäen tarvittaessa vakiosanontoja pyytäessään tarkennusta avainsanoista. \n\nOppilas joutuu pyytämään toistoa tai selvennystä silloin tällöin.\n\nOppilas käyttää esim. lähikäsitettä tai yleisempää käsitettä, kun ei tiedä täsmällistä (koira/eläin tai talo/mökki).\nViestinnän kulttuurinen sopivuus: Taitotaso A2.2 Oppilas osaa käyttää kieltä yksinkertaisella tavalla kaikkein keskeisimpiin tarkoituksiin, kuten tiedonvaihtoon sekä mielipiteiden ja asenteiden asianmukaiseen ilmaisemiseen. \n\nOppilas pystyy\nkeskustelemaan kohteliaasti käyttäen tavanomaisia ilmauksia ja perustason viestintärutiineja.\nTekstien tulkintataidot: Taitotaso A2.2\nOppilas pystyy seuraamaan\nhyvin summittaisesti selväpiirteisen asiapuheen pääkohtia, tunnistaa usein ympärillään käytävän keskustelun aiheen sekä ymmärtää pääasiat tuttua sanastoa sisältävästä yleiskielisestä tekstistä tai hitaasta puheesta.\n\nOppilas osaa päätellä tuntemattomien sanojen merkityksiä asiayhteydestä.\nTekstien tuottamistaidot: Taitotaso A2.2\nOppilas osaa kuvata luettelomaisesti (ikäkaudelleen tyypillisiä) jokapäiväiseen elämään liittyviä asioita käyttäen tavallista sanastoa ja joitakin idiomaattisia ilmauksia sekä perustason rakenteita ja joskus hiukan vaativampiakin.\n\nOppilas osaa soveltaa joitakin ääntämisen perussääntöjä muissakin kuin harjoitelluissa ilmauksissa.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "8",
+            "label": {
+              "local": "Arvosana 8 (hyvä)",
+              "en": "Grade 8 (good)"
+            },
+            "text": {
+              "local": "Kielen asemaan ja variantteihin liittyvien kysymysten huomaaminen ja kulttuurien välinen toimintakyky: Oppilas osaa kertoa englannin asemasta maailmankielenä.\n \nOppilas osaa vertailla kielialueen maiden kulttuureja ja elämänmuotoja.\n\nOppilas osaa kertoa kulttuurisista piirteistä vuorovaikutuksessa.\nMaailmankansalaisen taitojen kehittäminen englannin kieltä hyödyntämällä: Oppilas osaa vertailla englanninkielisiä aineistoja ja toimintaympäristöjä, jotka edistävät hänen oppimistaan\nKielellinen päättely: Oppilas osaa tehdä johtopäätöksiä englannin kielen säännönmukaisuuksista.\n\nOppilas osaa kertoa, miten sama asia ilmaistaan englannissa ja jossakin muussa kielessä.\n\nOppilas osaa kertoa kohdekielen keskeisistä kielitiedon käsitteistä ja käyttää niitä kielitaitonsa kehittämiseen.\nTavoitteiden asettaminen, opiskelustrategioiden hyödyntäminen, oppimisen reflektointi ja vuorovaikutuksessa toimimisen tapojen hahmottaminen: Oppilas osaa käyttää keskeisimpiä itselle sopivia kielenoppimistapoja.\n  \nOppilas osaa vertailla tapoja toimia rakentavasti vuorovaikutuksessa.\nJatkuvan kielenopiskelun valmiuksien kehittyminen: Oppilas osaa vertailla erilaisia mahdollisuuksia soveltaa ja kehittää englannin kielen taitoaan myös koulun päätyttyä.\nVuorovaikutus erilaisissa tilanteissa: Taitotaso B1.1 Oppilas pystyy viestimään, osallistumaan keskusteluihin ja ilmaisemaan mielipiteitään melko vaivattomasti jokapäiväisissä viestintätilanteissa.\nViestintästrategioiden käyttö: Taitotaso B1.1 Oppilas pystyy jossain määrin olemaan aloitteellinen viestinnän eri vaiheissa ja osaa varmistaa, onko viestintäkumppani ymmärtänyt viestin sekä kiertää tai korvata tuntemattoman sanan tai muotoilla viestinsä uudelleen. Oppilas pystyy neuvottelemaan tuntemattomien ilmauksien merkityksistä.\nViestinnän kulttuurinen sopivuus: Taitotaso B1.1 Oppilas osoittaa tuntevansa tärkeimmät kohteliaisuussäännöt. Oppilas pystyy ottamaan vuorovaikutuksessaan huomioon joitakin tärkeimpiä kulttuurisiin käytänteisiin liittyviä näkökohtia.\nTekstien tulkintataidot: Taitotaso B1.1 Oppilas ymmärtää pääasiat ja joitakin yksityiskohtia selkeästä ja lähes normaalitempoisesta yleiskielisestä puheesta tai yleistajuisesta kirjoitetusta tekstistä ja ymmärtää yhteiseen kokemukseen tai yleistietoon perustuvaa puhetta tai kirjoitettua tekstiä. Oppilas löytää pääajatukset, avainsanat ja tärkeitä yksityiskohtia myös valmistautumatta.\nTekstien tuottamistaidot: Taitotaso B1.1 Oppilas osaa kertoa ydinkohdat ja myös hiukan yksityiskohtia erilaisista jokapäiväiseen elämään liittyvistä itseään kiinnostavista todellisista tai kuvitteellisista aiheista käyttäen melko laajaa sanastoa ja rakennevalikoimaa sekä joitakin yleisiä fraaseja ja idiomeja. Oppilas osaa soveltaa useita ääntämisen perussääntöjä muissakin kuin harjoitelluissa ilmauksissa.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "9",
+            "label": {
+              "local": "Arvosana 9 (kiitettävä)",
+              "en": "Grade 9 (excellent)"
+            },
+            "text": {
+              "local": "Kielen asemaan ja variantteihin liittyvien kysymysten huomaaminen ja kulttuurien välinen toimintakyky: Oppilas osaa pohtia englannin asemaa maailmankielenä ja siihen liittyviä ilmiöitä.\n\nOppilas osaa vertailla ja pohtia kielialueen maiden kulttuureja ja elämänmuotoja.\n\nOppilas osaa vertailla ja pohtia kulttuurisia piirteitä vuorovaikutuksessa.\nMaailmankansalaisen taitojen kehittäminen englannin kieltä hyödyntämällä: Oppilas osaa pohtia, miten hän voi hyödyntää englanninkielisiä aineistoja ja toimintaympäristöjä omaa oppimistaan edistääkseen.\nKielellinen päättely: Oppilas osaa tehdä johtopäätöksiä englannin kielen säännönmukaisuuksista ja soveltaa niitä.\n\nOppilas osaa vertailla, miten sama asia ilmaistaan englannissa ja jossakin muussa kielessä.\n\nOppilas tuntee englannin kielen keskeisiä kielitiedon käsitteitä ja osaa käyttää niitä\nkielitaitonsa kehittämiseen.\nTavoitteiden asettaminen, opiskelustrategioiden hyödyntäminen, oppimisen reflektointi ja vuorovaikutuksessa toimimisen tapojen hahmottaminen: Oppilas osaa käyttää monipuolisia itselle sopivia tapoja oppia englannin kieltä.\n\nOppilas osaa vertailla ja pohtia tapoja toimia rakentavasti vuorovaikutuksessa.\nJatkuvan kielenopiskelun valmiuksien kehittyminen: Oppilas osaa pohtia ja vertailla erilaisia mahdollisuuksia soveltaa ja kehittää englannin kielen taitoaan myös koulun päätyttyä.\nVuorovaikutus erilaisissa tilanteissa: Taitotaso B1.1/B1.2\nOppilas pystyy viestimään, osallistumaan\nkeskusteluihin ja ilmaisemaan\nmielipiteitään myös joissakin vaativammissa tilanteissa, kuten keskusteltaessa ajankohtaisesta tapahtumasta.\nViestintästrategioiden käyttö: Taitotaso B1.1/B1.2 Oppilas pystyy olemaan aloitteellinen tuttua aihetta käsittelevässä vuorovaikutustilanteessa ja osaa varmistaa, onko viestintäkumppani ymmärtänyt viestin, korjata väärinymmärryksiä sekä kiertää tai korvata tuntemattoman sanan tai muotoilla viestinsä uudelleen. \n\nOppilas pystyy neuvottelemaan tuntemattomien ja melko mutkikkaidenkin ilmauksien merkityksistä.\nViestinnän kulttuurinen sopivuus: Taitotaso B1.1/B1.2 Oppilas osoittaa tuntevansa tärkeimmät kohteliaisuussäännöt ja osaa kiinnittää huomiota kielenkäytön muodollisuuteen. \n\nOppilas pystyy ottamaan vuorovaikutuksessaan huomioon tärkeimpiä kulttuurisia käytänteitä.\nTekstien tulkintataidot: Taitotaso B1.1/B1.2\nOppilas ymmärtää pääasiat ja useita yksityiskohtia hieman vaativammasta normaalitempoisesta yleiskielisestä puheesta tai yleistajuisesta kirjoitetusta tekstistä.\n\nOppilas ymmärtää yhteiseen kokemukseen tai yleistietoon perustuvaa puhetta tai kirjoitettua tekstiä.\n\nOppilas löytää pääajatukset, avainsanat ja tärkeitä yksityiskohtia myös valmistautumatta.\nTekstien tuottamistaidot: Taitotaso B1.1/B1.2\nOppilas osaa kertoa ydinkohdat ja useita yksityiskohtia erilaisista jokapäiväiseen elämään liittyvistä itseään kiinnostavista todellisista tai kuvitteellisista aiheista käyttäen melko laajaa sanastoa ja rakennevalikoimaa sekä yleisiä fraaseja ja idiomeja.\n\nOppilas osaa soveltaa useita ääntämisen perussääntöjä muissakin kuin harjoitelluissa ilmauksissa.",
+              "en": ""
+            }
           }
         ]
       }

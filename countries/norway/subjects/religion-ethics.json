@@ -184,7 +184,10 @@
               "Utforsking av religioner og livssyn med ulike metoder",
               "Kunne ta andres perspektiv"
             ],
-            "verbs": ["Utforske", "Beskrive"]
+            "verbs": [
+              "Utforske",
+              "Beskrive"
+            ]
           },
           {
             "code": "KM1990",
@@ -196,7 +199,9 @@
               "Kjennskap til religioner og livssyn",
               "Utforsking av religioner og livssyn med ulike metoder"
             ],
-            "verbs": ["Presentere"]
+            "verbs": [
+              "Presentere"
+            ]
           },
           {
             "code": "KM1991",
@@ -208,7 +213,9 @@
               "Kjennskap til religioner og livssyn",
               "Utforsking av religioner og livssyn med ulike metoder"
             ],
-            "verbs": ["Presentere"]
+            "verbs": [
+              "Presentere"
+            ]
           },
           {
             "code": "KM1980",
@@ -221,7 +228,10 @@
               "Utforsking av religioner og livssyn med ulike metoder",
               "Kunne ta andres perspektiv"
             ],
-            "verbs": ["Sammenligne", "Presentere"]
+            "verbs": [
+              "Sammenligne",
+              "Presentere"
+            ]
           },
           {
             "code": "KM1981",
@@ -233,7 +243,9 @@
               "Kjennskap til religioner og livssyn",
               "Utforsking av religioner og livssyn med ulike metoder"
             ],
-            "verbs": ["Presentere"]
+            "verbs": [
+              "Presentere"
+            ]
           },
           {
             "code": "KM1989",
@@ -245,7 +257,9 @@
               "Kjennskap til religioner og livssyn",
               "Utforsking av religioner og livssyn med ulike metoder"
             ],
-            "verbs": ["Bruke"]
+            "verbs": [
+              "Bruke"
+            ]
           },
           {
             "code": "KM1982",
@@ -269,7 +283,9 @@
               "Kunne ta andres perspektiv",
               "Etisk refleksjon"
             ],
-            "verbs": ["Beskrive"]
+            "verbs": [
+              "Beskrive"
+            ]
           },
           {
             "code": "KM1983",
@@ -282,7 +298,9 @@
               "Kunne ta andres perspektiv",
               "Etisk refleksjon"
             ],
-            "verbs": ["Samarbeide"]
+            "verbs": [
+              "Samarbeide"
+            ]
           },
           {
             "code": "KM1984",
@@ -295,7 +313,9 @@
               "Kunne ta andres perspektiv",
               "Etisk refleksjon"
             ],
-            "verbs": ["Reflektere"]
+            "verbs": [
+              "Reflektere"
+            ]
           },
           {
             "code": "KM1986",
@@ -308,7 +328,9 @@
               "Kunne ta andres perspektiv",
               "Etisk refleksjon"
             ],
-            "verbs": ["Utforske"]
+            "verbs": [
+              "Utforske"
+            ]
           },
           {
             "code": "KM1985",
@@ -316,7 +338,10 @@
               "local": "sette seg inn i og formidle egne og andres tanker, følelser og erfaringer",
               "en": "sette seg inn i og formidle egne og andres tanker, følelser og erfaringer"
             },
-            "coreElements": ["Kunne ta andres perspektiv", "Etisk refleksjon"],
+            "coreElements": [
+              "Kunne ta andres perspektiv",
+              "Etisk refleksjon"
+            ],
             "verbs": []
           },
           {
@@ -325,7 +350,10 @@
               "local": "samtale om hva menneskeverd, respekt og toleranse betyr og hva det innebærer for hvordan vi lever sammen",
               "en": "samtale om hva menneskeverd, respekt og toleranse betyr og hva det innebærer for hvordan vi lever sammen"
             },
-            "coreElements": ["Kunne ta andres perspektiv", "Etisk refleksjon"],
+            "coreElements": [
+              "Kunne ta andres perspektiv",
+              "Etisk refleksjon"
+            ],
             "verbs": []
           }
         ]
@@ -348,7 +376,9 @@
               "Utforsking av religioner og livssyn med ulike metoder",
               "Kunne ta andres perspektiv"
             ],
-            "verbs": ["Gjøre rede for"]
+            "verbs": [
+              "Gjøre rede for"
+            ]
           },
           {
             "code": "KM1994",
@@ -361,7 +391,10 @@
               "Utforsking av religioner og livssyn med ulike metoder",
               "Kunne ta andres perspektiv"
             ],
-            "verbs": ["Beskrive", "Presentere"]
+            "verbs": [
+              "Beskrive",
+              "Presentere"
+            ]
           },
           {
             "code": "KM1960",
@@ -374,7 +407,10 @@
               "Utforsking av religioner og livssyn med ulike metoder",
               "Kunne ta andres perspektiv"
             ],
-            "verbs": ["Beskrive", "Presentere"]
+            "verbs": [
+              "Beskrive",
+              "Presentere"
+            ]
           },
           {
             "code": "KM1993",
@@ -386,7 +422,10 @@
               "Kjennskap til religioner og livssyn",
               "Utforsking av religioner og livssyn med ulike metoder"
             ],
-            "verbs": ["Sammenligne", "Utforske"]
+            "verbs": [
+              "Sammenligne",
+              "Utforske"
+            ]
           },
           {
             "code": "KM1961",
@@ -398,7 +437,9 @@
               "Kjennskap til religioner og livssyn",
               "Utforsking av religioner og livssyn med ulike metoder"
             ],
-            "verbs": ["Utforske"]
+            "verbs": [
+              "Utforske"
+            ]
           },
           {
             "code": "KM1976",
@@ -411,7 +452,9 @@
               "Utforsking av religioner og livssyn med ulike metoder",
               "Etisk refleksjon"
             ],
-            "verbs": ["Bruke"]
+            "verbs": [
+              "Bruke"
+            ]
           },
           {
             "code": "KM1978",
@@ -425,7 +468,9 @@
               "Kunne ta andres perspektiv",
               "Etisk refleksjon"
             ],
-            "verbs": ["Gjøre rede for"]
+            "verbs": [
+              "Gjøre rede for"
+            ]
           },
           {
             "code": "KM1995",
@@ -439,7 +484,9 @@
               "Kunne ta andres perspektiv",
               "Etisk refleksjon"
             ],
-            "verbs": ["Bruke"]
+            "verbs": [
+              "Bruke"
+            ]
           },
           {
             "code": "KM1996",
@@ -472,8 +519,14 @@
               "local": "utforske og beskrive egne og andres perspektiver i etiske dilemmaer knyttet til hverdags- og samfunnsutfordringer",
               "en": "utforske og beskrive egne og andres perspektiver i etiske dilemmaer knyttet til hverdags- og samfunnsutfordringer"
             },
-            "coreElements": ["Kunne ta andres perspektiv", "Etisk refleksjon"],
-            "verbs": ["Utforske", "Beskrive"]
+            "coreElements": [
+              "Kunne ta andres perspektiv",
+              "Etisk refleksjon"
+            ],
+            "verbs": [
+              "Utforske",
+              "Beskrive"
+            ]
           },
           {
             "code": "KM1997",
@@ -486,7 +539,9 @@
               "Kunne ta andres perspektiv",
               "Etisk refleksjon"
             ],
-            "verbs": ["Reflektere"]
+            "verbs": [
+              "Reflektere"
+            ]
           },
           {
             "code": "KM1959",
@@ -499,7 +554,9 @@
               "Kunne ta andres perspektiv",
               "Etisk refleksjon"
             ],
-            "verbs": ["Gjøre rede for"]
+            "verbs": [
+              "Gjøre rede for"
+            ]
           }
         ]
       },
@@ -521,7 +578,10 @@
               "Utforsking av religioner og livssyn med ulike metoder",
               "Kunne ta andres perspektiv"
             ],
-            "verbs": ["Utforske", "Presentere"]
+            "verbs": [
+              "Utforske",
+              "Presentere"
+            ]
           },
           {
             "code": "KM1974",
@@ -533,7 +593,10 @@
               "Kjennskap til religioner og livssyn",
               "Utforsking av religioner og livssyn med ulike metoder"
             ],
-            "verbs": ["Utforske", "Drøfte"]
+            "verbs": [
+              "Utforske",
+              "Drøfte"
+            ]
           },
           {
             "code": "KM1975",
@@ -545,7 +608,9 @@
               "Kjennskap til religioner og livssyn",
               "Utforsking av religioner og livssyn med ulike metoder"
             ],
-            "verbs": ["Presentere"]
+            "verbs": [
+              "Presentere"
+            ]
           },
           {
             "code": "KM1964",
@@ -558,7 +623,10 @@
               "Utforsking av religioner og livssyn med ulike metoder",
               "Kunne ta andres perspektiv"
             ],
-            "verbs": ["Utforske", "Presentere"]
+            "verbs": [
+              "Utforske",
+              "Presentere"
+            ]
           },
           {
             "code": "KM1965",
@@ -571,7 +639,10 @@
               "Utforsking av religioner og livssyn med ulike metoder",
               "Kunne ta andres perspektiv"
             ],
-            "verbs": ["Reflektere", "Gjøre rede for"]
+            "verbs": [
+              "Reflektere",
+              "Gjøre rede for"
+            ]
           },
           {
             "code": "KM1967",
@@ -584,7 +655,10 @@
               "Utforsking av religioner og livssyn med ulike metoder",
               "Etisk refleksjon"
             ],
-            "verbs": ["Drøfte", "Bruke"]
+            "verbs": [
+              "Drøfte",
+              "Bruke"
+            ]
           },
           {
             "code": "KM1968",
@@ -595,7 +669,10 @@
             "coreElements": [
               "Utforsking av religioner og livssyn med ulike metoder"
             ],
-            "verbs": ["Sammenligne", "Vurdere"]
+            "verbs": [
+              "Sammenligne",
+              "Vurdere"
+            ]
           },
           {
             "code": "KM1966",
@@ -609,7 +686,10 @@
               "Kunne ta andres perspektiv",
               "Etisk refleksjon"
             ],
-            "verbs": ["Reflektere", "Gjøre rede for"]
+            "verbs": [
+              "Reflektere",
+              "Gjøre rede for"
+            ]
           },
           {
             "code": "KM1973",
@@ -621,7 +701,10 @@
               "Kjennskap til religioner og livssyn",
               "Utforsking av religioner og livssyn med ulike metoder"
             ],
-            "verbs": ["Utforske", "Presentere"]
+            "verbs": [
+              "Utforske",
+              "Presentere"
+            ]
           },
           {
             "code": "KM1977",
@@ -634,7 +717,10 @@
               "Utforsking av religioner og livssyn med ulike metoder",
               "Etisk refleksjon"
             ],
-            "verbs": ["Sammenligne", "Utforske"]
+            "verbs": [
+              "Sammenligne",
+              "Utforske"
+            ]
           },
           {
             "code": "KM1998",
@@ -642,8 +728,14 @@
               "local": "utforske etiske ideer fra sentrale skikkelser i filosofihistorien og anvende ideene til å drøfte aktuelle etiske spørsmål",
               "en": "utforske etiske ideer fra sentrale skikkelser i filosofihistorien og anvende ideene til å drøfte aktuelle etiske spørsmål"
             },
-            "coreElements": ["Etisk refleksjon"],
-            "verbs": ["Utforske", "Anvende", "Drøfte"]
+            "coreElements": [
+              "Etisk refleksjon"
+            ],
+            "verbs": [
+              "Utforske",
+              "Anvende",
+              "Drøfte"
+            ]
           },
           {
             "code": "KM1969",
@@ -651,8 +743,13 @@
               "local": "utforske andres perspektiv og håndtere uenighet og meningsbrytning",
               "en": "utforske andres perspektiv og håndtere uenighet og meningsbrytning"
             },
-            "coreElements": ["Kunne ta andres perspektiv", "Etisk refleksjon"],
-            "verbs": ["Utforske"]
+            "coreElements": [
+              "Kunne ta andres perspektiv",
+              "Etisk refleksjon"
+            ],
+            "verbs": [
+              "Utforske"
+            ]
           },
           {
             "code": "KM1970",
@@ -665,7 +762,9 @@
               "Kunne ta andres perspektiv",
               "Etisk refleksjon"
             ],
-            "verbs": ["Reflektere"]
+            "verbs": [
+              "Reflektere"
+            ]
           },
           {
             "code": "KM1971",
@@ -673,8 +772,13 @@
               "local": "identifisere og drøfte etiske problemstillinger knyttet til ulike former for kommunikasjon",
               "en": "identifisere og drøfte etiske problemstillinger knyttet til ulike former for kommunikasjon"
             },
-            "coreElements": ["Kunne ta andres perspektiv", "Etisk refleksjon"],
-            "verbs": ["Drøfte"]
+            "coreElements": [
+              "Kunne ta andres perspektiv",
+              "Etisk refleksjon"
+            ],
+            "verbs": [
+              "Drøfte"
+            ]
           },
           {
             "code": "KM1972",
@@ -687,7 +791,9 @@
               "Kunne ta andres perspektiv",
               "Etisk refleksjon"
             ],
-            "verbs": ["Drøfte"]
+            "verbs": [
+              "Drøfte"
+            ]
           }
         ],
         "assessment": [
@@ -707,6 +813,41 @@
             },
             "description": {
               "local": "10. trinn: Se gjeldende ordning for grunnopplæring for voksne."
+            }
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "2",
+            "label": {
+              "local": "Lav kompetanse, karakter 2",
+              "en": "Low competency, grade 2"
+            },
+            "text": {
+              "local": "Eleven anvender deler av faglig innhold og beskriver noen faglige fenomener fra kristendom, andre religioner, livssyn og etikk ved bruk av enkelte fagbegreper.\nEleven velger, bruker og gjengir informasjon fra kilder, og bruker enkelte metoder i faget.\nEleven beskriver og sammenligner noen ulike måter å nærme seg eksistensielle spørsmål og svar.\nEleven gjengir og viser forståelse av andres ståsteder og perspektiver.\nEleven identifiserer etiske dilemmaer og viser kjennskap til etiske modeller og filosofiske tenkemåter.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "4",
+            "label": {
+              "local": "God kompetanse, karakter 4",
+              "en": "Good competency, grade 4"
+            },
+            "text": {
+              "local": "Eleven anvender sentralt faglig innhold fra kristendom, andre religioner, livssyn og etikk og bruker fagbegreper i faglige framstillinger.\nEleven velger, bruker og gjengir selvstendig informasjon fra ulike kilder og vurderer og bruker varierte metoder i faget.\nEleven beskriver likheter og forskjeller mellom ulike måter å nærme seg eksistensielle spørsmål og svar.\nEleven gjengir og forklarer andres ståsteder og perspektiver.\nEleven identifiserer etiske dilemmaer og bruker etiske modeller og filosofiske tenkemåter som redskaper i faget.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "6",
+            "label": {
+              "local": "Framifrå kompetanse, karakter 6",
+              "en": "Excellent competency, grade 6"
+            },
+            "text": {
+              "local": "Eleven anvender et bredt utvalg av sentralt faglig innhold fra kristendom, andre religioner, livssyn og etikk og bruker fagbegreper presist i faglige framstillinger.\nEleven velger, bruker, gjengir og sammenstiller informasjon fra ulike kilder selvstendig og vurderer, bruker og reflekterer over varierte og komplekse metoder i faget.\nEleven beskriver forskjellige måter å nærme seg og forstå eksistensielle spørsmål og svar og reflekterer over fordeler og ulemper ved de ulike tilnærmingsmåtene.\nEleven gjengir og reflekterer kritisk og selvstendig over andres ståsteder og perspektiver.\nElevene identifiserer et mangfold av etiske dilemmaer og bruker ulike etiske modeller og filosofiske tenkemåter som redskaper i faget.",
+              "en": ""
             }
           }
         ]

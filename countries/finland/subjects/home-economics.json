@@ -4,8 +4,12 @@
     "api": "https://eperusteet.opintopolku.fi/eperusteet-service/api/external/peruste/419550/perusopetus/oppiaineet/502086",
     "curriculum": "POPS 2014",
     "license": "Open Government Data (Finland)",
-    "lastSynced": "2026-03-03T08:58:56Z",
-    "aiEnriched": ["description.en", "interdisciplinaryThemes", "basicSkills"]
+    "lastSynced": "2026-03-03T16:02:17Z",
+    "aiEnriched": [
+      "description.en",
+      "interdisciplinaryThemes",
+      "basicSkills"
+    ]
   },
   "subject": {
     "code": "KO",
@@ -158,7 +162,10 @@
               "local": "T1 ohjata oppilasta suunnittelemaan, organisoimaan ja arvioimaan työtä ja toimintaa",
               "en": "T1 guide the pupil to plan, organise and evaluate work and activities"
             },
-            "coreElements": ["S1", "S2"],
+            "coreElements": [
+              "S1",
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -167,7 +174,10 @@
               "local": "T2 ohjata oppilasta harjoittelemaan kotitalouden hallinnassa tarvittavia kädentaitoja sekä kannustaa luovuuteen ja estetiikan huomioimiseen",
               "en": "T2 guide the pupil to practise the manual skills needed in household management and encourage creativity and attention to aesthetics"
             },
-            "coreElements": ["S1", "S2"],
+            "coreElements": [
+              "S1",
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -176,7 +186,11 @@
               "local": "T3 ohjata ja rohkaista oppilasta valitsemaan ja käyttämään hyvinvointia edistävästi ja kestävän kulutuksen mukaisesti materiaaleja, työvälineitä, laitteita sekä tieto- ja viestintäteknologiaa",
               "en": "T3 guide and encourage the pupil to select and use materials, tools, appliances and information and communication technology in ways that promote well-being and sustainable consumption"
             },
-            "coreElements": ["S1", "S2", "S3"],
+            "coreElements": [
+              "S1",
+              "S2",
+              "S3"
+            ],
             "verbs": []
           },
           {
@@ -185,7 +199,10 @@
               "local": "T4 ohjata oppilasta suunnittelemaan ajankäyttöään ja työn etenemistä sekä ylläpitämään järjestystä oppimistehtävien aikana",
               "en": "T4 guide the pupil to plan their use of time and the progress of work and to maintain orderliness during learning tasks"
             },
-            "coreElements": ["S1", "S2"],
+            "coreElements": [
+              "S1",
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -194,7 +211,11 @@
               "local": "T5 ohjata ja motivoida oppilasta toimimaan hygieenisesti, turvallisesti ja ergonomisesti sekä ohjata kiinnittämään oppilaan huomiota käytettävissä oleviin voimavaroihin",
               "en": "T5 guide and motivate the pupil to work hygienically, safely and ergonomically, and to direct the pupil's attention to the resources available"
             },
-            "coreElements": ["S1", "S2", "S3"],
+            "coreElements": [
+              "S1",
+              "S2",
+              "S3"
+            ],
             "verbs": []
           },
           {
@@ -203,7 +224,11 @@
               "local": "T6 ohjata oppilasta harjoittelemaan kuuntelua ja rakentavaa keskustelua ja argumentointia oppimistehtävien suunnittelussa ja toteuttamisessa",
               "en": "T6 guide the pupil to practise listening, constructive discussion and argumentation in planning and carrying out learning tasks"
             },
-            "coreElements": ["S1", "S2", "S3"],
+            "coreElements": [
+              "S1",
+              "S2",
+              "S3"
+            ],
             "verbs": []
           },
           {
@@ -212,7 +237,11 @@
               "local": "T7 aktivoida oppilasta tunnistamaan arjen rakentumista ja kulttuurisesti monimuotoisia toimintaympäristöjä sekä kotitalouksien perinteitä",
               "en": "T7 activate the pupil to recognise the structure of everyday life, culturally diverse operating environments and household traditions"
             },
-            "coreElements": ["S1", "S2", "S3"],
+            "coreElements": [
+              "S1",
+              "S2",
+              "S3"
+            ],
             "verbs": []
           },
           {
@@ -221,7 +250,10 @@
               "local": "T8 ohjata oppilasta työskentelemään yksin ja ryhmässä sekä sopimaan työtehtävien jakamisesta ja ajankäytöstä",
               "en": "T8 guide the pupil to work independently and in a group and to agree on the division of tasks and use of time"
             },
-            "coreElements": ["S1", "S2"],
+            "coreElements": [
+              "S1",
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -230,7 +262,11 @@
               "local": "T9 kannustaa oppilasta toimimaan hyvien tapojen mukaisesti vuorovaikutustilanteissa sekä pohtimaan oman käytöksen merkitystä ryhmän ja yhteisön toiminnassa",
               "en": "T9 encourage the pupil to act according to good manners in social interaction situations and to reflect on the significance of one's own behaviour in the functioning of a group and community"
             },
-            "coreElements": ["S1", "S2", "S3"],
+            "coreElements": [
+              "S1",
+              "S2",
+              "S3"
+            ],
             "verbs": []
           },
           {
@@ -239,7 +275,11 @@
               "local": "T10 kannustaa oppilasta hankkimaan ja arvioimaan kotitalouteen liittyvää tietoa sekä ohjata käyttämään luotettavaa tietoa valintojen perustana",
               "en": "T10 encourage the pupil to acquire and evaluate information related to home economics and guide them to use reliable information as the basis for choices"
             },
-            "coreElements": ["S1", "S2", "S3"],
+            "coreElements": [
+              "S1",
+              "S2",
+              "S3"
+            ],
             "verbs": []
           },
           {
@@ -248,7 +288,10 @@
               "local": "T11 harjaannuttaa oppilasta lukemaan, tulkitsemaan ja arvioimaan toimintaohjeita sekä merkkejä ja symboleja, jotka käsittelevät kotitaloutta ja lähiympäristöä",
               "en": "T11 train the pupil to read, interpret and evaluate instructions as well as signs and symbols related to home economics and the local environment"
             },
-            "coreElements": ["S1", "S2"],
+            "coreElements": [
+              "S1",
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -257,7 +300,11 @@
               "local": "T12 ohjata oppilasta, ongelmanratkaisuun ja luovuuteen erilaisissa tilanteissa ja ympäristöissä",
               "en": "T12 guide the pupil towards problem-solving and creativity in various situations and environments"
             },
-            "coreElements": ["S1", "S2", "S3"],
+            "coreElements": [
+              "S1",
+              "S2",
+              "S3"
+            ],
             "verbs": []
           },
           {
@@ -266,8 +313,58 @@
               "local": "T13 ohjata oppilasta kestävään elämäntapaan kiinnittämällä oppilaan huomiota ympäristö- ja kustannustietoisuuteen osana arjen valintoja",
               "en": "T13 guide the pupil towards a sustainable way of life by directing the pupil's attention to environmental and cost awareness as part of everyday choices"
             },
-            "coreElements": ["S1", "S2", "S3"],
+            "coreElements": [
+              "S1",
+              "S2",
+              "S3"
+            ],
             "verbs": []
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "5",
+            "label": {
+              "local": "Arvosana 5 (välttävä)",
+              "en": "Grade 5 (passable)"
+            },
+            "text": {
+              "local": "Työn suunnittelu ja toteuttaminen sekä oman toiminnan tarkastelu: Oppilas tunnistaa ja nimeää joitakin työprosessiin kuuluvia työtehtäviä. \n\nOppilas tarvitsee paljon ohjausta ja apua työn suunnittelemisessa ja toteuttamisessa.\nKädentaidot kotitalouden perustehtävien toteuttamisessa, luovuus ja estetiikka: Oppilas suoriutuu ohjatusti kädentaitoja edellyttävistä yksittäisistä työtehtävistä.\nValintojen tekeminen ja niiden perustelut toiminnassa: Oppilas harjoittelee valitsemaan ja käyttämään annettuja materiaaleja tai työvälineitä yksilöllisesti ohjattuna.\nAjanhallinta ja järjestyksen ylläpitäminen: Oppilas toimii aikataulussa ja ylläpitää tehtävien sekä työympäristön järjestystä ohjattuna.\nTurvallisuus ja voimavarojen kannalta kestävä toiminta: Oppilas toimii hygieenisesti ja turvallisesti ohjattuna.\nKuuntelu, keskustelu ja argumentointi yhteisessä suunnittelussa: Oppilas \nosallistuu satunnaisesti tai kysymysten tukemana keskusteluun yhteisissä suunnittelu- ja työtilanteissa.\nArjen rakentumisen sekä kotitalouksien erilaisuuden hahmottaminen: Oppilas nimeää arkirutiineja sekä tunnistaa erilaisia kotikulttuureita.\nVoimavarojen käyttäminen ja yhteisten sopimusten tekemisen oppiminen: Oppilas harjoittelee yksilöllisesti ohjattuna itsenäistä työskentelyä ja osallistuu ryhmän toimintaan satunnaisesti.\nToisten oppilaiden huomaavainen kohtelu ja tapakulttuuriin mukainen käytännön toiminta oppitunnin vuorovaikutustilanteissa: Oppilas tietää, että tapakulttuuri vaikuttaa vuorovaikutustilanteisiin.\nTietojen hankinta ja käyttö: Oppilas hakee kotitalouteen liittyvää tietoa annetuista lähteistä yksilöllisesti ohjattuna. Tietojen hyödyntäminen ja tulkitseminen on vähäistä.\nToimintaohjeiden, merkkien ja symbolien käyttäminen: Oppilas tunnistaa ja nimeää yksittäisiä toimintaohjeita ja merkkejä.\nKäsitteiden käyttäminen, tietojen ja taitojen soveltaminen sekä luovat ratkaisut tilanteissa, kotitalouden palveluiden tunteminen: Oppilas nimeää joitakin kotitalouden käsitteitä, tietoja ja taitoja sekä yksittäisiä palveluita.\nYmpäristö- ja talousteot toiminnassa ja päätöksenteossa: Oppilas luettelee joitakin ympäristöön ja rahankäyttöön liittyviä kotitalouden toimintoja.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "7",
+            "label": {
+              "local": "Arvosana 7 (tyydyttävä)",
+              "en": "Grade 7 (satisfactory)"
+            },
+            "text": {
+              "local": "Työn suunnittelu ja toteuttaminen sekä oman toiminnan tarkastelu: Oppilas suunnittelee, organisoi ja kuvailee omaa työtänsä ja toimintaansa työvaiheittain annettujen ohjeiden mukaisesti.\nKädentaidot kotitalouden perustehtävien toteuttamisessa, luovuus ja estetiikka: Oppilas suoriutuu annetuista kädentaitoja edellyttävistä työtehtävistä.\n\nOppilas tietää, että työtehtäviä voi toteuttaa luovasti monella tavalla ja että estetiikalla on merkitystä.\nValintojen tekeminen ja niiden perustelut toiminnassa: Oppilas valitsee ja käyttää raaka-aineita, materiaaleja, työvälineitä tai teknologiaa annettujen ohjeiden mukaisesti.\nAjanhallinta ja järjestyksen ylläpitäminen: Oppilas ylläpitää työtehtävien järjestystä annettujen ohjeiden ja aikataulun mukaan erillisissä työvaiheissa.\n\nOppilas tarvitsee ohjausta työympäristön järjestyksen ylläpitämisessä.\nTurvallisuus ja voimavarojen kannalta kestävä toiminta: Oppilas työskentelee hygieenisesti ja turvallisesti annettujen ohjeiden mukaisesti.\nKuuntelu, keskustelu ja argumentointi yhteisessä suunnittelussa: Oppilas osallistuu keskusteluun, pyrkii kuuntelemaan ja tuo esille omia näkökulmia yhteisissä suunnittelu- ja työtilanteissa.\nArjen rakentumisen sekä kotitalouksien erilaisuuden hahmottaminen: Oppilas kuvailee arkirutiineja, arjen rakentumista, kotitalouksien perinteitä ja erilaisia kotikulttuureita.\nVoimavarojen käyttäminen ja yhteisten sopimusten tekemisen oppiminen: Oppilas harjoittelee itsenäistä työskentelyä ja vastuunottoa omasta työstään ja osallistuu ryhmän toimintaan yhdessä sovitulla tavalla.\nToisten oppilaiden huomaavainen kohtelu ja tapakulttuuriin mukainen käytännön toiminta oppitunnin vuorovaikutustilanteissa: Oppilas tunnistaa ja nimeää tapakulttuuriin ja toisten huomaavaiseen kohteluun liittyviä asioita.\nTietojen hankinta ja käyttö: Oppilas hakee kotitalouteen liittyvää tietoa itselleen tutuista ja annetuista lähteistä ja käyttää niitä toiminnassaan.\nToimintaohjeiden, merkkien ja symbolien käyttäminen: Oppilas tunnistaa, nimeää, luokittelee ja käyttää kotitalouden toimintaohjeita ja merkkejä annettujen ohjeiden mukaisesti.\nKäsitteiden käyttäminen, tietojen ja taitojen soveltaminen sekä luovat ratkaisut tilanteissa, kotitalouden palveluiden tunteminen: Oppilas käyttää kotitalouden käsitteitä, tietojaan ja taitojaan sekä kuvailee yksittäisiä kotitalouden palveluita.\nYmpäristö- ja talousteot toiminnassa ja päätöksenteossa: Oppilas tietää, miten ympäristökuormaa voidaan vähentää sekä millaisia ympäristö- ja taloustekoja voidaan tehdä kotitalouksissa.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "8",
+            "label": {
+              "local": "Arvosana 8 (hyvä)",
+              "en": "Grade 8 (good)"
+            },
+            "text": {
+              "local": "Työn suunnittelu ja toteuttaminen sekä oman toiminnan tarkastelu: Oppilas suunnittelee ja työskentelee työvaiheittain annettuja ohjeita soveltaen sekä kuvailee omaa osaamistaan oman työskentelyn tarkastelun avulla.\nKädentaidot kotitalouden perustehtävien toteuttamisessa, luovuus ja estetiikka: Oppilas suoriutuu itsenäisesti ja soveltaa tavallisimpia työtapoja kädentaitoja edellyttävissä kotitalouden tehtävissä.\n\nOppilas ottaa huomioon yksittäisiä esteettisiä näkökulmia.\nValintojen tekeminen ja niiden perustelut toiminnassa: Oppilas soveltaa kestävän elämäntavan tietoja ja taitoja käyttäessään raaka-aineita, materiaaleja, työvälineitä tai teknologiaa.\nAjanhallinta ja järjestyksen ylläpitäminen: Oppilas etenee ohjeiden mukaisesti vaiheittain ja ylläpitää työtehtävien ja työympäristön järjestystä. \n\nOppilas suunnittelee ja ennakoi ajankäyttöään.\nTurvallisuus ja voimavarojen kannalta kestävä toiminta: Oppilas työskentelee ohjeiden mukaisesti hygieenisesti, turvallisesti ja ergonomisesti tai kustannusten ja energiankäytön kannalta tarkoituksenmukaisesti.\nKuuntelu, keskustelu ja argumentointi yhteisessä suunnittelussa: Oppilas kuuntelee eri näkökulmia ja ilmaisee rakentavasti omia näkemyksiään yhteisissä suunnittelu- ja työtilanteissa.\nArjen rakentumisen sekä kotitalouksien erilaisuuden hahmottaminen: Oppilas määrittelee arjen rakentumista ja kotitalouksien arkirutiineja erilaisissa kotikulttuureissa.\nVoimavarojen käyttäminen ja yhteisten sopimusten tekemisen oppiminen: Oppilas työskentelee yksin ja ryhmässä sekä pyrkii toimimaan rakentavasti ja työtehtävistä neuvotellen.\n\nOppilas tietää, mitä tarkoittaa tasapuolinen työnjako sekä pääsee sopimukseen työtehtävien jakamisesta osallistumalla päätöksentekoon.\nToisten oppilaiden huomaavainen kohtelu ja tapakulttuuriin mukainen käytännön toiminta oppitunnin vuorovaikutustilanteissa: Oppilas osaa toimia tapakulttuuria noudattaen.\nTietojen hankinta ja käyttö: Oppilas tietää, mistä ja miten kotitalouteen liittyviä tietoja voidaan hakea. \n\nOppilas arvioi tietojen käytettävyyttä ja lähteiden luotettavuutta.\nToimintaohjeiden, merkkien ja symbolien käyttäminen: Oppilas soveltaa toiminnassaan kotitalouden toimintaohjeita, merkkejä ja symboleita.\nKäsitteiden käyttäminen, tietojen ja taitojen soveltaminen sekä luovat ratkaisut tilanteissa, kotitalouden palveluiden tunteminen: Oppilas käyttää erilaisissa tilanteissa kotitalouden käsitteitä, tietojaan ja taitojaan.\n\nOppilas kuvailee erilaisia kotitalouden palveluita ja niiden käyttöä arkielämässä.\nYmpäristö- ja talousteot toiminnassa ja päätöksenteossa: Oppilas tekee yksittäisiä arjen ympäristö- ja taloustekoja erilaisissa tehtävissä ja tilanteissa.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "9",
+            "label": {
+              "local": "Arvosana 9 (kiitettävä)",
+              "en": "Grade 9 (excellent)"
+            },
+            "text": {
+              "local": "Työn suunnittelu ja toteuttaminen sekä oman toiminnan tarkastelu: Oppilas suunnittelee ja työskentelee itsenäisesti sekä perustelee omaa työskentelyään ja toimintaansa.\nKädentaidot kotitalouden perustehtävien toteuttamisessa, luovuus ja estetiikka: Oppilas osaa käyttää luovasti ja perustellen erilaisia kädentaitoja ja työtapoja kotitalouden tehtävissä.\n\nOppilas perustelee luovuuden ja estetiikan merkitystä ja ottaa nämä huomioon osana kokonaisuutta.\nValintojen tekeminen ja niiden perustelut toiminnassa: Oppilas valitsee, käyttää ja perustelee kestävää elämäntapaa tukevia raaka-aineita, työvälineitä, materiaaleja tai teknologiaa.\nAjanhallinta ja järjestyksen ylläpitäminen: Oppilas työskentelee itsenäisesti ja vastuullisesti sekä osaa perustella ajankäyttöään, työtehtävien ja työympäristön järjestyksen merkitystä ja toimintojen etenemistä osana oppimisympäristöä.\nTurvallisuus ja voimavarojen kannalta kestävä toiminta: Oppilas perustelee toimintaansa turvallisuuden, hygieenisyyden, ergonomian tai kustannusten ja energiankäytön näkökulmasta.\nKuuntelu, keskustelu ja argumentointi yhteisessä suunnittelussa: Oppilas on aktiivinen keskusteluissa ja ottaa eri näkökulmat huomioon sekä perustelee omat näkemyksensä rakentavasti.\n\nOppilas kannustaa toisia yhteisissä suunnittelu- ja työtilanteissa.\nArjen rakentumisen sekä kotitalouksien erilaisuuden hahmottaminen: Oppilas perustelee kotitalouksien arjen rakentumista ja \nerilaisten kotikulttuurien ajankäyttöä.\nVoimavarojen käyttäminen ja yhteisten sopimusten tekemisen oppiminen: Oppilas toimii itsenäisesti ja tasapuolisesti sekä toimii ryhmässä yhteistyökykyisesti ja vastuullisesti.\nToisten oppilaiden huomaavainen kohtelu ja tapakulttuuriin mukainen käytännön toiminta oppitunnin vuorovaikutustilanteissa: Oppilas osaa perustella tapakulttuuria ja toisten ihmisten huomaavaista kohtelua sekä niihin liittyviä käytännön toimintatapoja.\nTietojen hankinta ja käyttö: Oppilas hakee kotitalouteen liittyviä tietoja eri tietolähteistä. \n\nOppilas arvioi tiedon ja lähteiden luotettavuutta ja käytettävyyttä ja valitsee tehtävään sopivat lähteet.\nToimintaohjeiden, merkkien ja symbolien käyttäminen: Oppilas perustelee kotitalouden toimintaohjeiden, merkkien ja symboleiden käyttöä eri toiminnoissa.\nKäsitteiden käyttäminen, tietojen ja taitojen soveltaminen sekä luovat ratkaisut tilanteissa, kotitalouden palveluiden tunteminen: Oppilas käyttää erilaisissa tilanteissa perustellen ja luovasti kotitalouden käsitteitä, tietojaan ja taitojaan.\n\nOppilas arvioi erilaisia kotitalouden palveluita ja perustelee niiden merkitystä ja mahdollisuuksia arkielämässä.\nYmpäristö- ja talousteot toiminnassa ja päätöksenteossa: Oppilas tekee ympäristö- ja taloustekoja erilaisissa tehtävissä ja tilanteissa johdonmukaisesti sekä perustellen niiden merkitystä kestävän ja vastuullisen elämäntavan ja kuluttamisen kannalta.",
+              "en": ""
+            }
           }
         ]
       }

@@ -4,8 +4,12 @@
     "api": "https://eperusteet.opintopolku.fi/eperusteet-service/api/external/peruste/419550/perusopetus/oppiaineet/428820",
     "curriculum": "POPS 2014",
     "license": "Open Government Data (Finland)",
-    "lastSynced": "2026-03-03T08:58:57Z",
-    "aiEnriched": ["description.en", "interdisciplinaryThemes", "basicSkills"]
+    "lastSynced": "2026-03-03T16:02:18Z",
+    "aiEnriched": [
+      "description.en",
+      "interdisciplinaryThemes",
+      "basicSkills"
+    ]
   },
   "subject": {
     "code": "YL",
@@ -257,7 +261,14 @@
               "local": "T1 tarjota oppilaalle mahdollisuuksia toteuttaa luontaista uteliaisuuttaan ja auttaa oppilasta kokemaan ympäristöopin asiat merkitykselliseksi itselleen",
               "en": "T1 offer the pupil opportunities to exercise their natural curiosity and help the pupil experience environmental studies topics as meaningful to themselves"
             },
-            "coreElements": ["S6", "S5", "S1", "S4", "S3", "S2"],
+            "coreElements": [
+              "S6",
+              "S5",
+              "S1",
+              "S4",
+              "S3",
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -266,7 +277,14 @@
               "local": "T2 kannustaa oppilasta iloitsemaan ympäristöopin oppimisesta, omasta osaamisesta ja uusista haasteista sekä harjoittelemaan pitkäjänteistä työskentelyä",
               "en": "T2 encourage the pupil to enjoy learning environmental studies, their own competence, and new challenges, and to practise sustained work"
             },
-            "coreElements": ["S6", "S5", "S1", "S4", "S3", "S2"],
+            "coreElements": [
+              "S6",
+              "S5",
+              "S1",
+              "S4",
+              "S3",
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -275,7 +293,14 @@
               "local": "T3 tukea oppilaan ympäristöherkkyyden kehittymistä ja ohjata oppilasta toimimaan kestävällä tavalla lähiympäristössä ja kouluyhteisössä",
               "en": "T3 support the development of the pupil's environmental sensitivity and guide the pupil to act in a sustainable manner in the local environment and school community"
             },
-            "coreElements": ["S6", "S5", "S1", "S4", "S3", "S2"],
+            "coreElements": [
+              "S6",
+              "S5",
+              "S1",
+              "S4",
+              "S3",
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -284,7 +309,12 @@
               "local": "T4 ohjata oppilasta tutkimaan ja toimimaan sekä liikkumaan ja retkeilemään lähiympäristössään",
               "en": "T4 guide the pupil to investigate and act, and to move about and go on excursions in their local environment"
             },
-            "coreElements": ["S6", "S4", "S3", "S2"],
+            "coreElements": [
+              "S6",
+              "S4",
+              "S3",
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -293,7 +323,14 @@
               "local": "T5 kannustaa oppilasta ihmettelemään ja kyselemään sekä käyttämään yhteisiä pohdintoja pienten tutkimusten ja muun toiminnan lähtökohtana",
               "en": "T5 encourage the pupil to wonder and ask questions and to use shared reflections as a starting point for small investigations and other activities"
             },
-            "coreElements": ["S6", "S5", "S1", "S4", "S3", "S2"],
+            "coreElements": [
+              "S6",
+              "S5",
+              "S1",
+              "S4",
+              "S3",
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -302,7 +339,14 @@
               "local": "T6 ohjata oppilasta tekemään havaintoja ja kokeiluja koulussa ja lähiympäristössä eri aisteja ja yksinkertaisia tutkimusvälineitä käyttäen sekä esittelemään tuloksiaan eri tavoin",
               "en": "T6 guide the pupil to make observations and experiments in school and the local environment using different senses and simple research tools, and to present their results in different ways"
             },
-            "coreElements": ["S6", "S5", "S1", "S4", "S3", "S2"],
+            "coreElements": [
+              "S6",
+              "S5",
+              "S1",
+              "S4",
+              "S3",
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -311,7 +355,14 @@
               "local": "T7 ohjata oppilasta kuvailemaan, vertailemaan ja luokittelemaan monipuolisesti eliöitä, elinympäristöjä, ilmiöitä, materiaaleja ja tilanteita sekä nimeämään niitä",
               "en": "T7 guide the pupil to describe, compare, and classify organisms, habitats, phenomena, materials, and situations in diverse ways and to name them"
             },
-            "coreElements": ["S6", "S5", "S1", "S4", "S3", "S2"],
+            "coreElements": [
+              "S6",
+              "S5",
+              "S1",
+              "S4",
+              "S3",
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -320,7 +371,14 @@
               "local": "T8 opastaa oppilasta toimimaan turvallisesti, noudattamaan annettuja ohjeita ja hahmottamaan niiden perusteluita",
               "en": "T8 instruct the pupil to act safely, to follow given instructions, and to understand their justifications"
             },
-            "coreElements": ["S6", "S5", "S1", "S4", "S3", "S2"],
+            "coreElements": [
+              "S6",
+              "S5",
+              "S1",
+              "S4",
+              "S3",
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -329,7 +387,11 @@
               "local": "T9 ohjata oppilasta tutustumaan monipuolisesti arjen teknologiaan sekä innostaa oppilaita kokeilemaan, keksimään, rakentamaan ja luomaan uutta yhdessä toimien",
               "en": "T9 guide the pupil to explore everyday technology in diverse ways and to inspire pupils to experiment, invent, build, and create something new through collaborative action"
             },
-            "coreElements": ["S6", "S4", "S2"],
+            "coreElements": [
+              "S6",
+              "S4",
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -338,7 +400,14 @@
               "local": "T10 ohjata oppilasta harjoittelemaan ryhmässä toimimisen taitoja ja tunnetaitoja sekä vahvistamaan itsensä ja muiden arvostamista",
               "en": "T10 guide the pupil to practise group work skills and emotional skills and to strengthen the valuing of oneself and others"
             },
-            "coreElements": ["S6", "S5", "S1", "S4", "S3", "S2"],
+            "coreElements": [
+              "S6",
+              "S5",
+              "S1",
+              "S4",
+              "S3",
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -347,7 +416,14 @@
               "local": "T11 ohjata oppilasta käyttämään tieto- ja viestintäteknologiaa tiedon hankkimisessa sekä havaintojen taltioimisessa ja esittämisessä",
               "en": "T11 guide the pupil to use information and communication technology for acquiring information and for recording and presenting observations"
             },
-            "coreElements": ["S6", "S5", "S1", "S4", "S3", "S2"],
+            "coreElements": [
+              "S6",
+              "S5",
+              "S1",
+              "S4",
+              "S3",
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -356,7 +432,14 @@
               "local": "T12 ohjata oppilasta jäsentämään ympäristöä, ihmisten toimintaa ja niihin liittyviä ilmiöitä ympäristöopin eri tiedonalojen käsitteiden avulla",
               "en": "T12 guide the pupil to structure the environment, human activity, and related phenomena using concepts from different fields of knowledge in environmental studies"
             },
-            "coreElements": ["S6", "S5", "S1", "S4", "S3", "S2"],
+            "coreElements": [
+              "S6",
+              "S5",
+              "S1",
+              "S4",
+              "S3",
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -365,7 +448,14 @@
               "local": "T13 ohjata oppilasta ymmärtämään yksinkertaisia kuvia, malleja ja karttoja ympäristön kuvaajina",
               "en": "T13 guide the pupil to understand simple pictures, models, and maps as representations of the environment"
             },
-            "coreElements": ["S6", "S5", "S1", "S4", "S3", "S2"],
+            "coreElements": [
+              "S6",
+              "S5",
+              "S1",
+              "S4",
+              "S3",
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -374,7 +464,14 @@
               "local": "T14 rohkaista oppilasta ilmaisemaan itseään ja harjoittelemaan näkemystensä perustelemista",
               "en": "T14 encourage the pupil to express themselves and to practise justifying their viewpoints"
             },
-            "coreElements": ["S6", "S5", "S1", "S4", "S3", "S2"],
+            "coreElements": [
+              "S6",
+              "S5",
+              "S1",
+              "S4",
+              "S3",
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -383,7 +480,10 @@
               "local": "T15 ohjata oppilasta pohtimaan kasvua ja kehitystä, terveyttä ja hyvinvointia tukevia tekijöitä sekä elämän perusedellytyksiä",
               "en": "T15 guide the pupil to consider factors that support growth and development, health, and well-being, as well as the basic prerequisites for life"
             },
-            "coreElements": ["S5", "S1"],
+            "coreElements": [
+              "S5",
+              "S1"
+            ],
             "verbs": []
           }
         ]
@@ -401,7 +501,14 @@
               "local": "T1 synnyttää ja ylläpitää oppilaan kiinnostusta ympäristöön ja ympäristöopin opiskeluun sekä auttaa oppilasta kokemaan kaikki ympäristöopin tiedonalat merkityksellisiksi itselleen",
               "en": "T1 generate and maintain the pupil's interest in the environment and the study of environmental studies, and help the pupil experience all fields of knowledge in environmental studies as meaningful to themselves"
             },
-            "coreElements": ["S5", "S3", "S4", "S1", "S2", "S6"],
+            "coreElements": [
+              "S5",
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S6"
+            ],
             "verbs": []
           },
           {
@@ -410,7 +517,14 @@
               "local": "T2 ohjata ja kannustaa oppilasta asettamaan omia opiskelutavoitteita ja työskentelemään pitkäjänteisesti niiden saavuttamiseksi sekä tunnistamaan omaa ympäristöopin osaamistaan",
               "en": "T2 guide and encourage the pupil to set their own learning goals and to work with perseverance to achieve them, and to recognise their own competence in environmental studies"
             },
-            "coreElements": ["S5", "S3", "S4", "S1", "S2", "S6"],
+            "coreElements": [
+              "S5",
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S6"
+            ],
             "verbs": []
           },
           {
@@ -419,7 +533,14 @@
               "local": "T3 tukea oppilaan ympäristötietoisuuden kehittymistä sekä ohjata oppilasta toimimaan ja vaikuttamaan lähiympäristössään ja -yhteisöissään kestävän kehityksen edistämiseksi ja arvostamaan kestävän kehityksen merkitystä itselle ja maailmalle",
               "en": "T3 support the development of the pupil's environmental awareness and guide the pupil to act and exert influence in their local environment and communities to promote sustainable development, and to value the significance of sustainable development for oneself and the world"
             },
-            "coreElements": ["S5", "S3", "S4", "S1", "S2", "S6"],
+            "coreElements": [
+              "S5",
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S6"
+            ],
             "verbs": []
           },
           {
@@ -428,7 +549,14 @@
               "local": "T4 rohkaista oppilasta muodostamaan kysymyksiä eri aihepiireistä sekä käyttämään niitä tutkimusten ja muun toiminnan lähtökohtana",
               "en": "T4 encourage the pupil to formulate questions from different topics and to use them as a starting point for investigations and other activities"
             },
-            "coreElements": ["S5", "S3", "S4", "S1", "S2", "S6"],
+            "coreElements": [
+              "S5",
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S6"
+            ],
             "verbs": []
           },
           {
@@ -437,7 +565,14 @@
               "local": "T5 ohjata oppilasta suunnittelemaan ja toteuttamaan pieniä tutkimuksia, tekemään havaintoja ja mittauksia monipuolisissa oppimisympäristöissä eri aisteja ja tutkimus- ja mittausvälineitä käyttäen",
               "en": "T5 guide the pupil to plan and carry out small investigations, to make observations and measurements in diverse learning environments using different senses and research and measuring tools"
             },
-            "coreElements": ["S5", "S3", "S4", "S1", "S2", "S6"],
+            "coreElements": [
+              "S5",
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S6"
+            ],
             "verbs": []
           },
           {
@@ -446,7 +581,14 @@
               "local": "T6 ohjata oppilasta tunnistamaan syy-seuraussuhteita, tekemään johtopäätöksiä tuloksistaan sekä esittämään tuloksiaan ja tutkimuksiaan eri tavoin",
               "en": "T6 guide the pupil to identify cause-and-effect relationships, to draw conclusions from their results, and to present their results and investigations in different ways"
             },
-            "coreElements": ["S5", "S3", "S4", "S1", "S2", "S6"],
+            "coreElements": [
+              "S5",
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S6"
+            ],
             "verbs": []
           },
           {
@@ -455,7 +597,13 @@
               "local": "T7 ohjata oppilasta ymmärtämään arjen teknologisten sovellusten käyttöä, merkitystä ja toimintaperiaatteita sekä innostaa oppilaita kokeilemaan, keksimään ja luomaan uutta yhdessä toimien",
               "en": "T7 guide the pupil to understand the use, significance, and operating principles of everyday technological applications and to inspire pupils to experiment, invent, and create something new through collaborative action"
             },
-            "coreElements": ["S5", "S3", "S4", "S2", "S6"],
+            "coreElements": [
+              "S5",
+              "S3",
+              "S4",
+              "S2",
+              "S6"
+            ],
             "verbs": []
           },
           {
@@ -464,7 +612,14 @@
               "local": "T8 kannustaa oppilasta edistämään hyvinvointia ja turvallisuutta toiminnassaan ja lähiympäristössään ja ohjata oppilasta toimimaan turvallisesti, tarkoituksenmukaisesti, vastuullisesti ja itseään suojellen",
               "en": "T8 encourage the pupil to promote well-being and safety in their activities and local environment, and guide the pupil to act safely, appropriately, responsibly, and in a self-protective manner"
             },
-            "coreElements": ["S5", "S3", "S4", "S1", "S2", "S6"],
+            "coreElements": [
+              "S5",
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S6"
+            ],
             "verbs": []
           },
           {
@@ -473,7 +628,13 @@
               "local": "T9 ohjata oppilasta tutkimaan ja toimimaan sekä liikkumaan ja retkeilemään luonnossa ja rakennetussa ympäristössä",
               "en": "T9 guide the pupil to investigate and act, and to move about and go on excursions in nature and the built environment"
             },
-            "coreElements": ["S5", "S3", "S4", "S2", "S6"],
+            "coreElements": [
+              "S5",
+              "S3",
+              "S4",
+              "S2",
+              "S6"
+            ],
             "verbs": []
           },
           {
@@ -482,7 +643,14 @@
               "local": "T10 tarjota oppilaalle mahdollisuuksia harjoitella ryhmässä toimimista erilaisissa rooleissa ja vuorovaikutustilanteissa, innostaa oppilasta ilmaisemaan itseään ja kuuntelemaan muita sekä tukea oppilaan valmiuksia tunnistaa, ilmaista ja säädellä tunteitaan.",
               "en": "T10 offer the pupil opportunities to practise working in a group in different roles and interaction situations, inspire the pupil to express themselves and listen to others, and support the pupil's readiness to recognise, express, and regulate their emotions."
             },
-            "coreElements": ["S5", "S3", "S4", "S1", "S2", "S6"],
+            "coreElements": [
+              "S5",
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S6"
+            ],
             "verbs": []
           },
           {
@@ -491,7 +659,14 @@
               "local": "T11 ohjata oppilasta käyttämään tieto- ja viestintäteknologiaa tiedon hankinnassa, käsittelyssä ja esittämisessä sekä vuorovaikutuksen välineenä vastuullisesti, turvallisesti ja ergonomisesti",
               "en": "T11 guide the pupil to use information and communication technology for acquiring, processing, and presenting information, and as a tool for interaction in a responsible, safe, and ergonomic manner"
             },
-            "coreElements": ["S5", "S3", "S4", "S1", "S2", "S6"],
+            "coreElements": [
+              "S5",
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S6"
+            ],
             "verbs": []
           },
           {
@@ -500,7 +675,14 @@
               "local": "T12 ohjata oppilasta hahmottamaan ympäristöä, ihmisten toimintaa ja niihin liittyviä ilmiöitä ympäristöopin käsitteiden avulla sekä kehittämään käsiterakenteitaan ennakkokäsityksistä kohti käsitteiden täsmällistä käyttöä",
               "en": "T12 guide the pupil to perceive the environment, human activity, and related phenomena using environmental studies concepts, and to develop their conceptual structures from preconceptions towards precise use of concepts"
             },
-            "coreElements": ["S5", "S3", "S4", "S1", "S2", "S6"],
+            "coreElements": [
+              "S5",
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S6"
+            ],
             "verbs": []
           },
           {
@@ -509,7 +691,14 @@
               "local": "T13 ohjata oppilasta ymmärtämään, käyttämään ja tekemään erilaisia malleja, joiden avulla voidaan tulkita ja selittää ihmistä, ympäristöä ja niiden ilmiöitä",
               "en": "T13 guide the pupil to understand, use, and create various models that can be used to interpret and explain humans, the environment, and their phenomena"
             },
-            "coreElements": ["S5", "S3", "S4", "S1", "S2", "S6"],
+            "coreElements": [
+              "S5",
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S6"
+            ],
             "verbs": []
           },
           {
@@ -518,7 +707,14 @@
               "local": "T14 ohjata oppilasta hankkimaan luotettavaa tietoa, ilmaisemaan perustellen erilaisia näkemyksiä sekä tulkitsemaan ja arvioimaan kriittisesti tietolähteitä ja näkökulmia",
               "en": "T14 guide the pupil to obtain reliable information, to express different viewpoints with justification, and to critically interpret and evaluate sources of information and perspectives"
             },
-            "coreElements": ["S5", "S3", "S4", "S1", "S2", "S6"],
+            "coreElements": [
+              "S5",
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S6"
+            ],
             "verbs": []
           },
           {
@@ -527,7 +723,13 @@
               "local": "T15 ohjata oppilasta luonnon tutkimiseen, eliöiden ja elinympäristöjen tunnistamiseen ja ekologiseen ajatteluun sekä ohjata oppilasta ihmisen rakenteen, elintoimintojen ja kehityksen ymmärtämiseen",
               "en": "T15 guide the pupil to investigate nature, to identify organisms and habitats, and to think ecologically, as well as guide the pupil to understand human anatomy, vital functions, and development"
             },
-            "coreElements": ["S5", "S3", "S4", "S1", "S6"],
+            "coreElements": [
+              "S5",
+              "S3",
+              "S4",
+              "S1",
+              "S6"
+            ],
             "verbs": []
           },
           {
@@ -536,7 +738,12 @@
               "local": "T16 ohjata oppilasta maantieteelliseen ajatteluun, hahmottamaan omaa ympäristöä ja koko maailmaa sekä harjaannuttamaan kartankäyttö- ja muita geomediataitoja",
               "en": "T16 guide the pupil towards geographical thinking, to perceive their own environment and the whole world, and to practise map-reading and other geomedia skills"
             },
-            "coreElements": ["S5", "S3", "S4", "S6"],
+            "coreElements": [
+              "S5",
+              "S3",
+              "S4",
+              "S6"
+            ],
             "verbs": []
           },
           {
@@ -545,7 +752,12 @@
               "local": "T17 ohjata oppilasta tutkimaan, kuvaamaan ja selittämään fysikaalisia ilmiöitä arjessa, luonnossa ja teknologiassa sekä rakentamaan perustaa energian säilymisen periaatteen ymmärtämiselle",
               "en": "T17 guide the pupil to investigate, describe, and explain physical phenomena in everyday life, nature, and technology, and to build a foundation for understanding the principle of conservation of energy"
             },
-            "coreElements": ["S5", "S4", "S2", "S6"],
+            "coreElements": [
+              "S5",
+              "S4",
+              "S2",
+              "S6"
+            ],
             "verbs": []
           },
           {
@@ -554,7 +766,12 @@
               "local": "T18 ohjata oppilasta tutkimaan, kuvaamaan ja selittämään kemiallisia ilmiöitä, aineiden ominaisuuksia ja muutoksia sekä rakentamaan perustaa aineen säilymisen periaatteen ymmärtämiselle",
               "en": "T18 guide the pupil to investigate, describe, and explain chemical phenomena, properties of substances, and changes, and to build a foundation for understanding the principle of conservation of matter"
             },
-            "coreElements": ["S5", "S4", "S2", "S6"],
+            "coreElements": [
+              "S5",
+              "S4",
+              "S2",
+              "S6"
+            ],
             "verbs": []
           },
           {
@@ -563,8 +780,59 @@
               "local": "T19 ohjata oppilasta ymmärtämään terveyden osa-alueita, arjen terveystottumusten merkitystä sekä elämänkulkua, lapsuuden ja nuoruuden yksilöllistä kasvua ja kehitystä sekä rohkaista oppilasta harjoittelemaan ja soveltamaan terveysosaamistaan arjessa",
               "en": "T19 guide the pupil to understand the dimensions of health, the significance of everyday health habits, the life course, and the individual growth and development during childhood and adolescence, and encourage the pupil to practise and apply their health literacy in everyday life"
             },
-            "coreElements": ["S3", "S1", "S2", "S6"],
+            "coreElements": [
+              "S3",
+              "S1",
+              "S2",
+              "S6"
+            ],
             "verbs": []
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "5",
+            "label": {
+              "local": "Arvosana 5 (välttävä)",
+              "en": "Grade 5 (passable)"
+            },
+            "text": {
+              "local": "Tavoitteellinen työskentely ja oppimaan oppiminen: Oppilas asettaa yksittäisen tavoitteen ohjatusti ja osallistuu yhteiseen työskentelyyn.\nKestävän kehityksen tiedot ja taidot: Oppilas antaa esimerkin ihmisen aiheuttamasta muutoksesta ympäristössä. Oppilas nimeää myönteisiä asioita, joita hän voi tehdä ympäristön ja yhteisön hyväksi.\nKysymysten muodostaminen: Oppilas osallistuu aiheeseen liittyvien kysymyksien muodostamiseen yhdessä toisten kanssa tai hän tunnistaa aiheita, joihin voidaan kehittää kysymyksiä.\nTutkimisen taidot: suunnittelu, havainnointi ja mittaukset: Oppilas osallistuu havainnointiin, mittaamiseen ja tulosten dokumentoimiseen ja kertoo näistä ohjatusti.\nTutkimisen taidot: johtopäätösten tekeminen ja tulosten esittäminen: Oppilas kuvailee ohjatusti tehtyä tutkimusta ja sen tuloksia käyttäen tutkimuksessa kerättyä tietoa tai tehtyjä havaintoja.\nTeknologinen osaaminen ja yhteistyö teknologisessa ongelmanratkaisussa: Oppilas kuvailee jonkin arjen teknologisen sovelluksen käyttötarkoitusta. Oppilas osallistuu ohjatusti kokeiluun ja keksimiseen ryhmässä.\nTurvallisuuden edistäminen ja turvataidot: Oppilas nimeää jonkin hyvinvointiin ja turvallisuuteen liittyvän tekijän.\nOppilas nimeää jonkin toimintatavan turvallisuuden edistämiseksi ja turvataitoihin liittyen.\nYmpäristössä toimiminen ja tutkiminen: Oppilas osallistuu ulkona oppimiseen luonnossa ja rakennetussa ympäristössä.\nVuorovaikutuksen taitojen kehittäminen sekä tunteiden tunnistaminen ja säätely: Oppilas työskentelee erilaisissa ryhmissä ohjatusti. Oppilas nimeää ohjatusti tunteiden ilmaisuun ja niiden säätelyyn liittyviä keinoja.\nTieto- ja viestintäteknologian käyttäminen: Oppilas käyttää ohjatusti tieto- ja viestintäteknologiaa tiedon hankinnassa.\nOppilas osallistuu digitaalisen tuotoksen tekemiseen ja esittämiseen. Oppilas nimeää ohjatusti tieto- ja viestintäteknologian vastuulliseen, turvalliseen ja ergonomiseen käyttöön liittyvän tekijän.\nKäsitteiden käyttö: Oppilas tunnistaa joitakin ympäristöopin tiedonalojen käsitteitä ja osaa yhdistää niitä ympäristöön, ihmisen toimintaan ja niihin liittyviin ilmiöihin.\nMallien käyttäminen: Oppilas tietää, että malli on todellisuuden yksinkertaistus. Oppilas nimeää ohjatusti jonkin annetun mallin keskeiset osat.\nNäkemyksien ilmaiseminen ja kriittinen lukutaito: Oppilas hakee ohjatusti tietoa annetuista tietolähteistä. Oppilas nimeää jonkin tietolähteen luotettavuuteen liittyvän tekijän.\nBiologian tiedonala: luonnon tutkiminen, eliöiden ja elinympäristöjen tunnistaminen; ihmisen rakenne, elintoiminnot ja kehitys: Oppilas tunnistaa ohjatusti joitakin eliöitä, elinympäristöjä ja elottoman luonnon tekijöitä. Oppilas tunnistaa joitakin ihmisen rakenteita ja elintoimintoja sekä ihmisen kehittymisen vaiheita.\nMaantiedon tiedonala: maapallon hahmottaminen, kartta- ja muut geomediataidot: Oppilas nimeää joitakin maanosia, valtioita, kaupunkeja ja luonnonmaantieteellisiä kohteita. Oppilas käyttää joitakin maantieteellisiä käsitteitä ja nimeää pääilmansuunnat. Oppilas käyttää ohjatusti karttoja.\nFysiikan tiedonala: fysikaalisten ilmiöiden tutkiminen, kuvaaminen ja selittäminen: Oppilas tekee havaintoja jostakin fysikaalisesta ilmiöstä ja kuvailee sitä käyttäen ohjatusti fysiikan käsitteitä. Oppilas nimeää joitakin energialähteitä ja -lajeja tutuissa tilanteissa.\nKemian tiedonala: kemiallisten ilmiöiden tutkiminen, kuvaaminen ja selittäminen: Oppilas nimeää aineen kolme olomuotoa ja tunnistaa esimerkiksi veden olomuotoja eri tilanteissa. Oppilas luokittelee tai kuvailee aineita jonkin ominaisuuden perusteella. Oppilas antaa esimerkkejä aineiden kierrätyksestä.\nTerveystiedon tiedonala: terveyden osa-alueiden ja arjen terveystottumusten tuntemus sekä niiden merkityksen pohtiminen sekä ikäkauteen liittyvän kasvun ja kehityksen tunnistaminen ja kuvaaminen: Oppilas nimeää jonkin terveyden osa-alueen ja terveyttä edistävän elintavan. Oppilas nimeää jonkin lapsuuden ja nuoruuden kasvuun ja kehitykseen liittyvän tunnuspiirteen.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "7",
+            "label": {
+              "local": "Arvosana 7 (tyydyttävä)",
+              "en": "Grade 7 (satisfactory)"
+            },
+            "text": {
+              "local": "Tavoitteellinen työskentely ja oppimaan oppiminen: Oppilas asettaa omia tavoitteitaan pienille kokonaisuuksille ohjatusti, ja työskentelee ohjatusti yhteisten tavoitteiden saavuttamiseksi.\nKestävän kehityksen tiedot ja taidot: Oppilas kuvailee esimerkkien avulla ympäristön tilaa ja mainitsee joitakin\nkestävää tulevaisuutta uhkaavia tekijöitä. Oppilas kuvailee keinoja ympäristön ja yhteisön vaalimiseksi ja kehittämiseksi sekä osallistuu ohjatusti yhteiseen vaikuttamiseen.\nKysymysten muodostaminen: Oppilas muodostaa ohjatusti kysymyksiä, joita voidaan yhdessä kehittää tutkimusten ja muun toiminnan lähtökohdaksi.\nTutkimisen taidot: suunnittelu, havainnointi ja mittaukset: Oppilas suunnittelee ja toteuttaa ohjatusti pieniä tutkimuksia. Oppilas tekee ohjatusti havaintoja ja mittauksia sekä dokumentoi tuloksia ohjatusti.\nTutkimisen taidot: johtopäätösten tekeminen ja tulosten esittäminen: Oppilas tekee ohjatusti yksinkertaisia johtopäätöksiä. Oppilas esittää tuloksiaan ohjeiden mukaisesti.\nTeknologinen osaaminen ja yhteistyö teknologisessa ongelmanratkaisussa: Oppilas antaa joitakin esimerkkejä arjen teknologisten sovellusten käyttötarkoituksista ja toimintaperiaatteista. Oppilas työskentelee ohjatusti kokeiluissa ja keksimisessä yhdessä muiden kanssa.\nTurvallisuuden edistäminen ja turvataidot: Oppilas nimeää useita hyvinvointiin ja turvallisuuteen liittyviä tekijöitä. Oppilas nimeää toimintatapoja turvallisuuden edistämiseksi ja turvataitoihin liittyen ja huomioi niitä ohjatusti oppimistilanteissa.\nYmpäristössä toimiminen ja tutkiminen: Oppilas liikkuu, retkeilee ja tekee havaintoja ohjatusti luonnossa ja rakennetussa ympäristössä. Oppilas osallistuu ohjatusti tutkimuksen tekemiseen joko itsenäisesti tai ryhmän jäsenenä.\nVuorovaikutuksen taitojen kehittäminen sekä tunteiden tunnistaminen ja säätely: Oppilas työskentelee ryhmän antaman tehtävän mukaisesti ja antaa pyydettäessä toiminnasta palautetta. Oppilas nimeää tunteiden ilmaisuun ja niiden säätelyyn liittyviä keinoja.\nTieto- ja viestintäteknologian käyttäminen: Oppilas käyttää itsenäisesti tieto- ja viestintäteknologiaa tiedon han-kinnassa. Oppilas toimii aktiivisesti digitaalisen tuotoksen tekemisessä ja esittämisessä. Oppilas nimeää tieto- ja viestintäteknologian vastuulliseen, turvalliseen ja ergonomiseen käyttöön liittyviä tekijöitä.\nKäsitteiden käyttö: Oppilas kuvailee ympäristöä, ihmisen toimintaa ja niihin liittyviä ilmiöitä joillakin ympäristöopin tiedonalojen keskeisillä käsitteillä. Oppilas yhdistää toisiinsa liittyviä käsitteitä.\nMallien käyttäminen: Oppilas käyttää ja tekee ohjatusti malleja ihmisen, ympäristön ja niihin liittyvien ilmiöiden selittämiseen.\nNäkemyksien ilmaiseminen ja kriittinen lukutaito: Oppilas hakee tietoa ohjatusti erilaisista tietolähteistä. Oppilas arvioi ohjatusti tietolähteen luotettavuuteen liittyviä tekijöitä. Oppilas perustelee ohjatusti erilaisia näkemyksiä ja nimeää näkökulmien välisiä eroja.\nBiologian tiedonala: luonnon tutkiminen, eliöiden ja elinympäristöjen tunnistaminen; ihmisen rakenne, elintoiminnot ja kehitys: Oppilas tunnistaa eliöitä ja elinympäristöjä. Oppilas nimeää elottoman ja elollisen luonnon tekijöitä, joita eliöt tarvitsevat ympäristöstään. Oppilas nimeää joitakin ihmisen rakenteita ja antaa esimerkkejä ihmisen elintoiminnoista ja kehityksen vaiheista.\nMaantiedon tiedonala: maapallon hahmottaminen, kartta- ja muut geomediataidot: Oppilas nimeää maanosia, valtioita, kaupunkeja ja luonnonmaantieteellisiä kohteita ja antaa niistä esimerkkejä kartalta.\nOppilas antaa esimerkkejä alueiden piirteistä maantieteellisiä käsitteitä käyttäen ja nimeää ilmansuunnat. Oppilas käyttää ohjatusti karttoja tai muita geomedialähteitä.\nFysiikan tiedonala: fysikaalisten ilmiöiden tutkiminen, kuvaaminen ja selittäminen: Oppilas havainnoi, tutkii ja kuvailee yksinkertaisia fysikaalisia ilmiöitä sekä selittää ohjatusti joitakin yksinkertaisia ilmiöitä käyttäen fysiikan käsitteitä.\nOppilas käyttää energia-, voima- ja liikekäsitteitä yksinkertaisissa ja tutuissa tilanteissa. Oppilas nimeää eri energialähteitä ja  lajeja ja osaa antaa yksittäisiä esimerkkejä energian muuntumisesta eri lajeihin.\nKemian tiedonala: kemiallisten ilmiöiden tutkiminen, kuvaaminen ja selittäminen: Oppilas havainnoi ja tutkii ohjatusti olomuotoja ja joidenkin tuttujen aineiden ominaisuuksia. Oppilas kuvailee esimerkiksi veden kiertokulkua tai kierrätyksen ideaa.\nTerveystiedon tiedonala: terveyden osa-alueiden ja arjen terveystottumusten tuntemus sekä niiden merkityksen pohtiminen sekä ikäkauteen liittyvän kasvun ja kehityksen tunnistaminen ja kuvaaminen: Oppilas nimeää terveyden osa-alueita ja kuvailee yksittäistä terveyttä edistävää elintapaa. Oppilas nimeää lapsuuden ja nuoruuden kasvuun ja kehitykseen liittyviä tunnuspiirteitä.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "8",
+            "label": {
+              "local": "Arvosana 8 (hyvä)",
+              "en": "Grade 8 (good)"
+            },
+            "text": {
+              "local": "Tavoitteellinen työskentely ja oppimaan oppiminen: Oppilas asettaa omia tavoitteita pienille kokonaisuuksille ja työskentelee yhteisten tavoitteiden saavuttamiseksi.\nKestävän kehityksen tiedot ja taidot: Oppilas kuvailee esimerkkien avulla kestävän tulevaisuuden rakentamista tukevia ja uhkaavia tekijöitä. Oppilas kuvailee ja tunnistaa erilaisia keinoja ympäristön ja yhteisöjen vaalimiseen ja kehittämiseen sekä osallistuu yhteiseen vaikuttamiseen.\nKysymysten muodostaminen: Oppilas muodostaa kysymyksiä, joita voidaan yhdessä kehittää tutkimusten ja muun toiminnan lähtökohdaksi.\nTutkimisen taidot: suunnittelu, havainnointi ja mittaukset: Oppilas suunnittelee ja toteuttaa pieniä tutkimuksia itsenäisesti tai yhdessä muiden kanssa. Oppilas tekee havaintoja ja mittauksia sekä dokumentoi tuloksia ohjeiden mukaisesti.\nTutkimisen taidot: johtopäätösten tekeminen ja tulosten esittäminen: Oppilas tunnistaa syy-seuraussuhteita ja tekee yksinkertaisia johtopäätöksiä tuloksista. Oppilas esittää tuloksiaan selkeästi.\nTeknologinen osaaminen ja yhteistyö teknologisessa ongelmanratkaisussa: Oppilas kuvailee joidenkin arjen teknologisten sovellusten toimintaperiaatteita ja antaa esimerkkejä niiden merkityksestä. Oppilas toimii kokeiluissa ja keksimisessä yhdessä muiden kanssa.\nTurvallisuuden edistäminen ja turvataidot: Oppilas kuvailee keskeisiä hyvinvointiin ja turvallisuuteen liittyviä tekijöitä esimerkkien avulla. Oppilas kuvailee toimintatapoja turvallisuuden edistämiseksi ja turvataitoihin liittyen ja osaa käyttää niitä pääosin asianmukaisesti oppimistilanteissa.\nYmpäristössä toimiminen ja tutkiminen: Oppilas osaa toimia, liikkua ja retkeillä luonnossa ja rakennetussa ympäristössä ohjeiden mukaisesti.\nOppilas osaa tehdä tutkimuksia ympäristössä ohjatusti sekä yksin että ryhmän jäsenenä.\nVuorovaikutuksen taitojen kehittäminen sekä tunteiden tunnistaminen ja säätely: Oppilas työskentelee yhteisten tavoitteiden saavuttamiseksi antaen ja vastaanottaen palautetta. Oppilas kuvailee tunteiden ilmaisuun ja niiden säätelyyn liittyviä keinoja.\nTieto- ja viestintäteknologian käyttäminen: Oppilas käyttää tieto- ja viestintäteknologiaa eri oppimistilanteissa ja vuorovaikutuksen välineenä. Oppilas kuvailee tieto- ja viestintä-teknologian vastuullista, turvallista ja ergonomista käyttöä.\nKäsitteiden käyttö: Oppilas kuvailee ympäristöä, ihmisen toimintaa ja niihin liittyviä ilmiöitä ympäristöopin tiedonalojen keskeisillä käsitteillä. Oppilas yhdistää käsitteitä loogisesti toisiinsa.\nMallien käyttäminen: Oppilas käyttää ja tekee malleja ihmisen, ympäristön ja niihin liittyvien ilmiöiden selittämiseen.\nNäkemyksien ilmaiseminen ja kriittinen lukutaito: Oppilas hakee tietoa erilaisista tietolähteistä. Oppilas arvioi tietolähteiden luotettavuuteen liittyviä tekijöitä. Oppilas perustelee erilaisia näkemyksiä ja nimeää näkökulmien välisiä eroja.\nBiologian tiedonala: luonnon tutkiminen, eliöiden ja elinympäristöjen tunnistaminen; ihmisen rakenne, elintoiminnot ja kehitys: Oppilas nimeää eliöitä ja niiden tunnusomaisia elinympäristöjä. Oppilas antaa esimerkkejä elottoman ja elollisen luonnon vuorovaikutuksesta. Oppilas nimeää ihmisen rakenteita ja kuvailee ihmisen elintoimintoja ja kehitystä.\nMaantiedon tiedonala: maapallon hahmottaminen, kartta- ja muut geomediataidot: Oppilas nimeää maanosat sekä valtioita, kaupunkeja ja luonnonmaantieteellisiä kohteita ja antaa niistä esimerkkejä kartalta. Oppilas kuvailee alueita ja niiden sijaintia osoittaen maantieteellisten käsitteiden ja alueiden piirteiden tuntemusta. Oppilas käyttää karttoja ja muita geomedialähteitä.\nFysiikan tiedonala: fysikaalisten ilmiöiden tutkiminen, kuvaaminen ja selittäminen: Oppilas havainnoi, tutkii ja kuvailee yksinkertaisia fysikaalisia ilmiöitä sekä selittää joitakin näistä ilmiöistä käyttäen fysiikan käsitteitä. Oppilas käyttää energia-, voima- ja liikekäsitteitä arkisissa tilanteissa ja antaa esimerkkejä energian säilymisen periaatteesta.\nKemian tiedonala: kemiallisten ilmiöiden tutkiminen, kuvaaminen ja selittäminen: Oppilas havainnoi, tutkii ja kuvailee olomuotoja ja tuttujen aineiden ominaisuuksia käyttäen kemian käsitteitä. Oppilas kertoo, mitä tapahtuu kemiallisessa reaktiossa. Oppilas selittää esimerkiksi veden olomuodon muutokset veden kiertokulussa sekä kierrättämistä.\nTerveystiedon tiedonala: terveyden osa-alueiden ja arjen terveystottumusten tuntemus sekä niiden merkityksen pohtiminen sekä ikäkauteen liittyvän kasvun ja kehityksen tunnistaminen ja kuvaaminen: Oppilas kuvailee terveyden osa-alueita ja keskeisiä terveyttä edistäviä elintapoja. Oppilas kuvailee lapsuuteen ja nuoruuteen liittyviä keskeisiä kasvun ja kehityksen tunnuspiirteitä ja niiden yksilöllistä vaihtelua.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "9",
+            "label": {
+              "local": "Arvosana 9 (kiitettävä)",
+              "en": "Grade 9 (excellent)"
+            },
+            "text": {
+              "local": "Tavoitteellinen työskentely ja oppimaan oppiminen: Oppilas asettaa omia tavoitteitaan pienille kokonaisuuksille ja arvioi niiden saavuttamista, ja työskentelee oma-aloitteisesti yhteisten tavoitteiden saavuttamiseksi.\nKestävän kehityksen tiedot ja taidot: Oppilas antaa perusteltuja esimerkkejä kestävän tulevaisuuden rakentamista tukevista ja uhkaavista tekijöistä. Oppilas kuvailee perustellen erilaisia keinoja ympäristön ja yhteisöjen vaalimiseen ja kehittämiseen sekä osallistuu aktiivisesti\nKysymysten muodostaminen: Oppilas muodostaa perusteltuja kysymyksiä ja kehittää niitä tutkimuksen ja muun toiminnan lähtökohdaksi.\nTutkimisen taidot: suunnittelu, havainnointi ja mittaukset: Oppilas suunnittelee ja toteuttaa pieniä tutkimuksia itsenäisesti ja tukee muita ryhmän jäseniä tarvittaessa. Oppilas tekee havaintoja ja mittauksia sekä dokumentoi tuloksia eri oppimisympäristöissä tutkimus- ja mittausvälineitä käyttäen.\nTutkimisen taidot: johtopäätösten tekeminen ja tulosten esittäminen: Oppilas kuvailee syy-seuraussuhteita ja esittää johtopäätöksiä tuloksista. \nOppilas esittää tuloksiaan ja tutkimuksiaan eri tavoin.\nTeknologinen osaaminen ja yhteistyö teknologisessa ongelmanratkaisussa: Oppilas kuvailee ja selittää useiden teknologisten sovellusten toimintaperiaatteita ja antaa esimerkkejä niiden käyttökohteista. Oppilas toimii aloitteellisesti kokeiluissa ja keksimisessä. Oppilas auttaa tarvittaessa muita kokeiluissa ja keksimisessä.\nTurvallisuuden edistäminen ja turvataidot: Oppilas perustelee, miten keskeiset tekijät vaikuttavat hyvinvointiin ja turvallisuuteen. Oppilas kuvailee ja perustelee toimintatapoja turvallisuuden edistämiseksi ja turvataitoihin liittyen ja käyttää niitä asianmukaisesti oppimistilanteissa.\nYmpäristössä toimiminen ja tutkiminen: Oppilas liikkuu, retkeilee ja tekee havaintoja luonnossa ja rakennetussa ympäristössä. Oppilas tekee tutkimuksia ympäristössä joko itsenäisesti tai ryhmän jäsenenä.\nVuorovaikutuksen taitojen kehittäminen sekä tunteiden tunnistaminen ja säätely: Oppilas työskentelee vastuullisesti ja oma-aloitteisesti erilaisissa rooleissa antaen, vastaanottaen ja hyödyntäen palautetta. Oppilas kuvailee perustellen tunteiden ilmaisuun ja niiden säätelyyn liittyviä keinoja ja soveltaa niitä eri tilanteissa ja rooleissa.\nTieto- ja viestintäteknologian käyttäminen: Oppilas valitsee perustellen ja käyttää tieto- ja viestintäteknologiaa eri oppimistilanteissa ja vuorovaikutuksen välineenä sekä tukee muita ryhmän jäseniä. Oppilas kuvailee perustellen tieto- ja viestintätekno-logian vastuullista, turvallista ja ergonomista käyttöä.\nKäsitteiden käyttö: Oppilas selittää ympäristöä, ihmisen toimintaa ja niihin liittyviä ilmiöitä ympäristöopin tiedonalojen keskeisillä käsitteillä. Oppilas käyttää ja yhdistää käsitteitä toisiinsa niin, että ne muodostavat loogisia kokonaisuuksia.\nMallien käyttäminen: Oppilas käyttää ja tekee tarkoituksenmukaisia malleja sekä selittää perustellen niiden avulla ihmistä, ympäristöä ja niiden ilmiöitä.\nNäkemyksien ilmaiseminen ja kriittinen lukutaito: Oppilas hakee monipuolisesti tietoa erilaisista tietolähteistä. Oppilas arvioi monipuolisesti tietolähteiden luotettavuuteen liittyviä tekijöitä. Oppilas perustelee erilaisia näkemyksiä ja vertailee eri näkökulmia.\nBiologian tiedonala: luonnon tutkiminen, eliöiden ja elinympäristöjen tunnistaminen; ihmisen rakenne, elintoiminnot ja kehitys: Oppilas nimeää monipuolisesti eliöitä ja elinympäristöjä. Oppilas kuvailee eliöiden ja elottoman luonnon välisiä vuorovaikutussuhteita. Oppilas nimeää monipuolisesti ihmisen rakenteita ja kuvailee ihmisen rakenteiden ja elintoimintojen välisiä yhteyksiä.\nMaantiedon tiedonala: maapallon hahmottaminen, kartta- ja muut geomediataidot: Oppilas nimeää ja tunnistaa maanosat sekä monipuolisesti valtioita, kaupunkeja ja luonnonmaantieteellisiä kohteita ja antaa niistä esi-merkkejä kartalta. Oppilas vertailee alueiden piirteitä ja sijaintia käyttäen maantieteellistä käsitteistöä. Oppilas tulkitsee käyttämiään karttoja ja muita geomedialähteitä sekä arvioi niitä kriittisesti.\nFysiikan tiedonala: fysikaalisten ilmiöiden tutkiminen, kuvaaminen ja selittäminen: Oppilas havainnoi, tutkii ja selittää fysikaalisia ilmiöitä käyttäen fysiikan käsitteitä. Oppilas käyttää energia-, voima- ja liikekäsitteitä erilaisissa tilanteissa. Oppilas selittää, miten energian säilymisen periaate ilmenee erilaisissa annetuissa tilanteissa.\nKemian tiedonala: kemiallisten ilmiöiden tutkiminen, kuvaaminen ja selittäminen: Oppilas havainnoi, tutkii ja kuvailee olomuotojen ja aineiden ominaisuuksia käyttäen kemian käsitteitä täsmällisesti. Oppilas kertoo, mitä tapahtuu kemiallisissa reaktioissa. Oppilas selittää aineen säilymisen periaatteen avulla esimerkiksi veden kiertokulkua ja aineiden kierrättämisen merkitystä.\nTerveystiedon tiedonala: terveyden osa-alueiden ja arjen terveystottumusten tuntemus sekä niiden merkityksen pohtiminen sekä ikäkauteen liittyvän kasvun ja kehityksen tunnistaminen ja kuvaaminen: Oppilas kuvailee terveyden osa-alueita ja antaa esimerkkejä niiden välisestä yhteydestä. Oppilas selittää esimerkkien avulla, miten elintavat vaikuttavat terveyteen. Oppilas selittää perustellen lapsuuteen ja nuoruuteen liittyviä keskeisiä kasvun ja kehityksen tunnuspiirteitä ja niihin liittyvää yksilöllistä vaihtelua.",
+              "en": ""
+            }
           }
         ]
       }

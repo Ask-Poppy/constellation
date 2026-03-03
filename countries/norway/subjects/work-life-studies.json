@@ -124,7 +124,9 @@
               "local": "undersøke behov for varer og tjenester på skolen og i lokalsamfunnet",
               "en": "undersøke behov for varer og tjenester på skolen og i lokalsamfunnet"
             },
-            "coreElements": ["Praktiske og yrkesrettede arbeidsoppdrag"],
+            "coreElements": [
+              "Praktiske og yrkesrettede arbeidsoppdrag"
+            ],
             "verbs": []
           },
           {
@@ -133,8 +135,12 @@
               "local": "planlegge praktiske og yrkesrettede arbeidsoppdrag",
               "en": "planlegge praktiske og yrkesrettede arbeidsoppdrag"
             },
-            "coreElements": ["Praktiske og yrkesrettede arbeidsoppdrag"],
-            "verbs": ["Planlegge"]
+            "coreElements": [
+              "Praktiske og yrkesrettede arbeidsoppdrag"
+            ],
+            "verbs": [
+              "Planlegge"
+            ]
           },
           {
             "code": "KM1171",
@@ -142,7 +148,9 @@
               "local": "produsere og levere varer og tjenester etter kvalitetskrav",
               "en": "produsere og levere varer og tjenester etter kvalitetskrav"
             },
-            "coreElements": ["Praktiske og yrkesrettede arbeidsoppdrag"],
+            "coreElements": [
+              "Praktiske og yrkesrettede arbeidsoppdrag"
+            ],
             "verbs": []
           },
           {
@@ -151,8 +159,12 @@
               "local": "bruke fagbegreper, arbeidsmetoder, verktøy, materialer og teknologi tilpasset arbeidsoppdrag og begrunne valg",
               "en": "bruke fagbegreper, arbeidsmetoder, verktøy, materialer og teknologi tilpasset arbeidsoppdrag og begrunne valg"
             },
-            "coreElements": ["Praktiske og yrkesrettede arbeidsoppdrag"],
-            "verbs": ["Bruke"]
+            "coreElements": [
+              "Praktiske og yrkesrettede arbeidsoppdrag"
+            ],
+            "verbs": [
+              "Bruke"
+            ]
           },
           {
             "code": "KM1169",
@@ -163,7 +175,9 @@
             "coreElements": [
               "Arbeidsfellesskap og helse, miljø og sikkerhet i arbeidsoppdraget"
             ],
-            "verbs": ["Samarbeide"]
+            "verbs": [
+              "Samarbeide"
+            ]
           },
           {
             "code": "KM1172",
@@ -171,7 +185,9 @@
               "local": "ivareta bærekraftige prinsipper i alle deler av arbeidsoppdraget",
               "en": "ivareta bærekraftige prinsipper i alle deler av arbeidsoppdraget"
             },
-            "coreElements": ["Praktiske og yrkesrettede arbeidsoppdrag"],
+            "coreElements": [
+              "Praktiske og yrkesrettede arbeidsoppdrag"
+            ],
             "verbs": []
           },
           {
@@ -183,7 +199,10 @@
             "coreElements": [
               "Arbeidsfellesskap og helse, miljø og sikkerhet i arbeidsoppdraget"
             ],
-            "verbs": ["Vurdere", "Beskrive"]
+            "verbs": [
+              "Vurdere",
+              "Beskrive"
+            ]
           },
           {
             "code": "KM1175",
@@ -194,7 +213,9 @@
             "coreElements": [
               "Arbeidsfellesskap og helse, miljø og sikkerhet i arbeidsoppdraget"
             ],
-            "verbs": ["Vurdere"]
+            "verbs": [
+              "Vurdere"
+            ]
           }
         ],
         "assessment": [
@@ -214,6 +235,41 @@
             },
             "description": {
               "local": "10. trinn: Se gjeldende ordning for grunnskoleopplæring for voksne."
+            }
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "2",
+            "label": {
+              "local": "Lav kompetanse, karakter 2",
+              "en": "Low competency, grade 2"
+            },
+            "text": {
+              "local": "Eleven finner og bruker informasjon for å planlegge produksjon.\nEleven produserer og leverer varer og tjenester.\nEleven behersker enkelte verktøy, metoder, materialer og noe teknologi i praktisk produksjon.\nEleven bruker fagbegreper og kommuniserer om produksjon.\nEleven følger regler for samhandling og produksjon.\nEleven beskriver og reflekterer over sin egen rolle i planlegging og produksjon.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "4",
+            "label": {
+              "local": "God kompetanse, karakter 4",
+              "en": "Good competency, grade 4"
+            },
+            "text": {
+              "local": "Eleven finner og bearbeider informasjon ved å bruke hensiktsmessige metoder for å planlegge produksjon.\nEleven produserer og leverer varer og tjenester og oppnår kvalitetskrav som er satt for produksjonen.\nEleven kombinerer verktøy, metoder, materialer og teknologi.\nEleven bruker fagbegreper til å reflektere over og kommunisere om produksjon.\nEleven bidrar med vurderinger og forslag til regler og rutiner for samhandling i produksjon.\nEleven forklarer og reflekterer flere sider av planlegging og produksjon.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "6",
+            "label": {
+              "local": "Framifrå kompetanse, karakter 6",
+              "en": "Excellent competency, grade 6"
+            },
+            "text": {
+              "local": "Eleven velger og begrunner strategier og finner nødvendig informasjon for å planlegge produksjon.\nEleven produserer og leverer varer og tjenester og utfører kvalitetsvurdering i produksjonen og tar avgjørelser for å sikre nødvendig kvalitet underveis.\nEleven videreutvikler metoder og tilpasser løsninger underveis produksjonen.\nEleven reflekterer og begrunner med nyansert fagspråk om produksjon.\nEleven tar initiativ og gjør vurderinger for helhetlig samhandling og organisering i produksjon.\nEleven reflekterer over eget og andres arbeid og produksjon og videreutvikler samspill g produksjon i arbeidsfellesskapet.",
+              "en": ""
             }
           }
         ]

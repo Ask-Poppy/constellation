@@ -4,8 +4,12 @@
     "api": "https://eperusteet.opintopolku.fi/eperusteet-service/api/external/peruste/419550/perusopetus/oppiaineet/466344",
     "curriculum": "POPS 2014",
     "license": "Open Government Data (Finland)",
-    "lastSynced": "2026-03-03T08:58:57Z",
-    "aiEnriched": ["description.en", "interdisciplinaryThemes", "basicSkills"]
+    "lastSynced": "2026-03-03T16:02:19Z",
+    "aiEnriched": [
+      "description.en",
+      "interdisciplinaryThemes",
+      "basicSkills"
+    ]
   },
   "subject": {
     "code": "MA",
@@ -246,7 +250,12 @@
               "local": "T1 tukea oppilaan innostusta ja kiinnostusta matematiikkaa kohtaan sekä myönteisen minäkuvan ja itseluottamuksen kehittymistä",
               "en": "T1 support the pupil's enthusiasm and interest in mathematics and the development of a positive self-image and self-confidence"
             },
-            "coreElements": ["S4", "S3", "S2", "S1"],
+            "coreElements": [
+              "S4",
+              "S3",
+              "S2",
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -255,7 +264,12 @@
               "local": "T2 ohjata oppilasta kehittämään taitoaan tehdä havaintoja matematiikan näkökulmasta sekä tulkita ja hyödyntää niitä eri tilanteissa",
               "en": "T2 guide the pupil in developing their skill in making observations from a mathematical perspective and in interpreting and utilising them in different situations"
             },
-            "coreElements": ["S4", "S3", "S2", "S1"],
+            "coreElements": [
+              "S4",
+              "S3",
+              "S2",
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -264,7 +278,12 @@
               "local": "T3 kannustaa oppilasta esittämään ratkaisujaan ja päätelmiään konkreettisin välinein, piirroksin, suullisesti ja kirjallisesti myös tieto- ja viestintäteknologiaa hyödyntäen",
               "en": "T3 encourage the pupil to present their solutions and conclusions using concrete tools, drawings, orally and in writing, also utilising information and communication technology"
             },
-            "coreElements": ["S4", "S3", "S2", "S1"],
+            "coreElements": [
+              "S4",
+              "S3",
+              "S2",
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -273,7 +292,12 @@
               "local": "T4 ohjata oppilasta kehittämään päättely- ja ongelmanratkaisutaitojaan",
               "en": "T4 guide the pupil in developing their reasoning and problem-solving skills"
             },
-            "coreElements": ["S4", "S3", "S2", "S1"],
+            "coreElements": [
+              "S4",
+              "S3",
+              "S2",
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -282,7 +306,12 @@
               "local": "T5 ohjata oppilasta ymmärtämään matemaattisia käsitteitä ja merkintätapoja",
               "en": "T5 guide the pupil in understanding mathematical concepts and notations"
             },
-            "coreElements": ["S4", "S3", "S2", "S1"],
+            "coreElements": [
+              "S4",
+              "S3",
+              "S2",
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -291,7 +320,9 @@
               "local": "T6 tukea oppilasta lukukäsitteen kehittymisessä ja kymmenjärjestelmän periaatteen ymmärtämisessä",
               "en": "T6 support the pupil in the development of the number concept and in understanding the principle of the decimal system"
             },
-            "coreElements": ["S2"],
+            "coreElements": [
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -300,7 +331,9 @@
               "local": "T7 perehdyttää oppilasta peruslaskutoimitusten periaatteisiin ja tutustuttaa niiden ominaisuuksiin",
               "en": "T7 familiarise the pupil with the principles of basic operations and introduce their properties"
             },
-            "coreElements": ["S2"],
+            "coreElements": [
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -309,7 +342,9 @@
               "local": "T8 ohjata oppilasta kehittämään sujuvaa peruslaskutaitoa luonnollisilla luvuilla ja käyttämään erilaisia päässälaskustrategioita",
               "en": "T8 guide the pupil in developing fluent basic calculation skills with natural numbers and in using various mental arithmetic strategies"
             },
-            "coreElements": ["S2"],
+            "coreElements": [
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -318,7 +353,9 @@
               "local": "T9 tutustuttaa oppilas geometrisiin muotoihin ja ohjata havainnoimaan niiden ominaisuuksia",
               "en": "T9 introduce the pupil to geometric shapes and guide them in observing their properties"
             },
-            "coreElements": ["S3"],
+            "coreElements": [
+              "S3"
+            ],
             "verbs": []
           },
           {
@@ -327,7 +364,9 @@
               "local": "T10 ohjata oppilasta ymmärtämään mittaamisen periaate",
               "en": "T10 guide the pupil in understanding the principle of measurement"
             },
-            "coreElements": ["S3"],
+            "coreElements": [
+              "S3"
+            ],
             "verbs": []
           },
           {
@@ -336,7 +375,9 @@
               "local": "T11 tutustuttaa oppilas taulukoihin ja diagrammeihin",
               "en": "T11 introduce the pupil to tables and diagrams"
             },
-            "coreElements": ["S4"],
+            "coreElements": [
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -345,7 +386,9 @@
               "local": "T12 harjaannuttaa oppilasta laatimaan vaiheittaisia toimintaohjeita ja toimimaan ohjeen mukaan",
               "en": "T12 train the pupil to create step-by-step instructions and to follow instructions"
             },
-            "coreElements": ["S1"],
+            "coreElements": [
+              "S1"
+            ],
             "verbs": []
           }
         ]
@@ -363,7 +406,13 @@
               "local": "T1 pitää yllä oppilaan innostusta ja kiinnostusta matematiikkaa kohtaan sekä tukea myönteistä minäkuvaa ja itseluottamusta",
               "en": "T1 maintain the pupil's enthusiasm and interest in mathematics and support a positive self-image and self-confidence"
             },
-            "coreElements": ["S1", "S5", "S4", "S3", "S2"],
+            "coreElements": [
+              "S1",
+              "S5",
+              "S4",
+              "S3",
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -372,7 +421,13 @@
               "local": "T2 ohjata oppilasta havaitsemaan yhteyksiä oppimiensa asioiden välillä",
               "en": "T2 guide the pupil in noticing connections between the things they have learned"
             },
-            "coreElements": ["S1", "S5", "S4", "S3", "S2"],
+            "coreElements": [
+              "S1",
+              "S5",
+              "S4",
+              "S3",
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -381,7 +436,13 @@
               "local": "T3 ohjata oppilasta kehittämään taitoaan esittää kysymyksiä ja tehdä perusteltuja päätelmiä havaintojensa pohjalta",
               "en": "T3 guide the pupil in developing their skill in asking questions and making justified conclusions based on their observations"
             },
-            "coreElements": ["S1", "S5", "S4", "S3", "S2"],
+            "coreElements": [
+              "S1",
+              "S5",
+              "S4",
+              "S3",
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -390,7 +451,13 @@
               "local": "T4 kannustaa oppilasta esittämään päättelyään ja ratkaisujaan muille konkreettisin välinein, piirroksin, suullisesti ja kirjallisesti myös tieto- ja viestintäteknologiaa hyödyntäen",
               "en": "T4 encourage the pupil to present their reasoning and solutions to others using concrete tools, drawings, orally and in writing, also utilising information and communication technology"
             },
-            "coreElements": ["S1", "S5", "S4", "S3", "S2"],
+            "coreElements": [
+              "S1",
+              "S5",
+              "S4",
+              "S3",
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -399,7 +466,13 @@
               "local": "T5 ohjata ja tukea oppilasta ongelmanratkaisutaitojen kehittämisessä",
               "en": "T5 guide and support the pupil in developing problem-solving skills"
             },
-            "coreElements": ["S1", "S5", "S4", "S3", "S2"],
+            "coreElements": [
+              "S1",
+              "S5",
+              "S4",
+              "S3",
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -408,7 +481,13 @@
               "local": "T6 ohjata oppilasta kehittämään taitoaan arvioida ratkaisun järkevyyttä ja tuloksen mielekkyyttä",
               "en": "T6 guide the pupil in developing their skill in evaluating the reasonableness of a solution and the meaningfulness of a result"
             },
-            "coreElements": ["S1", "S5", "S4", "S3", "S2"],
+            "coreElements": [
+              "S1",
+              "S5",
+              "S4",
+              "S3",
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -417,7 +496,13 @@
               "local": "T7 ohjata oppilasta käyttämään ja ymmärtämään matemaattisia käsitteitä ja merkintöjä",
               "en": "T7 guide the pupil in using and understanding mathematical concepts and notations"
             },
-            "coreElements": ["S1", "S5", "S4", "S3", "S2"],
+            "coreElements": [
+              "S1",
+              "S5",
+              "S4",
+              "S3",
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -426,7 +511,9 @@
               "local": "T8 tukea ja ohjata oppilasta vahvistamaan ja laajentamaan ymmärrystään kymmenjärjestelmästä",
               "en": "T8 support and guide the pupil in strengthening and expanding their understanding of the decimal system"
             },
-            "coreElements": ["S2"],
+            "coreElements": [
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -435,7 +522,9 @@
               "local": "T9 tukea oppilasta lukukäsitteen kehittymisessä positiivisiin rationaalilukuihin ja negatiivisiin kokonaislukuihin",
               "en": "T9 support the pupil in the development of the number concept to include positive rational numbers and negative integers"
             },
-            "coreElements": ["S2"],
+            "coreElements": [
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -444,7 +533,9 @@
               "local": "T10 opastaa oppilasta saavuttamaan sujuva laskutaito päässä ja kirjallisesti hyödyntäen laskutoimitusten ominaisuuksia",
               "en": "T10 instruct the pupil in achieving fluent calculation skills mentally and in writing by utilising the properties of operations"
             },
-            "coreElements": ["S2"],
+            "coreElements": [
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -453,7 +544,9 @@
               "local": "T11 ohjata oppilasta havainnoimaan ja kuvailemaan kappaleiden ja kuvioiden geometrisia ominaisuuksia sekä tutustuttaa oppilas geometrisiin käsitteisiin",
               "en": "T11 guide the pupil in observing and describing the geometric properties of solids and figures and introduce the pupil to geometric concepts"
             },
-            "coreElements": ["S4"],
+            "coreElements": [
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -462,7 +555,9 @@
               "local": "T12 ohjata oppilasta arvioimaan mittauskohteen suuruutta ja valitsemaan mittaamiseen sopivan välineen ja mittayksikön sekä pohtimaan mittaustuloksen järkevyyttä",
               "en": "T12 guide the pupil in estimating the magnitude of what is being measured and in selecting an appropriate tool and unit of measurement, as well as considering the reasonableness of the measurement result"
             },
-            "coreElements": ["S4"],
+            "coreElements": [
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -471,7 +566,9 @@
               "local": "T13 ohjata oppilasta laatimaan ja tulkitsemaan taulukoita ja diagrammeja sekä käyttämään tilastollisia tunnuslukuja sekä tarjota kokemuksia todennäköisyydestä",
               "en": "T13 guide the pupil in creating and interpreting tables and diagrams and in using statistical measures, as well as provide experiences of probability"
             },
-            "coreElements": ["S5"],
+            "coreElements": [
+              "S5"
+            ],
             "verbs": []
           },
           {
@@ -480,8 +577,56 @@
               "local": "T14 innostaa oppilasta laatimaan toimintaohjeita tietokoneohjelmina graafisessa ohjelmointiympäristössä",
               "en": "T14 inspire the pupil to create instructions as computer programs in a graphical programming environment"
             },
-            "coreElements": ["S1"],
+            "coreElements": [
+              "S1"
+            ],
             "verbs": []
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "5",
+            "label": {
+              "local": "Arvosana 5 (välttävä)",
+              "en": "Grade 5 (passable)"
+            },
+            "text": {
+              "local": "Opittujen asioiden yhteydet: Oppilas havaitsee ohjattuna oppimiensa asioiden välisiä yhteyksiä.\nKysymysten esittäminen ja päättelytaidot: Oppilas havaitsee, mihin tarvitsee apua.\n\nOppilas osaa ohjattuna tehdä havaintoja ja koota tietoa tehdäkseen päätelmiä.\nRatkaisujen ja päätelmien esittäminen: Oppilas pystyy kertomaan päättelystään ja esittää ratkaisujaan ohjattuna jollakin ilmaisukeinolla.\nOngelmanratkaisutaidot: Oppilas osaa ohjattuna käyttää jotakin tapaa ongelman ratkaisemiseksi.\nTaito arvioida ratkaisua: Oppilas osaa ohjattuna hahmottaa saadun tuloksen järkevyyttä.\nMatemaattisten käsitteiden ymmärtäminen ja käyttö: Oppilas tunnistaa ohjattuna matemaattisia käsitteitä ja harjoittelee merkintöjä.\nKymmenjärjestelmän ymmärtäminen: Oppilas erottaa toisistaan kokonaislukujen suuruusluokkia ja tunnistaa ohjattuna desimaaliluvun lukuyksiköt.\nLukukäsite: Oppilas osaa asettaa negatiiviset luvut suuruusjärjestykseen ja ohjattuna vertailee murtolukujen suuruuksia.\nLaskutaidot ja peruslaskutoimitusten ominaisuuksien hyödyntäminen: Oppilas laskee peruslaskutoimituksia kahdella luonnollisella luvulla.\nGeometrian käsitteet ja geometristen ominaisuuksien havainnointi: Oppilas tunnistaa ja nimeää yleisimmät geometriset kuviot ja kappaleet sekä niiden osat. \n\nOppilas osaa piirtää yleisimmät geometriset kuviot.\nMittaaminen: Oppilas suorittaa mittauksen annetulla mittavälineellä ja ilmoittaa, kuinka monta mittavälineen yksikköä hän sai tulokseksi. \n\nOppilas osaa ohjattuna muuttaa pituusyksikön toiseksi pituusyksiköksi.\nHavaintoihin perustuvan jakauman kuvailu ja klassinen todennäköisyys: Oppilas osaa taulukoida havainnot ja lukea pylväsdiagrammia. \n\nOppilas osaa poimia taulukosta tai diagrammista yleisimmän havainnon ja ohjattuna laskea lukujen keskiarvon.\n\nOppilas tunnistaa varman tapahtuman.\nOhjelmointi graafisessa ohjelmointiympäristössä: Oppilas testaa valmista ohjelmaa ja tunnistaa, mitä eri komennot saavat aikaan.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "7",
+            "label": {
+              "local": "Arvosana 7 (tyydyttävä)",
+              "en": "Grade 7 (satisfactory)"
+            },
+            "text": {
+              "local": "Opittujen asioiden yhteydet: Oppilas havaitsee oppimiensa asioiden välisiä yhteyksiä ja antaa ohjattuna esimerkkejä.\nKysymysten esittäminen ja päättelytaidot: Oppilas harjoittelee matemaattisten kysymysten esittämistä.\n\nOppilas osaa ohjattuna esittää perusteluja päätelmilleen.\nRatkaisujen ja päätelmien esittäminen: Oppilas esittää päättelyään ja ratkaisujaan jollakin ilmaisukeinolla.\nOngelmanratkaisutaidot: Oppilas kokeilee oikeaa lopputulokseen johtavaa tapaa ongelman ratkaisemiseksi.\nTaito arvioida ratkaisua: Oppilas pohtii tuloksen mielekkyyttä ja arvioi ohjattuna ratkaisuaan.\nMatemaattisten käsitteiden ymmärtäminen ja käyttö: Oppilas tuntee matematiikan käsitteitä ja käyttää pääsääntöisesti oikeita merkintöjä.\nKymmenjärjestelmän ymmärtäminen: Oppilas osaa nimetä desimaaliluvusta lukuyksiköt ja käyttää kymmenjärjestelmää luonnollisten lukujen laskutoimituksissa.\nLukukäsite: Oppilas osaa asettaa murtolukuja suuruusjärjestykseen ja osaa antaa esimerkkejä negatiivisten lukujen käytöstä.\nLaskutaidot ja peruslaskutoimitusten ominaisuuksien hyödyntäminen: Oppilas laskee useamman kuin yhden laskutoimituksen sisältäviä laskutoimituksia luonnollisilla luvuilla ja osaa ohjattuna hajottaa luvut laskun kannalta helpompaan muotoon.\nGeometrian käsitteet ja geometristen ominaisuuksien havainnointi: Oppilas havainnoi ja kuvailee pisteen, janan, suoran ja kulman välisiä yhteyksiä. \n\nOppilas tunnistaa suoran suhteen symmetrisiä kuvioita. \n\nOppilas osaa ohjattuna suurentaa tai pienentää kuviota.\n\nOppilas osaa merkitä annetun pisteen koordinaatistoon.\nMittaaminen: Oppilas suorittaa mittauksen valitsemallaan mittavälineellä ja osaa ilmoittaa mittaustuloksen pyydetyssä yksikössä. \n\nOppilas osaa muuttaa vetomittojen (l, dl, jne.) yksiköitä.\nHavaintoihin perustuvan jakauman kuvailu ja klassinen todennäköisyys: Oppilas osaa tulkita erilaisia diagrammeja.\n\nOppilas osaa määrittää tyyppiarvon ja laskea keskiarvon.\n\nOppilas osaa laskea kysyttyjen vaihtoehtojen lukumäärän ja kaikkien vaihtoehtojen lukumäärän.\nOhjelmointi graafisessa ohjelmointiympäristössä: Oppilas osaa lisätä valmiiseen ohjelmaan ehto- tai toistorakenteen sekä etsiä ohjelmointivirhettä ja korjata ohjelmaa.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "8",
+            "label": {
+              "local": "Arvosana 8 (hyvä)",
+              "en": "Grade 8 (good)"
+            },
+            "text": {
+              "local": "Opittujen asioiden yhteydet: Oppilas tunnistaa ja antaa esimerkkejä oppimiensa asioiden välisistä yhteyksistä.\nKysymysten esittäminen ja päättelytaidot: Oppilas osaa esittää opiskeltavaan aiheeseen liittyviä kysymyksiä.\n\nOppilas antaa perusteluja päätelmilleen.\nRatkaisujen ja päätelmien esittäminen: Oppilas esittää päättelyään ja ratkaisujaan tarvittaessa toisella ilmaisukeinolla.\nOngelmanratkaisutaidot: Oppilas osaa valita ja käyttää toimivaa ratkaisutapaa ongelman ratkaisemiseksi.\nTaito arvioida ratkaisua: Oppilas tarkastelee kriittisesti ratkaisuaan ja tuloksen mielekkyyttä.\nMatemaattisten käsitteiden ymmärtäminen ja käyttö: Oppilas käyttää matemaattisia käsitteitä ja oikeita merkintöjä.\nKymmenjärjestelmän ymmärtäminen: Oppilas hyödyntää kymmenjärjestelmää paikkajärjestelmänä laskutoimituksissa.\nLukukäsite: Oppilas osaa käyttää positiivisia rationaalilukuja ja negatiivisia kokonaislukuja laskutoimituksissa.\nLaskutaidot ja peruslaskutoimitusten ominaisuuksien hyödyntäminen: Oppilas laskee sujuvasti useita laskulausekkeita sisältäviä laskuja ja osaa hajottaa luvut laskun kannalta helpompaan muotoon.\nGeometrian käsitteet ja geometristen ominaisuuksien havainnointi: Oppilas havainnoi ja kuvailee kuvioiden ja kappaleiden ominaisuuksia.\n\nOppilas piirtää pisteen tai suoran suhteen symmetrisiä kuvioita koordinaatistoa hyödyntäen. \n\nOppilas osaa käyttää annettua mittakaavaa.\nMittaaminen: Oppilas osaa havainnoida mittauskohteen suuruutta ja valitsee mittaamiseen sopivan välineen. \n\nOppilas hallitsee yleisimmät mittayksikkömuunnokset ja pohtii mittaustuloksen järkevyyttä.\nHavaintoihin perustuvan jakauman kuvailu ja klassinen todennäköisyys: Oppilas osaa laatia käyttökelpoisen kuvailun joko taulukolla tai diagrammilla. \n\nOppilas osaa päätellä, mikä vaihtoehdoista on todennäköisin.\nOhjelmointi graafisessa ohjelmointiympäristössä: Oppilas osaa ohjelmoida graafisessa ohjelmointiympäristössä toimivan ohjelman, jossa käytetään ehto- ja toistorakenteita.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "9",
+            "label": {
+              "local": "Arvosana 9 (kiitettävä)",
+              "en": "Grade 9 (excellent)"
+            },
+            "text": {
+              "local": "Opittujen asioiden yhteydet: Oppilas osaa kuvailla ja selittää, mistä hänen oppimiensa asioiden väliset yhteydet johtuvat.\nKysymysten esittäminen ja päättelytaidot: Oppilas esittää opiskeltavaa aihetta tukevia kysymyksiä. \n\nOppilas osaa esittää selkeitä perusteluja päätelmille.\nRatkaisujen ja päätelmien esittäminen: Oppilas esittää päättelyään ja ratkaisujaan tilanteeseen sopivalla ilmaisukeinolla.\nOngelmanratkaisutaidot: Oppilas osaa arvioida ratkaisutapansa toimivuutta ja tehokuutta.\nTaito arvioida ratkaisua: Oppilas arvioi ja perustelee ratkaisua sekä tuloksen mielekkyyttä.\nMatemaattisten käsitteiden ymmärtäminen ja käyttö: Oppilas ymmärtää ja käyttää oikeita käsitteitä ja merkintöjä.\nKymmenjärjestelmän ymmärtäminen: Oppilas ymmärtää kymmenjärjestelmän olevan yksi paikkajärjestelmistä.\nLukukäsite: Oppilas käyttää positiivisia rationaalilukuja ja negatiivisia kokonaislukuja osana ongelmanratkaisua.\nLaskutaidot ja peruslaskutoimitusten ominaisuuksien hyödyntäminen: Oppilas osaa käyttää monipuolisesti erilaisia laskutapoja.\nGeometrian käsitteet ja geometristen ominaisuuksien havainnointi: Oppilas osaa hyödyntää kuvioiden ja kappaleiden ominaisuuksia ongelmanratkaisussa. \n\nOppilas osaa piirtää pienennöksiä ja suurennoksia kuvioista ja määrittää mittakaavan annettujen mittojen pohjalta.\nMittaaminen: Oppilas osaa selittää mittaustuloksen tarkkuuteen vaikuttavia tekijöitä ja valita oikean mittayksikön. \n\nOppilas osaa muuttaa pinta-alojen mittayksiköitä.\nHavaintoihin perustuvan jakauman kuvailu ja klassinen todennäköisyys: Oppilas hyödyntää taulukoita, diagrammeja sekä tyyppiarvoa ja keskiarvoa.\n\nOppilas osaa määrittää tapahtuman avulla vastatapahtuman.\nOhjelmointi graafisessa ohjelmointiympäristössä: Oppilas hyödyntää graafista ohjelmointia ongelmanratkaisussa. \n\nOppilas osaa arvioida ohjelmaa ja muokata sitä tiettyyn tarkoitukseen käyttökelpoiseksi.",
+              "en": ""
+            }
           }
         ]
       },
@@ -498,7 +643,14 @@
               "local": "T1 vahvistaa oppilaan motivaatiota, myönteistä minäkuvaa ja itseluottamusta matematiikan oppijana",
               "en": "T1 strengthen the pupil's motivation, positive self-image, and self-confidence as a learner of mathematics"
             },
-            "coreElements": ["S2", "S1", "S5", "S6", "S3", "S4"],
+            "coreElements": [
+              "S2",
+              "S1",
+              "S5",
+              "S6",
+              "S3",
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -507,7 +659,14 @@
               "local": "T2 kannustaa oppilasta ottamaan vastuuta matematiikan oppimisesta sekä yksin että yhdessä toimien",
               "en": "T2 encourage the pupil to take responsibility for learning mathematics both independently and collaboratively"
             },
-            "coreElements": ["S2", "S1", "S5", "S6", "S3", "S4"],
+            "coreElements": [
+              "S2",
+              "S1",
+              "S5",
+              "S6",
+              "S3",
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -516,7 +675,14 @@
               "local": "T3 ohjata oppilasta havaitsemaan ja ymmärtämään oppimiensa asioiden välisiä yhteyksiä",
               "en": "T3 guide the pupil in perceiving and understanding the connections between the things they have learned"
             },
-            "coreElements": ["S2", "S1", "S5", "S6", "S3", "S4"],
+            "coreElements": [
+              "S2",
+              "S1",
+              "S5",
+              "S6",
+              "S3",
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -525,7 +691,14 @@
               "local": "T4 kannustaa oppilasta harjaantumaan täsmälliseen matemaattiseen ilmaisuun suullisesti ja kirjallisesti",
               "en": "T4 encourage the pupil to develop skill in precise mathematical expression both orally and in writing"
             },
-            "coreElements": ["S2", "S1", "S5", "S6", "S3", "S4"],
+            "coreElements": [
+              "S2",
+              "S1",
+              "S5",
+              "S6",
+              "S3",
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -534,7 +707,14 @@
               "local": "T5 tukea oppilasta loogista ja luovaa ajattelua vaativien matemaattisten tehtävien ratkaisemisessa ja siinä tarvittavien taitojen kehittämisessä",
               "en": "T5 support the pupil in solving mathematical tasks that require logical and creative thinking and in developing the skills needed for this"
             },
-            "coreElements": ["S2", "S1", "S5", "S6", "S3", "S4"],
+            "coreElements": [
+              "S2",
+              "S1",
+              "S5",
+              "S6",
+              "S3",
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -543,7 +723,14 @@
               "local": "T6 ohjata oppilasta arvioimaan ja kehittämään matemaattisia ratkaisujaan sekä tarkastelemaan kriittisesti tuloksen mielekkyyttä",
               "en": "T6 guide the pupil in evaluating and developing their mathematical solutions and in critically examining the meaningfulness of results"
             },
-            "coreElements": ["S2", "S1", "S5", "S6", "S3", "S4"],
+            "coreElements": [
+              "S2",
+              "S1",
+              "S5",
+              "S6",
+              "S3",
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -552,7 +739,14 @@
               "local": "T7 rohkaista oppilasta soveltamaan matematiikkaa muissakin oppiaineissa ja ympäröivässä yhteiskunnassa",
               "en": "T7 encourage the pupil to apply mathematics in other subjects and in the surrounding society"
             },
-            "coreElements": ["S2", "S1", "S5", "S6", "S3", "S4"],
+            "coreElements": [
+              "S2",
+              "S1",
+              "S5",
+              "S6",
+              "S3",
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -561,7 +755,11 @@
               "local": "T8 ohjata oppilasta kehittämään tiedonhallinta- ja analysointitaitojaan sekä opastaa tiedon kriittiseen tarkasteluun",
               "en": "T8 guide the pupil in developing their data management and analysis skills and instruct them in the critical examination of information"
             },
-            "coreElements": ["S1", "S6", "S4"],
+            "coreElements": [
+              "S1",
+              "S6",
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -570,7 +768,14 @@
               "local": "T9 opastaa oppilasta soveltamaan tieto- ja viestintäteknologiaa matematiikan opiskelussa sekä ongelmien ratkaisemisessa",
               "en": "T9 instruct the pupil in applying information and communication technology in the study of mathematics and in problem solving"
             },
-            "coreElements": ["S2", "S1", "S5", "S6", "S3", "S4"],
+            "coreElements": [
+              "S2",
+              "S1",
+              "S5",
+              "S6",
+              "S3",
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -579,7 +784,10 @@
               "local": "T10 ohjata oppilasta vahvistamaan päättely- ja päässälaskutaitoa ja kannustaa oppilasta käyttämään laskutaitoaan eri tilanteissa",
               "en": "T10 guide the pupil in strengthening reasoning and mental arithmetic skills and encourage the pupil to use their calculation skills in different situations"
             },
-            "coreElements": ["S2", "S1"],
+            "coreElements": [
+              "S2",
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -588,7 +796,9 @@
               "local": "T11 ohjata oppilasta kehittämään kykyään laskea peruslaskutoimituksia rationaaliluvuilla",
               "en": "T11 guide the pupil in developing their ability to perform basic operations with rational numbers"
             },
-            "coreElements": ["S2"],
+            "coreElements": [
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -597,7 +807,9 @@
               "local": "T12 tukea oppilasta laajentamaan lukukäsitteen ymmärtämistä reaalilukuihin",
               "en": "T12 support the pupil in extending their understanding of the number concept to real numbers"
             },
-            "coreElements": ["S2"],
+            "coreElements": [
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -606,7 +818,10 @@
               "local": "T13 tukea oppilasta laajentamaan ymmärrystään prosenttilaskennasta",
               "en": "T13 support the pupil in expanding their understanding of percentage calculations"
             },
-            "coreElements": ["S2", "S6"],
+            "coreElements": [
+              "S2",
+              "S6"
+            ],
             "verbs": []
           },
           {
@@ -615,7 +830,10 @@
               "local": "T14 ohjata oppilasta ymmärtämään tuntemattoman käsite ja kehittämään yhtälönratkaisutaitojaan",
               "en": "T14 guide the pupil in understanding the concept of unknown and in developing their equation-solving skills"
             },
-            "coreElements": ["S3", "S4"],
+            "coreElements": [
+              "S3",
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -624,7 +842,10 @@
               "local": "T15 ohjata oppilasta ymmärtämään muuttujan käsite ja tutustuttaa funktion käsitteeseen. Ohjata oppilasta harjoittelemaan funktion kuvaajan tulkitsemista ja tuottamista",
               "en": "T15 guide the pupil in understanding the concept of variable and introduce the concept of function. Guide the pupil in practising the interpretation and production of function graphs"
             },
-            "coreElements": ["S3", "S4"],
+            "coreElements": [
+              "S3",
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -633,7 +854,9 @@
               "local": "T16 tukea oppilasta ymmärtämään geometrian käsitteitä ja niiden välisiä yhteyksiä",
               "en": "T16 support the pupil in understanding geometric concepts and the connections between them"
             },
-            "coreElements": ["S5"],
+            "coreElements": [
+              "S5"
+            ],
             "verbs": []
           },
           {
@@ -642,7 +865,9 @@
               "local": "T17 ohjata oppilasta ymmärtämään ja hyödyntämään suorakulmaiseen kolmioon ja ympyrään liittyviä ominaisuuksia",
               "en": "T17 guide the pupil in understanding and utilising properties related to the right-angled triangle and the circle"
             },
-            "coreElements": ["S5"],
+            "coreElements": [
+              "S5"
+            ],
             "verbs": []
           },
           {
@@ -651,7 +876,9 @@
               "local": "T18 kannustaa oppilasta kehittämään taitoaan laskea pinta-aloja ja tilavuuksia",
               "en": "T18 encourage the pupil to develop their skill in calculating areas and volumes"
             },
-            "coreElements": ["S5"],
+            "coreElements": [
+              "S5"
+            ],
             "verbs": []
           },
           {
@@ -660,7 +887,9 @@
               "local": "T19 ohjata oppilasta määrittämään tilastollisia tunnuslukuja ja laskemaan todennäköisyyksiä",
               "en": "T19 guide the pupil in determining statistical measures and calculating probabilities"
             },
-            "coreElements": ["S6"],
+            "coreElements": [
+              "S6"
+            ],
             "verbs": []
           },
           {
@@ -669,8 +898,56 @@
               "local": "T20 ohjata oppilasta kehittämään algoritmista ajatteluaan sekä taitojaan soveltaa matematiikkaa ja ohjelmointia ongelmien ratkaisemiseen",
               "en": "T20 guide the pupil in developing their algorithmic thinking and skills in applying mathematics and programming to problem solving"
             },
-            "coreElements": ["S1"],
+            "coreElements": [
+              "S1"
+            ],
             "verbs": []
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "5",
+            "label": {
+              "local": "Arvosana 5 (välttävä)",
+              "en": "Grade 5 (passable)"
+            },
+            "text": {
+              "local": "Vastuunottaminen opiskelusta: Oppilas kykenee ohjattuna aloittamaan työskentelyn ja ylläpitämään sitä.\nOpittujen asioiden yhteydet: Oppilas havaitsee ohjattuna opittavien asioiden välisiä yhteyksiä.\nMatemaattinen ilmaisu: Oppilas ilmaisee ohjattuna matemaattista ajatteluaan jollakin tavalla.\nOngelmanratkaisutaidot: Oppilas jäsentää ohjattuna ongelmia ja ratkaisee osia ongelmasta.\nTaito arvioida ja kehittää matemaattisia ratkaisuja: Oppilas selittää ohjattuna tuottamansa ratkaisun ja pohtii ohjattuna tuloksen mielekkyyttä.\nMatematiikan soveltaminen: Oppilas tunnistaa matematiikan käyttömahdollisuudet ympärillään ja tietää ongelman matemaattisen muotoilun tarpeellisuuden.\nTiedon analy-sointi ja kriittinen tarkastelu: Oppilas osaa vertailla ohjattuna tietoa matemaattisella perusteella.\nTieto- ja viestintäteknologian käyttö: Oppilas tutustuu matematiikan oppimista tukevaan ohjelmistoon ja käyttää sitä ohjatusti.\nPäättely- ja laskutaito: Oppilas laskee päässään lyhyitä laskutoimituksia ja löytää ohjattuna matemaattisia säännönmukaisuuksia.\nPeruslaskutoimitukset rationaaliluvuilla: Oppilas laskee samannimisten, positiivisten murtolukujen yhteen- ja vähennyslaskuja.   \nOppilas kertoo murtoluvun kokonaisluvulla.\nLukukäsite: Oppilas sijoittaa annetun desimaaliluvun lukusuoralle. \nOppilas tunnistaa tilanteet, jolloin tarvitaan pyöristämistä.\nProsentin käsite ja prosenttilaskenta: Oppilas selittää, päättelee tai laskee prosenttiosuuden ja prosenttiluvun osoittaman määrän.\nTuntemattoman käsite ja yhtälönratkaisutaidot: Oppilas yhdistää samanmuotoisia termejä. \nOppilas ratkaisee ohjattuna ensimmäisen asteen yhtälöitä ja päättelee ohjattuna vaillinaisen toisen asteen yhtälön jonkin ratkaisun.\nMuuttujan ja funktion käsitteet sekä kuvaajien tulkitseminen ja tuottaminen: Oppilas laskee lausekkeen arvon ja lukee leikkauspisteiden koordinaatteja. \nOppilas tunnistaa nousevan ja laskevan suoran yhtälöstä. \nOppilas piirtää ohjattuna ensimmäisen asteen funktion kuvaajan koordinaatistoon.\nGeometrian käsitteiden ja niiden välisten yhteyksien hahmottaminen: Oppilas tunnistaa ja nimeää kulmia ja monikulmioita ja laskee ohjattuna niihin liittyviä laskuja.\nOppilas piirtää suoran suhteen symmetrisiä kuvioita.\nSuorakulmaisen kolmion ja ympyrän ominaisuuksien hahmottaminen: Oppilas laskee hypotenuusan pituuden käyttämällä Pythagoraan lausetta. \nOppilas osaa tutkia kolmion suorakulmaisuutta. \nOppilas tunnistaa ympyrään liittyviä käsitteitä ja laskee ohjattuna ympyrän kehän pituuden.\nPinta-alojen ja tilavuuksien laskutaito: Oppilas muuntaa yleisimmin käytettyjä pinta-alan ja tilavuuden yksiköitä.\nOppilas osaa laskea suorakulmion pinta-alan ja suorakulmaisen särmiön tilavuuden.\nTilastolliset tunnusluvut ja todennäköisyyslaskenta: Oppilas lukee tiedon pylväs-, viiva- ja ympyrädiagrammista sekä taulukosta. \nOppilas laskee keskiarvon ja määrittää ohjattuna tyyppiarvon ja mediaanin. \nOppilas päättelee ohjattuna klassisia todennäköi-syyksiä.\nAlgoritminen ajattelu ja ohjelmointitaidot: Oppilas tunnistaa yksinkertaisen algoritmin askeleet ja testaa ohjattuna valmiita ohjelmia.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "7",
+            "label": {
+              "local": "Arvosana 7 (tyydyttävä)",
+              "en": "Grade 7 (satisfactory)"
+            },
+            "text": {
+              "local": "Vastuunottaminen opiskelusta: Oppilas työskentelee osin itsenäisesti ja saattaa työskentelyn ohjattuna loppuun. \nOppilas osallistuu ryhmän toimintaan vaihtelevasti.\nOpittujen asioiden yhteydet: Oppilas havaitsee ja kuvailee oppimiensa asioiden välisiä yhteyksiä.\nMatemaattinen ilmaisu: Oppilas ilmaisee matemaattista ajatteluaan joko suullisesti tai kirjallisesti.\nOngelmanratkaisutaidot: Oppilas osaa poimia annetusta ongelmasta matemaattisen informaation ja ratkaisee ohjattuna ongelmia.\nTaito arvioida ja kehittää matemaattisia ratkaisuja: Oppilas selittää laatimansa ratkaisun, pohtii tuloksen mielekkyyttä ja arvioi ohjattuna ratkaisuaan.\nMatematiikan soveltaminen: Oppilas soveltaa matematiikkaa muotoillen ongelmia matematiikan kielelle annettuja esimerkkejä noudattaen.\nTiedon analy-sointi ja kriittinen tarkastelu: Oppilas käsittelee ja esittää tietoa annetun esimerkin mukaisesti.\nTieto- ja viestintäteknologian käyttö: Oppilas käyttää sopivaa ohjelmistoa omien tuotosten laatimiseen ja matematiikan opiskeluun.\nPäättely- ja laskutaito: Oppilas laskee päässään laskutoimituksia ja löytää matemaattisia säännönmukaisuuksia.\nPeruslaskutoimitukset rationaaliluvuilla: Oppilas laskee positiivisten murtolukujen yhteen- ja vähennyslaskuja.\nOppilas kertoo ja jakaa murtoluvun kokonaisluvulla.\nLukukäsite: Oppilas kuvailee, millaisia lukuja on eri lukujoukoissa ja sijoittaa niitä lukusuoralle.\nOppilas pyöristää luvun annettuun tarkkuuteen.\nProsentin käsite ja prosenttilaskenta: Oppilas laskee prosenttiosuuden, prosenttiluvun osoittaman määrän kokonaisuudesta sekä muutoksen suuruuden ja muutoksen prosentteina.\nTuntemattoman käsite ja yhtälönratkaisutaidot: Oppilas sieventää lausekkeita. \nOppilas ymmärtää yhtäsuuruuden säilymisen ja ratkaisee ensimmäisen asteen yhtälön symbolisesti ja vaillinaisen toisen asteen yhtälön joko päättelemällä tai symbolisesti.\nMuuttujan ja funktion käsitteet sekä kuvaajien tulkitseminen ja tuottaminen: Oppilas sijoittaa muuttujan paikalle lukuarvoja ja saatuja pisteitä koordinaatistoon.\nOppilas piirtää ensimmäisen asteen funktion kuvaajan ja ratkaisee ohjattuna yhtälöparin graafisesti tai algebrallisesti.\nGeometrian käsitteiden ja niiden välisten yhteyksien hahmottaminen: Oppilas piirtää pisteen suhteen symmetrisiä kuvioita. \nOppilas löytää vastinosat yhdenmuotoisista kuvioista, käyttää verrantoa ja osaa määrittää mittakaavan.\nSuorakulmaisen kolmion ja ympyrän ominaisuuksien hahmottaminen: Oppilas ratkaisee suorakulmaisen kolmion sivun pituuden Pythagoraan lauseella ja löytää kulmalle viereisen ja vastaisen kateetin ja hypotenuusan sekä tietää, miten ne liittyvät trigonometrisiin funktioihin. \nOppilas laskee ympyrän kehän pituuden.\nPinta-alojen ja tilavuuksien laskutaito: Oppilas muuntaa pinta-alan ja tilavuuden yksiköitä. \nOppilas laskee yleisimpien tasokuvioiden pinta-alat ja kappaleiden tilavuudet.\nTilastolliset tunnusluvut ja todennäköisyyslaskenta: Oppilas osaa esittää tiedon sopivalla diagrammilla tai taulukolla. \nOppilas laskee tavallisimpia keskilukuja, määrittää vaihteluvälin ja osaa ohjattuna kertoa tutkimustuloksista ja johtopäätöksistä. \nOppilas laskee klassisia todennäköisyyksiä.\nAlgoritminen ajattelu ja ohjelmointitaidot: Oppilas käyttää ehto- ja toistorakennetta ohjelmoinnissa sekä testaa ja tulkitsee ohjelmia.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "8",
+            "label": {
+              "local": "Arvosana 8 (hyvä)",
+              "en": "Grade 8 (good)"
+            },
+            "text": {
+              "local": "Vastuunottaminen opiskelusta: Oppilas ottaa vastuuta omasta oppimisestaan ja osallistuu rakentavasti ryhmän toimintaan.\nOpittujen asioiden yhteydet: Oppilas löytää ja selittää perustellen oppimiensa asioiden välisiä yhteyksiä.\nMatemaattinen ilmaisu: Oppilas ilmaisee matemaattista ajatteluaan sekä suullisesti että kirjallisesti.\nOngelmanratkaisutaidot: Oppilas jäsentää ja ratkaisee loogista ja luovaa ajattelua vaativia ongelmia.\nTaito arvioida ja kehittää matemaattisia ratkaisuja: Oppilas tarkastelee kriittisesti matemaattista ratkaisuaan ja tuloksen mielekkyyttä.\nMatematiikan soveltaminen: Oppilas soveltaa matematiikkaa eri ympäristöissä muotoillen reaalimaailman ongelmia matematiikan kielelle.\nTiedon analy-sointi ja kriittinen tarkastelu: Oppilas hankkii, käsittelee ja esittää tietoa sekä pohtii sen uskottavuutta.\nTieto- ja viestintäteknologian käyttö: Oppilas käyttää tieto- ja viestintäteknologiaa matemaattisten ongelmien tarkastelemiseen ja ratkaisemiseen.\nPäättely- ja laskutaito: Oppilas käyttää aktiivisesti päättely- ja päässälaskutaitoa.\nPeruslaskutoimitukset rationaaliluvuilla: Oppilas laskee sujuvasti peruslaskutoimituksia rationaaliluvuilla.\nLukukäsite: Oppilas tunnistaa rationaaliluvun ja irrationaaliluvun eron. \nOppilas pyöristää luvun oikeaan tarkkuuteen.\nProsentin käsite ja prosenttilaskenta: Oppilas osaa käyttää prosenttilaskennan eri menetelmiä.\nOppilas ymmärtää prosentin ja prosenttiyksikön välisen eron.\nTuntemattoman käsite ja yhtälönratkaisutaidot: Oppilas ymmärtää yhtäsuuruuden käsitteen ja ratkaisee vaillinaisen toisen asteen yhtälön symbolisesti.\nMuuttujan ja funktion käsitteet sekä kuvaajien tulkitseminen ja tuottaminen: Oppilas ymmärtää muuttujan ja funktion käsitteet sekä osaa piirtää funktion kuvaajia. \nOppilas ratkaisee annetun yhtälöparin graafisesti ja algebrallisesti.\nGeometrian käsitteiden ja niiden välisten yhteyksien hahmottaminen: Oppilas hyödyntää perustellen geometrian peruskäsitteisiin ja yhdenmuotoisuuteen liittyviä ominaisuuksia.\nOppilas käyttää verrantoa ja ymmärtää mittakaavan käsitteen.\nSuorakulmaisen kolmion ja ympyrän ominaisuuksien hahmottaminen: Oppilas ratkaisee annetusta suorakulmaisesta kolmiosta kulmien suuruudet ja sivujen pituudet. \nOppilas ymmärtää kehäkulman ja keskuskulman käsitteet sekä laskee keskuskulmaa vastaavan kaaren pituuden.\nPinta-alojen ja tilavuuksien laskutaito: Oppilas käyttää pinta-ala- ja tilavuusyksiköiden muunnoksia.\nOppilas laskee yksittäisen tasokuvion pinta-alan ja kappaleen tilavuuden sekä vaipan pinta-alan.\nOppilas laskee keskuskulmaa vastaavan sektorin pinta-alan.\nTilastolliset tunnusluvut ja todennäköisyyslaskenta: Oppilas hallitsee keskeiset tilastolliset tunnusluvut. \nOppilas osaa toteuttaa pienen tutkimuksen, jossa hyödyntää tilastolaskentaa. \nOppilas määrittää klassisia ja tilastollisia todennäköisyyksiä.\nAlgoritminen ajattelu ja ohjelmointitaidot: Oppilas soveltaa algoritmisen ajattelun periaatteita ja ohjelmoi pieniä ohjelmia.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "9",
+            "label": {
+              "local": "Arvosana 9 (kiitettävä)",
+              "en": "Grade 9 (excellent)"
+            },
+            "text": {
+              "local": "Vastuunottaminen opiskelusta: Oppilas ottaa vastuuta ryhmän toiminnasta ja pyrkii kehittämään koko ryhmän osaamista.\nOpittujen asioiden yhteydet: Oppilas yhdistää oppimiaan asioita ja kuvailee, mistä opittujen asioiden yhteys johtuu.\nMatemaattinen ilmaisu: Oppilas ilmaisee perustellen matemaattista ajatteluaan.\nOngelmanratkaisutaidot: Oppilas tutkii, onko olemassa muita ratkaisuvaihtoehtoja.\nTaito arvioida ja kehittää matemaattisia ratkaisuja: Oppilas arvioi ja tarvittaessa kehittää ratkaisuaan.\nMatematiikan soveltaminen: Oppilas antaa esimerkkejä, kuinka matematiikkaa sovelletaan yhteiskunnassa.\nOppilas hyödyntää matematiikan taitojaan eri tilanteissa.\nTiedon analy-sointi ja kriittinen tarkastelu: Oppilas soveltaa tiedonhallinta- ja analysointitaitoja, tulkitsee tietoa sekä arvioi tiedon luotettavuutta.\nTieto- ja viestintäteknologian käyttö: Oppilas soveltaa ja yhdistää tieto- ja viestintäteknologiaa tutkivassa työskentelyssä.\nPäättely- ja laskutaito: Oppilas laskee päässään monivaiheisia laskutoimituksia ja soveltaa päättelykykyään eri tilanteissa.\nPeruslaskutoimitukset rationaaliluvuilla: Oppilas hyödyntää rationaalilukujen peruslaskutoimituksia ongelmanratkaisussa.\nLukukäsite: Oppilas ymmärtää tarkan arvon ja likiarvon eron sekä määrittää lukujen suuruusjärjestyksen.\nProsentin käsite ja prosenttilaskenta: Oppilas tekee suhteellista vertailua ja hyödyntää prosenttilaskentaa eri tilanteissa.\nTuntemattoman käsite ja yhtälönratkaisutaidot: Oppilas käyttää sujuvasti tuntematonta yhtälön muodostamisessa ja hyödyntää yhtälönratkaisun taitoja ongelmanratkaisussa.\nMuuttujan ja funktion käsitteet sekä kuvaajien tulkitseminen ja tuottaminen: Oppilas käyttää yhtälöparia ongelmanratkaisussa ja ymmärtää yhtälönratkaisun geometrisen merkityksen.\nOppilas osaa tulkita kuvaajia monipuolisesti.\nGeometrian käsitteiden ja niiden välisten yhteyksien hahmottaminen: Oppilas käyttää yhdenmuotoisuutta ja verrantoa ongelmanratkaisussa.\nSuorakulmaisen kolmion ja ympyrän ominaisuuksien hahmottaminen: Oppilas käyttää Pythagoraan lausetta ja sen käänteislausetta sekä trigonometriaa ongelmanratkaisussa.\nPinta-alojen ja tilavuuksien laskutaito: Oppilas laskee moniosaisen tasokuvion pinta-alan, kappaleen tilavuuden ja vaipan pinta-alan sekä hyödyntää osaamistaan ongelmanratkaisussa.\nTilastolliset tunnusluvut ja todennäköisyyslaskenta: Oppilas havainnoi ja vertailee tutkimuksia tilastollisia tunnuslukuja hyödyntäen.\nOppilas käyttää todennäköisyyslaskentaa ongelmanratkaisussa.\nAlgoritminen ajattelu ja ohjelmointitaidot: Oppilas hyödyntää ohjelmointia ongelmien ratkaisussa.\nOppilas muokkaa ja kehittää ohjelmaa.",
+              "en": ""
+            }
           }
         ]
       }

@@ -4,8 +4,12 @@
     "api": "https://eperusteet.opintopolku.fi/eperusteet-service/api/external/peruste/419550/perusopetus/oppiaineet/478973",
     "curriculum": "POPS 2014",
     "license": "Open Government Data (Finland)",
-    "lastSynced": "2026-03-03T08:58:59Z",
-    "aiEnriched": ["description.en", "interdisciplinaryThemes", "basicSkills"]
+    "lastSynced": "2026-03-03T16:02:20Z",
+    "aiEnriched": [
+      "description.en",
+      "interdisciplinaryThemes",
+      "basicSkills"
+    ]
   },
   "subject": {
     "code": "TE",
@@ -158,7 +162,11 @@
               "local": "T1 ohjata oppilasta ymmärtämään terveyden laaja-alaisuutta, terveyden edistämistä sekä elämänkulkua, kasvua ja kehitystä voimavaralähtöisesti",
               "en": "T1 guide the pupil to understand the multidimensional nature of health, health promotion, and the life course, growth, and development from a resource-based perspective"
             },
-            "coreElements": ["S3", "S2", "S1"],
+            "coreElements": [
+              "S3",
+              "S2",
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -167,7 +175,9 @@
               "local": "T2 ohjata oppilasta kehittämään valmiuksiaan tunne- ja vuorovaikutustaidoissa ja kykyä toimia erilaisissa ristiriita- ja kriisitilanteissa",
               "en": "T2 guide the pupil to develop their competencies in emotional and social interaction skills and the ability to act in various conflict and crisis situations"
             },
-            "coreElements": ["S1"],
+            "coreElements": [
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -176,7 +186,9 @@
               "local": "T3 ohjata oppilasta kehittämään itsetuntemustaan, omien arvojen ja asenteiden sekä kehon ja mielen viestien tunnistamista ja säätelemään käyttäytymistään, oppimistaan ja opiskeluaan tukevia tekijöitä",
               "en": "T3 guide the pupil to develop their self-knowledge, the ability to recognise their own values and attitudes as well as bodily and mental signals, and to regulate factors that support their behaviour, learning, and studying"
             },
-            "coreElements": ["S1"],
+            "coreElements": [
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -185,7 +197,10 @@
               "local": "T4 ohjata oppilasta pohtimaan yksilöllisyyteen, yhteisöllisyyteen ja yhdenvertaisuuteen liittyviä kysymyksiä terveyden näkökulmasta sekä tukea oppilaan valmiuksia luoda vastuullisia ratkaisuja ihmisten välisissä vuorovaikutustilanteissa",
               "en": "T4 guide the pupil to reflect on questions related to individuality, community, and equality from a health perspective, and to support the pupil's ability to create responsible solutions in interpersonal interaction situations"
             },
-            "coreElements": ["S3", "S1"],
+            "coreElements": [
+              "S3",
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -194,7 +209,11 @@
               "local": "T5 ohjata oppilasta syventämään ymmärrystään fyysisestä, psyykkisestä ja sosiaalisesta terveydestä ja niitä vahvistavista ja vaarantavista tekijöistä ja mekanismeista sekä tukea oppilaan valmiuksia käyttää näihin liittyviä käsitteitä asianmukaisesti",
               "en": "T5 guide the pupil to deepen their understanding of physical, psychological, and social health and the factors and mechanisms that strengthen and jeopardise them, and to support the pupil's ability to use related concepts appropriately"
             },
-            "coreElements": ["S3", "S2", "S1"],
+            "coreElements": [
+              "S3",
+              "S2",
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -203,7 +222,10 @@
               "local": "T 6 tukea oppilaan kehittymistä terveyteen ja sairauteen liittyvän tiedon hankkijana ja käyttäjänä sekä edistää valmiuksia toimia tarkoituksenmukaisesti terveyteen, turvallisuuteen ja sairauksiin liittyvissä tilanteissa",
               "en": "T12 support the pupil's ability to critically evaluate health- and illness-related communication and to analyse the individual's rights, responsibilities, and means of influence in matters concerning health and safety in their own learning environment and local communities"
             },
-            "coreElements": ["S3", "S2"],
+            "coreElements": [
+              "S3",
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -212,7 +234,10 @@
               "local": "T7 ohjata oppilasta tunnistamaan ja arvioimaan omia terveyteen ja turvallisuuteen liittyviä tottumuksiaan, valintojaan ja niiden perusteluja sekä rohkaista oppilasta pohtimaan oman terveyden kannalta merkityksellisiä voimavaroja",
               "en": "T7 guide the pupil to recognise and evaluate their own health- and safety-related habits, choices, and the reasoning behind them, and to encourage the pupil to reflect on resources that are significant for their own health"
             },
-            "coreElements": ["S2", "S1"],
+            "coreElements": [
+              "S2",
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -221,7 +246,11 @@
               "local": "T 8 ohjata oppilasta tunnistamaan ja tarkastelemaan kriittisesti terveyteen ja sairauteen liittyviä ilmiöitä, niihin liittyviä arvoja ja normeja sekä arvioimaan tiedon luotettavuutta ja merkitystä",
               "en": "T12 support the pupil's ability to critically evaluate health- and illness-related communication and to analyse the individual's rights, responsibilities, and means of influence in matters concerning health and safety in their own learning environment and local communities"
             },
-            "coreElements": ["S3", "S2", "S1"],
+            "coreElements": [
+              "S3",
+              "S2",
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -230,7 +259,9 @@
               "local": "T 9 ohjata oppilasta ymmärtämään ympäristön, yhteisöjen, kulttuurin, ja tieto- ja viestintäteknologian merkitystä terveydelle ja hyvinvoinnille",
               "en": "T12 support the pupil's ability to critically evaluate health- and illness-related communication and to analyse the individual's rights, responsibilities, and means of influence in matters concerning health and safety in their own learning environment and local communities"
             },
-            "coreElements": ["S3"],
+            "coreElements": [
+              "S3"
+            ],
             "verbs": []
           },
           {
@@ -239,7 +270,10 @@
               "local": "T 10 ohjata oppilasta luomaan perustaa opiskelu-, toiminta- ja työkyvylle ja sen ylläpitämiselle sekä kuvaamaan terveyspalvelujen asianmukaista käyttöä",
               "en": "T12 support the pupil's ability to critically evaluate health- and illness-related communication and to analyse the individual's rights, responsibilities, and means of influence in matters concerning health and safety in their own learning environment and local communities"
             },
-            "coreElements": ["S2", "S1"],
+            "coreElements": [
+              "S2",
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -248,7 +282,11 @@
               "local": "T 11 ohjata oppilasta ymmärtämään ja arvioimaan perheen ja omaan elämänpiiriin kuuluvien ihmisten ja yhteisöjen edustamia terveyskäsityksiä, tunnistamaan niiden merkitystä itselle sekä muodostamaan kuvaa itselle sopivista oppimisen keinoista.",
               "en": "T12 support the pupil's ability to critically evaluate health- and illness-related communication and to analyse the individual's rights, responsibilities, and means of influence in matters concerning health and safety in their own learning environment and local communities"
             },
-            "coreElements": ["S3", "S2", "S1"],
+            "coreElements": [
+              "S3",
+              "S2",
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -257,8 +295,56 @@
               "local": "T 12 tukea oppilaan valmiuksia arvioida kriittisesti terveyteen ja sairauteen liittyvää viestintää sekä eritellä yksilön oikeuksia, vastuita ja vaikuttamiskeinoja terveyttä ja turvallisuutta koskevissa asioissa omassa oppimisympäristössä ja lähiyhteisöissä.",
               "en": "T12 support the pupil's ability to critically evaluate health- and illness-related communication and to analyse the individual's rights, responsibilities, and means of influence in matters concerning health and safety in their own learning environment and local communities"
             },
-            "coreElements": ["S3"],
+            "coreElements": [
+              "S3"
+            ],
             "verbs": []
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "5",
+            "label": {
+              "local": "Arvosana 5 (välttävä)",
+              "en": "Grade 5 (passable)"
+            },
+            "text": {
+              "local": "Terveyteen liittyvät käsitykset: Oppilas osaa nimetä yksittäisen terveyden osa-alueen.\n \nOppilas osaa nimetä yksittäisen elämänkulun vaiheen.\nVuorovaikutus- ja tunnetaitojen sekä käyttäytymisen säätelyn analysointi: Oppilas osaa nimetä perustunteita ja tietää, että ne vaikuttavat käyttäytymiseen.\n\nOppilas osaa nimetä ristiriitatilanteita sekä stressin ja kriisien piirteitä.\nTerveydellisen kehityksen analysointi ja toiminta vuorovaikutustilanteissa: Oppilas osaa nimetä yksilöllisyyteen vaikuttavia tekijöitä sekä antaa yksittäisen esimerkin sosiaalisten suhteiden yhteydestä mielen hyvinvointiin ja terveyteen.\n \nOppilas osaa nimetä yhdessä toimimiseen ja vuorovaikutukseen liittyviä eettisiä kysymyksiä ja esittää niihin ohjatusti ratkaisuja.\nTerveyteen vaikuttavien tekijöiden tunnistaminen ja terveyteen liittyvien käsitteiden käyttäminen: Oppilas osaa nimetä terveyttä tukevia ja vaarantavia tekijöitä.\n\nOppilas osaa käyttää ohjatusti joitakin terveyteen ja sairauteen liittyviä käsitteitä.\nTerveyteen, turvallisuuteen ja sairauteen liittyvien tietojen ja taitojen hallinta: Oppilas osaa hakea terveyteen liittyvää tietoa ohjatusti.\n \nOppilas osaa nimetä jonkin toimintatavan liittyen itsehoitoon, avun hakemiseen sekä terveyttä ja turvallisuutta vaarantaviin tilanteisiin.\nTerveyteen ja sairauteen liittyvien ilmiöiden tarkastelu ja terveyteen liittyvän tiedon luotettavuuden arvioiminen: Oppilas osaa nimetä terveystottumusten omaksumiseen vaikuttavia tekijöitä sekä elämäntapoihin liittyviä eettisiä kysymyksiä ja antaa esimerkin elämäntapoihin liittyvien valintojen seurauksista.\n \nOppilas osaa nimetä jonkin terveyteen liittyvän tiedon luotettavuutta kuvaavan tekijän.\nYmpäristön terveysvaikutusten hahmottaminen: Oppilas osaa nimetä elinympäristön aiheuttamia vaikutuksia terveyteen sekä yhteisöjen, kulttuurin tai tvt:n yhteyksiä terveyteen.\nTyökyvyn edistämisen keinojen hahmottaminen: Oppilas osaa nimetä tekijöitä, jotka vaikuttavat opiskelu-, toiminta- ja työkykyyn.\n \nOppilas osaa nimetä oman koulun ja kunnan terveyspalveluja.\nTerveyskäsitysten arviointi sekä oppimista edistävien tekijöiden hahmottaminen: Oppilas osaa kuvata esimerkin avulla, miten perhe, lähiyhteisöt tai muut sosiaaliset yhteisöt vaikuttavat käsityksiin terveydestä.\n \nOppilas osaa nimetä omaa oppimistaan tukevan tekijän.\nTerveyteen liittyvän viestinnän arviointi sekä terveyteen ja turvallisuuteen vaikuttavien keinojen tunteminen: Oppilas osaa nimetä yksittäisen terveysviestinnän vaikutuskeinon tai luotettavuuteen vaikuttavan tekijän.\n \nOppilas osaa nimetä jonkin elämäntapojen seurauksen yhteiskunnalle tai ympäristön terveydelle tai turvallisuudelle.\n \nOppilas osaa nimetä jonkin keinon, miten terveyteen ja turvallisuuteen voidaan vaikuttaa lähiyhteisössä.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "7",
+            "label": {
+              "local": "Arvosana 7 (tyydyttävä)",
+              "en": "Grade 7 (satisfactory)"
+            },
+            "text": {
+              "local": "Terveyteen liittyvät käsitykset: Oppilas osaa kuvata esimerkkien avulla terveyden osa-alueita ja niiden välistä yhteyttä sekä antaa esimerkin, mitä terveyden edistämisellä tarkoitetaan.\n \nOppilas osaa kuvata jotakin elämänkulun vaihetta sekä nimetä nuoruuden kasvun ja kehityksen piirteitä.\nVuorovaikutus- ja tunnetaitojen sekä käyttäytymisen säätelyn analysointi: Oppilas osaa nimetä perustunteet sekä antaa joitakin esimerkkejä tunteiden ja käyttäytymisen välisestä vuorovaikutuksesta.\n\nOppilas osaa nimetä keinoja ristiriitatilanteiden selvittämiseen ja stressin ja kriisien käsittelyyn.\nTerveydellisen kehityksen analysointi ja toiminta vuorovaikutustilanteissa: Oppilas osaa kuvata yksilöllisyyteen vaikuttavia tekijöitä sekä antaa esimerkkejä sosiaalisten suhteiden merkityksestä mielen hyvinvoinnille ja terveydelle.\n \nOppilas osaa kuvata yhdessä toimimiseen ja vuorovaikutukseen liittyviä eettisiä kysymyksiä ja esittää niihin ratkaisuja.\nTerveyteen vaikuttavien tekijöiden tunnistaminen ja terveyteen liittyvien käsitteiden käyttäminen: Oppilas osaa kuvata terveyttä tukevia ja vaarantavia tekijöitä sekä näiden välisiä yhteyksiä pääpiirteissään.\n\nOppilas osaa käyttää joitakin terveyteen ja sairauteen liittyviä käsitteitä asianmukaisesti.\nTerveyteen, turvallisuuteen ja sairauteen liittyvien tietojen ja taitojen hallinta: Oppilas osaa hakea terveyteen liittyvää tietoa muutamista lähteistä sekä käyttää tietoa paikoitellen asianmukaisesti.\n \nOppilas osaa nimetä toimintatapoja itsehoitoon, avun hakemiseen ja terveyttä ja turvallisuutta vaarantaviin tilanteisiin liittyen.\nTerveyteen ja sairauteen liittyvien ilmiöiden tarkastelu ja terveyteen liittyvän tiedon luotettavuuden arvioiminen: Oppilas osaa kuvata terveystottumusten omaksumiseen vaikuttavia tekijöitä sekä elämäntapoihin liittyviä eettisiä kysymyksiä ja antaa esimerkkejä elämäntapoihin liittyvien valintojen seurauksista.\n \nOppilas osaa arvioida ohjatusti terveyteen liittyvän tiedon luotettavuutta muutamien tiedon luotettavuutta kuvaavien tekijöiden pohjalta.\nYmpäristön terveysvaikutusten hahmottaminen: Oppilas osaa kuvata elinympäristön aiheuttamia vaikutuksia terveyteen sekä antaa esimerkkejä yhteisöjen, kulttuurin tai tvt:n yhteyksistä terveyteen.\nTyökyvyn edistämisen keinojen hahmottaminen: Oppilas osaa kuvata tekijöitä, jotka vaikuttavat opiskelu-, toiminta- ja työkykyyn.\n \nOppilas osaa kuvata oman koulun ja kunnan terveyspalveluja.\nTerveyskäsitysten arviointi sekä oppimista edistävien tekijöiden hahmottaminen: Oppilas osaa kuvata esimerkkien avulla, miten perhe, lähiyhteisöt tai muut sosiaaliset yhteisöt vaikuttavat käsityksiin terveydestä, sekä tunnistaa niiden vaikutuksen omiin terveyskäsityksiin.\n \nOppilas osaa nimetä omaa oppimistaan tukevia tekijöitä.\nTerveyteen liittyvän viestinnän arviointi sekä terveyteen ja turvallisuuteen vaikuttavien keinojen tunteminen: Oppilas osaa analysoida ohjatusti terveyteen liittyvän viestinnän vaikutuskeinoja ja luotettavuutta.\n \nOppilas osaa kuvata elämäntapojen seurauksia toisille ihmisille, yhteiskunnalle tai ympäristön terveydelle ja turvallisuudelle.\n \nOppilas osaa kuvata keinoja, miten terveyteen ja turvallisuuteen voidaan vaikuttaa lähiyhteisössä.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "8",
+            "label": {
+              "local": "Arvosana 8 (hyvä)",
+              "en": "Grade 8 (good)"
+            },
+            "text": {
+              "local": "Terveyteen liittyvät käsitykset: Oppilas osaa kuvata terveyden osa-alueet ja näiden välistä yhteyttä esimerkkien avulla sekä kuvata esimerkkien avulla, mitä terveyden edistämisellä tarkoitetaan.\n \nOppilas osaa kuvata elämänkulun vaiheita, erityisesti nuoruuden kehitystä, ja kuvata esimerkkien avulla terveyden, kasvun ja kehityksen merkitystä elämän voimavarana.\nVuorovaikutus- ja tunnetaitojen sekä käyttäytymisen säätelyn analysointi: Oppilas osaa kuvata perustunteiden lisäksi muita tunteita sekä antaa esimerkkejä tunteiden ja käyttäytymisen välisestä vuorovaikutuksesta ja käyttäytymisen säätelystä.\n\nOppilas osaa kuvata keinoja ja ratkaisuja ristiriitatilanteiden selvittämiseen sekä stressin ja kriisien käsittelyyn.\nTerveydellisen kehityksen analysointi ja toiminta vuorovaikutustilanteissa: Oppilas osaa analysoida esimerkkien avulla yksilölliseen kehitykseen liittyviä kysymyksiä terveyden näkökulmasta ja analysoida sosiaalisten suhteiden merkitystä mielen hyvinvoinnille ja terveydelle.\n \nOppilas osaa analysoida yhdessä toimimiseen ja vuorovaikutukseen liittyviä eettisiä kysymyksiä ja esittää niihin vastuullisia ratkaisuja.\nTerveyteen vaikuttavien tekijöiden tunnistaminen ja terveyteen liittyvien käsitteiden käyttäminen: Oppilas osaa analysoida terveyttä tukevia ja vaarantavia tekijöitä sekä kuvata näiden välisiä yhteyksiä.\n\nOppilas osaa käyttää terveyteen ja sairauteen liittyviä käsitteitä pääosin asianmukaisesti.\nTerveyteen, turvallisuuteen ja sairauteen liittyvien tietojen ja taitojen hallinta: Oppilas osaa hakea terveyteen liittyvää tietoa erilaisista lähteistä ja käyttää sitä pääosin asianmukaisesti.\n \nOppilas osaa kuvata asianmukaisia toimintatapoja itsehoidossa, avun hakemisessa ja terveyttä ja turvallisuutta vaarantavissa tilanteissa.\nTerveyteen ja sairauteen liittyvien ilmiöiden tarkastelu ja terveyteen liittyvän tiedon luotettavuuden arvioiminen: Oppilas osaa analysoida terveystottumusten omaksumiseen vaikuttavia tekijöitä ja selittää terveystottumuksiin liittyvien ilmiöiden muodostumista.\n\nOppilas osaa kuvata elämäntapoihin liittyviä eettisiä kysymyksiä ja analysoida elämäntapoihin liittyvien valintojen seurauksia.\n \nOppilas osaa arvioida terveyteen liittyvän tiedon luotettavuutta usean tiedon luotettavuutta kuvaavan tekijän pohjalta\nYmpäristön terveysvaikutusten hahmottaminen: Oppilas osaa analysoida elinympäristön aiheuttamia keskeisiä suoria ja epäsuoria vaikutuksia terveyteen sekä selittää yhteisöjen, kulttuurin ja tvt:n yhteyksiä terveyteen.\nTyökyvyn edistämisen keinojen hahmottaminen: Oppilas osaa soveltaa tietoa tekijöistä, jotka vaikuttavat opiskelu-, toiminta- ja työkykyyn, esimerkiksi laatimalla niitä tukevan suunnitelman.\n \nOppilas osaa kuvata yhteiskunnan erilaisia terveyspalveluja ja antaa esimerkkejä siitä, miten niitä voi hyödyntää eri tilanteissa.\nTerveyskäsitysten arviointi sekä oppimista edistävien tekijöiden hahmottaminen: Oppilas osaa analysoida asianmukaisten esimerkkien avulla, miten perhe, lähiyhteisöt ja muut sosiaaliset yhteisöt vaikuttavat käsityksiin terveydestä, sekä kuvata, mikä on niiden merkitys omille terveyskäsityksille.\n \nOppilas osaa kuvata omaa oppimistaan tukevia tekijöitä.\nTerveyteen liittyvän viestinnän arviointi sekä terveyteen ja turvallisuuteen vaikuttavien keinojen tunteminen: Oppilas osaa analysoida terveyteen liittyvän viestinnän vaikutuskeinoja ja luotettavuutta.\n \nOppilas osaa analysoida elämäntapojen seurauksia toisille ihmisille, yhteiskunnalle ja ympäristön terveydelle ja turvallisuudelle.\n \nOppilas osaa analysoida keinoja, joilla terveyteen ja turvallisuuteen voidaan vaikuttaa lähiyhteisöissä.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "9",
+            "label": {
+              "local": "Arvosana 9 (kiitettävä)",
+              "en": "Grade 9 (excellent)"
+            },
+            "text": {
+              "local": "Terveyteen liittyvät käsitykset: Oppilas osaa kuvata terveyden osa-alueet ja selittää niiden välisiä syy-seuraussuhteita sekä eritellä, mitä terveyden edistämisellä tarkoitetaan.\n \nOppilas osaa eritellä elämänkulun eri vaiheet sekä arvioida terveyden merkitystä elämän voimavarana elämänkulun eri vaiheissa.\nVuorovaikutus- ja tunnetaitojen sekä käyttäytymisen säätelyn analysointi: Oppilas osaa luokitella erilaisia tunteita, analysoida niiden taustatekijöitä sekä esitellä keinoja käyttäytymisen ja vuorovaikutuksen säätelyyn.\n \nOppilas osaa luokitella ristiriitatilanteiden syitä ja esitellä perusteltuja keinoja ja ratkaisuja ristiriitatilanteiden selvittämiseen sekä stressin ja kriisien käsittelyyn.\nTerveydellisen kehityksen analysointi ja toiminta vuorovaikutustilanteissa: Oppilas osaa analysoida perustellen yksilölliseen kehitykseen liittyviä kysymyksiä terveyden näkökulmasta ja arvioida sosiaalisten suhteiden merkitystä mielen hyvinvoinnille ja terveydelle.\n \nOppilas osaa arvioida yhdessä toimimiseen ja vuorovaikutukseen liittyviä eettisiä kysymyksiä sekä arvioida ja perustella niihin liittyviä ratkaisuja.\nTerveyteen vaikuttavien tekijöiden tunnistaminen ja terveyteen liittyvien käsitteiden käyttäminen: Oppilas osaa analysoida ja arvioida terveyttä tukevia ja vaarantavia tekijöitä sekä selittää näiden välisiä syy-seuraussuhteita. \n\nOppilas osaa käyttää terveyteen ja sairauteen liittyviä käsitteitä asianmukaisesti.\nTerveyteen, turvallisuuteen ja sairauteen liittyvien tietojen ja taitojen hallinta: Oppilas osaa hakea terveyteen liittyvää tietoa monipuolisesti eri tietolähteistä, muodostaa hakusanoja ja rajata tiedonhakua sekä käyttää tietoa asianmukaisesti.\n \nOppilas osaa arvioida erilaisia toimintatapoja itsehoidossa, avun hakemisessa ja terveyttä ja turvallisuutta vaarantavissa tilanteissa.\nTerveyteen ja sairauteen liittyvien ilmiöiden tarkastelu ja terveyteen liittyvän tiedon luotettavuuden arvioiminen: Oppilas osaa arvioida terveystottumusten omaksumiseen vaikuttavia tekijöitä ja selittää perustellen terveystottumuksiin liittyvien ilmiöiden muodostumista. \n\nOppilas osaa analysoida elämäntapoihin liittyviä eettisiä kysymyksiä sekä arvioida perustellen elämäntapoihin liittyvien valintojen seurauksia.\n \nOppilas osaa arvioida terveyteen liittyvän tiedon luotettavuutta ja käytettävyyttä eri näkökulmista.\nYmpäristön terveysvaikutusten hahmottaminen: Oppilas osaa arvioida elinympäristön aiheuttamia keskeisiä suoria ja epäsuoria vaikutuksia terveyteen sekä arvioida yhteisöjen, kulttuurin ja tvt:n yhteyksiä terveyteen.\nTyökyvyn edistämisen keinojen hahmottaminen: Oppilas osaa soveltaa ja arvioida tietoa tekijöistä, jotka vaikuttavat opiskelu-, toiminta- ja työkykyyn, esimerkiksi laatimalla niitä tukevan perustellun suunnitelman.\n \nOppilas osaa kuvata ja arvioida yhteiskunnan erilaisia terveyspalveluja ja miten niitä voi hyödyntää asianmukaisesti eri tilanteissa.\nTerveyskäsitysten arviointi sekä oppimista edistävien tekijöiden hahmottaminen: Oppilas osaa arvioida, miten perhe, lähiyhteisöt ja muut sosiaaliset yhteisöt vaikuttavat käsityksiin terveydestä, sekä arvioida niiden merkitystä omille terveyskäsityksille.\n \nOppilas osaa analysoida omaa oppimistaan tukevia tekijöitä.\nTerveyteen liittyvän viestinnän arviointi sekä terveyteen ja turvallisuuteen vaikuttavien keinojen tunteminen: Oppilas osaa arvioida terveyteen liittyvän viestinnän vaikutuskeinoja ja luotettavuutta.\n \nOppilas osaa arvioida ja perustella elämäntapojen seurauksia toisille ihmisille, yhteiskunnalle ja ympäristön terveydelle ja turvallisuudelle.\n \nOppilas osaa arvioida ja perustella keinoja, joilla lähiyhteisöjen ja ympäristön terveyteen ja turvallisuuteen voidaan vaikuttaa.",
+              "en": ""
+            }
           }
         ]
       }

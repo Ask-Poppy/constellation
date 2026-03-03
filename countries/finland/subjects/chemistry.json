@@ -4,8 +4,12 @@
     "api": "https://eperusteet.opintopolku.fi/eperusteet-service/api/external/peruste/419550/perusopetus/oppiaineet/466347",
     "curriculum": "POPS 2014",
     "license": "Open Government Data (Finland)",
-    "lastSynced": "2026-03-03T08:58:54Z",
-    "aiEnriched": ["description.en", "interdisciplinaryThemes", "basicSkills"]
+    "lastSynced": "2026-03-03T16:02:16Z",
+    "aiEnriched": [
+      "description.en",
+      "interdisciplinaryThemes",
+      "basicSkills"
+    ]
   },
   "subject": {
     "code": "KE",
@@ -191,7 +195,14 @@
               "local": "T1 kannustaa ja innostaa oppilasta kemian opiskeluun",
               "en": "T1 encourage and inspire the pupil to study chemistry"
             },
-            "coreElements": ["S5", "S6", "S4", "S3", "S2", "S1"],
+            "coreElements": [
+              "S5",
+              "S6",
+              "S4",
+              "S3",
+              "S2",
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -200,7 +211,14 @@
               "local": "T2 ohjata ja kannustaa oppilasta tunnistamaan omaa kemian osaamistaan, asettamaan tavoitteita omalle työskentelylleen sekä työskentelemään pitkäjänteisesti",
               "en": "T2 guide and encourage the pupil to recognise their own chemistry competence, to set goals for their own work, and to work with perseverance"
             },
-            "coreElements": ["S5", "S6", "S4", "S3", "S2", "S1"],
+            "coreElements": [
+              "S5",
+              "S6",
+              "S4",
+              "S3",
+              "S2",
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -209,7 +227,14 @@
               "local": "T3 ohjata oppilasta ymmärtämään kemian osaamisen merkitystä omassa elämässä, elinympäristössä ja yhteiskunnassa",
               "en": "T3 guide the pupil to understand the significance of chemistry competence in their own life, living environment, and society"
             },
-            "coreElements": ["S5", "S6", "S4", "S3", "S2", "S1"],
+            "coreElements": [
+              "S5",
+              "S6",
+              "S4",
+              "S3",
+              "S2",
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -218,7 +243,14 @@
               "local": "T4 ohjata oppilasta käyttämään kemian osaamistaan kestävän tulevaisuuden rakentamisessa sekä arvioimaan omia valintojaan luonnonvarojen kestävän käytön ja tuotteen elinkaaren kannalta",
               "en": "T4 guide the pupil to use their chemistry competence in building a sustainable future and to evaluate their own choices in terms of sustainable use of natural resources and product life cycle"
             },
-            "coreElements": ["S5", "S6", "S4", "S3", "S2", "S1"],
+            "coreElements": [
+              "S5",
+              "S6",
+              "S4",
+              "S3",
+              "S2",
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -227,7 +259,14 @@
               "local": "T5 kannustaa oppilasta muodostamaan kysymyksiä tarkasteltavista ilmiöistä sekä kehittämään kysymyksiä edelleen tutkimusten ja muun toiminnan lähtökohdiksi",
               "en": "T5 encourage the pupil to formulate questions about the phenomena under consideration and to further develop questions as starting points for investigations and other activities"
             },
-            "coreElements": ["S5", "S6", "S4", "S3", "S2", "S1"],
+            "coreElements": [
+              "S5",
+              "S6",
+              "S4",
+              "S3",
+              "S2",
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -236,7 +275,14 @@
               "local": "T6 ohjata oppilasta toteuttamaan kokeellisia tutkimuksia yhteistyössä muiden kanssa sekä työskentelemään turvallisesti ja johdonmukaisesti",
               "en": "T6 guide the pupil to carry out experimental investigations in cooperation with others and to work safely and systematically"
             },
-            "coreElements": ["S5", "S6", "S4", "S3", "S2", "S1"],
+            "coreElements": [
+              "S5",
+              "S6",
+              "S4",
+              "S3",
+              "S2",
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -245,7 +291,14 @@
               "local": "T7 ohjata oppilasta käsittelemään, tulkitsemaan ja esittämään omien tutkimustensa tuloksia sekä arvioimaan niitä ja koko tutkimusprosessia",
               "en": "T7 guide the pupil to process, interpret, and present the results of their own investigations and to evaluate them and the entire research process"
             },
-            "coreElements": ["S5", "S6", "S4", "S3", "S2", "S1"],
+            "coreElements": [
+              "S5",
+              "S6",
+              "S4",
+              "S3",
+              "S2",
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -254,7 +307,14 @@
               "local": "T8 ohjata oppilasta hahmottamaan kemian soveltamista teknologiassa sekä osallistumaan kemiaa soveltavien ratkaisujen ideointiin, suunnitteluun, kehittämiseen ja soveltamiseen yhteistyössä muiden kanssa",
               "en": "T8 guide the pupil to understand the application of chemistry in technology and to participate in the ideation, planning, development, and application of solutions that apply chemistry, in cooperation with others"
             },
-            "coreElements": ["S5", "S6", "S4", "S3", "S2", "S1"],
+            "coreElements": [
+              "S5",
+              "S6",
+              "S4",
+              "S3",
+              "S2",
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -263,7 +323,14 @@
               "local": "T9 ohjata oppilasta käyttämään tieto- ja viestintäteknologiaa tiedon ja tutkimustulosten hankkimiseen, käsittelemiseen ja esittämiseen sekä tukea oppilaan oppimista havainnollistavien simulaatioiden avulla",
               "en": "T9 guide the pupil to use information and communication technology for acquiring, processing, and presenting information and research results, and to support the pupil's learning through illustrative simulations"
             },
-            "coreElements": ["S5", "S6", "S4", "S3", "S2", "S1"],
+            "coreElements": [
+              "S5",
+              "S6",
+              "S4",
+              "S3",
+              "S2",
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -272,7 +339,14 @@
               "local": "T10 ohjata oppilasta käyttämään kemian käsitteitä täsmällisesti sekä jäsentämään omia käsiterakenteitaan kohti luonnontieteellisten teorioiden mukaisia käsityksiä",
               "en": "T10 guide the pupil to use chemistry concepts precisely and to structure their own conceptual frameworks towards conceptions consistent with scientific theories"
             },
-            "coreElements": ["S5", "S6", "S4", "S3", "S2", "S1"],
+            "coreElements": [
+              "S5",
+              "S6",
+              "S4",
+              "S3",
+              "S2",
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -281,7 +355,14 @@
               "local": "T11 ohjata oppilasta käyttämään erilaisia malleja kuvaamaan ja selittämään aineen rakennetta ja kemiallisia ilmiöitä",
               "en": "T11 guide the pupil to use various models to describe and explain the structure of matter and chemical phenomena"
             },
-            "coreElements": ["S5", "S6", "S4", "S3", "S2", "S1"],
+            "coreElements": [
+              "S5",
+              "S6",
+              "S4",
+              "S3",
+              "S2",
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -290,7 +371,14 @@
               "local": "T12 ohjata oppilasta käyttämään ja arvioimaan kriittisesti eri tietolähteitä sekä ilmaisemaan ja perustelemaan erilaisia näkemyksiä kemialle ominaisella tavalla",
               "en": "T12 guide the pupil to use and critically evaluate different sources of information and to express and justify various viewpoints in a manner characteristic of chemistry"
             },
-            "coreElements": ["S5", "S6", "S4", "S3", "S2", "S1"],
+            "coreElements": [
+              "S5",
+              "S6",
+              "S4",
+              "S3",
+              "S2",
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -299,7 +387,10 @@
               "local": "T13 ohjata oppilasta hahmottamaan luonnontieteellisen tiedon luonnetta ja kehittymistä sekä tieteellisiä tapoja tuottaa tietoa",
               "en": "T13 guide the pupil to understand the nature and development of scientific knowledge and scientific ways of producing knowledge"
             },
-            "coreElements": ["S4", "S1"],
+            "coreElements": [
+              "S4",
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -308,7 +399,10 @@
               "local": "T14 ohjata oppilasta ymmärtämään perusperiaatteita aineen ominaisuuksista, rakenteesta ja aineiden muutoksista",
               "en": "T14 guide the pupil to understand the basic principles of the properties and structure of matter and changes of substances"
             },
-            "coreElements": ["S5", "S6"],
+            "coreElements": [
+              "S5",
+              "S6"
+            ],
             "verbs": []
           },
           {
@@ -317,8 +411,61 @@
               "local": "T15 ohjata oppilasta soveltamaan kemian tietojaan ja taitojaan monialaisissa oppimiskokonaisuuksissa sekä tarjota mahdollisuuksia tutustua kemian soveltamiseen erilaisissa tilanteissa kuten luonnossa, elinkeinoelämässä, järjestöissä tai tiedeyhteisöissä",
               "en": "T15 guide the pupil to apply their chemistry knowledge and skills in multidisciplinary learning modules and to offer opportunities to explore the application of chemistry in various contexts such as nature, business, organisations, or the scientific community"
             },
-            "coreElements": ["S5", "S6", "S4", "S3", "S2", "S1"],
+            "coreElements": [
+              "S5",
+              "S6",
+              "S4",
+              "S3",
+              "S2",
+              "S1"
+            ],
             "verbs": []
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "5",
+            "label": {
+              "local": "Arvosana 5 (välttävä)",
+              "en": "Grade 5 (passable)"
+            },
+            "text": {
+              "local": "Kemian merkityksen ymmärtäminen: Oppilas tunnistaa joidenkin ilmiöiden liittymisen kemiaan sekä kemian osaamisen merkityksen joissakin ammateissa.\nKestävän kehityksen tiedot ja taidot kemian kannalta: Oppilas osaa antaa esimerkkejä omista valinnoistaan, joilla on merkitystä luonnonvarojen kestävän käytön ja tuotteen elinkaaren kannalta.\nKysymysten muodostaminen sekä tutkimusten ja muun toiminnan suunnittelu: Oppilas tunnistaa ilmiöitä, joita voidaan ottaa tutkimusten lähtökohdiksi.\nKokeellisen tutkimuksen toteuttaminen: Oppilas osallistuu kokeelliseen työskentelyyn havainnoimalla tutkimusten toteuttamista työturvallisuusnäkökohdat huomioon ottaen ja pystyy kertomaan havainnoistaan.\nTutkimusten tulosten käsittely, esittäminen ja arviointi: Oppilas kuvailee tehtyä tutkimusta ja sen tuloksia tukeutumalla tutkimuksessa kerättyyn tietoon tai tehtyihin havaintoihin.\nTeknologinen osaaminen ja yhteistyö teknologisessa ongelmanratkaisussa: Oppilas tunnistaa teknologisten sovellusten merkityksen omassa elämässään ja osaa nimetä niistä muutamia esimerkkejä, joissa on sovellettu kemiaa.\nTieto- ja viestintäteknologian käyttö: Oppilas käyttää ohjatusti tieto- ja viestintäteknologiaa tiedon hankkimiseen.\n\nOppilas tutustuu johonkin oppimista tukevaan simulaatioon.\nKäsitteiden käyttö ja jäsentyminen: Oppilas selittää kemian ilmiöitä käyttäen joitakin kemian käsitteitä.\nMallien käyttäminen: Oppilas tunnistaa, että malleja käytetään aineen rakenteen kuvaamisessa.\nArgumentointitaidot ja tietolähteiden käyttäminen: Oppilas hakee tietoa erilaisista tietolähteistä ohjatusti.\n\nOppilas tunnistaa kemialle ominaisella tavalla perusteltuja näkemyksiä.\nLuonnontieteellisen tiedon luonteen ja tiedon tuottamistavan hahmottaminen: Oppilas tunnistaa kokeellisuuden kemian tapana tuottaa luonnontieteellistä tietoa.\nTiedollisten jatko-opintovalmiuksien saavuttaminen aineen ominaisuuksista, rakenteesta ja aineiden muutoksista: Oppilas tunnistaa joitakin aineen ominaisuuksiin, rakenteeseen ja aineiden muutoksiin liittyviä käsitteitä ja ilmiöitä tutuissa tilanteissa.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "7",
+            "label": {
+              "local": "Arvosana 7 (tyydyttävä)",
+              "en": "Grade 7 (satisfactory)"
+            },
+            "text": {
+              "local": "Kemian merkityksen ymmärtäminen: Oppilas osaa antaa esimerkkejä arkisista tilanteista, joissa tarvitaan kemian tietoja ja taitoja.\n\nOppilas osaa nimetä ammatteja, joissa tarvitaan kemian osaamista.\nKestävän kehityksen tiedot ja taidot kemian kannalta: Oppilas osaa antaa esimerkkejä tilanteista, joissa kemiaa tarvitaan kestävän tulevaisuuden rakentamisessa.\n\nOppilas osaa nimetä joitakin hyviä ratkaisuja luonnonvarojen kestävän käytön ja tuotteen elinkaaren kannalta.\nKysymysten muodostaminen sekä tutkimusten ja muun toiminnan suunnittelu: Oppilas muodostaa tarkasteltavaan aihepiiriin liittyviä yksinkertaisia kysymyksiä, joita voidaan kehittää tutkimusten lähtökohdiksi.\nKokeellisen tutkimuksen toteuttaminen: Oppilas osaa tehdä havaintoja ja mittauksia suunnitelmaa noudattaen, tarvittaessa ohjatusti.\n\nOppilas työskentelee turvallisesti muiden kanssa.\nTutkimusten tulosten käsittely, esittäminen ja arviointi: Oppilas käsittelee tutkimuksessa kerättyä tietoa ja esittää tutkimusten tuloksia ohjeiden mukaisesti sekä tekee yksinkertaisia johtopäätöksiä.\n\nOppilas osaa antaa esimerkkejä tulosten oikeellisuuteen ja luotettavuuteen vaikuttavista tekijöistä.\nTeknologinen osaaminen ja yhteistyö teknologisessa ongelmanratkaisussa: Oppilas osaa antaa esimerkkejä kemian soveltamisesta teknologiassa ja kuvailla niiden käyttöä.\n\nOppilas osallistuu kemiaa soveltavan ongelmanratkaisun ideointiin ja suunnitteluun.\nTieto- ja viestintäteknologian käyttö: Oppilas käyttää tieto- ja viestintäteknologiaa tiedon hankkimiseen ja esittämiseen ohjeiden mukaisesti.\n\nOppilas osaa tehdä havaintoja simulaatiosta.\nKäsitteiden käyttö ja jäsentyminen: Oppilas selittää kemian ilmiöitä käyttäen kemian keskeisiä käsitteitä.\nMallien käyttäminen: Oppilas osaa antaa esimerkkejä, joissa aineen rakennetta ja kemiallisia ilmiöitä kuvataan malleilla.\nArgumentointitaidot ja tietolähteiden käyttäminen: Oppilas hakee tietoa erilaisista tietolähteistä.\n\nOppilas osaa ilmaista erilaisia näkökulmia ja harjoittelee perustelemaan niitä kemialle ominaisella tavalla.\nLuonnontieteellisen tiedon luonteen ja tiedon tuottamistavan hahmottaminen: Oppilas osaa antaa esimerkkejä luonnontieteellisen tiedon kehittymisestä ja tieteellisistä tavoista tuottaa tietoa.\nTiedollisten jatko-opintovalmiuksien saavuttaminen aineen ominaisuuksista, rakenteesta ja aineiden muutoksista: Oppilas osaa käyttää joitakin aineen ominaisuuksien, rakenteiden ja aineiden muutosten keskeisiä käsitteitä, ilmiöitä ja malleja tutuissa tilanteissa.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "8",
+            "label": {
+              "local": "Arvosana 8 (hyvä)",
+              "en": "Grade 8 (good)"
+            },
+            "text": {
+              "local": "Kemian merkityksen ymmärtäminen: Oppilas selittää esimerkkien avulla, millaisista kemian tiedoista ja taidoista on hyötyä omassa elinympäristössä.\n\nOppilas osaa antaa esimerkkejä kemian osaamisen merkityksestä eri ammateissa ja jatko-opinnoissa.\nKestävän kehityksen tiedot ja taidot kemian kannalta: Oppilas osaa kuvata esimerkkien avulla, miten kemiaa käytetään kestävän tulevaisuuden rakentamisessa.\n\nOppilas osaa vertailla erilaisia ratkaisuja luonnonvarojen kestävän käytön ja tuotteen elinkaaren kannalta.\nKysymysten muodostaminen sekä tutkimusten ja muun toiminnan suunnittelu: Oppilas muodostaa täsmennettyjä kysymyksiä tarkasteltavien ilmiöiden tutkimiseksi esimerkiksi rajaamalla muuttujia.\nKokeellisen tutkimuksen toteuttaminen: Oppilas työskentelee turvallisesti sekä tekee havaintoja ja mittauksia ohjeiden tai suunnitelman mukaan.\n\nOppilas työskentelee yhteistyössä muiden kanssa.\nTutkimusten tulosten käsittely, esittäminen ja arviointi: Oppilas käsittelee ja esittää tutkimusten tuloksia sekä tekee johtopäätöksiä.\n\nOppilas osaa antaa esimerkkejä tulosten oikeellisuuteen ja luotettavuuteen sekä tutkimusprosessin toimivuuteen vaikuttavista tekijöistä.\nTeknologinen osaaminen ja yhteistyö teknologisessa ongelmanratkaisussa: Oppilas osaa kuvata kemiaa soveltavia teknologisia sovelluksia ja selittää niiden toimintaperiaatteita.\n\nOppilas työskentelee yhteistyössä muiden kanssa yksinkertaisen kemiaa soveltavan ratkaisun ideoinnissa, suunnittelussa, kehittämisessä ja soveltamisessa.\nTieto- ja viestintäteknologian käyttö: Oppilas käyttää tieto- ja viestintäteknologisia välineitä tai sovelluksia tiedon ja tutkimustulosten hankkimiseen, käsittelemiseen ja esittämiseen.\n\nOppilas osaa tehdä havaintoja ja johtopäätöksiä simulaatiosta.\nKäsitteiden käyttö ja jäsentyminen: Oppilas selittää kemian ilmiöitä käyttäen kemian keskeisiä käsitteitä.\n\nOppilas osaa yhdistää toisiinsa ilmiön, siihen liittyvät ominaisuudet ja käsitteet.\nMallien käyttäminen: Oppilas osaa kuvata aineen rakennetta ja kemiallisia ilmiöitä erilaisilla malleilla.\n\nOppilas osaa arvioida mallin suhdetta todellisuuteen.\nArgumentointitaidot ja tietolähteiden käyttäminen: Oppilas hakee tietoa erilaisista tietolähteistä ja valitsee yleisesti luotettavina pidettyjä tietolähteitä. \n \nOppilas osaa ilmaista ja perustella erilaisia näkökulmia kemialle ominaisella tavalla.\nLuonnontieteellisen tiedon luonteen ja tiedon tuottamistavan hahmottaminen: Oppilas osaa kuvailla kemiaan liittyvien esimerkkien avulla luonnontieteellisen tiedon luonnetta ja kehittymistä.\n\nOppilas osaa kuvailla tieteellisiä tapoja tuottaa tietoa.\nTiedollisten jatko-opintovalmiuksien saavuttaminen aineen ominaisuuksista, rakenteesta ja aineiden muutoksista: Oppilas osaa käyttää aineen ominaisuuksien, rakenteiden ja aineiden muutosten keskeisiä käsitteitä, ilmiöitä ja malleja tutuissa tilanteissa.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "9",
+            "label": {
+              "local": "Arvosana 9 (kiitettävä)",
+              "en": "Grade 9 (excellent)"
+            },
+            "text": {
+              "local": "Kemian merkityksen ymmärtäminen: Oppilas selittää esimerkkien avulla, millaisista kemian tiedoista ja taidoista on hyötyä omassa elämässä ja yhteiskunnassa. \n\nOppilas osaa perustella kemian osaamisen merkitystä eri ammateissa sekä jatko-opinnoissa.\nKestävän kehityksen tiedot ja taidot kemian kannalta: Oppilas perustelee esimerkkien avulla, miten kemiaa käytetään kestävän tulevaisuuden rakentamisessa.\n\nOppilas osaa selittää kestävän tulevaisuuden rakentamiseen liittyviä syy-seuraussuhteita ja perustella erilaisia ratkaisuja luonnonvarojen kestävän käytön ja tuotteen elinkaaren kannalta.\nKysymysten muodostaminen sekä tutkimusten ja muun toiminnan suunnittelu: Oppilas muodostaa perusteltuja kysymyksiä tarkasteltavista ilmiöistä tukeutumalla aikaisempaan tietoon ilmiöstä. \n\nOppilas kehittää kysymyksiä tutkimusten tai muun toiminnan lähtökohdiksi.\nKokeellisen tutkimuksen toteuttaminen: Oppilas työskentelee turvallisesti ja johdonmukaisesti, tarvittaessa itsenäisesti, sekä tekee havaintoja ja mittauksia tarkoituksenmukaisesti.\n\nOppilas osaa toteuttaa yhteistyössä erilaisia tutkimuksia ja tukee muita ryhmän jäseniä tarvittaessa.\nTutkimusten tulosten käsittely, esittäminen ja arviointi: Oppilas käsittelee, tulkitsee ja esittää tutkimusten tuloksia kemialle ominaisella tavalla sekä perustelee tehtyjä johtopäätöksiä tukeutumalla tutkimuksissa saatuun aineistoon.\n\nOppilas osaa arvioida sekä tuloksia että tutkimusprosessia.\nTeknologinen osaaminen ja yhteistyö teknologisessa ongelmanratkaisussa: Oppilas osaa kuvata kemiaa soveltavia teknologisia sovelluksia, selittää niiden toimintaperiaatteita sekä perustella niiden merkitystä yhteiskunnalle.\n\nOppilas toimii kemiaa soveltavan ratkaisun ideoinnissa, suunnittelussa, kehittämisessä ja soveltamisessa sekä itsenäisesti että rakentavasti yhteistyössä muiden kanssa.\nTieto- ja viestintäteknologian käyttö: Oppilas käyttää tieto- ja viestintäteknologisia välineitä tai sovelluksia omatoimisesti tiedon ja tutkimustulosten hankkimiseen, käsittelemiseen ja esittämiseen.\n\nOppilas osaa tehdä havaintoja ja johtopäätöksiä simulaatiosta. \n\nOppilas osaa tehdä yleistyksiä simulaation avulla.\nKäsitteiden käyttö ja jäsentyminen: Oppilas selittää kemian ilmiöitä käyttäen kemian keskeisiä käsitteitä täsmällisesti.\n\nOppilas osaa yhdistää ilmiöihin liittyvät ominaisuudet ja käsitteet käsiterakenteeksi.\nMallien käyttäminen: Oppilas osaa kuvata ja selittää aineen rakennetta ja kemiallisia ilmiöitä käyttämällä erilaisia malleja.\n\nOppilas osaa arvioida mallin suhdetta todellisuuteen sekä mallin rajoituksia tai puutteita.\nArgumentointitaidot ja tietolähteiden käyttäminen: Oppilas hakee tietoa erilaisista tietolähteistä ja osaa pohtia tietolähteen luotettavuutta.\n\nOppilas osaa ilmaista ja perustella erilaisia näkökulmia kemialle ominaisella tavalla sekä vertailla keskenään ristiriitaisia näkökulmia.\nLuonnontieteellisen tiedon luonteen ja tiedon tuottamistavan hahmottaminen: Oppilas osaa selittää perustellen kemiaan liittyvien esimerkkien avulla luonnontieteellisen tiedon luonnetta ja kehittymistä.\n\nOppilas osaa selittää perustellen tieteellisiä tapoja tuottaa tietoa.\nTiedollisten jatko-opintovalmiuksien saavuttaminen aineen ominaisuuksista, rakenteesta ja aineiden muutoksista: Oppilas osaa käyttää aineen ominaisuuksien, rakenteiden ja aineiden muutosten keskeisiä käsitteitä, ilmiöitä ja malleja tutuissa ja soveltavissa tilanteissa.",
+              "en": ""
+            }
           }
         ]
       }

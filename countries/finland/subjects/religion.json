@@ -4,8 +4,12 @@
     "api": "https://eperusteet.opintopolku.fi/eperusteet-service/api/external/peruste/419550/perusopetus/oppiaineet/502087",
     "curriculum": "POPS 2014",
     "license": "Open Government Data (Finland)",
-    "lastSynced": "2026-03-03T08:58:58Z",
-    "aiEnriched": ["description.en", "interdisciplinaryThemes", "basicSkills"]
+    "lastSynced": "2026-03-03T16:02:19Z",
+    "aiEnriched": [
+      "description.en",
+      "interdisciplinaryThemes",
+      "basicSkills"
+    ]
   },
   "subject": {
     "code": "KT",
@@ -158,7 +162,11 @@
               "local": "T1 herättää oppilaassa mielenkiinto uskonnon opiskelua kohtaan ja opastaa tuntemaan oman perheen uskonnollista ja katsomuksellista taustaa",
               "en": "T1 awaken the pupil's interest in the study of religion and guide them to become familiar with the religious and worldview background of their own family"
             },
-            "coreElements": ["S1", "S2", "S3"],
+            "coreElements": [
+              "S1",
+              "S2",
+              "S3"
+            ],
             "verbs": []
           },
           {
@@ -167,7 +175,9 @@
               "local": "T2 ohjata oppilasta tutustumaan opiskeltavan uskonnon keskeisiin käsitteisiin, kertomuksiin ja symboleihin",
               "en": "T2 guide the pupil to become acquainted with the key concepts, narratives and symbols of the religion being studied"
             },
-            "coreElements": ["S1"],
+            "coreElements": [
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -176,7 +186,9 @@
               "local": "T3 ohjata oppilasta tutustumaan opiskeltavan uskonnon vuodenkiertoon, juhliin ja tapoihin",
               "en": "T3 guide the pupil to become acquainted with the annual cycle, celebrations and customs of the religion being studied"
             },
-            "coreElements": ["S1"],
+            "coreElements": [
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -185,7 +197,9 @@
               "local": "T4 kannustaa oppilasta tutustumaan luokan, koulun ja lähiympäristön uskontojen ja katsomusten tapoihin ja juhlaperinteisiin",
               "en": "T4 encourage the pupil to become acquainted with the customs and celebratory traditions of the religions and worldviews in their classroom, school and local environment"
             },
-            "coreElements": ["S2"],
+            "coreElements": [
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -194,7 +208,10 @@
               "local": "T5 rohkaista oppilasta tunnistamaan ja ilmaisemaan omia ajatuksiaan ja tunteitaan",
               "en": "T5 encourage the pupil to recognise and express their own thoughts and feelings"
             },
-            "coreElements": ["S1", "S3"],
+            "coreElements": [
+              "S1",
+              "S3"
+            ],
             "verbs": []
           },
           {
@@ -203,7 +220,11 @@
               "local": "T6 ohjata oppilasta toimimaan oikeudenmukaisesti, eläytymään toisen asemaan sekä kunnioittamaan toisen ihmisen ajatuksia ja vakaumusta sekä ihmisoikeuksia",
               "en": "T6 guide the pupil to act justly, to empathise with others, and to respect other people's thoughts, convictions and human rights"
             },
-            "coreElements": ["S1", "S2", "S3"],
+            "coreElements": [
+              "S1",
+              "S2",
+              "S3"
+            ],
             "verbs": []
           },
           {
@@ -212,7 +233,9 @@
               "local": "T7 ohjata oppilaita eettiseen pohdintaan sekä hahmottamaan, mitä tarkoittaa vastuu itsestä, yhteisöstä, ympäristöstä ja luonnosta",
               "en": "T7 guide pupils towards ethical reflection and to perceive what responsibility for oneself, one's community, the environment and nature means"
             },
-            "coreElements": ["S3"],
+            "coreElements": [
+              "S3"
+            ],
             "verbs": []
           },
           {
@@ -221,7 +244,10 @@
               "local": "T8 luoda oppilaalle tilaisuuksia harjoitella omien mielipiteiden esittämistä ja perustelemista sekä erilaisten mielipiteiden kuuntelemista ja ymmärtämistä",
               "en": "T8 create opportunities for the pupil to practise presenting and justifying their own opinions, and to listen to and understand different opinions"
             },
-            "coreElements": ["S1", "S3"],
+            "coreElements": [
+              "S1",
+              "S3"
+            ],
             "verbs": []
           }
         ]
@@ -239,7 +265,9 @@
               "local": "T1 ohjata oppilasta perehtymään opiskeltavan uskonnon pyhiin kirjoihin ja kertomuksiin sekä keskeisiin oppeihin",
               "en": "T1 guide the pupil to explore the sacred texts, narratives and central teachings of the religion being studied"
             },
-            "coreElements": ["S1"],
+            "coreElements": [
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -248,7 +276,9 @@
               "local": "T2 ohjata oppilas tutustumaan opiskeltavan uskonnon rituaaleihin ja tapoihin sekä pyhiin paikkoihin ja rakennuksiin",
               "en": "T2 guide the pupil to become acquainted with the rituals, customs, sacred places and buildings of the religion being studied"
             },
-            "coreElements": ["S1"],
+            "coreElements": [
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -257,7 +287,10 @@
               "local": "T3 auttaa oppilasta tunnistamaan uskonnollisen kielen erityispiirteitä ja vertauskuvallisuutta",
               "en": "T3 help the pupil to recognise the distinctive features and figurative nature of religious language"
             },
-            "coreElements": ["S2", "S1"],
+            "coreElements": [
+              "S2",
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -266,7 +299,11 @@
               "local": "T4 ohjata oppilasta etsimään, arvioimaan ja käyttämään uskontoa koskevaa tietoa erilaisista lähteistä",
               "en": "T4 guide the pupil to seek, evaluate and use information about religion from various sources"
             },
-            "coreElements": ["S2", "S3", "S1"],
+            "coreElements": [
+              "S2",
+              "S3",
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -275,7 +312,10 @@
               "local": "T5 opastaa oppilasta perehtymään Suomen ja Euroopan uskonnollisiin ja katsomuksellisiin juuriin ja nykytilaan",
               "en": "T5 guide the pupil to explore the religious and worldview roots and current state of Finland and Europe"
             },
-            "coreElements": ["S2", "S1"],
+            "coreElements": [
+              "S2",
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -284,7 +324,10 @@
               "local": "T6 ohjata oppilas tutustumaan juutalaisuuteen, kristinuskoon ja islamiin ja niiden vaikutukseen ja historiaan Euroopassa",
               "en": "T6 guide the pupil to become acquainted with Judaism, Christianity and Islam, and their influence and history in Europe"
             },
-            "coreElements": ["S2", "S3"],
+            "coreElements": [
+              "S2",
+              "S3"
+            ],
             "verbs": []
           },
           {
@@ -293,7 +336,11 @@
               "local": "T7 kannustaa oppilasta kunnioittamaan omaa ja toisen pyhää sekä käyttäytymään asianmukaisesti erilaisissa uskonnollisissa tilaisuuksissa ja tilanteissa",
               "en": "T7 encourage the pupil to respect what is sacred to oneself and others, and to behave appropriately in various religious occasions and situations"
             },
-            "coreElements": ["S2", "S3", "S1"],
+            "coreElements": [
+              "S2",
+              "S3",
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -302,7 +349,11 @@
               "local": "T8 ohjata oppilas perehtymään opiskeltavan uskonnon eettisiin opetuksiin sekä eri uskontoja yhdistäviin eettisiin periaatteisiin",
               "en": "T8 guide the pupil to explore the ethical teachings of the religion being studied and the ethical principles shared by different religions"
             },
-            "coreElements": ["S2", "S3", "S1"],
+            "coreElements": [
+              "S2",
+              "S3",
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -311,7 +362,10 @@
               "local": "T9 ohjata oppilasta ymmärtämään ihmisoikeuksiin ja erityisesti YK:n Lapsen oikeuksien sopimukseen sisältyviä arvoja yksilön ja yhteisön näkökulmasta",
               "en": "T9 guide the pupil to understand the values contained in human rights, and particularly in the UN Convention on the Rights of the Child, from both individual and community perspectives"
             },
-            "coreElements": ["S2", "S3"],
+            "coreElements": [
+              "S2",
+              "S3"
+            ],
             "verbs": []
           },
           {
@@ -320,7 +374,10 @@
               "local": "T10 ohjata oppilasta arvioimaan tekemiään valintoja ja pohtimaan toiminnan taustalla vaikuttavia arvoja eettisten periaatteiden ja kestävän tulevaisuuden näkökulmasta",
               "en": "T10 guide the pupil to evaluate the choices they make and to reflect on the values underlying their actions from the perspective of ethical principles and a sustainable future"
             },
-            "coreElements": ["S2", "S3"],
+            "coreElements": [
+              "S2",
+              "S3"
+            ],
             "verbs": []
           },
           {
@@ -329,7 +386,11 @@
               "local": "T11 luoda oppilaalle mahdollisuuksia keskustella eettisistä kysymyksistä, ilmaista rakentavasti ajatuksiaan ja tunteitaan sekä harjoitella perustelemaan omia näkemyksiään",
               "en": "T11 create opportunities for the pupil to discuss ethical questions, to express their thoughts and feelings constructively, and to practise justifying their own views"
             },
-            "coreElements": ["S2", "S3", "S1"],
+            "coreElements": [
+              "S2",
+              "S3",
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -338,8 +399,56 @@
               "local": "T12 auttaa ja tukea oppilasta muodostamaan ja vahvistamaan myönteistä maailmankatsomusta, itsetuntoa ja luottamusta elämään",
               "en": "T12 help and support the pupil in forming and strengthening a positive worldview, self-esteem and trust in life"
             },
-            "coreElements": ["S3"],
+            "coreElements": [
+              "S3"
+            ],
             "verbs": []
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "5",
+            "label": {
+              "local": "Arvosana 5 (välttävä)",
+              "en": "Grade 5 (passable)"
+            },
+            "text": {
+              "local": "Uskontoa koskevan tiedon hallitseminen, uskonnon monilukutaito: Oppilas osaa nimetä opiskeltavan uskonnon pyhän kirjan tai keskeisen lähteen ja tunnistaa jonkin käsitellyistä kertomuksista tai opeista.\nUskontoa koskevan tiedon hallitseminen, uskonnon monilukutaito: Oppilas tunnistaa opiskeltavaan uskontoon liittyvän rituaalin tai tavan sekä pyhän paikan tai rakennuksen.\nUskonnon kielen ja symbolien analysointi: Oppilas tunnistaa annetuista esimerkeistä uskonnollisen symbolin, vertauskuvan, kielikuvan tai väitteen.\nOppimaan oppimisen taidot uskonnon opiskelussa: Oppilas osaa ohjatusti etsiä uskontoa koskevaa tietoa annetuista lähteistä.\nUskontoa ja kulttuuria koskeva tieto: Oppilas tunnistaa annetuista esimerkeistä Suomen ja Euroopan uskonnollisiin ja katsomuksellisiin juuriin tai nykytilaan liittyviä piirteitä.\nUskontoa ja kulttuuria koskeva tieto: Oppilas tunnistaa annetuista esimerkeistä juutalaisuuden, kristinuskon ja islamin pääpiirteitä.\nUskonnon monilukutaito: Oppilas tunnistaa tai osaa nimetä jonkin pyhänä pidetyn asian tai siihen liittyvän tavan.\n\nKäyttäytymiseen liittyvää tavoitteen osaa ei arvioida.\nEtiikkaa koskeva tieto: Oppilas tunnistaa tai osaa nimetä yksittäisen esimerkin opiskeltavan uskonnon eettisistä opetuksista.\nIhmisoikeusetiikka: Oppilas tunnistaa annetuista esimerkeistä ihmisoikeuksia tai Lapsen oikeuksien sopimuksesta nousevia lapsen oikeuksia.\nEettinen pohdinta: Oppilas tunnistaa annetuista esimerkeistä joitain toiminnan taustalla vaikuttavia arvoja tai eettisiä valintatilanteita.\nAjattelun ja vuorovaikutuksen taidot: Oppilas osaa kuunnella muita ja ilmaista jollain tavoin ajatuksiaan.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "7",
+            "label": {
+              "local": "Arvosana 7 (tyydyttävä)",
+              "en": "Grade 7 (satisfactory)"
+            },
+            "text": {
+              "local": "Uskontoa koskevan tiedon hallitseminen, uskonnon monilukutaito: Oppilas osaa kertoa opiskeltavasta uskonnosta jonkin sen keskeisen opin ja kertomuksen. \n\nOppilas osaa kertoa ohjatusti jotain kertomuksen merkityksistä tai tavoista tulkita sitä.\nUskontoa koskevan tiedon hallitseminen, uskonnon monilukutaito: Oppilas osaa nimetä opiskeltavasta uskonnosta rituaaleja tai tapoja sekä pyhän paikan tai rakennuksen.\nUskonnon kielen ja symbolien analysointi: Oppilas osaa antaa esimerkin uskonnollisesta kielestä.\nOppimaan oppimisen taidot uskonnon opiskelussa: Oppilas osaa etsiä uskontoa koskevaa tietoa useasta lähteestä.\nUskontoa ja kulttuuria koskeva tieto: Oppilas osaa kertoa esimerkkejä Suomen ja Euroopan uskonnollisista ja katsomuksellisista juurista tai nykytilasta.\nUskontoa ja kulttuuria koskeva tieto: Oppilas osaa kertoa juutalaisuuden, kristinuskon ja islamin pääpiirteistä.\nUskonnon monilukutaito: Oppilas osaa nimetä erilaisia pyhinä pidettyjä asioita ja kuvailla, millaisia tapoja niihin liittyy.\n\nKäyttäytymiseen liittyvää tavoitteen osaa ei arvioida.\nEtiikkaa koskeva tieto: Oppilas osaa antaa esimerkkejä opiskeltavan uskonnon eettisistä opetuksista tai uskontoja yhdistävistä eettisistä periaatteista.\nIhmisoikeusetiikka: Oppilas osaa kertoa esimerkkejä lapsen oikeuksista tai muista ihmisoikeuksista.\nEettinen pohdinta: Oppilas tunnistaa eettisiä periaatteita. \n\nOppilas osaa kertoa esimerkkejä eettisistä valintatilanteista ja antaa niihin ratkaisuvaihtoehtoja.\nAjattelun ja vuorovaikutuksen taidot: Oppilas ottaa osaa yhteiseen keskusteluun ja ilmaisee itseään rakentavasti.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "8",
+            "label": {
+              "local": "Arvosana 8 (hyvä)",
+              "en": "Grade 8 (good)"
+            },
+            "text": {
+              "local": "Uskontoa koskevan tiedon hallitseminen, uskonnon monilukutaito: Oppilas osaa kertoa opiskeltavan uskonnon pyhistä kirjoista sekä kuvailla kertomusten merkityksiä tai tapoja tulkita niitä.\nUskontoa koskevan tiedon hallitseminen, uskonnon monilukutaito: Oppilas osaa kertoa opiskeltavan uskonnon keskeisistä rituaaleista ja tavoista sekä kuvailla uskonnon pyhiä paikkoja tai rakennuksia.\nUskonnon kielen ja symbolien analysointi: Oppilas osaa antaa esimerkkejä uskonnollisesta kielestä ja sen vertauskuvallisuudesta.\nOppimaan oppimisen taidot uskonnon opiskelussa: Oppilas osaa käyttää hakemaansa tietoa ja tunnistaa, että tietolähteiden luotettavuudessa on eroja.\nUskontoa ja kulttuuria koskeva tieto: Oppilas tunnistaa uskontojen ja katsomusten vaikutuksia kulttuurissa ja yhteiskunnissa Suomessa ja Euroopassa.\nUskontoa ja kulttuuria koskeva tieto: Oppilas osaa vertailla juutalaisuuden, kristinuskon ja islamin pääpiirteitä.\nUskonnon monilukutaito: Oppilas ymmärtää, mitä tarkoitetaan toisen pyhän kunnioittamisella. \n\nOppilas osaa antaa esimerkkejä uskonnollisiin tilanteisiin ja paikkoihin sekä muihin pyhiin asioihin liittyvästä tapakulttuurista.\n\nKäyttäytymiseen liittyvää tavoitteen osaa ei arvioida.\nEtiikkaa koskeva tieto: Oppilas osaa kuvailla opiskeltavan uskonnon keskeisiä eettisiä opetuksia ja kertoa jostakin uskontoja yhdistävästä eettisestä periaatteesta sekä antaa esimerkkejä niiden soveltamisesta arjen tilanteisiin.\nIhmisoikeusetiikka: Oppilas osaa kertoa lapsen oikeuksien ja muiden ihmisoikeuksien vaikutuksesta omaan elämänpiiriinsä.\nEettinen pohdinta: Oppilas osaa kertoa opiskeltavan uskonnon ja uskontojen yhteisistä eettisistä periaatteista ja antaa esimerkkejä niiden soveltamisesta.\n\nOppilas osaa kertoa arjen esimerkkejä kestävän tulevaisuuden rakentamisesta.\nAjattelun ja vuorovaikutuksen taidot: Oppilas huomioi muut keskusteluun osallistujat ja osaa perustella omia näkemyksiään.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "9",
+            "label": {
+              "local": "Arvosana 9 (kiitettävä)",
+              "en": "Grade 9 (excellent)"
+            },
+            "text": {
+              "local": "Uskontoa koskevan tiedon hallitseminen, uskonnon monilukutaito: Oppilas osaa pohtia kertomusten sisältöjä ja tulkintaa. \n\nOppilas osaa kuvailla keskeisimpien oppien merkityksiä opiskeltavan uskonnon kannalta.\nUskontoa koskevan tiedon hallitseminen, uskonnon monilukutaito: Oppilas osaa kertoa opiskeltavan uskonnon keskeisten rituaalien ja tapojen sekä pyhien paikkojen ja rakennusten merkityssisällöistä.\nUskonnon kielen ja symbolien analysointi: Oppilas osaa kertoa uskonnollisen kielen erityispiirteistä ja vertauskuvallisuudesta.\nOppimaan oppimisen taidot uskonnon opiskelussa: Oppilas osaa etsiä ja vertailla uskontoa koskevaa tietoa eri lähteistä sekä tehdä havaintoja lähteiden luotettavuudesta.\nUskontoa ja kulttuuria koskeva tieto: Oppilas osaa kertoa esimerkkejä uskontojen ja katsomusten vaikutuksesta kulttuuriin ja yhteiskuntiin Suomessa ja Euroopassa.\nUskontoa ja kulttuuria koskeva tieto: Oppilas osaa kertoa juutalaisuuden, kristinuskon ja islamin vaikutuksesta tai historiasta Euroopassa.\nUskonnon monilukutaito: Oppilas osaa kertoa, miten pyhyys voi ilmetä eri tavoin uskonnoissa.\n\nKäyttäytymiseen liittyvää tavoitteen osaa ei arvioida.\nEtiikkaa koskeva tieto: Oppilas osaa pohtia uskontojen erilaisten eettisten periaatteiden soveltamista arjessa.\nIhmisoikeusetiikka: Oppilas osaa pohtia lapsen oikeuksiin ja muihin ihmisoikeuksiin liittyviä kysymyksiä yksilön ja yhteisön näkökulmista.\nEettinen pohdinta: Oppilas osaa pohtia omia valintojaan ja eettisiä valintatilanteita arvojen, erilaisten eettisten periaatteiden ja kestävän tulevaisuuden näkökulmista.\nAjattelun ja vuorovaikutuksen taidot: Oppilas osaa keskustella vastavuoroisesti sekä pohtia ja rakentaa omia näkemyksiään vuorovaikutuksessa muiden kanssa.",
+              "en": ""
+            }
           }
         ]
       },
@@ -356,7 +465,10 @@
               "local": "T1 ohjata oppilasta havaitsemaan uskonnon ja kulttuurin vuorovaikutus sekä tunnistamaan uskontoon liittyvä monimuotoisuus",
               "en": "T1 guide the pupil to observe the interaction between religion and culture and to recognise the diversity associated with religion"
             },
-            "coreElements": ["S1", "S2"],
+            "coreElements": [
+              "S1",
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -365,7 +477,9 @@
               "local": "T2 ohjata oppilasta syventämään tietojaan opiskeltavasta uskonnosta ja sen vaikutuksista",
               "en": "T2 guide the pupil to deepen their knowledge of the religion being studied and its influence"
             },
-            "coreElements": ["S1"],
+            "coreElements": [
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -374,7 +488,9 @@
               "local": "T3 ohjata oppilasta perehtymään uskontoihin ja katsomuksiin eri puolilla maailmaa sekä uskonnottomuuteen",
               "en": "T3 guide the pupil to explore religions and worldviews around the world as well as non-religiousness"
             },
-            "coreElements": ["S2"],
+            "coreElements": [
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -383,7 +499,11 @@
               "local": "T4 ohjata oppilasta tuntemaan eri uskontojen ja katsomusten tapoja ja symboleita sekä tunnistamaan uskonnollisia aiheita mediassa, maailmanpolitiikassa, taiteessa ja populaarikulttuurissa",
               "en": "T4 guide the pupil to know the customs and symbols of different religions and worldviews, and to recognise religious themes in media, world politics, art and popular culture"
             },
-            "coreElements": ["S1", "S2", "S3"],
+            "coreElements": [
+              "S1",
+              "S2",
+              "S3"
+            ],
             "verbs": []
           },
           {
@@ -392,7 +512,10 @@
               "local": "T5 ohjata oppilasta havaitsemaan ja arvioimaan erilaisia argumentaation tapoja sekä uskonnon ja tieteen kielen välisiä eroja",
               "en": "T5 guide the pupil to observe and evaluate different forms of argumentation and the differences between religious and scientific language"
             },
-            "coreElements": ["S1", "S3"],
+            "coreElements": [
+              "S1",
+              "S3"
+            ],
             "verbs": []
           },
           {
@@ -401,7 +524,9 @@
               "local": "T6 ohjata oppilasta perehtymään eettisen ajattelun keskeisiin käsitteisiin, ihmisoikeuksiin sekä opiskeltavan uskonnon ja muiden uskontojen ja katsomusten eettisiin periaatteisiin",
               "en": "T6 guide the pupil to explore the key concepts of ethical thinking, human rights, and the ethical principles of the religion being studied as well as those of other religions and worldviews"
             },
-            "coreElements": ["S3"],
+            "coreElements": [
+              "S3"
+            ],
             "verbs": []
           },
           {
@@ -410,7 +535,10 @@
               "local": "T7 auttaa oppilasta pohtimaan uskontojen ja katsomusten maailmanlaajuista merkitystä ihmisten valintojen perusteina ja ohjaajina",
               "en": "T7 help the pupil to reflect on the global significance of religions and worldviews as the basis and guide for people's choices"
             },
-            "coreElements": ["S1", "S3"],
+            "coreElements": [
+              "S1",
+              "S3"
+            ],
             "verbs": []
           },
           {
@@ -419,7 +547,10 @@
               "local": "T8 rohkaista oppilasta pohtimaan ihmisyyteen kuuluvia elämänkysymyksiä, ajankohtaisia eettisiä kysymyksiä ja omien arvojen suhdetta niihin",
               "en": "T8 encourage the pupil to reflect on existential questions related to being human, current ethical issues and the relationship of their own values to them"
             },
-            "coreElements": ["S2", "S3"],
+            "coreElements": [
+              "S2",
+              "S3"
+            ],
             "verbs": []
           },
           {
@@ -428,7 +559,10 @@
               "local": "T9 innostaa oppilasta tutkimaan omien valintojensa eettisiä ulottuvuuksia ja niiden vaikutusta hyvinvointiin ja kannustaa kestävään elämäntapaan",
               "en": "T9 inspire the pupil to examine the ethical dimensions of their own choices and their impact on well-being, and to encourage a sustainable way of life"
             },
-            "coreElements": ["S2", "S3"],
+            "coreElements": [
+              "S2",
+              "S3"
+            ],
             "verbs": []
           },
           {
@@ -437,8 +571,58 @@
               "local": "T10 rohkaista oppilaita kohtaamaan erilaisia ihmisiä nyt ja tulevaisuudessa jatko-opinnoissa, työelämässä ja vapaa-ajalla",
               "en": "T10 encourage pupils to encounter diverse people now and in the future in further studies, working life and leisure"
             },
-            "coreElements": ["S1", "S2", "S3"],
+            "coreElements": [
+              "S1",
+              "S2",
+              "S3"
+            ],
             "verbs": []
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "5",
+            "label": {
+              "local": "Arvosana 5 (välttävä)",
+              "en": "Grade 5 (passable)"
+            },
+            "text": {
+              "local": "Uskontojen monimuotoisuuden sekä kulttuuristen ja yhteiskunnallisten vaikutusten hahmottaminen: Oppilas tunnistaa ohjatusti ympäristöstä erilaisia uskontoon liittyviä asioita, kuten rakennuksia ja symboleja.\nOpiskeltavaa uskontoa koskevan tiedon hallitseminen: Oppilas osaa antaa esimerkin opiskeltavan uskonnon opetuksista sekä esimerkin sen tärkeimmistä lähteistä. \n\nOppilas osaa kertoa opiskeltavan uskonnon synnystä.\nMaailmanuskontojen ja erilaisten katsomusten tunteminen: Oppilas osaa nimetä kaksi uskontoa ja tunnistaa ohjatusti niiden keskeisiä piirteitä. \n\nOppilas tunnistaa ohjatusti uskonnon ja uskonnottomuuden eroja.\nUskonnon ja kulttuurin lukutaito: Oppilas tunnistaa annetuista esimerkeistä uskontoon liittyviä tapoja.\nUskonnollisen ja tieteellisen kielen erottaminen sekä ajattelun ja vuorovaikutuksen taidot: Oppilas erottaa selkeästi uskonnollisen ja selkeästi tieteellisen väitteen toisistaan.\nEtiikkaa ja ihmisoikeuksia koskevan tiedon hallitseminen: Oppilas osaa antaa esimerkin jostakin ihmisoikeudesta.\n\nOppilas osaa antaa esimerkin opiskeltavan uskonnon eettisistä periaatteista.\nUskontojen ja katsomusten merkityksen hahmottaminen yksilöiden elämässä ja globaalisti: Oppilas tunnistaa annetuista esimerkeistä uskonnollisia ja katsomuksellisia näkökohtia, jotka vaikuttavat ihmisten valintoihin.\nEettisen ajattelun ja omien näkemysten ilmaisemisen taidot: Oppilas osaa kuvailla jotakin eettistä kysymystä ja jotakin itselleen tärkeää arvoa.\nEettisten valintojen vaikutusten hahmottaminen suhteessa hyvinvointiin ja kestävään tulevaisuuteen: Oppilas tunnistaa ohjatusti eettisten valintojen ja tekojen seurauksia.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "7",
+            "label": {
+              "local": "Arvosana 7 (tyydyttävä)",
+              "en": "Grade 7 (satisfactory)"
+            },
+            "text": {
+              "local": "Uskontojen monimuotoisuuden sekä kulttuuristen ja yhteiskunnallisten vaikutusten hahmottaminen: Oppilas tunnistaa ympäristöstä erilaisia uskontoon liittyviä asioita. \n\nOppilas osaa yhdistää uskontoon liittyviä käsitteitä ja ilmiöitä toisiinsa.\nOpiskeltavaa uskontoa koskevan tiedon hallitseminen: Oppilas osaa antaa esimerkkejä opiskeltavan uskonnon opetuksista. \n\nOppilas osaa kertoa opiskeltavan uskonnon synnystä, lähteistä, vaikutuksista ja levinneisyydestä. \n\nOppilas osaa hankkia annettujen ohjeiden mukaan lisätietoa opiskeltavasta uskonnosta.\nMaailmanuskontojen ja erilaisten katsomusten tunteminen: Oppilas osaa nimetä maailmanuskontoja ja kertoa niiden keskeisistä piirteistä. \n\nOppilas osaa kuvailla uskonnon ja uskonnottomuuden eroja.\n\nOppilas osaa hankkia annettujen ohjeiden mukaan lisätietoa uskonnoista ja katsomuksista.\nUskonnon ja kulttuurin lukutaito: Oppilas osaa kertoa vähintään kolmen uskonnon keskeisistä tavoista.  \n\nOppilas tunnistaa annetusta materiaalista uskonnollisia symboleita ja aiheita mediassa, taiteessa ja populaarikulttuurissa.\nUskonnollisen ja tieteellisen kielen erottaminen sekä ajattelun ja vuorovaikutuksen taidot: Oppilas tunnistaa tieteelliselle ja uskonnolliselle kielelle ominaisia piirteitä. \n\nOppilas osaa kuunnella toisten näkemyksiä ja esittää omia näkemyksiään.\nEtiikkaa ja ihmisoikeuksia koskevan tiedon hallitseminen: Oppilas tunnistaa annetuista esimerkkitilanteista eettisen ulottuvuuden ja osaa pohtia ohjatusti eettisiä kysymyksiä. \n\nOppilas osaa antaa esimerkkejä ihmisoikeuksista ja niiden merkityksestä. \n\nOppilas osaa kertoa opiskeltavan uskonnon eettisistä periaatteista.\nUskontojen ja katsomusten merkityksen hahmottaminen yksilöiden elämässä ja globaalisti: Oppilas osaa kuvailla uskontojen ja katsomusten merkitystä ihmisten valintojen perusteina ja ohjaajina.\nEettisen ajattelun ja omien näkemysten ilmaisemisen taidot: Oppilas tunnistaa ja osaa pohtia ohjatusti ihmisyyteen kuuluvia elämänkysymyksiä ja joitakin ajankohtaisia eettisiä kysymyksiä. \n\nOppilas osaa kuvailla itselleen tärkeitä arvoja ja ottaa niiden pohjalta kantaa eettisiin kysymyksiin.\nEettisten valintojen vaikutusten hahmottaminen suhteessa hyvinvointiin ja kestävään tulevaisuuteen: Oppilas osaa kuvailla eettisten valintojen vaikutusta hyvinvointiin ja kestävään tulevaisuuteen.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "8",
+            "label": {
+              "local": "Arvosana 8 (hyvä)",
+              "en": "Grade 8 (good)"
+            },
+            "text": {
+              "local": "Uskontojen monimuotoisuuden sekä kulttuuristen ja yhteiskunnallisten vaikutusten hahmottaminen: Oppilas osaa antaa esimerkkejä opiskeltavaan uskontoon liittyvästä monimuotoisuudesta. \n\nOppilas osoittaa ymmärtävänsä, että uskonto ja kulttuuri ovat vuorovaikutuksessa keskenään. \n\nOppilas tunnistaa uskontoihin liittyviä asioita eri kulttuureissa ja yhteiskunnissa.\nOpiskeltavaa uskontoa koskevan tiedon hallitseminen: Oppilas osaa kertoa opiskeltavan uskonnon perusopetuksista ja tärkeimpien lähteiden sisällöstä. \n\nOppilas osaa kuvailla opiskeltavan uskonnon syntyä, levinneisyyttä ja vaikutuksia eri puolilla maailmaa. \n\nOppilas osaa hankkia lisätietoa opiskeltavasta uskonnosta ja kiinnittää huomiota tiedon lähteiden luotettavuuteen.\nMaailmanuskontojen ja erilaisten katsomusten tunteminen: Oppilas osaa kuvailla eri maailmanuskontojen pääpiirteitä ja vertailla niitä. \n\nOppilas osaa käyttää käsitteitä uskonto, uskonnottomuus ja katsomus mielekkäissä yhteyksissä. \n\nOppilas osaa hankkia lisätietoa uskonnoista ja katsomuksista.\nUskonnon ja kulttuurin lukutaito: Oppilas osaa kuvailla ja nimetä eri uskontojen tapoja ja osaa antaa esimerkin uskonnottomasta tapakulttuurista. \n\nOppilas tunnistaa ja osaa antaa esimerkin uskonnollisista symboleista ja aiheista mediassa, maailmanpolitiikassa, taiteessa sekä populaarikulttuurissa.\nUskonnollisen ja tieteellisen kielen erottaminen sekä ajattelun ja vuorovaikutuksen taidot: Oppilas tunnistaa erilaisia argumentaation tapoja sekä uskonnon ja tieteen kielen välisiä eroja. \n\nOppilas osaa kuunnella toisten näkemyksiä ja esittää perusteluja omille näkemyksilleen.\nEtiikkaa ja ihmisoikeuksia koskevan tiedon hallitseminen: Oppilas osaa käyttää etiikan keskeisiä käsitteitä ja erottaa eettiset kysymykset muista kysymyksistä. \n\nOppilas osaa pohtia eettisiä kysymyksiä ja ihmisoikeuksien toteutumista käytännössä. \n\nOppilas osaa kuvailla opiskeltavan uskonnon sekä jonkun muun uskonnon tai katsomuksen eettisiä periaatteita.\nUskontojen ja katsomusten merkityksen hahmottaminen yksilöiden elämässä ja globaalisti: Oppilas osaa kuvailla uskontojen ja katsomusten merkitystä ihmisten valintojen perusteina ja ohjaajina.\nEettisen ajattelun ja omien näkemysten ilmaisemisen taidot: Oppilas osaa pohtia itsenäisesti ja muiden kanssa ihmisyyteen kuuluvia elämänkysymyksiä ja joitakin ajankohtaisia eettisiä kysymyksiä. \n\nOppilas osaa kuvailla itselleen tärkeitä arvoja ja esittää perusteltuja näkemyksiä eettisistä kysymyksistä.\nEettisten valintojen vaikutusten hahmottaminen suhteessa hyvinvointiin ja kestävään tulevaisuuteen: Oppilas osaa analysoida eettisiä valintoja sekä niiden vaikutuksia hyvinvointiin ja kestävään tulevaisuuteen.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "9",
+            "label": {
+              "local": "Arvosana 9 (kiitettävä)",
+              "en": "Grade 9 (excellent)"
+            },
+            "text": {
+              "local": "Uskontojen monimuotoisuuden sekä kulttuuristen ja yhteiskunnallisten vaikutusten hahmottaminen: Oppilas osaa antaa monipuolisia esimerkkejä opiskeltavan uskonnon sisäisestä monimuotoisuudesta. \n\nOppilas osaa kuvailla uskonnon ja kulttuurin vuorovaikutusta monipuolisesti. \n\nOppilas tunnistaa ja osaa nimetä uskontoihin liittyviä asioita eri kulttuureissa ja yhteiskunnissa.\nOpiskeltavaa uskontoa koskevan tiedon hallitseminen: Oppilas osaa analysoida opiskeltavan uskonnon perusopetuksia sekä tärkeimpien lähteiden sisältöä ja tulkintoja.\n\n Oppilas osaa kuvailla opiskeltavan uskonnon syntyä, kehitystä, levinneisyyttä ja vaikutuksia eri puolilla maailmaa. \n\nOppilas osaa hankkia lisätietoa opiskeltavasta uskonnosta ja arvioida tiedon lähteiden luotettavuutta.\nMaailmanuskontojen ja erilaisten katsomusten tunteminen: Oppilas osaa analysoida eri maailmanuskontojen pääpiirteitä. \n\nOppilas osaa kuvailla uskonnoissa ja uskonnottomuudessa vallitsevaa moninaisuutta. \n\nOppilas osaa hankkia lisätietoa uskonnoista ja katsomuksista ja kiinnittää huomiota tiedon lähteiden luotettavuuteen.\nUskonnon ja kulttuurin lukutaito: Oppilas osaa analysoida eri uskontojen tapoja ja osaa antaa esimerkkejä uskonnottomasta tapakulttuurista.\n \nOppilas tunnistaa ja osaa antaa esimerkkejä uskonnollisista symboleista ja aiheista mediassa, maailmanpolitiikassa, taiteessa sekä populaarikulttuurissa.\nUskonnollisen ja tieteellisen kielen erottaminen sekä ajattelun ja vuorovaikutuksen taidot: Oppilas osaa analysoida uskonnollisten ja tieteellisten perustelujen sekä uskonnon ja tieteen kielen eroja. \n\nOppilas osaa kuunnella toisten näkemyksiä ja perustella johdonmukaisesti omia näkemyksiään.\nEtiikkaa ja ihmisoikeuksia koskevan tiedon hallitseminen: Oppilas osaa käyttää etiikan keskeisiä käsitteitä, pohtia eettisiä kysymyksiä ja arvioida ihmisoikeuksien toteutumista käytännössä. \n\nOppilas osaa analysoida opiskeltavan uskonnon eettisiä periaatteita ja vertailla niitä muiden uskontojen ja katsomusten keskeisiin eettisiin periaatteisiin.\nUskontojen ja katsomusten merkityksen hahmottaminen yksilöiden elämässä ja globaalisti: Oppilas osaa pohtia uskontojen ja katsomusten merkitystä ihmisten valintojen perusteina ja ohjaajina sekä antaa tästä esimerkkejä eri puolilta maailmaa.\nEettisen ajattelun ja omien näkemysten ilmaisemisen taidot: Oppilas osaa pohtia monipuolisesti ihmisyyteen kuuluvia elämänkysymyksiä ja ajankohtaisia eettisiä kysymyksiä itsenäisesti ja yhdessä muiden kanssa.\n\nOppilas osaa analysoida omia arvojaan sekä tunnistaa erilaisten eettisten ratkaisujen taustalla vaikuttavia arvoja. \n\nOppilas osaa esittää johdonmukaisia ja perusteltuja näkemyksiä eettisistä kysymyksistä.\nEettisten valintojen vaikutusten hahmottaminen suhteessa hyvinvointiin ja kestävään tulevaisuuteen: Oppilas osaa arvioida eettisiä valintoja sekä antaa esimerkkejä niiden välittömistä ja välillisistä vaikutuksista hyvinvointiin ja kestävään tulevaisuuteen.",
+              "en": ""
+            }
           }
         ]
       }

@@ -4,8 +4,12 @@
     "api": "https://eperusteet.opintopolku.fi/eperusteet-service/api/external/peruste/419550/perusopetus/oppiaineet/466345",
     "curriculum": "POPS 2014",
     "license": "Open Government Data (Finland)",
-    "lastSynced": "2026-03-03T08:58:59Z",
-    "aiEnriched": ["description.en", "interdisciplinaryThemes", "basicSkills"]
+    "lastSynced": "2026-03-03T16:02:21Z",
+    "aiEnriched": [
+      "description.en",
+      "interdisciplinaryThemes",
+      "basicSkills"
+    ]
   },
   "subject": {
     "code": "HI",
@@ -246,7 +250,13 @@
               "local": "T1 ohjata oppilasta kiinnostumaan historiasta tiedonalana ja identiteettiä rakentavana oppiaineena",
               "en": "T1 guide the pupil to become interested in history as a field of knowledge and as a subject that builds identity"
             },
-            "coreElements": ["S3", "S4", "S1", "S2", "S5"],
+            "coreElements": [
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S5"
+            ],
             "verbs": []
           },
           {
@@ -255,7 +265,13 @@
               "local": "T2 johdattaa oppilasta tunnistamaan erilaisia historian lähteitä",
               "en": "T2 lead the pupil to recognise different types of historical sources"
             },
-            "coreElements": ["S3", "S4", "S1", "S2", "S5"],
+            "coreElements": [
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S5"
+            ],
             "verbs": []
           },
           {
@@ -264,7 +280,13 @@
               "local": "T3 ohjata oppilasta havaitsemaan historiatiedon tulkinnallisuuden",
               "en": "T3 guide the pupil to notice the interpretive nature of historical knowledge"
             },
-            "coreElements": ["S3", "S4", "S1", "S2", "S5"],
+            "coreElements": [
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S5"
+            ],
             "verbs": []
           },
           {
@@ -273,7 +295,13 @@
               "local": "T4 auttaa oppilasta ymmärtämään erilaisia tapoja jakaa historia aikakausiin sekä käyttämään niihin liittyviä historiallisia käsitteitä",
               "en": "T4 help the pupil understand different ways of dividing history into periods and to use related historical concepts"
             },
-            "coreElements": ["S3", "S4", "S1", "S2", "S5"],
+            "coreElements": [
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S5"
+            ],
             "verbs": []
           },
           {
@@ -282,7 +310,13 @@
               "local": "T5 ohjata oppilasta ymmärtämään ihmisen toiminnan motiiveja",
               "en": "T5 guide the pupil to understand the motives behind human actions"
             },
-            "coreElements": ["S3", "S4", "S1", "S2", "S5"],
+            "coreElements": [
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S5"
+            ],
             "verbs": []
           },
           {
@@ -291,7 +325,13 @@
               "local": "T6 johdattaa oppilasta hahmottamaan erilaisia syitä ja seurauksia historian tapahtumille ja ilmiöille",
               "en": "T6 lead the pupil to identify various causes and consequences of historical events and phenomena"
             },
-            "coreElements": ["S3", "S4", "S1", "S2", "S5"],
+            "coreElements": [
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S5"
+            ],
             "verbs": []
           },
           {
@@ -300,7 +340,13 @@
               "local": "T7 auttaa oppilasta tunnistamaan muutoksia oman perheen tai yhteisön historiassa sekä ymmärtämään, miten samat muutokset ovat voineet tarkoittaa eri asioita eri ihmisille",
               "en": "T7 help the pupil identify changes in the history of their own family or community and understand how the same changes may have meant different things to different people"
             },
-            "coreElements": ["S3", "S4", "S1", "S2", "S5"],
+            "coreElements": [
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S5"
+            ],
             "verbs": []
           },
           {
@@ -309,7 +355,13 @@
               "local": "T8 harjaannuttaa oppilasta hahmottamaan jatkuvuuksia historiassa",
               "en": "T8 practise the pupil in perceiving continuities in history"
             },
-            "coreElements": ["S3", "S4", "S1", "S2", "S5"],
+            "coreElements": [
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S5"
+            ],
             "verbs": []
           },
           {
@@ -318,7 +370,13 @@
               "local": "T9 ohjata oppilasta esittämämään muutoksille syitä",
               "en": "T9 guide the pupil to present reasons for changes"
             },
-            "coreElements": ["S3", "S4", "S1", "S2", "S5"],
+            "coreElements": [
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S5"
+            ],
             "verbs": []
           },
           {
@@ -327,7 +385,13 @@
               "local": "T10 ohjata oppilasta selittämään, miten tulkinnat saattavat muuttua uusien lähteiden tai tarkastelutapojen myötä",
               "en": "T10 guide the pupil to explain how interpretations may change with new sources or approaches"
             },
-            "coreElements": ["S3", "S4", "S1", "S2", "S5"],
+            "coreElements": [
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S5"
+            ],
             "verbs": []
           },
           {
@@ -336,8 +400,60 @@
               "local": "T11 ohjata oppilasta selittämään ihmisen toimintaa",
               "en": "T11 guide the pupil to explain human actions"
             },
-            "coreElements": ["S3", "S4", "S1", "S2", "S5"],
+            "coreElements": [
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S5"
+            ],
             "verbs": []
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "5",
+            "label": {
+              "local": "Arvosana 5 (välttävä)",
+              "en": "Grade 5 (passable)"
+            },
+            "text": {
+              "local": "Historian tietolähteiden tunnistaminen: Oppilas tunnistaa joitakin historian lähteitä.\nHistoriatiedon tulkinnallisuuden havaitseminen: Oppilas antaa esimerkkejä historian faktoista.\nKronologian ymmärrys: Oppilas tunnistaa keskeisiä historiaan liittyviä ajan jäsentämismuotoja (vanha aika, keskiaika, uusi aika; esihistoria, historia; eaa, jaa).\nHistoriallinen empatia: Oppilas tunnistaa, että ihmisillä on ollut erilaisia motiiveja toiminnalleen.\nSyy- ja seuraussuhteiden hahmottaminen historiassa: Oppilas tunnistaa yksittäisen syyn tai seurauksen menneisyydessä tapahtuneelle asialle.\nMuutoksen hahmottaminen: Oppilas tunnistaa asioita, jotka ovat muuttuneet.\nJatkuvuuden tunnistaminen: Oppilas tunnistaa jonkin menneisyyden asian näkymisen tässä päivässä.\nSyy- ja seuraussuhteen kuvaileminen: Oppilas osoittaa jonkin syyn muutokseen.\nTulkintojen selittäminen: Oppilas kertoo esimerkin tilanteesta, josta on erilaisia tulkintoja.\nIhmisen toiminnan selittäminen: Oppilas osoittaa, miten jokin ihmisen toiminnan motiivi näkyy tämän toiminnassa.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "7",
+            "label": {
+              "local": "Arvosana 7 (tyydyttävä)",
+              "en": "Grade 7 (satisfactory)"
+            },
+            "text": {
+              "local": "Historian tietolähteiden tunnistaminen: Oppilas antaa esimerkkejä historian alkuperäislähteistä opiskeltavilta aikakausilta.\nHistoriatiedon tulkinnallisuuden havaitseminen: Oppilas antaa esimerkkejä historian faktoista ja tulkinnoista.\nKronologian ymmärrys: Oppilas nimeää keskeisiä historiaan liittyviä ajan jäsentämismuotoja ja sijoittaa eri aikakausien tapahtumia aikajärjestykseen.\nHistoriallinen empatia: Oppilas antaa esimerkkejä menneisyyden ihmisten toiminnan motiiveista.\nSyy- ja seuraussuhteiden hahmottaminen historiassa: Oppilas tunnistaa yksittäisen syyn ja siitä johtuvan seurauksen menneisyydessä tapahtuneille asioille.\nMuutoksen hahmottaminen: Oppilas tunnistaa muutoksia menneisyydessä ja antaa esimerkin muutoksen merkityksestä eri ihmisille.\nJatkuvuuden tunnistaminen: Oppilas nimeää asioita, joissa näkyy jatkuvuutta aikakaudesta toiseen.\nSyy- ja seuraussuhteen kuvaileminen: Oppilas antaa esimerkkejä muutokseen johtaneista syistä.\nTulkintojen selittäminen: Oppilas selittää yhden esimerkin avulla, miten uudet lähteet saattavat muuttaa historian tapahtuman tai ilmiön tulkintaa.\nIhmisen toiminnan selittäminen: Oppilas kuvailee mahdollisia syitä menneisyyden ihmisen toiminnalle.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "8",
+            "label": {
+              "local": "Arvosana 8 (hyvä)",
+              "en": "Grade 8 (good)"
+            },
+            "text": {
+              "local": "Historian tietolähteiden tunnistaminen: Oppilas antaa esimerkin, miten alkuperäislähde eroaa toisen käden lähteestä.\nHistoriatiedon tulkinnallisuuden havaitseminen: Oppilas tunnistaa, että samasta tapahtumasta tai ilmiöstä voi olla erilaisia tulkintoja.\nKronologian ymmärrys: Oppilas käyttää keskeisiä historiaan liittyviä ajan jäsentämismuotoja sekä antaa esimerkkejä eri aikakausien yhteiskunnille ominaisista piirteistä.\nHistoriallinen empatia: Oppilas asettautuu menneen ajan ihmisen asemaan ja nimeää tämän toiminnan motiiveja.\nSyy- ja seuraussuhteiden hahmottaminen historiassa: Oppilas tunnistaa syitä ja seurauksia menneisyydessä tapahtuneille asioille.\nMuutoksen hahmottaminen: Oppilas kuvailee esimerkkien avulla, miten muutos ei ole merkinnyt samaa eri ihmisryhmille.\nJatkuvuuden tunnistaminen: Oppilas kuvailee asioiden jatkuvuutta menneisyydessä.\nSyy- ja seuraussuhteen kuvaileminen: Oppilas kuvailee suorien ja epäsuorien syiden vaikutuksia muutokseen.\nTulkintojen selittäminen: Oppilas selittää esimerkkien avulla, miten uudet lähteet ja tarkastelutavat saattavat muuttaa historian tulkintoja.\nIhmisen toiminnan selittäminen: Oppilas esittää kuvauksen käsiteltävästä asiasta siten, että hän selittää tapahtuman tai ilmiön yksittäisen toimijan kannalta.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "9",
+            "label": {
+              "local": "Arvosana 9 (kiitettävä)",
+              "en": "Grade 9 (excellent)"
+            },
+            "text": {
+              "local": "Historian tietolähteiden tunnistaminen: Oppilas antaa esimerkkejä, miten alkuperäislähteet eroavat toisen käden lähteistä opiskeltavilla aikakausilla.\nHistoriatiedon tulkinnallisuuden havaitseminen: Oppilas antaa esimerkkejä samaan tapahtumaan tai ilmiöön liittyvistä erilaisista tulkinnoista.\nKronologian ymmärrys: Oppilas kuvailee asioita, joiden perusteella tehdään historiallisia aikakausijakoja.\nHistoriallinen empatia: Oppilas asettautuu menneen ajan ihmisen asemaan ja tarkastelee, miten hänen yhteiskunnallinen asemansa vaikuttaa hänen toimintaansa.\nSyy- ja seuraussuhteiden hahmottaminen historiassa: Oppilas tunnistaa erilaisia syitä (suoria ja epäsuoria) ja seurauksia (lyhyt- ja pitkäkestoisia) menneisyydessä tapahtuneille asioille.\nMuutoksen hahmottaminen: Oppilas antaa esimerkkejä tilanteista, joissa eri ihmisille tai ihmisryhmille muutos ei ole sama asia kuin edistys.\nJatkuvuuden tunnistaminen: Oppilas kertoo syitä, miksi jokin asia ei ole muuttunut eri aikoina.\nSyy- ja seuraussuhteen kuvaileminen: Oppilas vertailee erilaisten syiden vaikutuksia muutokseen.\nTulkintojen selittäminen: Oppilas vertailee samasta historian tapahtumasta tai ilmiöstä tehtyjä tulkintoja ja kertoo, miten lähteiden valinta vaikuttaa tulkintaan.\nIhmisen toiminnan selittäminen: Oppilas analysoi ihmisten toiminnan motiiveja ja esittää kuvauksen siitä, miten yhteiskunnallinen asema vaikuttaa ihmisten toimintaan.",
+              "en": ""
+            }
           }
         ]
       },
@@ -354,7 +470,14 @@
               "local": "T1 vahvistaa oppilaan kiinnostusta historiasta tiedonalana ja identiteettiä rakentavana oppiaineena",
               "en": "T1 strengthen the pupil's interest in history as a field of knowledge and as a subject that builds identity"
             },
-            "coreElements": ["S6", "S1", "S3", "S2", "S5", "S4"],
+            "coreElements": [
+              "S6",
+              "S1",
+              "S3",
+              "S2",
+              "S5",
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -363,7 +486,14 @@
               "local": "T2 aktivoida oppilasta hankkimaan historiallista tietoa sekä arvioimaan tiedonlähteiden luotettavuutta",
               "en": "T2 activate the pupil to acquire historical knowledge and to evaluate the reliability of sources"
             },
-            "coreElements": ["S6", "S1", "S3", "S2", "S5", "S4"],
+            "coreElements": [
+              "S6",
+              "S1",
+              "S3",
+              "S2",
+              "S5",
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -372,7 +502,14 @@
               "local": "T3 auttaa oppilasta ymmärtämään, että historiallista tietoa voidaan tulkita eri tavoin",
               "en": "T3 help the pupil understand that historical knowledge can be interpreted in different ways"
             },
-            "coreElements": ["S6", "S1", "S3", "S2", "S5", "S4"],
+            "coreElements": [
+              "S6",
+              "S1",
+              "S3",
+              "S2",
+              "S5",
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -381,7 +518,14 @@
               "local": "T4 vahvistaa oppilaan kykyä ymmärtää historiallista aikaa ja siihen liittyviä käsitteitä",
               "en": "T4 strengthen the pupil's ability to understand historical time and related concepts"
             },
-            "coreElements": ["S6", "S1", "S3", "S2", "S5", "S4"],
+            "coreElements": [
+              "S6",
+              "S1",
+              "S3",
+              "S2",
+              "S5",
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -390,7 +534,14 @@
               "local": "T5 ohjata oppilasta ymmärtämään ihmisen toimintaan ja päätöksentekoon vaikuttaneita tekijöitä erilaisissa historiallisissa tilanteissa",
               "en": "T5 guide the pupil to understand the factors that have influenced human actions and decision-making in various historical situations"
             },
-            "coreElements": ["S6", "S1", "S3", "S2", "S5", "S4"],
+            "coreElements": [
+              "S6",
+              "S1",
+              "S3",
+              "S2",
+              "S5",
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -399,7 +550,14 @@
               "local": "T6 auttaa oppilasta arvioimaan erilaisia syitä historiallisille tapahtumille ja ilmiöille",
               "en": "T6 help the pupil evaluate various causes of historical events and phenomena"
             },
-            "coreElements": ["S6", "S1", "S3", "S2", "S5", "S4"],
+            "coreElements": [
+              "S6",
+              "S1",
+              "S3",
+              "S2",
+              "S5",
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -408,7 +566,14 @@
               "local": "T7 ohjata oppilasta analysoimaan historiallista muutosta ja jatkuvuutta",
               "en": "T7 guide the pupil to analyse historical change and continuity"
             },
-            "coreElements": ["S6", "S1", "S3", "S2", "S5", "S4"],
+            "coreElements": [
+              "S6",
+              "S1",
+              "S3",
+              "S2",
+              "S5",
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -417,7 +582,14 @@
               "local": "T8 kannustaa oppilasta tulkintojen tekemiseen",
               "en": "T8 encourage the pupil to make interpretations"
             },
-            "coreElements": ["S6", "S1", "S3", "S2", "S5", "S4"],
+            "coreElements": [
+              "S6",
+              "S1",
+              "S3",
+              "S2",
+              "S5",
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -426,7 +598,14 @@
               "local": "T9 ohjata oppilasta selittämään ihmisen toiminnan tarkoitusperiä",
               "en": "T9 guide the pupil to explain the purposes behind human actions"
             },
-            "coreElements": ["S6", "S1", "S3", "S2", "S5", "S4"],
+            "coreElements": [
+              "S6",
+              "S1",
+              "S3",
+              "S2",
+              "S5",
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -435,7 +614,14 @@
               "local": "T10 ohjata oppilasta selittämään, miksi historiallista tietoa voidaan tulkita ja käyttää eri tavoin eri tilanteissa ja arvioimaan kriittisesti tulkintojen luotettavuutta",
               "en": "T10 guide the pupil to explain why historical knowledge can be interpreted and used differently in different situations and to critically evaluate the reliability of interpretations"
             },
-            "coreElements": ["S6", "S1", "S3", "S2", "S5", "S4"],
+            "coreElements": [
+              "S6",
+              "S1",
+              "S3",
+              "S2",
+              "S5",
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -444,7 +630,14 @@
               "local": "T11 harjaannuttaa oppilasta käyttämään erilaisia lähteitä, vertailemaan niitä ja muodostamaan oman perustellun tulkintansa niiden pohjalta",
               "en": "T11 train the pupil to use different sources, compare them and form their own reasoned interpretation based on them"
             },
-            "coreElements": ["S6", "S1", "S3", "S2", "S5", "S4"],
+            "coreElements": [
+              "S6",
+              "S1",
+              "S3",
+              "S2",
+              "S5",
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -453,8 +646,61 @@
               "local": "T12 ohjata oppilasta arvioimaan tulevaisuuden vaihtoehtoja historiatietämyksensä avulla",
               "en": "T12 guide the pupil to evaluate future alternatives using their knowledge of history"
             },
-            "coreElements": ["S6", "S1", "S3", "S2", "S5", "S4"],
+            "coreElements": [
+              "S6",
+              "S1",
+              "S3",
+              "S2",
+              "S5",
+              "S4"
+            ],
             "verbs": []
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "5",
+            "label": {
+              "local": "Arvosana 5 (välttävä)",
+              "en": "Grade 5 (passable)"
+            },
+            "text": {
+              "local": "Historiatiedon hankkiminen ja lähteiden tulkinnallisuuden ymmärtäminen: Oppilas löytää ohjatusti historian tapahtumaan tai ilmiöön liittyvää informaatiota hänelle annetusta lähteestä. \nOppilas tunnistaa opettajan ohjaamana, että samasta ilmiöstä tai lähteestä esiintyy erilaisia tulkintoja.\nHistoriatiedon hankkiminen ja lähteiden tulkinnallisuuden ymmärtäminen: Oppilas löytää ohjatusti historian tapahtumaan tai ilmiöön liittyvää informaatiota hänelle annetusta lähteestä.\nOppilas tunnistaa opettajan ohjaamana, että samasta ilmiöstä tai lähteestä esiintyy erilaisia tulkintoja.\nKronologian ymmärtäminen: Oppilas tunnistaa historian keskeisiä sisällöllisiä käsitteitä ja pystyy opettajan ohjaamana suhteuttamaan ne ajallisesti toisiinsa.\nHistoriallinen empatia: Oppilas tunnistaa, että ihmisillä on ollut erilaisia motiiveja toiminnalleen.\nSyy-seuraussuhteiden ymmärtäminen historiassa sekä muutoksen ja jatkuvuuden ymmärtäminen: Oppilas tunnistaa menneisyydestä asioita, jotka ovat muuttuneet tai pysyneet muuttumattomina. \n\nOppilas nimeää muutokselle tai muuttumattomuudelle jonkin yksittäisen syyn.\nSyy-seuraussuhteiden ymmärtäminen historiassa sekä muutoksen ja jatkuvuuden ymmärtäminen: Oppilas tunnistaa menneisyydestä asioita, jotka ovat muuttuneet tai pysyneet muuttumattomina. \n\nOppilas nimeää muutokselle tai muuttumattomuudelle jonkin yksittäisen syyn.\nIhmisen toiminnan selittäminen: Oppilas osoittaa ohjatusti, miten ihmisen toimin-nan motiivi näkyy jossain historian tapahtumassa tai ilmiössä.\nHistoriallisten tulkintojen selittäminen ja niiden luotettavuuden arvioiminen: Oppilas antaa ohjatusti jonkin esimerkin siitä, miten historiatietoa käytetään johonkin tarkoitukseen.\nHistorian tietolähteiden käyttäminen ja historiatiedon tuottaminen: Oppilas vastaa ohjatusti menneisyyttä koskeviin kysymyksiin hänelle annetun tietolähteen pohjalta. \n\nOppilas muodostaa opettajan ohjaamana jostain lähteestä tulkinnan.\nHistoriatietoisuuden hyödyntäminen: Oppilas osoittaa ohjatusti, miten historiaa käytetään nykyisyyden selittämisessä.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "7",
+            "label": {
+              "local": "Arvosana 7 (tyydyttävä)",
+              "en": "Grade 7 (satisfactory)"
+            },
+            "text": {
+              "local": "Historiatiedon hankkiminen ja lähteiden tulkinnallisuuden ymmärtäminen: Oppilas hankkii historian tapahtumaan tai ilmiöön liittyvää tietoa erilaisista lähteistä sekä tunnistaa lähteiden luotettavuudessa ja esi-tetyissä tulkinnoissa eroja.\nHistoriatiedon hankkiminen ja lähteiden tulkinnallisuuden ymmärtäminen: Oppilas hankkii historian tapahtumaan tai ilmiöön liittyvää tietoa erilaisista lähteistä sekä tunnistaa lähteiden luotettavuudessa ja esitetyissä tulkinnoissa eroja.\nKronologian ymmärtäminen: Oppilas muistaa menneisyyteen liittyviä keskeisiä sisällöllisiä käsitteitä ja antaa joitain esimerkkejä tarkasteltavana olevalle historialliselle ajanjaksolle ominaisista piirteistä.\nHistoriallinen empatia: Oppilas tunnistaa, miten ihmisten sosiaalinen ja yhteiskunnallinen asema vaikuttavat heidän tekojensa motiiveihin.\nSyy-seuraussuhteiden ymmärtäminen historiassa sekä muutoksen ja jatkuvuuden ymmärtäminen: Oppilas tunnistaa, että historiassa selittäminen perustuu toimijoiden tarkoitusperien analysointiin. \n\nOppilas tunnistaa syitä ja seurauksia historiallisille tapahtumille ja ilmiöille.\nOppilas selittää yksilöllisesti ohjeistettuna, miksi joillain elämänalueilla toimittiin ennen toisin kuin nykyään.\nSyy-seuraussuhteiden ymmärtäminen historiassa sekä muutoksen ja jatkuvuuden ymmärtäminen: Oppilas tunnistaa, että historiassa selittäminen perustuu toimijoiden tarkoitusperien analysointiin. \n\nOppilas tunnistaa syitä ja seurauksia historiallisille tapahtumille ja ilmiöille.\n\nOppilas selittää yksilöllisesti ohjeistettuna, miksi joillain elämänalueilla toimittiin ennen toisin kuin nykyään.\nIhmisen toiminnan selittäminen: Oppilas kuvailee, miten ihmisten taustat vaikuttavat heidän toimintansa motiiveihin.\nHistoriallisten tulkintojen selittäminen ja niiden luotettavuuden arvioiminen: Oppilas kuvailee, miten historiatietoa käytetään johonkin tarkoitukseen ja antaa esimerkkejä tulkintoihin sisältyvästä puolueellisuudesta.\nHistorian tietolähteiden käyttäminen ja historiatiedon tuottaminen: Oppilas esittää jonkin tulkinnan hyödyntäen käytössään olevia lähteitä.\nHistoriatietoisuuden hyödyntäminen: Oppilas kuvailee, miten historiaa käytetään nykyisyyden selittämisessä.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "8",
+            "label": {
+              "local": "Arvosana 8 (hyvä)",
+              "en": "Grade 8 (good)"
+            },
+            "text": {
+              "local": "Historiatiedon hankkiminen ja lähteiden tulkinnallisuuden ymmärtäminen: Oppilas hankkii historian tapahtumaan tai ilmiöön liittyvää tietoa erilaisista lähteistä sekä erottelee vähemmän ja enemmän luotettavia lähteitä ja tulkintoja toisistaan.\nHistoriatiedon hankkiminen ja lähteiden tulkinnallisuuden ymmärtäminen: Oppilas hankkii historian tapahtumaan tai ilmiöön liittyvää tietoa erilaisista lähteistä sekä erottelee vähemmän ja enemmän luotettavia lähteitä ja tulkintoja toisistaan.\nKronologian ymmärtäminen: Oppilas käyttää menneisyyteen liittyviä keskeisiä sisällöllisiä käsitteitä ja kuvaa tarkasteltavana olevalle historialliselle ajanjaksolle ominaisia piir-teitä.\nHistoriallinen empatia: Oppilas tulkitsee ihmisten toimin-nan tarkoituspe-riä ja erittelee, miten ihmisten sosiaalinen ja yhteiskunnallinen asema tai historiallinen konteksti vaikuttavat hänen toimintaansa.\nSyy-seuraussuhteiden ymmärtäminen historiassa sekä muutoksen ja jatkuvuuden ymmärtäminen: Oppilas ymmärtää, että historiassa selittäminen perustuu toimijoiden tarkoitusperien analysointiin. \n\nOppilas ymmärtää, että historiallisilla tapahtumilla ja ilmiöillä on erilaisia syitä ja seurauksia, ja antaa niistä esimerkkejä. \n\nOppilas erittelee, miksi joillain elämänalueilla toimittiin ennen toisin tai samoin kuin nykyään.\nSyy-seuraussuhteiden ymmärtäminen historiassa sekä muutoksen ja jatkuvuuden ymmärtäminen: Oppilas ymmärtää, että historiassa selittäminen perustuu toimijoiden tarkoitusperien analysointiin. \n\nOppilas ymmärtää, että historiallisilla tapahtumilla ja ilmiöillä on erilaisia syitä ja seurauksia, ja antaa niistä esimerkkejä. \n\nOppilas erittelee, miksi joillain elämänalueilla toimittiin ennen toisin tai samoin kuin nykyään.\nIhmisen toiminnan selittäminen: Oppilas esittää päätelmän, miten ihmisten taustat vaikuttavat heidän toi-mintansa motiiveihin.\nHistoriallisten tulkintojen selittäminen ja niiden luotettavuuden arvioiminen: Oppilas kuvailee, miten historiatie-toa käytetään johonkin tarkoitukseen ja erittelee tulkintoihin sisältyvää puolueellisuutta.\nHistorian tietolähteiden käyttäminen ja historiatiedon tuottaminen: Oppilas vastaa menneisyyttä koskeviin kysymyksiin tulkitsemalla erilaisista lähteistä samaansa informaatiota. \nOppilas esittää historian tapahtumista tai ilmiöistä omia perusteltuja tulkintoja.\nHistoriatietoisuuden hyödyntäminen: Oppilas kuvailee, miten historiatiedolla voidaan perustella jokin tulevaisuuden valinta.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "9",
+            "label": {
+              "local": "Arvosana 9 (kiitettävä)",
+              "en": "Grade 9 (excellent)"
+            },
+            "text": {
+              "local": "Historiatiedon hankkiminen ja lähteiden tulkinnallisuuden ymmärtäminen: Oppilas käyttää erilaisia lähteitä ja erottaa tutkittavaan ilmiöön liittyvät lähteet muista lähteistä. \n\nOppilas selittää, miten samoista lähteistä voi teh-dä erilaisia tulkintoja, ja arvioi tulkintojen mahdollisia puutteita.\nHistoriatiedon hankkiminen ja lähteiden tulkinnallisuuden ymmärtäminen: Oppilas käyttää erilaisia lähteitä-ja erottaa tutkittavaan ilmiöön liittyvät lähteet muista lähteistä.\nOppilas selittää, miten samoista lähteistä voi tehdä erilaisia tulkintoja, ja arvioi tulkintojen mahdollisia puutteita.\nKronologian ymmärtäminen: Oppilas jäsentää historiallisten tapahtumien, ilmiöiden ja ajanjaksojen aikajärjestyksen ja ajallisia yhteyksiä. \nOppilas käyttää aikaan liittyviä käsitteitä ja erittelee historian keskeisiin ajanjaksoihin liittyviä tapahtumia, henkilöitä ja ilmiöitä.\nHistoriallinen empatia: Oppilas asettautuu menneen ajan ihmisen asemaan, arvioi \nhänen toimintansa motiiveja sekä tarkastelee sitä, miten hänen sosiaalinen tai yhteiskunnallinen asemansa tai historiallinen konteksti vaikuttavat hänen toimintaansa.\nSyy-seuraussuhteiden ymmärtäminen historiassa sekä muutoksen ja jatkuvuuden ymmärtäminen: Oppilas erottelee historiallisia tapahtumia tai ilmiöitä selittävät keskeiset tekijät vähemmän tärkeistä ja analysoi historiallisten tapahtumien syitä ja seurauksia (kuten välittömien ja pitkäkestoisten syiden merkitystä). \n\nOppilas arvioi, miksi joillain elämänalueilla toimittiin ennen samoin tai toisin kuin nykyään ja miten tapahtuman tai ilmiön seuraukset vaikuttivat eri lailla eri asemassa oleviin ihmisiin ja ihmisryhmiin.\nSyy-seuraussuhteiden ymmärtäminen historiassa sekä muutoksen ja jatkuvuuden ymmärtäminen: Oppilas erottelee historiallisia tapahtumia tai ilmiöitä selittävät keskeiset tekijät vähemmän tärkeistä ja analysoi historiallisten tapahtumien syitä ja seurauksia (kuten välittömien ja pitkäkestoisten syiden merkitystä). \n\nOppilas arvioi, miksi joillain elämänalueilla toimittiin ennen samoin tai toisin kuin nykyään ja miten tapahtuman tai ilmiön seuraukset vaikuttivat eri lailla eri asemassa oleviin ihmisiin ja ihmisryhmiin.\nIhmisen toiminnan selittäminen: Oppilas selittää ihmisen toimin-nan motiiveja sekä sitä, miten ihmisten taustat ja historiallinen konteksti vaikuttavat niihin.\nHistoriallisten tulkintojen selittäminen ja niiden luotettavuuden arvioiminen: Oppilas selittää, miten historiatie-toa käytetään johonkin tarkoitukseen ja miten lähteiden tulkitsijan tausta voi vaikuttaa tulkinnan luotettavuuteen.\nHistorian tietolähteiden käyttäminen ja historiatiedon tuottaminen: Oppilas tulkitsee erilaisia historiallisen tiedon lähteitä. \n\nOppilas esittää historian tapahtumista tai ilmiöistä omia perusteltuja tulkintoja osoittaen tunnistavansa tulkintoihinsa liittyvän virhetulkinnan mahdollisuuden.\nHistoriatietoisuuden hyödyntäminen: Oppilas esittää arvion siitä, miten tulkinnat menneisyydestä vaikuttavat ihmisten tulevaisuuden odotuksiin ja valintoihin.",
+              "en": ""
+            }
           }
         ]
       }

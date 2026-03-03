@@ -158,6 +158,40 @@ def build_kohdealue_map(kohdealueet: list[dict]) -> dict[int, str]:
     return result
 
 
+ARVOSANA_LABELS = {
+    5: {"local": "Arvosana 5 (välttävä)", "en": "Grade 5 (passable)"},
+    7: {"local": "Arvosana 7 (tyydyttävä)", "en": "Grade 7 (satisfactory)"},
+    8: {"local": "Arvosana 8 (hyvä)", "en": "Grade 8 (good)"},
+    9: {"local": "Arvosana 9 (kiitettävä)", "en": "Grade 9 (excellent)"},
+}
+
+
+def extract_knowledge_criteria(tavoitteet: list[dict]) -> list[dict]:
+    grouped: dict[int, list[str]] = {}
+    for t in tavoitteet:
+        dimension = clean_html(get_fi(t.get("arvioinninKuvaus"))) if t.get("arvioinninKuvaus") else ""
+        for kohde in t.get("arvioinninkohteet", []):
+            arvosana = kohde.get("arvosana")
+            if arvosana is None:
+                continue
+            desc = clean_html(get_fi(kohde.get("osaamisenKuvaus", {})))
+            if not desc:
+                continue
+            entry = f"{dimension}: {desc}" if dimension else desc
+            grouped.setdefault(arvosana, []).append(entry)
+
+    criteria = []
+    for arvosana in sorted(grouped.keys()):
+        label = ARVOSANA_LABELS.get(arvosana, {"local": f"Arvosana {arvosana}", "en": f"Grade {arvosana}"})
+        text = "\n".join(grouped[arvosana])
+        criteria.append({
+            "gradeStep": str(arvosana),
+            "label": label,
+            "text": {"local": text, "en": ""},
+        })
+    return criteria
+
+
 def process_vuosiluokkakokonaisuudet(
     vlk_list: list[dict],
     kohdealue_map: dict[int, str],
@@ -231,16 +265,23 @@ def process_vuosiluokkakokonaisuudet(
                 "verbs": [],
             })
 
-        grade_bands.append({
+        knowledge_criteria = extract_knowledge_criteria(vlk.get("tavoitteet", []))
+
+        band = {
             "afterGrade": vlk_info["afterGrade"],
             "label": {
                 "local": vlk_info["local"],
                 "en": vlk_info["en"],
             },
             "competenceGoals": goals,
-        })
+        }
 
-        print(f"  Grade {vlk_info['afterGrade']}: {len(goals)} goals")
+        if knowledge_criteria:
+            band["knowledgeCriteria"] = knowledge_criteria
+
+        grade_bands.append(band)
+
+        print(f"  Grade {vlk_info['afterGrade']}: {len(goals)} goals, {len(knowledge_criteria)} assessment criteria")
 
     grade_bands.sort(key=lambda b: b["afterGrade"])
     return grade_bands

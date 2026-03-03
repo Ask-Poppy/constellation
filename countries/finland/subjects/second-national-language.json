@@ -4,8 +4,12 @@
     "api": "https://eperusteet.opintopolku.fi/eperusteet-service/api/external/peruste/419550/perusopetus/oppiaineet/605630",
     "curriculum": "POPS 2014",
     "license": "Open Government Data (Finland)",
-    "lastSynced": "2026-03-03T08:59:01Z",
-    "aiEnriched": ["description.en", "interdisciplinaryThemes", "basicSkills"]
+    "lastSynced": "2026-03-03T16:02:22Z",
+    "aiEnriched": [
+      "description.en",
+      "interdisciplinaryThemes",
+      "basicSkills"
+    ]
   },
   "subject": {
     "code": "TK",
@@ -169,7 +173,9 @@
               "local": "T1 kannustaa oppilasta kiinnostumaan lähiympäristön, Suomen ja Pohjoismaiden kielellisestä ja kulttuurisesta runsaudesta sekä suomen ja ruotsin asemasta kansalliskielinä",
               "en": "T1 encourage the pupil to take an interest in the linguistic and cultural richness of the immediate environment, Finland, and the Nordic countries, as well as the status of Finnish and Swedish as national languages"
             },
-            "coreElements": ["S1"],
+            "coreElements": [
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -178,7 +184,9 @@
               "local": "T2 motivoida oppilasta arvostamaan omaa kieli- ja kulttuuritaustaansa sekä maailman kielellistä ja kulttuurista moninaisuutta ja kohtaamaan ihmisiä ilman arvottavia ennakko-oletuksia",
               "en": "T2 motivate the pupil to value their own linguistic and cultural background as well as the linguistic and cultural diversity of the world, and to encounter people without prejudicial assumptions"
             },
-            "coreElements": ["S1"],
+            "coreElements": [
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -187,7 +195,9 @@
               "local": "T3 ohjata oppilasta havaitsemaan kieliä yhdistäviä ja erottavia ilmiöitä sekä tukea oppilaan kielellisen uteliaisuuden ja päättelykyvyn kehittymistä",
               "en": "T3 guide the pupil to notice phenomena that connect and distinguish languages, and to support the development of the pupil's linguistic curiosity and reasoning ability"
             },
-            "coreElements": ["S1"],
+            "coreElements": [
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -196,7 +206,9 @@
               "local": "T4 ohjata oppilasta löytämään ruotsinkielistä aineistoa",
               "en": "T4 guide the pupil to find Swedish-language material"
             },
-            "coreElements": ["S1"],
+            "coreElements": [
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -205,7 +217,9 @@
               "local": "T5 tutustua yhdessä opetuksen tavoitteisiin ja luoda salliva opiskeluilmapiiri, jossa tärkeintä on viestin välittyminen sekä kannustava yhdessä oppiminen",
               "en": "T5 explore the learning objectives together and create a permissive study atmosphere in which the most important thing is getting the message across and supportive collaborative learning"
             },
-            "coreElements": ["S2"],
+            "coreElements": [
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -214,7 +228,9 @@
               "local": "T6 ohjata oppilasta ottamaan vastuuta omasta kielenopiskelustaan ja kannustaa oppilasta harjaannuttamaan kielitaitoaan rohkeasti ja myös tieto- ja viestintäteknologiaa käyttäen sekä kokeilla, millaiset tavat oppia kieliä sopivat kullekin parhaiten",
               "en": "T6 guide the pupil to take responsibility for their own language learning and encourage the pupil to practise their language skills boldly, including through the use of information and communication technology, and to try out which ways of learning languages suit each pupil best"
             },
-            "coreElements": ["S2"],
+            "coreElements": [
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -223,7 +239,9 @@
               "local": "T7 järjestää oppilaalle tilaisuuksia harjoitella eri viestintäkanavia käyttäen suullista ja kirjallista viestintää ja vuorovaikutusta",
               "en": "T7 provide the pupil with opportunities to practise oral and written communication and interaction using different communication channels"
             },
-            "coreElements": ["S3"],
+            "coreElements": [
+              "S3"
+            ],
             "verbs": []
           },
           {
@@ -232,7 +250,9 @@
               "local": "T8 tukea oppilasta kielellisten viestintästrategioiden käytössä",
               "en": "T8 support the pupil in the use of linguistic communication strategies"
             },
-            "coreElements": ["S3"],
+            "coreElements": [
+              "S3"
+            ],
             "verbs": []
           },
           {
@@ -241,7 +261,9 @@
               "local": "T9 auttaa oppilasta laajentamaan kohteliaaseen kielenkäyttöön kuuluvien ilmausten tuntemustaan",
               "en": "T9 help the pupil to expand their knowledge of expressions associated with polite language use"
             },
-            "coreElements": ["S3"],
+            "coreElements": [
+              "S3"
+            ],
             "verbs": []
           },
           {
@@ -250,7 +272,9 @@
               "local": "T10 rohkaista oppilasta tulkitsemaan ikätasolleen sopivia ja itseään kiinnostavia puhuttuja ja kirjoitettuja tekstejä",
               "en": "T10 encourage the pupil to interpret spoken and written texts that are appropriate to their age level and of personal interest"
             },
-            "coreElements": ["S3"],
+            "coreElements": [
+              "S3"
+            ],
             "verbs": []
           },
           {
@@ -259,8 +283,56 @@
               "local": "T11 tarjota oppilaalle runsaasti tilaisuuksia harjoitella ikätasolle sopivaa pienimuotoista puhumista ja kirjoittamista kiinnittäen huomiota myös ääntämiseen ja tekstin sisällön kannalta oleellisimpiin rakenteisiin",
               "en": "T11 provide the pupil with ample opportunities to practise age-appropriate small-scale speaking and writing, paying attention also to pronunciation and the structures most essential for the content of the text"
             },
-            "coreElements": ["S3"],
+            "coreElements": [
+              "S3"
+            ],
             "verbs": []
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "5",
+            "label": {
+              "local": "Arvosana 5 (välttävä)",
+              "en": "Grade 5 (passable)"
+            },
+            "text": {
+              "local": "Suomen ja Pohjoismaiden kielellisen ja kulttuurisen ympäristön sekä suomen ja ruotsin kielen aseman ja merkityksen tunteminen Suomessa: Oppilas osaa nimetä Suomen kansalliskielet ja hänen lähiympäristössään käytettyjä kieliä.  \n\nOppilas osaa antaa esimerkin suomenruotsalaiseen ja pohjoismaiseen kulttuuriin kuuluvasta asiasta.\nKielellinen päättely: Oppilas osaa nimetä jonkin yhtäläisyyden ja jonkin eron ruotsin kielen ja äidinkielensä tai muun osaamansa kielen välillä.\nRuotsinkielisen aineiston löytäminen: Oppilas osaa antaa esimerkin jostakin itselleen sopivasta ruotsinkielisestä aineistosta.\nRuotsin kielen opiskelun tavoitteista kertominen ja ryhmässä toimiminen: Oppilas osaa nimetä jonkin tavoitteen ruotsin kielen opiskelulleen.\n\nOppilas osallistuu toisinaan ryhmän toimintaan ja tekee yhteistyötä.\nVastuun ottaminen ruotsin kielen opiskelusta ja sopivien kielen oppimistapojen löytäminen: Oppilas ottaa ohjattuna jonkin verran vastuuta ruotsin kielen opiskelustaan.\n\nOppilas osaa käyttää jotakin tapaa, mukaan lukien tieto- ja viestintäteknologiaa, oppiakseen ruotsin kieltä ja muita kieliä.\nVuorovaikutus erilaisissa tilanteissa: Taitotaso A1.1:\n\nOppilas selviytyy satunnaisesti viestintäkumppanin tukemana muutamasta, kaikkein yleisimmin toistuvasta ja rutiininomaisesta viestintätilanteesta.\nViestintästrategioiden käyttö: Taitotaso A1.1: \n\nOppilas tarvitsee paljon apukeinoja (esim. eleet, piirtäminen, sanastot, internet).\n \nOppilas osaa joskus arvailla tai päätellä yksittäisten sanojen merkityksiä asiayhteyden, yleistiedon tai muun kielitaitonsa perusteella. \n\nOppilas osaa ilmaista, onko ymmärtänyt.\nViestinnän kulttuurinen sopivuus: Taitotaso A1.1:\n\nOppilas osaa käyttää muutamia kielelle ja kulttuurille tyypillisimpiä kohteliaisuuden ilmauksia (tervehtiminen, hyvästely, kiittäminen) joissakin kaikkein rutiininomaisimmissa sosiaalisissa kontakteissa.\nTekstien tulkintataidot: Taitotaso A1.1:Oppilas ymmärtää vähäisen määrän yksittäisiä puhuttuja ja kirjoitettuja sanoja ja ilmauksia. Oppilas tuntee kirjainjärjestelmän tai hyvin rajallisen määrän kirjoitusmerkkejä.\nTekstien tuottamistaidot: Taitotaso A1.1:\n\nOppilas osaa ilmaista itseään puheessa hyvin suppeasti käyttäen harjoiteltuja sanoja ja opeteltuja vakioilmaisuja.\n\nOppilas ääntää joitakin harjoiteltuja ilmauksia ymmärrettävästi ja osaa kirjoittaa joitakin erillisiä sanoja ja sanontoja.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "7",
+            "label": {
+              "local": "Arvosana 7 (tyydyttävä)",
+              "en": "Grade 7 (satisfactory)"
+            },
+            "text": {
+              "local": "Suomen ja Pohjoismaiden kielellisen ja kulttuurisen ympäristön sekä suomen ja ruotsin kielen aseman ja merkityksen tunteminen Suomessa: Oppilas osaa kertoa Suomen kansalliskielistä ja hänen lähiympäristössään ja Pohjoismaissa käytetyistä kielistä.  \n\nOppilas osaa antaa joitakin esimerkkejä suomenruotsalaiselle ja pohjoismaiselle kulttuurille tyypillisistä asioista.\nKielellinen päättely: Oppilas osaa antaa esimerkkejä yhtäläisyyksistä ja eroista ruotsin kielen ja äidinkielensä tai muun osaamansa kielen välillä.\nRuotsinkielisen aineiston löytäminen: Oppilas osaa antaa esimerkkejä itseään kiinnostavista ruotsinkielisistä aineistoista.\nRuotsin kielen opiskelun tavoitteista kertominen ja ryhmässä toimiminen: Oppilas osaa antaa joitakin esimerkkejä ruotsin kielen opiskelun tavoitteistaan.\n\nOppilas osallistuu ryhmän toimintaan ja tekee yhteistyötä.\nVastuun ottaminen ruotsin kielen opiskelusta ja sopivien kielen oppimistapojen löytäminen: Oppilas ottaa jonkin verran vastuuta ruotsin kielen opiskelustaan. \n\nOppilas osaa käyttää joitakin tapoja, mukaan lukien tieto- ja viestintäteknologiaa, oppiakseen ruotsin kieltä ja muita kieliä.\nVuorovaikutus erilaisissa tilanteissa: Taitotaso A1.2:\n\nOppilas selviytyy satunnaisesti yleisimmin toistuvista, rutiininomaisista viestintätilanteista tukeutuen vielä enimmäkseen viestintäkumppaniin.\nViestintästrategioiden käyttö: Taitotaso A1.2:\n\nOppilas tukeutuu viestinnässään kaikkein keskeisimpiin sanoihin ja ilmauksiin. \n\nOppilas tarvitsee paljon apukeinoja.\n\nOppilas osaa pyytää toistamista tai hidastamista.\nViestinnän kulttuurinen sopivuus: Taitotaso A1.2:\n\nOppilas osaa käyttää muutamia kaikkein yleisimpiä kielelle ominaisia kohteliaisuuden ilmauksia rutiininomaisissa sosiaalisissa kontakteissa.\nTekstien tulkintataidot: Taitotaso A1.2:\n\nOppilas ymmärtää harjoiteltua, tuttua sanastoa ja ilmaisuja sisältävää muutaman sanan mittaista kirjoitettua tekstiä ja hidasta puhetta. \n\nOppilas tunnistaa tekstistä yksittäisiä tietoja.\nTekstien tuottamistaidot: Taitotaso A1.2:\n\nOppilas pystyy kertomaan joistakin tutuista ja itselleen tärkeistä asioista käyttäen suppeaa ilmaisuvarastoa ja kirjoittaa muutaman lyhyen lauseen harjoitelluista aiheista.\n\nOppilas ääntää useimmat harjoitellut ilmaisut ymmärrettävästi. \n\nOppilas hallitsee hyvin suppean perussanaston ja muutaman tilannesidonnaisen ilmauksen sekä peruskieliopin aineksia.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "8",
+            "label": {
+              "local": "Arvosana 8 (hyvä)",
+              "en": "Grade 8 (good)"
+            },
+            "text": {
+              "local": "Suomen ja Pohjoismaiden kielellisen ja kulttuurisen ympäristön sekä suomen ja ruotsin kielen aseman ja merkityksen tunteminen Suomessa: Oppilas osaa kertoa taustatekijöistä, jotka vaikuttavat siihen, miksi Suomessa puhutaan ruotsia, sekä siitä, mitä muita pohjoismaisia kieliä on ja missä niitä puhutaan. \n\nOppilas osaa kertoa suomenruotsalaiselle ja pohjoismaisille kulttuureille tyypillisistä asioista.\n\nOppilas osaa kertoa, missä maissa tulee ymmärretyksi ruotsin kielellä.\nKielellinen päättely: Oppilas osaa kertoa yhtäläisyyksistä ja eroista ruotsin kielen ja äidinkielensä tai muun osaamansa kielen välillä. \n\nOppilas osaa nimetä joitakin kielellistä päättelyä tukevia strategioita.\nRuotsinkielisen aineiston löytäminen: Oppilas osaa kertoa ruotsinkielisistä aineistoista, jotka ovat hänelle sopivia ja jotka kiinnostavat häntä.\nRuotsin kielen opiskelun tavoitteista kertominen ja ryhmässä toimiminen: Oppilas osaa kertoa ruotsin kielen opiskelun tavoitteistaan.\n\nOppilas osallistuu ryhmän toimintaan ja tekee yhteistyötä kannustavasti.\nVastuun ottaminen ruotsin kielen opiskelusta ja sopivien kielen oppimistapojen löytäminen: Oppilas ottaa melko paljon vastuuta ruotsin kielen opiskelustaan.\n\nOppilas osaa käyttää useita oppimistaan edistäviä tapoja, mukaan lukien tieto- ja viestintäteknologiaa, oppiakseen ruotsin kieltä ja muita kieliä.\nVuorovaikutus erilaisissa tilanteissa: Taitotaso A1.3:\n\nOppilas selviytyy monista rutiininomaisista viestintätilanteista tukeutuen joskus viestintäkumppaniin.\nViestintästrategioiden käyttö: Taitotaso A1.3:\n\nOppilas osallistuu viestintään, mutta tarvitsee vielä usein apukeinoja. \n\nOppilas osaa reagoida suppein sanallisin ilmauksin, pienin elein (esim. nyökkäämällä), äännähdyksin, tai muunlaisella minimipalautteella. \n\nOppilas joutuu pyytämään selvennystä tai toistoa hyvin usein.\nViestinnän kulttuurinen sopivuus: Taitotaso A1.3: \n\nOppilas osaa käyttää yleisimpiä kohteliaaseen kielenkäyttöön kuuluvia ilmauksia monissa rutiininomaisissa sosiaalisissa tilanteissa.\nTekstien tulkintataidot: Taitotaso A1.3:\n\nOppilas ymmärtää yksinkertaista, tuttua sanastoa ja ilmaisuja sisältävää kirjoitettua tekstiä ja hidasta puhetta asiayhteyden tukemana. \n\nOppilas pystyy löytämään tarvitsemansa yksinkertaisen tiedon lyhyestä tekstistä.\nTekstien tuottamistaidot: Taitotaso A1.3:\n\nOppilas osaa rajallisen määrän lyhyitä, ulkoa opeteltuja ilmauksia, keskeistä sanastoa ja perustason lauserakenteita.\n\nOppilas pystyy kertomaan arkisista ja itselleen tärkeistä asioista käyttäen suppeaa ilmaisuvarastoa ja kirjoittamaan yksinkertaisia viestejä.\n\nOppilas ääntää harjoitellut ilmaisut ymmärrettävästi.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "9",
+            "label": {
+              "local": "Arvosana 9 (kiitettävä)",
+              "en": "Grade 9 (excellent)"
+            },
+            "text": {
+              "local": "Suomen ja Pohjoismaiden kielellisen ja kulttuurisen ympäristön sekä suomen ja ruotsin kielen aseman ja merkityksen tunteminen Suomessa: Oppilas osaa kertoa ruotsin kielen asemasta Suomessa. \n\nOppilas osaa kuvailla Pohjoismaiden kielellistä moninaisuutta.\n\nOppilas osaa vertailla suomenruotsalaiselle ja pohjoismaisille kulttuureille tyypillisiä asioita.\n\nOppilas osaa kertoa, mihin tarvitsee ruotsin kieltä tulevaisuudessa.\nKielellinen päättely: Oppilas osaa vertailla yhtäläisyyksiä ja eroja ruotsin kielen ja äidinkielensä tai muun osaamansa kielen välillä. \n\nOppilas osaa käyttää sopivia kielellistä päättelyä tukevia strategioita.\nRuotsinkielisen aineiston löytäminen: Oppilas osaa vertailla ruotsinkielisiä aineistoja, jotka ovat hänelle sopivia ja jotka kiinnostavat häntä.\nRuotsin kielen opiskelun tavoitteista kertominen ja ryhmässä toimiminen: Oppilas osaa kertoa ruotsin kielen opiskelun tavoitteistaan ja siitä, kuinka hän työskentelee saavuttaakseen tavoitteensa.\n\nOppilas osallistuu ryhmän toimintaan ja tekee yhteistyötä monipuolisesti ja kannustavasti.\nVastuun ottaminen ruotsin kielen opiskelusta ja sopivien kielen oppimistapojen löytäminen: Oppilas ottaa paljon vastuuta ruotsin kielen opiskelustaan.\n\nOppilas osaa käyttää monipuolisesti oppimistaan edistäviä tapoja, mukaan lukien tieto- ja viestintäteknologiaa oppiakseen ruotsin kieltä ja muita kieliä.\nVuorovaikutus erilaisissa tilanteissa: Taitotaso A2.1:\n\nOppilas pystyy vaihtamaan ajatuksia tai tietoja tutuissa ja jokapäiväisissä tilanteissa sekä toisinaan ylläpitämään viestintätilannetta.\nViestintästrategioiden käyttö: Taitotaso A2.1:\n\nOppilas osallistuu enenevässä määrin viestintään turvautuen harvemmin ei-kielellisiin ilmaisuihin. \n\nOppilas joutuu pyytämään toistoa tai selvennystä melko usein ja osaa jonkin verran soveltaa viestintäkumppanin ilmaisuja omassa viestinnässään.\nViestinnän kulttuurinen sopivuus: Taitotaso A2.1:\n\nOppilas selviytyy lyhyistä sosiaalisista tilanteista ja osaa käyttää yleisimpiä kohteliaita tervehdyksiä ja puhuttelumuotoja sekä esittää kohteliaasti esimerkiksi pyyntöjä, kutsuja, ehdotuksia ja anteeksipyyntöjä ja vastata sellaisiin.\nTekstien tulkintataidot: Taitotaso A2.1:\n\nOppilas ymmärtää helppoja, tuttua sanastoa ja ilmaisuja sekä selkeää puhetta sisältäviä tekstejä. \n\nOppilas ymmärtää lyhyiden, yksinkertaisten, itseään kiinnostavien viestien ydinsisällön ja tekstin pääajatukset tuttua sanastoa sisältävästä, ennakoitavasta tekstistä. \n\nOppilas pystyy hyvin yksinkertaiseen päättelyyn asiayhteyden tukemana.\nTekstien tuottamistaidot: Taitotaso A2.1:\n\nOppilas pystyy kertomaan jokapäiväisistä, konkreettisista ja itselleen tärkeistä asioista käyttäen yksinkertaisia lauseita ja konkreettista sanastoa.\n \nOppilas osaa helposti ennakoitavan perussanaston ja monia keskeisimpiä rakenteita.\n\nOppilas osaa soveltaa joitakin ääntämisen perussääntöjä muissakin kuin harjoitelluissa ilmauksissa.",
+              "en": ""
+            }
           }
         ]
       },
@@ -277,7 +349,9 @@
               "local": "T1 edistää oppilaan taitoa pohtia ruotsin kansalliskielen asemaan liittyviä ilmiöitä sekä antaa oppilaalle valmiuksia kehittää kulttuurienvälistä toimintakykyään",
               "en": "T1 promote the pupil's ability to reflect on phenomena related to the status of Swedish as a national language, and provide the pupil with the capacity to develop their intercultural competence"
             },
-            "coreElements": ["S1"],
+            "coreElements": [
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -286,7 +360,9 @@
               "local": "T2 kannustaa oppilasta löytämään kiinnostavia ruotsinkielisiä toimintaympäristöjä, jotka laajentavat oppilaan maailmankuvaa",
               "en": "T2 encourage the pupil to find interesting Swedish-language environments that broaden the pupil's worldview"
             },
-            "coreElements": ["S1"],
+            "coreElements": [
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -295,7 +371,9 @@
               "local": "T3 ohjata oppilasta havaitsemaan, millaisia säännönmukaisuuksia ruotsin kielessä on, miten samoja asioita ilmaistaan muissa kielissä sekä käyttämään kielitiedon käsitteitä oppimisensa tukena",
               "en": "T3 guide the pupil to notice what kinds of regularities exist in Swedish, how the same things are expressed in other languages, and to use linguistic concepts to support their learning"
             },
-            "coreElements": ["S1"],
+            "coreElements": [
+              "S1"
+            ],
             "verbs": []
           },
           {
@@ -304,7 +382,9 @@
               "local": "T4 rohkaista oppilasta asettamaan tavoitteita, hyödyntämään monipuolisia tapoja oppia kieliä ja arvioimaan oppimistaan itsenäisesti ja yhteistyössä sekä ohjata oppilasta myönteiseen vuorovaikutukseen, jossa tärkeintä on viestin välittyminen",
               "en": "T4 encourage the pupil to set goals, to use diverse ways of learning languages, and to evaluate their learning independently and collaboratively, and to guide the pupil towards positive interaction in which the most important thing is getting the message across"
             },
-            "coreElements": ["S2"],
+            "coreElements": [
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -313,7 +393,9 @@
               "local": "T5 tukea oppilaan itsenäisyyttä ja taitoa soveltaa luovasti kielitaitoaan sekä kehittää elinikäisen kieltenopiskelun valmiuksia",
               "en": "T5 support the pupil's independence and ability to apply their language skills creatively, and to develop their readiness for lifelong language learning"
             },
-            "coreElements": ["S2"],
+            "coreElements": [
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -322,7 +404,9 @@
               "local": "T6 rohkaista oppilasta harjoittelemaan monenlaisia jokapäiväisiä viestintätilanteita sekä toimimaan niissä aloitteellisesti",
               "en": "T6 encourage the pupil to practise various everyday communication situations and to act in them with initiative"
             },
-            "coreElements": ["S3"],
+            "coreElements": [
+              "S3"
+            ],
             "verbs": []
           },
           {
@@ -331,7 +415,9 @@
               "local": "T7 ohjata oppilasta olemaan aktiivinen viestintätilanteessa sekä syventämään taitoaan käyttää kohdekielisiä viestinnän keinoja, vakiintuneita fraaseja, kierto- ja täyteilmauksia ja muuta kompensaatiota",
               "en": "T7 guide the pupil to be active in communication situations and to deepen their skill in using target-language communication strategies, fixed phrases, circumlocutions, fillers, and other compensation strategies"
             },
-            "coreElements": ["S3"],
+            "coreElements": [
+              "S3"
+            ],
             "verbs": []
           },
           {
@@ -340,7 +426,9 @@
               "local": "T8 ohjata oppilasta kiinnittämään huomiota kulttuurisesti sopivaan kielenkäyttöön viestinnässä, johon liittyy mielipiteiden ja asenteiden esiin tuomista",
               "en": "T8 guide the pupil to pay attention to culturally appropriate language use in communication that involves expressing opinions and attitudes"
             },
-            "coreElements": ["S3"],
+            "coreElements": [
+              "S3"
+            ],
             "verbs": []
           },
           {
@@ -349,7 +437,9 @@
               "local": "T9 tarjota oppilaalle mahdollisuuksia tulkita erilaisia tekstejä, myös selväpiirteisiä asiatekstejä, joista hankitaan tietoa, ja ohjata käyttämään tulkinnassa päättelytaitoa ja keskeisen sisällön ymmärtämistä",
               "en": "T9 provide the pupil with opportunities to interpret various texts, including clear factual texts from which information is obtained, and guide the pupil to use reasoning skills and understanding of the main content in interpretation"
             },
-            "coreElements": ["S3"],
+            "coreElements": [
+              "S3"
+            ],
             "verbs": []
           },
           {
@@ -358,8 +448,56 @@
               "local": "T10 tarjota oppilaalle mahdollisuuksia tuottaa puhetta ja kirjoitusta aihepiirejä laajentaen ja kiinnittäen huomiota myös keskeisiin rakenteisiin ja ääntämisen perussääntöihin",
               "en": "T10 provide the pupil with opportunities to produce speech and writing while expanding the range of topics, and paying attention to key structures and basic rules of pronunciation"
             },
-            "coreElements": ["S3"],
+            "coreElements": [
+              "S3"
+            ],
             "verbs": []
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "5",
+            "label": {
+              "local": "Arvosana 5 (välttävä)",
+              "en": "Grade 5 (passable)"
+            },
+            "text": {
+              "local": "Kansalliskielten asemaan ja pohjoismaiseen kieli- ja kulttuuriympäristöön liittyvien kysymysten huomaaminen ja kulttuurien välinen toimintakyky: Oppilas osaa nimetä Pohjoismaat ja joitakin pohjoismaisia kieliä.\n\nOppilas osaa antaa joitakin esimerkkejä ruotsin kielen asemasta kansalliskielenä Suomessa.\nMaailmankansalaisen taitojen kehittyminen ruotsin taitoa hyödyntämällä: Oppilas osaa antaa esimerkkejä joistakin aineistoista ja toimintaympäristöistä, joissa voi käyttää ruotsin kieltä.\nKielellinen päättely: Oppilas osaa tehdä havaintoja joistakin ruotsin kielen säännönmukaisuuksista.\nTavoitteiden asettaminen, opiskelustrategioiden hyödyntäminen, oppimisen reflektointi ja vuorovaikutuksessa toimimisen tapojen hahmottaminen: Oppilas osaa käyttää joitakin itselle sopivia tapoja oppia ruotsin kieltä. \n\nOppilas osaa antaa joitakin esimerkkejä tavoista toimia rakentavasti vuorovaikutuksessa.\nJatkuvan kielenopiskelun valmiuksien kehittyminen: Oppilas osaa antaa joitakin esimerkkejä mahdollisuuksista kehittää ruotsin kielen taitoaan.\nVuorovaikutus erilaisissa tilanteissa: Taitotaso A1.2\nOppilas selviytyy satunnaisesti yleisimmin toistuvista, rutiininomaisista viestintätilanteista tukeutuen vielä enimmäkseen viestintäkumppaniin.\nViestintästrategioiden käyttö: Taitotaso A1.2\nOppilas tukeutuu viestinnässään kaikkein keskeisimpiin sanoihin ja ilmauksiin.\n\nOppilas tarvitsee paljon apukeinoja. \n\nOppilas osaa pyytää toistamista tai hidastamista.\nViestinnän kulttuurinen sopivuus: Taitotaso A1.2\nOppilas osaa käyttää muutamia kaikkein yleisimpiä kielelle ominaisia kohteliaisuuden ilmauksia rutininomaisissa sosiaalisissa kontakteissa.\nTekstien tulkintataidot: Taitotaso A1.2 Oppilas ymmärtää harjoiteltua, tuttua sanastoa ja ilmaisuja sisältävää muutaman sanan mittaista kirjoitettua tekstiä ja hidasta puhetta.\nOppilas tunnistaa tekstistä yksittäisiä tietoja.\nTekstien tuottamistaidot: Taitotaso A1.1\nOppilas osaa ilmaista itseään puheessa hyvin suppeasti käyttäen harjoiteltuja sanoja ja opeteltuja vakioilmaisuja. \n\nOppilas ääntää joitakin harjoiteltuja ilmauksia ymmärrettävästi ja osaa kirjoittaa joitakin erillisiä sanoja ja sanontoja.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "7",
+            "label": {
+              "local": "Arvosana 7 (tyydyttävä)",
+              "en": "Grade 7 (satisfactory)"
+            },
+            "text": {
+              "local": "Kansalliskielten asemaan ja pohjoismaiseen kieli- ja kulttuuriympäristöön liittyvien kysymysten huomaaminen ja kulttuurien välinen toimintakyky: Oppilas osaa nimetä Pohjoismaat ja niiden viralliset kielet.\n\nOppilas osaa kertoa keskeisiä asioita ruotsin kielen asemasta kansalliskielenä. \n\nOppilas osaa kuvailla Pohjoismaiden kulttuureja ja elämänmuotoja. \n     \nOppilas osaa nimetä vuorovaikutukseen liittyviä kulttuurisia piirteitä.\nMaailmankansalaisen taitojen kehittyminen ruotsin taitoa hyödyntämällä: Oppilas osaa nimetä ruotsinkielisiä aineistoja ja toimintaympäristöjä, jotka edistävät hänen oppimistaan.\nKielellinen päättely: Oppilas osaa tehdä joitakin johtopäätöksiä ruotsin kielen säännönmukaisuuksista.\n\nOppilas osaa antaa joitakin esimerkkejä siitä, miten sama asia ilmaistaan ruotsissa ja jossakin muussa kielessä.\n\n\nOppilas osaa antaa joitakin esimerkkejä ruotsin kielen kielitiedon käsitteistä ja käyttää niitä kielitaitonsa kehittämiseen.\nTavoitteiden asettaminen, opiskelustrategioiden hyödyntäminen, oppimisen reflektointi ja vuorovaikutuksessa toimimisen tapojen hahmottaminen: Oppilas osaa käyttää yleisimpiä itselle sopivia tapoja oppia ruotsin kieltä. \n\nOppilas osaa kuvata joitakin tapoja toimia rakentavasti vuorovaikutuksessa.\nJatkuvan kielenopiskelun valmiuksien kehittyminen: Oppilas osaa kuvailla mahdollisuuksia kehittää ruotsin kielen taitoaan myös koulun päätyttyä.\nVuorovaikutus erilaisissa tilanteissa: Taitotaso A2.1\nOppilas pystyy vaihtamaan ajatuksia tai tietoja tutuissa ja jokapäiväisissä tilanteissa sekä toisinaan ylläpitämään viestintätilannetta.\nViestintästrategioiden käyttö: Taitotaso A2.1\nOppilas osallistuu enenevässä määrin viestintään turvautuen harvemmin ei-kielellisiin ilmaisuihin.\n\nOppilas joutuu pyytämään toistoa tai selvennystä melko usein ja osaa jonkin verran soveltaa viestintäkumppanin ilmaisuja omassa viestinnässään.\nViestinnän kulttuurinen sopivuus: Taitotaso A2.1\nOppilas selviytyy lyhyistä sosiaalisista tilanteista ja osaa käyttää yleisimpiä kohteliaita tervehdyksiä ja puhuttelumuotoja sekä esittää kohteliaasti esimerkiksi pyyntöjä, kutsuja, ehdotuksia ja anteeksipyyntöjä ja vastata sellaisiin.\nTekstien tulkintataidot: Taitotaso A2.1Oppilas ymmärtää helppoja, tuttua sanastoa ja ilmaisuja sekä selkeää puhetta sisältäviä tekstejä. \nOppilas ymmärtää lyhyiden, yksinkertaisten, itseään kiinnostavien viestien ydinsisällön ja tekstin pääajatukset tuttua sanastoa sisältävästä, ennakoitavasta tekstistä.\nOppilas pystyy hyvin yksinkertaiseen päättelyyn asiayhteyden tukemana.\nTekstien tuottamistaidot: Taitotaso A1.3\nOppilas osaa rajallisen määrän lyhyitä, ulkoa opeteltuja ilmauksia, keskeistä sanastoa ja perustason lauserakenteita.\n\nOppilas pystyy kertomaan arkisista ja itselleen tärkeistä asioista käyttäen suppeaa ilmaisuvarastoa ja kirjoittamaan yksinkertaisia viestejä ja ääntää harjoitellut ilmaisut ymmärrettävästi.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "8",
+            "label": {
+              "local": "Arvosana 8 (hyvä)",
+              "en": "Grade 8 (good)"
+            },
+            "text": {
+              "local": "Kansalliskielten asemaan ja pohjoismaiseen kieli- ja kulttuuriympäristöön liittyvien kysymysten huomaaminen ja kulttuurien välinen toimintakyky: Oppilas osaa kuvailla ruotsin kielen asemaa Suomessa ja Pohjoismaissa ja maailman kielten joukossa ja pohtia kielen merkitystä yksilölle.\nMaailmankansalaisen taitojen kehittyminen ruotsin taitoa hyödyntämällä: Oppilas osaa vertailla ruotsinkielisiä aineistoja ja toimintaympäristöjä, jotka edistävät hänen oppimistaan.\nKielellinen päättely: Oppilas osaa tehdä johtopäätöksiä ruotsin kielen säännönmukaisuuksista.\n\nOppilas osaa antaa esimerkkejä, miten sama asia ilmaistaan ruotsissa ja jossakin muussa kielessä.\n\nOppilas osaa kertoa ruotsin kielen keskeisistä kielitiedon käsitteistä ja käyttää niitä kielitaitonsa kehittämiseen.\nTavoitteiden asettaminen, opiskelustrategioiden hyödyntäminen, oppimisen reflektointi ja vuorovaikutuksessa toimimisen tapojen hahmottaminen: Oppilas osaa käyttää keskeisimpiä itselle sopivia tapoja oppia ruotsin kieltä.\n  \nOppilas osaa vertailla tapoja toimia rakentavasti vuorovaikutuksessa.\nJatkuvan kielenopiskelun valmiuksien kehittyminen: Oppilas osaa vertailla erilaisia mahdollisuuksia kehittää ruotsin kielen taitoaan myös koulun päätyttyä.\nVuorovaikutus erilaisissa tilanteissa: Taitotaso A2.2 Oppilas selviää kohtalaisesti monenlaisista jokapäiväisistä viestintätilanteista. Oppilas pystyy enenevässä määrin olemaan aloitteellinen viestintätilanteessa.\nViestintästrategioiden käyttö: Taitotaso A2.2 Oppilas osallistuu enenevässä määrin viestintään käyttäen käyttää tarvittaessa vakiosanontoja pyytäessään tarkennusta avainsanoista. Oppilas joutuu pyytämään toistoa tai selvennystä silloin tällöin ja käyttää esim. lähikäsitettä tai yleisempää käsitettä, kun ei tiedä täsmällistä (koira/eläin tai talo/mökki)\nViestinnän kulttuurinen sopivuus: Taitotaso A2.2\nOppilas osaa käyttää kieltä yksinkertaisella tavalla kaikkein keskeisimpiin tarkoituksiin, kuten tiedonvaihtoon sekä mielipiteiden ja asenteiden asianmukaiseen ilmaisemiseen. Oppilas pystyy keskustelemaan kohteliaasti käyttäen tavanomaisia ilmauksia ja perustason viestintärutiineja.\nTekstien tulkintataidot: Taitotaso A2.2 Oppilas pystyy seuraamaan hyvin summittaisesti selväpiirteisen asiapuheen pääkohtia, tunnistaa usein ympärillään käytävän keskustelun aiheen ja ymmärtää pääasiat tuttua sanastoa sisältävästä yleiskielisestä tekstistä tai hitaasta puheesta.\nOppilas osaa päätellä tuntemattomien sanojen merkityksiä asiayhteydestä.\nTekstien tuottamistaidot: Taitotaso A2.1\nOppilas pystyy kertomaan jokapäiväisistä ja konkreettisista sekä itselleen tärkeistä asioista käyttäen yksinkertaisia lauseita ja konkreettista sanastoa. \nOppilas osaa helposti ennakoitavan perussanaston ja monia keskeisimpiä rakenteita. Oppilas osaa soveltaa joitakin ääntämisen perussääntöjä muissakin kuin harjoitelluissa ilmauksissa.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "9",
+            "label": {
+              "local": "Arvosana 9 (kiitettävä)",
+              "en": "Grade 9 (excellent)"
+            },
+            "text": {
+              "local": "Kansalliskielten asemaan ja pohjoismaiseen kieli- ja kulttuuriympäristöön liittyvien kysymysten huomaaminen ja kulttuurien välinen toimintakyky: Oppilas osaa kuvailla ruotsin kieltä käyttökielenä Suomessa ja Pohjoismaissa. \n\nOppilas osaa pohtia ruotsin kielen asemaa kansalliskielenä ja siihen liittyviä ilmiöitä. \n\nOppilas osaa vertailla ja pohtia Pohjoismaiden kulttuureja ja elämänmuotoja.\n\nOppilas osaa vertailla ja pohtia kulttuurisia piirteitä vuorovaikutuksessa.\nMaailmankansalaisen taitojen kehittyminen ruotsin taitoa hyödyntämällä: Oppilas osaa pohtia, miten hän voi hyödyntää ruotsinkielisiä aineistoja ja toimintaympäristöjä omaa oppimistaan edistääkseen.\nKielellinen päättely: Oppilas osaa tehdä johtopäätöksiä ruotsin kielen säännönmukaisuuksista ja soveltaa niitä.\n\nOppilas osaa vertailla, miten sama asia ilmaistaan ruotsissa ja jossakin muussa kielessä.\n\nOppilas tuntee ja osaa käyttää ruotsin kielen kielitiedon käsitteitä kielitaitonsa kehittämiseen.\nTavoitteiden asettaminen, opiskelustrategioiden hyödyntäminen, oppimisen reflektointi ja vuorovaikutuksessa toimimisen tapojen hahmottaminen: Oppilas osaa käyttää monipuolisia itselle sopivia tapoja oppia ruotsin kieltä.\n\nOppilas osaa vertailla ja pohtia tapoja toimia rakentavasti vuorovaikutuksessa.\nJatkuvan kielenopiskelun valmiuksien kehittyminen: Oppilas osaa pohtia ja vertailla erilaisia mahdollisuuksia kehittää ruotsin kielen taitoaan myös koulun päätyttyä.\nVuorovaikutus erilaisissa tilanteissa: Taitotaso B1.1\nOppilas pystyy viestimään, osallistumaan keskusteluihin ja ilmaisemaan mielipiteitään melko vaivattomasti monenlaisissa jokapäiväisissä viestintätilanteissa.\nViestintästrategioiden käyttö: Taitotaso B1.1\nOppilas pystyy jossain määrin olemaan aloitteellinen viestinnässä eri vaiheissa ja osaa varmistaa, onko viestintäkumppani ymmärtänyt viestin.\n\nOppilas osaa kiertää tai korvata tuntemattoman sanan tai muotoilla viestinsä uudelleen.\n\nOppilas pystyy neuvottelemaan tuntemattomien ilmauksien merkityksistä.\nViestinnän kulttuurinen sopivuus: Taitotaso B1.1\nOppilas osaa käyttää erilaisiin tarkoituksiin kieltä, joka ei ole liian tuttavallista eikä liian muodollista.\n\nOppilas pyrkii ilmaisemaan ajatuksiaan asianmukaisesti ja viestintäkumppania kunnioittaen ottaen huomioon erilaisten tilanteiden asettamat vaatimukset.\nTekstien tulkintataidot: Taitotaso B1.1 Oppilas ymmärtää pääasiat ja joitakin yksityiskohtia selkeästä ja lähes normaalitempoisesta yleiskielisestä puheesta tai yleistajuisesta kirjoitetusta tekstistä. \nOppilas ymmärtää yhteiseen kokemukseen tai yleistietoon perustuvaa puhetta tai kirjoitettua tekstiä.\nOppilas löytää pääajatukset, avainsanat ja tärkeitä yksityiskohtia myös valmistautumatta.\nTekstien tuottamistaidot: Taitotaso A2.2\nOppilas osaa kuvata luettelomaisesti (ikäkaudelleen tyypillisiä) jokapäiväiseen elämään liittyviä asioita käyttäen tavallista sanastoa ja joitakin idiomaattisia ilmauksia sekä perustason rakenteita ja joskus hiukan vaativampiakin. \n\nOppilas osaa soveltaa joitakin ääntämisen perussääntöjä muissakin kuin harjoitelluissa ilmauksissa.",
+              "en": ""
+            }
           }
         ]
       }

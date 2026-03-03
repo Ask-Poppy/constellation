@@ -4,8 +4,12 @@
     "api": "https://eperusteet.opintopolku.fi/eperusteet-service/api/external/peruste/419550/perusopetus/oppiaineet/466343",
     "curriculum": "POPS 2014",
     "license": "Open Government Data (Finland)",
-    "lastSynced": "2026-03-03T08:58:58Z",
-    "aiEnriched": ["description.en", "interdisciplinaryThemes", "basicSkills"]
+    "lastSynced": "2026-03-03T16:02:20Z",
+    "aiEnriched": [
+      "description.en",
+      "interdisciplinaryThemes",
+      "basicSkills"
+    ]
   },
   "subject": {
     "code": "MU",
@@ -180,7 +184,12 @@
               "local": "T1 ohjata oppilasta toimimaan musiikillisen ryhmän jäsenenä oppilaan myönteistä minäkuvaa rakentaen",
               "en": "T1 guide the pupil to function as a member of a musical group while building the pupil's positive self-image"
             },
-            "coreElements": ["S1", "S2", "S3", "S4"],
+            "coreElements": [
+              "S1",
+              "S2",
+              "S3",
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -189,7 +198,12 @@
               "local": "T2 ohjata oppilasta luontevaan äänenkäyttöön sekä laulamaan ja soittamaan ryhmän jäsenenä",
               "en": "T2 guide the pupil towards natural voice use and towards singing and playing as a group member"
             },
-            "coreElements": ["S1", "S2", "S3", "S4"],
+            "coreElements": [
+              "S1",
+              "S2",
+              "S3",
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -198,7 +212,12 @@
               "local": "T3 kannustaa oppilasta kokemaan ja hahmottamaan ääniympäristöä, ääntä, musiikkia ja musiikkikäsitteitä liikkuen ja kuunnellen",
               "en": "T3 encourage the pupil to experience and perceive the sound environment, sound, music and musical concepts through movement and listening"
             },
-            "coreElements": ["S1", "S2", "S3", "S4"],
+            "coreElements": [
+              "S1",
+              "S2",
+              "S3",
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -207,7 +226,12 @@
               "local": "T4 antaa tilaa oppilaiden omille musiikillisille ideoille ja improvisoinnille sekä ohjaa heitä suunnittelemaan ja toteuttamaan pienimuotoisia sävellyksiä tai muita kokonaisuuksia käyttäen äänellisiä, liikunnallisia, kuvallisia, teknologisia tai muita ilmaisukeinoja",
               "en": "T4 give space for pupils' own musical ideas and improvisation, and guide them to plan and create small-scale compositions or other works using vocal, movement-based, visual, technological or other means of expression"
             },
-            "coreElements": ["S1", "S2", "S3", "S4"],
+            "coreElements": [
+              "S1",
+              "S2",
+              "S3",
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -216,7 +240,12 @@
               "local": "T5 innostaa oppilasta tutustumaan musiikilliseen kulttuuriperintöönsä leikkien, laulaen ja liikkuen sekä nauttimaan musiikin esteettisestä, kulttuurisesta ja historiallisesta monimuotoisuudesta",
               "en": "T5 inspire the pupil to explore their musical cultural heritage through games, singing and movement, and to enjoy the aesthetic, cultural and historical diversity of music"
             },
-            "coreElements": ["S1", "S2", "S3", "S4"],
+            "coreElements": [
+              "S1",
+              "S2",
+              "S3",
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -225,7 +254,12 @@
               "local": "T6 auttaa oppilasta ymmärtämään musiikin merkintätapojen perusperiaatteita musisoinnin yhteydessä",
               "en": "T6 help the pupil understand the basic principles of music notation in connection with music-making"
             },
-            "coreElements": ["S1", "S2", "S3", "S4"],
+            "coreElements": [
+              "S1",
+              "S2",
+              "S3",
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -234,7 +268,12 @@
               "local": "T7 ohjata oppilasta toimimaan vastuullisesti musisoinnissa",
               "en": "T7 guide the pupil to act responsibly in music-making"
             },
-            "coreElements": ["S1", "S2", "S3", "S4"],
+            "coreElements": [
+              "S1",
+              "S2",
+              "S3",
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -243,7 +282,12 @@
               "local": "T8 tarjota oppilaille kokemuksia tavoitteiden asettamisen ja yhteisen harjoittelun merkityksestä musiikin oppimisessa",
               "en": "T8 provide the pupils with experiences of the importance of setting goals and practising together in learning music"
             },
-            "coreElements": ["S1", "S2", "S3", "S4"],
+            "coreElements": [
+              "S1",
+              "S2",
+              "S3",
+              "S4"
+            ],
             "verbs": []
           }
         ]
@@ -261,7 +305,12 @@
               "local": "T1 rohkaista oppilasta osallistumaan yhteismusisointiin ja rakentamaan myönteistä yhteishenkeä yhteisössään",
               "en": "T1 encourage the pupil to participate in collective music-making and to build a positive team spirit in their community"
             },
-            "coreElements": ["S1", "S3", "S2", "S4"],
+            "coreElements": [
+              "S1",
+              "S3",
+              "S2",
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -270,7 +319,12 @@
               "local": "T2 ohjata oppilasta luontevaan äänenkäyttöön ja laulamiseen sekä kehittämään keho-, rytmi-, melodia- ja sointusoittimien soittotaitoaan musisoivan ryhmän jäsenenä",
               "en": "T2 guide the pupil towards natural voice use and singing, and to develop their skills in playing body percussion, rhythm, melody and chord instruments as a member of a music-making group"
             },
-            "coreElements": ["S1", "S3", "S2", "S4"],
+            "coreElements": [
+              "S1",
+              "S3",
+              "S2",
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -279,7 +333,12 @@
               "local": "T3 kannustaa oppilasta keholliseen musiikin, kuvien, tarinoiden ja tunnetilojen ilmaisuun kokonaisvaltaisesti liikkuen",
               "en": "T3 encourage the pupil to express music, images, stories and emotional states bodily through holistic movement"
             },
-            "coreElements": ["S1", "S3", "S2", "S4"],
+            "coreElements": [
+              "S1",
+              "S3",
+              "S2",
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -288,7 +347,12 @@
               "local": "T4 tarjota oppilaalle mahdollisuuksia ääniympäristön ja musiikin elämykselliseen kuunteluun sekä ohjata häntä jäsentämään kuulemaansa sekä kertomaan siitä",
               "en": "T4 provide the pupil with opportunities for experiential listening to the sound environment and music, and guide them to structure what they hear and to describe it"
             },
-            "coreElements": ["S1", "S3", "S2", "S4"],
+            "coreElements": [
+              "S1",
+              "S3",
+              "S2",
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -297,7 +361,12 @@
               "local": "T5 rohkaista oppilasta improvisoimaan sekä suunnittelemaan ja toteuttamaan pienimuotoisia sävellyksiä tai monitaiteellisia kokonaisuuksia eri keinoin ja myös tieto- ja viestintäteknologiaa käyttäen",
               "en": "T5 encourage the pupil to improvise and to plan and create small-scale compositions or multi-arts works using various means, including information and communication technology"
             },
-            "coreElements": ["S1", "S3", "S2", "S4"],
+            "coreElements": [
+              "S1",
+              "S3",
+              "S2",
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -306,7 +375,12 @@
               "local": "T6 ohjata oppilasta tarkastelemaan musiikillisia kokemuksiaan ja musiikillisen maailman esteettistä, kulttuurista ja historiallista monimuotoisuutta",
               "en": "T6 guide the pupil to examine their musical experiences and the aesthetic, cultural and historical diversity of the musical world"
             },
-            "coreElements": ["S1", "S3", "S2", "S4"],
+            "coreElements": [
+              "S1",
+              "S3",
+              "S2",
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -315,7 +389,12 @@
               "local": "T7 ohjata oppilasta ymmärtämään musiikkikäsitteitä ja musiikin merkintätapojen periaatteita musisoinnin yhteydessä",
               "en": "T7 guide the pupil to understand musical concepts and the principles of music notation in connection with music-making"
             },
-            "coreElements": ["S1", "S3", "S2", "S4"],
+            "coreElements": [
+              "S1",
+              "S3",
+              "S2",
+              "S4"
+            ],
             "verbs": []
           },
           {
@@ -324,7 +403,11 @@
               "local": "T8 ohjata oppilasta tunnistamaan musiikin vaikutuksia hyvinvointiin sekä huolehtimaan musisointi- ja ääniympäristön turvallisuudesta",
               "en": "T8 guide the pupil to recognise the effects of music on well-being and to take care of the safety of the music-making and sound environment"
             },
-            "coreElements": ["S1", "S3", "S2"],
+            "coreElements": [
+              "S1",
+              "S3",
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -333,8 +416,59 @@
               "local": "T9 ohjata oppilasta kehittämään musiikillista osaamistaan harjoittelun avulla, osallistumaan tavoitteiden asettamiseen ja arvioimaan edistymistään suhteessa tavoitteisiin",
               "en": "T9 guide the pupil to develop their musical skills through practice, to participate in setting goals and to evaluate their progress in relation to their goals"
             },
-            "coreElements": ["S1", "S3", "S2", "S4"],
+            "coreElements": [
+              "S1",
+              "S3",
+              "S2",
+              "S4"
+            ],
             "verbs": []
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "5",
+            "label": {
+              "local": "Arvosana 5 (välttävä)",
+              "en": "Grade 5 (passable)"
+            },
+            "text": {
+              "local": "Musiikillisen ryhmän jäsenenä toimiminen: Oppilas osallistuu musisoivan ryhmän toimintaan yksilöllisen ohjauksen avulla.\nÄänenkäyttö, laulaminen ja soittaminen ryhmän jäsenenä: Oppilas kokeilee äänenkäytön ja soittamisen mahdollisuuksia yksilöllisen ohjauksen avulla.\nMusiikkiliikunta: Oppilas osallistuu musiikkia ja liikettä yhdistävään toimintaan.\nMusiikin kuuntelu: Oppilas kuuntelee ääniympäristöä ja musiikkia.\nLuovan musiikillisen ajattelun ilmaiseminen eri keinoin: Oppilas osallistuu luovan tuottamisen prosessiin yksin tai ryhmän jäsenenä.\n\nOppilas kokeilee joitakin musiikkiteknologian työkaluja opettajan yksilöllisen ohjauksen avulla.\nMusiikin merkitysten havainnointi: Oppilas tunnistaa joitakin musiikin esteettisiä, ajallisia ja kulttuurisia piirteitä.\nMusiikin merkintätapojen ymmärtäminen: Oppilas tunnistaa joitakin musiikkikäsitteitä ja musiikin merkintätapoja.\nSoitinten ja laitteiden turvallinen käyttö.  Lisäksi oppilasta ohjataan pohtimaan ääneen ja musiikkiin liittyviä kokemuksiaan, mutta tätä ei käytetä arvosanan muodostamisen perusteena.: Oppilas noudattaa kulloinkin annettavia turvallisuusohjeita käyttäessään laitteita ja soittimia.\nOppimaan oppiminen ja työskentelytaidot: Oppilas kehittää osaamistaan opettajan tukemana jollakin musiikillisen osaamisen osa-alueella annetun tavoitteen suuntaisesti.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "7",
+            "label": {
+              "local": "Arvosana 7 (tyydyttävä)",
+              "en": "Grade 7 (satisfactory)"
+            },
+            "text": {
+              "local": "Musiikillisen ryhmän jäsenenä toimiminen: Oppilas osallistuu musisointiin ryhmän jäsenenä.\nÄänenkäyttö, laulaminen ja soittaminen ryhmän jäsenenä: Oppilas harjoittelee äänenkäyttöä ja osallistuu yhteislauluun. \n\nOppilas soittaa keho-, rytmi-, melodia- ja sointusoittimia ryhmän jäsenenä.\nMusiikkiliikunta: Oppilas osallistuu musiikkia ja liikettä yhdistävään toimintaan ryhmän jäsenenä.\nMusiikin kuuntelu: Oppilas kuuntelee ääniympäristöä ja musiikkia ja tunnistaa niihin liittyviä mieltymyksiään.\nLuovan musiikillisen ajattelun ilmaiseminen eri keinoin: Oppilas osallistuu luovan tuottamisen prosessiin tuottaen yksittäisiä musiikillisia ideoita yksin tai ryhmän jäsenenä.\n\nOppilas kokeilee musiikkiteknologian mahdollisuuksia musiikin tekemisessä.\nMusiikin merkitysten havainnointi: Oppilas kertoo musiikillisista havainnoistaan sekä tunnistaa joitakin musiikin esteettisiä, ajallisia ja kulttuurisia piirteitä.\nMusiikin merkintätapojen ymmärtäminen: Oppilas tunnistaa joitakin musiikkikäsitteitä ja musiikin merkintätapoja ja osaa musisoida niiden mukaisesti.\nSoitinten ja laitteiden turvallinen käyttö.  Lisäksi oppilasta ohjataan pohtimaan ääneen ja musiikkiin liittyviä kokemuksiaan, mutta tätä ei käytetä arvosanan muodostamisen perusteena.: Oppilas toimii turvallisuusohjeiden mukaisesti käyttäessään laitteita ja soittimia.\nOppimaan oppiminen ja työskentelytaidot: Oppilas kehittää musiikillista osaamistaan harjoittelun avulla sekä harjoittelee tavoitteiden asettamista ja edistymisen arviointia yhteismusisoinnissa.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "8",
+            "label": {
+              "local": "Arvosana 8 (hyvä)",
+              "en": "Grade 8 (good)"
+            },
+            "text": {
+              "local": "Musiikillisen ryhmän jäsenenä toimiminen: Oppilas osallistuu yhteismusisointiin huomioiden muut ryhmän jäsenet.\nÄänenkäyttö, laulaminen ja soittaminen ryhmän jäsenenä: Oppilas harjoittelee äänenkäyttöä sekä keho-, rytmi-, melodia- ja sointusoittimien soittamista.\n\nOppilas osallistuu yhteislauluun ja -soittoon pyrkien sovittamaan osuutensa osaksi musiikillista kokonaisuutta.\nMusiikkiliikunta: Oppilas liikkuu musiikin mukaan ja käyttää kehoaan musiikilliseen ilmaisuun.\nMusiikin kuuntelu: Oppilas kuuntelee keskittyneesti ääniympäristöä ja musiikkia, tunnistaa niihin liittyviä mieltymyksiään ja esittää kuulemastaan huomioita.\nLuovan musiikillisen ajattelun ilmaiseminen eri keinoin: Oppilas käyttää musiikillisia tai muita äänellisiä elementtejä luovan tuottamisen prosessissa.\n\nOppilas osaa ohjatusti hyödyntää musiikkiteknologian tarjoamia mahdollisuuksia yksin tai ryhmän jäsenenä.\nMusiikin merkitysten havainnointi: Oppilas kertoo ja esittää näkemyksiä musiikillisista havainnoistaan sekä musiikin esteettisistä, ajallisista ja kulttuurisista merkityksistä.\nMusiikin merkintätapojen ymmärtäminen: Oppilas toimii opiskeltujen musiikillisten merkintöjen mukaisesti musisoidessaan.\nSoitinten ja laitteiden turvallinen käyttö.  Lisäksi oppilasta ohjataan pohtimaan ääneen ja musiikkiin liittyviä kokemuksiaan, mutta tätä ei käytetä arvosanan muodostamisen perusteena.: Oppilas osaa käyttää laitteita ja soittimia turvallisuusohjeiden mukaisesti.\nOppimaan oppiminen ja työskentelytaidot: Oppilas kehittää musiikillista osaamistaan harjoittelun avulla sekä osallistuu tavoitteiden asettamiseen ja edistymisen arviointiin yhteismusisoinnissa.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "9",
+            "label": {
+              "local": "Arvosana 9 (kiitettävä)",
+              "en": "Grade 9 (excellent)"
+            },
+            "text": {
+              "local": "Musiikillisen ryhmän jäsenenä toimiminen: Oppilas osallistuu yhteismusisointiin rakentavasti huolehtien osuudestaan sekä kannustaen ja auttaen toisia.\nÄänenkäyttö, laulaminen ja soittaminen ryhmän jäsenenä: Oppilas kehittää äänenkäyttöään ja keho-, rytmi-, melodia- ja sointusoittimien soittotaitoaan sekä osallistuu yhteislauluun ja -soittoon sujuvasti.\nMusiikkiliikunta: Oppilas käyttää koko kehon liikettä monipuolisesti ja luovasti musiikin oppimisessa sekä musiikillisessa ilmaisussa ja vuorovaikutuksessa.\nMusiikin kuuntelu: Oppilas kuuntelee ääniympäristöä ja musiikkia, tunnistaa niihin liittyviä mieltymyksiään ja keskustelee havainnoistaan.\nLuovan musiikillisen ajattelun ilmaiseminen eri keinoin: Oppilas käyttää musiikillisia tai muita äänellisiä elementtejä kehittäen ja toteuttaen musiikillisia ideoita yksin tai ryhmän jäsenenä.\n\nOppilas käyttää musiikkiteknologian tarjoamia mahdollisuuksia omassa tai ryhmän ilmaisussa.\nMusiikin merkitysten havainnointi: Oppilas esittää perusteltuja näkemyksiä ja osallistuu keskusteluun musiikillisista havainnoista sekä musiikin esteettisiä, ajallisista ja kulttuurisista merkityksistä.\nMusiikin merkintätapojen ymmärtäminen: Oppilas käyttää ja soveltaa opiskeltuja musiikkikäsitteitä ja musiikin merkintätapoja musiikillisessa toiminnassa.\nSoitinten ja laitteiden turvallinen käyttö.  Lisäksi oppilasta ohjataan pohtimaan ääneen ja musiikkiin liittyviä kokemuksiaan, mutta tätä ei käytetä arvosanan muodostamisen perusteena.: Oppilas osaa käyttää laitteita ja soittimia turvallisuusohjeiden mukaisesti ja huolehtia musisointi- ja ääniympäristön turvallisuudesta.\nOppimaan oppiminen ja työskentelytaidot: Oppilas asettaa tavoitteita musiikilliselle osaamiselleen ja työskentelee niiden mukaisesti. \n\nOppilas arvioi toimintaansa ja mukauttaa työskentelyään tavoitteidensa pohjalta.",
+              "en": ""
+            }
           }
         ]
       },
@@ -351,7 +485,12 @@
               "local": "T1 kannustaa oppilasta rakentavaan toimintaan musisoivan ryhmän ja musiikillisten yhteisöjen jäsenenä",
               "en": "T1 encourage the pupil towards constructive participation as a member of a music-making group and musical communities"
             },
-            "coreElements": ["S1", "S4", "S3", "S2"],
+            "coreElements": [
+              "S1",
+              "S4",
+              "S3",
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -360,7 +499,12 @@
               "local": "T2 ohjata oppilasta ylläpitämään äänenkäyttö- ja laulutaitoaan sekä kehittämään niitä edelleen musisoivan ryhmän jäseninä",
               "en": "T2 guide the pupil to maintain their voice use and singing skills and to further develop them as members of a music-making group"
             },
-            "coreElements": ["S1", "S4", "S3", "S2"],
+            "coreElements": [
+              "S1",
+              "S4",
+              "S3",
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -369,7 +513,12 @@
               "local": "T3 kannustaa oppilasta kehittämään edelleen soitto- ja yhteismusisointitaitojaan keho-, rytmi-, melodia- ja sointusoittimin",
               "en": "T3 encourage the pupil to further develop their playing and ensemble skills using body percussion, rhythm, melody and chord instruments"
             },
-            "coreElements": ["S1", "S4", "S3", "S2"],
+            "coreElements": [
+              "S1",
+              "S4",
+              "S3",
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -378,7 +527,12 @@
               "local": "T4 rohkaista oppilasta monipuoliseen musiikkiliikunnalliseen kokemiseen ja ilmaisuun",
               "en": "T4 encourage the pupil towards versatile music and movement experiences and expression"
             },
-            "coreElements": ["S1", "S4", "S3", "S2"],
+            "coreElements": [
+              "S1",
+              "S4",
+              "S3",
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -387,7 +541,12 @@
               "local": "T5 tarjota oppilaalle mahdollisuuksia ääniympäristön ja musiikin elämykselliseen kuunteluun ja havainnointiin sekä ohjata häntä keskustelemaan havainnoistaan",
               "en": "T5 provide the pupil with opportunities for experiential listening to and observing the sound environment and music, and guide them to discuss their observations"
             },
-            "coreElements": ["S1", "S4", "S3", "S2"],
+            "coreElements": [
+              "S1",
+              "S4",
+              "S3",
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -396,7 +555,12 @@
               "local": "T6 kannustaa oppilasta rakentamaan luovaa suhdetta musiikkiin ja ohjata heitä improvisointiin, sovittamiseen ja säveltämiseen sekä taiteidenväliseen työskentelyyn",
               "en": "T6 encourage the pupil to build a creative relationship with music and guide them in improvisation, arranging and composing, as well as interdisciplinary arts work"
             },
-            "coreElements": ["S1", "S4", "S3", "S2"],
+            "coreElements": [
+              "S1",
+              "S4",
+              "S3",
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -405,7 +569,12 @@
               "local": "T7 ohjata oppilasta musiikin tallentamiseen ja tieto- ja viestintäteknologian luovaan ilmaisulliseen käyttöön sekä musiikin tekemisessä että osana monialaisia kokonaisuuksia",
               "en": "T7 guide the pupil in recording music and in the creative and expressive use of information and communication technology both in making music and as part of multidisciplinary modules"
             },
-            "coreElements": ["S1", "S4", "S3", "S2"],
+            "coreElements": [
+              "S1",
+              "S4",
+              "S3",
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -414,7 +583,12 @@
               "local": "T8 ohjata oppilasta tarkastelemaan musiikkia taiteenlajina ja ymmärtämään, miten musiikkia käytetään viestimiseen ja vaikuttamiseen eri kulttuureissa.",
               "en": "T8 guide the pupil to examine music as an art form and to understand how music is used for communication and influence in different cultures"
             },
-            "coreElements": ["S1", "S4", "S3", "S2"],
+            "coreElements": [
+              "S1",
+              "S4",
+              "S3",
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -423,7 +597,12 @@
               "local": "T9 rohkaista ja ohjata oppilasta keskustelemaan musiikista käyttäen musiikin käsitteitä ja terminologiaa",
               "en": "T9 encourage and guide the pupil to discuss music using musical concepts and terminology"
             },
-            "coreElements": ["S1", "S4", "S3", "S2"],
+            "coreElements": [
+              "S1",
+              "S4",
+              "S3",
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -432,7 +611,12 @@
               "local": "T10 ohjata oppilasta tunnistamaan musiikin vaikutuksia tunteisiin ja hyvinvointiin",
               "en": "T10 guide the pupil to recognise the effects of music on emotions and well-being"
             },
-            "coreElements": ["S1", "S4", "S3", "S2"],
+            "coreElements": [
+              "S1",
+              "S4",
+              "S3",
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -441,7 +625,12 @@
               "local": "T11 ohjata oppilasta huolehtimaan kuulostaan sekä musisointi- ja ääniympäristön turvallisuudesta",
               "en": "T11 guide the pupil to take care of their hearing and the safety of the music-making and sound environment"
             },
-            "coreElements": ["S1", "S4", "S3", "S2"],
+            "coreElements": [
+              "S1",
+              "S4",
+              "S3",
+              "S2"
+            ],
             "verbs": []
           },
           {
@@ -450,8 +639,59 @@
               "local": "T12 ohjata oppilasta kehittämään musiikillista osaamistaan harjoittelun avulla, asettamaan tavoitteita musiikilliselle oppimiselleen ja arvioimaan edistymistään suhteessa tavoitteisiin.",
               "en": "T12 guide the pupil to develop their musical skills through practice, to set goals for their musical learning and to evaluate their progress in relation to their goals"
             },
-            "coreElements": ["S1", "S4", "S3", "S2"],
+            "coreElements": [
+              "S1",
+              "S4",
+              "S3",
+              "S2"
+            ],
             "verbs": []
+          }
+        ],
+        "knowledgeCriteria": [
+          {
+            "gradeStep": "5",
+            "label": {
+              "local": "Arvosana 5 (välttävä)",
+              "en": "Grade 5 (passable)"
+            },
+            "text": {
+              "local": "Musiikillisen ryhmän jäsenenä toimiminen: Oppilas osallistuu musisoivan ryhmän toimintaan opettajan konkreettisen ohjeen mukaan.\nÄänenkäyttö ja laulaminen musiikkiryhmän jäsenenä: Oppilas käyttää ääntään osana musiikillista ilmaisua.\nSoittaminen musiikkiryhmän jäsenenä: Oppilas osallistuu soittamiseen konkreettisen ohjauksen alaisena.\nMusiikkiliikunta: Oppilas osallistuu musiikkia ja liikettä yhdistävään toimintaan ryhmän jäsenenä.\nÄäniympäristön ja musiikin kuuntelu ja siitä keskusteleminen: Oppilas kuuntelee ääniympäristöä ja musiikkia.\nMusiikin luova tuottaminen: Oppilas osallistuu luovan tuottamisen prosessiin.\nMusiikkiteknologian käyttö: Oppilas kokeilee joitakin musiikkiteknologian työkaluja opettajan\nkonkreettisten ohjeiden mukaan.\nKulttuurinen osaaminen: Oppilas tunnistaa joitakin tapoja käyttää musiikkia viestimiseen ja vaikuttamiseen.\nMusiikillisten käsitteiden ja symbolien käyttö: Oppilas tunnistaa joitakin musiikin käsitteitä ja symboleja.\nKuulosta sekä musisointi- ja ääniympäristön turvallisuudesta huolehtiminen: Oppilas noudattaa annettavia turvallisuusohjeita.\nOppimisen taidot: Oppilas kehittää osaamistaan opettajan tukemana jollakin musiikillisen osaamisen osa-alueella annetun\ntavoitteen suuntaisesti.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "7",
+            "label": {
+              "local": "Arvosana 7 (tyydyttävä)",
+              "en": "Grade 7 (satisfactory)"
+            },
+            "text": {
+              "local": "Musiikillisen ryhmän jäsenenä toimiminen: Oppilas osaa toimia musisoivan ryhmän jäsenenä.\nÄänenkäyttö ja laulaminen musiikkiryhmän jäsenenä: Oppilas käyttää ääntään musiikillisen ilmaisun välineenä ja osallistuu yhteislauluun.\nSoittaminen musiikkiryhmän jäsenenä: Oppilas soittaa keho-, rytmi-, melodia- ja sointusoittimia ja osallistuu yhteissoittoon pyrkien sovittamaan osuutensa kokonaisuuteen.\nMusiikkiliikunta: Oppilas sovittaa liikkumistaan musiikkiin ja osallistuu ryhmän jäsenenä musiikkiliikunnalliseen ilmaisuun.\nÄäniympäristön ja musiikin kuuntelu ja siitä keskusteleminen: Oppilas kuuntelee ääniympäristöä ja musiikkia esittäen kuulemastaan yksittäisiä huomioita.\nMusiikin luova tuottaminen: Oppilas osallistuu luovan tuottamisen prosessiin tuottaen yksittäisiä musiikillisia ideoita yksin tai ryhmän jäsenenä.\nMusiikkiteknologian käyttö: Oppilas kokeilee musiikkiteknologian mahdollisuuksia musiikin tekemisessä itsenäisesti.\nKulttuurinen osaaminen: Oppilas tunnistaa joitakin musiikin monista käyttötavoista ja kulttuurisista ilmenemismuodoista ja osaa kertoa havainnoistaan.\nMusiikillisten käsitteiden ja symbolien käyttö: Oppilas käyttää yksittäisiä musiikkikäsitteitä, musiikin merkintätapoja ja joitakin musiikkitermejä musiikillisessa toiminnassa.\nKuulosta sekä musisointi- ja ääniympäristön turvallisuudesta huolehtiminen: Oppilas ottaa huomioon ääniympäristön turvallisuuteen liittyvät tekijät sekä käyttää laitteita ja soittimia turvallisuusohjeiden mukaisesti.\nOppimisen taidot: Oppilas asettaa itselleen ohjattuna musisointiin, musiikkiliikuntaan tai säveltämiseen ja muuhun luovaan tuottamiseen liittyviä tavoitteita, toimii niiden suuntaisesti ja \ntyöskentelee niiden suuntaisesti",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "8",
+            "label": {
+              "local": "Arvosana 8 (hyvä)",
+              "en": "Grade 8 (good)"
+            },
+            "text": {
+              "local": "Musiikillisen ryhmän jäsenenä toimiminen: Oppilas toimii itsenäisesti musisoivan ryhmän ja musiikillisen yhteisön jäsenenä huolehtien osuudestaan.\nÄänenkäyttö ja laulaminen musiikkiryhmän jäsenenä: Oppilas käyttää ääntään musiikillisen ilmaisun välineenä ja osallistuu yhteislauluun sovittaen osuutensa osaksi kokonaisuutta.\nSoittaminen musiikkiryhmän jäsenenä: Oppilas soittaa keho-, rytmi-, melodia- ja sointusoittimia ja osallistuu yhteissoittoon melko sujuvasti.\nMusiikkiliikunta: Oppilas sovittaa liikeilmaisuaan kuulemansa musiikkiin ja ilmaisee musiikkia liikkuen, myös rytmisesti perussykettä seuraten ja ilmaisten.\nÄäniympäristön ja musiikin kuuntelu ja siitä keskusteleminen: Oppilas kuuntelee ääniympäristöä ja musiikkia ja osaa kertoa havainnoistaan.\nMusiikin luova tuottaminen: Oppilas käyttää musiikillisia tai muita äänellisiä elementtejä kehittäen ja toteuttaen musiikillisia ideoita yksin tai ryhmän jäsenenä.\nMusiikkiteknologian käyttö: Oppilas käyttää musiikkiteknologian tarjoamia mahdollisuuksia omassa tai ryhmän ilmaisussa.\nKulttuurinen osaaminen: Oppilas jäsentää musiikin käyttötapoja ja kulttuurisia ilmenemismuotoja kertoen havainnoistaan.\nMusiikillisten käsitteiden ja symbolien käyttö: Oppilas käyttää musiikkikäsitteitä, musiikin merkintätapoja sekä musiikkitermejä musiikillisessa toiminnassa.\nKuulosta sekä musisointi- ja ääniympäristön turvallisuudesta huolehtiminen: Oppilas käyttää laitteita ja soittimia musisointitilanteissa ottaen huomioon muun muassa äänen ja musiikin voimakkuuteen sekä muut turvalliseen toimintaan liittyvät tekijät.\nOppimisen taidot: Oppilas asettaa ohjattuna itselleen musisointiin, musiikkiliikuntaan tai säveltämiseen ja muuhun luovaan tuottamiseen liittyviä tavoitteita, harjoittelee niiden suuntaisesti sekä arvioi edistymistään suhteessa tavoitteisiinsa.",
+              "en": ""
+            }
+          },
+          {
+            "gradeStep": "9",
+            "label": {
+              "local": "Arvosana 9 (kiitettävä)",
+              "en": "Grade 9 (excellent)"
+            },
+            "text": {
+              "local": "Musiikillisen ryhmän jäsenenä toimiminen: Oppilas toimii rakentavasti musisoivan ryhmän ja musiikillisen yhteisön jäsenenä huolehtien osuudestaan sekä kannustaen ja auttaen toisia.\nÄänenkäyttö ja laulaminen musiikkiryhmän jäsenenä: Oppilas käyttää ääntään musiikillisen ilmaisun välineenä tehtävän ja tilanteen mukaisesti sekä ylläpitää ja kehittää äänenkäyttö- ja laulutaitoaan.\nSoittaminen musiikkiryhmän jäsenenä: Oppilas soittaa keho-, rytmi-, melodia- ja sointusoittimia ja osallistuu yhteissoittoon sujuvasti.\nMusiikkiliikunta: Oppilas käyttää koko kehon liikettä monipuolisesti ja luovasti musiikin oppimisessa sekä musiikillisessa ilmaisussa ja vuorovaikutuksessa.\nÄäniympäristön ja musiikin kuuntelu ja siitä keskusteleminen: Oppilas kuuntelee ääniympäristöä ja musiikkia keskustellen havainnoistaan sekä perustellen näkemyksiään.\nMusiikin luova tuottaminen: Oppilas käyttää musiikillisia tai muita äänellisiä elementtejä kehittäen ja toteuttaen moninaisia sekä kekseliäitä musiikillisia ideoita yksin tai ryhmän jäsenenä.\nMusiikkiteknologian käyttö: Oppilas käyttää monipuolisesti musiikkiteknologian tarjoamia mahdollisuuksia omassa tai ryhmän ilmaisussa.\nKulttuurinen osaaminen: Oppilas analysoi ja arvioi musiikin käyttötapoja ja kulttuurisia ilmenemismuotoja \nja osaa keskustella niistä.\nMusiikillisten käsitteiden ja symbolien käyttö: Oppilas käyttää ja soveltaa sujuvasti ja tarkoituksenmukaisesti musiikkikäsitteitä, musiikin merkintätapoja ja musiikkitermejä musiikillisessa toiminnassa.\nKuulosta sekä musisointi- ja ääniympäristön turvallisuudesta huolehtiminen: Oppilas huolehtii vastuullisesti musisointi- ja ääniympäristön turvallisuudesta.\nOppimisen taidot: Oppilas asettaa musisointiin, musiikkiliikuntaan tai säveltämiseen ja muuhun luovaan tuottamiseen liittyviä tavoitteita ja työskentelee niiden mukaisesti. \n\nOppilas arvioi toimintaansa ja mukauttaa työskentelyään tavoitteidensa pohjalta.",
+              "en": ""
+            }
           }
         ]
       }
