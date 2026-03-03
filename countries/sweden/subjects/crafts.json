@@ -194,9 +194,7 @@
             "coreElements": [
               "Slöjdens material, verktyg och hantverkstekniker"
             ],
-            "verbs": [
-              "Förstå"
-            ]
+            "verbs": ["Förstå"]
           },
           {
             "code": "SL-1-3-5",
@@ -204,9 +202,7 @@
               "local": "Slöjdarbetets olika delar: idéutveckling, överväganden, framställning och ref­lektion över arbetsprocessen.",
               "en": "The different parts of craft work: idea development, considerations, production and reflection on the work process."
             },
-            "coreElements": [
-              "Slöjdens arbetsprocesser"
-            ],
+            "coreElements": ["Slöjdens arbetsprocesser"],
             "verbs": []
           },
           {
@@ -215,13 +211,8 @@
               "local": "Undersökande av olika materials egenskaper.",
               "en": "Exploration of the properties of different materials."
             },
-            "coreElements": [
-              "Slöjdens arbetsprocesser"
-            ],
-            "verbs": [
-              "Söka",
-              "Undersöka"
-            ]
+            "coreElements": ["Slöjdens arbetsprocesser"],
+            "verbs": ["Söka", "Undersöka"]
           },
           {
             "code": "SL-1-3-7",
@@ -232,9 +223,7 @@
             "coreElements": [
               "Slöjdens uttryck och betydelse för hållbar utveckling"
             ],
-            "verbs": [
-              "Skapa"
-            ]
+            "verbs": ["Skapa"]
           },
           {
             "code": "SL-1-3-8",
@@ -309,9 +298,7 @@
             "coreElements": [
               "Slöjdens material, verktyg och hantverkstekniker"
             ],
-            "verbs": [
-              "Förstå"
-            ]
+            "verbs": ["Förstå"]
           },
           {
             "code": "SL-4-6-5",
@@ -319,9 +306,7 @@
               "local": "Slöjdarbetets olika delar: idéutveckling, överväganden, framställning och ref­lektion över arbetsprocessen. Hur delarna i arbetsprocessen samverkar till en helhet.",
               "en": "The different parts of craft work: idea development, considerations, production and reflection on the work process. How the parts of the work process interact to form a whole."
             },
-            "coreElements": [
-              "Slöjdens arbetsprocesser"
-            ],
+            "coreElements": ["Slöjdens arbetsprocesser"],
             "verbs": []
           },
           {
@@ -330,13 +315,8 @@
               "local": "Undersökande av olika materials egenskaper och användbarhet i det egna slöjd­arbetet.",
               "en": "Exploration of the properties and usability of different materials in one's own craft work."
             },
-            "coreElements": [
-              "Slöjdens arbetsprocesser"
-            ],
-            "verbs": [
-              "Söka",
-              "Undersöka"
-            ]
+            "coreElements": ["Slöjdens arbetsprocesser"],
+            "verbs": ["Söka", "Undersöka"]
           },
           {
             "code": "SL-4-6-7",
@@ -347,9 +327,7 @@
             "coreElements": [
               "Slöjdens uttryck och betydelse för hållbar utveckling"
             ],
-            "verbs": [
-              "Skapa"
-            ]
+            "verbs": ["Skapa"]
           },
           {
             "code": "SL-4-6-8",
@@ -461,9 +439,7 @@
             "coreElements": [
               "Slöjdens material, verktyg och hantverkstekniker"
             ],
-            "verbs": [
-              "Utveckla"
-            ]
+            "verbs": ["Utveckla"]
           },
           {
             "code": "SL-7-9-4",
@@ -474,9 +450,7 @@
             "coreElements": [
               "Slöjdens material, verktyg och hantverkstekniker"
             ],
-            "verbs": [
-              "Skapa"
-            ]
+            "verbs": ["Skapa"]
           },
           {
             "code": "SL-7-9-5",
@@ -484,9 +458,7 @@
               "local": "Slöjdarbetets olika delar: idéutveckling, överväganden, framställning samt ref­lektion över arbetsprocessen och resultatet. Hur delarna i arbets­processen samverkar och påverkar resultatet.",
               "en": "The different parts of craft work: idea development, considerations, production and reflection on the work process and the result. How the parts of the work process interact and affect the result."
             },
-            "coreElements": [
-              "Slöjdens arbetsprocesser"
-            ],
+            "coreElements": ["Slöjdens arbetsprocesser"],
             "verbs": []
           },
           {
@@ -495,13 +467,8 @@
               "local": "Undersökande av olika material och hantverkstekniker utifrån deras kom­bi­nations- och konstruktionsmöjligheter.",
               "en": "Exploration of different materials and craft techniques based on their possibilities for combination and construction."
             },
-            "coreElements": [
-              "Slöjdens arbetsprocesser"
-            ],
-            "verbs": [
-              "Söka",
-              "Undersöka"
-            ]
+            "coreElements": ["Slöjdens arbetsprocesser"],
+            "verbs": ["Söka", "Undersöka"]
           },
           {
             "code": "SL-7-9-7",
@@ -512,9 +479,7 @@
             "coreElements": [
               "Slöjdens uttryck och betydelse för hållbar utveckling"
             ],
-            "verbs": [
-              "Skapa"
-            ]
+            "verbs": ["Skapa"]
           },
           {
             "code": "SL-7-9-8",
@@ -525,9 +490,7 @@
             "coreElements": [
               "Slöjdens uttryck och betydelse för hållbar utveckling"
             ],
-            "verbs": [
-              "Skapa"
-            ]
+            "verbs": ["Skapa"]
           },
           {
             "code": "SL-7-9-9",

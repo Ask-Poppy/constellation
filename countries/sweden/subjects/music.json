@@ -158,9 +158,7 @@
               "local": "Sång och spel i olika former. Unison sång, kanon, växelsång och ensemble­spel.",
               "en": "Singing and playing in different forms. Unison singing, canon, call and response singing and ensemble playing."
             },
-            "coreElements": [
-              "Musicerande och musikskapande"
-            ],
+            "coreElements": ["Musicerande och musikskapande"],
             "verbs": []
           },
           {
@@ -169,12 +167,8 @@
               "local": "Imitation och improvisation med röst, rörelse och instrument.",
               "en": "Imitation and improvisation with voice, movement and instruments."
             },
-            "coreElements": [
-              "Musicerande och musikskapande"
-            ],
-            "verbs": [
-              "Visa"
-            ]
+            "coreElements": ["Musicerande och musikskapande"],
+            "verbs": ["Visa"]
           },
           {
             "code": "MU-1-3-3",
@@ -182,9 +176,7 @@
               "local": "Komposition med utgångspunkt i inspirationskällor, till exempel bild, rörel­se och musik.",
               "en": "Composition based on sources of inspiration, for example images, movement and music."
             },
-            "coreElements": [
-              "Musicerande och musikskapande"
-            ],
+            "coreElements": ["Musicerande och musikskapande"],
             "verbs": []
           },
           {
@@ -193,9 +185,7 @@
               "local": "Gestaltning av sånger och berättelser med ljud, rytmer och rörelser.",
               "en": "Performance of songs and stories with sounds, rhythms and movements."
             },
-            "coreElements": [
-              "Musicerande och musikskapande"
-            ],
+            "coreElements": ["Musicerande och musikskapande"],
             "verbs": []
           },
           {
@@ -204,12 +194,8 @@
               "local": "Rösten och hur den kan användas för musikaliska uttryck genom variation av klang, rytm och dynamik.",
               "en": "The voice and how it can be used for musical expression through variation of timbre, rhythm and dynamics."
             },
-            "coreElements": [
-              "Musikens verktyg"
-            ],
-            "verbs": [
-              "Använda"
-            ]
+            "coreElements": ["Musikens verktyg"],
+            "verbs": ["Använda"]
           },
           {
             "code": "MU-1-3-6",
@@ -217,12 +203,8 @@
               "local": "Slagverksinstrument, stränginstrument, tangentinstrument och digitala verk­tyg för musicerande och musikskapande.",
               "en": "Percussion instruments, string instruments, keyboard instruments and digital tools for playing and creating music."
             },
-            "coreElements": [
-              "Musikens verktyg"
-            ],
-            "verbs": [
-              "Skapa"
-            ]
+            "coreElements": ["Musikens verktyg"],
+            "verbs": ["Skapa"]
           },
           {
             "code": "MU-1-3-7",
@@ -230,9 +212,7 @@
               "local": "Röstvård och hörselvård vid sång, spel och lyssnande.",
               "en": "Vocal care and hearing protection when singing, playing and listening."
             },
-            "coreElements": [
-              "Musikens verktyg"
-            ],
+            "coreElements": ["Musikens verktyg"],
             "verbs": []
           },
           {
@@ -241,9 +221,7 @@
               "local": "Musikaliska byggstenar: puls, rytm, tempo, klang, tonhöjd och dynamik.",
               "en": "Musical building blocks: pulse, rhythm, tempo, timbre, pitch and dynamics."
             },
-            "coreElements": [
-              "Musikens verktyg"
-            ],
+            "coreElements": ["Musikens verktyg"],
             "verbs": []
           },
           {
@@ -252,9 +230,7 @@
               "local": "Musiksymboler, bilder och grundläggande notkännedom.",
               "en": "Musical symbols, images and basic music notation knowledge."
             },
-            "coreElements": [
-              "Musikens verktyg"
-            ],
+            "coreElements": ["Musikens verktyg"],
             "verbs": []
           },
           {
@@ -263,9 +239,7 @@
               "local": "Musik som knyter an till elevens vardagliga och högtidliga sammanhang, däri­bland nationalsången och några av de vanligaste psalmerna, samt in­blickar i svensk och nordisk barnvisetradition.",
               "en": "Music connected to the pupil's everyday and ceremonial contexts, including the national anthem and some of the most common hymns, as well as insights into Swedish and Nordic children's song traditions."
             },
-            "coreElements": [
-              "Musikens sammanhang och funktioner"
-            ],
+            "coreElements": ["Musikens sammanhang och funktioner"],
             "verbs": []
           },
           {
@@ -274,9 +248,7 @@
               "local": "Olika musikinstrument. Hur de låter, vad de heter och hur de ser ut.",
               "en": "Different musical instruments. How they sound, what they are called and what they look like."
             },
-            "coreElements": [
-              "Musikens sammanhang och funktioner"
-            ],
+            "coreElements": ["Musikens sammanhang och funktioner"],
             "verbs": []
           },
           {
@@ -285,9 +257,7 @@
               "local": "Associationer i form av tankar, känslor och inre bilder som uppkommer genom musikupplevelser.",
               "en": "Associations in the form of thoughts, feelings and mental images that arise through musical experiences."
             },
-            "coreElements": [
-              "Musikens sammanhang och funktioner"
-            ],
+            "coreElements": ["Musikens sammanhang och funktioner"],
             "verbs": []
           }
         ]
@@ -305,9 +275,7 @@
               "local": "Sång, melodispel och ackompanjemang i olika genrer, unisont och i stämmor.",
               "en": "Singing, melody playing and accompaniment in different genres, in unison and in parts."
             },
-            "coreElements": [
-              "Musicerande och musikskapande"
-            ],
+            "coreElements": ["Musicerande och musikskapande"],
             "verbs": []
           },
           {
@@ -316,12 +284,8 @@
               "local": "Imitation och improvisation med röst, rörelse och instrument med utgångs­punkt i musikaliska byggstenar.",
               "en": "Imitation and improvisation with voice, movement and instruments based on musical building blocks."
             },
-            "coreElements": [
-              "Musicerande och musikskapande"
-            ],
-            "verbs": [
-              "Visa"
-            ]
+            "coreElements": ["Musicerande och musikskapande"],
+            "verbs": ["Visa"]
           },
           {
             "code": "MU-4-6-3",
@@ -329,9 +293,7 @@
               "local": "Komposition med utgångspunkt i musikaliska byggstenar.",
               "en": "Composition based on musical building blocks."
             },
-            "coreElements": [
-              "Musicerande och musikskapande"
-            ],
+            "coreElements": ["Musicerande och musikskapande"],
             "verbs": []
           },
           {
@@ -340,9 +302,7 @@
               "local": "Gestaltning av idéer genom att musicera och genom att kombinera musik med andra uttrycksformer.",
               "en": "Expression of ideas through making music and through combining music with other forms of expression."
             },
-            "coreElements": [
-              "Musicerande och musikskapande"
-            ],
+            "coreElements": ["Musicerande och musikskapande"],
             "verbs": []
           },
           {
@@ -351,12 +311,8 @@
               "local": "Rösten och hur den kan varieras och användas musikaliskt i olika vokala uttryck, till exempel sång, jojk och rap.",
               "en": "The voice and how it can be varied and used musically in different vocal expressions, for example singing, joik and rap."
             },
-            "coreElements": [
-              "Musikens verktyg"
-            ],
-            "verbs": [
-              "Använda"
-            ]
+            "coreElements": ["Musikens verktyg"],
+            "verbs": ["Använda"]
           },
           {
             "code": "MU-4-6-6",
@@ -364,12 +320,8 @@
               "local": "Ackord-, melodi-, bas- och slagverksinstrument samt digitala verktyg för musice­rande och musikskapande.",
               "en": "Chord, melody, bass and percussion instruments, as well as digital tools for playing and creating music."
             },
-            "coreElements": [
-              "Musikens verktyg"
-            ],
-            "verbs": [
-              "Skapa"
-            ]
+            "coreElements": ["Musikens verktyg"],
+            "verbs": ["Skapa"]
           },
           {
             "code": "MU-4-6-7",
@@ -377,9 +329,7 @@
               "local": "Röstvård och hörselvård vid musikaliska aktiviteter i olika miljöer.",
               "en": "Vocal care and hearing protection during musical activities in different environments."
             },
-            "coreElements": [
-              "Musikens verktyg"
-            ],
+            "coreElements": ["Musikens verktyg"],
             "verbs": []
           },
           {
@@ -388,9 +338,7 @@
               "local": "Musikaliska byggstenar: puls, rytm, tempo, taktarter, klang, tonhöjd, dyna­mik, fraser, perioder, musikalisk form och ackord.",
               "en": "Musical building blocks: pulse, rhythm, tempo, time signatures, timbre, pitch, dynamics, phrases, periods, musical form and chords."
             },
-            "coreElements": [
-              "Musikens verktyg"
-            ],
+            "coreElements": ["Musikens verktyg"],
             "verbs": []
           },
           {
@@ -399,9 +347,7 @@
               "local": "Musiksymboler, grafisk notation, ackordbeteckningar och grundläggande not­kännedom.",
               "en": "Musical symbols, graphic notation, chord symbols and basic music notation knowledge."
             },
-            "coreElements": [
-              "Musikens verktyg"
-            ],
+            "coreElements": ["Musikens verktyg"],
             "verbs": []
           },
           {
@@ -410,12 +356,8 @@
               "local": "Musikens påverkan på och betydelse för människa och samhälle. Hur musik kan uppfattas och användas i vardagliga och högtidliga sam­man­hang.",
               "en": "The influence and significance of music for people and society. How music can be perceived and used in everyday and ceremonial contexts."
             },
-            "coreElements": [
-              "Musikens sammanhang och funktioner"
-            ],
-            "verbs": [
-              "Använda"
-            ]
+            "coreElements": ["Musikens sammanhang och funktioner"],
+            "verbs": ["Använda"]
           },
           {
             "code": "MU-4-6-11",
@@ -423,9 +365,7 @@
               "local": "Musik tillsammans med bild, text och dans. Hur olika uttrycksformer kan sam­spela.",
               "en": "Music together with images, text and dance. How different forms of expression can interact."
             },
-            "coreElements": [
-              "Musikens sammanhang och funktioner"
-            ],
+            "coreElements": ["Musikens sammanhang och funktioner"],
             "verbs": []
           },
           {
@@ -434,9 +374,7 @@
               "local": "Musikinstrumentens funktioner i olika ensemble- och orkestertyper.",
               "en": "The functions of musical instruments in different types of ensembles and orchestras."
             },
-            "coreElements": [
-              "Musikens sammanhang och funktioner"
-            ],
+            "coreElements": ["Musikens sammanhang och funktioner"],
             "verbs": []
           },
           {
@@ -445,9 +383,7 @@
               "local": "Musikaliska karaktärsdrag i konstmusik, folkmusik och populärmusik från oli­ka kulturer.",
               "en": "Musical characteristics in classical music, folk music and popular music from different cultures."
             },
-            "coreElements": [
-              "Musikens sammanhang och funktioner"
-            ],
+            "coreElements": ["Musikens sammanhang och funktioner"],
             "verbs": []
           }
         ],
@@ -502,9 +438,7 @@
               "local": "Sång, melodispel och ackompanjemang med genretypiska musikaliska uttryck, unisont och i stämmor.",
               "en": "Singing, melody playing and accompaniment with genre-typical musical expressions, in unison and in parts."
             },
-            "coreElements": [
-              "Musicerande och musikskapande"
-            ],
+            "coreElements": ["Musicerande och musikskapande"],
             "verbs": []
           },
           {
@@ -513,12 +447,8 @@
               "local": "Rytmisk och melodisk improvisation med röst, rörelse och instrument med ut­gångs­­punkt i musikaliska byggstenar.",
               "en": "Rhythmic and melodic improvisation with voice, movement and instruments based on musical building blocks."
             },
-            "coreElements": [
-              "Musicerande och musikskapande"
-            ],
-            "verbs": [
-              "Visa"
-            ]
+            "coreElements": ["Musicerande och musikskapande"],
+            "verbs": ["Visa"]
           },
           {
             "code": "MU-7-9-3",
@@ -526,9 +456,7 @@
               "local": "Komposition i olika genrer, till exempel visor, ljudkompositioner och låtar.",
               "en": "Composition in different genres, for example folk songs, sound compositions and songs."
             },
-            "coreElements": [
-              "Musicerande och musikskapande"
-            ],
+            "coreElements": ["Musicerande och musikskapande"],
             "verbs": []
           },
           {
@@ -537,9 +465,7 @@
               "local": "Gestaltning och kommunikation av musikaliska tankar och idéer i kom­bi­na­tion med andra uttrycksformer.",
               "en": "Expression and communication of musical thoughts and ideas in combination with other forms of expression."
             },
-            "coreElements": [
-              "Musicerande och musikskapande"
-            ],
+            "coreElements": ["Musicerande och musikskapande"],
             "verbs": []
           },
           {
@@ -548,12 +474,8 @@
               "local": "Rösten och hur den kan varieras och användas för vokala uttryck inom oli­ka genrer och ensembletyper.",
               "en": "The voice and how it can be varied and used for vocal expressions within different genres and types of ensembles."
             },
-            "coreElements": [
-              "Musikens verktyg"
-            ],
-            "verbs": [
-              "Använda"
-            ]
+            "coreElements": ["Musikens verktyg"],
+            "verbs": ["Använda"]
           },
           {
             "code": "MU-7-9-6",
@@ -561,12 +483,8 @@
               "local": "Ackord-, melodi-, bas- och slagverksinstrument samt digitala verktyg för musice­rande och musikskapande.",
               "en": "Chord, melody, bass and percussion instruments, as well as digital tools for playing and creating music."
             },
-            "coreElements": [
-              "Musikens verktyg"
-            ],
-            "verbs": [
-              "Skapa"
-            ]
+            "coreElements": ["Musikens verktyg"],
+            "verbs": ["Skapa"]
           },
           {
             "code": "MU-7-9-7",
@@ -574,9 +492,7 @@
               "local": "Röstvård och hörselvård. Orsaker till att tal, sång, musiklyssnande och musice­rande kan bidra till skador samt hur dessa skador kan förebyggas.",
               "en": "Vocal care and hearing protection. Causes of how speech, singing, listening to music and music-making can contribute to damage, and how such damage can be prevented."
             },
-            "coreElements": [
-              "Musikens verktyg"
-            ],
+            "coreElements": ["Musikens verktyg"],
             "verbs": []
           },
           {
@@ -585,9 +501,7 @@
               "local": "Musikaliska byggstenar: puls, rytm, tempo, taktarter, klang, tonhöjd, dy­na­mik, fraser, perioder, musikalisk form, ackord, ackompanjemangsmodeller och basgångar.",
               "en": "Musical building blocks: pulse, rhythm, tempo, time signatures, timbre, pitch, dynamics, phrases, periods, musical form, chords, accompaniment patterns and bass lines."
             },
-            "coreElements": [
-              "Musikens verktyg"
-            ],
+            "coreElements": ["Musikens verktyg"],
             "verbs": []
           },
           {
@@ -596,9 +510,7 @@
               "local": "Musiksymboler, grafisk notation, ackordbeteckningar och grundläggande no­tkännedom.",
               "en": "Musical symbols, graphic notation, chord symbols and basic music notation knowledge."
             },
-            "coreElements": [
-              "Musikens verktyg"
-            ],
+            "coreElements": ["Musikens verktyg"],
             "verbs": []
           },
           {
@@ -607,12 +519,8 @@
               "local": "Musikens påverkan på och betydelse för människa och samhälle. Musikens funk­tion för att uttrycka identitet, normer och grupptillhörighet i olika kul­tu­rer och sociala sammanhang.",
               "en": "The influence and significance of music for people and society. The function of music in expressing identity, norms and group belonging in different cultures and social contexts."
             },
-            "coreElements": [
-              "Musikens sammanhang och funktioner"
-            ],
-            "verbs": [
-              "Uttrycka"
-            ]
+            "coreElements": ["Musikens sammanhang och funktioner"],
+            "verbs": ["Uttrycka"]
           },
           {
             "code": "MU-7-9-11",
@@ -620,12 +528,8 @@
               "local": "Hur musik används som meningsskapande uttrycksform i olika medier, till exempel i film och spel.",
               "en": "How music is used as a meaning-making form of expression in different media, for example in film and games."
             },
-            "coreElements": [
-              "Musikens sammanhang och funktioner"
-            ],
-            "verbs": [
-              "Skapa"
-            ]
+            "coreElements": ["Musikens sammanhang och funktioner"],
+            "verbs": ["Skapa"]
           },
           {
             "code": "MU-7-9-12",
@@ -633,9 +537,7 @@
               "local": "Rättigheter och skyldigheter vid bruk av musik i olika sammanhang.",
               "en": "Rights and obligations when using music in different contexts."
             },
-            "coreElements": [
-              "Musikens sammanhang och funktioner"
-            ],
+            "coreElements": ["Musikens sammanhang och funktioner"],
             "verbs": []
           },
           {
@@ -644,9 +546,7 @@
               "local": "Musikinstrumentens funktioner och uttryck i olika genrer och sam­man­hang.",
               "en": "The functions and expressions of musical instruments in different genres and contexts."
             },
-            "coreElements": [
-              "Musikens sammanhang och funktioner"
-            ],
+            "coreElements": ["Musikens sammanhang och funktioner"],
             "verbs": []
           },
           {
@@ -655,9 +555,7 @@
               "local": "Musikaliska karaktärsdrag i konstmusik, folkmusik och populärmusik från oli­ka tidsperioder. Framväxten av olika genrer samt några centrala ton­sätta­re, låtskrivare och musikaliska verk.",
               "en": "Musical characteristics in classical music, folk music and popular music from different time periods. The emergence of different genres, as well as some key composers, songwriters and musical works."
             },
-            "coreElements": [
-              "Musikens sammanhang och funktioner"
-            ],
+            "coreElements": ["Musikens sammanhang och funktioner"],
             "verbs": []
           }
         ],

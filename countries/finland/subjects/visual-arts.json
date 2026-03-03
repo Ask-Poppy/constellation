@@ -5,11 +5,7 @@
     "curriculum": "POPS 2014",
     "license": "Open Government Data (Finland)",
     "lastSynced": "2026-03-03T08:59:02Z",
-    "aiEnriched": [
-      "description.en",
-      "interdisciplinaryThemes",
-      "basicSkills"
-    ]
+    "aiEnriched": ["description.en", "interdisciplinaryThemes", "basicSkills"]
   },
   "subject": {
     "code": "KU",
@@ -173,11 +169,7 @@
               "local": "T1 kannustaa oppilasta havainnoimaan taidetta, ympäristöä ja muuta visuaalista kulttuuria moniaistisesti ja kuvia tekemällä",
               "en": "T1 encourage the pupil to observe art, the environment, and other visual culture using multiple senses and by making images"
             },
-            "coreElements": [
-              "S3",
-              "S2",
-              "S1"
-            ],
+            "coreElements": ["S3", "S2", "S1"],
             "verbs": []
           },
           {
@@ -186,11 +178,7 @@
               "local": "T2 rohkaista oppilasta keskustelemaan havainnoistaan ja ajatuksistaan",
               "en": "T2 encourage the pupil to discuss their observations and thoughts"
             },
-            "coreElements": [
-              "S3",
-              "S2",
-              "S1"
-            ],
+            "coreElements": ["S3", "S2", "S1"],
             "verbs": []
           },
           {
@@ -199,11 +187,7 @@
               "local": "T3 innostaa oppilasta ilmaisemaan havaintojaan ja ajatuksiaan erilaisten kuvallisten tuottamisen tapojen avulla",
               "en": "T3 inspire the pupil to express their observations and thoughts through various methods of visual production"
             },
-            "coreElements": [
-              "S3",
-              "S2",
-              "S1"
-            ],
+            "coreElements": ["S3", "S2", "S1"],
             "verbs": []
           },
           {
@@ -212,11 +196,7 @@
               "local": "T4 innostaa oppilasta kokeilemaan erilaisia materiaaleja ja tekniikoita sekä harjoittelemaan kuvallisia ilmaisutapoja",
               "en": "T4 inspire the pupil to experiment with different materials and techniques and to practise visual modes of expression"
             },
-            "coreElements": [
-              "S3",
-              "S2",
-              "S1"
-            ],
+            "coreElements": ["S3", "S2", "S1"],
             "verbs": []
           },
           {
@@ -225,11 +205,7 @@
               "local": "T5 kannustaa oppilasta pitkäjänteiseen kuvalliseen työskentelyyn yksin ja yhdessä muiden kanssa",
               "en": "T5 encourage the pupil to engage in sustained visual work alone and together with others"
             },
-            "coreElements": [
-              "S3",
-              "S2",
-              "S1"
-            ],
+            "coreElements": ["S3", "S2", "S1"],
             "verbs": []
           },
           {
@@ -238,11 +214,7 @@
               "local": "T6 kannustaa oppilasta tarkastelemaan kuvallisen vaikuttamisen keinoja omissa ja muiden kuvissa",
               "en": "T6 encourage the pupil to examine the means of visual influence in their own and others' images"
             },
-            "coreElements": [
-              "S3",
-              "S2",
-              "S1"
-            ],
+            "coreElements": ["S3", "S2", "S1"],
             "verbs": []
           },
           {
@@ -251,11 +223,7 @@
               "local": "T7 ohjata oppilasta käyttämään kuvataiteen käsitteistöä sekä tarkastelemaan erilaisia kuvatyyppejä",
               "en": "T7 guide the pupil to use visual arts terminology and to examine different types of images"
             },
-            "coreElements": [
-              "S3",
-              "S2",
-              "S1"
-            ],
+            "coreElements": ["S3", "S2", "S1"],
             "verbs": []
           },
           {
@@ -264,11 +232,7 @@
               "local": "T8 kannustaa oppilasta tunnistamaan erilaisia taiteen ja muun visuaalisen kulttuurin tuotteita lähiympäristössään",
               "en": "T8 encourage the pupil to recognise different products of art and other visual culture in their local environment"
             },
-            "coreElements": [
-              "S3",
-              "S2",
-              "S1"
-            ],
+            "coreElements": ["S3", "S2", "S1"],
             "verbs": []
           },
           {
@@ -277,11 +241,7 @@
               "local": "T9 innostaa oppilasta tekemään kuvia oman elinympäristön, eri aikojen ja eri kulttuurien tarkastelun pohjalta",
               "en": "T9 inspire the pupil to create images based on the examination of their own living environment, different eras, and different cultures"
             },
-            "coreElements": [
-              "S3",
-              "S2",
-              "S1"
-            ],
+            "coreElements": ["S3", "S2", "S1"],
             "verbs": []
           },
           {
@@ -290,11 +250,7 @@
               "local": "T10 ohjata oppilasta tunnistamaan taiteessa, ympäristössä ja muussa visuaalisessa kulttuurissa ilmeneviä arvoja",
               "en": "T10 guide the pupil to recognise values manifested in art, the environment, and other visual culture"
             },
-            "coreElements": [
-              "S3",
-              "S2",
-              "S1"
-            ],
+            "coreElements": ["S3", "S2", "S1"],
             "verbs": []
           },
           {
@@ -303,11 +259,7 @@
               "local": "T11 kannustaa oppilasta ottamaan kuvailmaisussaan huomioon kulttuurinen moninaisuus ja kestävä kehitys",
               "en": "T11 encourage the pupil to take cultural diversity and sustainable development into account in their visual expression"
             },
-            "coreElements": [
-              "S3",
-              "S2",
-              "S1"
-            ],
+            "coreElements": ["S3", "S2", "S1"],
             "verbs": []
           }
         ]
@@ -325,11 +277,7 @@
               "local": "T1 kannustaa oppilasta havainnoimaan taidetta, ympäristöä ja muuta visuaalista kulttuuria moniaistisesti ja erilaisia kuvallisia välineitä hyödyntäen",
               "en": "T1 encourage the pupil to observe art, the environment, and other visual culture using multiple senses and utilising various visual tools"
             },
-            "coreElements": [
-              "S3",
-              "S1",
-              "S2"
-            ],
+            "coreElements": ["S3", "S1", "S2"],
             "verbs": []
           },
           {
@@ -338,11 +286,7 @@
               "local": "T2 rohkaista oppilasta keskustelemaan havainnoistaan ja ajatuksistaan sekä harjoittelemaan näkemystensä perustelemista",
               "en": "T2 encourage the pupil to discuss their observations and thoughts and to practise justifying their viewpoints"
             },
-            "coreElements": [
-              "S3",
-              "S1",
-              "S2"
-            ],
+            "coreElements": ["S3", "S1", "S2"],
             "verbs": []
           },
           {
@@ -351,11 +295,7 @@
               "local": "T3 innostaa oppilasta ilmaisemaan havaintojaan ja ajatuksiaan kuvallisesti ja muita tiedon tuottamisen tapoja käyttäen",
               "en": "T3 inspire the pupil to express their observations and thoughts visually and using other ways of producing knowledge"
             },
-            "coreElements": [
-              "S3",
-              "S1",
-              "S2"
-            ],
+            "coreElements": ["S3", "S1", "S2"],
             "verbs": []
           },
           {
@@ -364,11 +304,7 @@
               "local": "T4 ohjata oppilasta käyttämään monipuolisesti erilaisia materiaaleja, tekniikoita ja ilmaisun keinoja sekä harjaannuttamaan kuvan tekemisen taitojaan",
               "en": "T4 guide the pupil to use a wide range of materials, techniques, and means of expression and to practise their image-making skills"
             },
-            "coreElements": [
-              "S3",
-              "S1",
-              "S2"
-            ],
+            "coreElements": ["S3", "S1", "S2"],
             "verbs": []
           },
           {
@@ -377,11 +313,7 @@
               "local": "T5 ohjata oppilasta tavoitteelliseen kuvallisten taitojen kehittämiseen yksin ja yhteistyössä muiden kanssa",
               "en": "T5 guide the pupil towards goal-oriented development of visual skills alone and in cooperation with others"
             },
-            "coreElements": [
-              "S3",
-              "S1",
-              "S2"
-            ],
+            "coreElements": ["S3", "S1", "S2"],
             "verbs": []
           },
           {
@@ -390,11 +322,7 @@
               "local": "T6 ohjata oppilasta tutustumaan erilaisiin kuvallisen viestinnän tapoihin ja käyttämään kuvallisen vaikuttamisen keinoja omissa kuvissaan",
               "en": "T6 guide the pupil to explore different modes of visual communication and to use means of visual influence in their own images"
             },
-            "coreElements": [
-              "S3",
-              "S1",
-              "S2"
-            ],
+            "coreElements": ["S3", "S1", "S2"],
             "verbs": []
           },
           {
@@ -403,11 +331,7 @@
               "local": "T7 ohjata oppilasta tarkastelemaan kuvia eri lähtökohdista ja eri yhteyksissä sekä pohtimaan todellisuuden ja fiktion suhdetta",
               "en": "T7 guide the pupil to examine images from different starting points and in different contexts and to consider the relationship between reality and fiction"
             },
-            "coreElements": [
-              "S3",
-              "S1",
-              "S2"
-            ],
+            "coreElements": ["S3", "S1", "S2"],
             "verbs": []
           },
           {
@@ -416,11 +340,7 @@
               "local": "T8 ohjata oppilasta tarkastelemaan taidetta ja muuta visuaalista kulttuuria teoksen, tekijän ja katsojan näkökulmista sekä pohtimaan historiallisten ja kulttuuristen tekijöiden vaikutusta kuviin",
               "en": "T8 guide the pupil to examine art and other visual culture from the perspectives of the work, the maker, and the viewer, and to consider the influence of historical and cultural factors on images"
             },
-            "coreElements": [
-              "S3",
-              "S1",
-              "S2"
-            ],
+            "coreElements": ["S3", "S1", "S2"],
             "verbs": []
           },
           {
@@ -429,11 +349,7 @@
               "local": "T9 innostaa oppilasta kokeilemaan eri aikojen ja kulttuurien kuvailmaisun tapoja omissa kuvissaan",
               "en": "T9 inspire the pupil to experiment with visual expression methods of different eras and cultures in their own images"
             },
-            "coreElements": [
-              "S3",
-              "S1",
-              "S2"
-            ],
+            "coreElements": ["S3", "S1", "S2"],
             "verbs": []
           },
           {
@@ -442,11 +358,7 @@
               "local": "T10 ohjata oppilasta keskustelemaan taiteessa, ympäristössä ja muussa visuaalisessa kulttuurissa ilmenevistä arvoista",
               "en": "T10 guide the pupil to discuss values manifested in art, the environment, and other visual culture"
             },
-            "coreElements": [
-              "S3",
-              "S1",
-              "S2"
-            ],
+            "coreElements": ["S3", "S1", "S2"],
             "verbs": []
           },
           {
@@ -455,11 +367,7 @@
               "local": "T11 kannustaa oppilasta ottamaan huomioon kulttuurinen moninaisuus ja kestävä kehitys kuvailmaisun sisältöjä ja toimintatapoja valitessaan",
               "en": "T11 encourage the pupil to take cultural diversity and sustainable development into account when choosing the contents and methods of visual expression"
             },
-            "coreElements": [
-              "S3",
-              "S1",
-              "S2"
-            ],
+            "coreElements": ["S3", "S1", "S2"],
             "verbs": []
           }
         ]
@@ -477,11 +385,7 @@
               "local": "T1 kannustaa oppilasta havainnoimaan, taidetta, ympäristöä ja muuta visuaalista kulttuuria moniaistisesti ja käyttämään monipuolisesti kuvallisen tuottamisen menetelmiä",
               "en": "T1 encourage the pupil to observe art, the environment, and other visual culture using multiple senses and to use diverse methods of visual production"
             },
-            "coreElements": [
-              "S3",
-              "S1",
-              "S2"
-            ],
+            "coreElements": ["S3", "S1", "S2"],
             "verbs": []
           },
           {
@@ -490,11 +394,7 @@
               "local": "T2 rohkaista oppilasta keskustelemaan omista ja muiden havainnoista ja ajatuksista sekä perustelemaan näkemyksiään",
               "en": "T2 encourage the pupil to discuss their own and others' observations and thoughts and to justify their viewpoints"
             },
-            "coreElements": [
-              "S3",
-              "S1",
-              "S2"
-            ],
+            "coreElements": ["S3", "S1", "S2"],
             "verbs": []
           },
           {
@@ -503,11 +403,7 @@
               "local": "T3 innostaa oppilasta ilmaisemaan havaintojaan ja ajatuksiaan kuvallisesti erilaisia välineitä ja tiedon tuottamisen tapoja käyttäen eri ympäristöissä",
               "en": "T3 inspire the pupil to express their observations and thoughts visually, using various tools and ways of producing knowledge in different environments"
             },
-            "coreElements": [
-              "S3",
-              "S1",
-              "S2"
-            ],
+            "coreElements": ["S3", "S1", "S2"],
             "verbs": []
           },
           {
@@ -516,11 +412,7 @@
               "local": "T4 ohjata oppilasta soveltamaan erilaisia materiaaleja, tekniikoita ja ilmaisun keinoja sekä syventämään kuvallisen tuottamisen taitojaan",
               "en": "T4 guide the pupil to apply different materials, techniques, and means of expression and to deepen their visual production skills"
             },
-            "coreElements": [
-              "S3",
-              "S1",
-              "S2"
-            ],
+            "coreElements": ["S3", "S1", "S2"],
             "verbs": []
           },
           {
@@ -529,11 +421,7 @@
               "local": "T5 ohjata oppilasta tutkivaan lähestymistapaan itsenäisessä ja yhteistoiminnallisessa kuvallisessa työskentelyssä",
               "en": "T5 guide the pupil towards an inquiry-based approach in independent and collaborative visual work"
             },
-            "coreElements": [
-              "S3",
-              "S1",
-              "S2"
-            ],
+            "coreElements": ["S3", "S1", "S2"],
             "verbs": []
           },
           {
@@ -542,11 +430,7 @@
               "local": "T6 rohkaista oppilasta ilmaisemaan mielipiteitään sekä soveltamaan kuvallisen viestinnän ja vaikuttamisen keinoja omissa kuvissaan",
               "en": "T6 encourage the pupil to express their opinions and to apply means of visual communication and influence in their own images"
             },
-            "coreElements": [
-              "S3",
-              "S1",
-              "S2"
-            ],
+            "coreElements": ["S3", "S1", "S2"],
             "verbs": []
           },
           {
@@ -555,11 +439,7 @@
               "local": "T7 ohjata oppilasta soveltamaan kuvallisia, sanallisia ja muita kuvatulkinnan menetelmiä",
               "en": "T7 guide the pupil to apply visual, verbal, and other methods of image interpretation"
             },
-            "coreElements": [
-              "S3",
-              "S1",
-              "S2"
-            ],
+            "coreElements": ["S3", "S1", "S2"],
             "verbs": []
           },
           {
@@ -568,11 +448,7 @@
               "local": "T8 ohjata oppilasta tarkastelemaan taiteen ja muun visuaalisen kulttuurin merkitystä yksilölle, yhteisölle ja yhteiskunnalle historian ja kulttuurin näkökulmista",
               "en": "T8 guide the pupil to examine the significance of art and other visual culture for the individual, the community, and society from historical and cultural perspectives"
             },
-            "coreElements": [
-              "S3",
-              "S1",
-              "S2"
-            ],
+            "coreElements": ["S3", "S1", "S2"],
             "verbs": []
           },
           {
@@ -581,11 +457,7 @@
               "local": "T9 innostaa oppilasta soveltamaan eri aikojen ja kulttuurien kuvailmaisun tapoja kuvallisessa tuottamisessaan",
               "en": "T9 inspire the pupil to apply visual expression methods of different eras and cultures in their visual production"
             },
-            "coreElements": [
-              "S3",
-              "S1",
-              "S2"
-            ],
+            "coreElements": ["S3", "S1", "S2"],
             "verbs": []
           },
           {
@@ -594,11 +466,7 @@
               "local": "T10 ohjata oppilasta ottamaan kantaa taiteessa, ympäristössä ja muussa visuaalisessa kulttuurissa ilmeneviin arvoihin",
               "en": "T10 guide the pupil to take a stance on values manifested in art, the environment, and other visual culture"
             },
-            "coreElements": [
-              "S3",
-              "S1",
-              "S2"
-            ],
+            "coreElements": ["S3", "S1", "S2"],
             "verbs": []
           },
           {
@@ -607,11 +475,7 @@
               "local": "T11 kannustaa oppilasta ottamaan kuvailmaisussaan huomioon kulttuurinen moninaisuus ja kestävä kehitys sekä vaikuttamaan kuvien avulla",
               "en": "T11 encourage the pupil to take cultural diversity and sustainable development into account in their visual expression and to influence through images"
             },
-            "coreElements": [
-              "S3",
-              "S1",
-              "S2"
-            ],
+            "coreElements": ["S3", "S1", "S2"],
             "verbs": []
           }
         ]

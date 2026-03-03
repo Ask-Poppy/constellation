@@ -169,9 +169,7 @@
               "local": "Ämnesområden som är välbekanta för eleverna.",
               "en": "Subject areas that are familiar to the pupils."
             },
-            "coreElements": [
-              "Kommunikationens innehåll"
-            ],
+            "coreElements": ["Kommunikationens innehåll"],
             "verbs": []
           },
           {
@@ -180,9 +178,7 @@
               "local": "Vardagliga situationer, intressen, personer och platser.",
               "en": "Everyday situations, interests, people and places."
             },
-            "coreElements": [
-              "Kommunikationens innehåll"
-            ],
+            "coreElements": ["Kommunikationens innehåll"],
             "verbs": []
           },
           {
@@ -191,9 +187,7 @@
               "local": "Vardagsliv och levnadssätt i olika sammanhang där teckenspråk används.",
               "en": "Everyday life and ways of living in different contexts where sign language is used."
             },
-            "coreElements": [
-              "Kommunikationens innehåll"
-            ],
+            "coreElements": ["Kommunikationens innehåll"],
             "verbs": []
           },
           {
@@ -202,12 +196,8 @@
               "local": "Tydligt teckenspråk och enkla teckenspråkiga texter som är instruerande, be­skrivande och kontaktskapande, från olika medier, även i kombination med illustrationer.",
               "en": "Clear sign language and simple sign language texts that are instructional, descriptive and contact-establishing, from different media, also in combination with illustrations."
             },
-            "coreElements": [
-              "Avläsa – reception"
-            ],
-            "verbs": [
-              "Skapa"
-            ]
+            "coreElements": ["Avläsa – reception"],
+            "verbs": ["Skapa"]
           },
           {
             "code": "GRGRTSP01-4-6-5",
@@ -215,9 +205,7 @@
               "local": "Enkla dialoger och samtal.",
               "en": "Simple dialogues and conversations."
             },
-            "coreElements": [
-              "Avläsa – reception"
-            ],
+            "coreElements": ["Avläsa – reception"],
             "verbs": []
           },
           {
@@ -226,9 +214,7 @@
               "local": "Enkla meddelanden och enkel information.",
               "en": "Simple messages and simple information."
             },
-            "coreElements": [
-              "Avläsa – reception"
-            ],
+            "coreElements": ["Avläsa – reception"],
             "verbs": []
           },
           {
@@ -237,9 +223,7 @@
               "local": "Strategier för att uppfatta betydelsebärande enheter, till exempel genom att gissa och dra slutsatser med hjälp av sammanhanget.",
               "en": "Strategies for perceiving meaningful units, for example by guessing and drawing conclusions with the help of context."
             },
-            "coreElements": [
-              "Avläsa – reception"
-            ],
+            "coreElements": ["Avläsa – reception"],
             "verbs": []
           },
           {
@@ -248,12 +232,8 @@
               "local": "Sökning av mycket enkel, tydlig information i anvisade teckenspråkiga källor av olika slag, till exempel för att identifiera siffror, platser och namn.",
               "en": "Searching for very simple, clear information in designated sign language sources of different kinds, for example to identify numbers, places and names."
             },
-            "coreElements": [
-              "Avläsa – reception"
-            ],
-            "verbs": [
-              "Visa"
-            ]
+            "coreElements": ["Avläsa – reception"],
+            "verbs": ["Visa"]
           },
           {
             "code": "GRGRTSP01-4-6-9",
@@ -261,9 +241,7 @@
               "local": "Språkliga företeelser i det språk eleverna möter, med betoning på icke-ma­nuella markörer samt spatiala och simultana särdrag.",
               "en": "Linguistic phenomena in the language the pupils encounter, with emphasis on non-manual markers and spatial and simultaneous features."
             },
-            "coreElements": [
-              "Avläsa – reception"
-            ],
+            "coreElements": ["Avläsa – reception"],
             "verbs": []
           },
           {
@@ -272,9 +250,7 @@
               "local": "Hur tecken och vardagsfraser används i olika situationer.",
               "en": "How signs and everyday phrases are used in different situations."
             },
-            "coreElements": [
-              "Avläsa – reception"
-            ],
+            "coreElements": ["Avläsa – reception"],
             "verbs": []
           },
           {
@@ -283,9 +259,7 @@
               "local": "Enkla presentationer, meddelanden, beskrivningar och dialoger.",
               "en": "Simple presentations, messages, descriptions and dialogues."
             },
-            "coreElements": [
-              "Teckna och samtala – produktion och interaktion"
-            ],
+            "coreElements": ["Teckna och samtala – produktion och interaktion"],
             "verbs": []
           },
           {
@@ -294,9 +268,7 @@
               "local": "Strategier för att underlätta samtal, till exempel gester och frågor.",
               "en": "Strategies for facilitating conversation, for example gestures and questions."
             },
-            "coreElements": [
-              "Teckna och samtala – produktion och interaktion"
-            ],
+            "coreElements": ["Teckna och samtala – produktion och interaktion"],
             "verbs": []
           },
           {
@@ -305,9 +277,7 @@
               "local": "Språkliga företeelser för att förtydliga kommunikationen med betoning på tecken och bokstavering.",
               "en": "Linguistic phenomena for clarifying communication with emphasis on signs and fingerspelling."
             },
-            "coreElements": [
-              "Teckna och samtala – produktion och interaktion"
-            ],
+            "coreElements": ["Teckna och samtala – produktion och interaktion"],
             "verbs": []
           }
         ],
@@ -397,9 +367,7 @@
               "local": "Ämnesområden som är välbekanta för eleverna.",
               "en": ""
             },
-            "coreElements": [
-              "Kommunikationens innehåll"
-            ],
+            "coreElements": ["Kommunikationens innehåll"],
             "verbs": []
           },
           {
@@ -408,9 +376,7 @@
               "local": "Vardagliga situationer, intressen, personer och platser.",
               "en": ""
             },
-            "coreElements": [
-              "Kommunikationens innehåll"
-            ],
+            "coreElements": ["Kommunikationens innehåll"],
             "verbs": []
           },
           {
@@ -419,9 +385,7 @@
               "local": "Åsikter och känslor.",
               "en": ""
             },
-            "coreElements": [
-              "Kommunikationens innehåll"
-            ],
+            "coreElements": ["Kommunikationens innehåll"],
             "verbs": []
           },
           {
@@ -430,9 +394,7 @@
               "local": "Vardagsliv och levnadssätt i olika sammanhang där teckenspråk används.",
               "en": ""
             },
-            "coreElements": [
-              "Kommunikationens innehåll"
-            ],
+            "coreElements": ["Kommunikationens innehåll"],
             "verbs": []
           },
           {
@@ -441,12 +403,8 @@
               "local": "Tydligt teckenspråk och enkla teckenspråkiga texter som är instruerande, be­skrivande och kontaktskapande, från olika medier, även i kombination med illustrationer.",
               "en": ""
             },
-            "coreElements": [
-              "Avläsa – reception"
-            ],
-            "verbs": [
-              "Skapa"
-            ]
+            "coreElements": ["Avläsa – reception"],
+            "verbs": ["Skapa"]
           },
           {
             "code": "GRGRTSP01-4-9-6",
@@ -454,9 +412,7 @@
               "local": "Dialoger och samtal.",
               "en": ""
             },
-            "coreElements": [
-              "Avläsa – reception"
-            ],
+            "coreElements": ["Avläsa – reception"],
             "verbs": []
           },
           {
@@ -465,9 +421,7 @@
               "local": "Berättelser och annan fiktion på teckenspråk, även i dramatiserad form.",
               "en": ""
             },
-            "coreElements": [
-              "Avläsa – reception"
-            ],
+            "coreElements": ["Avläsa – reception"],
             "verbs": []
           },
           {
@@ -476,9 +430,7 @@
               "local": "Meddelanden och information på teckenspråk, till exempel väg­be­skriv­ningar.",
               "en": ""
             },
-            "coreElements": [
-              "Avläsa – reception"
-            ],
+            "coreElements": ["Avläsa – reception"],
             "verbs": []
           },
           {
@@ -487,12 +439,8 @@
               "local": "Strategier för att uppfatta betydelsebärande enheter och dra slutsatser om inne­hållet, till exempel med hjälp av förförståelse och bilder.",
               "en": ""
             },
-            "coreElements": [
-              "Avläsa – reception"
-            ],
-            "verbs": [
-              "Förstå"
-            ]
+            "coreElements": ["Avläsa – reception"],
+            "verbs": ["Förstå"]
           },
           {
             "code": "GRGRTSP01-4-9-10",
@@ -500,13 +448,8 @@
               "local": "Olika sätt att orientera sig i anvisade teckenspråkiga källor av olika slag för att hitta enkel information att använda i egen produktion och interaktion.",
               "en": ""
             },
-            "coreElements": [
-              "Avläsa – reception"
-            ],
-            "verbs": [
-              "Använda",
-              "Visa"
-            ]
+            "coreElements": ["Avläsa – reception"],
+            "verbs": ["Använda", "Visa"]
           },
           {
             "code": "GRGRTSP01-4-9-11",
@@ -514,9 +457,7 @@
               "local": "Grundläggande principer för teckenspråks gestuella-visuella struktur.",
               "en": ""
             },
-            "coreElements": [
-              "Avläsa – reception"
-            ],
+            "coreElements": ["Avläsa – reception"],
             "verbs": []
           },
           {
@@ -525,9 +466,7 @@
               "local": "Språkliga företeelser, däribland tecken, munrörelser och icke-manuella mar­körer, i det språk eleverna möter.",
               "en": ""
             },
-            "coreElements": [
-              "Avläsa – reception"
-            ],
+            "coreElements": ["Avläsa – reception"],
             "verbs": []
           },
           {
@@ -536,9 +475,7 @@
               "local": "Hur ord bokstaveras och används i teckenspråk i olika situationer.",
               "en": ""
             },
-            "coreElements": [
-              "Avläsa – reception"
-            ],
+            "coreElements": ["Avläsa – reception"],
             "verbs": []
           },
           {
@@ -547,9 +484,7 @@
               "local": "Samtal för kontakt och kommunikation.",
               "en": ""
             },
-            "coreElements": [
-              "Teckna och samtala – produktion och interaktion"
-            ],
+            "coreElements": ["Teckna och samtala – produktion och interaktion"],
             "verbs": []
           },
           {
@@ -558,9 +493,7 @@
               "local": "Presentationer, instruktioner, meddelanden, berättelser och beskrivningar.",
               "en": ""
             },
-            "coreElements": [
-              "Teckna och samtala – produktion och interaktion"
-            ],
+            "coreElements": ["Teckna och samtala – produktion och interaktion"],
             "verbs": []
           },
           {
@@ -569,9 +502,7 @@
               "local": "Strategier för att underlätta samtal, däribland omformuleringar, frågor och visua­lisering.",
               "en": ""
             },
-            "coreElements": [
-              "Teckna och samtala – produktion och interaktion"
-            ],
+            "coreElements": ["Teckna och samtala – produktion och interaktion"],
             "verbs": []
           },
           {
@@ -580,9 +511,7 @@
               "local": "Språkliga företeelser, däribland bokstavering, tecken och icke-manuella mar­körer för tydlig kommunikation.",
               "en": ""
             },
-            "coreElements": [
-              "Teckna och samtala – produktion och interaktion"
-            ],
+            "coreElements": ["Teckna och samtala – produktion och interaktion"],
             "verbs": []
           },
           {
@@ -591,9 +520,7 @@
               "local": "Bearbetning av egna framställningar för att förtydliga kommunikationen.",
               "en": ""
             },
-            "coreElements": [
-              "Teckna och samtala – produktion och interaktion"
-            ],
+            "coreElements": ["Teckna och samtala – produktion och interaktion"],
             "verbs": []
           }
         ],
@@ -683,9 +610,7 @@
               "local": "Ämnesområden som är välbekanta för eleverna.",
               "en": "Subject areas that are familiar to the pupils."
             },
-            "coreElements": [
-              "Kommunikationens innehåll"
-            ],
+            "coreElements": ["Kommunikationens innehåll"],
             "verbs": []
           },
           {
@@ -694,9 +619,7 @@
               "local": "Vardagliga situationer, intressen, personer, platser, aktiviteter och händelser.",
               "en": "Everyday situations, interests, people, places, activities and events."
             },
-            "coreElements": [
-              "Kommunikationens innehåll"
-            ],
+            "coreElements": ["Kommunikationens innehåll"],
             "verbs": []
           },
           {
@@ -705,9 +628,7 @@
               "local": "Åsikter, känslor och erfarenheter.",
               "en": "Opinions, feelings and experiences."
             },
-            "coreElements": [
-              "Kommunikationens innehåll"
-            ],
+            "coreElements": ["Kommunikationens innehåll"],
             "verbs": []
           },
           {
@@ -716,9 +637,7 @@
               "local": "Vardagsliv, levnadssätt och sociala relationer i olika sammanhang där tecken­­språk används, även i jämförelse med egna erfarenheter och kunskaper.",
               "en": "Everyday life, ways of living and social relationships in different contexts where sign language is used, also in comparison with one's own experiences and knowledge."
             },
-            "coreElements": [
-              "Kommunikationens innehåll"
-            ],
+            "coreElements": ["Kommunikationens innehåll"],
             "verbs": []
           },
           {
@@ -727,13 +646,8 @@
               "local": "Tydligt teckenspråk och enkla, teckenspråkiga texter som är instruerande, beskrivande och kontaktskapande, från olika medier.",
               "en": "Clear sign language and simple sign language texts that are instructional, descriptive and contact-establishing, from different media."
             },
-            "coreElements": [
-              "Avläsa – reception"
-            ],
-            "verbs": [
-              "Beskriva",
-              "Skapa"
-            ]
+            "coreElements": ["Avläsa – reception"],
+            "verbs": ["Beskriva", "Skapa"]
           },
           {
             "code": "GRGRTSP01-7-9-6",
@@ -741,9 +655,7 @@
               "local": "Dialoger, samtal och intervjuer.",
               "en": "Dialogues, conversations and interviews."
             },
-            "coreElements": [
-              "Avläsa – reception"
-            ],
+            "coreElements": ["Avläsa – reception"],
             "verbs": []
           },
           {
@@ -752,9 +664,7 @@
               "local": "Berättelser och annan fiktion på teckenspråk, även i dramatiserad form.",
               "en": "Stories and other fiction in sign language, also in dramatised form."
             },
-            "coreElements": [
-              "Avläsa – reception"
-            ],
+            "coreElements": ["Avläsa – reception"],
             "verbs": []
           },
           {
@@ -763,9 +673,7 @@
               "local": "Meddelanden och information på teckenspråk.",
               "en": "Messages and information in sign language."
             },
-            "coreElements": [
-              "Avläsa – reception"
-            ],
+            "coreElements": ["Avläsa – reception"],
             "verbs": []
           },
           {
@@ -774,12 +682,8 @@
               "local": "Strategier för att uppfatta betydelsebärande enheter och förstå samman­hang samt för att anpassa avläsningen till framställningens form och inne­håll.",
               "en": "Strategies for perceiving meaningful units and understanding context, and for adapting reception to the form and content of the presentation."
             },
-            "coreElements": [
-              "Avläsa – reception"
-            ],
-            "verbs": [
-              "Förstå"
-            ]
+            "coreElements": ["Avläsa – reception"],
+            "verbs": ["Förstå"]
           },
           {
             "code": "GRGRTSP01-7-9-10",
@@ -787,9 +691,7 @@
               "local": "Sökning av enkel information i ett avgränsat urval av teckenspråkiga källor av olika slag för användning i egen produktion och interaktion.",
               "en": "Searching for simple information in a limited selection of sign language sources of different kinds for use in one's own production and interaction."
             },
-            "coreElements": [
-              "Avläsa – reception"
-            ],
+            "coreElements": ["Avläsa – reception"],
             "verbs": []
           },
           {
@@ -798,9 +700,7 @@
               "local": "Språkliga företeelser, däribland tecken, bokstavering, satsbyggnad, mun­rörelser och icke-manuella markörer, i det språk eleverna möter.",
               "en": "Linguistic phenomena, including signs, fingerspelling, sentence structure, mouth movements and non-manual markers, in the language the pupils encounter."
             },
-            "coreElements": [
-              "Avläsa – reception"
-            ],
+            "coreElements": ["Avläsa – reception"],
             "verbs": []
           },
           {
@@ -809,9 +709,7 @@
               "local": "Hur olika markörer används för att inleda och avsluta olika typer av samtal och teckenspråkiga texter.",
               "en": "How different markers are used to begin and end different types of conversations and sign language texts."
             },
-            "coreElements": [
-              "Avläsa – reception"
-            ],
+            "coreElements": ["Avläsa – reception"],
             "verbs": []
           },
           {
@@ -820,9 +718,7 @@
               "local": "Samtal för kontakt och kommunikation.",
               "en": "Conversations for contact and communication."
             },
-            "coreElements": [
-              "Teckna och samtala – produktion och interaktion"
-            ],
+            "coreElements": ["Teckna och samtala – produktion och interaktion"],
             "verbs": []
           },
           {
@@ -831,9 +727,7 @@
               "local": "Presentationer, instruktioner, meddelanden, berättelser och beskrivningar på sammanhängande teckenspråk.",
               "en": "Presentations, instructions, messages, stories and descriptions in connected sign language."
             },
-            "coreElements": [
-              "Teckna och samtala – produktion och interaktion"
-            ],
+            "coreElements": ["Teckna och samtala – produktion och interaktion"],
             "verbs": []
           },
           {
@@ -842,9 +736,7 @@
               "local": "Strategier, däribland omformuleringar och frågor, för att bidra till och under­lätta samtal och digital interaktion.",
               "en": "Strategies, including rephrasing and questions, for contributing to and facilitating conversation and digital interaction."
             },
-            "coreElements": [
-              "Teckna och samtala – produktion och interaktion"
-            ],
+            "coreElements": ["Teckna och samtala – produktion och interaktion"],
             "verbs": []
           },
           {
@@ -853,9 +745,7 @@
               "local": "Språkliga företeelser, däribland tecken, bokstavering, munrörelser, icke-ma­nuella markörer och satsbyggnad i elevernas egen produktion och interaktion.",
               "en": "Linguistic phenomena, including signs, fingerspelling, mouth movements, non-manual markers and sentence structure in the pupils' own production and interaction."
             },
-            "coreElements": [
-              "Teckna och samtala – produktion och interaktion"
-            ],
+            "coreElements": ["Teckna och samtala – produktion och interaktion"],
             "verbs": []
           },
           {
@@ -864,9 +754,7 @@
               "local": "Bearbetning av egna framställningar för att förtydliga och anpassa kom­muni­kationen efter syfte och mottagare.",
               "en": "Revision of one's own productions to clarify and adapt communication to purpose and audience."
             },
-            "coreElements": [
-              "Teckna och samtala – produktion och interaktion"
-            ],
+            "coreElements": ["Teckna och samtala – produktion och interaktion"],
             "verbs": []
           }
         ],

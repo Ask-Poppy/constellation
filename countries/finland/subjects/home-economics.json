@@ -158,10 +158,7 @@
               "local": "T1 ohjata oppilasta suunnittelemaan, organisoimaan ja arvioimaan työtä ja toimintaa",
               "en": "T1 guide the pupil to plan, organise and evaluate work and activities"
             },
-            "coreElements": [
-              "S1",
-              "S2"
-            ],
+            "coreElements": ["S1", "S2"],
             "verbs": []
           },
           {
@@ -170,10 +167,7 @@
               "local": "T2 ohjata oppilasta harjoittelemaan kotitalouden hallinnassa tarvittavia kädentaitoja sekä kannustaa luovuuteen ja estetiikan huomioimiseen",
               "en": "T2 guide the pupil to practise the manual skills needed in household management and encourage creativity and attention to aesthetics"
             },
-            "coreElements": [
-              "S1",
-              "S2"
-            ],
+            "coreElements": ["S1", "S2"],
             "verbs": []
           },
           {
@@ -182,11 +176,7 @@
               "local": "T3 ohjata ja rohkaista oppilasta valitsemaan ja käyttämään hyvinvointia edistävästi ja kestävän kulutuksen mukaisesti materiaaleja, työvälineitä, laitteita sekä tieto- ja viestintäteknologiaa",
               "en": "T3 guide and encourage the pupil to select and use materials, tools, appliances and information and communication technology in ways that promote well-being and sustainable consumption"
             },
-            "coreElements": [
-              "S1",
-              "S2",
-              "S3"
-            ],
+            "coreElements": ["S1", "S2", "S3"],
             "verbs": []
           },
           {
@@ -195,10 +185,7 @@
               "local": "T4 ohjata oppilasta suunnittelemaan ajankäyttöään ja työn etenemistä sekä ylläpitämään järjestystä oppimistehtävien aikana",
               "en": "T4 guide the pupil to plan their use of time and the progress of work and to maintain orderliness during learning tasks"
             },
-            "coreElements": [
-              "S1",
-              "S2"
-            ],
+            "coreElements": ["S1", "S2"],
             "verbs": []
           },
           {
@@ -207,11 +194,7 @@
               "local": "T5 ohjata ja motivoida oppilasta toimimaan hygieenisesti, turvallisesti ja ergonomisesti sekä ohjata kiinnittämään oppilaan huomiota käytettävissä oleviin voimavaroihin",
               "en": "T5 guide and motivate the pupil to work hygienically, safely and ergonomically, and to direct the pupil's attention to the resources available"
             },
-            "coreElements": [
-              "S1",
-              "S2",
-              "S3"
-            ],
+            "coreElements": ["S1", "S2", "S3"],
             "verbs": []
           },
           {
@@ -220,11 +203,7 @@
               "local": "T6 ohjata oppilasta harjoittelemaan kuuntelua ja rakentavaa keskustelua ja argumentointia oppimistehtävien suunnittelussa ja toteuttamisessa",
               "en": "T6 guide the pupil to practise listening, constructive discussion and argumentation in planning and carrying out learning tasks"
             },
-            "coreElements": [
-              "S1",
-              "S2",
-              "S3"
-            ],
+            "coreElements": ["S1", "S2", "S3"],
             "verbs": []
           },
           {
@@ -233,11 +212,7 @@
               "local": "T7 aktivoida oppilasta tunnistamaan arjen rakentumista ja kulttuurisesti monimuotoisia toimintaympäristöjä sekä kotitalouksien perinteitä",
               "en": "T7 activate the pupil to recognise the structure of everyday life, culturally diverse operating environments and household traditions"
             },
-            "coreElements": [
-              "S1",
-              "S2",
-              "S3"
-            ],
+            "coreElements": ["S1", "S2", "S3"],
             "verbs": []
           },
           {
@@ -246,10 +221,7 @@
               "local": "T8 ohjata oppilasta työskentelemään yksin ja ryhmässä sekä sopimaan työtehtävien jakamisesta ja ajankäytöstä",
               "en": "T8 guide the pupil to work independently and in a group and to agree on the division of tasks and use of time"
             },
-            "coreElements": [
-              "S1",
-              "S2"
-            ],
+            "coreElements": ["S1", "S2"],
             "verbs": []
           },
           {
@@ -258,11 +230,7 @@
               "local": "T9 kannustaa oppilasta toimimaan hyvien tapojen mukaisesti vuorovaikutustilanteissa sekä pohtimaan oman käytöksen merkitystä ryhmän ja yhteisön toiminnassa",
               "en": "T9 encourage the pupil to act according to good manners in social interaction situations and to reflect on the significance of one's own behaviour in the functioning of a group and community"
             },
-            "coreElements": [
-              "S1",
-              "S2",
-              "S3"
-            ],
+            "coreElements": ["S1", "S2", "S3"],
             "verbs": []
           },
           {
@@ -271,11 +239,7 @@
               "local": "T10 kannustaa oppilasta hankkimaan ja arvioimaan kotitalouteen liittyvää tietoa sekä ohjata käyttämään luotettavaa tietoa valintojen perustana",
               "en": "T10 encourage the pupil to acquire and evaluate information related to home economics and guide them to use reliable information as the basis for choices"
             },
-            "coreElements": [
-              "S1",
-              "S2",
-              "S3"
-            ],
+            "coreElements": ["S1", "S2", "S3"],
             "verbs": []
           },
           {
@@ -284,10 +248,7 @@
               "local": "T11 harjaannuttaa oppilasta lukemaan, tulkitsemaan ja arvioimaan toimintaohjeita sekä merkkejä ja symboleja, jotka käsittelevät kotitaloutta ja lähiympäristöä",
               "en": "T11 train the pupil to read, interpret and evaluate instructions as well as signs and symbols related to home economics and the local environment"
             },
-            "coreElements": [
-              "S1",
-              "S2"
-            ],
+            "coreElements": ["S1", "S2"],
             "verbs": []
           },
           {
@@ -296,11 +257,7 @@
               "local": "T12 ohjata oppilasta, ongelmanratkaisuun ja luovuuteen erilaisissa tilanteissa ja ympäristöissä",
               "en": "T12 guide the pupil towards problem-solving and creativity in various situations and environments"
             },
-            "coreElements": [
-              "S1",
-              "S2",
-              "S3"
-            ],
+            "coreElements": ["S1", "S2", "S3"],
             "verbs": []
           },
           {
@@ -309,11 +266,7 @@
               "local": "T13 ohjata oppilasta kestävään elämäntapaan kiinnittämällä oppilaan huomiota ympäristö- ja kustannustietoisuuteen osana arjen valintoja",
               "en": "T13 guide the pupil towards a sustainable way of life by directing the pupil's attention to environmental and cost awareness as part of everyday choices"
             },
-            "coreElements": [
-              "S1",
-              "S2",
-              "S3"
-            ],
+            "coreElements": ["S1", "S2", "S3"],
             "verbs": []
           }
         ]

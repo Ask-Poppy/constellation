@@ -158,9 +158,7 @@
               "local": "Årstidsväxlingar i naturen. Några djurs och växters livscykler och an­pass­ningar till olika livsmiljöer och årstider.",
               "en": "Seasonal changes in nature. The life cycles of some animals and plants, and their adaptations to different habitats and seasons."
             },
-            "coreElements": [
-              "Året runt i naturen"
-            ],
+            "coreElements": ["Året runt i naturen"],
             "verbs": []
           },
           {
@@ -169,9 +167,7 @@
               "local": "Djur, växter och svampar i närmiljön, hur de kan grupperas samt namn på några vanligt förekommande arter.",
               "en": "Animals, plants and fungi in the local environment, how they can be grouped, and the names of some commonly occurring species."
             },
-            "coreElements": [
-              "Året runt i naturen"
-            ],
+            "coreElements": ["Året runt i naturen"],
             "verbs": []
           },
           {
@@ -180,9 +176,7 @@
               "local": "Enkla näringskedjor som beskriver samband mellan organismer i eko­system.",
               "en": "Simple food chains describing relationships between organisms in ecosystems."
             },
-            "coreElements": [
-              "Året runt i naturen"
-            ],
+            "coreElements": ["Året runt i naturen"],
             "verbs": []
           },
           {
@@ -191,9 +185,7 @@
               "local": "Några av människans organ, deras namn och översiktliga funktion.",
               "en": "Some of the human organs, their names and general function."
             },
-            "coreElements": [
-              "Kropp och hälsa"
-            ],
+            "coreElements": ["Kropp och hälsa"],
             "verbs": []
           },
           {
@@ -202,9 +194,7 @@
               "local": "Människans upplevelser av ljus, ljud, värme, smak och doft med hjälp av oli­ka sinnen.",
               "en": "Human perception of light, sound, heat, taste and smell through different senses."
             },
-            "coreElements": [
-              "Kropp och hälsa"
-            ],
+            "coreElements": ["Kropp och hälsa"],
             "verbs": []
           },
           {
@@ -213,9 +203,7 @@
               "local": "Betydelsen av kost, sömn, hygien, motion och sociala relationer för att må bra.",
               "en": "The importance of diet, sleep, hygiene, exercise and social relationships for well-being."
             },
-            "coreElements": [
-              "Kropp och hälsa"
-            ],
+            "coreElements": ["Kropp och hälsa"],
             "verbs": []
           },
           {
@@ -224,9 +212,7 @@
               "local": "Tyngdkraft, tyngdpunkt, jämvikt, balans och friktion som kan upplevas och obser­veras vid lek och rörelse.",
               "en": "Gravity, centre of gravity, equilibrium, balance and friction that can be experienced and observed during play and movement."
             },
-            "coreElements": [
-              "Kraft och rörelse"
-            ],
+            "coreElements": ["Kraft och rörelse"],
             "verbs": []
           },
           {
@@ -235,9 +221,7 @@
               "local": "Solsystemets himlakroppar och deras rörelser. Människan i rymden.",
               "en": "The celestial bodies of the solar system and their movements. Humans in space."
             },
-            "coreElements": [
-              "Kraft och rörelse"
-            ],
+            "coreElements": ["Kraft och rörelse"],
             "verbs": []
           },
           {
@@ -246,9 +230,7 @@
               "local": "Hur material kan sorteras efter några egenskaper, till exempel utseende, om de är magnetiska och om de flyter eller sjunker i vatten. Hur materialen kan åter­vinnas.",
               "en": "How materials can be sorted by certain properties, for example appearance, whether they are magnetic, and whether they float or sink in water. How materials can be recycled."
             },
-            "coreElements": [
-              "Material och ämnen"
-            ],
+            "coreElements": ["Material och ämnen"],
             "verbs": []
           },
           {
@@ -257,9 +239,7 @@
               "local": "Några blandningar och hur de kan delas upp i sina olika beståndsdelar, till exempel genom avdunstning och filtrering.",
               "en": "Some mixtures and how they can be separated into their different components, for example through evaporation and filtration."
             },
-            "coreElements": [
-              "Material och ämnen"
-            ],
+            "coreElements": ["Material och ämnen"],
             "verbs": []
           },
           {
@@ -268,9 +248,7 @@
               "local": "Vattnets olika former: fast, flytande och gas. Avdunstning, kokning, kon­den­sering, smältning och stelning.",
               "en": "The different forms of water: solid, liquid and gas. Evaporation, boiling, condensation, melting and solidification."
             },
-            "coreElements": [
-              "Material och ämnen"
-            ],
+            "coreElements": ["Material och ämnen"],
             "verbs": []
           },
           {
@@ -279,12 +257,8 @@
               "local": "Enkla fältstudier, observationer och experiment. Utförande och doku­men­ta­tion av undersökningarna med ord, bilder och digitala verktyg.",
               "en": "Simple field studies, observations and experiments. Carrying out and documenting the investigations with words, pictures and digital tools."
             },
-            "coreElements": [
-              "Systematiska undersökningar"
-            ],
-            "verbs": [
-              "Föra"
-            ]
+            "coreElements": ["Systematiska undersökningar"],
+            "verbs": ["Föra"]
           },
           {
             "code": "FY-1-3-13",
@@ -292,9 +266,7 @@
               "local": "Några berättelser om hur naturvetenskaplig kunskap vuxit fram.",
               "en": "Some stories about how scientific knowledge has developed."
             },
-            "coreElements": [
-              "Systematiska undersökningar"
-            ],
+            "coreElements": ["Systematiska undersökningar"],
             "verbs": []
           }
         ],
@@ -321,12 +293,8 @@
               "local": "Hur dag, natt, årstider och år kan förklaras utifrån rörelser hos solsystemets himla­kroppar.",
               "en": "How day, night, seasons and years can be explained by the movements of the celestial bodies in the solar system."
             },
-            "coreElements": [
-              "Fysiken i naturen och samhället"
-            ],
-            "verbs": [
-              "Förklara"
-            ]
+            "coreElements": ["Fysiken i naturen och samhället"],
+            "verbs": ["Förklara"]
           },
           {
             "code": "FY-4-6-2",
@@ -334,9 +302,7 @@
               "local": "Vanliga väderfenomen och deras orsaker, till exempel hur vindar och ne­der­börd uppstår.",
               "en": "Common weather phenomena and their causes, for example how winds and precipitation occur."
             },
-            "coreElements": [
-              "Fysiken i naturen och samhället"
-            ],
+            "coreElements": ["Fysiken i naturen och samhället"],
             "verbs": []
           },
           {
@@ -345,9 +311,7 @@
               "local": "Energiformer samt olika typer av energikällor och deras påverkan på miljön.",
               "en": "Forms of energy, and different types of energy sources and their impact on the environment."
             },
-            "coreElements": [
-              "Fysiken i naturen och samhället"
-            ],
+            "coreElements": ["Fysiken i naturen och samhället"],
             "verbs": []
           },
           {
@@ -356,9 +320,7 @@
               "local": "Energiflöden mellan föremål som har olika temperatur. Hur man kan på­ver­ka energiflödena med hjälp av olika värmeledande och isolerande ma­te­rial.",
               "en": "Energy flows between objects at different temperatures. How energy flows can be influenced using different heat-conducting and insulating materials."
             },
-            "coreElements": [
-              "Fysiken i naturen och samhället"
-            ],
+            "coreElements": ["Fysiken i naturen och samhället"],
             "verbs": []
           },
           {
@@ -367,12 +329,8 @@
               "local": "Hur ljus och ljud breder ut sig och kan reflekteras.",
               "en": "How light and sound propagate and can be reflected."
             },
-            "coreElements": [
-              "Fysiken i naturen och samhället"
-            ],
-            "verbs": [
-              "Reflektera"
-            ]
+            "coreElements": ["Fysiken i naturen och samhället"],
+            "verbs": ["Reflektera"]
           },
           {
             "code": "FY-4-6-6",
@@ -380,9 +338,7 @@
               "local": "Elektriska kretsar med batterier. Hur de kan kopplas och hur de kan an­vän­das i vardaglig elektrisk utrustning.",
               "en": "Electrical circuits with batteries. How they can be connected and how they can be used in everyday electrical equipment."
             },
-            "coreElements": [
-              "Fysiken i naturen och samhället"
-            ],
+            "coreElements": ["Fysiken i naturen och samhället"],
             "verbs": []
           },
           {
@@ -391,9 +347,7 @@
               "local": "Krafter och rörelser som kan observeras och mätas i vardagssituationer.",
               "en": "Forces and motion that can be observed and measured in everyday situations."
             },
-            "coreElements": [
-              "Fysiken i naturen och samhället"
-            ],
+            "coreElements": ["Fysiken i naturen och samhället"],
             "verbs": []
           },
           {
@@ -402,9 +356,7 @@
               "local": "Några instrument samt hur de används för att mäta fysikaliska storheter, till exempel temperatur och kraft.",
               "en": "Some instruments and how they are used to measure physical quantities, for example temperature and force."
             },
-            "coreElements": [
-              "Fysiken i naturen och samhället"
-            ],
+            "coreElements": ["Fysiken i naturen och samhället"],
             "verbs": []
           },
           {
@@ -416,9 +368,7 @@
             "coreElements": [
               "Systematiska undersökningar och granskning av information"
             ],
-            "verbs": [
-              "Föra"
-            ]
+            "verbs": ["Föra"]
           },
           {
             "code": "FY-4-6-10",
@@ -494,9 +444,7 @@
               "local": "Universums uppkomst, uppbyggnad och utveckling samt förutsättningar för att finna planeter och liv i andra solsystem.",
               "en": "The origin, structure and development of the universe, and the conditions for finding planets and life in other solar systems."
             },
-            "coreElements": [
-              "Fysiken i naturen och samhället"
-            ],
+            "coreElements": ["Fysiken i naturen och samhället"],
             "verbs": []
           },
           {
@@ -505,9 +453,7 @@
               "local": "Partikelmodell av materiens egenskaper samt fasövergångar, tryck, volym, densitet och temperatur.",
               "en": "A particle model of the properties of matter, and phase transitions, pressure, volume, density and temperature."
             },
-            "coreElements": [
-              "Fysiken i naturen och samhället"
-            ],
+            "coreElements": ["Fysiken i naturen och samhället"],
             "verbs": []
           },
           {
@@ -516,9 +462,7 @@
               "local": "Fysikaliska förklaringsmodeller av jordens strålningsbalans, växt­hu­seffek­ten och klimatförändringar.",
               "en": "Physical explanatory models of the Earth's radiation balance, the greenhouse effect and climate change."
             },
-            "coreElements": [
-              "Fysiken i naturen och samhället"
-            ],
+            "coreElements": ["Fysiken i naturen och samhället"],
             "verbs": []
           },
           {
@@ -527,9 +471,7 @@
               "local": "Energins flöde och oförstörbarhet samt olika energislags kvalitet. Olika ty­per av energikällor samt deras för- och nackdelar för samhället och miljön.",
               "en": "The flow and conservation of energy, and the quality of different forms of energy. Different types of energy sources and their advantages and disadvantages for society and the environment."
             },
-            "coreElements": [
-              "Fysiken i naturen och samhället"
-            ],
+            "coreElements": ["Fysiken i naturen och samhället"],
             "verbs": []
           },
           {
@@ -538,9 +480,7 @@
               "local": "Partikelstrålning och elektromagnetisk strålning, deras an­vänd­nings­områ­den och risker.",
               "en": "Particle radiation and electromagnetic radiation, their areas of application and risks."
             },
-            "coreElements": [
-              "Fysiken i naturen och samhället"
-            ],
+            "coreElements": ["Fysiken i naturen och samhället"],
             "verbs": []
           },
           {
@@ -549,12 +489,8 @@
               "local": "Hur ljus breder ut sig, reflekteras och bryts.",
               "en": "How light propagates, is reflected and is refracted."
             },
-            "coreElements": [
-              "Fysiken i naturen och samhället"
-            ],
-            "verbs": [
-              "Reflektera"
-            ]
+            "coreElements": ["Fysiken i naturen och samhället"],
+            "verbs": ["Reflektera"]
           },
           {
             "code": "FY-7-9-7",
@@ -562,9 +498,7 @@
               "local": "Hur ljud uppstår, breder ut sig och kan registreras på olika sätt.",
               "en": "How sound is produced, propagates and can be recorded in different ways."
             },
-            "coreElements": [
-              "Fysiken i naturen och samhället"
-            ],
+            "coreElements": ["Fysiken i naturen och samhället"],
             "verbs": []
           },
           {
@@ -573,12 +507,8 @@
               "local": "Sambandet mellan elektricitet och magnetism samt mellan ström och spän­ning i elektriska kretsar. Hur kretsarna kan användas i elektrisk utrustning.",
               "en": "The relationship between electricity and magnetism, and between current and voltage in electrical circuits. How circuits can be used in electrical equipment."
             },
-            "coreElements": [
-              "Fysiken i naturen och samhället"
-            ],
-            "verbs": [
-              "Använda"
-            ]
+            "coreElements": ["Fysiken i naturen och samhället"],
+            "verbs": ["Använda"]
           },
           {
             "code": "FY-7-9-9",
@@ -586,9 +516,7 @@
               "local": "Krafter, rörelser och rörelseförändringar samt hur kunskaper om detta kan an­vändas, till exempel i frågor om trafiksäkerhet.",
               "en": "Forces, motion and changes in motion, and how knowledge of this can be used, for example in issues of traffic safety."
             },
-            "coreElements": [
-              "Fysiken i naturen och samhället"
-            ],
+            "coreElements": ["Fysiken i naturen och samhället"],
             "verbs": []
           },
           {
@@ -597,9 +525,7 @@
               "local": "Några instrument för att mäta fysikaliska storheter, till exempel kraft och ström. Användning av mätvärden i enkla beräkningar, till exempel beräk­ningar av densitet och hastighet.",
               "en": "Some instruments for measuring physical quantities, for example force and current. Use of measured values in simple calculations, for example calculations of density and speed."
             },
-            "coreElements": [
-              "Fysiken i naturen och samhället"
-            ],
+            "coreElements": ["Fysiken i naturen och samhället"],
             "verbs": []
           },
           {
@@ -611,9 +537,7 @@
             "coreElements": [
               "Systematiska undersökningar och granskning av information"
             ],
-            "verbs": [
-              "Föra"
-            ]
+            "verbs": ["Föra"]
           },
           {
             "code": "FY-7-9-12",

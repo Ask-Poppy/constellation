@@ -5,11 +5,7 @@
     "curriculum": "POPS 2014",
     "license": "Open Government Data (Finland)",
     "lastSynced": "2026-03-03T08:58:59Z",
-    "aiEnriched": [
-      "description.en",
-      "interdisciplinaryThemes",
-      "basicSkills"
-    ]
+    "aiEnriched": ["description.en", "interdisciplinaryThemes", "basicSkills"]
   },
   "subject": {
     "code": "TE",
@@ -162,11 +158,7 @@
               "local": "T1 ohjata oppilasta ymmärtämään terveyden laaja-alaisuutta, terveyden edistämistä sekä elämänkulkua, kasvua ja kehitystä voimavaralähtöisesti",
               "en": "T1 guide the pupil to understand the multidimensional nature of health, health promotion, and the life course, growth, and development from a resource-based perspective"
             },
-            "coreElements": [
-              "S3",
-              "S2",
-              "S1"
-            ],
+            "coreElements": ["S3", "S2", "S1"],
             "verbs": []
           },
           {
@@ -175,9 +167,7 @@
               "local": "T2 ohjata oppilasta kehittämään valmiuksiaan tunne- ja vuorovaikutustaidoissa ja kykyä toimia erilaisissa ristiriita- ja kriisitilanteissa",
               "en": "T2 guide the pupil to develop their competencies in emotional and social interaction skills and the ability to act in various conflict and crisis situations"
             },
-            "coreElements": [
-              "S1"
-            ],
+            "coreElements": ["S1"],
             "verbs": []
           },
           {
@@ -186,9 +176,7 @@
               "local": "T3 ohjata oppilasta kehittämään itsetuntemustaan, omien arvojen ja asenteiden sekä kehon ja mielen viestien tunnistamista ja säätelemään käyttäytymistään, oppimistaan ja opiskeluaan tukevia tekijöitä",
               "en": "T3 guide the pupil to develop their self-knowledge, the ability to recognise their own values and attitudes as well as bodily and mental signals, and to regulate factors that support their behaviour, learning, and studying"
             },
-            "coreElements": [
-              "S1"
-            ],
+            "coreElements": ["S1"],
             "verbs": []
           },
           {
@@ -197,10 +185,7 @@
               "local": "T4 ohjata oppilasta pohtimaan yksilöllisyyteen, yhteisöllisyyteen ja yhdenvertaisuuteen liittyviä kysymyksiä terveyden näkökulmasta sekä tukea oppilaan valmiuksia luoda vastuullisia ratkaisuja ihmisten välisissä vuorovaikutustilanteissa",
               "en": "T4 guide the pupil to reflect on questions related to individuality, community, and equality from a health perspective, and to support the pupil's ability to create responsible solutions in interpersonal interaction situations"
             },
-            "coreElements": [
-              "S3",
-              "S1"
-            ],
+            "coreElements": ["S3", "S1"],
             "verbs": []
           },
           {
@@ -209,11 +194,7 @@
               "local": "T5 ohjata oppilasta syventämään ymmärrystään fyysisestä, psyykkisestä ja sosiaalisesta terveydestä ja niitä vahvistavista ja vaarantavista tekijöistä ja mekanismeista sekä tukea oppilaan valmiuksia käyttää näihin liittyviä käsitteitä asianmukaisesti",
               "en": "T5 guide the pupil to deepen their understanding of physical, psychological, and social health and the factors and mechanisms that strengthen and jeopardise them, and to support the pupil's ability to use related concepts appropriately"
             },
-            "coreElements": [
-              "S3",
-              "S2",
-              "S1"
-            ],
+            "coreElements": ["S3", "S2", "S1"],
             "verbs": []
           },
           {
@@ -222,10 +203,7 @@
               "local": "T 6 tukea oppilaan kehittymistä terveyteen ja sairauteen liittyvän tiedon hankkijana ja käyttäjänä sekä edistää valmiuksia toimia tarkoituksenmukaisesti terveyteen, turvallisuuteen ja sairauksiin liittyvissä tilanteissa",
               "en": "T12 support the pupil's ability to critically evaluate health- and illness-related communication and to analyse the individual's rights, responsibilities, and means of influence in matters concerning health and safety in their own learning environment and local communities"
             },
-            "coreElements": [
-              "S3",
-              "S2"
-            ],
+            "coreElements": ["S3", "S2"],
             "verbs": []
           },
           {
@@ -234,10 +212,7 @@
               "local": "T7 ohjata oppilasta tunnistamaan ja arvioimaan omia terveyteen ja turvallisuuteen liittyviä tottumuksiaan, valintojaan ja niiden perusteluja sekä rohkaista oppilasta pohtimaan oman terveyden kannalta merkityksellisiä voimavaroja",
               "en": "T7 guide the pupil to recognise and evaluate their own health- and safety-related habits, choices, and the reasoning behind them, and to encourage the pupil to reflect on resources that are significant for their own health"
             },
-            "coreElements": [
-              "S2",
-              "S1"
-            ],
+            "coreElements": ["S2", "S1"],
             "verbs": []
           },
           {
@@ -246,11 +221,7 @@
               "local": "T 8 ohjata oppilasta tunnistamaan ja tarkastelemaan kriittisesti terveyteen ja sairauteen liittyviä ilmiöitä, niihin liittyviä arvoja ja normeja sekä arvioimaan tiedon luotettavuutta ja merkitystä",
               "en": "T12 support the pupil's ability to critically evaluate health- and illness-related communication and to analyse the individual's rights, responsibilities, and means of influence in matters concerning health and safety in their own learning environment and local communities"
             },
-            "coreElements": [
-              "S3",
-              "S2",
-              "S1"
-            ],
+            "coreElements": ["S3", "S2", "S1"],
             "verbs": []
           },
           {
@@ -259,9 +230,7 @@
               "local": "T 9 ohjata oppilasta ymmärtämään ympäristön, yhteisöjen, kulttuurin, ja tieto- ja viestintäteknologian merkitystä terveydelle ja hyvinvoinnille",
               "en": "T12 support the pupil's ability to critically evaluate health- and illness-related communication and to analyse the individual's rights, responsibilities, and means of influence in matters concerning health and safety in their own learning environment and local communities"
             },
-            "coreElements": [
-              "S3"
-            ],
+            "coreElements": ["S3"],
             "verbs": []
           },
           {
@@ -270,10 +239,7 @@
               "local": "T 10 ohjata oppilasta luomaan perustaa opiskelu-, toiminta- ja työkyvylle ja sen ylläpitämiselle sekä kuvaamaan terveyspalvelujen asianmukaista käyttöä",
               "en": "T12 support the pupil's ability to critically evaluate health- and illness-related communication and to analyse the individual's rights, responsibilities, and means of influence in matters concerning health and safety in their own learning environment and local communities"
             },
-            "coreElements": [
-              "S2",
-              "S1"
-            ],
+            "coreElements": ["S2", "S1"],
             "verbs": []
           },
           {
@@ -282,11 +248,7 @@
               "local": "T 11 ohjata oppilasta ymmärtämään ja arvioimaan perheen ja omaan elämänpiiriin kuuluvien ihmisten ja yhteisöjen edustamia terveyskäsityksiä, tunnistamaan niiden merkitystä itselle sekä muodostamaan kuvaa itselle sopivista oppimisen keinoista.",
               "en": "T12 support the pupil's ability to critically evaluate health- and illness-related communication and to analyse the individual's rights, responsibilities, and means of influence in matters concerning health and safety in their own learning environment and local communities"
             },
-            "coreElements": [
-              "S3",
-              "S2",
-              "S1"
-            ],
+            "coreElements": ["S3", "S2", "S1"],
             "verbs": []
           },
           {
@@ -295,9 +257,7 @@
               "local": "T 12 tukea oppilaan valmiuksia arvioida kriittisesti terveyteen ja sairauteen liittyvää viestintää sekä eritellä yksilön oikeuksia, vastuita ja vaikuttamiskeinoja terveyttä ja turvallisuutta koskevissa asioissa omassa oppimisympäristössä ja lähiyhteisöissä.",
               "en": "T12 support the pupil's ability to critically evaluate health- and illness-related communication and to analyse the individual's rights, responsibilities, and means of influence in matters concerning health and safety in their own learning environment and local communities"
             },
-            "coreElements": [
-              "S3"
-            ],
+            "coreElements": ["S3"],
             "verbs": []
           }
         ]

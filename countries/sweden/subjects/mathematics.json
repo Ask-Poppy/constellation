@@ -180,9 +180,7 @@
               "local": "Naturliga tal och deras egenskaper samt hur talen delas upp och an­vän­ds för att ange antal och ordning.",
               "en": "Natural numbers and their properties, and how numbers are partitioned and used to indicate quantity and order."
             },
-            "coreElements": [
-              "Taluppfattning och tals användning"
-            ],
+            "coreElements": ["Taluppfattning och tals användning"],
             "verbs": []
           },
           {
@@ -191,12 +189,8 @@
               "local": "Positionssystemet och hur det används för att beskriva naturliga tal.",
               "en": "The place value system and how it is used to represent natural numbers."
             },
-            "coreElements": [
-              "Taluppfattning och tals användning"
-            ],
-            "verbs": [
-              "Beskriva"
-            ]
+            "coreElements": ["Taluppfattning och tals användning"],
+            "verbs": ["Beskriva"]
           },
           {
             "code": "MA-1-3-3",
@@ -204,9 +198,7 @@
               "local": "Symboler för tal och symbolernas utveckling i några olika kulturer genom historien.",
               "en": "Symbols for numbers and the development of these symbols in various cultures throughout history."
             },
-            "coreElements": [
-              "Taluppfattning och tals användning"
-            ],
+            "coreElements": ["Taluppfattning och tals användning"],
             "verbs": []
           },
           {
@@ -215,9 +207,7 @@
               "local": "Tal i bråkform som del av helhet och del av antal samt hur delarna benämns och uttrycks som enkla bråk. Hur enkla bråk förhåller sig till naturliga tal.",
               "en": "Numbers in fraction form as parts of a whole and parts of a quantity, and how the parts are named and expressed as simple fractions. How simple fractions relate to natural numbers."
             },
-            "coreElements": [
-              "Taluppfattning och tals användning"
-            ],
+            "coreElements": ["Taluppfattning och tals användning"],
             "verbs": []
           },
           {
@@ -226,9 +216,7 @@
               "local": "Hur naturliga tal och enkla tal i bråkform används i elevnära situa­tio­ner.",
               "en": "How natural numbers and simple fractions are used in situations close to the pupils' experience."
             },
-            "coreElements": [
-              "Taluppfattning och tals användning"
-            ],
+            "coreElements": ["Taluppfattning och tals användning"],
             "verbs": []
           },
           {
@@ -237,9 +225,7 @@
               "local": "De fyra räknesättens egenskaper och samband samt användning i olika situationer.",
               "en": "The properties and relationships of the four arithmetic operations, and their use in different situations."
             },
-            "coreElements": [
-              "Taluppfattning och tals användning"
-            ],
+            "coreElements": ["Taluppfattning och tals användning"],
             "verbs": []
           },
           {
@@ -248,9 +234,7 @@
               "local": "Metoder för beräkningar med naturliga tal, vid huvudräkning, över­slags­räkning och skriftlig beräkning. Användning av digitala verktyg vid be­räk­ningar.",
               "en": "Methods for calculations with natural numbers, including mental arithmetic, estimation and written calculation. Use of digital tools for calculations."
             },
-            "coreElements": [
-              "Taluppfattning och tals användning"
-            ],
+            "coreElements": ["Taluppfattning och tals användning"],
             "verbs": []
           },
           {
@@ -259,9 +243,7 @@
               "local": "Rimlighetsbedömning vid uppskattningar och beräkningar.",
               "en": "Assessing the reasonableness of estimates and calculations."
             },
-            "coreElements": [
-              "Taluppfattning och tals användning"
-            ],
+            "coreElements": ["Taluppfattning och tals användning"],
             "verbs": []
           },
           {
@@ -270,9 +252,7 @@
               "local": "Matematiska likheter och likhetstecknets betydelse.",
               "en": "Mathematical equalities and the meaning of the equals sign."
             },
-            "coreElements": [
-              "Algebra"
-            ],
+            "coreElements": ["Algebra"],
             "verbs": []
           },
           {
@@ -281,9 +261,7 @@
               "local": "Obekanta tal och hur de kan betecknas med en symbol.",
               "en": "Unknown numbers and how they can be represented by a symbol."
             },
-            "coreElements": [
-              "Algebra"
-            ],
+            "coreElements": ["Algebra"],
             "verbs": []
           },
           {
@@ -292,9 +270,7 @@
               "local": "Enkla mönster i talföljder och enkla geometriska mönster samt hur de konstrueras, beskrivs och uttrycks.",
               "en": "Simple patterns in number sequences and simple geometric patterns, and how they are constructed, described and expressed."
             },
-            "coreElements": [
-              "Algebra"
-            ],
+            "coreElements": ["Algebra"],
             "verbs": []
           },
           {
@@ -303,12 +279,8 @@
               "local": "Entydiga stegvisa instruktioner och hur de konstrueras, beskrivs och följs som grund för programmering. Hur symboler används vid stegvisa in­struk­tioner.",
               "en": "Unambiguous step-by-step instructions and how they are constructed, described and followed as a basis for programming. How symbols are used in step-by-step instructions."
             },
-            "coreElements": [
-              "Algebra"
-            ],
-            "verbs": [
-              "Visa"
-            ]
+            "coreElements": ["Algebra"],
+            "verbs": ["Visa"]
           },
           {
             "code": "MA-1-3-13",
@@ -316,12 +288,8 @@
               "local": "Vanliga lägesord för att beskriva föremåls och objekts läge i rummet.",
               "en": "Common positional words to describe the position of objects in space."
             },
-            "coreElements": [
-              "Geometri"
-            ],
-            "verbs": [
-              "Beskriva"
-            ]
+            "coreElements": ["Geometri"],
+            "verbs": ["Beskriva"]
           },
           {
             "code": "MA-1-3-14",
@@ -329,9 +297,7 @@
               "local": "Grundläggande geometriska tvådimensionella objekt samt objekten klot, kon, cylinder och rätblock. Egenskaper hos dessa objekt och deras inbördes relationer. Konstruktion av geometriska objekt.",
               "en": "Basic two-dimensional geometric objects as well as the objects sphere, cone, cylinder and rectangular prism. Properties of these objects and their interrelationships. Construction of geometric objects."
             },
-            "coreElements": [
-              "Geometri"
-            ],
+            "coreElements": ["Geometri"],
             "verbs": []
           },
           {
@@ -340,9 +306,7 @@
               "local": "Jämförelser och uppskattningar av storheter. Mätning av längd, massa, volym och tid med vanliga nutida och äldre måttenheter.",
               "en": "Comparisons and estimations of quantities. Measurement of length, mass, volume and time using common current and historical units of measurement."
             },
-            "coreElements": [
-              "Geometri"
-            ],
+            "coreElements": ["Geometri"],
             "verbs": []
           },
           {
@@ -351,9 +315,7 @@
               "local": "Skala vid enkel förminskning och förstoring.",
               "en": "Scale in simple reduction and enlargement."
             },
-            "coreElements": [
-              "Geometri"
-            ],
+            "coreElements": ["Geometri"],
             "verbs": []
           },
           {
@@ -362,9 +324,7 @@
               "local": "Symmetri i vardagen och hur symmetri kan konstrueras.",
               "en": "Symmetry in everyday life and how symmetry can be constructed."
             },
-            "coreElements": [
-              "Geometri"
-            ],
+            "coreElements": ["Geometri"],
             "verbs": []
           },
           {
@@ -373,9 +333,7 @@
               "local": "Slumpmässiga händelser i konkreta situationer.",
               "en": "Random events in concrete situations."
             },
-            "coreElements": [
-              "Sannolikhet och statistik"
-            ],
+            "coreElements": ["Sannolikhet och statistik"],
             "verbs": []
           },
           {
@@ -384,12 +342,8 @@
               "local": "Enkla tabeller och diagram och hur de används för att sortera data och beskriva resultat från undersökningar, såväl med som utan digitala verktyg.",
               "en": "Simple tables and charts, and how they are used to sort data and describe results from investigations, both with and without digital tools."
             },
-            "coreElements": [
-              "Sannolikhet och statistik"
-            ],
-            "verbs": [
-              "Beskriva"
-            ]
+            "coreElements": ["Sannolikhet och statistik"],
+            "verbs": ["Beskriva"]
           },
           {
             "code": "MA-1-3-20",
@@ -397,9 +351,7 @@
               "local": "Proportionella samband, däribland dubbelt och hälften.",
               "en": "Proportional relationships, including double and half."
             },
-            "coreElements": [
-              "Samband och förändring"
-            ],
+            "coreElements": ["Samband och förändring"],
             "verbs": []
           },
           {
@@ -408,12 +360,8 @@
               "local": "Strategier för att lösa matematiska problem i elevnära situationer.",
               "en": "Strategies for solving mathematical problems in situations close to the pupils' experience."
             },
-            "coreElements": [
-              "Problemlösning"
-            ],
-            "verbs": [
-              "Lösa"
-            ]
+            "coreElements": ["Problemlösning"],
+            "verbs": ["Lösa"]
           },
           {
             "code": "MA-1-3-22",
@@ -421,9 +369,7 @@
               "local": "Formulering av matematiska frågeställningar utifrån vardagliga situationer.",
               "en": "Formulation of mathematical questions based on everyday situations."
             },
-            "coreElements": [
-              "Problemlösning"
-            ],
+            "coreElements": ["Problemlösning"],
             "verbs": []
           }
         ],
@@ -450,12 +396,8 @@
               "local": "Rationella tal, däribland negativa tal, och deras egenskaper samt hur talen kan delas upp och användas.",
               "en": "Rational numbers, including negative numbers, and their properties, and how numbers can be partitioned and used."
             },
-            "coreElements": [
-              "Taluppfattning och tals användning"
-            ],
-            "verbs": [
-              "Använda"
-            ]
+            "coreElements": ["Taluppfattning och tals användning"],
+            "verbs": ["Använda"]
           },
           {
             "code": "MA-4-6-2",
@@ -463,12 +405,8 @@
               "local": "Positionssystemet och hur det används för att beskriva hela tal och tal i decimalform.",
               "en": "The place value system and how it is used to represent whole numbers and decimal numbers."
             },
-            "coreElements": [
-              "Taluppfattning och tals användning"
-            ],
-            "verbs": [
-              "Beskriva"
-            ]
+            "coreElements": ["Taluppfattning och tals användning"],
+            "verbs": ["Beskriva"]
           },
           {
             "code": "MA-4-6-3",
@@ -476,9 +414,7 @@
               "local": "Olika talsystem och några talsystem som använts i olika kulturer genom hi­storien.",
               "en": "Different number systems and some number systems that have been used in various cultures throughout history."
             },
-            "coreElements": [
-              "Taluppfattning och tals användning"
-            ],
+            "coreElements": ["Taluppfattning och tals användning"],
             "verbs": []
           },
           {
@@ -487,9 +423,7 @@
               "local": "Tal i procentform och deras samband med tal i bråk- och decimalform.",
               "en": "Numbers in percentage form and their relationship to numbers in fraction and decimal form."
             },
-            "coreElements": [
-              "Taluppfattning och tals användning"
-            ],
+            "coreElements": ["Taluppfattning och tals användning"],
             "verbs": []
           },
           {
@@ -498,12 +432,8 @@
               "local": "Hur tal i bråk- och decimalform kan användas i vardagliga situationer.",
               "en": "How numbers in fraction and decimal form can be used in everyday situations."
             },
-            "coreElements": [
-              "Taluppfattning och tals användning"
-            ],
-            "verbs": [
-              "Använda"
-            ]
+            "coreElements": ["Taluppfattning och tals användning"],
+            "verbs": ["Använda"]
           },
           {
             "code": "MA-4-6-6",
@@ -511,9 +441,7 @@
               "local": "De fyra räknesätten och regler för deras användning vid beräkningar med naturliga tal.",
               "en": "The four arithmetic operations and the rules for their use in calculations with natural numbers."
             },
-            "coreElements": [
-              "Taluppfattning och tals användning"
-            ],
+            "coreElements": ["Taluppfattning och tals användning"],
             "verbs": []
           },
           {
@@ -522,9 +450,7 @@
               "local": "Metoder för beräkningar med naturliga tal och enkla tal i bråk- och deci­malform vid överslagsräkning, huvudräkning och skriftlig beräkning. An­vändning av digitala verktyg vid beräkningar.",
               "en": "Methods for calculations with natural numbers and simple numbers in fraction and decimal form, including estimation, mental arithmetic and written calculation. Use of digital tools for calculations."
             },
-            "coreElements": [
-              "Taluppfattning och tals användning"
-            ],
+            "coreElements": ["Taluppfattning och tals användning"],
             "verbs": []
           },
           {
@@ -533,9 +459,7 @@
               "local": "Rimlighetsbedömning vid uppskattningar och beräkningar.",
               "en": "Assessing the reasonableness of estimates and calculations."
             },
-            "coreElements": [
-              "Taluppfattning och tals användning"
-            ],
+            "coreElements": ["Taluppfattning och tals användning"],
             "verbs": []
           },
           {
@@ -544,9 +468,7 @@
               "local": "Matematiska likheter och hur likhetstecknet används för att teckna enk­la ekvationer.",
               "en": "Mathematical equalities and how the equals sign is used to write simple equations."
             },
-            "coreElements": [
-              "Algebra"
-            ],
+            "coreElements": ["Algebra"],
             "verbs": []
           },
           {
@@ -555,9 +477,7 @@
               "local": "Variabler och deras användning i enkla algebraiska uttryck och ekvationer.",
               "en": "Variables and their use in simple algebraic expressions and equations."
             },
-            "coreElements": [
-              "Algebra"
-            ],
+            "coreElements": ["Algebra"],
             "verbs": []
           },
           {
@@ -566,12 +486,8 @@
               "local": "Metoder, däribland algebraiska, för att lösa enkla ekvationer.",
               "en": "Methods, including algebraic ones, for solving simple equations."
             },
-            "coreElements": [
-              "Algebra"
-            ],
-            "verbs": [
-              "Lösa"
-            ]
+            "coreElements": ["Algebra"],
+            "verbs": ["Lösa"]
           },
           {
             "code": "MA-4-6-12",
@@ -579,9 +495,7 @@
               "local": "Mönster i talföljder och geometriska mönster samt hur de konstrueras, be­skrivs och uttrycks.",
               "en": "Patterns in number sequences and geometric patterns, and how they are constructed, described and expressed."
             },
-            "coreElements": [
-              "Algebra"
-            ],
+            "coreElements": ["Algebra"],
             "verbs": []
           },
           {
@@ -590,9 +504,7 @@
               "local": "Programmering i visuella programmeringsmiljöer. Hur algoritmer ska­pas och används vid programmering.",
               "en": "Programming in visual programming environments. How algorithms are created and used in programming."
             },
-            "coreElements": [
-              "Algebra"
-            ],
+            "coreElements": ["Algebra"],
             "verbs": []
           },
           {
@@ -601,9 +513,7 @@
               "local": "Grundläggande geometriska två- och tredimensionella objekt samt deras egen­skaper och inbördes relationer. Konstruktion av geometriska objekt, såväl med som utan digitala verktyg.",
               "en": "Basic two- and three-dimensional geometric objects, their properties and interrelationships. Construction of geometric objects, both with and without digital tools."
             },
-            "coreElements": [
-              "Geometri"
-            ],
+            "coreElements": ["Geometri"],
             "verbs": []
           },
           {
@@ -612,9 +522,7 @@
               "local": "Jämförelse, uppskattning och mätning av längd, area, massa, volym, tid och vin­kel med standardiserade måttenheter samt enhetsbyten i samband med detta.",
               "en": "Comparison, estimation and measurement of length, area, mass, volume, time and angle using standardised units of measurement, and unit conversions in connection with this."
             },
-            "coreElements": [
-              "Geometri"
-            ],
+            "coreElements": ["Geometri"],
             "verbs": []
           },
           {
@@ -623,9 +531,7 @@
               "local": "Metoder för hur omkrets och area hos olika tvådimensionella geometriska fi­gurer kan bestämmas och uppskattas.",
               "en": "Methods for determining and estimating the perimeter and area of various two-dimensional geometric figures."
             },
-            "coreElements": [
-              "Geometri"
-            ],
+            "coreElements": ["Geometri"],
             "verbs": []
           },
           {
@@ -634,9 +540,7 @@
               "local": "Skala vid förminskning och förstoring samt användning av skala i elevnära situa­tioner.",
               "en": "Scale in reduction and enlargement, and the use of scale in situations close to the pupils' experience."
             },
-            "coreElements": [
-              "Geometri"
-            ],
+            "coreElements": ["Geometri"],
             "verbs": []
           },
           {
@@ -645,9 +549,7 @@
               "local": "Symmetri i planet och hur symmetri kan konstrueras.",
               "en": "Symmetry in the plane and how symmetry can be constructed."
             },
-            "coreElements": [
-              "Geometri"
-            ],
+            "coreElements": ["Geometri"],
             "verbs": []
           },
           {
@@ -656,9 +558,7 @@
               "local": "Slumpmässiga händelser, chans och risk med utgångspunkt i ob­ser­va­tio­ner, simuleringar och statistiskt material. Jämförelse av sannolikhet vid oli­ka slumpmässiga försök.",
               "en": "Random events, chance and risk based on observations, simulations and statistical data. Comparison of probability in different random experiments."
             },
-            "coreElements": [
-              "Sannolikhet och statistik"
-            ],
+            "coreElements": ["Sannolikhet och statistik"],
             "verbs": []
           },
           {
@@ -667,9 +567,7 @@
               "local": "Enkel kombinatorik i konkreta situationer.",
               "en": "Simple combinatorics in concrete situations."
             },
-            "coreElements": [
-              "Sannolikhet och statistik"
-            ],
+            "coreElements": ["Sannolikhet och statistik"],
             "verbs": []
           },
           {
@@ -678,12 +576,8 @@
               "local": "Tabeller och diagram för att beskriva resultat från undersökningar, såväl med som utan digitala verktyg. Tolkning av data i tabeller och diagram.",
               "en": "Tables and charts for describing results from investigations, both with and without digital tools. Interpretation of data in tables and charts."
             },
-            "coreElements": [
-              "Sannolikhet och statistik"
-            ],
-            "verbs": [
-              "Beskriva"
-            ]
+            "coreElements": ["Sannolikhet och statistik"],
+            "verbs": ["Beskriva"]
           },
           {
             "code": "MA-4-6-22",
@@ -691,9 +585,7 @@
               "local": "Lägesmåtten medelvärde, typvärde och median samt hur de används i statistiska undersökningar.",
               "en": "The measures of central tendency: mean, mode and median, and how they are used in statistical investigations."
             },
-            "coreElements": [
-              "Sannolikhet och statistik"
-            ],
+            "coreElements": ["Sannolikhet och statistik"],
             "verbs": []
           },
           {
@@ -702,9 +594,7 @@
               "local": "Proportionalitet samt hur proportionella samband uttrycks i bråk-, decimal- och procentform.",
               "en": "Proportionality and how proportional relationships are expressed in fraction, decimal and percentage form."
             },
-            "coreElements": [
-              "Samband och förändring"
-            ],
+            "coreElements": ["Samband och förändring"],
             "verbs": []
           },
           {
@@ -713,9 +603,7 @@
               "local": "Koordinatsystem och gradering av koordinataxlar.",
               "en": "Coordinate systems and the graduation of coordinate axes."
             },
-            "coreElements": [
-              "Samband och förändring"
-            ],
+            "coreElements": ["Samband och förändring"],
             "verbs": []
           },
           {
@@ -724,12 +612,8 @@
               "local": "Grafer för att uttrycka proportionella samband.",
               "en": "Graphs for expressing proportional relationships."
             },
-            "coreElements": [
-              "Samband och förändring"
-            ],
-            "verbs": [
-              "Uttrycka"
-            ]
+            "coreElements": ["Samband och förändring"],
+            "verbs": ["Uttrycka"]
           },
           {
             "code": "MA-4-6-26",
@@ -737,12 +621,8 @@
               "local": "Strategier för att lösa matematiska problem i elevnära situationer.",
               "en": "Strategies for solving mathematical problems in situations close to the pupils' experience."
             },
-            "coreElements": [
-              "Problemlösning"
-            ],
-            "verbs": [
-              "Lösa"
-            ]
+            "coreElements": ["Problemlösning"],
+            "verbs": ["Lösa"]
           },
           {
             "code": "MA-4-6-27",
@@ -750,9 +630,7 @@
               "local": "Formulering av matematiska frågeställningar utifrån vardagliga situatio­ner.",
               "en": "Formulation of mathematical questions based on everyday situations."
             },
-            "coreElements": [
-              "Problemlösning"
-            ],
+            "coreElements": ["Problemlösning"],
             "verbs": []
           }
         ],
@@ -807,9 +685,7 @@
               "local": "Reella tal och deras egenskaper samt talens användning i matematiska situa­tio­ner.",
               "en": "Real numbers and their properties, and the use of numbers in mathematical situations."
             },
-            "coreElements": [
-              "Taluppfattning och tals användning"
-            ],
+            "coreElements": ["Taluppfattning och tals användning"],
             "verbs": []
           },
           {
@@ -818,9 +694,7 @@
               "local": "Talsystemets utveckling från naturliga tal till reella tal.",
               "en": "The development of the number system from natural numbers to real numbers."
             },
-            "coreElements": [
-              "Taluppfattning och tals användning"
-            ],
+            "coreElements": ["Taluppfattning och tals användning"],
             "verbs": []
           },
           {
@@ -829,12 +703,8 @@
               "local": "Tal i potensform. Grundpotensform för att uttrycka små och stora tal samt an­vändning av prefix.",
               "en": "Numbers in exponential form. Scientific notation for expressing small and large numbers, and the use of prefixes."
             },
-            "coreElements": [
-              "Taluppfattning och tals användning"
-            ],
-            "verbs": [
-              "Uttrycka"
-            ]
+            "coreElements": ["Taluppfattning och tals användning"],
+            "verbs": ["Uttrycka"]
           },
           {
             "code": "MA-7-9-4",
@@ -842,9 +712,7 @@
               "local": "Matematiska lagar och regler samt deras användning vid beräkningar med tal i bråk-, decimal- och potensform.",
               "en": "Mathematical laws and rules, and their use in calculations with numbers in fraction, decimal and exponential form."
             },
-            "coreElements": [
-              "Taluppfattning och tals användning"
-            ],
+            "coreElements": ["Taluppfattning och tals användning"],
             "verbs": []
           },
           {
@@ -853,9 +721,7 @@
               "local": "Metoder för beräkningar med tal i bråk- och decimalform vid över­slags­räkning, huvudräkning och skriftlig beräkning. Användning av di­gitala verk­tyg vid beräkningar.",
               "en": "Methods for calculations with numbers in fraction and decimal form, including estimation, mental arithmetic and written calculation. Use of digital tools for calculations."
             },
-            "coreElements": [
-              "Taluppfattning och tals användning"
-            ],
+            "coreElements": ["Taluppfattning och tals användning"],
             "verbs": []
           },
           {
@@ -864,9 +730,7 @@
               "local": "Rimlighetsbedömning vid uppskattningar och beräkningar.",
               "en": "Assessing the reasonableness of estimates and calculations."
             },
-            "coreElements": [
-              "Taluppfattning och tals användning"
-            ],
+            "coreElements": ["Taluppfattning och tals användning"],
             "verbs": []
           },
           {
@@ -875,9 +739,7 @@
               "local": "Matematiska likheter samt hur likhetstecknet används för att teckna ekvationer och funktioner.",
               "en": "Mathematical equalities and how the equals sign is used to write equations and functions."
             },
-            "coreElements": [
-              "Algebra"
-            ],
+            "coreElements": ["Algebra"],
             "verbs": []
           },
           {
@@ -886,9 +748,7 @@
               "local": "Variablers användning i algebraiska uttryck, formler, ekvationer och funk­tioner.",
               "en": "The use of variables in algebraic expressions, formulas, equations and functions."
             },
-            "coreElements": [
-              "Algebra"
-            ],
+            "coreElements": ["Algebra"],
             "verbs": []
           },
           {
@@ -897,12 +757,8 @@
               "local": "Metoder för att lösa linjära ekvationer och enkla andragradsekvationer.",
               "en": "Methods for solving linear equations and simple quadratic equations."
             },
-            "coreElements": [
-              "Algebra"
-            ],
-            "verbs": [
-              "Lösa"
-            ]
+            "coreElements": ["Algebra"],
+            "verbs": ["Lösa"]
           },
           {
             "code": "MA-7-9-10",
@@ -910,9 +766,7 @@
               "local": "Mönster i talföljder och geometriska mönster samt hur de konstrueras, be­sk­rivs och uttrycks generellt.",
               "en": "Patterns in number sequences and geometric patterns, and how they are constructed, described and expressed in general terms."
             },
-            "coreElements": [
-              "Algebra"
-            ],
+            "coreElements": ["Algebra"],
             "verbs": []
           },
           {
@@ -921,12 +775,8 @@
               "local": "Programmering i visuell och textbaserad programmeringsmiljö. Hur algo­rit­mer skapas, testas och förbättras vid programmering.",
               "en": "Programming in visual and text-based programming environments. How algorithms are created, tested and improved in programming."
             },
-            "coreElements": [
-              "Algebra"
-            ],
-            "verbs": [
-              "Skapa"
-            ]
+            "coreElements": ["Algebra"],
+            "verbs": ["Skapa"]
           },
           {
             "code": "MA-7-9-12",
@@ -934,9 +784,7 @@
               "local": "Geometriska objekt samt deras egenskaper och inbördes relationer. Kon­struk­tion av geometriska objekt, såväl med som utan digitala verktyg.",
               "en": "Geometric objects, their properties and interrelationships. Construction of geometric objects, both with and without digital tools."
             },
-            "coreElements": [
-              "Geometri"
-            ],
+            "coreElements": ["Geometri"],
             "verbs": []
           },
           {
@@ -945,9 +793,7 @@
               "local": "Metoder för beräkning av area, omkrets och volym hos geometriska objekt, samt enhetsbyten i samband med detta.",
               "en": "Methods for calculating the area, perimeter and volume of geometric objects, and unit conversions in connection with this."
             },
-            "coreElements": [
-              "Geometri"
-            ],
+            "coreElements": ["Geometri"],
             "verbs": []
           },
           {
@@ -956,9 +802,7 @@
               "local": "Geometriska satser och formler samt argumentation för deras giltighet.",
               "en": "Geometric theorems and formulas, and argumentation for their validity."
             },
-            "coreElements": [
-              "Geometri"
-            ],
+            "coreElements": ["Geometri"],
             "verbs": []
           },
           {
@@ -967,9 +811,7 @@
               "local": "Skala vid förminskning och förstoring av två- och tredimensionella objekt.",
               "en": "Scale in reduction and enlargement of two- and three-dimensional objects."
             },
-            "coreElements": [
-              "Geometri"
-            ],
+            "coreElements": ["Geometri"],
             "verbs": []
           },
           {
@@ -978,9 +820,7 @@
               "local": "Likformighet och kongruens.",
               "en": "Similarity and congruence."
             },
-            "coreElements": [
-              "Geometri"
-            ],
+            "coreElements": ["Geometri"],
             "verbs": []
           },
           {
@@ -989,12 +829,8 @@
               "local": "Sannolikhet och metoder för att beräkna sannolikhet i olika situationer. Be­döm­ningar av risker och chanser utifrån datorsimuleringar och statistiskt ma­terial.",
               "en": "Probability and methods for calculating probability in different situations. Assessments of risks and chances based on computer simulations and statistical data."
             },
-            "coreElements": [
-              "Sannolikhet och statistik"
-            ],
-            "verbs": [
-              "Beräkna"
-            ]
+            "coreElements": ["Sannolikhet och statistik"],
+            "verbs": ["Beräkna"]
           },
           {
             "code": "MA-7-9-18",
@@ -1002,12 +838,8 @@
               "local": "Kombinatoriska principer och hur de kan användas i olika situationer.",
               "en": "Combinatorial principles and how they can be used in different situations."
             },
-            "coreElements": [
-              "Sannolikhet och statistik"
-            ],
-            "verbs": [
-              "Använda"
-            ]
+            "coreElements": ["Sannolikhet och statistik"],
+            "verbs": ["Använda"]
           },
           {
             "code": "MA-7-9-19",
@@ -1015,12 +847,8 @@
               "local": "Tabeller, diagram och grafer samt hur de tolkas och används för att be­skriva resultat av egna och andras undersökningar, såväl med som utan di­gitala verktyg.",
               "en": "Tables, charts and graphs, and how they are interpreted and used to describe results of one's own and others' investigations, both with and without digital tools."
             },
-            "coreElements": [
-              "Sannolikhet och statistik"
-            ],
-            "verbs": [
-              "Tolka"
-            ]
+            "coreElements": ["Sannolikhet och statistik"],
+            "verbs": ["Tolka"]
           },
           {
             "code": "MA-7-9-20",
@@ -1028,9 +856,7 @@
               "local": "Lägesmått och spridningsmått samt hur de används för bedömning av re­sultat vid statistiska undersökningar.",
               "en": "Measures of central tendency and measures of spread, and how they are used to assess results in statistical investigations."
             },
-            "coreElements": [
-              "Sannolikhet och statistik"
-            ],
+            "coreElements": ["Sannolikhet och statistik"],
             "verbs": []
           },
           {
@@ -1039,12 +865,8 @@
               "local": "Proportionalitet och hur det används för att uttrycka skala, lik­for­mig­het och förändring.",
               "en": "Proportionality and how it is used to express scale, similarity and change."
             },
-            "coreElements": [
-              "Samband och förändring"
-            ],
-            "verbs": [
-              "Uttrycka"
-            ]
+            "coreElements": ["Samband och förändring"],
+            "verbs": ["Uttrycka"]
           },
           {
             "code": "MA-7-9-22",
@@ -1052,9 +874,7 @@
               "local": "Härledda enheter, till exempel km/h och kr/kg.",
               "en": "Derived units, for example km/h and kr/kg."
             },
-            "coreElements": [
-              "Samband och förändring"
-            ],
+            "coreElements": ["Samband och förändring"],
             "verbs": []
           },
           {
@@ -1063,12 +883,8 @@
               "local": "Procent och förändringsfaktor för att uttrycka förändring samt beräkningar med procent i vardagliga situationer och inom olika ämnesområden.",
               "en": "Percentage and rate of change to express change, and calculations with percentages in everyday situations and in different subject areas."
             },
-            "coreElements": [
-              "Samband och förändring"
-            ],
-            "verbs": [
-              "Uttrycka"
-            ]
+            "coreElements": ["Samband och förändring"],
+            "verbs": ["Uttrycka"]
           },
           {
             "code": "MA-7-9-24",
@@ -1076,12 +892,8 @@
               "local": "Räta linjens ekvation och förändringstakt. Användning av räta lin­jens ekvation för att beskriva samband.",
               "en": "The equation of a straight line and rate of change. Use of the equation of a straight line to describe relationships."
             },
-            "coreElements": [
-              "Samband och förändring"
-            ],
-            "verbs": [
-              "Beskriva"
-            ]
+            "coreElements": ["Samband och förändring"],
+            "verbs": ["Beskriva"]
           },
           {
             "code": "MA-7-9-25",
@@ -1089,14 +901,8 @@
               "local": "Funktioner och hur de används för att beskriva samband och förändring samt undersöka förändringstakt. Hur funk­tio­ner uttrycks i form av grafer, tabeller och funktionsuttryck.",
               "en": "Functions and how they are used to describe relationships and change, and to investigate rate of change. How functions are expressed in the form of graphs, tables and function expressions."
             },
-            "coreElements": [
-              "Samband och förändring"
-            ],
-            "verbs": [
-              "Beskriva",
-              "Söka",
-              "Undersöka"
-            ]
+            "coreElements": ["Samband och förändring"],
+            "verbs": ["Beskriva", "Söka", "Undersöka"]
           },
           {
             "code": "MA-7-9-26",
@@ -1104,12 +910,8 @@
               "local": "Strategier för att lösa matematiska problem i olika situationer och inom oli­ka ämnesområden samt värdering av valda strategier och metoder.",
               "en": "Strategies for solving mathematical problems in different situations and in different subject areas, and evaluation of chosen strategies and methods."
             },
-            "coreElements": [
-              "Problemlösning"
-            ],
-            "verbs": [
-              "Lösa"
-            ]
+            "coreElements": ["Problemlösning"],
+            "verbs": ["Lösa"]
           },
           {
             "code": "MA-7-9-27",
@@ -1117,9 +919,7 @@
               "local": "Formulering av matematiska frågeställningar utifrån olika situationer och äm­nesområden.",
               "en": "Formulation of mathematical questions based on different situations and subject areas."
             },
-            "coreElements": [
-              "Problemlösning"
-            ],
+            "coreElements": ["Problemlösning"],
             "verbs": []
           },
           {
@@ -1128,12 +928,8 @@
               "local": "Enkla matematiska modeller och hur de kan användas i olika situationer.",
               "en": "Simple mathematical models and how they can be used in different situations."
             },
-            "coreElements": [
-              "Problemlösning"
-            ],
-            "verbs": [
-              "Använda"
-            ]
+            "coreElements": ["Problemlösning"],
+            "verbs": ["Använda"]
           }
         ],
         "knowledgeCriteria": [

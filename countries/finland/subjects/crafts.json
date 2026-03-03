@@ -5,11 +5,7 @@
     "curriculum": "POPS 2014",
     "license": "Open Government Data (Finland)",
     "lastSynced": "2026-03-03T08:59:03Z",
-    "aiEnriched": [
-      "description.en",
-      "interdisciplinaryThemes",
-      "basicSkills"
-    ]
+    "aiEnriched": ["description.en", "interdisciplinaryThemes", "basicSkills"]
   },
   "subject": {
     "code": "KS",
@@ -316,12 +312,7 @@
               "local": "T1 rohkaista oppilasta kiinnostumaan ja innostumaan käsin tekemisestä sekä herättää uteliaisuutta keksivään ja kokeilevaan käsityöhön",
               "en": "T1 encourage the pupil to become interested in and enthusiastic about making things by hand, and to awaken curiosity towards inventive and experimental crafts"
             },
-            "coreElements": [
-              "S2",
-              "S1",
-              "S4",
-              "S3"
-            ],
+            "coreElements": ["S2", "S1", "S4", "S3"],
             "verbs": []
           },
           {
@@ -330,11 +321,7 @@
               "local": "T2 ohjata oppilas kokonaiseen käsityöprosessiin ja esittämään omia ideoitaan kuvallisesti sekä kertomaan käsityön tekemisestä ja valmiista tuotteesta",
               "en": "T2 guide the pupil through the complete craft process and to present their own ideas visually, as well as to describe the making process and the finished product"
             },
-            "coreElements": [
-              "S2",
-              "S1",
-              "S3"
-            ],
+            "coreElements": ["S2", "S1", "S3"],
             "verbs": []
           },
           {
@@ -343,13 +330,7 @@
               "local": "T3 ohjata oppilasta suunnittelemaan ja valmistamaan käsityötuotteita tai teoksia luottaen omiin esteettisiin ja teknisiin ratkaisuihinsa",
               "en": "T3 guide the pupil to design and produce craft products or works, trusting in their own aesthetic and technical solutions"
             },
-            "coreElements": [
-              "S2",
-              "S1",
-              "S4",
-              "S3",
-              "S5"
-            ],
+            "coreElements": ["S2", "S1", "S4", "S3", "S5"],
             "verbs": []
           },
           {
@@ -358,11 +339,7 @@
               "local": "T4 opastaa oppilasta tutustumaan moniin erilaisiin materiaaleihin ja niiden työstämiseen sekä ohjata toimimaan vastuuntuntoisesti ja turvallisesti",
               "en": "T4 instruct the pupil to explore many different materials and how to work with them, and to guide them to act responsibly and safely"
             },
-            "coreElements": [
-              "S2",
-              "S4",
-              "S3"
-            ],
+            "coreElements": ["S2", "S4", "S3"],
             "verbs": []
           },
           {
@@ -371,14 +348,7 @@
               "local": "T5 tukea oppilaan itsetunnon kehittymistä käsityössä onnistumisen, oivaltamisen ja keksimisen kokemusten kautta",
               "en": "T5 support the development of the pupil's self-esteem through experiences of success, discovery, and invention in crafts"
             },
-            "coreElements": [
-              "S2",
-              "S1",
-              "S4",
-              "S3",
-              "S6",
-              "S5"
-            ],
+            "coreElements": ["S2", "S1", "S4", "S3", "S6", "S5"],
             "verbs": []
           }
         ]
@@ -396,14 +366,7 @@
               "local": "T1 vahvistaa oppilaan kiinnostusta käsin tekemiseen sekä innostaa keksivään, kokeilevaan ja paikallisuutta hyödyntävään käsityöhön",
               "en": "T1 strengthen the pupil's interest in making things by hand and inspire inventive, experimental crafts that utilise local resources"
             },
-            "coreElements": [
-              "S2",
-              "S1",
-              "S3",
-              "S4",
-              "S6",
-              "S5"
-            ],
+            "coreElements": ["S2", "S1", "S3", "S4", "S6", "S5"],
             "verbs": []
           },
           {
@@ -412,14 +375,7 @@
               "local": "T2 ohjata oppilasta hahmottamaan ja hallitsemaan kokonainen käsityöprosessi ja sen dokumentointi",
               "en": "T2 guide the pupil to perceive and manage the complete craft process and its documentation"
             },
-            "coreElements": [
-              "S2",
-              "S1",
-              "S3",
-              "S4",
-              "S6",
-              "S5"
-            ],
+            "coreElements": ["S2", "S1", "S3", "S4", "S6", "S5"],
             "verbs": []
           },
           {
@@ -428,12 +384,7 @@
               "local": "T3 opastaa oppilasta suunnittelemaan ja valmistamaan yksin tai yhdessä käsityötuote tai -teos luottaen omiin esteettisiin ja teknisiin ratkaisuihin",
               "en": "T3 instruct the pupil to design and produce a craft product or work independently or collaboratively, trusting in their own aesthetic and technical solutions"
             },
-            "coreElements": [
-              "S2",
-              "S1",
-              "S3",
-              "S4"
-            ],
+            "coreElements": ["S2", "S1", "S3", "S4"],
             "verbs": []
           },
           {
@@ -442,10 +393,7 @@
               "local": "T4 ohjata oppilasta tunnistamaan käsitteistöä sekä tuntemaan monia erilaisia materiaaleja ja työstämään niitä tarkoituksenmukaisesti",
               "en": "T4 guide the pupil to recognise terminology and to become familiar with many different materials and to work with them appropriately"
             },
-            "coreElements": [
-              "S3",
-              "S5"
-            ],
+            "coreElements": ["S3", "S5"],
             "verbs": []
           },
           {
@@ -454,13 +402,7 @@
               "local": "T5 kannustaa oppilasta toimimaan pitkäjänteisesti ja vastuuntuntoisesti, huolehtimaan turvallisesta työskentelystä sekä valitsemaan ja käyttämään työhön sopivaa välineistöä",
               "en": "T5 encourage the pupil to work persistently and responsibly, to ensure safe working practices, and to select and use tools appropriate for the task"
             },
-            "coreElements": [
-              "S2",
-              "S1",
-              "S3",
-              "S4",
-              "S5"
-            ],
+            "coreElements": ["S2", "S1", "S3", "S4", "S5"],
             "verbs": []
           },
           {
@@ -469,11 +411,7 @@
               "local": "T6 opastaa oppilasta käyttämään tieto- ja viestintäteknologiaa käsityön suunnittelussa, valmistamisessa ja käsityöprosessin dokumentoinnissa",
               "en": "T6 instruct the pupil to use information and communication technology in craft design, production, and documentation of the craft process"
             },
-            "coreElements": [
-              "S2",
-              "S1",
-              "S6"
-            ],
+            "coreElements": ["S2", "S1", "S6"],
             "verbs": []
           },
           {
@@ -482,9 +420,7 @@
               "local": "T7 ohjata oppilasta arvioimaan, arvostamaan ja tarkastelemaan vuorovaikutteisesti omaa ja muiden kokonaisen käsityön prosessia",
               "en": "T7 guide the pupil to assess, appreciate, and examine their own and others' complete craft processes through interaction"
             },
-            "coreElements": [
-              "S6"
-            ],
+            "coreElements": ["S6"],
             "verbs": []
           },
           {
@@ -493,12 +429,7 @@
               "local": "T8 herättää oppilas arvioimaan kulutus- ja tuotantotapoja kriittisesti",
               "en": "T8 prompt the pupil to critically evaluate consumption and production practices"
             },
-            "coreElements": [
-              "S2",
-              "S1",
-              "S3",
-              "S5"
-            ],
+            "coreElements": ["S2", "S1", "S3", "S5"],
             "verbs": []
           }
         ]
@@ -516,13 +447,7 @@
               "local": "T1 ohjata oppilasta suunnittelemaan työskentelyään sekä ideoimaan, tutkimaan ja kokeilemaan yritteliäästi",
               "en": "T1 guide the pupil to plan their work and to ideate, investigate, and experiment with an entrepreneurial attitude"
             },
-            "coreElements": [
-              "S1",
-              "S2",
-              "S4",
-              "S3",
-              "S5"
-            ],
+            "coreElements": ["S1", "S2", "S4", "S3", "S5"],
             "verbs": []
           },
           {
@@ -531,13 +456,7 @@
               "local": "T2 ohjata oppilasta asettamaan käsityöhön omia oppimisen ja työskentelyn tavoitteita sekä toteuttamaan niiden perusteella kokonainen käsityöprosessi ja arvioimaan oppimistaan",
               "en": "T2 guide the pupil to set their own learning and working goals for crafts, to carry out a complete craft process based on these goals, and to assess their learning"
             },
-            "coreElements": [
-              "S1",
-              "S2",
-              "S4",
-              "S3",
-              "S5"
-            ],
+            "coreElements": ["S1", "S2", "S4", "S3", "S5"],
             "verbs": []
           },
           {
@@ -546,13 +465,7 @@
               "local": "T3 opastaa oppilasta tutustumaan ja käyttämään monipuolisesti erilaisia työvälineitä, materiaaleja ja tarkoituksenmukaisia työtapoja sekä kehittämään innovaatioita",
               "en": "T3 instruct the pupil to become familiar with and use a wide range of tools, materials, and appropriate working methods, and to develop innovations"
             },
-            "coreElements": [
-              "S1",
-              "S2",
-              "S4",
-              "S3",
-              "S5"
-            ],
+            "coreElements": ["S1", "S2", "S4", "S3", "S5"],
             "verbs": []
           },
           {
@@ -561,13 +474,7 @@
               "local": "T4 ohjata oppilasta käyttämään sujuvasti käsityön käsitteitä, merkkejä ja symboleja sekä vahvistamaan visuaalista, materiaalista ja teknologista ilmaisuaan",
               "en": "T4 guide the pupil to fluently use craft concepts, signs, and symbols, and to strengthen their visual, material, and technological expression"
             },
-            "coreElements": [
-              "S1",
-              "S2",
-              "S4",
-              "S3",
-              "S5"
-            ],
+            "coreElements": ["S1", "S2", "S4", "S3", "S5"],
             "verbs": []
           },
           {
@@ -576,9 +483,7 @@
               "local": "T5 ohjata oppilasta havainnoimaan, ennakoimaan ja reagoimaan työtilanteisiin liittyviin riskitekijöihin ja toimimaan turvallisesti käsityöprosessissa",
               "en": "T5 guide the pupil to observe, anticipate, and respond to risk factors related to work situations and to act safely in the craft process"
             },
-            "coreElements": [
-              "S6"
-            ],
+            "coreElements": ["S6"],
             "verbs": []
           },
           {
@@ -587,13 +492,7 @@
               "local": "T6 ohjata oppilasta käyttämään tieto- ja viestintäteknologian mahdollisuuksia käsityön suunnittelussa, valmistuksessa ja dokumentoinnissa, sekä yhteisöllisen tiedon tuottamisessa ja jakamisessa",
               "en": "T6 guide the pupil to use the possibilities of information and communication technology in craft design, production, and documentation, as well as in collaborative knowledge creation and sharing"
             },
-            "coreElements": [
-              "S1",
-              "S2",
-              "S4",
-              "S3",
-              "S5"
-            ],
+            "coreElements": ["S1", "S2", "S4", "S3", "S5"],
             "verbs": []
           },
           {
@@ -602,9 +501,7 @@
               "local": "T7 ohjata oppilasta tuntemaan käsityön, kädentaitojen ja teknologisen kehityksen merkitys omassa elämässään, yhteiskunnassa, yrittäjyydessä ja muussa työelämässä",
               "en": "T7 guide the pupil to understand the significance of crafts, manual skills, and technological development in their own life, in society, in entrepreneurship, and in other areas of working life"
             },
-            "coreElements": [
-              "S7"
-            ],
+            "coreElements": ["S7"],
             "verbs": []
           },
           {
@@ -613,9 +510,7 @@
               "local": "T8 ohjata oppilaita taloudelliseen ajatteluun ja kehittämään käsityöprosessiin liittyviä valintoja, jotka edistävät kestävää elämäntapaa",
               "en": "T8 guide pupils towards economic thinking and to develop choices related to the craft process that promote a sustainable way of life"
             },
-            "coreElements": [
-              "S8"
-            ],
+            "coreElements": ["S8"],
             "verbs": []
           }
         ]

@@ -158,9 +158,7 @@
               "local": "Några föremål och något tekniskt system i elevernas vardag, hur de är anpassade efter människans behov samt hur de har förändrats över tid.",
               "en": "Some objects and a technical system in the pupils' everyday lives, how they are adapted to human needs and how they have changed over time."
             },
-            "coreElements": [
-              "Teknik, människa, samhälle och miljö"
-            ],
+            "coreElements": ["Teknik, människa, samhälle och miljö"],
             "verbs": []
           },
           {
@@ -169,9 +167,7 @@
               "local": "Säkerhet vid elevernas användning av teknik, till exempel elektricitet och olika tjänster via internet.",
               "en": "Safety in the pupils' use of technology, for example electricity and various services via the internet."
             },
-            "coreElements": [
-              "Teknik, människa, samhälle och miljö"
-            ],
+            "coreElements": ["Teknik, människa, samhälle och miljö"],
             "verbs": []
           },
           {
@@ -180,9 +176,7 @@
               "local": "Hur några föremål i elevernas vardag används och fungerar. Enkla me­ka­nis­mer, till exempel i verktyg och leksaker av olika slag. Begrepp som an­vänds i samband med detta.",
               "en": "How some objects in the pupils' everyday lives are used and function. Simple mechanisms, for example in tools and toys of various kinds. Terminology used in connection with this."
             },
-            "coreElements": [
-              "Tekniska lösningar"
-            ],
+            "coreElements": ["Tekniska lösningar"],
             "verbs": []
           },
           {
@@ -191,9 +185,7 @@
               "local": "Vad datorer används till och deras delar för inmatning, utmatning och lag­ring av information. Föremål i elevernas vardag som styrs med hjälp av pro­gram­mering, till exempel hushållsmaskiner och smarta telefoner.",
               "en": "What computers are used for and their components for input, output and storage of information. Objects in the pupils' everyday lives that are controlled by programming, for example household appliances and smartphones."
             },
-            "coreElements": [
-              "Tekniska lösningar"
-            ],
+            "coreElements": ["Tekniska lösningar"],
             "verbs": []
           },
           {
@@ -202,9 +194,7 @@
               "local": "Material för konstruktionsarbete. Materialens egenskaper och hur mate­ria­len benämns och kan sammanfogas.",
               "en": "Materials for construction work. The properties of the materials and how the materials are named and can be joined together."
             },
-            "coreElements": [
-              "Tekniska lösningar"
-            ],
+            "coreElements": ["Tekniska lösningar"],
             "verbs": []
           },
           {
@@ -216,10 +206,7 @@
             "coreElements": [
               "Arbetsmetoder för utveckling av tekniska lösningar"
             ],
-            "verbs": [
-              "Söka",
-              "Undersöka"
-            ]
+            "verbs": ["Söka", "Undersöka"]
           },
           {
             "code": "TK-1-3-7",
@@ -269,9 +256,7 @@
               "local": "Några tekniska system och hur de påverkar människa och miljö, till exem­pel vatten- och avloppssystem och system för återvinning. Hur systemen har förändrats över tid och några orsaker till detta.",
               "en": "Some technical systems and how they affect people and the environment, for example water and sewage systems and recycling systems. How the systems have changed over time and some reasons for this."
             },
-            "coreElements": [
-              "Teknik, människa, samhälle och miljö"
-            ],
+            "coreElements": ["Teknik, människa, samhälle och miljö"],
             "verbs": []
           },
           {
@@ -280,9 +265,7 @@
               "local": "Möjligheter, risker och säkerhet vid teknikanvändning i vardagen, till exem­pel vid användning av elektricitet och vid överföring av information i digitala miljöer.",
               "en": "Opportunities, risks and safety in everyday use of technology, for example when using electricity and when transferring information in digital environments."
             },
-            "coreElements": [
-              "Teknik, människa, samhälle och miljö"
-            ],
+            "coreElements": ["Teknik, människa, samhälle och miljö"],
             "verbs": []
           },
           {
@@ -291,9 +274,7 @@
               "local": "Konsekvenser av teknikval: olika tekniska lösningars för- och nackdelar för människa och miljö.",
               "en": "Consequences of technology choices: the advantages and disadvantages of different technical solutions for people and the environment."
             },
-            "coreElements": [
-              "Teknik, människa, samhälle och miljö"
-            ],
+            "coreElements": ["Teknik, människa, samhälle och miljö"],
             "verbs": []
           },
           {
@@ -302,9 +283,7 @@
               "local": "Hur några komponenter i vanliga tekniska system benämns och samverkar, till exempel i en cykel eller i ett enkelt produktions- eller transportsystem.",
               "en": "How some components in common technical systems are named and interact, for example in a bicycle or in a simple production or transport system."
             },
-            "coreElements": [
-              "Tekniska lösningar"
-            ],
+            "coreElements": ["Tekniska lösningar"],
             "verbs": []
           },
           {
@@ -313,12 +292,8 @@
               "local": "Föremål som innehåller rörliga delar och hur de rörliga delarna är sam­man­foga­de med hjälp av olika mekanismer för att överföra och förstärka krafter.",
               "en": "Objects that contain moving parts and how the moving parts are joined together using different mechanisms to transfer and amplify forces."
             },
-            "coreElements": [
-              "Tekniska lösningar"
-            ],
-            "verbs": [
-              "Föra"
-            ]
+            "coreElements": ["Tekniska lösningar"],
+            "verbs": ["Föra"]
           },
           {
             "code": "TK-4-6-6",
@@ -326,9 +301,7 @@
               "local": "Några av datorns delar och deras funktioner, till exempel processor och arbets­minne. Hur datorer styrs av program och kan kopplas samman i nät­verk.",
               "en": "Some of the computer's components and their functions, for example processor and working memory. How computers are controlled by programs and can be connected in networks."
             },
-            "coreElements": [
-              "Tekniska lösningar"
-            ],
+            "coreElements": ["Tekniska lösningar"],
             "verbs": []
           },
           {
@@ -337,9 +310,7 @@
               "local": "Tekniska lösningar som utnyttjar elkomponenter och enkel elektronik för att åstadkomma ljud, ljus eller rörelse, till exempel larm och belysning. Be­grepp som används i samband med detta.",
               "en": "Technical solutions that use electrical components and simple electronics to produce sound, light or movement, for example alarms and lighting. Terminology used in connection with this."
             },
-            "coreElements": [
-              "Tekniska lösningar"
-            ],
+            "coreElements": ["Tekniska lösningar"],
             "verbs": []
           },
           {
@@ -348,9 +319,7 @@
               "local": "Hur hållfasta och stabila konstruktioner är uppbyggda, till exempel skal, ar­mering och fackverk. Material som används i hållfasta och stabila konstruktioner.",
               "en": "How strong and stable structures are built, for example shells, reinforcement and trusses. Materials used in strong and stable structures."
             },
-            "coreElements": [
-              "Tekniska lösningar"
-            ],
+            "coreElements": ["Tekniska lösningar"],
             "verbs": []
           },
           {
@@ -449,9 +418,7 @@
               "local": "Internet och några andra globala tekniska system samt deras fördelar, risker och begränsningar.",
               "en": "The internet and some other global technical systems, and their advantages, risks and limitations."
             },
-            "coreElements": [
-              "Teknik, människa, samhälle och miljö"
-            ],
+            "coreElements": ["Teknik, människa, samhälle och miljö"],
             "verbs": []
           },
           {
@@ -460,9 +427,7 @@
               "local": "Möjligheter, risker och säkerhet vid teknikanvändning i samhället, däri­bland vid lagring av data.",
               "en": "Opportunities, risks and safety in the use of technology in society, including data storage."
             },
-            "coreElements": [
-              "Teknik, människa, samhälle och miljö"
-            ],
+            "coreElements": ["Teknik, människa, samhälle och miljö"],
             "verbs": []
           },
           {
@@ -471,9 +436,7 @@
               "local": "Konsekvenser av teknikval utifrån ekologiska, ekonomiska och sociala as­pek­ter av hållbar utveckling.",
               "en": "Consequences of technology choices from ecological, economic and social aspects of sustainable development."
             },
-            "coreElements": [
-              "Teknik, människa, samhälle och miljö"
-            ],
+            "coreElements": ["Teknik, människa, samhälle och miljö"],
             "verbs": []
           },
           {
@@ -482,9 +445,7 @@
               "local": "Hur tekniken möjliggjort vetenskapliga upptäckter och hur vetenskapen har möjliggjort tekniska innovationer.",
               "en": "How technology has enabled scientific discoveries and how science has enabled technological innovations."
             },
-            "coreElements": [
-              "Teknik, människa, samhälle och miljö"
-            ],
+            "coreElements": ["Teknik, människa, samhälle och miljö"],
             "verbs": []
           },
           {
@@ -493,9 +454,7 @@
               "local": "Hur föreställningar om teknik påverkar individers användning av tekniska lös­ningar och yrkesval.",
               "en": "How perceptions of technology affect individuals' use of technical solutions and career choices."
             },
-            "coreElements": [
-              "Teknik, människa, samhälle och miljö"
-            ],
+            "coreElements": ["Teknik, människa, samhälle och miljö"],
             "verbs": []
           },
           {
@@ -504,9 +463,7 @@
               "local": "Hur komponenter och delsystem benämns och samverkar inom tekniska sy­stem, till exempel informations- och kommunikationsteknik och transport­system.",
               "en": "How components and subsystems are named and interact within technical systems, for example information and communication technology and transport systems."
             },
-            "coreElements": [
-              "Tekniska lösningar"
-            ],
+            "coreElements": ["Tekniska lösningar"],
             "verbs": []
           },
           {
@@ -515,9 +472,7 @@
               "local": "Tekniska lösningar för styrning och reglering med hjälp av elektronik och olika typer av sensorer. Hur tekniska lösningar som utnyttjar elektronik kan prog­ram­meras. Begrepp som används i samband med detta.",
               "en": "Technical solutions for control and regulation using electronics and different types of sensors. How technical solutions that use electronics can be programmed. Terminology used in connection with this."
             },
-            "coreElements": [
-              "Tekniska lösningar"
-            ],
+            "coreElements": ["Tekniska lösningar"],
             "verbs": []
           },
           {
@@ -526,9 +481,7 @@
               "local": "Tekniska lösningar för hållfasta och stabila konstruktioner samt betydelsen av materialens egenskaper, till exempel drag- och tryckhållfasthet, hårdhet och elasticitet.",
               "en": "Technical solutions for strong and stable structures, and the significance of material properties, for example tensile and compressive strength, hardness and elasticity."
             },
-            "coreElements": [
-              "Tekniska lösningar"
-            ],
+            "coreElements": ["Tekniska lösningar"],
             "verbs": []
           },
           {
@@ -537,9 +490,7 @@
               "local": "Bearbetning av råvara till färdig produkt och hantering av avfall i någon indu­striell process, till exempel vid tillverkning av livsmedel och för­pack­ningar.",
               "en": "Processing of raw materials into finished products and handling of waste in an industrial process, for example in the manufacture of food products and packaging."
             },
-            "coreElements": [
-              "Tekniska lösningar"
-            ],
+            "coreElements": ["Tekniska lösningar"],
             "verbs": []
           },
           {
@@ -562,9 +513,7 @@
             "coreElements": [
               "Arbetsmetoder för utveckling av tekniska lösningar"
             ],
-            "verbs": [
-              "Använda"
-            ]
+            "verbs": ["Använda"]
           },
           {
             "code": "TK-7-9-12",

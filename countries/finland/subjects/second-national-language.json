@@ -169,9 +169,7 @@
               "local": "T1 kannustaa oppilasta kiinnostumaan lähiympäristön, Suomen ja Pohjoismaiden kielellisestä ja kulttuurisesta runsaudesta sekä suomen ja ruotsin asemasta kansalliskielinä",
               "en": "T1 encourage the pupil to take an interest in the linguistic and cultural richness of the immediate environment, Finland, and the Nordic countries, as well as the status of Finnish and Swedish as national languages"
             },
-            "coreElements": [
-              "S1"
-            ],
+            "coreElements": ["S1"],
             "verbs": []
           },
           {
@@ -180,9 +178,7 @@
               "local": "T2 motivoida oppilasta arvostamaan omaa kieli- ja kulttuuritaustaansa sekä maailman kielellistä ja kulttuurista moninaisuutta ja kohtaamaan ihmisiä ilman arvottavia ennakko-oletuksia",
               "en": "T2 motivate the pupil to value their own linguistic and cultural background as well as the linguistic and cultural diversity of the world, and to encounter people without prejudicial assumptions"
             },
-            "coreElements": [
-              "S1"
-            ],
+            "coreElements": ["S1"],
             "verbs": []
           },
           {
@@ -191,9 +187,7 @@
               "local": "T3 ohjata oppilasta havaitsemaan kieliä yhdistäviä ja erottavia ilmiöitä sekä tukea oppilaan kielellisen uteliaisuuden ja päättelykyvyn kehittymistä",
               "en": "T3 guide the pupil to notice phenomena that connect and distinguish languages, and to support the development of the pupil's linguistic curiosity and reasoning ability"
             },
-            "coreElements": [
-              "S1"
-            ],
+            "coreElements": ["S1"],
             "verbs": []
           },
           {
@@ -202,9 +196,7 @@
               "local": "T4 ohjata oppilasta löytämään ruotsinkielistä aineistoa",
               "en": "T4 guide the pupil to find Swedish-language material"
             },
-            "coreElements": [
-              "S1"
-            ],
+            "coreElements": ["S1"],
             "verbs": []
           },
           {
@@ -213,9 +205,7 @@
               "local": "T5 tutustua yhdessä opetuksen tavoitteisiin ja luoda salliva opiskeluilmapiiri, jossa tärkeintä on viestin välittyminen sekä kannustava yhdessä oppiminen",
               "en": "T5 explore the learning objectives together and create a permissive study atmosphere in which the most important thing is getting the message across and supportive collaborative learning"
             },
-            "coreElements": [
-              "S2"
-            ],
+            "coreElements": ["S2"],
             "verbs": []
           },
           {
@@ -224,9 +214,7 @@
               "local": "T6 ohjata oppilasta ottamaan vastuuta omasta kielenopiskelustaan ja kannustaa oppilasta harjaannuttamaan kielitaitoaan rohkeasti ja myös tieto- ja viestintäteknologiaa käyttäen sekä kokeilla, millaiset tavat oppia kieliä sopivat kullekin parhaiten",
               "en": "T6 guide the pupil to take responsibility for their own language learning and encourage the pupil to practise their language skills boldly, including through the use of information and communication technology, and to try out which ways of learning languages suit each pupil best"
             },
-            "coreElements": [
-              "S2"
-            ],
+            "coreElements": ["S2"],
             "verbs": []
           },
           {
@@ -235,9 +223,7 @@
               "local": "T7 järjestää oppilaalle tilaisuuksia harjoitella eri viestintäkanavia käyttäen suullista ja kirjallista viestintää ja vuorovaikutusta",
               "en": "T7 provide the pupil with opportunities to practise oral and written communication and interaction using different communication channels"
             },
-            "coreElements": [
-              "S3"
-            ],
+            "coreElements": ["S3"],
             "verbs": []
           },
           {
@@ -246,9 +232,7 @@
               "local": "T8 tukea oppilasta kielellisten viestintästrategioiden käytössä",
               "en": "T8 support the pupil in the use of linguistic communication strategies"
             },
-            "coreElements": [
-              "S3"
-            ],
+            "coreElements": ["S3"],
             "verbs": []
           },
           {
@@ -257,9 +241,7 @@
               "local": "T9 auttaa oppilasta laajentamaan kohteliaaseen kielenkäyttöön kuuluvien ilmausten tuntemustaan",
               "en": "T9 help the pupil to expand their knowledge of expressions associated with polite language use"
             },
-            "coreElements": [
-              "S3"
-            ],
+            "coreElements": ["S3"],
             "verbs": []
           },
           {
@@ -268,9 +250,7 @@
               "local": "T10 rohkaista oppilasta tulkitsemaan ikätasolleen sopivia ja itseään kiinnostavia puhuttuja ja kirjoitettuja tekstejä",
               "en": "T10 encourage the pupil to interpret spoken and written texts that are appropriate to their age level and of personal interest"
             },
-            "coreElements": [
-              "S3"
-            ],
+            "coreElements": ["S3"],
             "verbs": []
           },
           {
@@ -279,9 +259,7 @@
               "local": "T11 tarjota oppilaalle runsaasti tilaisuuksia harjoitella ikätasolle sopivaa pienimuotoista puhumista ja kirjoittamista kiinnittäen huomiota myös ääntämiseen ja tekstin sisällön kannalta oleellisimpiin rakenteisiin",
               "en": "T11 provide the pupil with ample opportunities to practise age-appropriate small-scale speaking and writing, paying attention also to pronunciation and the structures most essential for the content of the text"
             },
-            "coreElements": [
-              "S3"
-            ],
+            "coreElements": ["S3"],
             "verbs": []
           }
         ]
@@ -299,9 +277,7 @@
               "local": "T1 edistää oppilaan taitoa pohtia ruotsin kansalliskielen asemaan liittyviä ilmiöitä sekä antaa oppilaalle valmiuksia kehittää kulttuurienvälistä toimintakykyään",
               "en": "T1 promote the pupil's ability to reflect on phenomena related to the status of Swedish as a national language, and provide the pupil with the capacity to develop their intercultural competence"
             },
-            "coreElements": [
-              "S1"
-            ],
+            "coreElements": ["S1"],
             "verbs": []
           },
           {
@@ -310,9 +286,7 @@
               "local": "T2 kannustaa oppilasta löytämään kiinnostavia ruotsinkielisiä toimintaympäristöjä, jotka laajentavat oppilaan maailmankuvaa",
               "en": "T2 encourage the pupil to find interesting Swedish-language environments that broaden the pupil's worldview"
             },
-            "coreElements": [
-              "S1"
-            ],
+            "coreElements": ["S1"],
             "verbs": []
           },
           {
@@ -321,9 +295,7 @@
               "local": "T3 ohjata oppilasta havaitsemaan, millaisia säännönmukaisuuksia ruotsin kielessä on, miten samoja asioita ilmaistaan muissa kielissä sekä käyttämään kielitiedon käsitteitä oppimisensa tukena",
               "en": "T3 guide the pupil to notice what kinds of regularities exist in Swedish, how the same things are expressed in other languages, and to use linguistic concepts to support their learning"
             },
-            "coreElements": [
-              "S1"
-            ],
+            "coreElements": ["S1"],
             "verbs": []
           },
           {
@@ -332,9 +304,7 @@
               "local": "T4 rohkaista oppilasta asettamaan tavoitteita, hyödyntämään monipuolisia tapoja oppia kieliä ja arvioimaan oppimistaan itsenäisesti ja yhteistyössä sekä ohjata oppilasta myönteiseen vuorovaikutukseen, jossa tärkeintä on viestin välittyminen",
               "en": "T4 encourage the pupil to set goals, to use diverse ways of learning languages, and to evaluate their learning independently and collaboratively, and to guide the pupil towards positive interaction in which the most important thing is getting the message across"
             },
-            "coreElements": [
-              "S2"
-            ],
+            "coreElements": ["S2"],
             "verbs": []
           },
           {
@@ -343,9 +313,7 @@
               "local": "T5 tukea oppilaan itsenäisyyttä ja taitoa soveltaa luovasti kielitaitoaan sekä kehittää elinikäisen kieltenopiskelun valmiuksia",
               "en": "T5 support the pupil's independence and ability to apply their language skills creatively, and to develop their readiness for lifelong language learning"
             },
-            "coreElements": [
-              "S2"
-            ],
+            "coreElements": ["S2"],
             "verbs": []
           },
           {
@@ -354,9 +322,7 @@
               "local": "T6 rohkaista oppilasta harjoittelemaan monenlaisia jokapäiväisiä viestintätilanteita sekä toimimaan niissä aloitteellisesti",
               "en": "T6 encourage the pupil to practise various everyday communication situations and to act in them with initiative"
             },
-            "coreElements": [
-              "S3"
-            ],
+            "coreElements": ["S3"],
             "verbs": []
           },
           {
@@ -365,9 +331,7 @@
               "local": "T7 ohjata oppilasta olemaan aktiivinen viestintätilanteessa sekä syventämään taitoaan käyttää kohdekielisiä viestinnän keinoja, vakiintuneita fraaseja, kierto- ja täyteilmauksia ja muuta kompensaatiota",
               "en": "T7 guide the pupil to be active in communication situations and to deepen their skill in using target-language communication strategies, fixed phrases, circumlocutions, fillers, and other compensation strategies"
             },
-            "coreElements": [
-              "S3"
-            ],
+            "coreElements": ["S3"],
             "verbs": []
           },
           {
@@ -376,9 +340,7 @@
               "local": "T8 ohjata oppilasta kiinnittämään huomiota kulttuurisesti sopivaan kielenkäyttöön viestinnässä, johon liittyy mielipiteiden ja asenteiden esiin tuomista",
               "en": "T8 guide the pupil to pay attention to culturally appropriate language use in communication that involves expressing opinions and attitudes"
             },
-            "coreElements": [
-              "S3"
-            ],
+            "coreElements": ["S3"],
             "verbs": []
           },
           {
@@ -387,9 +349,7 @@
               "local": "T9 tarjota oppilaalle mahdollisuuksia tulkita erilaisia tekstejä, myös selväpiirteisiä asiatekstejä, joista hankitaan tietoa, ja ohjata käyttämään tulkinnassa päättelytaitoa ja keskeisen sisällön ymmärtämistä",
               "en": "T9 provide the pupil with opportunities to interpret various texts, including clear factual texts from which information is obtained, and guide the pupil to use reasoning skills and understanding of the main content in interpretation"
             },
-            "coreElements": [
-              "S3"
-            ],
+            "coreElements": ["S3"],
             "verbs": []
           },
           {
@@ -398,9 +358,7 @@
               "local": "T10 tarjota oppilaalle mahdollisuuksia tuottaa puhetta ja kirjoitusta aihepiirejä laajentaen ja kiinnittäen huomiota myös keskeisiin rakenteisiin ja ääntämisen perussääntöihin",
               "en": "T10 provide the pupil with opportunities to produce speech and writing while expanding the range of topics, and paying attention to key structures and basic rules of pronunciation"
             },
-            "coreElements": [
-              "S3"
-            ],
+            "coreElements": ["S3"],
             "verbs": []
           }
         ]

@@ -158,9 +158,7 @@
               "local": "Matlagning för olika sammanhang.",
               "en": "Cooking for different contexts."
             },
-            "coreElements": [
-              "Mat och matlagning"
-            ],
+            "coreElements": ["Mat och matlagning"],
             "verbs": []
           },
           {
@@ -169,14 +167,8 @@
               "local": "Enkla metoder för matlagning, däribland bakning. Att planera, organisera och utvärdera arbetet.",
               "en": "Simple methods for cooking, including baking. Planning, organising and evaluating the work."
             },
-            "coreElements": [
-              "Mat och matlagning"
-            ],
-            "verbs": [
-              "Planera",
-              "Utvärdera",
-              "Värdera"
-            ]
+            "coreElements": ["Mat och matlagning"],
+            "verbs": ["Planera", "Utvärdera", "Värdera"]
           },
           {
             "code": "HKK-1-6-3",
@@ -184,9 +176,7 @@
               "local": "Enkla instruktioner och recept. Hur de kan läsas och följas samt vanliga be­grepp för matlagning.",
               "en": "Simple instructions and recipes. How they can be read and followed, as well as common cooking terms."
             },
-            "coreElements": [
-              "Mat och matlagning"
-            ],
+            "coreElements": ["Mat och matlagning"],
             "verbs": []
           },
           {
@@ -195,9 +185,7 @@
               "local": "Samtal om upplevelser av smak, doft, konsistens och textur i samband med mat­lagning.",
               "en": "Conversations about experiences of taste, smell, consistency and texture in connection with cooking."
             },
-            "coreElements": [
-              "Mat och matlagning"
-            ],
+            "coreElements": ["Mat och matlagning"],
             "verbs": []
           },
           {
@@ -206,12 +194,8 @@
               "local": "Redskap och teknisk utrustning som kan användas vid matlagning och hur dessa används på ett funktionellt och säkert sätt.",
               "en": "Utensils and technical equipment that can be used in cooking and how these are used in a functional and safe way."
             },
-            "coreElements": [
-              "Mat och matlagning"
-            ],
-            "verbs": [
-              "Använda"
-            ]
+            "coreElements": ["Mat och matlagning"],
+            "verbs": ["Använda"]
           },
           {
             "code": "HKK-1-6-6",
@@ -219,9 +203,7 @@
               "local": "Hygien och livsmedelssäkerhet i samband med hantering, tillagning och för­varing av livsmedel.",
               "en": "Hygiene and food safety in connection with the handling, preparation and storage of food."
             },
-            "coreElements": [
-              "Mat och matlagning"
-            ],
+            "coreElements": ["Mat och matlagning"],
             "verbs": []
           },
           {
@@ -230,9 +212,7 @@
               "local": "Ungas privatekonomi. Relationen mellan sparande och konsumtion. Olika sätt för att betala och spara.",
               "en": "Young people's personal finances. The relationship between saving and consumption. Different ways to pay and save."
             },
-            "coreElements": [
-              "Privatekonomi och konsumtion"
-            ],
+            "coreElements": ["Privatekonomi och konsumtion"],
             "verbs": []
           },
           {
@@ -241,9 +221,7 @@
               "local": "Skillnaden mellan saklig konsumentinformation och annan påverkan på kon­sumtionsval. Reklam i olika former, även dolda reklambudskap.",
               "en": "The difference between factual consumer information and other influences on consumption choices. Advertising in different forms, including hidden advertising messages."
             },
-            "coreElements": [
-              "Privatekonomi och konsumtion"
-            ],
+            "coreElements": ["Privatekonomi och konsumtion"],
             "verbs": []
           },
           {
@@ -252,9 +230,7 @@
               "local": "Jämförelser av några vanliga varor utifrån jämförpris.",
               "en": "Comparisons of some common products based on unit price."
             },
-            "coreElements": [
-              "Privatekonomi och konsumtion"
-            ],
+            "coreElements": ["Privatekonomi och konsumtion"],
             "verbs": []
           },
           {
@@ -263,9 +239,7 @@
               "local": "Vikten av att äta varierat och balanserat för att må bra. Hur måltider kan för­delas över en dag.",
               "en": "The importance of eating a varied and balanced diet to feel well. How meals can be distributed throughout a day."
             },
-            "coreElements": [
-              "Levnadsvanor"
-            ],
+            "coreElements": ["Levnadsvanor"],
             "verbs": []
           },
           {
@@ -274,9 +248,7 @@
               "local": "Måltidens betydelse för gemenskap. Olika mattraditioner.",
               "en": "The significance of the meal for social togetherness. Different food traditions."
             },
-            "coreElements": [
-              "Levnadsvanor"
-            ],
+            "coreElements": ["Levnadsvanor"],
             "verbs": []
           },
           {
@@ -285,9 +257,7 @@
               "local": "Resurshushållning av livsmedel och andra förbrukningsvaror i hemmet. Åter­vinning i hemmet och i närområdet och hur den fungerar.",
               "en": "Resource management of food and other consumables in the home. Recycling in the home and in the local area and how it works."
             },
-            "coreElements": [
-              "Levnadsvanor"
-            ],
+            "coreElements": ["Levnadsvanor"],
             "verbs": []
           },
           {
@@ -296,9 +266,7 @@
               "local": "Några olika certifieringar och märkningar av livsmedel och andra varor samt deras betydelse.",
               "en": "Some different certifications and labels on food and other products, and their significance."
             },
-            "coreElements": [
-              "Levnadsvanor"
-            ],
+            "coreElements": ["Levnadsvanor"],
             "verbs": []
           },
           {
@@ -307,9 +275,7 @@
               "local": "Rutiner och metoder för rengöring.",
               "en": "Routines and methods for cleaning."
             },
-            "coreElements": [
-              "Levnadsvanor"
-            ],
+            "coreElements": ["Levnadsvanor"],
             "verbs": []
           }
         ],
@@ -364,9 +330,7 @@
               "local": "Matlagning för olika behov och sammanhang.",
               "en": "Cooking for different needs and contexts."
             },
-            "coreElements": [
-              "Mat och matlagning"
-            ],
+            "coreElements": ["Mat och matlagning"],
             "verbs": []
           },
           {
@@ -375,9 +339,7 @@
               "local": "Livsmedels egenskaper och användningsområden.",
               "en": "Properties and uses of foodstuffs."
             },
-            "coreElements": [
-              "Mat och matlagning"
-            ],
+            "coreElements": ["Mat och matlagning"],
             "verbs": []
           },
           {
@@ -386,13 +348,8 @@
               "local": "Val av livsmedel och metoder för matlagning, däribland bakning. Att pla­nera, organisera och utvärdera arbetet.",
               "en": "Choice of foodstuffs and methods for cooking, including baking. Planning, organising and evaluating the work."
             },
-            "coreElements": [
-              "Mat och matlagning"
-            ],
-            "verbs": [
-              "Utvärdera",
-              "Värdera"
-            ]
+            "coreElements": ["Mat och matlagning"],
+            "verbs": ["Utvärdera", "Värdera"]
           },
           {
             "code": "HKK-7-9-4",
@@ -400,12 +357,8 @@
               "local": "Skapande av egna måltider, till exempel utifrån säsong och rester.",
               "en": "Creating own meals, for example based on season and leftovers."
             },
-            "coreElements": [
-              "Mat och matlagning"
-            ],
-            "verbs": [
-              "Skapa"
-            ]
+            "coreElements": ["Mat och matlagning"],
+            "verbs": ["Skapa"]
           },
           {
             "code": "HKK-7-9-5",
@@ -413,9 +366,7 @@
               "local": "Instruktioner och recept. Hur de kan läsas och följas samt begrepp för mat­lag­ning.",
               "en": "Instructions and recipes. How they can be read and followed, as well as cooking terms."
             },
-            "coreElements": [
-              "Mat och matlagning"
-            ],
+            "coreElements": ["Mat och matlagning"],
             "verbs": []
           },
           {
@@ -424,9 +375,7 @@
               "local": "Samtal om upplevelser av smak, doft, konsistens och textur i samband med mat­lagning.",
               "en": "Conversations about experiences of taste, smell, consistency and texture in connection with cooking."
             },
-            "coreElements": [
-              "Mat och matlagning"
-            ],
+            "coreElements": ["Mat och matlagning"],
             "verbs": []
           },
           {
@@ -435,12 +384,8 @@
               "local": "Redskap och teknisk utrustning som kan användas vid matlagning och hur dessa används på ett funktionellt och säkert sätt.",
               "en": "Utensils and technical equipment that can be used in cooking and how these are used in a functional and safe way."
             },
-            "coreElements": [
-              "Mat och matlagning"
-            ],
-            "verbs": [
-              "Använda"
-            ]
+            "coreElements": ["Mat och matlagning"],
+            "verbs": ["Använda"]
           },
           {
             "code": "HKK-7-9-8",
@@ -448,9 +393,7 @@
               "local": "Hygien och livsmedelssäkerhet i samband med hantering, tillagning och för­varing av livsmedel.",
               "en": "Hygiene and food safety in connection with the handling, preparation and storage of food."
             },
-            "coreElements": [
-              "Mat och matlagning"
-            ],
+            "coreElements": ["Mat och matlagning"],
             "verbs": []
           },
           {
@@ -459,9 +402,7 @@
               "local": "Ungas privatekonomi. Konsumtion och ekonomisk planering, däribland att göra en budget.",
               "en": "Young people's personal finances. Consumption and financial planning, including making a budget."
             },
-            "coreElements": [
-              "Privatekonomi och konsumtion"
-            ],
+            "coreElements": ["Privatekonomi och konsumtion"],
             "verbs": []
           },
           {
@@ -470,9 +411,7 @@
               "local": "Att handla på kredit, teckna abonnemang samt låna och spara pengar.",
               "en": "Buying on credit, signing up for subscriptions, and borrowing and saving money."
             },
-            "coreElements": [
-              "Privatekonomi och konsumtion"
-            ],
+            "coreElements": ["Privatekonomi och konsumtion"],
             "verbs": []
           },
           {
@@ -481,9 +420,7 @@
               "local": "Skillnaden mellan saklig konsumentinformation och annan påverkan på kon­sumtionsval. Reklam i olika former, även dolda reklambudskap.",
               "en": "The difference between factual consumer information and other influences on consumption choices. Advertising in different forms, including hidden advertising messages."
             },
-            "coreElements": [
-              "Privatekonomi och konsumtion"
-            ],
+            "coreElements": ["Privatekonomi och konsumtion"],
             "verbs": []
           },
           {
@@ -492,9 +429,7 @@
               "local": "Konsumenters rättigheter och skyldigheter. Garanti, reklamation, ånger­rätt, öppet köp och köp från privatperson samt skillnad mellan köp i butik och på internet.",
               "en": "Consumer rights and obligations. Warranty, complaints, right of withdrawal, open purchase and purchases from private individuals, as well as the difference between in-store and online purchases."
             },
-            "coreElements": [
-              "Privatekonomi och konsumtion"
-            ],
+            "coreElements": ["Privatekonomi och konsumtion"],
             "verbs": []
           },
           {
@@ -503,9 +438,7 @@
               "local": "Sammansättning av varierade och balanserade måltider och anpassning till indi­viduella behov.",
               "en": "Composing varied and balanced meals and adapting to individual needs."
             },
-            "coreElements": [
-              "Levnadsvanor"
-            ],
+            "coreElements": ["Levnadsvanor"],
             "verbs": []
           },
           {
@@ -514,9 +447,7 @@
               "local": "Måltidens betydelse för gemenskap. Olika mattraditioner.",
               "en": "The significance of the meal for social togetherness. Different food traditions."
             },
-            "coreElements": [
-              "Levnadsvanor"
-            ],
+            "coreElements": ["Levnadsvanor"],
             "verbs": []
           },
           {
@@ -525,9 +456,7 @@
               "local": "Arbetsfördelning i hemmet ur ett jämställdhetsperspektiv.",
               "en": "Division of labour in the home from a gender equality perspective."
             },
-            "coreElements": [
-              "Levnadsvanor"
-            ],
+            "coreElements": ["Levnadsvanor"],
             "verbs": []
           },
           {
@@ -536,9 +465,7 @@
               "local": "Resurshushållning. Ställningstaganden vid val och användning av livs­me­del och andra varor. Hur produktion, transport och återvinning av livs­me­del och andra varor påverkar människors hälsa, ekonomi och miljö.",
               "en": "Resource management. Considerations when choosing and using food and other products. How the production, transport and recycling of food and other products affect people's health, finances and the environment."
             },
-            "coreElements": [
-              "Levnadsvanor"
-            ],
+            "coreElements": ["Levnadsvanor"],
             "verbs": []
           },
           {
@@ -547,9 +474,7 @@
               "local": "Rutiner och metoder för rengöring och tvätt.",
               "en": "Routines and methods for cleaning and laundry."
             },
-            "coreElements": [
-              "Levnadsvanor"
-            ],
+            "coreElements": ["Levnadsvanor"],
             "verbs": []
           }
         ],

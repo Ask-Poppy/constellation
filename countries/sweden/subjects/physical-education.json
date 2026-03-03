@@ -169,9 +169,7 @@
               "local": "Motoriska grundformer med och utan olika redskap. Deras sammansatta former.",
               "en": "Basic motor skills with and without various equipment. Their combined forms."
             },
-            "coreElements": [
-              "Rörelse"
-            ],
+            "coreElements": ["Rörelse"],
             "verbs": []
           },
           {
@@ -180,9 +178,7 @@
               "local": "Lekar och andra enkla rörelseaktiviteter, inomhus och utomhus.",
               "en": "Games and other simple movement activities, indoors and outdoors."
             },
-            "coreElements": [
-              "Rörelse"
-            ],
+            "coreElements": ["Rörelse"],
             "verbs": []
           },
           {
@@ -191,9 +187,7 @@
               "local": "Takt och rytm i enkla danser och rörelser till musik.",
               "en": "Beat and rhythm in simple dances and movements to music."
             },
-            "coreElements": [
-              "Rörelse"
-            ],
+            "coreElements": ["Rörelse"],
             "verbs": []
           },
           {
@@ -202,9 +196,7 @@
               "local": "Rörelser i vatten och vattenvana. Att balansera, flyta och simma i mag- och ryggläge.",
               "en": "Movements in water and water confidence. Balancing, floating and swimming in prone and supine position."
             },
-            "coreElements": [
-              "Rörelse"
-            ],
+            "coreElements": ["Rörelse"],
             "verbs": []
           },
           {
@@ -213,9 +205,7 @@
               "local": "Att orientera sig i närmiljön och enkla kartors uppbyggnad. Begrepp som be­skriver läge, avstånd och riktning.",
               "en": "Orienteering in the local environment and the structure of simple maps. Concepts that describe position, distance and direction."
             },
-            "coreElements": [
-              "Friluftsliv och utevistelse"
-            ],
+            "coreElements": ["Friluftsliv och utevistelse"],
             "verbs": []
           },
           {
@@ -224,12 +214,8 @@
               "local": "Utforskande av möjligheter till och genomförande av vistelse, lekar och rörel­ser i natur- och utemiljö.",
               "en": "Exploring opportunities for and carrying out stays, games and movements in natural and outdoor environments."
             },
-            "coreElements": [
-              "Friluftsliv och utevistelse"
-            ],
-            "verbs": [
-              "Föra"
-            ]
+            "coreElements": ["Friluftsliv och utevistelse"],
+            "verbs": ["Föra"]
           },
           {
             "code": "IDH-1-3-7",
@@ -237,9 +223,7 @@
               "local": "Allemansrättens grunder.",
               "en": "The basics of the right of public access."
             },
-            "coreElements": [
-              "Friluftsliv och utevistelse"
-            ],
+            "coreElements": ["Friluftsliv och utevistelse"],
             "verbs": []
           },
           {
@@ -248,9 +232,7 @@
               "local": "Samtal om upplevelser av olika aktiviteter.",
               "en": "Conversations about experiences of different activities."
             },
-            "coreElements": [
-              "Hälsa och levnadsvanor"
-            ],
+            "coreElements": ["Hälsa och levnadsvanor"],
             "verbs": []
           },
           {
@@ -259,13 +241,8 @@
               "local": "Undersökande av möjligheter till daglig rörelse i närmiljön.",
               "en": "Exploring opportunities for daily movement in the local environment."
             },
-            "coreElements": [
-              "Hälsa och levnadsvanor"
-            ],
-            "verbs": [
-              "Söka",
-              "Undersöka"
-            ]
+            "coreElements": ["Hälsa och levnadsvanor"],
+            "verbs": ["Söka", "Undersöka"]
           },
           {
             "code": "IDH-1-3-10",
@@ -273,9 +250,7 @@
               "local": "Säkerhet och hänsynstagande i samband med aktiviteter.",
               "en": "Safety and consideration in connection with activities."
             },
-            "coreElements": [
-              "Hälsa och levnadsvanor"
-            ],
+            "coreElements": ["Hälsa och levnadsvanor"],
             "verbs": []
           }
         ]
@@ -293,9 +268,7 @@
               "local": "Sammansatta motoriska grundformer med och utan olika redskap.",
               "en": "Combined basic motor skills with and without various equipment."
             },
-            "coreElements": [
-              "Rörelse"
-            ],
+            "coreElements": ["Rörelse"],
             "verbs": []
           },
           {
@@ -304,9 +277,7 @@
               "local": "Lekar, spel, idrotter och andra rörelseaktiviteter, inomhus och utomhus.",
               "en": "Games, sports and other movement activities, indoors and outdoors."
             },
-            "coreElements": [
-              "Rörelse"
-            ],
+            "coreElements": ["Rörelse"],
             "verbs": []
           },
           {
@@ -315,9 +286,7 @@
               "local": "Takt och rytm i danser och i rörelser till musik.",
               "en": "Beat and rhythm in dances and in movements to music."
             },
-            "coreElements": [
-              "Rörelse"
-            ],
+            "coreElements": ["Rörelse"],
             "verbs": []
           },
           {
@@ -326,9 +295,7 @@
               "local": "Grundläggande träningslära: pulshöjande rörelser samt koordinations-, styrke- och rörlighetsövningar.",
               "en": "Basic training theory: pulse-raising movements, as well as coordination, strength and flexibility exercises."
             },
-            "coreElements": [
-              "Rörelse"
-            ],
+            "coreElements": ["Rörelse"],
             "verbs": []
           },
           {
@@ -337,9 +304,7 @@
               "local": "Simning i mag- och ryggläge.",
               "en": "Swimming in prone and supine position."
             },
-            "coreElements": [
-              "Rörelse"
-            ],
+            "coreElements": ["Rörelse"],
             "verbs": []
           },
           {
@@ -348,9 +313,7 @@
               "local": "Att orientera sig i den närliggande natur- och utemiljön med hjälp av kartor, såväl med som utan stöd av digitala verktyg. Kartors uppbyggnad och sym­bo­ler.",
               "en": "Orienteering in the nearby natural and outdoor environment using maps, both with and without the support of digital tools. The structure and symbols of maps."
             },
-            "coreElements": [
-              "Friluftsliv och utevistelse"
-            ],
+            "coreElements": ["Friluftsliv och utevistelse"],
             "verbs": []
           },
           {
@@ -359,12 +322,8 @@
               "local": "Utforskande av möjligheter till och genomförande av friluftsaktiviteter, le­kar och rörelser i skiftande natur- och utemiljöer under olika årstider.",
               "en": "Exploring opportunities for and carrying out outdoor activities, games and movements in varying natural and outdoor environments during different seasons."
             },
-            "coreElements": [
-              "Friluftsliv och utevistelse"
-            ],
-            "verbs": [
-              "Föra"
-            ]
+            "coreElements": ["Friluftsliv och utevistelse"],
+            "verbs": ["Föra"]
           },
           {
             "code": "IDH-4-6-8",
@@ -372,9 +331,7 @@
               "local": "Rättigheter och skyldigheter i naturen enligt allemansrätten och dess tillämp­ning i praktiken.",
               "en": "Rights and obligations in nature according to the right of public access and its application in practice."
             },
-            "coreElements": [
-              "Friluftsliv och utevistelse"
-            ],
+            "coreElements": ["Friluftsliv och utevistelse"],
             "verbs": []
           },
           {
@@ -383,9 +340,7 @@
               "local": "Badvett och säkerhet vid vatten under olika årstider. Hantering av nöd­si­tua­tioner vid vatten med hjälpredskap.",
               "en": "Water safety awareness and safety near water during different seasons. Handling emergency situations near water using rescue equipment."
             },
-            "coreElements": [
-              "Friluftsliv och utevistelse"
-            ],
+            "coreElements": ["Friluftsliv och utevistelse"],
             "verbs": []
           },
           {
@@ -394,9 +349,7 @@
               "local": "Samtal om upplevelser av olika aktiviteter samt värdering av hur de på­ver­kar den fysiska förmågan och hälsan.",
               "en": "Conversations about experiences of different activities, and evaluation of how they affect physical ability and health."
             },
-            "coreElements": [
-              "Hälsa och levnadsvanor"
-            ],
+            "coreElements": ["Hälsa och levnadsvanor"],
             "verbs": []
           },
           {
@@ -405,9 +358,7 @@
               "local": "Normer kring olika slags aktiviteter. Hur normer påverkar individers del­ta­gande, till exempel normer kring kön och funktionalitet kopplade till oli­ka rörelseaktiviteter.",
               "en": "Norms surrounding different kinds of activities. How norms affect individuals' participation, for example norms regarding gender and ability linked to different movement activities."
             },
-            "coreElements": [
-              "Hälsa och levnadsvanor"
-            ],
+            "coreElements": ["Hälsa och levnadsvanor"],
             "verbs": []
           },
           {
@@ -416,13 +367,8 @@
               "local": "Undersökande av möjligheter till daglig rörelse i närmiljön.",
               "en": "Exploring opportunities for daily movement in the local environment."
             },
-            "coreElements": [
-              "Hälsa och levnadsvanor"
-            ],
-            "verbs": [
-              "Söka",
-              "Undersöka"
-            ]
+            "coreElements": ["Hälsa och levnadsvanor"],
+            "verbs": ["Söka", "Undersöka"]
           },
           {
             "code": "IDH-4-6-13",
@@ -430,9 +376,7 @@
               "local": "Olika sätt att förebygga skador, däribland uppvärmning.",
               "en": "Different ways to prevent injuries, including warming up."
             },
-            "coreElements": [
-              "Hälsa och levnadsvanor"
-            ],
+            "coreElements": ["Hälsa och levnadsvanor"],
             "verbs": []
           },
           {
@@ -441,9 +385,7 @@
               "local": "Säkerhet och hänsynstagande i samband med aktiviteter.",
               "en": "Safety and consideration in connection with activities."
             },
-            "coreElements": [
-              "Hälsa och levnadsvanor"
-            ],
+            "coreElements": ["Hälsa och levnadsvanor"],
             "verbs": []
           },
           {
@@ -452,9 +394,7 @@
               "local": "Första hjälpen.",
               "en": "First aid."
             },
-            "coreElements": [
-              "Hälsa och levnadsvanor"
-            ],
+            "coreElements": ["Hälsa och levnadsvanor"],
             "verbs": []
           }
         ],
@@ -509,9 +449,7 @@
               "local": "Komplexa rörelser i lekar, spel, idrotter och andra rörelseaktiviteter, inom­hus och utomhus.",
               "en": "Complex movements in games, sports and other movement activities, indoors and outdoors."
             },
-            "coreElements": [
-              "Rörelse"
-            ],
+            "coreElements": ["Rörelse"],
             "verbs": []
           },
           {
@@ -520,12 +458,8 @@
               "local": "Olika former av dans samt skapande av rörelse- och träningsprogram till mu­sik, takt och rytm.",
               "en": "Different forms of dance, as well as creation of movement and exercise programmes to music, beat and rhythm."
             },
-            "coreElements": [
-              "Rörelse"
-            ],
-            "verbs": [
-              "Skapa"
-            ]
+            "coreElements": ["Rörelse"],
+            "verbs": ["Skapa"]
           },
           {
             "code": "IDH-7-9-3",
@@ -533,9 +467,7 @@
               "local": "Träningslära: konditionsträning, koordinationsträning, styrketräning och rör­lighetsträning utifrån olika ändamål och individuella behov.",
               "en": "Training theory: cardiovascular training, coordination training, strength training and flexibility training based on different purposes and individual needs."
             },
-            "coreElements": [
-              "Rörelse"
-            ],
+            "coreElements": ["Rörelse"],
             "verbs": []
           },
           {
@@ -544,14 +476,8 @@
               "local": "Olika verktyg, däribland digitala för att planera, genomföra och värdera rörelse­aktiviteter.",
               "en": "Different tools, including digital ones, for planning, carrying out and evaluating movement activities."
             },
-            "coreElements": [
-              "Rörelse"
-            ],
-            "verbs": [
-              "Föra",
-              "Planera",
-              "Värdera"
-            ]
+            "coreElements": ["Rörelse"],
+            "verbs": ["Föra", "Planera", "Värdera"]
           },
           {
             "code": "IDH-7-9-5",
@@ -559,9 +485,7 @@
               "local": "Olika simsätt i mag- och ryggläge.",
               "en": "Different swimming strokes in prone and supine position."
             },
-            "coreElements": [
-              "Rörelse"
-            ],
+            "coreElements": ["Rörelse"],
             "verbs": []
           },
           {
@@ -570,9 +494,7 @@
               "local": "Att orientera sig i okända miljöer med hjälp av kartor och andra hjälpmedel såväl med som utan stöd av digitala verktyg.",
               "en": "Orienteering in unfamiliar environments using maps and other aids, both with and without the support of digital tools."
             },
-            "coreElements": [
-              "Friluftsliv och utevistelse"
-            ],
+            "coreElements": ["Friluftsliv och utevistelse"],
             "verbs": []
           },
           {
@@ -581,12 +503,8 @@
               "local": "Planering och genomförande av friluftsaktiviteter i skilda miljöer under oli­ka årstider.",
               "en": "Planning and carrying out outdoor activities in different environments during different seasons."
             },
-            "coreElements": [
-              "Friluftsliv och utevistelse"
-            ],
-            "verbs": [
-              "Föra"
-            ]
+            "coreElements": ["Friluftsliv och utevistelse"],
+            "verbs": ["Föra"]
           },
           {
             "code": "IDH-7-9-8",
@@ -594,9 +512,7 @@
               "local": "Rättigheter och skyldigheter i naturen enligt allemansrätten och dess tillämp­ning i praktiken.",
               "en": "Rights and obligations in nature according to the right of public access and its application in practice."
             },
-            "coreElements": [
-              "Friluftsliv och utevistelse"
-            ],
+            "coreElements": ["Friluftsliv och utevistelse"],
             "verbs": []
           },
           {
@@ -605,9 +521,7 @@
               "local": "Kulturella traditioner i friluftsliv och utevistelse.",
               "en": "Cultural traditions in outdoor recreation and outdoor activities."
             },
-            "coreElements": [
-              "Friluftsliv och utevistelse"
-            ],
+            "coreElements": ["Friluftsliv och utevistelse"],
             "verbs": []
           },
           {
@@ -616,9 +530,7 @@
               "local": "Badvett och säkerhet vid vatten under olika årstider. Hantering av nöd­situa­tioner i och vid vatten med hjälpredskap.",
               "en": "Water safety awareness and safety near water during different seasons. Handling emergency situations in and near water using rescue equipment."
             },
-            "coreElements": [
-              "Friluftsliv och utevistelse"
-            ],
+            "coreElements": ["Friluftsliv och utevistelse"],
             "verbs": []
           },
           {
@@ -627,12 +539,8 @@
               "local": "Planering och genomförande av olika aktiviteter utifrån hur de påverkar olika aspekter av fysisk förmåga och olika aspekter av hälsa.",
               "en": "Planning and carrying out different activities based on how they affect different aspects of physical ability and different aspects of health."
             },
-            "coreElements": [
-              "Hälsa och levnadsvanor"
-            ],
-            "verbs": [
-              "Föra"
-            ]
+            "coreElements": ["Hälsa och levnadsvanor"],
+            "verbs": ["Föra"]
           },
           {
             "code": "IDH-7-9-12",
@@ -640,9 +548,7 @@
               "local": "Kroppsideal och normer inom olika rörelsekulturer. Hur de påverkar individers möjligheter till deltagande i olika aktiviteter.",
               "en": "Body ideals and norms within different movement cultures. How they affect individuals' opportunities to participate in different activities."
             },
-            "coreElements": [
-              "Hälsa och levnadsvanor"
-            ],
+            "coreElements": ["Hälsa och levnadsvanor"],
             "verbs": []
           },
           {
@@ -651,13 +557,8 @@
               "local": "Undersökande av möjligheter till daglig rörelse i närmiljön.",
               "en": "Exploring opportunities for daily movement in the local environment."
             },
-            "coreElements": [
-              "Hälsa och levnadsvanor"
-            ],
-            "verbs": [
-              "Söka",
-              "Undersöka"
-            ]
+            "coreElements": ["Hälsa och levnadsvanor"],
+            "verbs": ["Söka", "Undersöka"]
           },
           {
             "code": "IDH-7-9-14",
@@ -665,9 +566,7 @@
               "local": "Dopning och lagar och andra bestämmelser som reglerar förbud mot dopning.",
               "en": "Doping and laws and other regulations that govern the prohibition of doping."
             },
-            "coreElements": [
-              "Hälsa och levnadsvanor"
-            ],
+            "coreElements": ["Hälsa och levnadsvanor"],
             "verbs": []
           },
           {
@@ -676,9 +575,7 @@
               "local": "Samtal om upplevelser av olika aktiviteter och värdering av hur de påverkar olika aspekter av fysisk förmåga och olika aspekter av hälsa.",
               "en": "Conversations about experiences of different activities and evaluation of how they affect different aspects of physical ability and different aspects of health."
             },
-            "coreElements": [
-              "Hälsa och levnadsvanor"
-            ],
+            "coreElements": ["Hälsa och levnadsvanor"],
             "verbs": []
           },
           {
@@ -687,12 +584,8 @@
               "local": "Förebyggande av skador genom allsidig träning, anpassning av belastning och tekniker för rörelseutföranden.",
               "en": "Prevention of injuries through versatile training, adaptation of load and techniques for movement execution."
             },
-            "coreElements": [
-              "Hälsa och levnadsvanor"
-            ],
-            "verbs": [
-              "Föra"
-            ]
+            "coreElements": ["Hälsa och levnadsvanor"],
+            "verbs": ["Föra"]
           },
           {
             "code": "IDH-7-9-17",
@@ -700,9 +593,7 @@
               "local": "Säkerhet och hänsynstagande i samband med olika aktiviteter.",
               "en": "Safety and consideration in connection with different activities."
             },
-            "coreElements": [
-              "Hälsa och levnadsvanor"
-            ],
+            "coreElements": ["Hälsa och levnadsvanor"],
             "verbs": []
           },
           {
@@ -711,9 +602,7 @@
               "local": "Första hjälpen och hjärt- och lungräddning.",
               "en": "First aid and cardiopulmonary resuscitation (CPR)."
             },
-            "coreElements": [
-              "Hälsa och levnadsvanor"
-            ],
+            "coreElements": ["Hälsa och levnadsvanor"],
             "verbs": []
           }
         ],

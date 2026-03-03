@@ -170,13 +170,8 @@
               "local": "utforske og eksperimentere med puls, rytme, tempo, klang, melodi, dynamikk, harmoni og form i dans, med stemmen og i spill på instrumenter",
               "en": "explore and experiment with beat, rhythm, tempo, sound, melody, dynamics, harmony and form in dance, vocals and in playing instruments"
             },
-            "coreElements": [
-              "Utøve musikk",
-              "Oppleve musikk"
-            ],
-            "verbs": [
-              "Utforske"
-            ]
+            "coreElements": ["Utøve musikk", "Oppleve musikk"],
+            "verbs": ["Utforske"]
           },
           {
             "code": "KM2152",
@@ -184,10 +179,7 @@
               "local": "leke med musikkens grunnelementer gjennom lyd og stemme, lage mønstre og sette sammen mønstrene til enkle improvisasjoner og komposisjoner, også med digitale verktøy",
               "en": "play with the basic elements of music through sound and voice, make patterns and combine the patterns into simple improvisations and compositions, also with digital tools"
             },
-            "coreElements": [
-              "Lage musikk",
-              "Oppleve musikk"
-            ],
+            "coreElements": ["Lage musikk", "Oppleve musikk"],
             "verbs": []
           },
           {
@@ -224,9 +216,7 @@
               "Oppleve musikk",
               "Kulturforståelse"
             ],
-            "verbs": [
-              "Utforske"
-            ]
+            "verbs": ["Utforske"]
           },
           {
             "code": "KM2147",
@@ -234,10 +224,7 @@
               "local": "synge og spille på instrumenter alene og sammen med andre ved bruk av gehør og enkel notasjon",
               "en": "sing and play instruments alone and together with others by ear and using simple notation"
             },
-            "coreElements": [
-              "Utøve musikk",
-              "Oppleve musikk"
-            ],
+            "coreElements": ["Utøve musikk", "Oppleve musikk"],
             "verbs": []
           },
           {
@@ -246,14 +233,8 @@
               "local": "eksperimentere med rytmer, melodier og andre grunnelementer, sette sammen mønstre til komposisjoner, også ved bruk av digitale verktøy, og beskrive arbeidsprosesser og resultater",
               "en": "experiment with rhythms, melodies and other basic elements, assemble patterns into compositions, including using digital tools, and describe the work processes and results"
             },
-            "coreElements": [
-              "Utøve musikk",
-              "Lage musikk",
-              "Oppleve musikk"
-            ],
-            "verbs": [
-              "Beskrive"
-            ]
+            "coreElements": ["Utøve musikk", "Lage musikk", "Oppleve musikk"],
+            "verbs": ["Beskrive"]
           },
           {
             "code": "KM2146",
@@ -266,9 +247,7 @@
               "Oppleve musikk",
               "Kulturforståelse"
             ],
-            "verbs": [
-              "Beskrive"
-            ]
+            "verbs": ["Beskrive"]
           },
           {
             "code": "KM2145",
@@ -276,13 +255,8 @@
               "local": "samtale om og reflektere over hvordan musikk skaper mening når den brukes i ulike sosiale sammenhenger",
               "en": "talk about and reflect on how music creates meaning when used in different contexts"
             },
-            "coreElements": [
-              "Oppleve musikk",
-              "Kulturforståelse"
-            ],
-            "verbs": [
-              "Reflektere"
-            ]
+            "coreElements": ["Oppleve musikk", "Kulturforståelse"],
+            "verbs": ["Reflektere"]
           }
         ]
       },
@@ -317,10 +291,7 @@
               "Oppleve musikk",
               "Kulturforståelse"
             ],
-            "verbs": [
-              "Utforske",
-              "Drøfte"
-            ]
+            "verbs": ["Utforske", "Drøfte"]
           },
           {
             "code": "KM2142",
@@ -328,10 +299,7 @@
               "local": "øve inn og framføre sang og musikk, i samspill eller individuelt, gehørbasert og ved bruk av enkle notasjonsteknikker",
               "en": "rehearse and perform songs and music, together or alone, by ear and using simple notation techniques"
             },
-            "coreElements": [
-              "Utøve musikk",
-              "Oppleve musikk"
-            ],
+            "coreElements": ["Utøve musikk", "Oppleve musikk"],
             "verbs": []
           },
           {
@@ -340,14 +308,8 @@
               "local": "lytte, eksperimentere og skape nye uttrykk med instrumenter, kropp, stemme eller lyd fra andre kilder, og presentere resultatet",
               "en": "listen to, experiment and create new expressions with instruments, body, voice or sounds from other sources, and present the result"
             },
-            "coreElements": [
-              "Utøve musikk",
-              "Lage musikk",
-              "Oppleve musikk"
-            ],
-            "verbs": [
-              "Presentere"
-            ]
+            "coreElements": ["Utøve musikk", "Lage musikk", "Oppleve musikk"],
+            "verbs": ["Presentere"]
           },
           {
             "code": "KM2137",
@@ -355,14 +317,8 @@
               "local": "bruke teknologi og digitale verktøy til å skape, øve inn og bearbeide musikk",
               "en": "use technology and digital tools to create, rehearse and process music"
             },
-            "coreElements": [
-              "Utøve musikk",
-              "Lage musikk",
-              "Oppleve musikk"
-            ],
-            "verbs": [
-              "Bruke"
-            ]
+            "coreElements": ["Utøve musikk", "Lage musikk", "Oppleve musikk"],
+            "verbs": ["Bruke"]
           },
           {
             "code": "KM2136",
@@ -376,9 +332,7 @@
               "Oppleve musikk",
               "Kulturforståelse"
             ],
-            "verbs": [
-              "Bruke"
-            ]
+            "verbs": ["Bruke"]
           },
           {
             "code": "KM2139",
@@ -391,9 +345,7 @@
               "Oppleve musikk",
               "Kulturforståelse"
             ],
-            "verbs": [
-              "Utforske"
-            ]
+            "verbs": ["Utforske"]
           },
           {
             "code": "KM2138",
@@ -415,13 +367,8 @@
               "local": "reflektere over hvordan musikk kan spille ulike roller for utvikling av individer og gruppers identitet",
               "en": "reflect on how music can play different roles in developing the identity of individuals and groups"
             },
-            "coreElements": [
-              "Oppleve musikk",
-              "Kulturforståelse"
-            ],
-            "verbs": [
-              "Reflektere"
-            ]
+            "coreElements": ["Oppleve musikk", "Kulturforståelse"],
+            "verbs": ["Reflektere"]
           }
         ]
       },
@@ -451,13 +398,8 @@
               "local": "reflektere over hvordan musikalske tradisjoner, inkludert samiske musikktradisjoner, bevares og fornyes",
               "en": "reflect on how musical traditions, including Sami traditions, are preserved and renewed"
             },
-            "coreElements": [
-              "Oppleve musikk",
-              "Kulturforståelse"
-            ],
-            "verbs": [
-              "Reflektere"
-            ]
+            "coreElements": ["Oppleve musikk", "Kulturforståelse"],
+            "verbs": ["Reflektere"]
           },
           {
             "code": "KM2133",
@@ -465,15 +407,8 @@
               "local": "samarbeide med andre om å planlegge og gjennomføre øvingsprosesser hvor det inngår selvvalgt sang, andre vokale uttrykk, spill på instrumenter eller dans, og formidle resultatet i gruppe eller individuelt",
               "en": "collaborate with others on planning and carrying out rehearsal processes, with self-chosen singing, other vocal expressions, playing instruments or dancing, and present the result in a group or individually"
             },
-            "coreElements": [
-              "Utøve musikk",
-              "Oppleve musikk"
-            ],
-            "verbs": [
-              "Samarbeide",
-              "Gjennomføre",
-              "Planlegge"
-            ]
+            "coreElements": ["Utøve musikk", "Oppleve musikk"],
+            "verbs": ["Samarbeide", "Gjennomføre", "Planlegge"]
           },
           {
             "code": "KM2134",
@@ -481,11 +416,7 @@
               "local": "skape og programmere musikalske forløp ved å eksperimentere med lyd fra ulike kilder",
               "en": "create and programme musical sequences by experimenting with sound from different sources"
             },
-            "coreElements": [
-              "Utøve musikk",
-              "Lage musikk",
-              "Oppleve musikk"
-            ],
+            "coreElements": ["Utøve musikk", "Lage musikk", "Oppleve musikk"],
             "verbs": []
           },
           {
@@ -499,10 +430,7 @@
               "Oppleve musikk",
               "Kulturforståelse"
             ],
-            "verbs": [
-              "Utforske",
-              "Reflektere"
-            ]
+            "verbs": ["Utforske", "Reflektere"]
           },
           {
             "code": "KM2128",
@@ -510,11 +438,7 @@
               "local": "lytte og prøve ut ulike uttrykk og begrunne valg i skapende prosesser fra idé til ferdig resultat",
               "en": "listen to and experiment with different expressions and give grounds for choices in creative processes from idea to finished result"
             },
-            "coreElements": [
-              "Utøve musikk",
-              "Lage musikk",
-              "Oppleve musikk"
-            ],
+            "coreElements": ["Utøve musikk", "Lage musikk", "Oppleve musikk"],
             "verbs": []
           },
           {
@@ -523,13 +447,8 @@
               "local": "bruke gehør og notasjonsteknikker som støtte i skapende arbeid",
               "en": "use ear and notation techniques as support in creative work"
             },
-            "coreElements": [
-              "Utøve musikk",
-              "Lage musikk"
-            ],
-            "verbs": [
-              "Bruke"
-            ]
+            "coreElements": ["Utøve musikk", "Lage musikk"],
+            "verbs": ["Bruke"]
           },
           {
             "code": "KM2131",
@@ -537,14 +456,8 @@
               "local": "bruke relevante fagbegreper i skapende arbeid og i refleksjon over prosesser og resultater",
               "en": "use subject-related terms in creative work and in reflection on processes and results"
             },
-            "coreElements": [
-              "Utøve musikk",
-              "Lage musikk",
-              "Oppleve musikk"
-            ],
-            "verbs": [
-              "Bruke"
-            ]
+            "coreElements": ["Utøve musikk", "Lage musikk", "Oppleve musikk"],
+            "verbs": ["Bruke"]
           },
           {
             "code": "KM2132",
@@ -558,10 +471,7 @@
               "Oppleve musikk",
               "Kulturforståelse"
             ],
-            "verbs": [
-              "Utforske",
-              "Reflektere"
-            ]
+            "verbs": ["Utforske", "Reflektere"]
           },
           {
             "code": "KM2154",
@@ -569,14 +479,8 @@
               "local": "utforske og drøfte musikkens og dansens betydning i samfunnet og etiske problemstillinger knyttet til musikalske ytringer og musikkulturer",
               "en": "explore and discuss the importance of music and dance in society and ethical issues relating to musical utterances and music cultures"
             },
-            "coreElements": [
-              "Oppleve musikk",
-              "Kulturforståelse"
-            ],
-            "verbs": [
-              "Utforske",
-              "Drøfte"
-            ]
+            "coreElements": ["Oppleve musikk", "Kulturforståelse"],
+            "verbs": ["Utforske", "Drøfte"]
           }
         ],
         "assessment": [

@@ -124,9 +124,7 @@
               "local": "undersøke behov for varer og tjenester på skolen og i lokalsamfunnet",
               "en": "undersøke behov for varer og tjenester på skolen og i lokalsamfunnet"
             },
-            "coreElements": [
-              "Praktiske og yrkesrettede arbeidsoppdrag"
-            ],
+            "coreElements": ["Praktiske og yrkesrettede arbeidsoppdrag"],
             "verbs": []
           },
           {
@@ -135,12 +133,8 @@
               "local": "planlegge praktiske og yrkesrettede arbeidsoppdrag",
               "en": "planlegge praktiske og yrkesrettede arbeidsoppdrag"
             },
-            "coreElements": [
-              "Praktiske og yrkesrettede arbeidsoppdrag"
-            ],
-            "verbs": [
-              "Planlegge"
-            ]
+            "coreElements": ["Praktiske og yrkesrettede arbeidsoppdrag"],
+            "verbs": ["Planlegge"]
           },
           {
             "code": "KM1171",
@@ -148,9 +142,7 @@
               "local": "produsere og levere varer og tjenester etter kvalitetskrav",
               "en": "produsere og levere varer og tjenester etter kvalitetskrav"
             },
-            "coreElements": [
-              "Praktiske og yrkesrettede arbeidsoppdrag"
-            ],
+            "coreElements": ["Praktiske og yrkesrettede arbeidsoppdrag"],
             "verbs": []
           },
           {
@@ -159,12 +151,8 @@
               "local": "bruke fagbegreper, arbeidsmetoder, verktøy, materialer og teknologi tilpasset arbeidsoppdrag og begrunne valg",
               "en": "bruke fagbegreper, arbeidsmetoder, verktøy, materialer og teknologi tilpasset arbeidsoppdrag og begrunne valg"
             },
-            "coreElements": [
-              "Praktiske og yrkesrettede arbeidsoppdrag"
-            ],
-            "verbs": [
-              "Bruke"
-            ]
+            "coreElements": ["Praktiske og yrkesrettede arbeidsoppdrag"],
+            "verbs": ["Bruke"]
           },
           {
             "code": "KM1169",
@@ -175,9 +163,7 @@
             "coreElements": [
               "Arbeidsfellesskap og helse, miljø og sikkerhet i arbeidsoppdraget"
             ],
-            "verbs": [
-              "Samarbeide"
-            ]
+            "verbs": ["Samarbeide"]
           },
           {
             "code": "KM1172",
@@ -185,9 +171,7 @@
               "local": "ivareta bærekraftige prinsipper i alle deler av arbeidsoppdraget",
               "en": "ivareta bærekraftige prinsipper i alle deler av arbeidsoppdraget"
             },
-            "coreElements": [
-              "Praktiske og yrkesrettede arbeidsoppdrag"
-            ],
+            "coreElements": ["Praktiske og yrkesrettede arbeidsoppdrag"],
             "verbs": []
           },
           {
@@ -199,10 +183,7 @@
             "coreElements": [
               "Arbeidsfellesskap og helse, miljø og sikkerhet i arbeidsoppdraget"
             ],
-            "verbs": [
-              "Vurdere",
-              "Beskrive"
-            ]
+            "verbs": ["Vurdere", "Beskrive"]
           },
           {
             "code": "KM1175",
@@ -213,9 +194,7 @@
             "coreElements": [
               "Arbeidsfellesskap og helse, miljø og sikkerhet i arbeidsoppdraget"
             ],
-            "verbs": [
-              "Vurdere"
-            ]
+            "verbs": ["Vurdere"]
           }
         ],
         "assessment": [

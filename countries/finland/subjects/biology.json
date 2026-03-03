@@ -191,13 +191,7 @@
               "local": "T1 ohjata oppilasta ymmärtämään ekosysteemin perusrakennetta ja toimintaa sekä vertailemaan erilaisia ekosysteemejä ja tunnistamaan lajeja",
               "en": "T1 guide the pupil to understand the basic structure and function of ecosystems, to compare different ecosystems, and to identify species"
             },
-            "coreElements": [
-              "S4",
-              "S6",
-              "S1",
-              "S3",
-              "S2"
-            ],
+            "coreElements": ["S4", "S6", "S1", "S3", "S2"],
             "verbs": []
           },
           {
@@ -206,13 +200,7 @@
               "local": "T2 auttaa oppilasta kuvailemaan eliöiden rakenteita ja elintoimintoja sekä ymmärtämään eliökunnan rakennetta",
               "en": "T2 help the pupil to describe the structures and vital functions of organisms and to understand the structure of the living world"
             },
-            "coreElements": [
-              "S5",
-              "S4",
-              "S1",
-              "S3",
-              "S2"
-            ],
+            "coreElements": ["S5", "S4", "S1", "S3", "S2"],
             "verbs": []
           },
           {
@@ -221,13 +209,7 @@
               "local": "T3 ohjata oppilasta tutkimaan eliöiden sopeutumista eri elinympäristöihin ja ymmärtämään erilaisten elinympäristöjen merkitys luonnon monimuotoisuudelle",
               "en": "T3 guide the pupil to investigate the adaptation of organisms to different habitats and to understand the significance of diverse habitats for biodiversity"
             },
-            "coreElements": [
-              "S4",
-              "S6",
-              "S1",
-              "S3",
-              "S2"
-            ],
+            "coreElements": ["S4", "S6", "S1", "S3", "S2"],
             "verbs": []
           },
           {
@@ -236,11 +218,7 @@
               "local": "T4 ohjata oppilasta ymmärtämään perinnöllisyyden ja evoluution perusperiaatteita",
               "en": "T4 guide the pupil to understand the basic principles of heredity and evolution"
             },
-            "coreElements": [
-              "S5",
-              "S4",
-              "S1"
-            ],
+            "coreElements": ["S5", "S4", "S1"],
             "verbs": []
           },
           {
@@ -249,9 +227,7 @@
               "local": "T5 ohjata oppilasta ymmärtämään ihmisen kehitystä ja elimistön perustoimintoja",
               "en": "T5 guide the pupil to understand human development and the basic functions of the body"
             },
-            "coreElements": [
-              "S5"
-            ],
+            "coreElements": ["S5"],
             "verbs": []
           },
           {
@@ -260,9 +236,7 @@
               "local": "T6 ohjata oppilasta arvioimaan luonnonympäristössä tapahtuvia muutoksia ja ihmisen vaikutusta ympäristöön sekä ymmärtämään ekosysteemipalveluiden merkitys",
               "en": "T6 guide the pupil to assess changes occurring in the natural environment and human impact on the environment, and to understand the significance of ecosystem services"
             },
-            "coreElements": [
-              "S6"
-            ],
+            "coreElements": ["S6"],
             "verbs": []
           },
           {
@@ -271,14 +245,7 @@
               "local": "T7 ohjata oppilasta kehittämään luonnontieteellistä ajattelutaitoa sekä syy- ja seuraussuhteiden ymmärtämistä",
               "en": "T7 guide the pupil to develop scientific thinking skills and the understanding of cause-and-effect relationships"
             },
-            "coreElements": [
-              "S5",
-              "S4",
-              "S6",
-              "S1",
-              "S3",
-              "S2"
-            ],
+            "coreElements": ["S5", "S4", "S6", "S1", "S3", "S2"],
             "verbs": []
           },
           {
@@ -287,13 +254,7 @@
               "local": "T8 opastaa oppilasta käyttämään biologian tutkimusvälineistöä ja tieto- ja viestintäteknologiaa",
               "en": "T8 instruct the pupil to use biological research equipment and information and communication technology"
             },
-            "coreElements": [
-              "S5",
-              "S4",
-              "S1",
-              "S3",
-              "S2"
-            ],
+            "coreElements": ["S5", "S4", "S1", "S3", "S2"],
             "verbs": []
           },
           {
@@ -302,13 +263,7 @@
               "local": "T9 ohjata oppilasta koostamaan eliökokoelma ja kasvattamaan kasveja biologisten ilmiöiden ymmärtämiseksi",
               "en": "T9 guide the pupil to compile a specimen collection and grow plants in order to understand biological phenomena"
             },
-            "coreElements": [
-              "S4",
-              "S6",
-              "S1",
-              "S3",
-              "S2"
-            ],
+            "coreElements": ["S4", "S6", "S1", "S3", "S2"],
             "verbs": []
           },
           {
@@ -317,14 +272,7 @@
               "local": "T10 ohjata oppilasta tekemään tutkimuksia sekä koulussa että koulun ulkopuolella",
               "en": "T10 guide the pupil to conduct investigations both in school and outside school"
             },
-            "coreElements": [
-              "S5",
-              "S4",
-              "S6",
-              "S1",
-              "S3",
-              "S2"
-            ],
+            "coreElements": ["S5", "S4", "S6", "S1", "S3", "S2"],
             "verbs": []
           },
           {
@@ -333,9 +281,7 @@
               "local": "T11 kannustaa oppilasta soveltamaan biologian tietoja ja taitoja omassa elämässä sekä yhteiskunnallisessa keskustelussa ja päätöksenteossa",
               "en": "T11 encourage the pupil to apply biological knowledge and skills in their own life and in societal discussion and decision-making"
             },
-            "coreElements": [
-              "S6"
-            ],
+            "coreElements": ["S6"],
             "verbs": []
           },
           {
@@ -344,14 +290,7 @@
               "local": "T12 innostaa oppilasta syventämään kiinnostusta luontoa ja sen ilmiöitä kohtaan sekä vahvistamaan luontosuhdetta ja ympäristötietoisuutta",
               "en": "T12 inspire the pupil to deepen their interest in nature and its phenomena and to strengthen their relationship with nature and environmental awareness"
             },
-            "coreElements": [
-              "S5",
-              "S4",
-              "S6",
-              "S1",
-              "S3",
-              "S2"
-            ],
+            "coreElements": ["S5", "S4", "S6", "S1", "S3", "S2"],
             "verbs": []
           },
           {
@@ -360,9 +299,7 @@
               "local": "T13 ohjata oppilasta tekemään eettisesti perusteltuja valintoja",
               "en": "T13 guide the pupil to make ethically justified choices"
             },
-            "coreElements": [
-              "S6"
-            ],
+            "coreElements": ["S6"],
             "verbs": []
           },
           {
@@ -371,9 +308,7 @@
               "local": "T14 innostaa oppilasta vaikuttamaan ja toimimaan kestävän tulevaisuuden rakentamiseksi",
               "en": "T14 inspire the pupil to participate and act in building a sustainable future"
             },
-            "coreElements": [
-              "S6"
-            ],
+            "coreElements": ["S6"],
             "verbs": []
           }
         ]

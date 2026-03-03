@@ -180,13 +180,8 @@
               "local": "Lässtrategier för att förstå och tolka texter från olika medier samt för att an­passa läsningen efter textens form och innehåll.",
               "en": "Reading strategies for understanding and interpreting texts from different media, and for adapting reading to the form and content of the text."
             },
-            "coreElements": [
-              "Läsa och skriva"
-            ],
-            "verbs": [
-              "Förstå",
-              "Tolka"
-            ]
+            "coreElements": ["Läsa och skriva"],
+            "verbs": ["Förstå", "Tolka"]
           },
           {
             "code": "ML-1-3-2",
@@ -194,9 +189,7 @@
               "local": "Strategier för skrivande av olika typer av texter om ämnen som är väl­be­kanta för eleven.",
               "en": "Strategies for writing different types of texts about topics that are well known to the pupil."
             },
-            "coreElements": [
-              "Läsa och skriva"
-            ],
+            "coreElements": ["Läsa och skriva"],
             "verbs": []
           },
           {
@@ -205,9 +198,7 @@
               "local": "Läsriktning och skrivteckens form och ljud i jämförelse med svenska.",
               "en": "Reading direction and the form and sounds of characters in comparison with Swedish."
             },
-            "coreElements": [
-              "Läsa och skriva"
-            ],
+            "coreElements": ["Läsa och skriva"],
             "verbs": []
           },
           {
@@ -216,9 +207,7 @@
               "local": "Ordföljd och interpunktion samt stavningsregler för vanligt förekommande ord i elevnära texter. Jämförelser med svenskans ordföljd, interpunktion och stavningsregler.",
               "en": "Word order and punctuation as well as spelling rules for commonly occurring words in texts close to the pupil. Comparisons with Swedish word order, punctuation and spelling rules."
             },
-            "coreElements": [
-              "Läsa och skriva"
-            ],
+            "coreElements": ["Läsa och skriva"],
             "verbs": []
           },
           {
@@ -227,9 +216,7 @@
               "local": "Samtal om vardagliga företeelser och händelser.",
               "en": "Conversations about everyday phenomena and events."
             },
-            "coreElements": [
-              "Tala, lyssna och samtala"
-            ],
+            "coreElements": ["Tala, lyssna och samtala"],
             "verbs": []
           },
           {
@@ -238,9 +225,7 @@
               "local": "Muntliga presentationer och muntligt berättande med anpassning till olika mot­tagare. Bilder och andra hjälpmedel som kan stödja presentationen.",
               "en": "Oral presentations and oral storytelling adapted to different audiences. Images and other aids that can support the presentation."
             },
-            "coreElements": [
-              "Tala, lyssna och samtala"
-            ],
+            "coreElements": ["Tala, lyssna och samtala"],
             "verbs": []
           },
           {
@@ -249,9 +234,7 @@
               "local": "Uttal, betoning och satsmelodi samt uttalets betydelse för att göra sig för­stådd.",
               "en": "Pronunciation, stress and intonation, and the importance of pronunciation for making oneself understood."
             },
-            "coreElements": [
-              "Tala, lyssna och samtala"
-            ],
+            "coreElements": ["Tala, lyssna och samtala"],
             "verbs": []
           },
           {
@@ -260,9 +243,7 @@
               "local": "Modersmålets uttal i jämförelse med svenskans.",
               "en": "The pronunciation of the mother tongue in comparison with Swedish."
             },
-            "coreElements": [
-              "Tala, lyssna och samtala"
-            ],
+            "coreElements": ["Tala, lyssna och samtala"],
             "verbs": []
           },
           {
@@ -271,9 +252,7 @@
               "local": "Berättande texter och poetiska texter för barn i form av bilderböcker, ka­pitelböcker, dikter, sagor och sägner från områden där modersmålet talas.",
               "en": "Narrative and poetic texts for children in the form of picture books, chapter books, poems, fairy tales and legends from areas where the mother tongue is spoken."
             },
-            "coreElements": [
-              "Texter"
-            ],
+            "coreElements": ["Texter"],
             "verbs": []
           },
           {
@@ -282,13 +261,8 @@
               "local": "Beskrivande och förklarande texter för barn med anknytning till traditioner och företeelser i områden där modersmålet talas.",
               "en": "Descriptive and explanatory texts for children connected to traditions and phenomena in areas where the mother tongue is spoken."
             },
-            "coreElements": [
-              "Texter"
-            ],
-            "verbs": [
-              "Beskriva",
-              "Förklara"
-            ]
+            "coreElements": ["Texter"],
+            "verbs": ["Beskriva", "Förklara"]
           },
           {
             "code": "ML-1-3-11",
@@ -296,9 +270,7 @@
               "local": "Muntliga traditioner ur modersmålets tradition, till exempel rim, ramsor och gåtor.",
               "en": "Oral traditions from the mother tongue tradition, for example rhymes, chants and riddles."
             },
-            "coreElements": [
-              "Texter"
-            ],
+            "coreElements": ["Texter"],
             "verbs": []
           },
           {
@@ -307,12 +279,8 @@
               "local": "Ord och begrepp för att uttrycka känslor, kunskaper och åsikter.",
               "en": "Words and concepts for expressing feelings, knowledge and opinions."
             },
-            "coreElements": [
-              "Språkbruk"
-            ],
-            "verbs": [
-              "Uttrycka"
-            ]
+            "coreElements": ["Språkbruk"],
+            "verbs": ["Uttrycka"]
           },
           {
             "code": "ML-1-3-13",
@@ -320,9 +288,7 @@
               "local": "Ord och begrepp med anknytning till traditioner och företeelser i områden där modersmålet talas.",
               "en": "Words and concepts connected to traditions and phenomena in areas where the mother tongue is spoken."
             },
-            "coreElements": [
-              "Språkbruk"
-            ],
+            "coreElements": ["Språkbruk"],
             "verbs": []
           },
           {
@@ -331,9 +297,7 @@
               "local": "Traditioner och högtider som eleven möter i olika sammanhang.",
               "en": "Traditions and celebrations that the pupil encounters in different contexts."
             },
-            "coreElements": [
-              "Kultur och samhälle"
-            ],
+            "coreElements": ["Kultur och samhälle"],
             "verbs": []
           },
           {
@@ -342,9 +306,7 @@
               "local": "Lekar och musik från områden där modersmålet talas.",
               "en": "Games and music from areas where the mother tongue is spoken."
             },
-            "coreElements": [
-              "Kultur och samhälle"
-            ],
+            "coreElements": ["Kultur och samhälle"],
             "verbs": []
           }
         ]
@@ -362,13 +324,8 @@
               "local": "Lässtrategier för att förstå och tolka texter från olika medier samt för att urskilja texters budskap, både det direkt ut­talade och sådant som är indirekt uttryckt.",
               "en": "Reading strategies for understanding and interpreting texts from different media, and for identifying the messages of texts, both those directly stated and those indirectly expressed."
             },
-            "coreElements": [
-              "Läsa och skriva"
-            ],
-            "verbs": [
-              "Förstå",
-              "Tolka"
-            ]
+            "coreElements": ["Läsa och skriva"],
+            "verbs": ["Förstå", "Tolka"]
           },
           {
             "code": "ML-4-6-2",
@@ -376,9 +333,7 @@
               "local": "Strategier för skrivande av olika typer av texter med anpassning till deras upp­byggnad och språkliga drag.",
               "en": "Strategies for writing different types of texts adapted to their structure and linguistic features."
             },
-            "coreElements": [
-              "Läsa och skriva"
-            ],
+            "coreElements": ["Läsa och skriva"],
             "verbs": []
           },
           {
@@ -387,9 +342,7 @@
               "local": "Modersmålets grundläggande struktur i jämförelse med svenskans.",
               "en": "The basic structure of the mother tongue in comparison with Swedish."
             },
-            "coreElements": [
-              "Läsa och skriva"
-            ],
+            "coreElements": ["Läsa och skriva"],
             "verbs": []
           },
           {
@@ -398,12 +351,8 @@
               "local": "Ordböcker och andra hjälpmedel för stavning och ordförståelse.",
               "en": "Dictionaries and other aids for spelling and word comprehension."
             },
-            "coreElements": [
-              "Läsa och skriva"
-            ],
-            "verbs": [
-              "Förstå"
-            ]
+            "coreElements": ["Läsa och skriva"],
+            "verbs": ["Förstå"]
           },
           {
             "code": "ML-4-6-5",
@@ -411,9 +360,7 @@
               "local": "Samtal om egna och andras upplevelser samt om vardagliga företeelser och hän­delser.",
               "en": "Conversations about one's own and others' experiences, and about everyday phenomena and events."
             },
-            "coreElements": [
-              "Tala, lyssna och samtala"
-            ],
+            "coreElements": ["Tala, lyssna och samtala"],
             "verbs": []
           },
           {
@@ -422,13 +369,8 @@
               "local": "Muntliga presentationer och muntligt berättande med anpassning till olika mot­tagare. Stödord, bilder, digitala medier och verktyg samt andra hjälp­me­del för att planera och genomföra en muntlig presentation.",
               "en": "Oral presentations and oral storytelling adapted to different audiences. Key words, images, digital media and tools as well as other aids for planning and carrying out an oral presentation."
             },
-            "coreElements": [
-              "Tala, lyssna och samtala"
-            ],
-            "verbs": [
-              "Föra",
-              "Planera"
-            ]
+            "coreElements": ["Tala, lyssna och samtala"],
+            "verbs": ["Föra", "Planera"]
           },
           {
             "code": "ML-4-6-7",
@@ -436,9 +378,7 @@
               "local": "Uttal, betoning och satsmelodi samt uttalets betydelse för att göra sig för­stådd.",
               "en": "Pronunciation, stress and intonation, and the importance of pronunciation for making oneself understood."
             },
-            "coreElements": [
-              "Tala, lyssna och samtala"
-            ],
+            "coreElements": ["Tala, lyssna och samtala"],
             "verbs": []
           },
           {
@@ -447,9 +387,7 @@
               "local": "Modersmålets uttal i jämförelse med svenskans.",
               "en": "The pronunciation of the mother tongue in comparison with Swedish."
             },
-            "coreElements": [
-              "Tala, lyssna och samtala"
-            ],
+            "coreElements": ["Tala, lyssna och samtala"],
             "verbs": []
           },
           {
@@ -458,9 +396,7 @@
               "local": "Berättande texter och poetiska texter för barn och unga i form av skön­litte­ratur, sagor och sägner från områden där modersmålet talas. Texter som be­lyser människors villkor och identitets- och livsfrågor.",
               "en": "Narrative and poetic texts for children and young people in the form of fiction, fairy tales and legends from areas where the mother tongue is spoken. Texts that illuminate people's conditions and questions of identity and life."
             },
-            "coreElements": [
-              "Texter"
-            ],
+            "coreElements": ["Texter"],
             "verbs": []
           },
           {
@@ -469,13 +405,8 @@
               "local": "Beskrivande, förklarande och instruerande texter för barn och unga med ank­nytning till traditioner och företeelser i områden där modersmålet talas.",
               "en": "Descriptive, explanatory and instructional texts for children and young people connected to traditions and phenomena in areas where the mother tongue is spoken."
             },
-            "coreElements": [
-              "Texter"
-            ],
-            "verbs": [
-              "Beskriva",
-              "Förklara"
-            ]
+            "coreElements": ["Texter"],
+            "verbs": ["Beskriva", "Förklara"]
           },
           {
             "code": "ML-4-6-11",
@@ -483,9 +414,7 @@
               "local": "Texters innehåll, typiska språkliga drag samt deras ord och begrepp.",
               "en": "The content of texts, typical linguistic features, and their words and concepts."
             },
-            "coreElements": [
-              "Texter"
-            ],
+            "coreElements": ["Texter"],
             "verbs": []
           },
           {
@@ -494,12 +423,8 @@
               "local": "Ord och begrepp för att uttrycka känslor, kunskaper och åsikter. Ords och be­grepps nyanser och värdeladdning.",
               "en": "Words and concepts for expressing feelings, knowledge and opinions. The nuances and connotations of words and concepts."
             },
-            "coreElements": [
-              "Språkbruk"
-            ],
-            "verbs": [
-              "Uttrycka"
-            ]
+            "coreElements": ["Språkbruk"],
+            "verbs": ["Uttrycka"]
           },
           {
             "code": "ML-4-6-13",
@@ -507,9 +432,7 @@
               "local": "Synonymer, motsatsord och andra relationer mellan ord.",
               "en": "Synonyms, antonyms and other relationships between words."
             },
-            "coreElements": [
-              "Språkbruk"
-            ],
+            "coreElements": ["Språkbruk"],
             "verbs": []
           },
           {
@@ -518,9 +441,7 @@
               "local": "Seder, bruk och traditioner i områden där modersmålet talas i jämförelse med svenska seder, bruk och traditioner.",
               "en": "Customs, practices and traditions in areas where the mother tongue is spoken, in comparison with Swedish customs, practices and traditions."
             },
-            "coreElements": [
-              "Kultur och samhälle"
-            ],
+            "coreElements": ["Kultur och samhälle"],
             "verbs": []
           },
           {
@@ -529,9 +450,7 @@
               "local": "Elevnära företeelser i områden där modersmålet talas i jämförelse med elev­nära företeelser i Sverige.",
               "en": "Phenomena close to the pupil in areas where the mother tongue is spoken, in comparison with phenomena close to the pupil in Sweden."
             },
-            "coreElements": [
-              "Kultur och samhälle"
-            ],
+            "coreElements": ["Kultur och samhälle"],
             "verbs": []
           }
         ],
@@ -586,14 +505,8 @@
               "local": "Lässtrategier för att förstå, tolka och analysera olika typer av texter från oli­ka medier. Att urskilja texters syfte, avsändare och sammanhang. Att ur­­skilja innehåll som kan vara explicit eller implicit uttryckt i texten.",
               "en": "Reading strategies for understanding, interpreting and analysing different types of texts from different media. Identifying the purpose, sender and context of texts. Identifying content that may be explicitly or implicitly expressed in the text."
             },
-            "coreElements": [
-              "Läsa och skriva"
-            ],
-            "verbs": [
-              "Analysera",
-              "Förstå",
-              "Tolka"
-            ]
+            "coreElements": ["Läsa och skriva"],
+            "verbs": ["Analysera", "Förstå", "Tolka"]
           },
           {
             "code": "ML-7-9-2",
@@ -601,12 +514,8 @@
               "local": "Strategier för skrivande av olika typer av texter med anpassning till deras uppbyggnad och språkliga drag. Skapande av texter där ord, bild och ljud sam­spelar.",
               "en": "Strategies for writing different types of texts adapted to their structure and linguistic features. Creating texts where words, images and sound interact."
             },
-            "coreElements": [
-              "Läsa och skriva"
-            ],
-            "verbs": [
-              "Skapa"
-            ]
+            "coreElements": ["Läsa och skriva"],
+            "verbs": ["Skapa"]
           },
           {
             "code": "ML-7-9-3",
@@ -614,9 +523,7 @@
               "local": "Modersmålets grundläggande struktur i jämförelse med svenskan. Ordbildning och meningsbyggnad på modersmålet i jämförelse med sven­s­kan.",
               "en": "The basic structure of the mother tongue in comparison with Swedish. Word formation and sentence construction in the mother tongue in comparison with Swedish."
             },
-            "coreElements": [
-              "Läsa och skriva"
-            ],
+            "coreElements": ["Läsa och skriva"],
             "verbs": []
           },
           {
@@ -625,12 +532,8 @@
               "local": "Hjälpmedel för informationssökning och ordförståelse.",
               "en": "Aids for information searching and word comprehension."
             },
-            "coreElements": [
-              "Läsa och skriva"
-            ],
-            "verbs": [
-              "Förstå"
-            ]
+            "coreElements": ["Läsa och skriva"],
+            "verbs": ["Förstå"]
           },
           {
             "code": "ML-7-9-5",
@@ -638,9 +541,7 @@
               "local": "Samtal och diskussioner om ämnen som är välbekanta för eleven samt om tan­kar, känslor, åsikter och aktuella händelser.",
               "en": "Conversations and discussions about topics that are well known to the pupil, and about thoughts, feelings, opinions and current events."
             },
-            "coreElements": [
-              "Tala, lyssna och samtala"
-            ],
+            "coreElements": ["Tala, lyssna och samtala"],
             "verbs": []
           },
           {
@@ -649,9 +550,7 @@
               "local": "Muntliga presentationer och muntligt berättande med anpassning av språk, in­ne­håll och disposition efter syfte och mottagare.",
               "en": "Oral presentations and oral storytelling with adaptation of language, content and structure to purpose and audience."
             },
-            "coreElements": [
-              "Tala, lyssna och samtala"
-            ],
+            "coreElements": ["Tala, lyssna och samtala"],
             "verbs": []
           },
           {
@@ -660,9 +559,7 @@
               "local": "Uttal, betoning och satsmelodi i jämförelse med svenskan samt olika talade va­riationer av modersmålet.",
               "en": "Pronunciation, stress and intonation in comparison with Swedish, and different spoken varieties of the mother tongue."
             },
-            "coreElements": [
-              "Tala, lyssna och samtala"
-            ],
+            "coreElements": ["Tala, lyssna och samtala"],
             "verbs": []
           },
           {
@@ -671,9 +568,7 @@
               "local": "Skönlitteratur för ungdomar från olika tider och områden där modersmålet ta­las. Texter som belyser människors villkor och identitets- och livsfrågor.",
               "en": "Fiction for young people from different eras and areas where the mother tongue is spoken. Texts that illuminate people's conditions and questions of identity and life."
             },
-            "coreElements": [
-              "Texter"
-            ],
+            "coreElements": ["Texter"],
             "verbs": []
           },
           {
@@ -682,9 +577,7 @@
               "local": "Språkliga drag, ord och begrepp i skönlitteratur för ungdomar.",
               "en": "Linguistic features, words and concepts in fiction for young people."
             },
-            "coreElements": [
-              "Texter"
-            ],
+            "coreElements": ["Texter"],
             "verbs": []
           },
           {
@@ -693,14 +586,8 @@
               "local": "Beskrivande, förklarande, instruerande och argumenterande texter, till exem­pel tidningsartiklar och arbetsbeskrivningar. Texternas syfte, innehåll och typiska språkliga drag.",
               "en": "Descriptive, explanatory, instructional and argumentative texts, for example newspaper articles and work descriptions. The purpose, content and typical linguistic features of the texts."
             },
-            "coreElements": [
-              "Texter"
-            ],
-            "verbs": [
-              "Argumentera",
-              "Beskriva",
-              "Förklara"
-            ]
+            "coreElements": ["Texter"],
+            "verbs": ["Argumentera", "Beskriva", "Förklara"]
           },
           {
             "code": "ML-7-9-11",
@@ -708,9 +595,7 @@
               "local": "Texter som kombinerar ord, bild och ljud och deras språkliga och drama­tur­giska komponenter, till exempel i tv-serier, teaterföreställningar och webb­texter.",
               "en": "Texts that combine words, images and sound, and their linguistic and dramaturgical components, for example in TV series, theatre performances and web texts."
             },
-            "coreElements": [
-              "Texter"
-            ],
+            "coreElements": ["Texter"],
             "verbs": []
           },
           {
@@ -719,12 +604,8 @@
               "local": "Ord och begrepp för att uttrycka känslor, kunskaper och åsikter. Ords och be­grepps nyanser och värdeladdning. Bildspråk och idiomatiska uttryck.",
               "en": "Words and concepts for expressing feelings, knowledge and opinions. The nuances and connotations of words and concepts. Figurative language and idiomatic expressions."
             },
-            "coreElements": [
-              "Språkbruk"
-            ],
-            "verbs": [
-              "Uttrycka"
-            ]
+            "coreElements": ["Språkbruk"],
+            "verbs": ["Uttrycka"]
           },
           {
             "code": "ML-7-9-13",
@@ -732,9 +613,7 @@
               "local": "Översättning av och jämförelser mellan ord, begrepp, fraser och texter på moder­smålet och på svenska.",
               "en": "Translation of and comparisons between words, concepts, phrases and texts in the mother tongue and in Swedish."
             },
-            "coreElements": [
-              "Språkbruk"
-            ],
+            "coreElements": ["Språkbruk"],
             "verbs": []
           },
           {
@@ -743,9 +622,7 @@
               "local": "Skillnader i språkanvändning beroende på syfte, mottagare och sam­man­hang. Språkets betydelse för att utöva inflytande.",
               "en": "Differences in language use depending on purpose, audience and context. The importance of language for exercising influence."
             },
-            "coreElements": [
-              "Språkbruk"
-            ],
+            "coreElements": ["Språkbruk"],
             "verbs": []
           },
           {
@@ -754,9 +631,7 @@
               "local": "Kulturella uttrycksformer från områden där modersmålet talas, till exempel bild­konst, musik och arkitektur.",
               "en": "Cultural forms of expression from areas where the mother tongue is spoken, for example visual art, music and architecture."
             },
-            "coreElements": [
-              "Kultur och samhälle"
-            ],
+            "coreElements": ["Kultur och samhälle"],
             "verbs": []
           },
           {
@@ -765,9 +640,7 @@
               "local": "Aktuella samhällsfrågor i områden där modersmålet talas, i jämförelse med lik­nande frågor i Sverige.",
               "en": "Current societal issues in areas where the mother tongue is spoken, in comparison with similar issues in Sweden."
             },
-            "coreElements": [
-              "Kultur och samhälle"
-            ],
+            "coreElements": ["Kultur och samhälle"],
             "verbs": []
           }
         ],

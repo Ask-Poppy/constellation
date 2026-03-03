@@ -169,9 +169,7 @@
               "local": "Framställning av berättande bilder, till exempel sagobilder och illustrationer till berättelser.",
               "en": "Production of narrative images, for example fairy tale pictures and illustrations for stories."
             },
-            "coreElements": [
-              "Bildframställning"
-            ],
+            "coreElements": ["Bildframställning"],
             "verbs": []
           },
           {
@@ -180,9 +178,7 @@
               "local": "Teckning, måleri, modellering och konstruktion.",
               "en": "Drawing, painting, modelling and construction."
             },
-            "coreElements": [
-              "Bildframställning"
-            ],
+            "coreElements": ["Bildframställning"],
             "verbs": []
           },
           {
@@ -191,9 +187,7 @@
               "local": "Återanvändning av bilder, till exempel i kollage.",
               "en": "Reuse of images, for example in collage."
             },
-            "coreElements": [
-              "Bildframställning"
-            ],
+            "coreElements": ["Bildframställning"],
             "verbs": []
           },
           {
@@ -202,9 +196,7 @@
               "local": "Fotografering och överföring av bilder med hjälp av digitala verktyg.",
               "en": "Photography and transfer of images using digital tools."
             },
-            "coreElements": [
-              "Bildframställning"
-            ],
+            "coreElements": ["Bildframställning"],
             "verbs": []
           },
           {
@@ -213,9 +205,7 @@
               "local": "Etiska frågor som kan uppstå vid framställning och användning av bilder i olika sammanhang.",
               "en": "Ethical questions that may arise in the production and use of images in different contexts."
             },
-            "coreElements": [
-              "Bildframställning"
-            ],
+            "coreElements": ["Bildframställning"],
             "verbs": []
           },
           {
@@ -224,9 +214,7 @@
               "local": "Olika element som bygger upp form, yta samt för- och bakgrund i en bild, till exempel linjer och färg.",
               "en": "Different elements that build up form, surface, as well as foreground and background in an image, for example lines and colour."
             },
-            "coreElements": [
-              "Tekniker, verktyg och material"
-            ],
+            "coreElements": ["Tekniker, verktyg och material"],
             "verbs": []
           },
           {
@@ -235,9 +223,7 @@
               "local": "Några verktyg och material för teckning, måleri, modellering och konstruktioner samt för fotografering och annat digitalt arbete med bilder.",
               "en": "Some tools and materials for drawing, painting, modelling and construction, as well as for photography and other digital work with images."
             },
-            "coreElements": [
-              "Tekniker, verktyg och material"
-            ],
+            "coreElements": ["Tekniker, verktyg och material"],
             "verbs": []
           },
           {
@@ -246,9 +232,7 @@
               "local": "Samtida och historiska bilder och vad bilderna berättar, till exempel dokumentära bilder och konstbilder.",
               "en": "Contemporary and historical images and what the images tell, for example documentary images and art images."
             },
-            "coreElements": [
-              "Bildanalys"
-            ],
+            "coreElements": ["Bildanalys"],
             "verbs": []
           },
           {
@@ -257,12 +241,8 @@
               "local": "Bilder ur elevernas visuella kulturer som gestaltar normer och stereotyper.",
               "en": "Images from the pupils' visual cultures that portray norms and stereotypes."
             },
-            "coreElements": [
-              "Bildanalys"
-            ],
-            "verbs": [
-              "Gestalta"
-            ]
+            "coreElements": ["Bildanalys"],
+            "verbs": ["Gestalta"]
           }
         ]
       },
@@ -279,9 +259,7 @@
               "local": "Framställning av berättande och informativa bilder, till exempel serier och illustrationer till text.",
               "en": "Production of narrative and informative images, for example comic strips and illustrations for text."
             },
-            "coreElements": [
-              "Bildframställning"
-            ],
+            "coreElements": ["Bildframställning"],
             "verbs": []
           },
           {
@@ -290,9 +268,7 @@
               "local": "Teckning, måleri, tryck och tredimensionellt arbete.",
               "en": "Drawing, painting, printmaking and three-dimensional work."
             },
-            "coreElements": [
-              "Bildframställning"
-            ],
+            "coreElements": ["Bildframställning"],
             "verbs": []
           },
           {
@@ -301,9 +277,7 @@
               "local": "Återanvändning och bearbetning av bilder, till exempel i kollage och bildmontage.",
               "en": "Reuse and processing of images, for example in collage and photomontage."
             },
-            "coreElements": [
-              "Bildframställning"
-            ],
+            "coreElements": ["Bildframställning"],
             "verbs": []
           },
           {
@@ -312,12 +286,8 @@
               "local": "Fotografi, film och annat digitalt bildskapande samt redigering av fotografi och rörlig bild.",
               "en": "Photography, film and other digital image creation, as well as editing of photographs and moving images."
             },
-            "coreElements": [
-              "Bildframställning"
-            ],
-            "verbs": [
-              "Skapa"
-            ]
+            "coreElements": ["Bildframställning"],
+            "verbs": ["Skapa"]
           },
           {
             "code": "BL-4-6-5",
@@ -325,9 +295,7 @@
               "local": "Rättigheter och skyldigheter samt etiska frågeställningar vid användning av bilder i olika sammanhang.",
               "en": "Rights and obligations, as well as ethical issues when using images in different contexts."
             },
-            "coreElements": [
-              "Bildframställning"
-            ],
+            "coreElements": ["Bildframställning"],
             "verbs": []
           },
           {
@@ -336,13 +304,8 @@
               "local": "Olika element som bygger upp och skapar rumslighet i två- och tredimensionella bilder, till exempel linjer, färg och hur kombinationer av dessa kan användas i bildskapande arbete.",
               "en": "Different elements that build up and create spatiality in two- and three-dimensional images, for example lines, colour and how combinations of these can be used in image-making work."
             },
-            "coreElements": [
-              "Tekniker, verktyg och material"
-            ],
-            "verbs": [
-              "Använda",
-              "Skapa"
-            ]
+            "coreElements": ["Tekniker, verktyg och material"],
+            "verbs": ["Använda", "Skapa"]
           },
           {
             "code": "BL-4-6-7",
@@ -350,9 +313,7 @@
               "local": "Verktyg och material för teckning, måleri, trycktekniker, tredimensionellt arbete, fotografering, arbete med rörlig bild och digital bildbehandling.",
               "en": "Tools and materials for drawing, painting, print techniques, three-dimensional work, photography, work with moving images and digital image processing."
             },
-            "coreElements": [
-              "Tekniker, verktyg och material"
-            ],
+            "coreElements": ["Tekniker, verktyg och material"],
             "verbs": []
           },
           {
@@ -361,9 +322,7 @@
               "local": "Konst- och dokumentärbilder samt arkitektur från olika tider och kulturer.",
               "en": "Art and documentary images, as well as architecture from different times and cultures."
             },
-            "coreElements": [
-              "Bildanalys"
-            ],
+            "coreElements": ["Bildanalys"],
             "verbs": []
           },
           {
@@ -372,9 +331,7 @@
               "local": "Mediebilder, till exempel reklam- och nyhetsbilder.",
               "en": "Media images, for example advertising and news images."
             },
-            "coreElements": [
-              "Bildanalys"
-            ],
+            "coreElements": ["Bildanalys"],
             "verbs": []
           },
           {
@@ -383,12 +340,8 @@
               "local": "Bilder ur elevernas visuella kulturer som gestaltar identitet, grupptillhörighet och normer.",
               "en": "Images from the pupils' visual cultures that portray identity, group belonging and norms."
             },
-            "coreElements": [
-              "Bildanalys"
-            ],
-            "verbs": [
-              "Gestalta"
-            ]
+            "coreElements": ["Bildanalys"],
+            "verbs": ["Gestalta"]
           },
           {
             "code": "BL-4-6-11",
@@ -396,12 +349,8 @@
               "local": "Hur bilder påverkar och förmedlar budskap. Ord och begrepp för att kunna samtala om bilders innehåll, uttryck och funktioner.",
               "en": "How images influence and convey messages. Words and concepts for discussing the content, expression and functions of images."
             },
-            "coreElements": [
-              "Bildanalys"
-            ],
-            "verbs": [
-              "Samtala"
-            ]
+            "coreElements": ["Bildanalys"],
+            "verbs": ["Samtala"]
           }
         ],
         "knowledgeCriteria": [
@@ -455,9 +404,7 @@
               "local": "Framställning av berättande, informativa och samhällsorienterande bilder om frågor som är angelägna för eleverna.",
               "en": "Production of narrative, informative and socially oriented images about issues that are important to the pupils."
             },
-            "coreElements": [
-              "Bildframställning"
-            ],
+            "coreElements": ["Bildframställning"],
             "verbs": []
           },
           {
@@ -466,9 +413,7 @@
               "local": "Två- och tredimensionellt bildarbete.",
               "en": "Two- and three-dimensional image work."
             },
-            "coreElements": [
-              "Bildframställning"
-            ],
+            "coreElements": ["Bildframställning"],
             "verbs": []
           },
           {
@@ -477,12 +422,8 @@
               "local": "Kombinationer av bild, ljud, objekt och text i eget bildskapande.",
               "en": "Combinations of image, sound, objects and text in own image creation."
             },
-            "coreElements": [
-              "Bildframställning"
-            ],
-            "verbs": [
-              "Skapa"
-            ]
+            "coreElements": ["Bildframställning"],
+            "verbs": ["Skapa"]
           },
           {
             "code": "BL-7-9-4",
@@ -490,12 +431,8 @@
               "local": "Digitalt skapande och digital bearbetning av fotografier, rörlig bild och andra typer av bilder.",
               "en": "Digital creation and digital processing of photographs, moving images and other types of images."
             },
-            "coreElements": [
-              "Bildframställning"
-            ],
-            "verbs": [
-              "Skapa"
-            ]
+            "coreElements": ["Bildframställning"],
+            "verbs": ["Skapa"]
           },
           {
             "code": "BL-7-9-5",
@@ -503,12 +440,8 @@
               "local": "Presentationer av eget bildskapande från idé och process till slutgiltigt resultat.",
               "en": "Presentations of own image creation from idea and process to final result."
             },
-            "coreElements": [
-              "Bildframställning"
-            ],
-            "verbs": [
-              "Skapa"
-            ]
+            "coreElements": ["Bildframställning"],
+            "verbs": ["Skapa"]
           },
           {
             "code": "BL-7-9-6",
@@ -516,9 +449,7 @@
               "local": "Rättigheter och skyldigheter samt etiska frågeställningar vid användning och spridning av bilder. Eventuella konflikter mellan yttrandefrihet och integritet vid användning och spridning av bilder.",
               "en": "Rights and obligations, as well as ethical issues in the use and distribution of images. Potential conflicts between freedom of expression and privacy in the use and distribution of images."
             },
-            "coreElements": [
-              "Bildframställning"
-            ],
+            "coreElements": ["Bildframställning"],
             "verbs": []
           },
           {
@@ -527,13 +458,8 @@
               "local": "Former, färger och bildkompositioner samt deras betydelsebärande egenskaper och hur dessa kan användas i bildskapande arbete.",
               "en": "Shapes, colours and image compositions, as well as their meaning-bearing properties and how these can be used in image-making work."
             },
-            "coreElements": [
-              "Tekniker, verktyg och material"
-            ],
-            "verbs": [
-              "Använda",
-              "Skapa"
-            ]
+            "coreElements": ["Tekniker, verktyg och material"],
+            "verbs": ["Använda", "Skapa"]
           },
           {
             "code": "BL-7-9-8",
@@ -541,12 +467,8 @@
               "local": "Verktyg och material för två- och tredimensionellt bildarbete. Hur dessa verktyg och material kan användas för bestämda syften.",
               "en": "Tools and materials for two- and three-dimensional image work. How these tools and materials can be used for specific purposes."
             },
-            "coreElements": [
-              "Tekniker, verktyg och material"
-            ],
-            "verbs": [
-              "Använda"
-            ]
+            "coreElements": ["Tekniker, verktyg och material"],
+            "verbs": ["Använda"]
           },
           {
             "code": "BL-7-9-9",
@@ -554,9 +476,7 @@
               "local": "Samtida konst- och dokumentärbilder samt konst och arkitektur från olika tider och kulturer. Hur bilderna och verken är utformade och vilka budskap de förmedlar.",
               "en": "Contemporary art and documentary images, as well as art and architecture from different times and cultures. How the images and works are designed and what messages they convey."
             },
-            "coreElements": [
-              "Bildanalys"
-            ],
+            "coreElements": ["Bildanalys"],
             "verbs": []
           },
           {
@@ -565,13 +485,8 @@
               "local": "Mediebilders utformning och påverkan och hur dessa bilder kan tolkas och kritiskt granskas.",
               "en": "The design and influence of media images and how these images can be interpreted and critically examined."
             },
-            "coreElements": [
-              "Bildanalys"
-            ],
-            "verbs": [
-              "Granska",
-              "Tolka"
-            ]
+            "coreElements": ["Bildanalys"],
+            "verbs": ["Granska", "Tolka"]
           },
           {
             "code": "BL-7-9-11",
@@ -579,12 +494,8 @@
               "local": "Bilder som behandlar identitet och maktrelationer, till exempel sexualitet, etnicitet och kön. Hur dessa perspektiv gestaltas och konstrueras.",
               "en": "Images that address identity and power relations, for example sexuality, ethnicity and gender. How these perspectives are portrayed and constructed."
             },
-            "coreElements": [
-              "Bildanalys"
-            ],
-            "verbs": [
-              "Gestalta"
-            ]
+            "coreElements": ["Bildanalys"],
+            "verbs": ["Gestalta"]
           },
           {
             "code": "BL-7-9-12",
@@ -592,12 +503,8 @@
               "local": "Hur bilder kan kopplas till egna erfarenheter och företeelser i elevernas visuella kulturer. Ord och begrepp för att kunna läsa, skriva och samtala om bilders innehåll, uttryck och funktioner.",
               "en": "How images can be connected to own experiences and phenomena in the pupils' visual cultures. Words and concepts for reading, writing and discussing the content, expression and functions of images."
             },
-            "coreElements": [
-              "Bildanalys"
-            ],
-            "verbs": [
-              "Samtala"
-            ]
+            "coreElements": ["Bildanalys"],
+            "verbs": ["Samtala"]
           }
         ],
         "knowledgeCriteria": [

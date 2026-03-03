@@ -257,14 +257,7 @@
               "local": "T1 tarjota oppilaalle mahdollisuuksia toteuttaa luontaista uteliaisuuttaan ja auttaa oppilasta kokemaan ympäristöopin asiat merkitykselliseksi itselleen",
               "en": "T1 offer the pupil opportunities to exercise their natural curiosity and help the pupil experience environmental studies topics as meaningful to themselves"
             },
-            "coreElements": [
-              "S6",
-              "S5",
-              "S1",
-              "S4",
-              "S3",
-              "S2"
-            ],
+            "coreElements": ["S6", "S5", "S1", "S4", "S3", "S2"],
             "verbs": []
           },
           {
@@ -273,14 +266,7 @@
               "local": "T2 kannustaa oppilasta iloitsemaan ympäristöopin oppimisesta, omasta osaamisesta ja uusista haasteista sekä harjoittelemaan pitkäjänteistä työskentelyä",
               "en": "T2 encourage the pupil to enjoy learning environmental studies, their own competence, and new challenges, and to practise sustained work"
             },
-            "coreElements": [
-              "S6",
-              "S5",
-              "S1",
-              "S4",
-              "S3",
-              "S2"
-            ],
+            "coreElements": ["S6", "S5", "S1", "S4", "S3", "S2"],
             "verbs": []
           },
           {
@@ -289,14 +275,7 @@
               "local": "T3 tukea oppilaan ympäristöherkkyyden kehittymistä ja ohjata oppilasta toimimaan kestävällä tavalla lähiympäristössä ja kouluyhteisössä",
               "en": "T3 support the development of the pupil's environmental sensitivity and guide the pupil to act in a sustainable manner in the local environment and school community"
             },
-            "coreElements": [
-              "S6",
-              "S5",
-              "S1",
-              "S4",
-              "S3",
-              "S2"
-            ],
+            "coreElements": ["S6", "S5", "S1", "S4", "S3", "S2"],
             "verbs": []
           },
           {
@@ -305,12 +284,7 @@
               "local": "T4 ohjata oppilasta tutkimaan ja toimimaan sekä liikkumaan ja retkeilemään lähiympäristössään",
               "en": "T4 guide the pupil to investigate and act, and to move about and go on excursions in their local environment"
             },
-            "coreElements": [
-              "S6",
-              "S4",
-              "S3",
-              "S2"
-            ],
+            "coreElements": ["S6", "S4", "S3", "S2"],
             "verbs": []
           },
           {
@@ -319,14 +293,7 @@
               "local": "T5 kannustaa oppilasta ihmettelemään ja kyselemään sekä käyttämään yhteisiä pohdintoja pienten tutkimusten ja muun toiminnan lähtökohtana",
               "en": "T5 encourage the pupil to wonder and ask questions and to use shared reflections as a starting point for small investigations and other activities"
             },
-            "coreElements": [
-              "S6",
-              "S5",
-              "S1",
-              "S4",
-              "S3",
-              "S2"
-            ],
+            "coreElements": ["S6", "S5", "S1", "S4", "S3", "S2"],
             "verbs": []
           },
           {
@@ -335,14 +302,7 @@
               "local": "T6 ohjata oppilasta tekemään havaintoja ja kokeiluja koulussa ja lähiympäristössä eri aisteja ja yksinkertaisia tutkimusvälineitä käyttäen sekä esittelemään tuloksiaan eri tavoin",
               "en": "T6 guide the pupil to make observations and experiments in school and the local environment using different senses and simple research tools, and to present their results in different ways"
             },
-            "coreElements": [
-              "S6",
-              "S5",
-              "S1",
-              "S4",
-              "S3",
-              "S2"
-            ],
+            "coreElements": ["S6", "S5", "S1", "S4", "S3", "S2"],
             "verbs": []
           },
           {
@@ -351,14 +311,7 @@
               "local": "T7 ohjata oppilasta kuvailemaan, vertailemaan ja luokittelemaan monipuolisesti eliöitä, elinympäristöjä, ilmiöitä, materiaaleja ja tilanteita sekä nimeämään niitä",
               "en": "T7 guide the pupil to describe, compare, and classify organisms, habitats, phenomena, materials, and situations in diverse ways and to name them"
             },
-            "coreElements": [
-              "S6",
-              "S5",
-              "S1",
-              "S4",
-              "S3",
-              "S2"
-            ],
+            "coreElements": ["S6", "S5", "S1", "S4", "S3", "S2"],
             "verbs": []
           },
           {
@@ -367,14 +320,7 @@
               "local": "T8 opastaa oppilasta toimimaan turvallisesti, noudattamaan annettuja ohjeita ja hahmottamaan niiden perusteluita",
               "en": "T8 instruct the pupil to act safely, to follow given instructions, and to understand their justifications"
             },
-            "coreElements": [
-              "S6",
-              "S5",
-              "S1",
-              "S4",
-              "S3",
-              "S2"
-            ],
+            "coreElements": ["S6", "S5", "S1", "S4", "S3", "S2"],
             "verbs": []
           },
           {
@@ -383,11 +329,7 @@
               "local": "T9 ohjata oppilasta tutustumaan monipuolisesti arjen teknologiaan sekä innostaa oppilaita kokeilemaan, keksimään, rakentamaan ja luomaan uutta yhdessä toimien",
               "en": "T9 guide the pupil to explore everyday technology in diverse ways and to inspire pupils to experiment, invent, build, and create something new through collaborative action"
             },
-            "coreElements": [
-              "S6",
-              "S4",
-              "S2"
-            ],
+            "coreElements": ["S6", "S4", "S2"],
             "verbs": []
           },
           {
@@ -396,14 +338,7 @@
               "local": "T10 ohjata oppilasta harjoittelemaan ryhmässä toimimisen taitoja ja tunnetaitoja sekä vahvistamaan itsensä ja muiden arvostamista",
               "en": "T10 guide the pupil to practise group work skills and emotional skills and to strengthen the valuing of oneself and others"
             },
-            "coreElements": [
-              "S6",
-              "S5",
-              "S1",
-              "S4",
-              "S3",
-              "S2"
-            ],
+            "coreElements": ["S6", "S5", "S1", "S4", "S3", "S2"],
             "verbs": []
           },
           {
@@ -412,14 +347,7 @@
               "local": "T11 ohjata oppilasta käyttämään tieto- ja viestintäteknologiaa tiedon hankkimisessa sekä havaintojen taltioimisessa ja esittämisessä",
               "en": "T11 guide the pupil to use information and communication technology for acquiring information and for recording and presenting observations"
             },
-            "coreElements": [
-              "S6",
-              "S5",
-              "S1",
-              "S4",
-              "S3",
-              "S2"
-            ],
+            "coreElements": ["S6", "S5", "S1", "S4", "S3", "S2"],
             "verbs": []
           },
           {
@@ -428,14 +356,7 @@
               "local": "T12 ohjata oppilasta jäsentämään ympäristöä, ihmisten toimintaa ja niihin liittyviä ilmiöitä ympäristöopin eri tiedonalojen käsitteiden avulla",
               "en": "T12 guide the pupil to structure the environment, human activity, and related phenomena using concepts from different fields of knowledge in environmental studies"
             },
-            "coreElements": [
-              "S6",
-              "S5",
-              "S1",
-              "S4",
-              "S3",
-              "S2"
-            ],
+            "coreElements": ["S6", "S5", "S1", "S4", "S3", "S2"],
             "verbs": []
           },
           {
@@ -444,14 +365,7 @@
               "local": "T13 ohjata oppilasta ymmärtämään yksinkertaisia kuvia, malleja ja karttoja ympäristön kuvaajina",
               "en": "T13 guide the pupil to understand simple pictures, models, and maps as representations of the environment"
             },
-            "coreElements": [
-              "S6",
-              "S5",
-              "S1",
-              "S4",
-              "S3",
-              "S2"
-            ],
+            "coreElements": ["S6", "S5", "S1", "S4", "S3", "S2"],
             "verbs": []
           },
           {
@@ -460,14 +374,7 @@
               "local": "T14 rohkaista oppilasta ilmaisemaan itseään ja harjoittelemaan näkemystensä perustelemista",
               "en": "T14 encourage the pupil to express themselves and to practise justifying their viewpoints"
             },
-            "coreElements": [
-              "S6",
-              "S5",
-              "S1",
-              "S4",
-              "S3",
-              "S2"
-            ],
+            "coreElements": ["S6", "S5", "S1", "S4", "S3", "S2"],
             "verbs": []
           },
           {
@@ -476,10 +383,7 @@
               "local": "T15 ohjata oppilasta pohtimaan kasvua ja kehitystä, terveyttä ja hyvinvointia tukevia tekijöitä sekä elämän perusedellytyksiä",
               "en": "T15 guide the pupil to consider factors that support growth and development, health, and well-being, as well as the basic prerequisites for life"
             },
-            "coreElements": [
-              "S5",
-              "S1"
-            ],
+            "coreElements": ["S5", "S1"],
             "verbs": []
           }
         ]
@@ -497,14 +401,7 @@
               "local": "T1 synnyttää ja ylläpitää oppilaan kiinnostusta ympäristöön ja ympäristöopin opiskeluun sekä auttaa oppilasta kokemaan kaikki ympäristöopin tiedonalat merkityksellisiksi itselleen",
               "en": "T1 generate and maintain the pupil's interest in the environment and the study of environmental studies, and help the pupil experience all fields of knowledge in environmental studies as meaningful to themselves"
             },
-            "coreElements": [
-              "S5",
-              "S3",
-              "S4",
-              "S1",
-              "S2",
-              "S6"
-            ],
+            "coreElements": ["S5", "S3", "S4", "S1", "S2", "S6"],
             "verbs": []
           },
           {
@@ -513,14 +410,7 @@
               "local": "T2 ohjata ja kannustaa oppilasta asettamaan omia opiskelutavoitteita ja työskentelemään pitkäjänteisesti niiden saavuttamiseksi sekä tunnistamaan omaa ympäristöopin osaamistaan",
               "en": "T2 guide and encourage the pupil to set their own learning goals and to work with perseverance to achieve them, and to recognise their own competence in environmental studies"
             },
-            "coreElements": [
-              "S5",
-              "S3",
-              "S4",
-              "S1",
-              "S2",
-              "S6"
-            ],
+            "coreElements": ["S5", "S3", "S4", "S1", "S2", "S6"],
             "verbs": []
           },
           {
@@ -529,14 +419,7 @@
               "local": "T3 tukea oppilaan ympäristötietoisuuden kehittymistä sekä ohjata oppilasta toimimaan ja vaikuttamaan lähiympäristössään ja -yhteisöissään kestävän kehityksen edistämiseksi ja arvostamaan kestävän kehityksen merkitystä itselle ja maailmalle",
               "en": "T3 support the development of the pupil's environmental awareness and guide the pupil to act and exert influence in their local environment and communities to promote sustainable development, and to value the significance of sustainable development for oneself and the world"
             },
-            "coreElements": [
-              "S5",
-              "S3",
-              "S4",
-              "S1",
-              "S2",
-              "S6"
-            ],
+            "coreElements": ["S5", "S3", "S4", "S1", "S2", "S6"],
             "verbs": []
           },
           {
@@ -545,14 +428,7 @@
               "local": "T4 rohkaista oppilasta muodostamaan kysymyksiä eri aihepiireistä sekä käyttämään niitä tutkimusten ja muun toiminnan lähtökohtana",
               "en": "T4 encourage the pupil to formulate questions from different topics and to use them as a starting point for investigations and other activities"
             },
-            "coreElements": [
-              "S5",
-              "S3",
-              "S4",
-              "S1",
-              "S2",
-              "S6"
-            ],
+            "coreElements": ["S5", "S3", "S4", "S1", "S2", "S6"],
             "verbs": []
           },
           {
@@ -561,14 +437,7 @@
               "local": "T5 ohjata oppilasta suunnittelemaan ja toteuttamaan pieniä tutkimuksia, tekemään havaintoja ja mittauksia monipuolisissa oppimisympäristöissä eri aisteja ja tutkimus- ja mittausvälineitä käyttäen",
               "en": "T5 guide the pupil to plan and carry out small investigations, to make observations and measurements in diverse learning environments using different senses and research and measuring tools"
             },
-            "coreElements": [
-              "S5",
-              "S3",
-              "S4",
-              "S1",
-              "S2",
-              "S6"
-            ],
+            "coreElements": ["S5", "S3", "S4", "S1", "S2", "S6"],
             "verbs": []
           },
           {
@@ -577,14 +446,7 @@
               "local": "T6 ohjata oppilasta tunnistamaan syy-seuraussuhteita, tekemään johtopäätöksiä tuloksistaan sekä esittämään tuloksiaan ja tutkimuksiaan eri tavoin",
               "en": "T6 guide the pupil to identify cause-and-effect relationships, to draw conclusions from their results, and to present their results and investigations in different ways"
             },
-            "coreElements": [
-              "S5",
-              "S3",
-              "S4",
-              "S1",
-              "S2",
-              "S6"
-            ],
+            "coreElements": ["S5", "S3", "S4", "S1", "S2", "S6"],
             "verbs": []
           },
           {
@@ -593,13 +455,7 @@
               "local": "T7 ohjata oppilasta ymmärtämään arjen teknologisten sovellusten käyttöä, merkitystä ja toimintaperiaatteita sekä innostaa oppilaita kokeilemaan, keksimään ja luomaan uutta yhdessä toimien",
               "en": "T7 guide the pupil to understand the use, significance, and operating principles of everyday technological applications and to inspire pupils to experiment, invent, and create something new through collaborative action"
             },
-            "coreElements": [
-              "S5",
-              "S3",
-              "S4",
-              "S2",
-              "S6"
-            ],
+            "coreElements": ["S5", "S3", "S4", "S2", "S6"],
             "verbs": []
           },
           {
@@ -608,14 +464,7 @@
               "local": "T8 kannustaa oppilasta edistämään hyvinvointia ja turvallisuutta toiminnassaan ja lähiympäristössään ja ohjata oppilasta toimimaan turvallisesti, tarkoituksenmukaisesti, vastuullisesti ja itseään suojellen",
               "en": "T8 encourage the pupil to promote well-being and safety in their activities and local environment, and guide the pupil to act safely, appropriately, responsibly, and in a self-protective manner"
             },
-            "coreElements": [
-              "S5",
-              "S3",
-              "S4",
-              "S1",
-              "S2",
-              "S6"
-            ],
+            "coreElements": ["S5", "S3", "S4", "S1", "S2", "S6"],
             "verbs": []
           },
           {
@@ -624,13 +473,7 @@
               "local": "T9 ohjata oppilasta tutkimaan ja toimimaan sekä liikkumaan ja retkeilemään luonnossa ja rakennetussa ympäristössä",
               "en": "T9 guide the pupil to investigate and act, and to move about and go on excursions in nature and the built environment"
             },
-            "coreElements": [
-              "S5",
-              "S3",
-              "S4",
-              "S2",
-              "S6"
-            ],
+            "coreElements": ["S5", "S3", "S4", "S2", "S6"],
             "verbs": []
           },
           {
@@ -639,14 +482,7 @@
               "local": "T10 tarjota oppilaalle mahdollisuuksia harjoitella ryhmässä toimimista erilaisissa rooleissa ja vuorovaikutustilanteissa, innostaa oppilasta ilmaisemaan itseään ja kuuntelemaan muita sekä tukea oppilaan valmiuksia tunnistaa, ilmaista ja säädellä tunteitaan.",
               "en": "T10 offer the pupil opportunities to practise working in a group in different roles and interaction situations, inspire the pupil to express themselves and listen to others, and support the pupil's readiness to recognise, express, and regulate their emotions."
             },
-            "coreElements": [
-              "S5",
-              "S3",
-              "S4",
-              "S1",
-              "S2",
-              "S6"
-            ],
+            "coreElements": ["S5", "S3", "S4", "S1", "S2", "S6"],
             "verbs": []
           },
           {
@@ -655,14 +491,7 @@
               "local": "T11 ohjata oppilasta käyttämään tieto- ja viestintäteknologiaa tiedon hankinnassa, käsittelyssä ja esittämisessä sekä vuorovaikutuksen välineenä vastuullisesti, turvallisesti ja ergonomisesti",
               "en": "T11 guide the pupil to use information and communication technology for acquiring, processing, and presenting information, and as a tool for interaction in a responsible, safe, and ergonomic manner"
             },
-            "coreElements": [
-              "S5",
-              "S3",
-              "S4",
-              "S1",
-              "S2",
-              "S6"
-            ],
+            "coreElements": ["S5", "S3", "S4", "S1", "S2", "S6"],
             "verbs": []
           },
           {
@@ -671,14 +500,7 @@
               "local": "T12 ohjata oppilasta hahmottamaan ympäristöä, ihmisten toimintaa ja niihin liittyviä ilmiöitä ympäristöopin käsitteiden avulla sekä kehittämään käsiterakenteitaan ennakkokäsityksistä kohti käsitteiden täsmällistä käyttöä",
               "en": "T12 guide the pupil to perceive the environment, human activity, and related phenomena using environmental studies concepts, and to develop their conceptual structures from preconceptions towards precise use of concepts"
             },
-            "coreElements": [
-              "S5",
-              "S3",
-              "S4",
-              "S1",
-              "S2",
-              "S6"
-            ],
+            "coreElements": ["S5", "S3", "S4", "S1", "S2", "S6"],
             "verbs": []
           },
           {
@@ -687,14 +509,7 @@
               "local": "T13 ohjata oppilasta ymmärtämään, käyttämään ja tekemään erilaisia malleja, joiden avulla voidaan tulkita ja selittää ihmistä, ympäristöä ja niiden ilmiöitä",
               "en": "T13 guide the pupil to understand, use, and create various models that can be used to interpret and explain humans, the environment, and their phenomena"
             },
-            "coreElements": [
-              "S5",
-              "S3",
-              "S4",
-              "S1",
-              "S2",
-              "S6"
-            ],
+            "coreElements": ["S5", "S3", "S4", "S1", "S2", "S6"],
             "verbs": []
           },
           {
@@ -703,14 +518,7 @@
               "local": "T14 ohjata oppilasta hankkimaan luotettavaa tietoa, ilmaisemaan perustellen erilaisia näkemyksiä sekä tulkitsemaan ja arvioimaan kriittisesti tietolähteitä ja näkökulmia",
               "en": "T14 guide the pupil to obtain reliable information, to express different viewpoints with justification, and to critically interpret and evaluate sources of information and perspectives"
             },
-            "coreElements": [
-              "S5",
-              "S3",
-              "S4",
-              "S1",
-              "S2",
-              "S6"
-            ],
+            "coreElements": ["S5", "S3", "S4", "S1", "S2", "S6"],
             "verbs": []
           },
           {
@@ -719,13 +527,7 @@
               "local": "T15 ohjata oppilasta luonnon tutkimiseen, eliöiden ja elinympäristöjen tunnistamiseen ja ekologiseen ajatteluun sekä ohjata oppilasta ihmisen rakenteen, elintoimintojen ja kehityksen ymmärtämiseen",
               "en": "T15 guide the pupil to investigate nature, to identify organisms and habitats, and to think ecologically, as well as guide the pupil to understand human anatomy, vital functions, and development"
             },
-            "coreElements": [
-              "S5",
-              "S3",
-              "S4",
-              "S1",
-              "S6"
-            ],
+            "coreElements": ["S5", "S3", "S4", "S1", "S6"],
             "verbs": []
           },
           {
@@ -734,12 +536,7 @@
               "local": "T16 ohjata oppilasta maantieteelliseen ajatteluun, hahmottamaan omaa ympäristöä ja koko maailmaa sekä harjaannuttamaan kartankäyttö- ja muita geomediataitoja",
               "en": "T16 guide the pupil towards geographical thinking, to perceive their own environment and the whole world, and to practise map-reading and other geomedia skills"
             },
-            "coreElements": [
-              "S5",
-              "S3",
-              "S4",
-              "S6"
-            ],
+            "coreElements": ["S5", "S3", "S4", "S6"],
             "verbs": []
           },
           {
@@ -748,12 +545,7 @@
               "local": "T17 ohjata oppilasta tutkimaan, kuvaamaan ja selittämään fysikaalisia ilmiöitä arjessa, luonnossa ja teknologiassa sekä rakentamaan perustaa energian säilymisen periaatteen ymmärtämiselle",
               "en": "T17 guide the pupil to investigate, describe, and explain physical phenomena in everyday life, nature, and technology, and to build a foundation for understanding the principle of conservation of energy"
             },
-            "coreElements": [
-              "S5",
-              "S4",
-              "S2",
-              "S6"
-            ],
+            "coreElements": ["S5", "S4", "S2", "S6"],
             "verbs": []
           },
           {
@@ -762,12 +554,7 @@
               "local": "T18 ohjata oppilasta tutkimaan, kuvaamaan ja selittämään kemiallisia ilmiöitä, aineiden ominaisuuksia ja muutoksia sekä rakentamaan perustaa aineen säilymisen periaatteen ymmärtämiselle",
               "en": "T18 guide the pupil to investigate, describe, and explain chemical phenomena, properties of substances, and changes, and to build a foundation for understanding the principle of conservation of matter"
             },
-            "coreElements": [
-              "S5",
-              "S4",
-              "S2",
-              "S6"
-            ],
+            "coreElements": ["S5", "S4", "S2", "S6"],
             "verbs": []
           },
           {
@@ -776,12 +563,7 @@
               "local": "T19 ohjata oppilasta ymmärtämään terveyden osa-alueita, arjen terveystottumusten merkitystä sekä elämänkulkua, lapsuuden ja nuoruuden yksilöllistä kasvua ja kehitystä sekä rohkaista oppilasta harjoittelemaan ja soveltamaan terveysosaamistaan arjessa",
               "en": "T19 guide the pupil to understand the dimensions of health, the significance of everyday health habits, the life course, and the individual growth and development during childhood and adolescence, and encourage the pupil to practise and apply their health literacy in everyday life"
             },
-            "coreElements": [
-              "S3",
-              "S1",
-              "S2",
-              "S6"
-            ],
+            "coreElements": ["S3", "S1", "S2", "S6"],
             "verbs": []
           }
         ]

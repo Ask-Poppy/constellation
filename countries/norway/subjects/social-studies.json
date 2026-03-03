@@ -183,10 +183,7 @@
               "Undring og utforsking",
               "Samfunnskritisk tenking og samanhengar"
             ],
-            "verbs": [
-              "Utvikle",
-              "Presentere"
-            ]
+            "verbs": ["Utvikle", "Presentere"]
           },
           {
             "code": "KM1654",
@@ -210,10 +207,7 @@
               "Samfunnskritisk tenking og samanhengar",
               "Berekraftige samfunn"
             ],
-            "verbs": [
-              "Utforske",
-              "Beskrive"
-            ]
+            "verbs": ["Utforske", "Beskrive"]
           },
           {
             "code": "KM1656",
@@ -226,10 +220,7 @@
               "Berekraftige samfunn",
               "Identitetsutvikling og fellesskap"
             ],
-            "verbs": [
-              "Utforske",
-              "Presentere"
-            ]
+            "verbs": ["Utforske", "Presentere"]
           },
           {
             "code": "KM1657",
@@ -242,9 +233,7 @@
               "Demokratiforståing og deltaking",
               "Identitetsutvikling og fellesskap"
             ],
-            "verbs": [
-              "Reflektere"
-            ]
+            "verbs": ["Reflektere"]
           },
           {
             "code": "KM1658",
@@ -252,9 +241,7 @@
               "local": "samtale om vennskap, tilhørighet og hva som påvirker relasjoner",
               "en": "talk about friendship and belonging and what can have an impact on relations"
             },
-            "coreElements": [
-              "Identitetsutvikling og fellesskap"
-            ],
+            "coreElements": ["Identitetsutvikling og fellesskap"],
             "verbs": []
           },
           {
@@ -267,9 +254,7 @@
               "Demokratiforståing og deltaking",
               "Identitetsutvikling og fellesskap"
             ],
-            "verbs": [
-              "Beskrive"
-            ]
+            "verbs": ["Beskrive"]
           },
           {
             "code": "KM1659",
@@ -282,10 +267,7 @@
               "Samfunnskritisk tenking og samanhengar",
               "Berekraftige samfunn"
             ],
-            "verbs": [
-              "Utforske",
-              "Dokumentere"
-            ]
+            "verbs": ["Utforske", "Dokumentere"]
           },
           {
             "code": "KM1660",
@@ -298,9 +280,7 @@
               "Demokratiforståing og deltaking",
               "Identitetsutvikling og fellesskap"
             ],
-            "verbs": [
-              "Presentere"
-            ]
+            "verbs": ["Presentere"]
           },
           {
             "code": "KM1661",
@@ -313,10 +293,7 @@
               "Samfunnskritisk tenking og samanhengar",
               "Demokratiforståing og deltaking"
             ],
-            "verbs": [
-              "Utforske",
-              "Samarbeide"
-            ]
+            "verbs": ["Utforske", "Samarbeide"]
           },
           {
             "code": "KM1662",
@@ -324,9 +301,7 @@
               "local": "samtale om muligheter og utfordringer ved digital samhandling",
               "en": "talk about the opportunities and challenges involved in digital interaction"
             },
-            "coreElements": [
-              "Identitetsutvikling og fellesskap"
-            ],
+            "coreElements": ["Identitetsutvikling og fellesskap"],
             "verbs": []
           },
           {
@@ -335,9 +310,7 @@
               "local": "samtale om følelser, kropp, kjønn og seksualitet og hvordan egne og andres grenser kan uttrykkes og respekteres",
               "en": "talk about emotions, bodies, gender and sexuality and how both one’s own and other peoples’ boundaries can be expressed and respected"
             },
-            "coreElements": [
-              "Identitetsutvikling og fellesskap"
-            ],
+            "coreElements": ["Identitetsutvikling og fellesskap"],
             "verbs": []
           },
           {
@@ -351,9 +324,7 @@
               "Berekraftige samfunn",
               "Identitetsutvikling og fellesskap"
             ],
-            "verbs": [
-              "Utforske"
-            ]
+            "verbs": ["Utforske"]
           }
         ]
       },
@@ -374,11 +345,7 @@
               "Undring og utforsking",
               "Samfunnskritisk tenking og samanhengar"
             ],
-            "verbs": [
-              "Utforske",
-              "Vurdere",
-              "Presentere"
-            ]
+            "verbs": ["Utforske", "Vurdere", "Presentere"]
           },
           {
             "code": "KM1668",
@@ -390,10 +357,7 @@
               "Samfunnskritisk tenking og samanhengar",
               "Identitetsutvikling og fellesskap"
             ],
-            "verbs": [
-              "Sammenligne",
-              "Utforske"
-            ]
+            "verbs": ["Sammenligne", "Utforske"]
           },
           {
             "code": "KM1671",
@@ -405,9 +369,7 @@
               "Samfunnskritisk tenking og samanhengar",
               "Berekraftige samfunn"
             ],
-            "verbs": [
-              "Beskrive"
-            ]
+            "verbs": ["Beskrive"]
           },
           {
             "code": "KM1673",
@@ -419,9 +381,7 @@
               "Demokratiforståing og deltaking",
               "Identitetsutvikling og fellesskap"
             ],
-            "verbs": [
-              "Samarbeide"
-            ]
+            "verbs": ["Samarbeide"]
           },
           {
             "code": "KM1669",
@@ -433,10 +393,7 @@
               "Demokratiforståing og deltaking",
               "Identitetsutvikling og fellesskap"
             ],
-            "verbs": [
-              "Reflektere",
-              "Presentere"
-            ]
+            "verbs": ["Reflektere", "Presentere"]
           },
           {
             "code": "KM1670",
@@ -449,10 +406,7 @@
               "Demokratiforståing og deltaking",
               "Identitetsutvikling og fellesskap"
             ],
-            "verbs": [
-              "Beskrive",
-              "Presentere"
-            ]
+            "verbs": ["Beskrive", "Presentere"]
           },
           {
             "code": "KM1678",
@@ -465,9 +419,7 @@
               "Samfunnskritisk tenking og samanhengar",
               "Berekraftige samfunn"
             ],
-            "verbs": [
-              "Utforske"
-            ]
+            "verbs": ["Utforske"]
           },
           {
             "code": "KM1679",
@@ -479,9 +431,7 @@
               "Samfunnskritisk tenking og samanhengar",
               "Identitetsutvikling og fellesskap"
             ],
-            "verbs": [
-              "Reflektere"
-            ]
+            "verbs": ["Reflektere"]
           },
           {
             "code": "KM1636",
@@ -493,9 +443,7 @@
               "Samfunnskritisk tenking og samanhengar",
               "Identitetsutvikling og fellesskap"
             ],
-            "verbs": [
-              "Reflektere"
-            ]
+            "verbs": ["Reflektere"]
           },
           {
             "code": "KM1674",
@@ -507,9 +455,7 @@
               "Undring og utforsking",
               "Identitetsutvikling og fellesskap"
             ],
-            "verbs": [
-              "Bruke"
-            ]
+            "verbs": ["Bruke"]
           },
           {
             "code": "KM1675",
@@ -517,9 +463,7 @@
               "local": "samtale om grenser knyttet til kropp, hva vold og seksuelle overgrep er, og hvor man kan få hjelp hvis man blir utsatt for vold og seksuelle overgrep",
               "en": "talk about the boundaries related to the body, what violence and sexual abuse is, and how to obtain help if one has been the victim of violence and sexual abuse"
             },
-            "coreElements": [
-              "Identitetsutvikling og fellesskap"
-            ],
+            "coreElements": ["Identitetsutvikling og fellesskap"],
             "verbs": []
           },
           {
@@ -533,10 +477,7 @@
               "Samfunnskritisk tenking og samanhengar",
               "Demokratiforståing og deltaking"
             ],
-            "verbs": [
-              "Utvikle",
-              "Reflektere"
-            ]
+            "verbs": ["Utvikle", "Reflektere"]
           },
           {
             "code": "KM1677",
@@ -549,9 +490,7 @@
               "Demokratiforståing og deltaking",
               "Identitetsutvikling og fellesskap"
             ],
-            "verbs": [
-              "Reflektere"
-            ]
+            "verbs": ["Reflektere"]
           }
         ]
       },
@@ -572,10 +511,7 @@
               "Undring og utforsking",
               "Samfunnskritisk tenking og samanhengar"
             ],
-            "verbs": [
-              "Gjennomføre",
-              "Presentere"
-            ]
+            "verbs": ["Gjennomføre", "Presentere"]
           },
           {
             "code": "KM1686",
@@ -587,10 +523,7 @@
               "Undring og utforsking",
               "Samfunnskritisk tenking og samanhengar"
             ],
-            "verbs": [
-              "Reflektere",
-              "Presentere"
-            ]
+            "verbs": ["Reflektere", "Presentere"]
           },
           {
             "code": "KM1685",
@@ -602,10 +535,7 @@
               "Undring og utforsking",
               "Samfunnskritisk tenking og samanhengar"
             ],
-            "verbs": [
-              "Sammenligne",
-              "Reflektere"
-            ]
+            "verbs": ["Sammenligne", "Reflektere"]
           },
           {
             "code": "KM1684",
@@ -619,9 +549,7 @@
               "Berekraftige samfunn",
               "Identitetsutvikling og fellesskap"
             ],
-            "verbs": [
-              "Utforske"
-            ]
+            "verbs": ["Utforske"]
           },
           {
             "code": "KM1687",
@@ -633,10 +561,7 @@
               "Samfunnskritisk tenking og samanhengar",
               "Berekraftige samfunn"
             ],
-            "verbs": [
-              "Reflektere",
-              "Beskrive"
-            ]
+            "verbs": ["Reflektere", "Beskrive"]
           },
           {
             "code": "KM1682",
@@ -649,10 +574,7 @@
               "Demokratiforståing og deltaking",
               "Identitetsutvikling og fellesskap"
             ],
-            "verbs": [
-              "Reflektere",
-              "Drøfte"
-            ]
+            "verbs": ["Reflektere", "Drøfte"]
           },
           {
             "code": "KM1696",
@@ -665,10 +587,7 @@
               "Demokratiforståing og deltaking",
               "Identitetsutvikling og fellesskap"
             ],
-            "verbs": [
-              "Utforske",
-              "Reflektere"
-            ]
+            "verbs": ["Utforske", "Reflektere"]
           },
           {
             "code": "KM1683",
@@ -682,10 +601,7 @@
               "Demokratiforståing og deltaking",
               "Identitetsutvikling og fellesskap"
             ],
-            "verbs": [
-              "Utvikle",
-              "Drøfte"
-            ]
+            "verbs": ["Utvikle", "Drøfte"]
           },
           {
             "code": "KM1688",
@@ -698,9 +614,7 @@
               "Demokratiforståing og deltaking",
               "Identitetsutvikling og fellesskap"
             ],
-            "verbs": [
-              "Sammenligne"
-            ]
+            "verbs": ["Sammenligne"]
           },
           {
             "code": "KM1689",
@@ -713,10 +627,7 @@
               "Demokratiforståing og deltaking",
               "Identitetsutvikling og fellesskap"
             ],
-            "verbs": [
-              "Utforske",
-              "Presentere"
-            ]
+            "verbs": ["Utforske", "Presentere"]
           },
           {
             "code": "KM1690",
@@ -728,9 +639,7 @@
               "Samfunnskritisk tenking og samanhengar",
               "Identitetsutvikling og fellesskap"
             ],
-            "verbs": [
-              "Reflektere"
-            ]
+            "verbs": ["Reflektere"]
           },
           {
             "code": "KM1691",
@@ -745,11 +654,7 @@
               "Berekraftige samfunn",
               "Identitetsutvikling og fellesskap"
             ],
-            "verbs": [
-              "Utforske",
-              "Utvikle",
-              "Presentere"
-            ]
+            "verbs": ["Utforske", "Utvikle", "Presentere"]
           },
           {
             "code": "KM1692",
@@ -757,14 +662,8 @@
               "local": "reflektere over hvordan egen og andre deltar i digital samhandling og drøfte hva det vil si å bruke dømmekraft, sett i lys av regler, normer og grenser",
               "en": "reflect on how one and other people participate in digital interaction, and discuss what it means to use one’s judgment in the light of rules, norms and boundaries"
             },
-            "coreElements": [
-              "Identitetsutvikling og fellesskap"
-            ],
-            "verbs": [
-              "Reflektere",
-              "Drøfte",
-              "Bruke"
-            ]
+            "coreElements": ["Identitetsutvikling og fellesskap"],
+            "verbs": ["Reflektere", "Drøfte", "Bruke"]
           },
           {
             "code": "KM1693",
@@ -772,13 +671,8 @@
               "local": "reflektere over variasjoner i identiteter, seksuell orientering og kjønnsuttrykk og egne og andres grenser knyttet til følelser, kropp, kjønn og seksualitet og drøfte hva man kan gjøre om grenser blir brutt",
               "en": "reflect on variations in identity, sexual orientation and gender expression, and one’s own and others’ boundaries in connection with emotions, the body, gender and sexuality and discuss what one can do if those boundaries are violated"
             },
-            "coreElements": [
-              "Identitetsutvikling og fellesskap"
-            ],
-            "verbs": [
-              "Reflektere",
-              "Drøfte"
-            ]
+            "coreElements": ["Identitetsutvikling og fellesskap"],
+            "verbs": ["Reflektere", "Drøfte"]
           },
           {
             "code": "KM1694",
@@ -790,10 +684,7 @@
               "Samfunnskritisk tenking og samanhengar",
               "Demokratiforståing og deltaking"
             ],
-            "verbs": [
-              "Sammenligne",
-              "Beskrive"
-            ]
+            "verbs": ["Sammenligne", "Beskrive"]
           },
           {
             "code": "KM1695",
@@ -805,9 +696,7 @@
               "Undring og utforsking",
               "Samfunnskritisk tenking og samanhengar"
             ],
-            "verbs": [
-              "Reflektere"
-            ]
+            "verbs": ["Reflektere"]
           },
           {
             "code": "KM1667",
@@ -821,9 +710,7 @@
               "Demokratiforståing og deltaking",
               "Identitetsutvikling og fellesskap"
             ],
-            "verbs": [
-              "Reflektere"
-            ]
+            "verbs": ["Reflektere"]
           }
         ]
       },
@@ -844,11 +731,7 @@
               "Undring og utforsking",
               "Samfunnskritisk tenking og samanhengar"
             ],
-            "verbs": [
-              "Drøfte",
-              "Bruke",
-              "Presentere"
-            ]
+            "verbs": ["Drøfte", "Bruke", "Presentere"]
           },
           {
             "code": "KM1637",
@@ -861,10 +744,7 @@
               "Samfunnskritisk tenking og samanhengar",
               "Demokratiforståing og deltaking"
             ],
-            "verbs": [
-              "Vurdere",
-              "Reflektere"
-            ]
+            "verbs": ["Vurdere", "Reflektere"]
           },
           {
             "code": "KM1664",
@@ -878,9 +758,7 @@
               "Demokratiforståing og deltaking",
               "Identitetsutvikling og fellesskap"
             ],
-            "verbs": [
-              "Drøfte"
-            ]
+            "verbs": ["Drøfte"]
           },
           {
             "code": "KM1638",
@@ -895,10 +773,7 @@
               "Berekraftige samfunn",
               "Identitetsutvikling og fellesskap"
             ],
-            "verbs": [
-              "Utforske",
-              "Drøfte"
-            ]
+            "verbs": ["Utforske", "Drøfte"]
           },
           {
             "code": "KM1650",
@@ -911,9 +786,7 @@
               "Demokratiforståing og deltaking",
               "Berekraftige samfunn"
             ],
-            "verbs": [
-              "Reflektere"
-            ]
+            "verbs": ["Reflektere"]
           },
           {
             "code": "KM1640",
@@ -925,9 +798,7 @@
               "Samfunnskritisk tenking og samanhengar",
               "Berekraftige samfunn"
             ],
-            "verbs": [
-              "Sammenligne"
-            ]
+            "verbs": ["Sammenligne"]
           },
           {
             "code": "KM1665",
@@ -940,10 +811,7 @@
               "Demokratiforståing og deltaking",
               "Berekraftige samfunn"
             ],
-            "verbs": [
-              "Reflektere",
-              "Gjøre rede for"
-            ]
+            "verbs": ["Reflektere", "Gjøre rede for"]
           },
           {
             "code": "KM1641",
@@ -956,10 +824,7 @@
               "Demokratiforståing og deltaking",
               "Identitetsutvikling og fellesskap"
             ],
-            "verbs": [
-              "Reflektere",
-              "Gjøre rede for"
-            ]
+            "verbs": ["Reflektere", "Gjøre rede for"]
           },
           {
             "code": "KM1639",
@@ -974,10 +839,7 @@
               "Berekraftige samfunn",
               "Identitetsutvikling og fellesskap"
             ],
-            "verbs": [
-              "Utforske",
-              "Beskrive"
-            ]
+            "verbs": ["Utforske", "Beskrive"]
           },
           {
             "code": "KM1642",
@@ -990,10 +852,7 @@
               "Demokratiforståing og deltaking",
               "Identitetsutvikling og fellesskap"
             ],
-            "verbs": [
-              "Reflektere",
-              "Gjøre rede for"
-            ]
+            "verbs": ["Reflektere", "Gjøre rede for"]
           },
           {
             "code": "KM1644",
@@ -1006,10 +865,7 @@
               "Samfunnskritisk tenking og samanhengar",
               "Berekraftige samfunn"
             ],
-            "verbs": [
-              "Beskrive",
-              "Presentere"
-            ]
+            "verbs": ["Beskrive", "Presentere"]
           },
           {
             "code": "KM1646",
@@ -1021,9 +877,7 @@
               "Berekraftige samfunn",
               "Identitetsutvikling og fellesskap"
             ],
-            "verbs": [
-              "Vurdere"
-            ]
+            "verbs": ["Vurdere"]
           },
           {
             "code": "KM1643",
@@ -1035,10 +889,7 @@
               "Samfunnskritisk tenking og samanhengar",
               "Identitetsutvikling og fellesskap"
             ],
-            "verbs": [
-              "Reflektere",
-              "Drøfte"
-            ]
+            "verbs": ["Reflektere", "Drøfte"]
           },
           {
             "code": "KM1645",
@@ -1046,13 +897,8 @@
               "local": "utforske og reflektere over egne digitale spor og muligheten for å få slettet sporene og verne om egen og andres rett til privatliv, personvern og opphavsrett",
               "en": "explore and reflect on one’s own digital footprint and the possibility of deleting one’s digital trail and the value of one’s own and others’ right to privacy, data protection and copyright"
             },
-            "coreElements": [
-              "Identitetsutvikling og fellesskap"
-            ],
-            "verbs": [
-              "Utforske",
-              "Reflektere"
-            ]
+            "coreElements": ["Identitetsutvikling og fellesskap"],
+            "verbs": ["Utforske", "Reflektere"]
           },
           {
             "code": "KM1647",
@@ -1060,13 +906,8 @@
               "local": "reflektere over hvordan identitet, selvbilde og egne grenser utvikles og utfordres i ulike fellesskap, og presentere forslag til hvordan man kan håndtere påvirkning og uønskede hendelser",
               "en": "reflect on how identity, self-image and one’s own boundaries are developed and challenged in different environments, and present proposals for how one might deal with influence and unwanted events"
             },
-            "coreElements": [
-              "Identitetsutvikling og fellesskap"
-            ],
-            "verbs": [
-              "Reflektere",
-              "Presentere"
-            ]
+            "coreElements": ["Identitetsutvikling og fellesskap"],
+            "verbs": ["Reflektere", "Presentere"]
           },
           {
             "code": "KM1648",
@@ -1078,9 +919,7 @@
               "Samfunnskritisk tenking og samanhengar",
               "Demokratiforståing og deltaking"
             ],
-            "verbs": [
-              "Reflektere"
-            ]
+            "verbs": ["Reflektere"]
           },
           {
             "code": "KM1649",
@@ -1092,10 +931,7 @@
               "Demokratiforståing og deltaking",
               "Identitetsutvikling og fellesskap"
             ],
-            "verbs": [
-              "Utforske",
-              "Reflektere"
-            ]
+            "verbs": ["Utforske", "Reflektere"]
           },
           {
             "code": "KM1651",
@@ -1108,10 +944,7 @@
               "Samfunnskritisk tenking og samanhengar",
               "Identitetsutvikling og fellesskap"
             ],
-            "verbs": [
-              "Drøfte",
-              "Beskrive"
-            ]
+            "verbs": ["Drøfte", "Beskrive"]
           },
           {
             "code": "KM1652",
@@ -1123,10 +956,7 @@
               "Undring og utforsking",
               "Demokratiforståing og deltaking"
             ],
-            "verbs": [
-              "Reflektere",
-              "Beskrive"
-            ]
+            "verbs": ["Reflektere", "Beskrive"]
           }
         ],
         "assessment": [

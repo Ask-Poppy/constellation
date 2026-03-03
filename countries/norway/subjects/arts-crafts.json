@@ -168,12 +168,8 @@
               "local": "bruke håndverksteknikker og håndverktøy i utforming av tre, leire og tekstil på en miljøbevisst og trygg måte",
               "en": "use craft techniques and hand tools for shaping wood, clay and textiles in a safe and environmentally friend way"
             },
-            "coreElements": [
-              "Håndverksferdigheter"
-            ],
-            "verbs": [
-              "Bruke"
-            ]
+            "coreElements": ["Håndverksferdigheter"],
+            "verbs": ["Bruke"]
           },
           {
             "code": "KM1809",
@@ -199,9 +195,7 @@
               "Visuell kommunikasjon",
               "Kulturforståelse"
             ],
-            "verbs": [
-              "Utforske"
-            ]
+            "verbs": ["Utforske"]
           },
           {
             "code": "KM1811",
@@ -251,9 +245,7 @@
               "Visuell kommunikasjon",
               "Kulturforståelse"
             ],
-            "verbs": [
-              "Beskrive"
-            ]
+            "verbs": ["Beskrive"]
           },
           {
             "code": "KM1813",
@@ -266,9 +258,7 @@
               "Kunst- og designprosesser",
               "Kulturforståelse"
             ],
-            "verbs": [
-              "Planlegge"
-            ]
+            "verbs": ["Planlegge"]
           },
           {
             "code": "KM1814",
@@ -280,9 +270,7 @@
               "Kunst- og designprosesser",
               "Visuell kommunikasjon"
             ],
-            "verbs": [
-              "Presentere"
-            ]
+            "verbs": ["Presentere"]
           }
         ]
       },
@@ -299,12 +287,8 @@
               "local": "bruke håndverktøy og sammenføyningsteknikker i tre, leire og tekstil på en miljøbevisst og trygg måte",
               "en": "use hand tools and joining techniques for wood, clay and textiles in a safe and environmentally friendly way"
             },
-            "coreElements": [
-              "Håndverksferdigheter"
-            ],
-            "verbs": [
-              "Bruke"
-            ]
+            "coreElements": ["Håndverksferdigheter"],
+            "verbs": ["Bruke"]
           },
           {
             "code": "KM1820",
@@ -331,10 +315,7 @@
               "Kunst- og designprosesser",
               "Kulturforståelse"
             ],
-            "verbs": [
-              "Utforske",
-              "Gjennomføre"
-            ]
+            "verbs": ["Utforske", "Gjennomføre"]
           },
           {
             "code": "KM1819",
@@ -347,9 +328,7 @@
               "Kunst- og designprosesser",
               "Kulturforståelse"
             ],
-            "verbs": [
-              "Bruke"
-            ]
+            "verbs": ["Bruke"]
           },
           {
             "code": "KM1821",
@@ -375,10 +354,7 @@
               "Visuell kommunikasjon",
               "Kulturforståelse"
             ],
-            "verbs": [
-              "Tolke",
-              "Bruke"
-            ]
+            "verbs": ["Tolke", "Bruke"]
           },
           {
             "code": "KM1823",
@@ -402,9 +378,7 @@
               "Kunst- og designprosesser",
               "Visuell kommunikasjon"
             ],
-            "verbs": [
-              "Bruke"
-            ]
+            "verbs": ["Bruke"]
           },
           {
             "code": "KM1825",
@@ -417,9 +391,7 @@
               "Visuell kommunikasjon",
               "Kulturforståelse"
             ],
-            "verbs": [
-              "Utforske"
-            ]
+            "verbs": ["Utforske"]
           },
           {
             "code": "KM1826",
@@ -448,12 +420,8 @@
               "local": "bruke ulike håndverktøy og elektriske verktøy for å bearbeide og sammenføye harde, plastiske og myke materialer på en trygg og miljøbevisst måte",
               "en": "use various hand and electric tools to treat and join hard, plastic and soft materials in a safe and environmentally friendly way"
             },
-            "coreElements": [
-              "Håndverksferdigheter"
-            ],
-            "verbs": [
-              "Bruke"
-            ]
+            "coreElements": ["Håndverksferdigheter"],
+            "verbs": ["Bruke"]
           },
           {
             "code": "KM1807",
@@ -465,9 +433,7 @@
               "Håndverksferdigheter",
               "Kunst- og designprosesser"
             ],
-            "verbs": [
-              "Vurdere"
-            ]
+            "verbs": ["Vurdere"]
           },
           {
             "code": "KM1806",
@@ -491,9 +457,7 @@
               "Kunst- og designprosesser",
               "Visuell kommunikasjon"
             ],
-            "verbs": [
-              "Bruke"
-            ]
+            "verbs": ["Bruke"]
           },
           {
             "code": "KM1805",
@@ -505,11 +469,7 @@
               "Kunst- og designprosesser",
               "Visuell kommunikasjon"
             ],
-            "verbs": [
-              "Planlegge",
-              "Bruke",
-              "Presentere"
-            ]
+            "verbs": ["Planlegge", "Bruke", "Presentere"]
           },
           {
             "code": "KM1789",
@@ -535,11 +495,7 @@
               "Visuell kommunikasjon",
               "Kulturforståelse"
             ],
-            "verbs": [
-              "Utforske",
-              "Reflektere",
-              "Bruke"
-            ]
+            "verbs": ["Utforske", "Reflektere", "Bruke"]
           },
           {
             "code": "KM1791",
@@ -552,9 +508,7 @@
               "Visuell kommunikasjon",
               "Kulturforståelse"
             ],
-            "verbs": [
-              "Analysere"
-            ]
+            "verbs": ["Analysere"]
           },
           {
             "code": "KM1792",
@@ -568,9 +522,7 @@
               "Visuell kommunikasjon",
               "Kulturforståelse"
             ],
-            "verbs": [
-              "Beskrive"
-            ]
+            "verbs": ["Beskrive"]
           },
           {
             "code": "KM1793",
@@ -595,9 +547,7 @@
               "Kunst- og designprosesser",
               "Visuell kommunikasjon"
             ],
-            "verbs": [
-              "Bruke"
-            ]
+            "verbs": ["Bruke"]
           },
           {
             "code": "KM1795",
@@ -626,12 +576,8 @@
               "local": "utforske muligheter innenfor håndverksteknikker og egnet teknologi ved å bearbeide og sammenføye harde, plastiske og myke materialer.",
               "en": "explore the possibilities of craft techniques and appropriate technology by treating and joining hard, plastic and soft materials"
             },
-            "coreElements": [
-              "Håndverksferdigheter"
-            ],
-            "verbs": [
-              "Utforske"
-            ]
+            "coreElements": ["Håndverksferdigheter"],
+            "verbs": ["Utforske"]
           },
           {
             "code": "KM1797",
@@ -643,10 +589,7 @@
               "Håndverksferdigheter",
               "Kunst- og designprosesser"
             ],
-            "verbs": [
-              "Vurdere",
-              "Bruke"
-            ]
+            "verbs": ["Vurdere", "Bruke"]
           },
           {
             "code": "KM1798",
@@ -658,10 +601,7 @@
               "Kunst- og designprosesser",
               "Visuell kommunikasjon"
             ],
-            "verbs": [
-              "Utvikle",
-              "Vurdere"
-            ]
+            "verbs": ["Utvikle", "Vurdere"]
           },
           {
             "code": "KM1799",
@@ -673,9 +613,7 @@
               "Håndverksferdigheter",
               "Kunst- og designprosesser"
             ],
-            "verbs": [
-              "Utforske"
-            ]
+            "verbs": ["Utforske"]
           },
           {
             "code": "KM1800",
@@ -702,9 +640,7 @@
               "Visuell kommunikasjon",
               "Kulturforståelse"
             ],
-            "verbs": [
-              "Analysere"
-            ]
+            "verbs": ["Analysere"]
           },
           {
             "code": "KM1803",
@@ -729,9 +665,7 @@
               "Kunst- og designprosesser",
               "Visuell kommunikasjon"
             ],
-            "verbs": [
-              "Reflektere"
-            ]
+            "verbs": ["Reflektere"]
           },
           {
             "code": "KM1817",
@@ -755,10 +689,7 @@
               "Kunst- og designprosesser",
               "Visuell kommunikasjon"
             ],
-            "verbs": [
-              "Utforske",
-              "Presentere"
-            ]
+            "verbs": ["Utforske", "Presentere"]
           }
         ]
       }

@@ -180,13 +180,8 @@
               "local": "Gemensam och enskild läsning. Sambandet mellan ljud och bokstav. Stra­te­gier för att avkoda, förstå och tolka ord, begrepp och texter.",
               "en": "Shared and independent reading. The relationship between sounds and letters. Strategies for decoding, understanding and interpreting words, concepts and texts."
             },
-            "coreElements": [
-              "Läsa och skriva"
-            ],
-            "verbs": [
-              "Förstå",
-              "Tolka"
-            ]
+            "coreElements": ["Läsa och skriva"],
+            "verbs": ["Förstå", "Tolka"]
           },
           {
             "code": "SV-1-3-2",
@@ -194,14 +189,8 @@
               "local": "Att återge delar av innehållet i olika texter samt resonera om budskap i tex­terna och jämföra med egna erfarenheter.",
               "en": "Retelling parts of the content of various texts, and reasoning about messages in the texts and comparing with one's own experiences."
             },
-            "coreElements": [
-              "Läsa och skriva"
-            ],
-            "verbs": [
-              "Föra",
-              "Jämföra",
-              "Resonera"
-            ]
+            "coreElements": ["Läsa och skriva"],
+            "verbs": ["Föra", "Jämföra", "Resonera"]
           },
           {
             "code": "SV-1-3-3",
@@ -209,12 +198,8 @@
               "local": "Gemensamt och enskilt skrivande. Strategier för att skriva ord, meningar och olika typer av texter med anpassning till deras uppbyggnad och språk­li­ga drag. Skapande av texter där ord och bild samspelar, såväl med som utan digitala verktyg.",
               "en": "Shared and independent writing. Strategies for writing words, sentences and different types of texts adapted to their structure and linguistic features. Creating texts where words and images interact, both with and without digital tools."
             },
-            "coreElements": [
-              "Läsa och skriva"
-            ],
-            "verbs": [
-              "Skapa"
-            ]
+            "coreElements": ["Läsa och skriva"],
+            "verbs": ["Skapa"]
           },
           {
             "code": "SV-1-3-4",
@@ -222,9 +207,7 @@
               "local": "Grundläggande textbearbetning.",
               "en": "Basic text editing."
             },
-            "coreElements": [
-              "Läsa och skriva"
-            ],
+            "coreElements": ["Läsa och skriva"],
             "verbs": []
           },
           {
@@ -233,9 +216,7 @@
               "local": "Handstil och att skriva med digitala verktyg.",
               "en": "Handwriting and writing with digital tools."
             },
-            "coreElements": [
-              "Läsa och skriva"
-            ],
+            "coreElements": ["Läsa och skriva"],
             "verbs": []
           },
           {
@@ -244,9 +225,7 @@
               "local": "Språkliga strukturer och normer. Grundläggande skrivregler, med gemener och versaler, de vanligaste skiljetecknen samt stavning av vanligt före­kom­man­de ord i elevnära texter.",
               "en": "Linguistic structures and norms. Basic writing conventions, including lower and upper case letters, the most common punctuation marks, and spelling of commonly occurring words in texts close to the pupils' experience."
             },
-            "coreElements": [
-              "Läsa och skriva"
-            ],
+            "coreElements": ["Läsa och skriva"],
             "verbs": []
           },
           {
@@ -255,9 +234,7 @@
               "local": "Alfabetet och alfabetisk ordning.",
               "en": "The alphabet and alphabetical order."
             },
-            "coreElements": [
-              "Läsa och skriva"
-            ],
+            "coreElements": ["Läsa och skriva"],
             "verbs": []
           },
           {
@@ -266,12 +243,8 @@
               "local": "Strukturerade samtal. Att berätta om vardagliga händelser samt att uttrycka kän­slor, kunskaper och åsikter. Att lyssna, ställa frågor och ge kom­men­tarer.",
               "en": "Structured conversations. Telling about everyday events and expressing feelings, knowledge and opinions. Listening, asking questions and giving comments."
             },
-            "coreElements": [
-              "Tala, lyssna och samtala"
-            ],
-            "verbs": [
-              "Uttrycka"
-            ]
+            "coreElements": ["Tala, lyssna och samtala"],
+            "verbs": ["Uttrycka"]
           },
           {
             "code": "SV-1-3-9",
@@ -279,9 +252,7 @@
               "local": "Att lyssna aktivt och återberätta viktiga delar av ett innehåll.",
               "en": "Listening actively and retelling important parts of content."
             },
-            "coreElements": [
-              "Tala, lyssna och samtala"
-            ],
+            "coreElements": ["Tala, lyssna och samtala"],
             "verbs": []
           },
           {
@@ -290,9 +261,7 @@
               "local": "Att ge och ta emot muntliga instruktioner.",
               "en": "Giving and receiving oral instructions."
             },
-            "coreElements": [
-              "Tala, lyssna och samtala"
-            ],
+            "coreElements": ["Tala, lyssna och samtala"],
             "verbs": []
           },
           {
@@ -301,9 +270,7 @@
               "local": "Muntliga presentationer och muntligt berättande. Föremål, bilder, digitala me­dier och verktyg samt andra hjälpmedel som kan stödja presentationer.",
               "en": "Oral presentations and oral storytelling. Objects, pictures, digital media and tools, and other aids that can support presentations."
             },
-            "coreElements": [
-              "Tala, lyssna och samtala"
-            ],
+            "coreElements": ["Tala, lyssna och samtala"],
             "verbs": []
           },
           {
@@ -312,9 +279,7 @@
               "local": "Skönlitteratur för barn från olika tider och skilda delar av världen. Sånger, munt­ligt berättande, bilderböcker, kapitelböcker, lyrik, dramatik, sagor och my­ter. Texter som belyser människors upplevelser och erfarenheter.",
               "en": "Fiction for children from different times and various parts of the world. Songs, oral storytelling, picture books, chapter books, poetry, drama, fairy tales and myths. Texts that illuminate people's experiences."
             },
-            "coreElements": [
-              "Texter"
-            ],
+            "coreElements": ["Texter"],
             "verbs": []
           },
           {
@@ -323,9 +288,7 @@
               "local": "Berättande texters budskap, uppbyggnad och innehåll. Hur en berättande text kan organiseras med inledning, händelseförlopp och avslutning samt person­beskrivningar.",
               "en": "The message, structure and content of narrative texts. How a narrative text can be organised with an introduction, sequence of events and conclusion, as well as character descriptions."
             },
-            "coreElements": [
-              "Texter"
-            ],
+            "coreElements": ["Texter"],
             "verbs": []
           },
           {
@@ -334,9 +297,7 @@
               "local": "Några skönlitterärt betydelsefulla barnboksförfattare och illustratörer.",
               "en": "Some significant children's book authors and illustrators."
             },
-            "coreElements": [
-              "Texter"
-            ],
+            "coreElements": ["Texter"],
             "verbs": []
           },
           {
@@ -345,13 +306,8 @@
               "local": "Sakprosatexter för barn. Beskrivande, förklarande och instruerande texter och hur deras innehåll kan organiseras.",
               "en": "Non-fiction texts for children. Descriptive, explanatory and instructional texts and how their content can be organised."
             },
-            "coreElements": [
-              "Texter"
-            ],
-            "verbs": [
-              "Beskriva",
-              "Förklara"
-            ]
+            "coreElements": ["Texter"],
+            "verbs": ["Beskriva", "Förklara"]
           },
           {
             "code": "SV-1-3-16",
@@ -359,9 +315,7 @@
               "local": "Texter som kombinerar ord och bild samt texter i digitala miljöer för barn.",
               "en": "Texts that combine words and images, and texts in digital environments for children."
             },
-            "coreElements": [
-              "Texter"
-            ],
+            "coreElements": ["Texter"],
             "verbs": []
           },
           {
@@ -370,9 +324,7 @@
               "local": "Språkliga strategier för att minnas och lära, till exempel grafiska modeller.",
               "en": "Linguistic strategies for remembering and learning, for example graphic models."
             },
-            "coreElements": [
-              "Språkbruk"
-            ],
+            "coreElements": ["Språkbruk"],
             "verbs": []
           },
           {
@@ -381,12 +333,8 @@
               "local": "Ord och begrepp för att på ett varierat sätt uttrycka känslor, kunskaper och åsik­ter.",
               "en": "Words and concepts for expressing feelings, knowledge and opinions in a varied way."
             },
-            "coreElements": [
-              "Språkbruk"
-            ],
-            "verbs": [
-              "Uttrycka"
-            ]
+            "coreElements": ["Språkbruk"],
+            "verbs": ["Uttrycka"]
           },
           {
             "code": "SV-1-3-19",
@@ -394,9 +342,7 @@
               "local": "Hur ord och yttranden uppfattas av omgivningen beroende på kroppsspråk, ton­fall och ords nyanser. Språkbruk samt möjligheter och risker vid egen kommu­nikation i digitala medier.",
               "en": "How words and utterances are perceived by others depending on body language, tone of voice and the nuances of words. Language use and the opportunities and risks of personal communication in digital media."
             },
-            "coreElements": [
-              "Språkbruk"
-            ],
+            "coreElements": ["Språkbruk"],
             "verbs": []
           },
           {
@@ -405,9 +351,7 @@
               "local": "Skillnader mellan tal- och skriftspråk.",
               "en": "Differences between spoken and written language."
             },
-            "coreElements": [
-              "Språkbruk"
-            ],
+            "coreElements": ["Språkbruk"],
             "verbs": []
           },
           {
@@ -416,9 +360,7 @@
               "local": "Informationssökning i böcker, tidskrifter och på webbplatser för barn samt i söktjänster på internet.",
               "en": "Searching for information in books, magazines and on websites for children, and in internet search engines."
             },
-            "coreElements": [
-              "Informationssökning och källkritik"
-            ],
+            "coreElements": ["Informationssökning och källkritik"],
             "verbs": []
           },
           {
@@ -427,9 +369,7 @@
               "local": "Hur texters avsändare påverkar innehållet.",
               "en": "How the sender of a text influences its content."
             },
-            "coreElements": [
-              "Informationssökning och källkritik"
-            ],
+            "coreElements": ["Informationssökning och källkritik"],
             "verbs": []
           }
         ],
@@ -456,13 +396,8 @@
               "local": "Gemensam och enskild läsning. Strategier för att förstå och tolka ord, be­grepp och texter från olika medier. Att urskilja texters budskap, både det direkt uttalade och sådant som är indirekt uttryckt.",
               "en": "Shared and independent reading. Strategies for understanding and interpreting words, concepts and texts from different media. Identifying the messages of texts, both those directly stated and those indirectly expressed."
             },
-            "coreElements": [
-              "Läsa och skriva"
-            ],
-            "verbs": [
-              "Förstå",
-              "Tolka"
-            ]
+            "coreElements": ["Läsa och skriva"],
+            "verbs": ["Förstå", "Tolka"]
           },
           {
             "code": "SV-4-6-2",
@@ -470,9 +405,7 @@
               "local": "Sammanfattning av texter.",
               "en": "Summarising texts."
             },
-            "coreElements": [
-              "Läsa och skriva"
-            ],
+            "coreElements": ["Läsa och skriva"],
             "verbs": []
           },
           {
@@ -481,9 +414,7 @@
               "local": "Resonemang om texter med koppling till sammanhang inom och utanför tex­ten samt till den egna läsupplevelsen.",
               "en": "Reasoning about texts in relation to contexts within and outside the text, and to one's own reading experience."
             },
-            "coreElements": [
-              "Läsa och skriva"
-            ],
+            "coreElements": ["Läsa och skriva"],
             "verbs": []
           },
           {
@@ -492,12 +423,8 @@
               "local": "Gemensamt och enskilt skrivande. Strategier för att skriva olika typer av tex­ter med anpassning till deras uppbyggnad och språkliga drag. Skapande av texter där ord, bild och ljud samspelar, såväl med som utan digitala verk­tyg.",
               "en": "Shared and independent writing. Strategies for writing different types of texts adapted to their structure and linguistic features. Creating texts where words, images and sound interact, both with and without digital tools."
             },
-            "coreElements": [
-              "Läsa och skriva"
-            ],
-            "verbs": [
-              "Skapa"
-            ]
+            "coreElements": ["Läsa och skriva"],
+            "verbs": ["Skapa"]
           },
           {
             "code": "SV-4-6-5",
@@ -505,9 +432,7 @@
               "local": "Bearbetning av egna och gemensamma texter till innehåll och form. Att ge och ta emot respons på texter.",
               "en": "Revising one's own and shared texts in terms of content and form. Giving and receiving feedback on texts."
             },
-            "coreElements": [
-              "Läsa och skriva"
-            ],
+            "coreElements": ["Läsa och skriva"],
             "verbs": []
           },
           {
@@ -516,9 +441,7 @@
               "local": "Handstil och att skriva med digitala verktyg.",
               "en": "Handwriting and writing with digital tools."
             },
-            "coreElements": [
-              "Läsa och skriva"
-            ],
+            "coreElements": ["Läsa och skriva"],
             "verbs": []
           },
           {
@@ -527,9 +450,7 @@
               "local": "Språkliga strukturer och normer. Meningsbyggnad, med huvudsatser, bisat­ser och skiljetecken samt textbindning med hjälp av sambandsord. Stav­ning, ords böjningsformer och ordklasser.",
               "en": "Linguistic structures and norms. Sentence construction, including main clauses, subordinate clauses and punctuation, and text cohesion using connectives. Spelling, inflectional forms of words and word classes."
             },
-            "coreElements": [
-              "Läsa och skriva"
-            ],
+            "coreElements": ["Läsa och skriva"],
             "verbs": []
           },
           {
@@ -538,12 +459,8 @@
               "local": "Ordböcker och digitala verktyg för stavning och ordförståelse.",
               "en": "Dictionaries and digital tools for spelling and word comprehension."
             },
-            "coreElements": [
-              "Läsa och skriva"
-            ],
-            "verbs": [
-              "Förstå"
-            ]
+            "coreElements": ["Läsa och skriva"],
+            "verbs": ["Förstå"]
           },
           {
             "code": "SV-4-6-9",
@@ -551,14 +468,8 @@
               "local": "Olika former av samtal. Att lyssna aktivt, ställa frågor, uttrycka tankar och kän­s­lor samt resonera och argumentera i olika samtalssituationer och i sam­band med demokratiska beslutsprocesser.",
               "en": "Different forms of conversation. Listening actively, asking questions, expressing thoughts and feelings, and reasoning and arguing in various conversational situations and in connection with democratic decision-making processes."
             },
-            "coreElements": [
-              "Tala, lyssna och samtala"
-            ],
-            "verbs": [
-              "Argumentera",
-              "Resonera",
-              "Uttrycka"
-            ]
+            "coreElements": ["Tala, lyssna och samtala"],
+            "verbs": ["Argumentera", "Resonera", "Uttrycka"]
           },
           {
             "code": "SV-4-6-10",
@@ -566,13 +477,8 @@
               "local": "Muntliga presentationer och muntligt berättande för olika mottagare. Dispo­sition med inledning, innehåll och avslutning. Stödord, bilder, digi­tala medier och verktyg samt andra hjälpmedel för att planera och genom­föra en muntlig presentation. Hur gester och kroppsspråk kan påverka en pre­sen­tation.",
               "en": "Oral presentations and oral storytelling for different audiences. Structure with introduction, content and conclusion. Keywords, pictures, digital media and tools, and other aids for planning and delivering an oral presentation. How gestures and body language can influence a presentation."
             },
-            "coreElements": [
-              "Tala, lyssna och samtala"
-            ],
-            "verbs": [
-              "Föra",
-              "Planera"
-            ]
+            "coreElements": ["Tala, lyssna och samtala"],
+            "verbs": ["Föra", "Planera"]
           },
           {
             "code": "SV-4-6-11",
@@ -580,9 +486,7 @@
               "local": "Skönlitteratur för barn och unga från olika tider, från Sverige, Norden och öv­ri­ga världen. Lyrik, dramatik, sagor och myter. Texter som belyser männi­skors villkor och identitets- och livsfrågor.",
               "en": "Fiction for children and young people from different times, from Sweden, the Nordic countries and the rest of the world. Poetry, drama, fairy tales and myths. Texts that illuminate people's conditions and questions of identity and life."
             },
-            "coreElements": [
-              "Texter"
-            ],
+            "coreElements": ["Texter"],
             "verbs": []
           },
           {
@@ -591,9 +495,7 @@
               "local": "Berättande texters budskap, språkliga drag och uppbyggnad. Till­baka­blickar, miljö- och personbeskrivningar samt dialoger.",
               "en": "The message, linguistic features and structure of narrative texts. Flashbacks, setting and character descriptions, and dialogues."
             },
-            "coreElements": [
-              "Texter"
-            ],
+            "coreElements": ["Texter"],
             "verbs": []
           },
           {
@@ -602,9 +504,7 @@
               "local": "Några skönlitterärt betydelsefulla barn- och ungdomsboksförfattare och deras verk.",
               "en": "Some significant children's and young adult authors and their works."
             },
-            "coreElements": [
-              "Texter"
-            ],
+            "coreElements": ["Texter"],
             "verbs": []
           },
           {
@@ -613,14 +513,8 @@
               "local": "Sakprosatexter för barn och unga. Beskrivande, förklarande, instruerande och argumenterande texter. Texternas innehåll, uppbyggnad och typiska språk­liga drag.",
               "en": "Non-fiction texts for children and young people. Descriptive, explanatory, instructional and argumentative texts. The content, structure and typical linguistic features of the texts."
             },
-            "coreElements": [
-              "Texter"
-            ],
-            "verbs": [
-              "Argumentera",
-              "Beskriva",
-              "Förklara"
-            ]
+            "coreElements": ["Texter"],
+            "verbs": ["Argumentera", "Beskriva", "Förklara"]
           },
           {
             "code": "SV-4-6-15",
@@ -628,9 +522,7 @@
               "local": "Texter som kombinerar ord, bild och ljud samt texter i digitala miljöer. Tex­ter­nas innehåll, uppbyggnad och typiska språkliga drag.",
               "en": "Texts that combine words, images and sound, and texts in digital environments. The content, structure and typical linguistic features of the texts."
             },
-            "coreElements": [
-              "Texter"
-            ],
+            "coreElements": ["Texter"],
             "verbs": []
           },
           {
@@ -639,9 +531,7 @@
               "local": "Språkliga strategier för att minnas och lära, till exempel grafiska modeller och stödord.",
               "en": "Linguistic strategies for remembering and learning, for example graphic models and keywords."
             },
-            "coreElements": [
-              "Språkbruk"
-            ],
+            "coreElements": ["Språkbruk"],
             "verbs": []
           },
           {
@@ -650,12 +540,8 @@
               "local": "Ord och begrepp för att på ett varierat sätt uttrycka känslor, kunskaper och åsik­ter. Ords och begrepps nyanser och värdeladdning.",
               "en": "Words and concepts for expressing feelings, knowledge and opinions in a varied way. The nuances and connotations of words and concepts."
             },
-            "coreElements": [
-              "Språkbruk"
-            ],
-            "verbs": [
-              "Uttrycka"
-            ]
+            "coreElements": ["Språkbruk"],
+            "verbs": ["Uttrycka"]
           },
           {
             "code": "SV-4-6-18",
@@ -663,9 +549,7 @@
               "local": "Formellt och informellt språk. Skillnader i språkanvändning beroende på motta­gare, syfte och sammanhang. Ansvarsfullt agerande vid kom­mu­nika­tion i digitala och andra medier.",
               "en": "Formal and informal language. Differences in language use depending on audience, purpose and context. Responsible behaviour in communication in digital and other media."
             },
-            "coreElements": [
-              "Språkbruk"
-            ],
+            "coreElements": ["Språkbruk"],
             "verbs": []
           },
           {
@@ -674,9 +558,7 @@
               "local": "Språkbruk i Sverige och Norden. Några svenska dialekter. De nordiska grann­språken. De nationella minoritetsspråken i Sverige.",
               "en": "Language use in Sweden and the Nordic countries. Some Swedish dialects. The Nordic neighbouring languages. The national minority languages in Sweden."
             },
-            "coreElements": [
-              "Språkbruk"
-            ],
+            "coreElements": ["Språkbruk"],
             "verbs": []
           },
           {
@@ -685,9 +567,7 @@
               "local": "Informationssökning i några olika medier och källor, till exempel i upp­slags­böcker, genom intervjuer och i söktjänster på internet.",
               "en": "Searching for information in various media and sources, for example in encyclopaedias, through interviews and in internet search engines."
             },
-            "coreElements": [
-              "Informationssökning och källkritik"
-            ],
+            "coreElements": ["Informationssökning och källkritik"],
             "verbs": []
           },
           {
@@ -696,12 +576,8 @@
               "local": "Hur man jämför källor och prövar deras tillförlitlighet med ett källkritiskt för­hållningssätt.",
               "en": "How to compare sources and assess their reliability with a source-critical approach."
             },
-            "coreElements": [
-              "Informationssökning och källkritik"
-            ],
-            "verbs": [
-              "Pröva"
-            ]
+            "coreElements": ["Informationssökning och källkritik"],
+            "verbs": ["Pröva"]
           }
         ],
         "knowledgeCriteria": [
@@ -755,14 +631,8 @@
               "local": "Gemensam och enskild läsning. Strategier för att förstå, tolka och analysera tex­ter från olika medier. Att urskilja texters budskap, tema och motiv samt deras syfte, avsändare och sammanhang. Att urskilja innehåll som kan vara direkt uttalat eller indirekt uttryckt i texten.",
               "en": "Shared and independent reading. Strategies for understanding, interpreting and analysing texts from different media. Identifying the messages, themes and motifs of texts, as well as their purpose, sender and context. Identifying content that may be directly stated or indirectly expressed in the text."
             },
-            "coreElements": [
-              "Läsa och skriva"
-            ],
-            "verbs": [
-              "Analysera",
-              "Förstå",
-              "Tolka"
-            ]
+            "coreElements": ["Läsa och skriva"],
+            "verbs": ["Analysera", "Förstå", "Tolka"]
           },
           {
             "code": "SV-7-9-2",
@@ -770,9 +640,7 @@
               "local": "Sammanfattning av texter.",
               "en": "Summarising texts."
             },
-            "coreElements": [
-              "Läsa och skriva"
-            ],
+            "coreElements": ["Läsa och skriva"],
             "verbs": []
           },
           {
@@ -781,9 +649,7 @@
               "local": "Analys av texter med koppling till upphovsperson, tid och andra texter samt utifrån egna erfarenheter, olika livsfrågor och omvärldsfrågor.",
               "en": "Analysis of texts in relation to their author, time period and other texts, and based on one's own experiences, various life questions and global issues."
             },
-            "coreElements": [
-              "Läsa och skriva"
-            ],
+            "coreElements": ["Läsa och skriva"],
             "verbs": []
           },
           {
@@ -792,12 +658,8 @@
               "local": "Gemensamt och enskilt skrivande. Strategier för att skriva olika typer av tex­ter med anpassning till deras uppbyggnad och språkliga drag. Skapande av texter där ord, bild och ljud samspelar.",
               "en": "Shared and independent writing. Strategies for writing different types of texts adapted to their structure and linguistic features. Creating texts where words, images and sound interact."
             },
-            "coreElements": [
-              "Läsa och skriva"
-            ],
-            "verbs": [
-              "Skapa"
-            ]
+            "coreElements": ["Läsa och skriva"],
+            "verbs": ["Skapa"]
           },
           {
             "code": "SV-7-9-5",
@@ -805,9 +667,7 @@
               "local": "Disposition och redigering av texter med hjälp av digitala verktyg. Bear­bet­ning av egna och gemensamma texter till innehåll och form. Att ge och ta emot respons på texter.",
               "en": "Structuring and editing texts using digital tools. Revising one's own and shared texts in terms of content and form. Giving and receiving feedback on texts."
             },
-            "coreElements": [
-              "Läsa och skriva"
-            ],
+            "coreElements": ["Läsa och skriva"],
             "verbs": []
           },
           {
@@ -816,9 +676,7 @@
               "local": "Språkliga strukturer och normer. Stavning, meningsbyggnad, stycke­in­del­ning och olika typer av textbindning. Ordklasser och satsdelar.",
               "en": "Linguistic structures and norms. Spelling, sentence construction, paragraphing and different types of text cohesion. Word classes and sentence elements."
             },
-            "coreElements": [
-              "Läsa och skriva"
-            ],
+            "coreElements": ["Läsa och skriva"],
             "verbs": []
           },
           {
@@ -827,12 +685,8 @@
               "local": "Språkliga handböcker och digitala verktyg för ordförståelse, språkriktighet och variation.",
               "en": "Language handbooks and digital tools for word comprehension, language correctness and variation."
             },
-            "coreElements": [
-              "Läsa och skriva"
-            ],
-            "verbs": [
-              "Förstå"
-            ]
+            "coreElements": ["Läsa och skriva"],
+            "verbs": ["Förstå"]
           },
           {
             "code": "SV-7-9-8",
@@ -840,14 +694,8 @@
               "local": "Olika former av samtal. Att delta aktivt, uttrycka känslor, tankar och kun­ska­per, lyssna, ställa frågor och föra resonemang, samt formulera och be­möta argument.",
               "en": "Different forms of conversation. Participating actively, expressing feelings, thoughts and knowledge, listening, asking questions and reasoning, and formulating and responding to arguments."
             },
-            "coreElements": [
-              "Tala, lyssna och samtala"
-            ],
-            "verbs": [
-              "Formulera",
-              "Föra",
-              "Uttrycka"
-            ]
+            "coreElements": ["Tala, lyssna och samtala"],
+            "verbs": ["Formulera", "Föra", "Uttrycka"]
           },
           {
             "code": "SV-7-9-9",
@@ -855,9 +703,7 @@
               "local": "Att leda ett samtal och sammanfatta huvuddragen i vad som sagts.",
               "en": "Leading a conversation and summarising the main points of what has been said."
             },
-            "coreElements": [
-              "Tala, lyssna och samtala"
-            ],
+            "coreElements": ["Tala, lyssna och samtala"],
             "verbs": []
           },
           {
@@ -866,13 +712,8 @@
               "local": "Muntliga presentationer och muntligt berättande för olika mottagare. An­pass­ning av språk, innehåll och disposition till syfte, mottagare och samman­hang. Talmanus och olika verktyg för att planera och genomföra muntliga presentationer, såväl med som utan digital teknik.",
               "en": "Oral presentations and oral storytelling for different audiences. Adapting language, content and structure to purpose, audience and context. Speaking notes and various tools for planning and delivering oral presentations, both with and without digital technology."
             },
-            "coreElements": [
-              "Tala, lyssna och samtala"
-            ],
-            "verbs": [
-              "Föra",
-              "Planera"
-            ]
+            "coreElements": ["Tala, lyssna och samtala"],
+            "verbs": ["Föra", "Planera"]
           },
           {
             "code": "SV-7-9-11",
@@ -880,9 +721,7 @@
               "local": "Skönlitteratur för ungdomar och vuxna från olika tider, från Sverige, Norden och övriga världen. Epik, lyrik och dramatik. Texter som belyser männi­skors villkor och identitets- och livsfrågor.",
               "en": "Fiction for young people and adults from different times, from Sweden, the Nordic countries and the rest of the world. Prose, poetry and drama. Texts that illuminate people's conditions and questions of identity and life."
             },
-            "coreElements": [
-              "Texter"
-            ],
+            "coreElements": ["Texter"],
             "verbs": []
           },
           {
@@ -891,9 +730,7 @@
               "local": "Språkliga drag, uppbyggnad och berättarperspektiv i berättande och poe­ti­ska texter. Bildspråk, gestaltningar, parallellhandling, tillbakablickar, miljö- och personbeskrivningar samt dialoger.",
               "en": "Linguistic features, structure and narrative perspective in narrative and poetic texts. Figurative language, characterisation, parallel plots, flashbacks, setting and character descriptions, and dialogues."
             },
-            "coreElements": [
-              "Texter"
-            ],
+            "coreElements": ["Texter"],
             "verbs": []
           },
           {
@@ -902,9 +739,7 @@
               "local": "Några skönlitterära genrer och hur de stilistiskt och innehållsligt skiljer sig ifrån varandra.",
               "en": "Some literary genres and how they differ from each other stylistically and in terms of content."
             },
-            "coreElements": [
-              "Texter"
-            ],
+            "coreElements": ["Texter"],
             "verbs": []
           },
           {
@@ -913,9 +748,7 @@
               "local": "Några skönlitterärt betydelsefulla författare och deras verk samt de hi­sto­ri­ska och kulturella sammanhang som verken har tillkommit i.",
               "en": "Some significant literary authors and their works, and the historical and cultural contexts in which the works were created."
             },
-            "coreElements": [
-              "Texter"
-            ],
+            "coreElements": ["Texter"],
             "verbs": []
           },
           {
@@ -924,14 +757,8 @@
               "local": "Sakprosatexter för ungdomar och vuxna. Beskrivande, förklarande, utre­dan­de, instruerande och argumenterande texter. Texternas syfte, innehåll, upp­byggnad och språkliga drag. Kombinationer av olika texttyper.",
               "en": "Non-fiction texts for young people and adults. Descriptive, explanatory, investigative, instructional and argumentative texts. The purpose, content, structure and linguistic features of the texts. Combinations of different text types."
             },
-            "coreElements": [
-              "Texter"
-            ],
-            "verbs": [
-              "Argumentera",
-              "Beskriva",
-              "Förklara"
-            ]
+            "coreElements": ["Texter"],
+            "verbs": ["Argumentera", "Beskriva", "Förklara"]
           },
           {
             "code": "SV-7-9-16",
@@ -939,9 +766,7 @@
               "local": "Texter i digitala miljöer samt andra texter som kombinerar ord, bild och ljud. Språkliga och dramaturgiska komponenter samt hur uttrycken kan sam­spela med varandra, till exempel i filmiskt berättande, teater­före­ställ­ningar och webbtexter.",
               "en": "Texts in digital environments and other texts that combine words, images and sound. Linguistic and dramaturgical components, and how the expressions can interact with each other, for example in cinematic storytelling, theatre performances and web texts."
             },
-            "coreElements": [
-              "Texter"
-            ],
+            "coreElements": ["Texter"],
             "verbs": []
           },
           {
@@ -950,12 +775,8 @@
               "local": "Språkliga strategier för att minnas och lära genom att identifiera nyckelord och föra anteckningar.",
               "en": "Linguistic strategies for remembering and learning by identifying keywords and taking notes."
             },
-            "coreElements": [
-              "Språkbruk"
-            ],
-            "verbs": [
-              "Föra"
-            ]
+            "coreElements": ["Språkbruk"],
+            "verbs": ["Föra"]
           },
           {
             "code": "SV-7-9-18",
@@ -963,12 +784,8 @@
               "local": "Ord och begrepp för att på ett varierat sätt uttrycka känslor, kunskaper och åsik­ter. Ords och begrepps nyanser och värdeladdning.",
               "en": "Words and concepts for expressing feelings, knowledge and opinions in a varied way. The nuances and connotations of words and concepts."
             },
-            "coreElements": [
-              "Språkbruk"
-            ],
-            "verbs": [
-              "Uttrycka"
-            ]
+            "coreElements": ["Språkbruk"],
+            "verbs": ["Uttrycka"]
           },
           {
             "code": "SV-7-9-19",
@@ -976,9 +793,7 @@
               "local": "Skillnader i språkanvändning beroende på syfte, mottagare och samman­hang. Språkets betydelse för att utöva inflytande.",
               "en": "Differences in language use depending on purpose, audience and context. The significance of language for exercising influence."
             },
-            "coreElements": [
-              "Språkbruk"
-            ],
+            "coreElements": ["Språkbruk"],
             "verbs": []
           },
           {
@@ -987,9 +802,7 @@
               "local": "Språkbruk, yttrandefrihet och integritet i digitala och andra medier och i olika sammanhang.",
               "en": "Language use, freedom of expression and privacy in digital and other media and in different contexts."
             },
-            "coreElements": [
-              "Språkbruk"
-            ],
+            "coreElements": ["Språkbruk"],
             "verbs": []
           },
           {
@@ -998,9 +811,7 @@
               "local": "Språkbruk i Sverige och Norden. Några svenska dialekter och sociolekter. Fram­trädande skillnader och likheter mellan de nordiska språken. De natio­nella minoritetsspråken i Sverige och deras ställning i samhället.",
               "en": "Language use in Sweden and the Nordic countries. Some Swedish dialects and sociolects. Prominent differences and similarities between the Nordic languages. The national minority languages in Sweden and their status in society."
             },
-            "coreElements": [
-              "Språkbruk"
-            ],
+            "coreElements": ["Språkbruk"],
             "verbs": []
           },
           {
@@ -1009,9 +820,7 @@
               "local": "Språkbruk och språkförändring genom tiderna, till exempel vilka språk som påverkat svenskan historiskt och i nutid.",
               "en": "Language use and language change through the ages, for example which languages have influenced Swedish historically and in the present."
             },
-            "coreElements": [
-              "Språkbruk"
-            ],
+            "coreElements": ["Språkbruk"],
             "verbs": []
           },
           {
@@ -1020,9 +829,7 @@
               "local": "Informationssökning på bibliotek och på internet, i böcker och massmedier samt genom intervjuer.",
               "en": "Searching for information in libraries and on the internet, in books and mass media, and through interviews."
             },
-            "coreElements": [
-              "Informationssökning och källkritik"
-            ],
+            "coreElements": ["Informationssökning och källkritik"],
             "verbs": []
           },
           {
@@ -1031,9 +838,7 @@
               "local": "Hur man refererar, citerar och gör källhänvisningar, även referenser till digi­tala medier.",
               "en": "How to reference, quote and make source citations, including references to digital media."
             },
-            "coreElements": [
-              "Informationssökning och källkritik"
-            ],
+            "coreElements": ["Informationssökning och källkritik"],
             "verbs": []
           },
           {
@@ -1042,12 +847,8 @@
               "local": "Hur man sovrar i en stor informationsmängd och prövar källors till­för­lit­lig­het med ett källkritiskt förhållningssätt.",
               "en": "How to sift through a large amount of information and assess the reliability of sources with a source-critical approach."
             },
-            "coreElements": [
-              "Informationssökning och källkritik"
-            ],
-            "verbs": [
-              "Pröva"
-            ]
+            "coreElements": ["Informationssökning och källkritik"],
+            "verbs": ["Pröva"]
           }
         ],
         "knowledgeCriteria": [

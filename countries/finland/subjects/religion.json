@@ -158,11 +158,7 @@
               "local": "T1 herättää oppilaassa mielenkiinto uskonnon opiskelua kohtaan ja opastaa tuntemaan oman perheen uskonnollista ja katsomuksellista taustaa",
               "en": "T1 awaken the pupil's interest in the study of religion and guide them to become familiar with the religious and worldview background of their own family"
             },
-            "coreElements": [
-              "S1",
-              "S2",
-              "S3"
-            ],
+            "coreElements": ["S1", "S2", "S3"],
             "verbs": []
           },
           {
@@ -171,9 +167,7 @@
               "local": "T2 ohjata oppilasta tutustumaan opiskeltavan uskonnon keskeisiin käsitteisiin, kertomuksiin ja symboleihin",
               "en": "T2 guide the pupil to become acquainted with the key concepts, narratives and symbols of the religion being studied"
             },
-            "coreElements": [
-              "S1"
-            ],
+            "coreElements": ["S1"],
             "verbs": []
           },
           {
@@ -182,9 +176,7 @@
               "local": "T3 ohjata oppilasta tutustumaan opiskeltavan uskonnon vuodenkiertoon, juhliin ja tapoihin",
               "en": "T3 guide the pupil to become acquainted with the annual cycle, celebrations and customs of the religion being studied"
             },
-            "coreElements": [
-              "S1"
-            ],
+            "coreElements": ["S1"],
             "verbs": []
           },
           {
@@ -193,9 +185,7 @@
               "local": "T4 kannustaa oppilasta tutustumaan luokan, koulun ja lähiympäristön uskontojen ja katsomusten tapoihin ja juhlaperinteisiin",
               "en": "T4 encourage the pupil to become acquainted with the customs and celebratory traditions of the religions and worldviews in their classroom, school and local environment"
             },
-            "coreElements": [
-              "S2"
-            ],
+            "coreElements": ["S2"],
             "verbs": []
           },
           {
@@ -204,10 +194,7 @@
               "local": "T5 rohkaista oppilasta tunnistamaan ja ilmaisemaan omia ajatuksiaan ja tunteitaan",
               "en": "T5 encourage the pupil to recognise and express their own thoughts and feelings"
             },
-            "coreElements": [
-              "S1",
-              "S3"
-            ],
+            "coreElements": ["S1", "S3"],
             "verbs": []
           },
           {
@@ -216,11 +203,7 @@
               "local": "T6 ohjata oppilasta toimimaan oikeudenmukaisesti, eläytymään toisen asemaan sekä kunnioittamaan toisen ihmisen ajatuksia ja vakaumusta sekä ihmisoikeuksia",
               "en": "T6 guide the pupil to act justly, to empathise with others, and to respect other people's thoughts, convictions and human rights"
             },
-            "coreElements": [
-              "S1",
-              "S2",
-              "S3"
-            ],
+            "coreElements": ["S1", "S2", "S3"],
             "verbs": []
           },
           {
@@ -229,9 +212,7 @@
               "local": "T7 ohjata oppilaita eettiseen pohdintaan sekä hahmottamaan, mitä tarkoittaa vastuu itsestä, yhteisöstä, ympäristöstä ja luonnosta",
               "en": "T7 guide pupils towards ethical reflection and to perceive what responsibility for oneself, one's community, the environment and nature means"
             },
-            "coreElements": [
-              "S3"
-            ],
+            "coreElements": ["S3"],
             "verbs": []
           },
           {
@@ -240,10 +221,7 @@
               "local": "T8 luoda oppilaalle tilaisuuksia harjoitella omien mielipiteiden esittämistä ja perustelemista sekä erilaisten mielipiteiden kuuntelemista ja ymmärtämistä",
               "en": "T8 create opportunities for the pupil to practise presenting and justifying their own opinions, and to listen to and understand different opinions"
             },
-            "coreElements": [
-              "S1",
-              "S3"
-            ],
+            "coreElements": ["S1", "S3"],
             "verbs": []
           }
         ]
@@ -261,9 +239,7 @@
               "local": "T1 ohjata oppilasta perehtymään opiskeltavan uskonnon pyhiin kirjoihin ja kertomuksiin sekä keskeisiin oppeihin",
               "en": "T1 guide the pupil to explore the sacred texts, narratives and central teachings of the religion being studied"
             },
-            "coreElements": [
-              "S1"
-            ],
+            "coreElements": ["S1"],
             "verbs": []
           },
           {
@@ -272,9 +248,7 @@
               "local": "T2 ohjata oppilas tutustumaan opiskeltavan uskonnon rituaaleihin ja tapoihin sekä pyhiin paikkoihin ja rakennuksiin",
               "en": "T2 guide the pupil to become acquainted with the rituals, customs, sacred places and buildings of the religion being studied"
             },
-            "coreElements": [
-              "S1"
-            ],
+            "coreElements": ["S1"],
             "verbs": []
           },
           {
@@ -283,10 +257,7 @@
               "local": "T3 auttaa oppilasta tunnistamaan uskonnollisen kielen erityispiirteitä ja vertauskuvallisuutta",
               "en": "T3 help the pupil to recognise the distinctive features and figurative nature of religious language"
             },
-            "coreElements": [
-              "S2",
-              "S1"
-            ],
+            "coreElements": ["S2", "S1"],
             "verbs": []
           },
           {
@@ -295,11 +266,7 @@
               "local": "T4 ohjata oppilasta etsimään, arvioimaan ja käyttämään uskontoa koskevaa tietoa erilaisista lähteistä",
               "en": "T4 guide the pupil to seek, evaluate and use information about religion from various sources"
             },
-            "coreElements": [
-              "S2",
-              "S3",
-              "S1"
-            ],
+            "coreElements": ["S2", "S3", "S1"],
             "verbs": []
           },
           {
@@ -308,10 +275,7 @@
               "local": "T5 opastaa oppilasta perehtymään Suomen ja Euroopan uskonnollisiin ja katsomuksellisiin juuriin ja nykytilaan",
               "en": "T5 guide the pupil to explore the religious and worldview roots and current state of Finland and Europe"
             },
-            "coreElements": [
-              "S2",
-              "S1"
-            ],
+            "coreElements": ["S2", "S1"],
             "verbs": []
           },
           {
@@ -320,10 +284,7 @@
               "local": "T6 ohjata oppilas tutustumaan juutalaisuuteen, kristinuskoon ja islamiin ja niiden vaikutukseen ja historiaan Euroopassa",
               "en": "T6 guide the pupil to become acquainted with Judaism, Christianity and Islam, and their influence and history in Europe"
             },
-            "coreElements": [
-              "S2",
-              "S3"
-            ],
+            "coreElements": ["S2", "S3"],
             "verbs": []
           },
           {
@@ -332,11 +293,7 @@
               "local": "T7 kannustaa oppilasta kunnioittamaan omaa ja toisen pyhää sekä käyttäytymään asianmukaisesti erilaisissa uskonnollisissa tilaisuuksissa ja tilanteissa",
               "en": "T7 encourage the pupil to respect what is sacred to oneself and others, and to behave appropriately in various religious occasions and situations"
             },
-            "coreElements": [
-              "S2",
-              "S3",
-              "S1"
-            ],
+            "coreElements": ["S2", "S3", "S1"],
             "verbs": []
           },
           {
@@ -345,11 +302,7 @@
               "local": "T8 ohjata oppilas perehtymään opiskeltavan uskonnon eettisiin opetuksiin sekä eri uskontoja yhdistäviin eettisiin periaatteisiin",
               "en": "T8 guide the pupil to explore the ethical teachings of the religion being studied and the ethical principles shared by different religions"
             },
-            "coreElements": [
-              "S2",
-              "S3",
-              "S1"
-            ],
+            "coreElements": ["S2", "S3", "S1"],
             "verbs": []
           },
           {
@@ -358,10 +311,7 @@
               "local": "T9 ohjata oppilasta ymmärtämään ihmisoikeuksiin ja erityisesti YK:n Lapsen oikeuksien sopimukseen sisältyviä arvoja yksilön ja yhteisön näkökulmasta",
               "en": "T9 guide the pupil to understand the values contained in human rights, and particularly in the UN Convention on the Rights of the Child, from both individual and community perspectives"
             },
-            "coreElements": [
-              "S2",
-              "S3"
-            ],
+            "coreElements": ["S2", "S3"],
             "verbs": []
           },
           {
@@ -370,10 +320,7 @@
               "local": "T10 ohjata oppilasta arvioimaan tekemiään valintoja ja pohtimaan toiminnan taustalla vaikuttavia arvoja eettisten periaatteiden ja kestävän tulevaisuuden näkökulmasta",
               "en": "T10 guide the pupil to evaluate the choices they make and to reflect on the values underlying their actions from the perspective of ethical principles and a sustainable future"
             },
-            "coreElements": [
-              "S2",
-              "S3"
-            ],
+            "coreElements": ["S2", "S3"],
             "verbs": []
           },
           {
@@ -382,11 +329,7 @@
               "local": "T11 luoda oppilaalle mahdollisuuksia keskustella eettisistä kysymyksistä, ilmaista rakentavasti ajatuksiaan ja tunteitaan sekä harjoitella perustelemaan omia näkemyksiään",
               "en": "T11 create opportunities for the pupil to discuss ethical questions, to express their thoughts and feelings constructively, and to practise justifying their own views"
             },
-            "coreElements": [
-              "S2",
-              "S3",
-              "S1"
-            ],
+            "coreElements": ["S2", "S3", "S1"],
             "verbs": []
           },
           {
@@ -395,9 +338,7 @@
               "local": "T12 auttaa ja tukea oppilasta muodostamaan ja vahvistamaan myönteistä maailmankatsomusta, itsetuntoa ja luottamusta elämään",
               "en": "T12 help and support the pupil in forming and strengthening a positive worldview, self-esteem and trust in life"
             },
-            "coreElements": [
-              "S3"
-            ],
+            "coreElements": ["S3"],
             "verbs": []
           }
         ]
@@ -415,10 +356,7 @@
               "local": "T1 ohjata oppilasta havaitsemaan uskonnon ja kulttuurin vuorovaikutus sekä tunnistamaan uskontoon liittyvä monimuotoisuus",
               "en": "T1 guide the pupil to observe the interaction between religion and culture and to recognise the diversity associated with religion"
             },
-            "coreElements": [
-              "S1",
-              "S2"
-            ],
+            "coreElements": ["S1", "S2"],
             "verbs": []
           },
           {
@@ -427,9 +365,7 @@
               "local": "T2 ohjata oppilasta syventämään tietojaan opiskeltavasta uskonnosta ja sen vaikutuksista",
               "en": "T2 guide the pupil to deepen their knowledge of the religion being studied and its influence"
             },
-            "coreElements": [
-              "S1"
-            ],
+            "coreElements": ["S1"],
             "verbs": []
           },
           {
@@ -438,9 +374,7 @@
               "local": "T3 ohjata oppilasta perehtymään uskontoihin ja katsomuksiin eri puolilla maailmaa sekä uskonnottomuuteen",
               "en": "T3 guide the pupil to explore religions and worldviews around the world as well as non-religiousness"
             },
-            "coreElements": [
-              "S2"
-            ],
+            "coreElements": ["S2"],
             "verbs": []
           },
           {
@@ -449,11 +383,7 @@
               "local": "T4 ohjata oppilasta tuntemaan eri uskontojen ja katsomusten tapoja ja symboleita sekä tunnistamaan uskonnollisia aiheita mediassa, maailmanpolitiikassa, taiteessa ja populaarikulttuurissa",
               "en": "T4 guide the pupil to know the customs and symbols of different religions and worldviews, and to recognise religious themes in media, world politics, art and popular culture"
             },
-            "coreElements": [
-              "S1",
-              "S2",
-              "S3"
-            ],
+            "coreElements": ["S1", "S2", "S3"],
             "verbs": []
           },
           {
@@ -462,10 +392,7 @@
               "local": "T5 ohjata oppilasta havaitsemaan ja arvioimaan erilaisia argumentaation tapoja sekä uskonnon ja tieteen kielen välisiä eroja",
               "en": "T5 guide the pupil to observe and evaluate different forms of argumentation and the differences between religious and scientific language"
             },
-            "coreElements": [
-              "S1",
-              "S3"
-            ],
+            "coreElements": ["S1", "S3"],
             "verbs": []
           },
           {
@@ -474,9 +401,7 @@
               "local": "T6 ohjata oppilasta perehtymään eettisen ajattelun keskeisiin käsitteisiin, ihmisoikeuksiin sekä opiskeltavan uskonnon ja muiden uskontojen ja katsomusten eettisiin periaatteisiin",
               "en": "T6 guide the pupil to explore the key concepts of ethical thinking, human rights, and the ethical principles of the religion being studied as well as those of other religions and worldviews"
             },
-            "coreElements": [
-              "S3"
-            ],
+            "coreElements": ["S3"],
             "verbs": []
           },
           {
@@ -485,10 +410,7 @@
               "local": "T7 auttaa oppilasta pohtimaan uskontojen ja katsomusten maailmanlaajuista merkitystä ihmisten valintojen perusteina ja ohjaajina",
               "en": "T7 help the pupil to reflect on the global significance of religions and worldviews as the basis and guide for people's choices"
             },
-            "coreElements": [
-              "S1",
-              "S3"
-            ],
+            "coreElements": ["S1", "S3"],
             "verbs": []
           },
           {
@@ -497,10 +419,7 @@
               "local": "T8 rohkaista oppilasta pohtimaan ihmisyyteen kuuluvia elämänkysymyksiä, ajankohtaisia eettisiä kysymyksiä ja omien arvojen suhdetta niihin",
               "en": "T8 encourage the pupil to reflect on existential questions related to being human, current ethical issues and the relationship of their own values to them"
             },
-            "coreElements": [
-              "S2",
-              "S3"
-            ],
+            "coreElements": ["S2", "S3"],
             "verbs": []
           },
           {
@@ -509,10 +428,7 @@
               "local": "T9 innostaa oppilasta tutkimaan omien valintojensa eettisiä ulottuvuuksia ja niiden vaikutusta hyvinvointiin ja kannustaa kestävään elämäntapaan",
               "en": "T9 inspire the pupil to examine the ethical dimensions of their own choices and their impact on well-being, and to encourage a sustainable way of life"
             },
-            "coreElements": [
-              "S2",
-              "S3"
-            ],
+            "coreElements": ["S2", "S3"],
             "verbs": []
           },
           {
@@ -521,11 +437,7 @@
               "local": "T10 rohkaista oppilaita kohtaamaan erilaisia ihmisiä nyt ja tulevaisuudessa jatko-opinnoissa, työelämässä ja vapaa-ajalla",
               "en": "T10 encourage pupils to encounter diverse people now and in the future in further studies, working life and leisure"
             },
-            "coreElements": [
-              "S1",
-              "S2",
-              "S3"
-            ],
+            "coreElements": ["S1", "S2", "S3"],
             "verbs": []
           }
         ]

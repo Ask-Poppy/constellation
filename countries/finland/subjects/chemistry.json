@@ -191,14 +191,7 @@
               "local": "T1 kannustaa ja innostaa oppilasta kemian opiskeluun",
               "en": "T1 encourage and inspire the pupil to study chemistry"
             },
-            "coreElements": [
-              "S5",
-              "S6",
-              "S4",
-              "S3",
-              "S2",
-              "S1"
-            ],
+            "coreElements": ["S5", "S6", "S4", "S3", "S2", "S1"],
             "verbs": []
           },
           {
@@ -207,14 +200,7 @@
               "local": "T2 ohjata ja kannustaa oppilasta tunnistamaan omaa kemian osaamistaan, asettamaan tavoitteita omalle työskentelylleen sekä työskentelemään pitkäjänteisesti",
               "en": "T2 guide and encourage the pupil to recognise their own chemistry competence, to set goals for their own work, and to work with perseverance"
             },
-            "coreElements": [
-              "S5",
-              "S6",
-              "S4",
-              "S3",
-              "S2",
-              "S1"
-            ],
+            "coreElements": ["S5", "S6", "S4", "S3", "S2", "S1"],
             "verbs": []
           },
           {
@@ -223,14 +209,7 @@
               "local": "T3 ohjata oppilasta ymmärtämään kemian osaamisen merkitystä omassa elämässä, elinympäristössä ja yhteiskunnassa",
               "en": "T3 guide the pupil to understand the significance of chemistry competence in their own life, living environment, and society"
             },
-            "coreElements": [
-              "S5",
-              "S6",
-              "S4",
-              "S3",
-              "S2",
-              "S1"
-            ],
+            "coreElements": ["S5", "S6", "S4", "S3", "S2", "S1"],
             "verbs": []
           },
           {
@@ -239,14 +218,7 @@
               "local": "T4 ohjata oppilasta käyttämään kemian osaamistaan kestävän tulevaisuuden rakentamisessa sekä arvioimaan omia valintojaan luonnonvarojen kestävän käytön ja tuotteen elinkaaren kannalta",
               "en": "T4 guide the pupil to use their chemistry competence in building a sustainable future and to evaluate their own choices in terms of sustainable use of natural resources and product life cycle"
             },
-            "coreElements": [
-              "S5",
-              "S6",
-              "S4",
-              "S3",
-              "S2",
-              "S1"
-            ],
+            "coreElements": ["S5", "S6", "S4", "S3", "S2", "S1"],
             "verbs": []
           },
           {
@@ -255,14 +227,7 @@
               "local": "T5 kannustaa oppilasta muodostamaan kysymyksiä tarkasteltavista ilmiöistä sekä kehittämään kysymyksiä edelleen tutkimusten ja muun toiminnan lähtökohdiksi",
               "en": "T5 encourage the pupil to formulate questions about the phenomena under consideration and to further develop questions as starting points for investigations and other activities"
             },
-            "coreElements": [
-              "S5",
-              "S6",
-              "S4",
-              "S3",
-              "S2",
-              "S1"
-            ],
+            "coreElements": ["S5", "S6", "S4", "S3", "S2", "S1"],
             "verbs": []
           },
           {
@@ -271,14 +236,7 @@
               "local": "T6 ohjata oppilasta toteuttamaan kokeellisia tutkimuksia yhteistyössä muiden kanssa sekä työskentelemään turvallisesti ja johdonmukaisesti",
               "en": "T6 guide the pupil to carry out experimental investigations in cooperation with others and to work safely and systematically"
             },
-            "coreElements": [
-              "S5",
-              "S6",
-              "S4",
-              "S3",
-              "S2",
-              "S1"
-            ],
+            "coreElements": ["S5", "S6", "S4", "S3", "S2", "S1"],
             "verbs": []
           },
           {
@@ -287,14 +245,7 @@
               "local": "T7 ohjata oppilasta käsittelemään, tulkitsemaan ja esittämään omien tutkimustensa tuloksia sekä arvioimaan niitä ja koko tutkimusprosessia",
               "en": "T7 guide the pupil to process, interpret, and present the results of their own investigations and to evaluate them and the entire research process"
             },
-            "coreElements": [
-              "S5",
-              "S6",
-              "S4",
-              "S3",
-              "S2",
-              "S1"
-            ],
+            "coreElements": ["S5", "S6", "S4", "S3", "S2", "S1"],
             "verbs": []
           },
           {
@@ -303,14 +254,7 @@
               "local": "T8 ohjata oppilasta hahmottamaan kemian soveltamista teknologiassa sekä osallistumaan kemiaa soveltavien ratkaisujen ideointiin, suunnitteluun, kehittämiseen ja soveltamiseen yhteistyössä muiden kanssa",
               "en": "T8 guide the pupil to understand the application of chemistry in technology and to participate in the ideation, planning, development, and application of solutions that apply chemistry, in cooperation with others"
             },
-            "coreElements": [
-              "S5",
-              "S6",
-              "S4",
-              "S3",
-              "S2",
-              "S1"
-            ],
+            "coreElements": ["S5", "S6", "S4", "S3", "S2", "S1"],
             "verbs": []
           },
           {
@@ -319,14 +263,7 @@
               "local": "T9 ohjata oppilasta käyttämään tieto- ja viestintäteknologiaa tiedon ja tutkimustulosten hankkimiseen, käsittelemiseen ja esittämiseen sekä tukea oppilaan oppimista havainnollistavien simulaatioiden avulla",
               "en": "T9 guide the pupil to use information and communication technology for acquiring, processing, and presenting information and research results, and to support the pupil's learning through illustrative simulations"
             },
-            "coreElements": [
-              "S5",
-              "S6",
-              "S4",
-              "S3",
-              "S2",
-              "S1"
-            ],
+            "coreElements": ["S5", "S6", "S4", "S3", "S2", "S1"],
             "verbs": []
           },
           {
@@ -335,14 +272,7 @@
               "local": "T10 ohjata oppilasta käyttämään kemian käsitteitä täsmällisesti sekä jäsentämään omia käsiterakenteitaan kohti luonnontieteellisten teorioiden mukaisia käsityksiä",
               "en": "T10 guide the pupil to use chemistry concepts precisely and to structure their own conceptual frameworks towards conceptions consistent with scientific theories"
             },
-            "coreElements": [
-              "S5",
-              "S6",
-              "S4",
-              "S3",
-              "S2",
-              "S1"
-            ],
+            "coreElements": ["S5", "S6", "S4", "S3", "S2", "S1"],
             "verbs": []
           },
           {
@@ -351,14 +281,7 @@
               "local": "T11 ohjata oppilasta käyttämään erilaisia malleja kuvaamaan ja selittämään aineen rakennetta ja kemiallisia ilmiöitä",
               "en": "T11 guide the pupil to use various models to describe and explain the structure of matter and chemical phenomena"
             },
-            "coreElements": [
-              "S5",
-              "S6",
-              "S4",
-              "S3",
-              "S2",
-              "S1"
-            ],
+            "coreElements": ["S5", "S6", "S4", "S3", "S2", "S1"],
             "verbs": []
           },
           {
@@ -367,14 +290,7 @@
               "local": "T12 ohjata oppilasta käyttämään ja arvioimaan kriittisesti eri tietolähteitä sekä ilmaisemaan ja perustelemaan erilaisia näkemyksiä kemialle ominaisella tavalla",
               "en": "T12 guide the pupil to use and critically evaluate different sources of information and to express and justify various viewpoints in a manner characteristic of chemistry"
             },
-            "coreElements": [
-              "S5",
-              "S6",
-              "S4",
-              "S3",
-              "S2",
-              "S1"
-            ],
+            "coreElements": ["S5", "S6", "S4", "S3", "S2", "S1"],
             "verbs": []
           },
           {
@@ -383,10 +299,7 @@
               "local": "T13 ohjata oppilasta hahmottamaan luonnontieteellisen tiedon luonnetta ja kehittymistä sekä tieteellisiä tapoja tuottaa tietoa",
               "en": "T13 guide the pupil to understand the nature and development of scientific knowledge and scientific ways of producing knowledge"
             },
-            "coreElements": [
-              "S4",
-              "S1"
-            ],
+            "coreElements": ["S4", "S1"],
             "verbs": []
           },
           {
@@ -395,10 +308,7 @@
               "local": "T14 ohjata oppilasta ymmärtämään perusperiaatteita aineen ominaisuuksista, rakenteesta ja aineiden muutoksista",
               "en": "T14 guide the pupil to understand the basic principles of the properties and structure of matter and changes of substances"
             },
-            "coreElements": [
-              "S5",
-              "S6"
-            ],
+            "coreElements": ["S5", "S6"],
             "verbs": []
           },
           {
@@ -407,14 +317,7 @@
               "local": "T15 ohjata oppilasta soveltamaan kemian tietojaan ja taitojaan monialaisissa oppimiskokonaisuuksissa sekä tarjota mahdollisuuksia tutustua kemian soveltamiseen erilaisissa tilanteissa kuten luonnossa, elinkeinoelämässä, järjestöissä tai tiedeyhteisöissä",
               "en": "T15 guide the pupil to apply their chemistry knowledge and skills in multidisciplinary learning modules and to offer opportunities to explore the application of chemistry in various contexts such as nature, business, organisations, or the scientific community"
             },
-            "coreElements": [
-              "S5",
-              "S6",
-              "S4",
-              "S3",
-              "S2",
-              "S1"
-            ],
+            "coreElements": ["S5", "S6", "S4", "S3", "S2", "S1"],
             "verbs": []
           }
         ]

@@ -191,14 +191,7 @@
               "local": "T1 tukea oppilaan jäsentyneen karttakuvan rakentumista maapallosta",
               "en": "T1 support the pupil in building a structured map image of the Earth"
             },
-            "coreElements": [
-              "S2",
-              "S1",
-              "S3",
-              "S5",
-              "S4",
-              "S6"
-            ],
+            "coreElements": ["S2", "S1", "S3", "S5", "S4", "S6"],
             "verbs": []
           },
           {
@@ -207,13 +200,7 @@
               "local": "T2 ohjata oppilasta tutkimaan luonnonmaantieteellisiä ilmiöitä sekä vertailemaan luonnonmaisemia Suomessa ja muualla maapallolla",
               "en": "T2 guide the pupil to investigate physical geographical phenomena and to compare natural landscapes in Finland and elsewhere on Earth"
             },
-            "coreElements": [
-              "S2",
-              "S1",
-              "S3",
-              "S4",
-              "S6"
-            ],
+            "coreElements": ["S2", "S1", "S3", "S4", "S6"],
             "verbs": []
           },
           {
@@ -222,14 +209,7 @@
               "local": "T3 ohjata oppilasta tutkimaan ihmismaantieteellisiä ilmiöitä ja kulttuurimaisemia sekä ymmärtämään erilaisia kulttuureita, elinkeinoja ja ihmisten elämää Suomessa ja maapallon eri alueilla",
               "en": "T3 guide the pupil to investigate human geographical phenomena and cultural landscapes and to understand different cultures, livelihoods, and people's lives in Finland and in different regions of the Earth"
             },
-            "coreElements": [
-              "S2",
-              "S1",
-              "S3",
-              "S5",
-              "S4",
-              "S6"
-            ],
+            "coreElements": ["S2", "S1", "S3", "S5", "S4", "S6"],
             "verbs": []
           },
           {
@@ -238,14 +218,7 @@
               "local": "T4 kannustaa oppilasta pohtimaan ihmisen toiminnan ja luonnonympäristön välistä vuorovaikutusta sekä ymmärtämään luonnonvarojen kestävän käytön merkitys",
               "en": "T4 encourage the pupil to consider the interaction between human activity and the natural environment and to understand the significance of sustainable use of natural resources"
             },
-            "coreElements": [
-              "S2",
-              "S1",
-              "S3",
-              "S5",
-              "S4",
-              "S6"
-            ],
+            "coreElements": ["S2", "S1", "S3", "S5", "S4", "S6"],
             "verbs": []
           },
           {
@@ -254,14 +227,7 @@
               "local": "T5 ohjata oppilasta kehittämään maantieteellistä ajattelutaitoa sekä kykyä esittää maantieteellisiä kysymyksiä",
               "en": "T5 guide the pupil to develop geographical thinking skills and the ability to pose geographical questions"
             },
-            "coreElements": [
-              "S2",
-              "S1",
-              "S3",
-              "S5",
-              "S4",
-              "S6"
-            ],
+            "coreElements": ["S2", "S1", "S3", "S5", "S4", "S6"],
             "verbs": []
           },
           {
@@ -270,14 +236,7 @@
               "local": "T6 ohjata oppilasta kehittämään tilatajua sekä symboleiden, mittasuhteiden, suuntien ja etäisyyksien ymmärrystä",
               "en": "T6 guide the pupil to develop spatial awareness and understanding of symbols, scales, directions, and distances"
             },
-            "coreElements": [
-              "S2",
-              "S1",
-              "S3",
-              "S5",
-              "S4",
-              "S6"
-            ],
+            "coreElements": ["S2", "S1", "S3", "S5", "S4", "S6"],
             "verbs": []
           },
           {
@@ -286,14 +245,7 @@
               "local": "T7 ohjata oppilasta harjaannuttamaan arkielämän geomediataitoja sekä lukemaan, tulkitsemaan ja laatimaan karttoja ja muita malleja maantieteellisistä ilmiöistä",
               "en": "T7 guide the pupil to practise everyday geomedia skills and to read, interpret, and create maps and other models of geographical phenomena"
             },
-            "coreElements": [
-              "S2",
-              "S1",
-              "S3",
-              "S5",
-              "S4",
-              "S6"
-            ],
+            "coreElements": ["S2", "S1", "S3", "S5", "S4", "S6"],
             "verbs": []
           },
           {
@@ -302,14 +254,7 @@
               "local": "T8 ohjata oppilasta kehittämään maantieteellisiä tutkimustaitoja",
               "en": "T8 guide the pupil to develop geographical research skills"
             },
-            "coreElements": [
-              "S2",
-              "S1",
-              "S3",
-              "S5",
-              "S4",
-              "S6"
-            ],
+            "coreElements": ["S2", "S1", "S3", "S5", "S4", "S6"],
             "verbs": []
           },
           {
@@ -318,14 +263,7 @@
               "local": "T9 harjaannuttaa oppilasta havainnoimaan ympäristöä ja siinä tapahtuvia muutoksia sekä aktivoida oppilasta seuraamaan ajankohtaisia tapahtumia omassa lähiympäristössä, Suomessa ja koko maailmassa",
               "en": "T9 train the pupil to observe the environment and changes occurring in it, and to encourage the pupil to follow current events in their local environment, in Finland, and around the world"
             },
-            "coreElements": [
-              "S2",
-              "S1",
-              "S3",
-              "S5",
-              "S4",
-              "S6"
-            ],
+            "coreElements": ["S2", "S1", "S3", "S5", "S4", "S6"],
             "verbs": []
           },
           {
@@ -334,14 +272,7 @@
               "local": "T10 tukea oppilasta kehittämään vuorovaikutus- ja ryhmätyötaitoja sekä argumentoimaan ja esittämään selkeästi maantieteellistä tietoa",
               "en": "T10 support the pupil in developing interaction and teamwork skills and in arguing and presenting geographical information clearly"
             },
-            "coreElements": [
-              "S2",
-              "S1",
-              "S3",
-              "S5",
-              "S4",
-              "S6"
-            ],
+            "coreElements": ["S2", "S1", "S3", "S5", "S4", "S6"],
             "verbs": []
           },
           {
@@ -350,14 +281,7 @@
               "local": "T11 ohjata oppilasta vaalimaan luontoa, rakennettua ympäristöä ja niiden monimuotoisuutta sekä vahvistaa oppilaan osallistumisen ja vaikuttamisen taitoja",
               "en": "T11 guide the pupil to cherish nature, the built environment, and their diversity, and to strengthen the pupil's participation and influencing skills"
             },
-            "coreElements": [
-              "S2",
-              "S1",
-              "S3",
-              "S5",
-              "S4",
-              "S6"
-            ],
+            "coreElements": ["S2", "S1", "S3", "S5", "S4", "S6"],
             "verbs": []
           },
           {
@@ -366,14 +290,7 @@
               "local": "T12 tukea oppilasta kasvamaan aktiiviseksi, vastuullisesti toimivaksi ja kestävään elämäntapaan sitoutuneeksi kansalaiseksi",
               "en": "T12 support the pupil in growing into an active, responsibly acting citizen committed to a sustainable way of life"
             },
-            "coreElements": [
-              "S2",
-              "S1",
-              "S3",
-              "S5",
-              "S4",
-              "S6"
-            ],
+            "coreElements": ["S2", "S1", "S3", "S5", "S4", "S6"],
             "verbs": []
           },
           {
@@ -382,14 +299,7 @@
               "local": "T13 ohjata oppilasta arvostamaan alueellista identiteettiään sekä luonnon, ihmistoiminnan ja kulttuurien moninaisuutta sekä kunnioittamaan ihmisoikeuksia kaikkialla maailmassa",
               "en": "T13 guide the pupil to value their regional identity and the diversity of nature, human activity, and cultures, and to respect human rights everywhere in the world"
             },
-            "coreElements": [
-              "S2",
-              "S1",
-              "S3",
-              "S5",
-              "S4",
-              "S6"
-            ],
+            "coreElements": ["S2", "S1", "S3", "S5", "S4", "S6"],
             "verbs": []
           }
         ]

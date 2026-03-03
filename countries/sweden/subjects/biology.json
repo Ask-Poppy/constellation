@@ -158,9 +158,7 @@
               "local": "Årstidsväxlingar i naturen. Några djurs och växters livscykler och an­pass­ningar till olika livsmiljöer och årstider.",
               "en": "Seasonal changes in nature. The life cycles of some animals and plants, and their adaptations to different habitats and seasons."
             },
-            "coreElements": [
-              "Året runt i naturen"
-            ],
+            "coreElements": ["Året runt i naturen"],
             "verbs": []
           },
           {
@@ -169,9 +167,7 @@
               "local": "Djur, växter och svampar i närmiljön, hur de kan grupperas samt namn på några vanligt förekommande arter.",
               "en": "Animals, plants and fungi in the local environment, how they can be grouped, and the names of some commonly occurring species."
             },
-            "coreElements": [
-              "Året runt i naturen"
-            ],
+            "coreElements": ["Året runt i naturen"],
             "verbs": []
           },
           {
@@ -180,9 +176,7 @@
               "local": "Enkla näringskedjor som beskriver samband mellan organismer i eko­sys­tem.",
               "en": "Simple food chains describing relationships between organisms in ecosystems."
             },
-            "coreElements": [
-              "Året runt i naturen"
-            ],
+            "coreElements": ["Året runt i naturen"],
             "verbs": []
           },
           {
@@ -191,9 +185,7 @@
               "local": "Några av människans organ, deras namn och översiktliga funktion.",
               "en": "Some of the human organs, their names and general function."
             },
-            "coreElements": [
-              "Kropp och hälsa"
-            ],
+            "coreElements": ["Kropp och hälsa"],
             "verbs": []
           },
           {
@@ -202,9 +194,7 @@
               "local": "Människans upplevelser av ljus, ljud, värme, smak och doft med hjälp av oli­ka sinnen.",
               "en": "Human perception of light, sound, heat, taste and smell through different senses."
             },
-            "coreElements": [
-              "Kropp och hälsa"
-            ],
+            "coreElements": ["Kropp och hälsa"],
             "verbs": []
           },
           {
@@ -213,9 +203,7 @@
               "local": "Betydelsen av kost, sömn, hygien, motion och sociala relationer för att må bra.",
               "en": "The importance of diet, sleep, hygiene, exercise and social relationships for well-being."
             },
-            "coreElements": [
-              "Kropp och hälsa"
-            ],
+            "coreElements": ["Kropp och hälsa"],
             "verbs": []
           },
           {
@@ -224,9 +212,7 @@
               "local": "Tyngdkraft, tyngdpunkt, jämvikt, balans och friktion som kan upplevas och obser­veras vid lek och rörelse.",
               "en": "Gravity, centre of gravity, equilibrium, balance and friction that can be experienced and observed during play and movement."
             },
-            "coreElements": [
-              "Kraft och rörelse"
-            ],
+            "coreElements": ["Kraft och rörelse"],
             "verbs": []
           },
           {
@@ -235,9 +221,7 @@
               "local": "Solsystemets himlakroppar och deras rörelser. Människan i rymden.",
               "en": "The celestial bodies of the solar system and their movements. Humans in space."
             },
-            "coreElements": [
-              "Kraft och rörelse"
-            ],
+            "coreElements": ["Kraft och rörelse"],
             "verbs": []
           },
           {
@@ -246,9 +230,7 @@
               "local": "Hur material kan sorteras efter några egenskaper, till exempel utseende, om de är magnetiska och om de flyter eller sjunker i vatten. Hur materialen kan åter­vinnas.",
               "en": "How materials can be sorted by certain properties, for example appearance, whether they are magnetic, and whether they float or sink in water. How materials can be recycled."
             },
-            "coreElements": [
-              "Material och ämnen"
-            ],
+            "coreElements": ["Material och ämnen"],
             "verbs": []
           },
           {
@@ -257,9 +239,7 @@
               "local": "Några blandningar och hur de kan delas upp i sina olika beståndsdelar, till exempel genom avdunstning och filtrering.",
               "en": "Some mixtures and how they can be separated into their different components, for example through evaporation and filtration."
             },
-            "coreElements": [
-              "Material och ämnen"
-            ],
+            "coreElements": ["Material och ämnen"],
             "verbs": []
           },
           {
@@ -268,9 +248,7 @@
               "local": "Vattnets olika former: fast, flytande och gas. Avdunstning, kokning, kon­den­sering, smältning och stelning.",
               "en": "The different forms of water: solid, liquid and gas. Evaporation, boiling, condensation, melting and solidification."
             },
-            "coreElements": [
-              "Material och ämnen"
-            ],
+            "coreElements": ["Material och ämnen"],
             "verbs": []
           },
           {
@@ -279,12 +257,8 @@
               "local": "Enkla fältstudier, observationer och experiment. Utförande och do­ku­men­ta­tion av undersökningarna med ord, bilder och digitala verktyg.",
               "en": "Simple field studies, observations and experiments. Carrying out and documenting the investigations with words, pictures and digital tools."
             },
-            "coreElements": [
-              "Systematiska undersökningar"
-            ],
-            "verbs": [
-              "Föra"
-            ]
+            "coreElements": ["Systematiska undersökningar"],
+            "verbs": ["Föra"]
           },
           {
             "code": "BI-1-3-13",
@@ -292,9 +266,7 @@
               "local": "Några berättelser om hur naturvetenskaplig kunskap vuxit fram.",
               "en": "Some stories about how scientific knowledge has developed."
             },
-            "coreElements": [
-              "Systematiska undersökningar"
-            ],
+            "coreElements": ["Systematiska undersökningar"],
             "verbs": []
           }
         ],
@@ -321,12 +293,8 @@
               "local": "Vad liv är och hur livets utveckling kan förklaras med evolutionsteorin. Bio­logisk mångfald och organismers anpassningar till miljön.",
               "en": "What life is and how the development of life can be explained by the theory of evolution. Biodiversity and organisms' adaptations to the environment."
             },
-            "coreElements": [
-              "Natur och miljö"
-            ],
-            "verbs": [
-              "Förklara"
-            ]
+            "coreElements": ["Natur och miljö"],
+            "verbs": ["Förklara"]
           },
           {
             "code": "BI-4-6-2",
@@ -334,9 +302,7 @@
               "local": "Näringskedjor och kretslopp i närmiljön. Djurs, växters och svampars sam­spel med varandra och hur några miljöfaktorer påverkar dem. Fotosyntes och cellandning.",
               "en": "Food chains and cycles in the local environment. The interaction between animals, plants and fungi, and how some environmental factors affect them. Photosynthesis and cellular respiration."
             },
-            "coreElements": [
-              "Natur och miljö"
-            ],
+            "coreElements": ["Natur och miljö"],
             "verbs": []
           },
           {
@@ -345,9 +311,7 @@
               "local": "Hur djur, växter och svampar kan identifieras och grupperas på ett syste­ma­tiskt sätt, samt namn på några vanligt förekommande arter.",
               "en": "How animals, plants and fungi can be identified and grouped in a systematic way, and the names of some commonly occurring species."
             },
-            "coreElements": [
-              "Natur och miljö"
-            ],
+            "coreElements": ["Natur och miljö"],
             "verbs": []
           },
           {
@@ -356,9 +320,7 @@
               "local": "Människans beroende av och påverkan på naturen med koppling till natur­bruk, hållbar utveckling och ekosystemtjänster. Naturen som resurs och vårt ansvar när vi nyttjar den.",
               "en": "Human dependence on and impact on nature in relation to the use of natural resources, sustainable development and ecosystem services. Nature as a resource and our responsibility when using it."
             },
-            "coreElements": [
-              "Natur och miljö"
-            ],
+            "coreElements": ["Natur och miljö"],
             "verbs": []
           },
           {
@@ -367,9 +329,7 @@
               "local": "Människans organsystem. Några organs namn, utseende, placering, funk­tion och samverkan.",
               "en": "The human organ systems. The names, appearance, location, function and interaction of some organs."
             },
-            "coreElements": [
-              "Kropp och hälsa"
-            ],
+            "coreElements": ["Kropp och hälsa"],
             "verbs": []
           },
           {
@@ -378,9 +338,7 @@
               "local": "Några vanliga sjukdomar och hur de kan förebyggas och behandlas. Hur den psykiska och fysiska hälsan påverkas av levnadsförhållanden, kost, sömn, hygien, motion och beroendeframkallande medel.",
               "en": "Some common diseases and how they can be prevented and treated. How mental and physical health is affected by living conditions, diet, sleep, hygiene, exercise and addictive substances."
             },
-            "coreElements": [
-              "Kropp och hälsa"
-            ],
+            "coreElements": ["Kropp och hälsa"],
             "verbs": []
           },
           {
@@ -389,9 +347,7 @@
               "local": "Människans pubertet, reproduktion, sexualitet och identitet samt frågor om rela­tioner, kärlek och ansvar.",
               "en": "Human puberty, reproduction, sexuality and identity, and questions about relationships, love and responsibility."
             },
-            "coreElements": [
-              "Kropp och hälsa"
-            ],
+            "coreElements": ["Kropp och hälsa"],
             "verbs": []
           },
           {
@@ -403,9 +359,7 @@
             "coreElements": [
               "Systematiska undersökningar och granskning av information"
             ],
-            "verbs": [
-              "Föra"
-            ]
+            "verbs": ["Föra"]
           },
           {
             "code": "BI-4-6-9",
@@ -481,9 +435,7 @@
               "local": "Livets uppkomst, utveckling och mångfald samt evolutionens mekanismer. Arvs­massans egenskaper och förhållandet mellan arv och miljö.",
               "en": "The origin, development and diversity of life, and the mechanisms of evolution. The properties of genetic material and the relationship between heredity and environment."
             },
-            "coreElements": [
-              "Natur och miljö"
-            ],
+            "coreElements": ["Natur och miljö"],
             "verbs": []
           },
           {
@@ -492,9 +444,7 @@
               "local": "Några gentekniska metoder samt möjligheter, risker och etiska frågor kopp­lade till genteknik.",
               "en": "Some genetic engineering methods, and the opportunities, risks and ethical issues associated with genetic engineering."
             },
-            "coreElements": [
-              "Natur och miljö"
-            ],
+            "coreElements": ["Natur och miljö"],
             "verbs": []
           },
           {
@@ -503,9 +453,7 @@
               "local": "Lokala och globala ekosystem. Sambanden mellan populationer och till­gäng­liga resurser. Fotosyntes, cellandning, materiens kretslopp och ener­gins flöden.",
               "en": "Local and global ecosystems. The relationships between populations and available resources. Photosynthesis, cellular respiration, the cycling of matter and the flow of energy."
             },
-            "coreElements": [
-              "Natur och miljö"
-            ],
+            "coreElements": ["Natur och miljö"],
             "verbs": []
           },
           {
@@ -514,9 +462,7 @@
               "local": "Människans påverkan på naturen lokalt och globalt samt hur man på individ- och samhällsnivå kan främja hållbar utveckling. Betydelsen av bio­logisk mångfald och ekosystemtjänster.",
               "en": "Human impact on nature locally and globally, and how sustainable development can be promoted at individual and societal level. The importance of biodiversity and ecosystem services."
             },
-            "coreElements": [
-              "Natur och miljö"
-            ],
+            "coreElements": ["Natur och miljö"],
             "verbs": []
           },
           {
@@ -525,9 +471,7 @@
               "local": "Kroppens celler samt några organ och organsystem och deras uppbyggnad, funk­tion och samverkan.",
               "en": "The cells of the body, and some organs and organ systems, their structure, function and interaction."
             },
-            "coreElements": [
-              "Kropp och hälsa"
-            ],
+            "coreElements": ["Kropp och hälsa"],
             "verbs": []
           },
           {
@@ -536,9 +480,7 @@
               "local": "Virus, bakterier, infektioner, smittspridning och antibiotikaresistens. Hur infek­tionssjukdomar kan förebyggas och behandlas.",
               "en": "Viruses, bacteria, infections, the spread of disease and antibiotic resistance. How infectious diseases can be prevented and treated."
             },
-            "coreElements": [
-              "Kropp och hälsa"
-            ],
+            "coreElements": ["Kropp och hälsa"],
             "verbs": []
           },
           {
@@ -547,9 +489,7 @@
               "local": "Hur den psykiska och fysiska hälsan påverkas av levnadsförhållanden, kost, sömn, motion, stress och beroendeframkallande medel samt hur häl­so­problem kan begränsas på individ- och samhällsnivå.",
               "en": "How mental and physical health is affected by living conditions, diet, sleep, exercise, stress and addictive substances, and how health problems can be reduced at individual and societal level."
             },
-            "coreElements": [
-              "Kropp och hälsa"
-            ],
+            "coreElements": ["Kropp och hälsa"],
             "verbs": []
           },
           {
@@ -558,9 +498,7 @@
               "local": "Människans reproduktion, sexualitet och identitet samt frågor om rela­tioner, kärlek, ansvar, samtycke och ömsesidighet. Sexuellt överförbara sjukdomar och preventivmedel.",
               "en": "Human reproduction, sexuality and identity, and questions about relationships, love, responsibility, consent and mutuality. Sexually transmitted diseases and contraception."
             },
-            "coreElements": [
-              "Kropp och hälsa"
-            ],
+            "coreElements": ["Kropp och hälsa"],
             "verbs": []
           },
           {
@@ -572,9 +510,7 @@
             "coreElements": [
               "Systematiska undersökningar och granskning av information"
             ],
-            "verbs": [
-              "Föra"
-            ]
+            "verbs": ["Föra"]
           },
           {
             "code": "BI-7-9-10",

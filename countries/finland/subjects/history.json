@@ -5,11 +5,7 @@
     "curriculum": "POPS 2014",
     "license": "Open Government Data (Finland)",
     "lastSynced": "2026-03-03T08:58:59Z",
-    "aiEnriched": [
-      "description.en",
-      "interdisciplinaryThemes",
-      "basicSkills"
-    ]
+    "aiEnriched": ["description.en", "interdisciplinaryThemes", "basicSkills"]
   },
   "subject": {
     "code": "HI",
@@ -250,13 +246,7 @@
               "local": "T1 ohjata oppilasta kiinnostumaan historiasta tiedonalana ja identiteettiä rakentavana oppiaineena",
               "en": "T1 guide the pupil to become interested in history as a field of knowledge and as a subject that builds identity"
             },
-            "coreElements": [
-              "S3",
-              "S4",
-              "S1",
-              "S2",
-              "S5"
-            ],
+            "coreElements": ["S3", "S4", "S1", "S2", "S5"],
             "verbs": []
           },
           {
@@ -265,13 +255,7 @@
               "local": "T2 johdattaa oppilasta tunnistamaan erilaisia historian lähteitä",
               "en": "T2 lead the pupil to recognise different types of historical sources"
             },
-            "coreElements": [
-              "S3",
-              "S4",
-              "S1",
-              "S2",
-              "S5"
-            ],
+            "coreElements": ["S3", "S4", "S1", "S2", "S5"],
             "verbs": []
           },
           {
@@ -280,13 +264,7 @@
               "local": "T3 ohjata oppilasta havaitsemaan historiatiedon tulkinnallisuuden",
               "en": "T3 guide the pupil to notice the interpretive nature of historical knowledge"
             },
-            "coreElements": [
-              "S3",
-              "S4",
-              "S1",
-              "S2",
-              "S5"
-            ],
+            "coreElements": ["S3", "S4", "S1", "S2", "S5"],
             "verbs": []
           },
           {
@@ -295,13 +273,7 @@
               "local": "T4 auttaa oppilasta ymmärtämään erilaisia tapoja jakaa historia aikakausiin sekä käyttämään niihin liittyviä historiallisia käsitteitä",
               "en": "T4 help the pupil understand different ways of dividing history into periods and to use related historical concepts"
             },
-            "coreElements": [
-              "S3",
-              "S4",
-              "S1",
-              "S2",
-              "S5"
-            ],
+            "coreElements": ["S3", "S4", "S1", "S2", "S5"],
             "verbs": []
           },
           {
@@ -310,13 +282,7 @@
               "local": "T5 ohjata oppilasta ymmärtämään ihmisen toiminnan motiiveja",
               "en": "T5 guide the pupil to understand the motives behind human actions"
             },
-            "coreElements": [
-              "S3",
-              "S4",
-              "S1",
-              "S2",
-              "S5"
-            ],
+            "coreElements": ["S3", "S4", "S1", "S2", "S5"],
             "verbs": []
           },
           {
@@ -325,13 +291,7 @@
               "local": "T6 johdattaa oppilasta hahmottamaan erilaisia syitä ja seurauksia historian tapahtumille ja ilmiöille",
               "en": "T6 lead the pupil to identify various causes and consequences of historical events and phenomena"
             },
-            "coreElements": [
-              "S3",
-              "S4",
-              "S1",
-              "S2",
-              "S5"
-            ],
+            "coreElements": ["S3", "S4", "S1", "S2", "S5"],
             "verbs": []
           },
           {
@@ -340,13 +300,7 @@
               "local": "T7 auttaa oppilasta tunnistamaan muutoksia oman perheen tai yhteisön historiassa sekä ymmärtämään, miten samat muutokset ovat voineet tarkoittaa eri asioita eri ihmisille",
               "en": "T7 help the pupil identify changes in the history of their own family or community and understand how the same changes may have meant different things to different people"
             },
-            "coreElements": [
-              "S3",
-              "S4",
-              "S1",
-              "S2",
-              "S5"
-            ],
+            "coreElements": ["S3", "S4", "S1", "S2", "S5"],
             "verbs": []
           },
           {
@@ -355,13 +309,7 @@
               "local": "T8 harjaannuttaa oppilasta hahmottamaan jatkuvuuksia historiassa",
               "en": "T8 practise the pupil in perceiving continuities in history"
             },
-            "coreElements": [
-              "S3",
-              "S4",
-              "S1",
-              "S2",
-              "S5"
-            ],
+            "coreElements": ["S3", "S4", "S1", "S2", "S5"],
             "verbs": []
           },
           {
@@ -370,13 +318,7 @@
               "local": "T9 ohjata oppilasta esittämämään muutoksille syitä",
               "en": "T9 guide the pupil to present reasons for changes"
             },
-            "coreElements": [
-              "S3",
-              "S4",
-              "S1",
-              "S2",
-              "S5"
-            ],
+            "coreElements": ["S3", "S4", "S1", "S2", "S5"],
             "verbs": []
           },
           {
@@ -385,13 +327,7 @@
               "local": "T10 ohjata oppilasta selittämään, miten tulkinnat saattavat muuttua uusien lähteiden tai tarkastelutapojen myötä",
               "en": "T10 guide the pupil to explain how interpretations may change with new sources or approaches"
             },
-            "coreElements": [
-              "S3",
-              "S4",
-              "S1",
-              "S2",
-              "S5"
-            ],
+            "coreElements": ["S3", "S4", "S1", "S2", "S5"],
             "verbs": []
           },
           {
@@ -400,13 +336,7 @@
               "local": "T11 ohjata oppilasta selittämään ihmisen toimintaa",
               "en": "T11 guide the pupil to explain human actions"
             },
-            "coreElements": [
-              "S3",
-              "S4",
-              "S1",
-              "S2",
-              "S5"
-            ],
+            "coreElements": ["S3", "S4", "S1", "S2", "S5"],
             "verbs": []
           }
         ]
@@ -424,14 +354,7 @@
               "local": "T1 vahvistaa oppilaan kiinnostusta historiasta tiedonalana ja identiteettiä rakentavana oppiaineena",
               "en": "T1 strengthen the pupil's interest in history as a field of knowledge and as a subject that builds identity"
             },
-            "coreElements": [
-              "S6",
-              "S1",
-              "S3",
-              "S2",
-              "S5",
-              "S4"
-            ],
+            "coreElements": ["S6", "S1", "S3", "S2", "S5", "S4"],
             "verbs": []
           },
           {
@@ -440,14 +363,7 @@
               "local": "T2 aktivoida oppilasta hankkimaan historiallista tietoa sekä arvioimaan tiedonlähteiden luotettavuutta",
               "en": "T2 activate the pupil to acquire historical knowledge and to evaluate the reliability of sources"
             },
-            "coreElements": [
-              "S6",
-              "S1",
-              "S3",
-              "S2",
-              "S5",
-              "S4"
-            ],
+            "coreElements": ["S6", "S1", "S3", "S2", "S5", "S4"],
             "verbs": []
           },
           {
@@ -456,14 +372,7 @@
               "local": "T3 auttaa oppilasta ymmärtämään, että historiallista tietoa voidaan tulkita eri tavoin",
               "en": "T3 help the pupil understand that historical knowledge can be interpreted in different ways"
             },
-            "coreElements": [
-              "S6",
-              "S1",
-              "S3",
-              "S2",
-              "S5",
-              "S4"
-            ],
+            "coreElements": ["S6", "S1", "S3", "S2", "S5", "S4"],
             "verbs": []
           },
           {
@@ -472,14 +381,7 @@
               "local": "T4 vahvistaa oppilaan kykyä ymmärtää historiallista aikaa ja siihen liittyviä käsitteitä",
               "en": "T4 strengthen the pupil's ability to understand historical time and related concepts"
             },
-            "coreElements": [
-              "S6",
-              "S1",
-              "S3",
-              "S2",
-              "S5",
-              "S4"
-            ],
+            "coreElements": ["S6", "S1", "S3", "S2", "S5", "S4"],
             "verbs": []
           },
           {
@@ -488,14 +390,7 @@
               "local": "T5 ohjata oppilasta ymmärtämään ihmisen toimintaan ja päätöksentekoon vaikuttaneita tekijöitä erilaisissa historiallisissa tilanteissa",
               "en": "T5 guide the pupil to understand the factors that have influenced human actions and decision-making in various historical situations"
             },
-            "coreElements": [
-              "S6",
-              "S1",
-              "S3",
-              "S2",
-              "S5",
-              "S4"
-            ],
+            "coreElements": ["S6", "S1", "S3", "S2", "S5", "S4"],
             "verbs": []
           },
           {
@@ -504,14 +399,7 @@
               "local": "T6 auttaa oppilasta arvioimaan erilaisia syitä historiallisille tapahtumille ja ilmiöille",
               "en": "T6 help the pupil evaluate various causes of historical events and phenomena"
             },
-            "coreElements": [
-              "S6",
-              "S1",
-              "S3",
-              "S2",
-              "S5",
-              "S4"
-            ],
+            "coreElements": ["S6", "S1", "S3", "S2", "S5", "S4"],
             "verbs": []
           },
           {
@@ -520,14 +408,7 @@
               "local": "T7 ohjata oppilasta analysoimaan historiallista muutosta ja jatkuvuutta",
               "en": "T7 guide the pupil to analyse historical change and continuity"
             },
-            "coreElements": [
-              "S6",
-              "S1",
-              "S3",
-              "S2",
-              "S5",
-              "S4"
-            ],
+            "coreElements": ["S6", "S1", "S3", "S2", "S5", "S4"],
             "verbs": []
           },
           {
@@ -536,14 +417,7 @@
               "local": "T8 kannustaa oppilasta tulkintojen tekemiseen",
               "en": "T8 encourage the pupil to make interpretations"
             },
-            "coreElements": [
-              "S6",
-              "S1",
-              "S3",
-              "S2",
-              "S5",
-              "S4"
-            ],
+            "coreElements": ["S6", "S1", "S3", "S2", "S5", "S4"],
             "verbs": []
           },
           {
@@ -552,14 +426,7 @@
               "local": "T9 ohjata oppilasta selittämään ihmisen toiminnan tarkoitusperiä",
               "en": "T9 guide the pupil to explain the purposes behind human actions"
             },
-            "coreElements": [
-              "S6",
-              "S1",
-              "S3",
-              "S2",
-              "S5",
-              "S4"
-            ],
+            "coreElements": ["S6", "S1", "S3", "S2", "S5", "S4"],
             "verbs": []
           },
           {
@@ -568,14 +435,7 @@
               "local": "T10 ohjata oppilasta selittämään, miksi historiallista tietoa voidaan tulkita ja käyttää eri tavoin eri tilanteissa ja arvioimaan kriittisesti tulkintojen luotettavuutta",
               "en": "T10 guide the pupil to explain why historical knowledge can be interpreted and used differently in different situations and to critically evaluate the reliability of interpretations"
             },
-            "coreElements": [
-              "S6",
-              "S1",
-              "S3",
-              "S2",
-              "S5",
-              "S4"
-            ],
+            "coreElements": ["S6", "S1", "S3", "S2", "S5", "S4"],
             "verbs": []
           },
           {
@@ -584,14 +444,7 @@
               "local": "T11 harjaannuttaa oppilasta käyttämään erilaisia lähteitä, vertailemaan niitä ja muodostamaan oman perustellun tulkintansa niiden pohjalta",
               "en": "T11 train the pupil to use different sources, compare them and form their own reasoned interpretation based on them"
             },
-            "coreElements": [
-              "S6",
-              "S1",
-              "S3",
-              "S2",
-              "S5",
-              "S4"
-            ],
+            "coreElements": ["S6", "S1", "S3", "S2", "S5", "S4"],
             "verbs": []
           },
           {
@@ -600,14 +453,7 @@
               "local": "T12 ohjata oppilasta arvioimaan tulevaisuuden vaihtoehtoja historiatietämyksensä avulla",
               "en": "T12 guide the pupil to evaluate future alternatives using their knowledge of history"
             },
-            "coreElements": [
-              "S6",
-              "S1",
-              "S3",
-              "S2",
-              "S5",
-              "S4"
-            ],
+            "coreElements": ["S6", "S1", "S3", "S2", "S5", "S4"],
             "verbs": []
           }
         ]

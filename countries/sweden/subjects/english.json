@@ -169,9 +169,7 @@
               "local": "Ämnesområden som är välbekanta för eleverna.",
               "en": "Subject areas that are familiar to the pupils."
             },
-            "coreElements": [
-              "Kommunikationens innehåll"
-            ],
+            "coreElements": ["Kommunikationens innehåll"],
             "verbs": []
           },
           {
@@ -180,9 +178,7 @@
               "local": "Vardagliga situationer, intressen, personer och platser.",
               "en": "Everyday situations, interests, people and places."
             },
-            "coreElements": [
-              "Kommunikationens innehåll"
-            ],
+            "coreElements": ["Kommunikationens innehåll"],
             "verbs": []
           },
           {
@@ -191,9 +187,7 @@
               "local": "Vardagsliv och levnadssätt i olika sammanhang och områden där engelska an­vänds.",
               "en": "Everyday life and ways of living in different contexts and areas where English is used."
             },
-            "coreElements": [
-              "Kommunikationens innehåll"
-            ],
+            "coreElements": ["Kommunikationens innehåll"],
             "verbs": []
           },
           {
@@ -202,13 +196,8 @@
               "local": "Tydligt talad engelska och enkla texter som är instruerande, beskrivande och kontaktskapande, från olika medier, även i kombination med illu­stra­tioner.",
               "en": "Clearly spoken English and simple texts that are instructional, descriptive and contact-establishing, from different media, also in combination with illustrations."
             },
-            "coreElements": [
-              "Lyssna och läsa – reception"
-            ],
-            "verbs": [
-              "Beskriva",
-              "Skapa"
-            ]
+            "coreElements": ["Lyssna och läsa – reception"],
+            "verbs": ["Beskriva", "Skapa"]
           },
           {
             "code": "EN-1-3-5",
@@ -216,9 +205,7 @@
               "local": "Enkla dialoger och samtal.",
               "en": "Simple dialogues and conversations."
             },
-            "coreElements": [
-              "Lyssna och läsa – reception"
-            ],
+            "coreElements": ["Lyssna och läsa – reception"],
             "verbs": []
           },
           {
@@ -227,9 +214,7 @@
               "local": "Filmer och dramatiserade berättelser för barn.",
               "en": "Films and dramatised stories for children."
             },
-            "coreElements": [
-              "Lyssna och läsa – reception"
-            ],
+            "coreElements": ["Lyssna och läsa – reception"],
             "verbs": []
           },
           {
@@ -238,9 +223,7 @@
               "local": "Sånger, ramsor, dikter och sagor.",
               "en": "Songs, rhymes, poems and fairy tales."
             },
-            "coreElements": [
-              "Lyssna och läsa – reception"
-            ],
+            "coreElements": ["Lyssna och läsa – reception"],
             "verbs": []
           },
           {
@@ -249,9 +232,7 @@
               "local": "Ord och fraser i närmiljön, till exempel på skyltar, i reklam och andra enkla texter.",
               "en": "Words and phrases in the local environment, for example on signs, in advertisements and other simple texts."
             },
-            "coreElements": [
-              "Lyssna och läsa – reception"
-            ],
+            "coreElements": ["Lyssna och läsa – reception"],
             "verbs": []
           },
           {
@@ -302,9 +283,7 @@
               "local": "Ämnesområden som är välbekanta för eleverna.",
               "en": "Subject areas that are familiar to the pupils."
             },
-            "coreElements": [
-              "Kommunikationens innehåll"
-            ],
+            "coreElements": ["Kommunikationens innehåll"],
             "verbs": []
           },
           {
@@ -313,9 +292,7 @@
               "local": "Vardagliga situationer, intressen, personer, platser, aktiviteter och hän­del­ser.",
               "en": "Everyday situations, interests, people, places, activities and events."
             },
-            "coreElements": [
-              "Kommunikationens innehåll"
-            ],
+            "coreElements": ["Kommunikationens innehåll"],
             "verbs": []
           },
           {
@@ -324,9 +301,7 @@
               "local": "Åsikter, känslor och erfarenheter.",
               "en": "Opinions, feelings and experiences."
             },
-            "coreElements": [
-              "Kommunikationens innehåll"
-            ],
+            "coreElements": ["Kommunikationens innehåll"],
             "verbs": []
           },
           {
@@ -335,9 +310,7 @@
               "local": "Vardagsliv, levnadssätt och sociala relationer i olika sammanhang och om­rå­den där engelska används, även i jämförelse med egna erfarenheter och kunskaper. Engelskans utbredning i världen.",
               "en": "Everyday life, ways of living and social relationships in different contexts and areas where English is used, also in comparison with one's own experiences and knowledge. The spread of English in the world."
             },
-            "coreElements": [
-              "Kommunikationens innehåll"
-            ],
+            "coreElements": ["Kommunikationens innehåll"],
             "verbs": []
           },
           {
@@ -346,13 +319,8 @@
               "local": "Tydligt talad engelska och enkla texter som är instruerande, beskrivande och kontaktskapande, från olika medier.",
               "en": "Clearly spoken English and simple texts that are instructional, descriptive and contact-establishing, from different media."
             },
-            "coreElements": [
-              "Lyssna och läsa – reception"
-            ],
-            "verbs": [
-              "Beskriva",
-              "Skapa"
-            ]
+            "coreElements": ["Lyssna och läsa – reception"],
+            "verbs": ["Beskriva", "Skapa"]
           },
           {
             "code": "EN-4-6-6",
@@ -360,9 +328,7 @@
               "local": "Dialoger, samtal och intervjuer.",
               "en": "Dialogues, conversations and interviews."
             },
-            "coreElements": [
-              "Lyssna och läsa – reception"
-            ],
+            "coreElements": ["Lyssna och läsa – reception"],
             "verbs": []
           },
           {
@@ -371,9 +337,7 @@
               "local": "Berättelser och annan fiktion för barn och unga, även i talad eller drama­tise­rad form.",
               "en": "Stories and other fiction for children and young people, also in spoken or dramatised form."
             },
-            "coreElements": [
-              "Lyssna och läsa – reception"
-            ],
+            "coreElements": ["Lyssna och läsa – reception"],
             "verbs": []
           },
           {
@@ -382,9 +346,7 @@
               "local": "Sånger, dikter och sagor.",
               "en": "Songs, poems and fairy tales."
             },
-            "coreElements": [
-              "Lyssna och läsa – reception"
-            ],
+            "coreElements": ["Lyssna och läsa – reception"],
             "verbs": []
           },
           {
@@ -393,9 +355,7 @@
               "local": "Muntliga och skriftliga meddelanden samt information, till exempel reklam, tidtabeller och notiser.",
               "en": "Oral and written messages and information, for example advertisements, timetables and notices."
             },
-            "coreElements": [
-              "Lyssna och läsa – reception"
-            ],
+            "coreElements": ["Lyssna och läsa – reception"],
             "verbs": []
           },
           {
@@ -404,9 +364,7 @@
               "local": "Strategier för att uppfatta betydelsebärande ord och sammanhang samt för att anpassa lyssnande och läsning till framställningens form och innehåll.",
               "en": "Strategies for identifying key words and context, and for adapting listening and reading to the form and content of the presentation."
             },
-            "coreElements": [
-              "Lyssna och läsa – reception"
-            ],
+            "coreElements": ["Lyssna och läsa – reception"],
             "verbs": []
           },
           {
@@ -415,9 +373,7 @@
               "local": "Sökning av enkel information i ett avgränsat urval av muntliga och skrift­liga källor av olika slag för användning i egen produktion och interaktion.",
               "en": "Searching for simple information in a limited selection of oral and written sources of various kinds for use in one's own production and interaction."
             },
-            "coreElements": [
-              "Lyssna och läsa – reception"
-            ],
+            "coreElements": ["Lyssna och läsa – reception"],
             "verbs": []
           },
           {
@@ -426,9 +382,7 @@
               "local": "Språkliga företeelser, däribland uttal, ord och fasta språkliga uttryck, gram­matiska strukturer samt stavning, i det språk eleverna möter.",
               "en": "Linguistic phenomena, including pronunciation, words and fixed expressions, grammatical structures and spelling, in the language the pupils encounter."
             },
-            "coreElements": [
-              "Lyssna och läsa – reception"
-            ],
+            "coreElements": ["Lyssna och läsa – reception"],
             "verbs": []
           },
           {
@@ -437,9 +391,7 @@
               "local": "Hur olika formuleringar används för att inleda och avsluta olika typer av fram­ställningar och samtal.",
               "en": "How different formulations are used to begin and end different types of presentations and conversations."
             },
-            "coreElements": [
-              "Lyssna och läsa – reception"
-            ],
+            "coreElements": ["Lyssna och läsa – reception"],
             "verbs": []
           },
           {
@@ -549,9 +501,7 @@
               "local": "Aktuella och för eleven bekanta ämnesområden.",
               "en": "Current subject areas that are familiar to the pupil."
             },
-            "coreElements": [
-              "Kommunikationens innehåll"
-            ],
+            "coreElements": ["Kommunikationens innehåll"],
             "verbs": []
           },
           {
@@ -560,9 +510,7 @@
               "local": "Vardagliga situationer, intressen, aktiviteter och händelseförlopp.",
               "en": "Everyday situations, interests, activities and sequences of events."
             },
-            "coreElements": [
-              "Kommunikationens innehåll"
-            ],
+            "coreElements": ["Kommunikationens innehåll"],
             "verbs": []
           },
           {
@@ -571,9 +519,7 @@
               "local": "Åsikter, känslor, erfarenheter och framtidsplaner samt relationer och etiska frågor.",
               "en": "Opinions, feelings, experiences and future plans, as well as relationships and ethical issues."
             },
-            "coreElements": [
-              "Kommunikationens innehåll"
-            ],
+            "coreElements": ["Kommunikationens innehåll"],
             "verbs": []
           },
           {
@@ -582,9 +528,7 @@
               "local": "Levnadsvillkor, traditioner, sociala relationer och kulturella företeelser i oli­ka sammanhang och områden där engelska används, även i jämförelse med egna erfarenheter och kunskaper.",
               "en": "Living conditions, traditions, social relationships and cultural phenomena in different contexts and areas where English is used, also in comparison with one's own experiences and knowledge."
             },
-            "coreElements": [
-              "Kommunikationens innehåll"
-            ],
+            "coreElements": ["Kommunikationens innehåll"],
             "verbs": []
           },
           {
@@ -593,9 +537,7 @@
               "local": "Talad engelska, även med inslag av regional och sociolektal variation, och tex­ter, från olika medier.",
               "en": "Spoken English, including elements of regional and sociolectal variation, and texts from different media."
             },
-            "coreElements": [
-              "Lyssna och läsa – reception"
-            ],
+            "coreElements": ["Lyssna och läsa – reception"],
             "verbs": []
           },
           {
@@ -604,14 +546,8 @@
               "local": "Talad engelska och texter som är instruerande, informerande, beskrivande, be­rättande, diskuterande, argumenterande och kontaktskapande – varje slag för sig eller i olika kombinationer – till exempel samtal, intervjuer, ny­he­ter, reportage och tidningsartiklar.",
               "en": "Spoken English and texts that are instructional, informational, descriptive, narrative, discursive, argumentative and contact-establishing -- each type individually or in various combinations -- for example conversations, interviews, news, reports and newspaper articles."
             },
-            "coreElements": [
-              "Lyssna och läsa – reception"
-            ],
-            "verbs": [
-              "Argumentera",
-              "Beskriva",
-              "Skapa"
-            ]
+            "coreElements": ["Lyssna och läsa – reception"],
+            "verbs": ["Argumentera", "Beskriva", "Skapa"]
           },
           {
             "code": "EN-7-9-7",
@@ -619,9 +555,7 @@
               "local": "Skönlitteratur och annan fiktion, även i talad och filmatiserad form.",
               "en": "Fiction and other literary works, also in spoken and filmed form."
             },
-            "coreElements": [
-              "Lyssna och läsa – reception"
-            ],
+            "coreElements": ["Lyssna och läsa – reception"],
             "verbs": []
           },
           {
@@ -630,9 +564,7 @@
               "local": "Sånger och dikter.",
               "en": "Songs and poems."
             },
-            "coreElements": [
-              "Lyssna och läsa – reception"
-            ],
+            "coreElements": ["Lyssna och läsa – reception"],
             "verbs": []
           },
           {
@@ -641,12 +573,8 @@
               "local": "Strategier för att uppfatta detaljer och förstå sammanhang samt för att an­passa lyssnande och läsning till framställningens form, innehåll och syfte.",
               "en": "Strategies for identifying details and understanding context, and for adapting listening and reading to the form, content and purpose of the presentation."
             },
-            "coreElements": [
-              "Lyssna och läsa – reception"
-            ],
-            "verbs": [
-              "Förstå"
-            ]
+            "coreElements": ["Lyssna och läsa – reception"],
+            "verbs": ["Förstå"]
           },
           {
             "code": "EN-7-9-10",
@@ -654,9 +582,7 @@
               "local": "Sökning och värdering av innehåll i muntliga och skriftliga källor av olika slag, utifrån olika syften.",
               "en": "Searching for and evaluating content in oral and written sources of various kinds, for different purposes."
             },
-            "coreElements": [
-              "Lyssna och läsa – reception"
-            ],
+            "coreElements": ["Lyssna och läsa – reception"],
             "verbs": []
           },
           {
@@ -665,9 +591,7 @@
               "local": "Språkliga företeelser, däribland uttal, grammatiska strukturer och sat­s­bygg­nad, ord med olika stilvärden och fasta språkliga uttryck samt stav­ning, i det språk eleverna möter.",
               "en": "Linguistic phenomena, including pronunciation, grammatical structures and sentence construction, words with different stylistic values and fixed expressions, and spelling, in the language the pupils encounter."
             },
-            "coreElements": [
-              "Lyssna och läsa – reception"
-            ],
+            "coreElements": ["Lyssna och läsa – reception"],
             "verbs": []
           },
           {
@@ -676,12 +600,8 @@
               "local": "Hur sammanbindande ord och andra uttryck används för att skapa struktur och språkligt sammanhängande helheter.",
               "en": "How connective words and other expressions are used to create structure and linguistically coherent texts."
             },
-            "coreElements": [
-              "Lyssna och läsa – reception"
-            ],
-            "verbs": [
-              "Skapa"
-            ]
+            "coreElements": ["Lyssna och läsa – reception"],
+            "verbs": ["Skapa"]
           },
           {
             "code": "EN-7-9-13",
@@ -703,10 +623,7 @@
             "coreElements": [
               "Tala, skriva och samtala – produktion och interaktion"
             ],
-            "verbs": [
-              "Formulera",
-              "Förklara"
-            ]
+            "verbs": ["Formulera", "Förklara"]
           },
           {
             "code": "EN-7-9-15",
