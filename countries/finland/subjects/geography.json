@@ -4,13 +4,18 @@
     "api": "https://eperusteet.opintopolku.fi/eperusteet-service/api/external/peruste/419550/perusopetus/oppiaineet/478971",
     "curriculum": "POPS 2014",
     "license": "Open Government Data (Finland)",
-    "lastSynced": "2026-03-02T21:29:46Z"
+    "lastSynced": "2026-03-03T08:59:00Z",
+    "aiEnriched": ["description.en", "interdisciplinaryThemes", "basicSkills"]
   },
   "subject": {
     "code": "GE",
     "name": {
       "local": "Maantieto",
       "en": "Geography"
+    },
+    "description": {
+      "local": "Maantiedon opetuksen tehtävänä on tukea oppilaiden maailmankuvan rakentumista. Oppilaita ohjataan seuraamaan ajankohtaisia tapahtumia omassa lähiympäristössä ja koko maailmassa sekä autetaan oppilaita sijoittamaan uutiset maailman tapahtumista maantiedon opetuksessa saamaansa alueelliseen kehikkoon.\n\nMaantieto on monitieteinen ja eri tiedonaloja integroiva oppiaine, jossa tutkitaan maapalloa ja sen alueita, luontoa, ihmisen toimintaa sekä erilaisia kulttuureita. Maantiedon opetuksessa otetaan huomioon luonnontieteiden, ihmistieteiden ja yhteiskuntatieteiden näkökulmat. Näin rakennetaan eheää kokonaiskuvaa monimuotoisesta maailmasta ja sen toiminnasta.\n\nMaantiedon opetuksessa käsitellään luonnon ja ihmisen toiminnan vuorovaikutusta ja sen yhteyttä ympäristön tilaan sekä luodaan perustaa ymmärtää erilaisia alueellisia näkökulmia ja ristiriitoja maapallolla. Maantieteellisten syy- ja seuraussuhteiden sekä ympäristönmuutosten ymmärtäminen ja analysointi aktivoivat oppilasta toimimaan vastuullisesti omassa arjessa.\n\nMaantiedon opetuksessa otetaan huomioon oppilaiden oma elämismaailma. Opetus tarjoaa toiminnallisia kokemuksia erilaisissa oppimisympäristöissä, joissa oppilaat tekevät havaintoja ja tutkimuksia. Opiskelussa hyödynnetään monipuolisesti tieto- ja viestintäteknologiaa. Teknologian käyttö edistää myös oppilaiden yhdenvertaisuutta ja tasa-arvoa oppimisessa.\n\nMaantiedon opetuksessa vahvistetaan oppilaiden valmiuksia kestävää kehitystä edistävään toimintatapaan. Opetus harjaannuttaa oppilaiden osallistumis- ja vaikuttamistaitoja ja antaa oppilaille keinoja aktiiviseen kansalaisuuteen ja kestävän tulevaisuuden rakentamiseen.",
+      "en": "The task of geography education is to support the building of pupils' worldview. Pupils are guided to follow current events in their own local environment and around the world, and are helped to place news of world events into the regional framework gained in geography education.\n\nGeography is a multidisciplinary and integrative subject that studies the Earth and its regions, nature, human activity, and different cultures. Geography education takes into account the perspectives of natural sciences, human sciences, and social sciences. This builds a coherent overall picture of a diverse world and how it functions.\n\nGeography education addresses the interaction between nature and human activity and its connection to the state of the environment, and creates a foundation for understanding different regional perspectives and conflicts on Earth. Understanding and analysing geographical cause-and-effect relationships and environmental changes activate the pupil to act responsibly in their own everyday life.\n\nGeography education takes into account pupils' own lifeworld. Teaching provides hands-on experiences in diverse learning environments where pupils make observations and conduct investigations. Information and communication technology is utilised in diverse ways in studying. The use of technology also promotes pupils' equality and equity in learning.\n\nGeography education strengthens pupils' readiness for a sustainable way of life. Teaching develops pupils' participation and influencing skills and provides pupils with the means for active citizenship and building a sustainable future."
     },
     "coreElements": [
       {
@@ -80,6 +85,98 @@
         }
       }
     ],
+    "interdisciplinaryThemes": [
+      {
+        "code": "TT1",
+        "name": {
+          "local": "Terveys ja elämänhallinta",
+          "en": "Health and life skills"
+        },
+        "description": {
+          "local": "Maantiedon opetuksessa terveys ja elämänhallinta toteutuvat oppilaiden tutkiessa elämän perusedellytyksiä, kuten puhtaan ilman, veden ja ravinnon saatavuutta eri alueilla maapallolla. Oppilaat oppivat ymmärtämään ympäristön ja elinolosuhteiden vaikutuksia ihmisten hyvinvointiin.",
+          "en": "In geography education, health and life skills are realised as pupils investigate the basic prerequisites for life, such as the availability of clean air, water, and food in different regions of the Earth. Pupils learn to understand the effects of the environment and living conditions on human well-being."
+        }
+      },
+      {
+        "code": "TT2",
+        "name": {
+          "local": "Demokratia ja kansalaisuus",
+          "en": "Democracy and citizenship"
+        },
+        "description": {
+          "local": "Maantiedon opetuksessa demokratia ja kansalaisuus toteutuvat oppilaiden oppiessa analysoimaan alueellisia kehityskysymyksiä, ihmisoikeuksia ja globalisaation vaikutuksia. Oppilaat kehittävät osallistumis- ja vaikuttamistaitojaan ja oppivat toimimaan vastuullisina kansalaisina.",
+          "en": "In geography education, democracy and citizenship are realised as pupils learn to analyse regional development issues, human rights, and the effects of globalisation. Pupils develop their participation and influencing skills and learn to act as responsible citizens."
+        }
+      },
+      {
+        "code": "TT3",
+        "name": {
+          "local": "Kestävä kehitys",
+          "en": "Sustainability"
+        },
+        "description": {
+          "local": "Kestävä kehitys on maantiedon opetuksen keskeinen teema. Oppilaat tutkivat luonnonvarojen kestävää käyttöä, ilmastonmuutosta, ympäristönmuutoksia ja biotalouden mahdollisuuksia sekä pohtivat omia kulutusvalintojaan ja tuotteiden elinkaaria.",
+          "en": "Sustainability is a central theme in geography education. Pupils investigate the sustainable use of natural resources, climate change, environmental changes, and the potential of the bioeconomy, and reflect on their own consumption choices and product life cycles."
+        }
+      }
+    ],
+    "basicSkills": [
+      {
+        "code": "GF1",
+        "name": {
+          "local": "Suulliset taidot",
+          "en": "Oral skills"
+        },
+        "description": {
+          "local": "Suulliset taidot maantiedossa tarkoittavat maantieteellisen tiedon esittämistä, argumentointia ja keskustelua alueellisista ilmiöistä ja ajankohtaisista tapahtumista. Oppilas oppii ilmaisemaan näkemyksiään selkeästi ja perustellusti ryhmätyö- ja vuorovaikutustilanteissa.",
+          "en": "Oral skills in geography mean presenting geographical information, arguing, and discussing regional phenomena and current events. The pupil learns to express their views clearly and with justification in teamwork and interaction situations."
+        }
+      },
+      {
+        "code": "GF2",
+        "name": {
+          "local": "Kirjoittaminen",
+          "en": "Writing"
+        },
+        "description": {
+          "local": "Kirjoittaminen maantiedossa tarkoittaa tutkimusraporttien, alueellisten kuvausten ja ajankohtaisanalyysien tuottamista. Oppilas harjoittelee maantieteellisten ilmiöiden kuvaamista ja selittämistä kirjallisesti käyttäen asianmukaisia käsitteitä.",
+          "en": "Writing in geography means producing research reports, regional descriptions, and analyses of current events. The pupil practises describing and explaining geographical phenomena in writing using appropriate concepts."
+        }
+      },
+      {
+        "code": "GF3",
+        "name": {
+          "local": "Lukeminen",
+          "en": "Reading"
+        },
+        "description": {
+          "local": "Lukeminen maantiedossa tarkoittaa karttojen, tilastojen, diagrammien, geomedia-aineistojen ja ajankohtaisten uutisten lukemista ja kriittistä tulkintaa. Oppilas kehittää taitoaan hankkia ja arvioida maantieteellistä tietoa monipuolisista lähteistä.",
+          "en": "Reading in geography means reading and critically interpreting maps, statistics, diagrams, geomedia materials, and current news. The pupil develops their skill in acquiring and evaluating geographical information from diverse sources."
+        }
+      },
+      {
+        "code": "GF4",
+        "name": {
+          "local": "Laskutaito",
+          "en": "Numeracy"
+        },
+        "description": {
+          "local": "Laskutaito maantiedossa ilmenee mittakaavojen käytössä, etäisyyksien ja pinta-alojen laskemisessa, tilastojen tulkinnassa ja väestötietojen analysoinnissa. Oppilas oppii käsittelemään numeerista paikkatietoa ja tekemään laskelmia maantieteellisten ilmiöiden kuvaamiseksi.",
+          "en": "Numeracy in geography is manifested in the use of scales, calculating distances and areas, interpreting statistics, and analysing population data. The pupil learns to process numerical geospatial data and perform calculations to describe geographical phenomena."
+        }
+      },
+      {
+        "code": "GF5",
+        "name": {
+          "local": "Digitaaliset taidot",
+          "en": "Digital skills"
+        },
+        "description": {
+          "local": "Digitaaliset taidot maantiedossa tarkoittavat karttojen, paikkatiedon ja geomedian monipuolista käyttöä sekä tieto- ja viestintäteknologian hyödyntämistä tutkimusten tekemisessä ja tulosten esittämisessä. Oppilas oppii käyttämään digitaalisia karttapalveluja ja geomediatyökaluja.",
+          "en": "Digital skills in geography mean the versatile use of maps, geospatial data, and geomedia, as well as utilising information and communication technology in conducting investigations and presenting results. The pupil learns to use digital map services and geomedia tools."
+        }
+      }
+    ],
     "gradeBands": [
       {
         "afterGrade": 9,
@@ -95,12 +192,12 @@
               "en": "T1 support the pupil in building a structured map image of the Earth"
             },
             "coreElements": [
-              "S2 Ajankohtainen muuttuva maailma",
-              "S1 Maapallon karttakuva ja alueet",
-              "S3 Elämän perusedellytykset maapallolla",
-              "S5 Ihmiset ja kulttuurit maapallolla",
-              "S4 Muuttuvat maisemat ja elinympäristöt",
-              "S6 Kestävä elämäntapa ja luonnonvarojen kestävä käyttö"
+              "S2",
+              "S1",
+              "S3",
+              "S5",
+              "S4",
+              "S6"
             ],
             "verbs": []
           },
@@ -111,11 +208,11 @@
               "en": "T2 guide the pupil to investigate physical geographical phenomena and to compare natural landscapes in Finland and elsewhere on Earth"
             },
             "coreElements": [
-              "S2 Ajankohtainen muuttuva maailma",
-              "S1 Maapallon karttakuva ja alueet",
-              "S3 Elämän perusedellytykset maapallolla",
-              "S4 Muuttuvat maisemat ja elinympäristöt",
-              "S6 Kestävä elämäntapa ja luonnonvarojen kestävä käyttö"
+              "S2",
+              "S1",
+              "S3",
+              "S4",
+              "S6"
             ],
             "verbs": []
           },
@@ -126,12 +223,12 @@
               "en": "T3 guide the pupil to investigate human geographical phenomena and cultural landscapes and to understand different cultures, livelihoods, and people's lives in Finland and in different regions of the Earth"
             },
             "coreElements": [
-              "S2 Ajankohtainen muuttuva maailma",
-              "S1 Maapallon karttakuva ja alueet",
-              "S3 Elämän perusedellytykset maapallolla",
-              "S5 Ihmiset ja kulttuurit maapallolla",
-              "S4 Muuttuvat maisemat ja elinympäristöt",
-              "S6 Kestävä elämäntapa ja luonnonvarojen kestävä käyttö"
+              "S2",
+              "S1",
+              "S3",
+              "S5",
+              "S4",
+              "S6"
             ],
             "verbs": []
           },
@@ -142,12 +239,12 @@
               "en": "T4 encourage the pupil to consider the interaction between human activity and the natural environment and to understand the significance of sustainable use of natural resources"
             },
             "coreElements": [
-              "S2 Ajankohtainen muuttuva maailma",
-              "S1 Maapallon karttakuva ja alueet",
-              "S3 Elämän perusedellytykset maapallolla",
-              "S5 Ihmiset ja kulttuurit maapallolla",
-              "S4 Muuttuvat maisemat ja elinympäristöt",
-              "S6 Kestävä elämäntapa ja luonnonvarojen kestävä käyttö"
+              "S2",
+              "S1",
+              "S3",
+              "S5",
+              "S4",
+              "S6"
             ],
             "verbs": []
           },
@@ -158,12 +255,12 @@
               "en": "T5 guide the pupil to develop geographical thinking skills and the ability to pose geographical questions"
             },
             "coreElements": [
-              "S2 Ajankohtainen muuttuva maailma",
-              "S1 Maapallon karttakuva ja alueet",
-              "S3 Elämän perusedellytykset maapallolla",
-              "S5 Ihmiset ja kulttuurit maapallolla",
-              "S4 Muuttuvat maisemat ja elinympäristöt",
-              "S6 Kestävä elämäntapa ja luonnonvarojen kestävä käyttö"
+              "S2",
+              "S1",
+              "S3",
+              "S5",
+              "S4",
+              "S6"
             ],
             "verbs": []
           },
@@ -174,12 +271,12 @@
               "en": "T6 guide the pupil to develop spatial awareness and understanding of symbols, scales, directions, and distances"
             },
             "coreElements": [
-              "S2 Ajankohtainen muuttuva maailma",
-              "S1 Maapallon karttakuva ja alueet",
-              "S3 Elämän perusedellytykset maapallolla",
-              "S5 Ihmiset ja kulttuurit maapallolla",
-              "S4 Muuttuvat maisemat ja elinympäristöt",
-              "S6 Kestävä elämäntapa ja luonnonvarojen kestävä käyttö"
+              "S2",
+              "S1",
+              "S3",
+              "S5",
+              "S4",
+              "S6"
             ],
             "verbs": []
           },
@@ -190,12 +287,12 @@
               "en": "T7 guide the pupil to practise everyday geomedia skills and to read, interpret, and create maps and other models of geographical phenomena"
             },
             "coreElements": [
-              "S2 Ajankohtainen muuttuva maailma",
-              "S1 Maapallon karttakuva ja alueet",
-              "S3 Elämän perusedellytykset maapallolla",
-              "S5 Ihmiset ja kulttuurit maapallolla",
-              "S4 Muuttuvat maisemat ja elinympäristöt",
-              "S6 Kestävä elämäntapa ja luonnonvarojen kestävä käyttö"
+              "S2",
+              "S1",
+              "S3",
+              "S5",
+              "S4",
+              "S6"
             ],
             "verbs": []
           },
@@ -206,12 +303,12 @@
               "en": "T8 guide the pupil to develop geographical research skills"
             },
             "coreElements": [
-              "S2 Ajankohtainen muuttuva maailma",
-              "S1 Maapallon karttakuva ja alueet",
-              "S3 Elämän perusedellytykset maapallolla",
-              "S5 Ihmiset ja kulttuurit maapallolla",
-              "S4 Muuttuvat maisemat ja elinympäristöt",
-              "S6 Kestävä elämäntapa ja luonnonvarojen kestävä käyttö"
+              "S2",
+              "S1",
+              "S3",
+              "S5",
+              "S4",
+              "S6"
             ],
             "verbs": []
           },
@@ -222,12 +319,12 @@
               "en": "T9 train the pupil to observe the environment and changes occurring in it, and to encourage the pupil to follow current events in their local environment, in Finland, and around the world"
             },
             "coreElements": [
-              "S2 Ajankohtainen muuttuva maailma",
-              "S1 Maapallon karttakuva ja alueet",
-              "S3 Elämän perusedellytykset maapallolla",
-              "S5 Ihmiset ja kulttuurit maapallolla",
-              "S4 Muuttuvat maisemat ja elinympäristöt",
-              "S6 Kestävä elämäntapa ja luonnonvarojen kestävä käyttö"
+              "S2",
+              "S1",
+              "S3",
+              "S5",
+              "S4",
+              "S6"
             ],
             "verbs": []
           },
@@ -238,12 +335,12 @@
               "en": "T10 support the pupil in developing interaction and teamwork skills and in arguing and presenting geographical information clearly"
             },
             "coreElements": [
-              "S2 Ajankohtainen muuttuva maailma",
-              "S1 Maapallon karttakuva ja alueet",
-              "S3 Elämän perusedellytykset maapallolla",
-              "S5 Ihmiset ja kulttuurit maapallolla",
-              "S4 Muuttuvat maisemat ja elinympäristöt",
-              "S6 Kestävä elämäntapa ja luonnonvarojen kestävä käyttö"
+              "S2",
+              "S1",
+              "S3",
+              "S5",
+              "S4",
+              "S6"
             ],
             "verbs": []
           },
@@ -254,12 +351,12 @@
               "en": "T11 guide the pupil to cherish nature, the built environment, and their diversity, and to strengthen the pupil's participation and influencing skills"
             },
             "coreElements": [
-              "S2 Ajankohtainen muuttuva maailma",
-              "S1 Maapallon karttakuva ja alueet",
-              "S3 Elämän perusedellytykset maapallolla",
-              "S5 Ihmiset ja kulttuurit maapallolla",
-              "S4 Muuttuvat maisemat ja elinympäristöt",
-              "S6 Kestävä elämäntapa ja luonnonvarojen kestävä käyttö"
+              "S2",
+              "S1",
+              "S3",
+              "S5",
+              "S4",
+              "S6"
             ],
             "verbs": []
           },
@@ -270,12 +367,12 @@
               "en": "T12 support the pupil in growing into an active, responsibly acting citizen committed to a sustainable way of life"
             },
             "coreElements": [
-              "S2 Ajankohtainen muuttuva maailma",
-              "S1 Maapallon karttakuva ja alueet",
-              "S3 Elämän perusedellytykset maapallolla",
-              "S5 Ihmiset ja kulttuurit maapallolla",
-              "S4 Muuttuvat maisemat ja elinympäristöt",
-              "S6 Kestävä elämäntapa ja luonnonvarojen kestävä käyttö"
+              "S2",
+              "S1",
+              "S3",
+              "S5",
+              "S4",
+              "S6"
             ],
             "verbs": []
           },
@@ -286,12 +383,12 @@
               "en": "T13 guide the pupil to value their regional identity and the diversity of nature, human activity, and cultures, and to respect human rights everywhere in the world"
             },
             "coreElements": [
-              "S2 Ajankohtainen muuttuva maailma",
-              "S1 Maapallon karttakuva ja alueet",
-              "S3 Elämän perusedellytykset maapallolla",
-              "S5 Ihmiset ja kulttuurit maapallolla",
-              "S4 Muuttuvat maisemat ja elinympäristöt",
-              "S6 Kestävä elämäntapa ja luonnonvarojen kestävä käyttö"
+              "S2",
+              "S1",
+              "S3",
+              "S5",
+              "S4",
+              "S6"
             ],
             "verbs": []
           }

@@ -187,12 +187,30 @@ def extract_verbs(text: str) -> list[str]:
     return found
 
 
+def load_existing(filepath: Path) -> dict | None:
+    if filepath.exists():
+        with open(filepath, "r", encoding="utf-8") as f:
+            return json.load(f)
+    return None
+
+
+def preserve_en(new_obj: dict, existing_obj: dict | None, key: str) -> None:
+    if existing_obj and key in existing_obj and isinstance(existing_obj[key], dict):
+        existing_en = existing_obj[key].get("en", "")
+        if existing_en and not new_obj.get(key, {}).get("en"):
+            new_obj[key]["en"] = existing_en
+
+
 def sync_subject(code: str, filename: str) -> dict | None:
     print(f"\nFetching {code} ({ENGLISH_NAMES.get(code, filename)})...")
 
     data = fetch_json(f"{BASE_URL}/subjects/{code}")
     if not data:
         return None
+
+    output_path = OUTPUT_DIR / f"{filename}.json"
+    existing = load_existing(output_path)
+    existing_subject = existing.get("subject", {}) if existing else {}
 
     subject = data.get("subject") or data
     if "subject" in data and isinstance(data["subject"], dict):
@@ -209,13 +227,25 @@ def sync_subject(code: str, filename: str) -> dict | None:
     description_local = extract_description(purpose_html)
     purpose_aims = extract_purpose_aims(purpose_html)
 
+    existing_core_map = {}
+    for ce in existing_subject.get("coreElements", []):
+        local_key = ce.get("name", {}).get("local", "")
+        if local_key:
+            existing_core_map[local_key] = ce
+
     core_elements = []
     for aim in purpose_aims:
-        core_elements.append({
+        existing_ce = existing_core_map.get(aim, {})
+        ce = {
             "code": "",
-            "name": {"local": aim, "en": ""},
-            "description": {"local": aim, "en": ""},
-        })
+            "name": {"local": aim, "en": existing_ce.get("name", {}).get("en", "")},
+            "description": {"local": aim, "en": existing_ce.get("description", {}).get("en", "")},
+        }
+        core_elements.append(ce)
+
+    existing_bands_map = {}
+    for eb in existing_subject.get("gradeBands", []):
+        existing_bands_map[eb.get("afterGrade")] = eb
 
     grade_bands = []
     total_goals = 0
@@ -230,6 +260,14 @@ def sync_subject(code: str, filename: str) -> dict | None:
         label_local = f"Årskurs {year_str}"
         label_en = GRADE_BAND_LABELS_EN.get(year_str, f"Years {year_str}")
 
+        existing_band = existing_bands_map.get(after_grade, {})
+        existing_goals_map = {}
+        for eg in existing_band.get("competenceGoals", []):
+            existing_goals_map[eg.get("code", "")] = eg
+        existing_kr_map = {}
+        for ekr in existing_band.get("knowledgeCriteria", []):
+            existing_kr_map[ekr.get("gradeStep", "")] = ekr
+
         sections = extract_central_content_sections(cc.get("text", ""))
 
         goals = []
@@ -240,9 +278,10 @@ def sync_subject(code: str, filename: str) -> dict | None:
                 goal_code = f"{designation or subject_code}-{year_str}-{goal_index}"
                 verbs = extract_verbs(item)
 
+                existing_goal = existing_goals_map.get(goal_code, {})
                 goal = {
                     "code": goal_code,
-                    "text": {"local": item, "en": ""},
+                    "text": {"local": item, "en": existing_goal.get("text", {}).get("en", "")},
                     "coreElements": [section["heading"]] if section["heading"] else [],
                     "verbs": verbs,
                 }
@@ -254,10 +293,11 @@ def sync_subject(code: str, filename: str) -> dict | None:
         for kr in kr_for_band:
             grade_step = kr.get("gradeStep", "")
             kr_text = strip_html(kr.get("text", ""))
+            existing_kr = existing_kr_map.get(grade_step, {})
             if kr_text:
                 knowledge_criteria.append({
                     "gradeStep": grade_step,
-                    "text": {"local": kr_text, "en": ""},
+                    "text": {"local": kr_text, "en": existing_kr.get("text", {}).get("en", "")},
                 })
 
         band = {
@@ -274,25 +314,38 @@ def sync_subject(code: str, filename: str) -> dict | None:
 
     grade_bands.sort(key=lambda b: b["afterGrade"])
 
+    existing_desc_en = existing_subject.get("description", {}).get("en", "")
+
+    source_block = {
+        "api": f"{BASE_URL}/subjects/{code}",
+        "curriculum": "Lgr22",
+        "license": "CC0",
+        "lastSynced": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+    }
+    existing_source = existing.get("source", {}) if existing else {}
+    if "aiEnriched" in existing_source:
+        source_block["aiEnriched"] = existing_source["aiEnriched"]
+
+    new_subject = {
+        "code": subject_code,
+        "name": {"local": subject_name, "en": ENGLISH_NAMES.get(code, "")},
+        "description": {"local": description_local, "en": existing_desc_en},
+        "coreElements": core_elements,
+    }
+
+    for extra_key in ("interdisciplinaryThemes", "basicSkills"):
+        if extra_key in existing_subject:
+            new_subject[extra_key] = existing_subject[extra_key]
+
+    new_subject["gradeBands"] = grade_bands
+
     subject_data = {
         "country": "sweden",
-        "source": {
-            "api": f"{BASE_URL}/subjects/{code}",
-            "curriculum": "Lgr22",
-            "license": "CC0",
-            "lastSynced": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
-        },
-        "subject": {
-            "code": subject_code,
-            "name": {"local": subject_name, "en": ENGLISH_NAMES.get(code, "")},
-            "description": {"local": description_local, "en": ""},
-            "coreElements": core_elements,
-            "gradeBands": grade_bands,
-        },
+        "source": source_block,
+        "subject": new_subject,
     }
 
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-    output_path = OUTPUT_DIR / f"{filename}.json"
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(subject_data, f, ensure_ascii=False, indent=2)
 

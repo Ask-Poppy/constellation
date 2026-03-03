@@ -4,13 +4,18 @@
     "api": "https://eperusteet.opintopolku.fi/eperusteet-service/api/external/peruste/419550/perusopetus/oppiaineet/605630",
     "curriculum": "POPS 2014",
     "license": "Open Government Data (Finland)",
-    "lastSynced": "2026-03-02T21:33:19Z"
+    "lastSynced": "2026-03-03T08:59:01Z",
+    "aiEnriched": ["description.en", "interdisciplinaryThemes", "basicSkills"]
   },
   "subject": {
     "code": "TK",
     "name": {
       "local": "Ruotsin kieli, A-oppimäärä",
       "en": "Second National Language"
+    },
+    "description": {
+      "local": "Kieli on oppimisen ja ajattelun edellytys. Kieli on mukana kaikessa koulun toiminnassa, ja jokainen opettaja on kielen opettaja. Kielten opiskelu edistää ajattelutaitojen kehittymistä. Se antaa aineksia monikielisen ja -kulttuurisen identiteetin muodostumiselle ja arvostamiselle. Sanavaraston ja rakenteiden karttuessa myös vuorovaikutus- ja tiedonhankintataidot kehittyvät. Kielten opiskelussa on runsaasti sijaa ilolle, leikillisyydelle ja luovuudelle.\n\nToisen kotimaisen kielen opetus on osa kielikasvatusta ja johdatusta kielitietoisuuteen. Oppilaissa herätetään kiinnostus kouluyhteisön ja ympäröivän maailman kielelliseen ja kulttuuriseen moninaisuuteen ja heitä rohkaistaan viestimään autenttisissa kieliympäristöissä. Koulussa ohjataan arvostamaan eri kieliä, niiden puhujia ja erilaisia kulttuureita. Sukupuolten tasa-arvoa kielivalinnoissa ja kielten opiskelussa vahvistetaan erilaisia oppilaita kiinnostavalla kielivalintatiedotuksella, rohkaisemalla oppilaita tekemään aidosti itseään kiinnostavia valintoja sukupuolesta riippumatta, käsittelemällä opetuksessa monipuolisesti erilaisia aiheita sekä käyttämällä vaihtelevia ja toiminnallisia työtapoja.\n\nToisen kotimaisen kielen opiskelu valmistaa oppilaita suunnitelmalliseen ja luovaan työskentelyyn erilaisissa kokoonpanoissa. Oppilaille ja oppilasryhmille luodaan mahdollisuuksia verkostoitumiseen ja yhteydenpitoon ihmisten kanssa myös eri puolilla Pohjoismaita. Tieto- ja viestintäteknologia tarjoaa yhden luontevan mahdollisuuden toteuttaa kieltenopetusta autenttisista tilanteista ja oppilaiden viestintätarpeista lähtien. Opetus antaa myös valmiuksia osallisuuteen ja aktiiviseen vaikuttamiseen.\n\nOpetus vahvistaa oppilaiden luottamusta omiin kykyihinsä oppia kieliä ja käyttää niitä rohkeasti. Oppilaille annetaan mahdollisuus edetä yksilöllisesti ja saada tarpeen mukaan tukea oppimiselleen. Opetus järjestetään niin, että myös muita nopeammin etenevät tai kieltä entuudestaan osaavat voivat edistyä.\n\nKielten opetuksessa kehitetään monilukutaitoa ja käsitellään erilaisia tekstejä. Lasten ja nuorten erilaiset kiinnostuksen kohteet otetaan huomioon tekstien valinnassa. Opetuksessa luodaan siltoja myös eri kielten välille sekä oppilaiden vapaa-ajan kielenkäyttöön. Oppilaita ohjataan hakemaan osaamillaan kielillä tietoa.",
+      "en": "Language is a prerequisite for learning and thinking. Language is present in all school activities, and every teacher is a language teacher. The study of languages promotes the development of thinking skills. It provides material for the formation and appreciation of a multilingual and multicultural identity. As vocabulary and structures accumulate, interaction and information-seeking skills also develop. There is ample room for joy, playfulness and creativity in language studies.\n\nThe teaching of the second national language is part of language education and an introduction to language awareness. Interest in the linguistic and cultural diversity of the school community and the surrounding world is awakened in pupils, and they are encouraged to communicate in authentic language environments. At school, pupils are guided to value different languages, their speakers and various cultures. Gender equality in language choices and language studies is strengthened through language choice information that appeals to diverse pupils, by encouraging pupils to make choices that genuinely interest them regardless of gender, by covering a wide range of topics in teaching, and by using varied and functional working methods.\n\nThe study of the second national language prepares pupils for systematic and creative work in various groupings. Opportunities are created for pupils and pupil groups to network and communicate with people across the Nordic countries. Information and communication technology offers one natural opportunity to implement language teaching based on authentic situations and pupils' communication needs. Teaching also provides the readiness for participation and active influence.\n\nTeaching strengthens pupils' confidence in their own ability to learn languages and to use them boldly. Pupils are given the opportunity to progress individually and to receive support for their learning as needed. Teaching is organised so that those who progress faster than others or already know the language can also advance.\n\nMultiliteracy is developed in language teaching, and different types of texts are addressed. The diverse interests of children and young people are taken into account in the selection of texts. Teaching also builds bridges between different languages and pupils' use of language in their free time. Pupils are guided to seek information in the languages they know."
     },
     "coreElements": [
       {
@@ -58,6 +63,98 @@
         }
       }
     ],
+    "interdisciplinaryThemes": [
+      {
+        "code": "TT1",
+        "name": {
+          "local": "Terveys ja elämänhallinta",
+          "en": "Health and life skills"
+        },
+        "description": {
+          "local": "Toisen kotimaisen kielen opetuksessa tuetaan oppilaiden itseluottamusta kielenkäyttäjinä ja oppimismotivaatiota, mikä edistää heidän psyykkistä hyvinvointiaan. Oppilaat oppivat ilmaisemaan itseään ja tarpeitaan ruotsin kielellä arjen tilanteissa. Rohkea kielenkäyttö ja myönteiset oppimiskokemukset vahvistavat oppilaiden elämänhallintavalmiuksia.",
+          "en": "In the teaching of the second national language, pupils' self-confidence as language users and learning motivation are supported, which promotes their psychological well-being. Pupils learn to express themselves and their needs in Swedish in everyday situations. Bold language use and positive learning experiences strengthen pupils' life management skills."
+        }
+      },
+      {
+        "code": "TT2",
+        "name": {
+          "local": "Demokratia ja kansalaisuus",
+          "en": "Democracy and citizenship"
+        },
+        "description": {
+          "local": "Toisen kotimaisen kielen opiskelu vahvistaa oppilaiden ymmärrystä Suomen kaksikielisyydestä ja kansalliskielten merkityksestä yhteiskunnassa. Oppilaat oppivat arvostamaan kielellistä ja kulttuurista moninaisuutta sekä kohtaamaan ihmisiä ilman ennakkoluuloja. Ruotsin kielen taito tukee oppilaiden aktiivista osallistumista pohjoismaiseen yhteistyöhön ja suomalaiseen yhteiskuntaan.",
+          "en": "The study of the second national language strengthens pupils' understanding of Finland's bilingualism and the significance of national languages in society. Pupils learn to value linguistic and cultural diversity and to encounter people without prejudice. Proficiency in Swedish supports pupils' active participation in Nordic cooperation and in Finnish society."
+        }
+      },
+      {
+        "code": "TT3",
+        "name": {
+          "local": "Kestävä kehitys",
+          "en": "Sustainability"
+        },
+        "description": {
+          "local": "Toisen kotimaisen kielen opetuksessa kestävä kehitys kytkeytyy pohjoismaisen yhteistyön ja kulttuuriperinnön arvostamiseen. Oppilaat tutustuvat pohjoismaisiin kulttuureihin ja elämäntapoihin, mikä laajentaa heidän ymmärrystään kestävästä elämäntavasta eri yhteiskunnissa. Kielitaito mahdollistaa osallistumisen pohjoismaiseen keskusteluun kestävän kehityksen teemoista.",
+          "en": "In the teaching of the second national language, sustainability is connected to the appreciation of Nordic cooperation and cultural heritage. Pupils become acquainted with Nordic cultures and ways of life, which broadens their understanding of sustainable living in different societies. Language skills enable participation in Nordic discussions on sustainability themes."
+        }
+      }
+    ],
+    "basicSkills": [
+      {
+        "code": "GF1",
+        "name": {
+          "local": "Suulliset taidot",
+          "en": "Oral skills"
+        },
+        "description": {
+          "local": "Suullisten taitojen kehittäminen on toisen kotimaisen kielen opetuksen keskeinen tavoite. Oppilaat harjoittelevat monipuolisesti arkielämän viestintätilanteita ruotsin kielellä, kuten tervehtimistä, avun pyytämistä ja mielipiteiden ilmaisua. Ääntämisen harjoittelu ja rohkeus käyttää kieltä vuorovaikutustilanteissa ovat keskeisessä roolissa.",
+          "en": "Developing oral skills is a central goal of second national language teaching. Pupils practise a wide variety of everyday communication situations in Swedish, such as greeting, asking for help and expressing opinions. Pronunciation practice and the courage to use the language in interaction situations play a central role."
+        }
+      },
+      {
+        "code": "GF2",
+        "name": {
+          "local": "Kirjoittaminen",
+          "en": "Writing"
+        },
+        "description": {
+          "local": "Kirjoittamista harjoitellaan toisen kotimaisen kielen opetuksessa pienimuotoisesta kirjallisesta ilmaisusta kohti laajempia tekstejä. Oppilaat tuottavat kirjallisia viestejä, kertomuksia ja kuvailevia tekstejä ruotsin kielellä kiinnittäen huomiota keskeisiin rakenteisiin. Kirjoittaminen tukee sanaston ja rakenteiden oppimista.",
+          "en": "Writing is practised in second national language teaching from small-scale written expression towards more extended texts. Pupils produce written messages, narratives and descriptive texts in Swedish, paying attention to key structures. Writing supports the learning of vocabulary and structures."
+        }
+      },
+      {
+        "code": "GF3",
+        "name": {
+          "local": "Lukeminen",
+          "en": "Reading"
+        },
+        "description": {
+          "local": "Lukutaitoa kehitetään toisen kotimaisen kielen opetuksessa tulkitsemalla ikätasolle sopivia ja oppilaita kiinnostavia puhuttuja ja kirjoitettuja tekstejä. Oppilaat lukevat asiatekstejä, kertomuksia ja mediasisältöjä ruotsin kielellä ja harjoittelevat päättelytaitoa tuntemattomien sanojen merkityksen päättelemisessä.",
+          "en": "Reading skills are developed in second national language teaching by interpreting spoken and written texts appropriate to the age level and of interest to pupils. Pupils read factual texts, narratives and media content in Swedish and practise reasoning skills in inferring the meaning of unknown words."
+        }
+      },
+      {
+        "code": "GF4",
+        "name": {
+          "local": "Laskutaito",
+          "en": "Numeracy"
+        },
+        "description": {
+          "local": "Laskutaitoa käytetään toisen kotimaisen kielen opetuksessa numeeristen ilmausten harjoittelussa ruotsin kielellä, kuten lukujen, päivämäärien ja kellonaikojen oppimisessa. Oppilaat harjoittelevat numeerisen tiedon ymmärtämistä ja tuottamista arkielämän viestintätilanteissa.",
+          "en": "Numeracy is used in second national language teaching for practising numerical expressions in Swedish, such as learning numbers, dates and times. Pupils practise understanding and producing numerical information in everyday communication situations."
+        }
+      },
+      {
+        "code": "GF5",
+        "name": {
+          "local": "Digitaaliset taidot",
+          "en": "Digital skills"
+        },
+        "description": {
+          "local": "Digitaalisia taitoja hyödynnetään toisen kotimaisen kielen opetuksessa ruotsinkielisen aineiston etsimisessä verkosta, sähköisten sanakirjojen ja oppimissovellusten käytössä sekä viestinnässä eri viestintäkanavia hyödyntäen. Tieto- ja viestintäteknologia tukee autenttisten kielenkäyttötilanteiden luomista ja pohjoismaisten yhteyksien rakentamista.",
+          "en": "Digital skills are used in second national language teaching for searching for Swedish-language material online, using electronic dictionaries and learning applications, and communicating through different communication channels. Information and communication technology supports the creation of authentic language use situations and the building of Nordic connections."
+        }
+      }
+    ],
     "gradeBands": [
       {
         "afterGrade": 6,
@@ -73,7 +170,7 @@
               "en": "T1 encourage the pupil to take an interest in the linguistic and cultural richness of the immediate environment, Finland, and the Nordic countries, as well as the status of Finnish and Swedish as national languages"
             },
             "coreElements": [
-              "S1 Kasvu kulttuuriseen moninaisuuteen ja kielitietoisuuteen"
+              "S1"
             ],
             "verbs": []
           },
@@ -84,7 +181,7 @@
               "en": "T2 motivate the pupil to value their own linguistic and cultural background as well as the linguistic and cultural diversity of the world, and to encounter people without prejudicial assumptions"
             },
             "coreElements": [
-              "S1 Kasvu kulttuuriseen moninaisuuteen ja kielitietoisuuteen"
+              "S1"
             ],
             "verbs": []
           },
@@ -95,7 +192,7 @@
               "en": "T3 guide the pupil to notice phenomena that connect and distinguish languages, and to support the development of the pupil's linguistic curiosity and reasoning ability"
             },
             "coreElements": [
-              "S1 Kasvu kulttuuriseen moninaisuuteen ja kielitietoisuuteen"
+              "S1"
             ],
             "verbs": []
           },
@@ -106,7 +203,7 @@
               "en": "T4 guide the pupil to find Swedish-language material"
             },
             "coreElements": [
-              "S1 Kasvu kulttuuriseen moninaisuuteen ja kielitietoisuuteen"
+              "S1"
             ],
             "verbs": []
           },
@@ -117,7 +214,7 @@
               "en": "T5 explore the learning objectives together and create a permissive study atmosphere in which the most important thing is getting the message across and supportive collaborative learning"
             },
             "coreElements": [
-              "S2 Kielenopiskelutaidot"
+              "S2"
             ],
             "verbs": []
           },
@@ -128,7 +225,7 @@
               "en": "T6 guide the pupil to take responsibility for their own language learning and encourage the pupil to practise their language skills boldly, including through the use of information and communication technology, and to try out which ways of learning languages suit each pupil best"
             },
             "coreElements": [
-              "S2 Kielenopiskelutaidot"
+              "S2"
             ],
             "verbs": []
           },
@@ -139,7 +236,7 @@
               "en": "T7 provide the pupil with opportunities to practise oral and written communication and interaction using different communication channels"
             },
             "coreElements": [
-              "S3 Kehittyvä kielitaito: taito toimia vuorovaikutuksessa, taito tulkita tekstejä, taito tuottaa tekstejä"
+              "S3"
             ],
             "verbs": []
           },
@@ -150,7 +247,7 @@
               "en": "T8 support the pupil in the use of linguistic communication strategies"
             },
             "coreElements": [
-              "S3 Kehittyvä kielitaito: taito toimia vuorovaikutuksessa, taito tulkita tekstejä, taito tuottaa tekstejä"
+              "S3"
             ],
             "verbs": []
           },
@@ -161,7 +258,7 @@
               "en": "T9 help the pupil to expand their knowledge of expressions associated with polite language use"
             },
             "coreElements": [
-              "S3 Kehittyvä kielitaito: taito toimia vuorovaikutuksessa, taito tulkita tekstejä, taito tuottaa tekstejä"
+              "S3"
             ],
             "verbs": []
           },
@@ -172,7 +269,7 @@
               "en": "T10 encourage the pupil to interpret spoken and written texts that are appropriate to their age level and of personal interest"
             },
             "coreElements": [
-              "S3 Kehittyvä kielitaito: taito toimia vuorovaikutuksessa, taito tulkita tekstejä, taito tuottaa tekstejä"
+              "S3"
             ],
             "verbs": []
           },
@@ -183,7 +280,7 @@
               "en": "T11 provide the pupil with ample opportunities to practise age-appropriate small-scale speaking and writing, paying attention also to pronunciation and the structures most essential for the content of the text"
             },
             "coreElements": [
-              "S3 Kehittyvä kielitaito: taito toimia vuorovaikutuksessa, taito tulkita tekstejä, taito tuottaa tekstejä"
+              "S3"
             ],
             "verbs": []
           }
@@ -203,7 +300,7 @@
               "en": "T1 promote the pupil's ability to reflect on phenomena related to the status of Swedish as a national language, and provide the pupil with the capacity to develop their intercultural competence"
             },
             "coreElements": [
-              "S1 Kasvu kulttuuriseen moninaisuuteen ja kielitietoisuuteen"
+              "S1"
             ],
             "verbs": []
           },
@@ -214,7 +311,7 @@
               "en": "T2 encourage the pupil to find interesting Swedish-language environments that broaden the pupil's worldview"
             },
             "coreElements": [
-              "S1 Kasvu kulttuuriseen moninaisuuteen ja kielitietoisuuteen"
+              "S1"
             ],
             "verbs": []
           },
@@ -225,7 +322,7 @@
               "en": "T3 guide the pupil to notice what kinds of regularities exist in Swedish, how the same things are expressed in other languages, and to use linguistic concepts to support their learning"
             },
             "coreElements": [
-              "S1 Kasvu kulttuuriseen moninaisuuteen ja kielitietoisuuteen"
+              "S1"
             ],
             "verbs": []
           },
@@ -236,7 +333,7 @@
               "en": "T4 encourage the pupil to set goals, to use diverse ways of learning languages, and to evaluate their learning independently and collaboratively, and to guide the pupil towards positive interaction in which the most important thing is getting the message across"
             },
             "coreElements": [
-              "S2 Kielenopiskelutaidot"
+              "S2"
             ],
             "verbs": []
           },
@@ -247,7 +344,7 @@
               "en": "T5 support the pupil's independence and ability to apply their language skills creatively, and to develop their readiness for lifelong language learning"
             },
             "coreElements": [
-              "S2 Kielenopiskelutaidot"
+              "S2"
             ],
             "verbs": []
           },
@@ -258,7 +355,7 @@
               "en": "T6 encourage the pupil to practise various everyday communication situations and to act in them with initiative"
             },
             "coreElements": [
-              "S3 Kehittyvä kielitaito: taito toimia vuorovaikutuksessa, taito tulkita tekstejä, taito tuottaa tekstejä"
+              "S3"
             ],
             "verbs": []
           },
@@ -269,7 +366,7 @@
               "en": "T7 guide the pupil to be active in communication situations and to deepen their skill in using target-language communication strategies, fixed phrases, circumlocutions, fillers, and other compensation strategies"
             },
             "coreElements": [
-              "S3 Kehittyvä kielitaito: taito toimia vuorovaikutuksessa, taito tulkita tekstejä, taito tuottaa tekstejä"
+              "S3"
             ],
             "verbs": []
           },
@@ -280,7 +377,7 @@
               "en": "T8 guide the pupil to pay attention to culturally appropriate language use in communication that involves expressing opinions and attitudes"
             },
             "coreElements": [
-              "S3 Kehittyvä kielitaito: taito toimia vuorovaikutuksessa, taito tulkita tekstejä, taito tuottaa tekstejä"
+              "S3"
             ],
             "verbs": []
           },
@@ -291,7 +388,7 @@
               "en": "T9 provide the pupil with opportunities to interpret various texts, including clear factual texts from which information is obtained, and guide the pupil to use reasoning skills and understanding of the main content in interpretation"
             },
             "coreElements": [
-              "S3 Kehittyvä kielitaito: taito toimia vuorovaikutuksessa, taito tulkita tekstejä, taito tuottaa tekstejä"
+              "S3"
             ],
             "verbs": []
           },
@@ -302,7 +399,7 @@
               "en": "T10 provide the pupil with opportunities to produce speech and writing while expanding the range of topics, and paying attention to key structures and basic rules of pronunciation"
             },
             "coreElements": [
-              "S3 Kehittyvä kielitaito: taito toimia vuorovaikutuksessa, taito tulkita tekstejä, taito tuottaa tekstejä"
+              "S3"
             ],
             "verbs": []
           }

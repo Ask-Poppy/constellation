@@ -4,13 +4,18 @@
     "api": "https://eperusteet.opintopolku.fi/eperusteet-service/api/external/peruste/419550/perusopetus/oppiaineet/466346",
     "curriculum": "POPS 2014",
     "license": "Open Government Data (Finland)",
-    "lastSynced": "2026-03-02T21:29:41Z"
+    "lastSynced": "2026-03-03T08:58:55Z",
+    "aiEnriched": ["description.en", "interdisciplinaryThemes", "basicSkills"]
   },
   "subject": {
     "code": "FY",
     "name": {
       "local": "Fysiikka",
       "en": "Physics"
+    },
+    "description": {
+      "local": "Fysiikan opetuksen tehtävänä on tukea oppilaiden luonnontieteellisen ajattelun sekä maailmankuvan kehittymistä. Fysiikan opetus auttaa ymmärtämään fysiikan ja teknologian merkitystä jokapäiväisessä elämässä, elinympäristössä ja yhteiskunnassa. Opetus tukee oppilaiden valmiuksia keskustella fysiikan ja teknologian asioista ja ilmiöistä. Opetus välittää kuvaa fysiikan merkityksestä kestävän tulevaisuuden rakentamisessa: fysiikkaa tarvitaan uusien teknologisten ratkaisujen kehittämisessä sekä ympäristön ja ihmisten hyvinvoinnin turvaamisessa. Opetus ohjaa oppilaita ottamaan vastuuta ympäristöstään.\n\nFysiikan opetuksen tehtävänä on tukea fysiikkaan liittyvien käsitteiden rakentumista sekä ilmiöiden ymmärtämistä. Vuosiluokilla 7-9 opiskelun pääpaino on kvalitatiivisella tasolla, mutta oppilaiden abstraktin ajattelun ja matemaattisten taitojen kehittyessä laajennetaan työskentelyä joidenkin ilmiöiden osalta kvantitatiiviselle tasolle. Aikaisemmat kokemukset, uudet havainnot ja näkökulmat muokkautuvat oppilaiden ja opettajien vuorovaikutuksessa johdonmukaiseksi kokonaisuudeksi kohti luonnontieteellisten teorioiden mukaista käsitystä ympäröivästä todellisuudesta. Opetus ohjaa luonnontieteille ominaiseen ajatteluun, tiedonhankintaan, tietojen käyttämiseen, ideointiin, vuorovaikutukseen sekä tiedon luotettavuuden ja merkityksen arviointiin eri tilanteissa.\n\nFysiikan opetuksen lähtökohtana ovat luonnosta ja teknologisesta ympäristöstä tehdyt havainnot ja tutkimukset. Tutkimusten tekemisellä on oleellinen merkitys käsitteiden omaksumisessa ja ymmärtämisessä, tutkimisen taitojen oppimisessa ja luonnontieteiden luonteen hahmottamisessa. Tutkimusten tekeminen kehittää työskentelyn ja yhteistyön taitoja, luovaa ja kriittistä ajattelua sekä innostaa oppilaita fysiikan opiskeluun.\n\nOpetuksen tehtävänä on ohjata oppilaita hahmottamaan fysiikan osaamisen merkitystä myös jatko-opintojen ja työelämän kannalta. Yhdenvertaisuutta ja tasa-arvoa edistetään tarjoamalla oppilaille mahdollisuuksia soveltaa fysiikkaa erilaisissa konteksteissa sekä tutustua monipuolisesti ammatteihin, joissa tarvitaan fysiikan osaamista.",
+      "en": "The task of physics education is to support the development of pupils' scientific thinking and worldview. Physics education helps pupils understand the significance of physics and technology in everyday life, in the living environment, and in society. Teaching supports pupils' readiness to discuss physics and technology topics and phenomena. Teaching conveys an image of the significance of physics in building a sustainable future: physics is needed in developing new technological solutions and in securing the well-being of the environment and people. Teaching guides pupils to take responsibility for their environment.\n\nThe task of physics education is to support the construction of physics-related concepts and the understanding of phenomena. In grades 7-9, the main focus of study is at a qualitative level, but as pupils' abstract thinking and mathematical skills develop, work is expanded to a quantitative level for some phenomena. Earlier experiences, new observations, and perspectives are shaped through the interaction between pupils and teachers into a coherent whole towards a conception of surrounding reality consistent with scientific theories. Teaching guides pupils towards scientific thinking, information acquisition, use of knowledge, ideation, interaction, and the evaluation of the reliability and significance of information in different situations.\n\nThe starting point of physics education is observations and investigations made from the natural and technological environment. Conducting investigations has an essential role in the adoption and understanding of concepts, in learning research skills, and in understanding the nature of natural sciences. Conducting investigations develops working and collaboration skills, creative and critical thinking, and inspires pupils to study physics.\n\nThe task of teaching is to guide pupils in understanding the significance of physics competence also from the perspective of further studies and working life. Equality and equity are promoted by offering pupils opportunities to apply physics in various contexts and to become familiar with a range of professions that require physics competence."
     },
     "coreElements": [
       {
@@ -80,6 +85,98 @@
         }
       }
     ],
+    "interdisciplinaryThemes": [
+      {
+        "code": "TT1",
+        "name": {
+          "local": "Terveys ja elämänhallinta",
+          "en": "Health and life skills"
+        },
+        "description": {
+          "local": "Fysiikan opetuksessa terveys ja elämänhallinta toteutuvat oppilaiden tutkiessa säteilyn lajeja ja niiden terveysvaikutuksia, sähköturvallisuutta kotona sekä lämpöilmiöiden merkitystä hyvinvoinnille. Oppilas oppii tekemään turvallisia valintoja teknologisessa ympäristössä.",
+          "en": "In physics education, health and life skills are realised as pupils investigate types of radiation and their health effects, electrical safety at home, and the significance of thermal phenomena for well-being. The pupil learns to make safe choices in a technological environment."
+        }
+      },
+      {
+        "code": "TT2",
+        "name": {
+          "local": "Demokratia ja kansalaisuus",
+          "en": "Democracy and citizenship"
+        },
+        "description": {
+          "local": "Fysiikan opetuksessa demokratia ja kansalaisuus toteutuvat oppilaiden oppiessa arvioimaan kriittisesti tietolähteitä, perustelemaan näkemyksiään fysikaalisiin ilmiöihin liittyen ja ymmärtämään energiapolitiikan merkityksen yhteiskunnassa. Tieteellisen tiedon luonteen ymmärtäminen tukee aktiivista kansalaisuutta.",
+          "en": "In physics education, democracy and citizenship are realised as pupils learn to critically evaluate sources of information, justify their views regarding physical phenomena, and understand the significance of energy policy in society. Understanding the nature of scientific knowledge supports active citizenship."
+        }
+      },
+      {
+        "code": "TT3",
+        "name": {
+          "local": "Kestävä kehitys",
+          "en": "Sustainability"
+        },
+        "description": {
+          "local": "Fysiikan opetuksessa kestävä kehitys näkyy energiantuotannon, energiavarojen kestävän käytön ja teknologisten ratkaisujen tutkimisessa. Oppilas oppii arvioimaan omia energiavalintojaan ja ymmärtämään fysiikan roolin ympäristön ja ihmisten hyvinvoinnin turvaamisessa.",
+          "en": "In physics education, sustainability is reflected in the investigation of energy production, the sustainable use of energy resources, and technological solutions. The pupil learns to evaluate their own energy choices and understand the role of physics in securing the well-being of the environment and people."
+        }
+      }
+    ],
+    "basicSkills": [
+      {
+        "code": "GF1",
+        "name": {
+          "local": "Suulliset taidot",
+          "en": "Oral skills"
+        },
+        "description": {
+          "local": "Suulliset taidot fysiikassa tarkoittavat tutkimustulosten ja fysikaalisten ilmiöiden selittämistä, kokeellisen tutkimuksen vaiheiden kuvaamista ja näkemysten perustelemista fysiikan käsittein. Oppilas kehittää kykyään keskustella fysiikan ja teknologian aiheista.",
+          "en": "Oral skills in physics mean explaining research results and physical phenomena, describing the stages of experimental investigation, and justifying views using physics concepts. The pupil develops their ability to discuss physics and technology topics."
+        }
+      },
+      {
+        "code": "GF2",
+        "name": {
+          "local": "Kirjoittaminen",
+          "en": "Writing"
+        },
+        "description": {
+          "local": "Kirjoittaminen fysiikassa tarkoittaa tutkimusraporttien, mittaustulosten ja johtopäätösten kirjallista esittämistä. Oppilas harjoittelee tutkimusprosessin vaiheiden dokumentointia sekä fysikaalisten ilmiöiden kuvausta käyttäen asianmukaisia käsitteitä ja merkintätapoja.",
+          "en": "Writing in physics means presenting research reports, measurement results, and conclusions in written form. The pupil practises documenting the stages of the research process and describing physical phenomena using appropriate concepts and notation."
+        }
+      },
+      {
+        "code": "GF3",
+        "name": {
+          "local": "Lukeminen",
+          "en": "Reading"
+        },
+        "description": {
+          "local": "Lukeminen fysiikassa tarkoittaa fysiikkaan liittyvien tekstien, mittaustulosten, kuvaajien, mallien ja ajankohtaisten uutisten lukemista ja tulkitsemista. Oppilas kehittää taitoaan arvioida kriittisesti eri tietolähteiden luotettavuutta fysiikan näkökulmasta.",
+          "en": "Reading in physics means reading and interpreting physics-related texts, measurement results, graphs, models, and current news. The pupil develops their skill in critically evaluating the reliability of different sources of information from a physics perspective."
+        }
+      },
+      {
+        "code": "GF4",
+        "name": {
+          "local": "Laskutaito",
+          "en": "Numeracy"
+        },
+        "description": {
+          "local": "Laskutaito fysiikassa ilmenee suureiden mittaamisessa, laskukaavojen käytössä, mittaustulosten käsittelyssä ja riippuvuuksien tutkimisessa kvantitatiivisesti. Oppilas oppii laskemaan nopeuksia, voimia, energiaa, sähkövirtaa ja jännitettä fysiikan kaavojen avulla.",
+          "en": "Numeracy in physics is manifested in measuring quantities, using formulas, processing measurement results, and investigating dependencies quantitatively. The pupil learns to calculate speeds, forces, energy, electric current, and voltage using physics formulas."
+        }
+      },
+      {
+        "code": "GF5",
+        "name": {
+          "local": "Digitaaliset taidot",
+          "en": "Digital skills"
+        },
+        "description": {
+          "local": "Digitaaliset taidot fysiikassa tarkoittavat tieto- ja viestintäteknologian käyttöä mittausten tekemisessä, tulosten käsittelyssä ja esittämisessä sekä simulaatioiden hyödyntämistä ilmiöiden havainnollistamisessa. Oppilas käyttää digitaalisia työkaluja kokeellisen tutkimuksen tukena.",
+          "en": "Digital skills in physics mean using information and communication technology for conducting measurements, processing and presenting results, and utilising simulations to illustrate phenomena. The pupil uses digital tools to support experimental investigation."
+        }
+      }
+    ],
     "gradeBands": [
       {
         "afterGrade": 9,
@@ -95,12 +192,12 @@
               "en": "T1 encourage and inspire the pupil to study physics"
             },
             "coreElements": [
-              "S1 Luonnontieteellinen tutkimus",
-              "S2 Fysiikka omassa elämässä ja elinympäristössä",
-              "S5 Vuorovaikutus ja liike",
-              "S6 Sähkö",
-              "S3 Fysiikka yhteiskunnassa",
-              "S4 Fysiikka maailmankuvan rakentajana"
+              "S1",
+              "S2",
+              "S5",
+              "S6",
+              "S3",
+              "S4"
             ],
             "verbs": []
           },
@@ -111,12 +208,12 @@
               "en": "T2 guide and encourage the pupil to recognise their own physics competence, to set goals for their own work, and to work with perseverance"
             },
             "coreElements": [
-              "S1 Luonnontieteellinen tutkimus",
-              "S2 Fysiikka omassa elämässä ja elinympäristössä",
-              "S5 Vuorovaikutus ja liike",
-              "S6 Sähkö",
-              "S3 Fysiikka yhteiskunnassa",
-              "S4 Fysiikka maailmankuvan rakentajana"
+              "S1",
+              "S2",
+              "S5",
+              "S6",
+              "S3",
+              "S4"
             ],
             "verbs": []
           },
@@ -127,12 +224,12 @@
               "en": "T3 guide the pupil to understand the significance of physics competence in their own life, living environment, and society"
             },
             "coreElements": [
-              "S1 Luonnontieteellinen tutkimus",
-              "S2 Fysiikka omassa elämässä ja elinympäristössä",
-              "S5 Vuorovaikutus ja liike",
-              "S6 Sähkö",
-              "S3 Fysiikka yhteiskunnassa",
-              "S4 Fysiikka maailmankuvan rakentajana"
+              "S1",
+              "S2",
+              "S5",
+              "S6",
+              "S3",
+              "S4"
             ],
             "verbs": []
           },
@@ -143,12 +240,12 @@
               "en": "T4 guide the pupil to use their physics competence in building a sustainable future and to evaluate their own choices in terms of sustainable use of energy resources"
             },
             "coreElements": [
-              "S1 Luonnontieteellinen tutkimus",
-              "S2 Fysiikka omassa elämässä ja elinympäristössä",
-              "S5 Vuorovaikutus ja liike",
-              "S6 Sähkö",
-              "S3 Fysiikka yhteiskunnassa",
-              "S4 Fysiikka maailmankuvan rakentajana"
+              "S1",
+              "S2",
+              "S5",
+              "S6",
+              "S3",
+              "S4"
             ],
             "verbs": []
           },
@@ -159,12 +256,12 @@
               "en": "T5 encourage the pupil to formulate questions about the phenomena under consideration and to further develop questions as starting points for investigations and other activities"
             },
             "coreElements": [
-              "S1 Luonnontieteellinen tutkimus",
-              "S2 Fysiikka omassa elämässä ja elinympäristössä",
-              "S5 Vuorovaikutus ja liike",
-              "S6 Sähkö",
-              "S3 Fysiikka yhteiskunnassa",
-              "S4 Fysiikka maailmankuvan rakentajana"
+              "S1",
+              "S2",
+              "S5",
+              "S6",
+              "S3",
+              "S4"
             ],
             "verbs": []
           },
@@ -175,12 +272,12 @@
               "en": "T6 guide the pupil to carry out experimental investigations in cooperation with others and to work safely and systematically"
             },
             "coreElements": [
-              "S1 Luonnontieteellinen tutkimus",
-              "S2 Fysiikka omassa elämässä ja elinympäristössä",
-              "S5 Vuorovaikutus ja liike",
-              "S6 Sähkö",
-              "S3 Fysiikka yhteiskunnassa",
-              "S4 Fysiikka maailmankuvan rakentajana"
+              "S1",
+              "S2",
+              "S5",
+              "S6",
+              "S3",
+              "S4"
             ],
             "verbs": []
           },
@@ -191,12 +288,12 @@
               "en": "T7 guide the pupil to process, interpret, and present the results of their own investigations and to evaluate them and the entire research process"
             },
             "coreElements": [
-              "S1 Luonnontieteellinen tutkimus",
-              "S2 Fysiikka omassa elämässä ja elinympäristössä",
-              "S5 Vuorovaikutus ja liike",
-              "S6 Sähkö",
-              "S3 Fysiikka yhteiskunnassa",
-              "S4 Fysiikka maailmankuvan rakentajana"
+              "S1",
+              "S2",
+              "S5",
+              "S6",
+              "S3",
+              "S4"
             ],
             "verbs": []
           },
@@ -207,12 +304,12 @@
               "en": "T8 guide the pupil to understand the operating principles and significance of technological applications and to inspire participation in the ideation, planning, development, and application of simple technological solutions in cooperation with others"
             },
             "coreElements": [
-              "S1 Luonnontieteellinen tutkimus",
-              "S2 Fysiikka omassa elämässä ja elinympäristössä",
-              "S5 Vuorovaikutus ja liike",
-              "S6 Sähkö",
-              "S3 Fysiikka yhteiskunnassa",
-              "S4 Fysiikka maailmankuvan rakentajana"
+              "S1",
+              "S2",
+              "S5",
+              "S6",
+              "S3",
+              "S4"
             ],
             "verbs": []
           },
@@ -223,12 +320,12 @@
               "en": "T9 instruct the pupil to use information and communication technology for acquiring, processing, and presenting information and measurement results, and to support the pupil's learning through illustrative simulations"
             },
             "coreElements": [
-              "S1 Luonnontieteellinen tutkimus",
-              "S2 Fysiikka omassa elämässä ja elinympäristössä",
-              "S5 Vuorovaikutus ja liike",
-              "S6 Sähkö",
-              "S3 Fysiikka yhteiskunnassa",
-              "S4 Fysiikka maailmankuvan rakentajana"
+              "S1",
+              "S2",
+              "S5",
+              "S6",
+              "S3",
+              "S4"
             ],
             "verbs": []
           },
@@ -239,12 +336,12 @@
               "en": "T10 guide the pupil to use physics concepts precisely and to structure their own conceptual frameworks towards conceptions consistent with scientific theories"
             },
             "coreElements": [
-              "S1 Luonnontieteellinen tutkimus",
-              "S2 Fysiikka omassa elämässä ja elinympäristössä",
-              "S5 Vuorovaikutus ja liike",
-              "S6 Sähkö",
-              "S3 Fysiikka yhteiskunnassa",
-              "S4 Fysiikka maailmankuvan rakentajana"
+              "S1",
+              "S2",
+              "S5",
+              "S6",
+              "S3",
+              "S4"
             ],
             "verbs": []
           },
@@ -255,12 +352,12 @@
               "en": "T11 guide the pupil to use various models in describing and explaining phenomena and in making predictions"
             },
             "coreElements": [
-              "S1 Luonnontieteellinen tutkimus",
-              "S2 Fysiikka omassa elämässä ja elinympäristössä",
-              "S5 Vuorovaikutus ja liike",
-              "S6 Sähkö",
-              "S3 Fysiikka yhteiskunnassa",
-              "S4 Fysiikka maailmankuvan rakentajana"
+              "S1",
+              "S2",
+              "S5",
+              "S6",
+              "S3",
+              "S4"
             ],
             "verbs": []
           },
@@ -271,12 +368,12 @@
               "en": "T12 guide the pupil to use and critically evaluate different sources of information and to express and justify various viewpoints in a manner characteristic of physics"
             },
             "coreElements": [
-              "S1 Luonnontieteellinen tutkimus",
-              "S2 Fysiikka omassa elämässä ja elinympäristössä",
-              "S5 Vuorovaikutus ja liike",
-              "S6 Sähkö",
-              "S3 Fysiikka yhteiskunnassa",
-              "S4 Fysiikka maailmankuvan rakentajana"
+              "S1",
+              "S2",
+              "S5",
+              "S6",
+              "S3",
+              "S4"
             ],
             "verbs": []
           },
@@ -287,12 +384,12 @@
               "en": "T13 guide the pupil to understand the nature and development of scientific knowledge and scientific ways of producing knowledge"
             },
             "coreElements": [
-              "S1 Luonnontieteellinen tutkimus",
-              "S2 Fysiikka omassa elämässä ja elinympäristössä",
-              "S5 Vuorovaikutus ja liike",
-              "S6 Sähkö",
-              "S3 Fysiikka yhteiskunnassa",
-              "S4 Fysiikka maailmankuvan rakentajana"
+              "S1",
+              "S2",
+              "S5",
+              "S6",
+              "S3",
+              "S4"
             ],
             "verbs": []
           },
@@ -303,8 +400,8 @@
               "en": "T14 guide the pupil to achieve sufficient knowledge for further studies regarding interactions, motion, and electricity"
             },
             "coreElements": [
-              "S5 Vuorovaikutus ja liike",
-              "S6 Sähkö"
+              "S5",
+              "S6"
             ],
             "verbs": []
           },
@@ -315,12 +412,12 @@
               "en": "T15 guide the pupil to apply their physics knowledge and skills in multidisciplinary learning modules and to offer opportunities to explore the application of physics in various contexts such as nature, business, organisations, or the scientific community"
             },
             "coreElements": [
-              "S1 Luonnontieteellinen tutkimus",
-              "S2 Fysiikka omassa elämässä ja elinympäristössä",
-              "S5 Vuorovaikutus ja liike",
-              "S6 Sähkö",
-              "S3 Fysiikka yhteiskunnassa",
-              "S4 Fysiikka maailmankuvan rakentajana"
+              "S1",
+              "S2",
+              "S5",
+              "S6",
+              "S3",
+              "S4"
             ],
             "verbs": []
           }

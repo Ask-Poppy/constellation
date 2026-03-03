@@ -4,13 +4,18 @@
     "api": "https://api.skolverket.se/syllabus/v1/subjects/GRGRHIS01",
     "curriculum": "Lgr22",
     "license": "CC0",
-    "lastSynced": "2026-03-02T21:29:32Z"
+    "lastSynced": "2026-03-03T08:58:54Z",
+    "aiEnriched": ["description.en", "interdisciplinaryThemes", "basicSkills"]
   },
   "subject": {
     "code": "GRGRHIS01",
     "name": {
       "local": "Historia",
       "en": "History"
+    },
+    "description": {
+      "local": "Undervisningen i ämnet historia ska syfta till att eleverna utvecklar sitt historiemedvetande och sin historiska bildning. Det blir möjligt genom att eleverna i undervisningen får utveckla kunskaper om historiska förhållanden och historiska begrepp, får insikter i hur historia skapas genom tolkningar av källor samt utvecklar förståelse för hur historia kan brukas i olika sammanhang. På så sätt får eleverna förståelse för hur det förflutna har format nutiden och därmed präglar våra förväntningar på framtiden. Undervisningen ska ge eleverna förutsättningar att tillägna sig en historisk referensram och en kronologisk överblick över hur kvinnor och män genom tiderna har skapat och förändrat samhällen och kulturer. Därigenom ska eleverna få förståelse för olika kulturella sammanhang och levnadssätt genom historien och för historiska skeenden som har påverkat nutiden. Undervisningen ska vidare bidra till att eleverna får förståelse för att varje tids människor måste bedömas utifrån sin samtids villkor och värderingar. Genom att ge perspektiv på långa historiska linjer med relevans för nutiden, såsom levnadsvillkor, migration och makt, ska undervisningen ge eleverna en fördjupad förståelse för hur historisk utveckling präglas av både kontinuitet och förändring. Undervisningen ska bidra till att eleverna utvecklar kunskaper om hur vi kan veta något om det förflutna genom historiskt källmaterial. Eleverna ska också ges förutsättningar att utveckla förmågan att ställa frågor till och värdera källor som ligger till grund för historiska kunskaper. Arbetet med källor ska även ge eleverna förutsättningar att leva sig in i det förflutna. Undervisningen ska vidare bidra till att eleverna utvecklar förståelse för hur historia används i samhället och i vardagslivet. Därigenom ska eleverna få olika perspektiv på hur bruket av historiska berättelser och referenser kan påverka människors identiteter, värderingar och föreställningar. Undervisningen i ämnet historia ska ge eleverna förutsättningar att utveckla",
+      "en": "Teaching in the subject of history shall aim to develop pupils' historical consciousness and historical education. This is made possible by allowing pupils to develop knowledge of historical conditions and historical concepts, gain insights into how history is created through interpretations of sources, and develop understanding of how history can be used in different contexts. In this way, pupils gain understanding of how the past has shaped the present and thus influences our expectations for the future. Teaching shall give pupils the conditions to acquire a historical frame of reference and a chronological overview of how women and men throughout the ages have created and changed societies and cultures. Through this, pupils shall gain understanding of different cultural contexts and ways of life throughout history, as well as historical events that have influenced the present. Teaching shall further contribute to pupils understanding that the people of every era must be judged on the basis of their contemporary conditions and values. By providing perspectives on long historical lines with relevance to the present, such as living conditions, migration and power, teaching shall give pupils a deeper understanding of how historical development is characterised by both continuity and change. Teaching shall contribute to pupils developing knowledge of how we can know something about the past through historical source material. Pupils shall also be given the conditions to develop the ability to pose questions to and evaluate sources that form the basis of historical knowledge. Working with sources shall also give pupils the conditions to immerse themselves in the past. Teaching shall further contribute to pupils developing understanding of how history is used in society and in everyday life. Through this, pupils shall gain different perspectives on how the use of historical narratives and references can affect people's identities, values and perceptions."
     },
     "coreElements": [
       {
@@ -44,6 +49,98 @@
         "description": {
           "local": "förmåga att reflektera över hur historia kan brukas i olika sammanhang och för olika syften.",
           "en": "the ability to reflect on how history can be used in different contexts and for different purposes."
+        }
+      }
+    ],
+    "interdisciplinaryThemes": [
+      {
+        "code": "TT1",
+        "name": {
+          "local": "Hälsa och livskompetens",
+          "en": "Health and life skills"
+        },
+        "description": {
+          "local": "I historia bidrar det temaövergripande temat hälsa och livskompetens till att eleverna utvecklar förståelse för hur människors levnadsvillkor, hälsa och välbefinnande har förändrats genom historien. Genom att studera hur olika samhällen har hanterat sjukdomar, svält och sociala utmaningar får eleverna perspektiv på sin egen livssituation. Historiska kunskaper om hur individer och grupper har övervunnit motgångar ger eleverna verktyg för att förstå och hantera utmaningar i sitt eget liv.",
+          "en": "In history, the interdisciplinary theme of health and life skills contributes to pupils developing understanding of how people's living conditions, health and wellbeing have changed throughout history. By studying how different societies have dealt with diseases, famine and social challenges, pupils gain perspective on their own life situation. Historical knowledge of how individuals and groups have overcome adversity gives pupils tools for understanding and managing challenges in their own lives."
+        }
+      },
+      {
+        "code": "TT2",
+        "name": {
+          "local": "Demokrati och medborgarskap",
+          "en": "Democracy and citizenship"
+        },
+        "description": {
+          "local": "I historia bidrar det temaövergripande temat demokrati och medborgarskap till att eleverna utvecklar förståelse för demokratins framväxt och de historiska kamper som lett till dagens demokratiska samhällen. Genom att studera hur mänskliga rättigheter har utvecklats och hur olika grupper har kämpat för politiskt inflytande får eleverna insikt i demokratins villkor och sårbarhet. Historiska kunskaper om maktstrukturer och folkliga rörelser stärker elevernas förmåga att vara aktiva och kritiska medborgare.",
+          "en": "In history, the interdisciplinary theme of democracy and citizenship contributes to pupils developing understanding of the emergence of democracy and the historical struggles that have led to today's democratic societies. By studying how human rights have developed and how different groups have fought for political influence, pupils gain insight into the conditions and vulnerability of democracy. Historical knowledge of power structures and popular movements strengthens pupils' ability to be active and critical citizens."
+        }
+      },
+      {
+        "code": "TT3",
+        "name": {
+          "local": "Hållbar utveckling",
+          "en": "Sustainability"
+        },
+        "description": {
+          "local": "I historia bidrar det temaövergripande temat hållbar utveckling till att eleverna utvecklar förståelse för hur människan genom historien har påverkat och formats av sin naturliga omgivning. Genom att studera historiska exempel på resursutnyttjande, miljöförändringar och deras konsekvenser för samhällen får eleverna perspektiv på dagens hållbarhetsutmaningar. Historiska kunskaper om hur samhällen har hanterat ekologiska kriser ger underlag för reflektion kring framtida hållbar utveckling.",
+          "en": "In history, the interdisciplinary theme of sustainability contributes to pupils developing understanding of how humans throughout history have influenced and been shaped by their natural environment. By studying historical examples of resource exploitation, environmental changes and their consequences for societies, pupils gain perspective on today's sustainability challenges. Historical knowledge of how societies have managed ecological crises provides a basis for reflection on future sustainable development."
+        }
+      }
+    ],
+    "basicSkills": [
+      {
+        "code": "GF1",
+        "name": {
+          "local": "Muntliga färdigheter",
+          "en": "Oral skills"
+        },
+        "description": {
+          "local": "Muntliga färdigheter i historia innebär att kunna uttrycka och diskutera historiska förhållanden, orsakssamband och tolkningar i samtal och presentationer. Eleverna utvecklar förmågan att argumentera med stöd av historiska exempel och att lyssna till och bemöta andras perspektiv på det förflutna. Genom muntlig framställning övar eleverna på att använda historiska begrepp och att kommunicera sina kunskaper för olika mottagare.",
+          "en": "Oral skills in history involve being able to express and discuss historical conditions, causal connections and interpretations in conversations and presentations. Pupils develop the ability to argue with the support of historical examples and to listen to and respond to others' perspectives on the past. Through oral presentation, pupils practise using historical concepts and communicating their knowledge to different audiences."
+        }
+      },
+      {
+        "code": "GF2",
+        "name": {
+          "local": "Att kunna skriva",
+          "en": "Writing"
+        },
+        "description": {
+          "local": "Att kunna skriva i historia innebär att kunna formulera sammanhängande resonemang om historiska händelser, aktörer och förändringsprocesser. Eleverna utvecklar förmågan att skriva berättande, beskrivande och argumenterande texter med historiskt innehåll. Skrivandet är också ett verktyg för att strukturera tankar, bearbeta historiskt källmaterial och redovisa slutsatser.",
+          "en": "Writing in history involves being able to formulate coherent reasoning about historical events, actors and processes of change. Pupils develop the ability to write narrative, descriptive and argumentative texts with historical content. Writing is also a tool for structuring thoughts, processing historical source material and presenting conclusions."
+        }
+      },
+      {
+        "code": "GF3",
+        "name": {
+          "local": "Att kunna läsa",
+          "en": "Reading"
+        },
+        "description": {
+          "local": "Att kunna läsa i historia innebär att kunna tolka och kritiskt granska olika typer av texter, såsom historiska källor, läromedel, kartor och diagram. Eleverna utvecklar förmågan att urskilja avsändare, syfte och perspektiv i historiska framställningar. Läsförmågan är central för att kunna ta del av historiskt källmaterial och jämföra olika tolkningar av det förflutna.",
+          "en": "Reading in history involves being able to interpret and critically examine different types of texts, such as historical sources, textbooks, maps and diagrams. Pupils develop the ability to identify the sender, purpose and perspective in historical accounts. Reading ability is central to being able to engage with historical source material and compare different interpretations of the past."
+        }
+      },
+      {
+        "code": "GF4",
+        "name": {
+          "local": "Att kunna räkna",
+          "en": "Numeracy"
+        },
+        "description": {
+          "local": "Att kunna räkna i historia innebär att kunna använda tidslinjer, kronologiska beräkningar och statistik för att förstå historiska skeenden. Eleverna utvecklar förmågan att tolka tabeller, diagram och kvantitativa data som belyser historiska förändringar, exempelvis befolkningsutveckling och handel. Numeriska färdigheter bidrar till förståelse av tidsspann, periodisering och historiska mönster.",
+          "en": "Numeracy in history involves being able to use timelines, chronological calculations and statistics to understand historical developments. Pupils develop the ability to interpret tables, diagrams and quantitative data that illuminate historical changes, such as population development and trade. Numerical skills contribute to understanding time spans, periodisation and historical patterns."
+        }
+      },
+      {
+        "code": "GF5",
+        "name": {
+          "local": "Digitala färdigheter",
+          "en": "Digital skills"
+        },
+        "description": {
+          "local": "Digitala färdigheter i historia innebär att kunna söka, värdera och använda digitala källor och verktyg för att undersöka historiska frågeställningar. Eleverna utvecklar förmågan att kritiskt granska information i digitala medier och att använda digitala resurser som kartor, databaser och arkiv. Digitala verktyg används också för att presentera historiska kunskaper och resonemang.",
+          "en": "Digital skills in history involve being able to search for, evaluate and use digital sources and tools to investigate historical questions. Pupils develop the ability to critically examine information in digital media and to use digital resources such as maps, databases and archives. Digital tools are also used to present historical knowledge and reasoning."
         }
       }
     ],

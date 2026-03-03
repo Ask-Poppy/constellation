@@ -4,13 +4,18 @@
     "api": "https://eperusteet.opintopolku.fi/eperusteet-service/api/external/peruste/419550/perusopetus/oppiaineet/502087",
     "curriculum": "POPS 2014",
     "license": "Open Government Data (Finland)",
-    "lastSynced": "2026-03-02T21:29:44Z"
+    "lastSynced": "2026-03-03T08:58:58Z",
+    "aiEnriched": ["description.en", "interdisciplinaryThemes", "basicSkills"]
   },
   "subject": {
     "code": "KT",
     "name": {
       "local": "Evankelisluterilainen uskonto",
       "en": "Religion"
+    },
+    "description": {
+      "local": "Uskonnon opetuksen tehtävänä on antaa oppilaille laaja uskonnollinen ja katsomuksellinen yleissivistys. Opetus perehdyttää oppilaita opiskeltavaan uskontoon ja sen monimuotoisuuteen. Se tutustuttaa uskonto- ja katsomusperinteisiin Suomessa sekä uskontoihin ja katsomuksiin muualla maailmassa. Oppiaine edistää uskonnon ja kulttuurin välisen suhteen ymmärtämistä sekä uskontojen ja katsomusten monilukutaitoa. Opetus antaa monipuolista tietoa uskonnoista ja auttaa ymmärtämään niistä käytävää keskustelua. Oppilaita ohjataan kriittiseen ajatteluun sekä tarkastelemaan uskontoja ja katsomuksia eri näkökulmista. Opetuksessa pohditaan uskon ja tiedon suhdetta sekä uskonnoille ominaista kieltä, symboliikkaa ja käsitteistöä. Uskonnon opetus antaa valmiuksia uskontojen ja katsomusten dialogiin, jota käydään sekä katsomusten sisällä että niiden välillä. Opetus kannustaa oppilaita kunnioittamaan elämää, ihmisarvoa sekä omaa ja toisen pyhää.\n\nOpetuksessa tutustutaan opiskeltavan uskonnon ja muiden uskontojen sekä katsomusten eettiseen ajatteluun ja rohkaistaan oppilaita pohtimaan omakohtaisesti eettisiä kysymyksiä. Opetus tukee oppilaan itsetuntemusta, itsensä arvostamista ja elämänhallintataitojen kehittymistä koko perusopetuksen ajan. Opetus antaa oppilaalle aineksia oman identiteetin, elämänkatsomuksen ja maailmankatsomuksen rakentamiseen ja arviointiin. Uskonnon opetus tukee oppilaan kasvua yhteisön ja demokraattisen yhteiskunnan vastuulliseksi jäseneksi ja maailmankansalaiseksi.",
+      "en": "The task of religious education is to provide pupils with a broad general knowledge of religions and worldviews. Teaching familiarises pupils with the religion being studied and its diversity. It introduces the religious and worldview traditions in Finland, as well as religions and worldviews elsewhere in the world. The subject promotes understanding of the relationship between religion and culture, and multiliteracy concerning religions and worldviews. Teaching provides diverse information about religions and helps pupils understand the discussions held about them. Pupils are guided towards critical thinking and towards examining religions and worldviews from different perspectives. Teaching explores the relationship between faith and knowledge, as well as the language, symbolism and conceptual frameworks characteristic of religions. Religious education provides the capacity for dialogue about religions and worldviews, which takes place both within and between different worldviews. Teaching encourages pupils to respect life, human dignity, and what is sacred to oneself and others.\n\nTeaching explores the ethical thinking of the religion being studied and other religions and worldviews, and encourages pupils to reflect personally on ethical questions. Teaching supports pupils' self-knowledge, self-esteem and the development of life management skills throughout basic education. Teaching provides pupils with material for constructing and evaluating their own identity, philosophy of life and worldview. Religious education supports pupils' growth as responsible members of their community and democratic society, and as global citizens."
     },
     "coreElements": [
       {
@@ -47,6 +52,98 @@
         }
       }
     ],
+    "interdisciplinaryThemes": [
+      {
+        "code": "TT1",
+        "name": {
+          "local": "Terveys ja elämänhallinta",
+          "en": "Health and life skills"
+        },
+        "description": {
+          "local": "Uskonnonopetuksessa tuetaan oppilaiden itsetuntemusta, itsearvostusta ja elämänhallintataitojen kehittymistä. Oppilaat pohtivat elämänkysymyksiä, omien valintojen eettisiä ulottuvuuksia ja niiden vaikutusta omaan ja toisten hyvinvointiin. Oppiaine auttaa oppilaita rakentamaan myönteistä maailmankatsomusta ja luottamusta elämään.",
+          "en": "In religious education, pupils' self-knowledge, self-esteem and development of life management skills are supported. Pupils reflect on existential questions, the ethical dimensions of their own choices and their impact on their own and others' well-being. The subject helps pupils build a positive worldview and trust in life."
+        }
+      },
+      {
+        "code": "TT2",
+        "name": {
+          "local": "Demokratia ja kansalaisuus",
+          "en": "Democracy and citizenship"
+        },
+        "description": {
+          "local": "Uskonnonopetus tukee oppilaan kasvua demokraattisen yhteiskunnan vastuulliseksi jäseneksi ja maailmankansalaiseksi. Oppilaat perehtyvät ihmisoikeuksiin, YK:n ihmisoikeuksien julistukseen ja Lapsen oikeuksien sopimukseen sekä oppivat kunnioittamaan erilaisia katsomuksia ja vakaumuksia. Uskontojen ja katsomusten välinen dialogi kehittää oppilaiden kykyä toimia moniarvoisessa yhteiskunnassa.",
+          "en": "Religious education supports the pupil's growth as a responsible member of democratic society and as a global citizen. Pupils explore human rights, the UN Declaration of Human Rights and the Convention on the Rights of the Child, and learn to respect different worldviews and convictions. Dialogue between religions and worldviews develops pupils' ability to function in a pluralistic society."
+        }
+      },
+      {
+        "code": "TT3",
+        "name": {
+          "local": "Kestävä kehitys",
+          "en": "Sustainability"
+        },
+        "description": {
+          "local": "Uskonnonopetuksessa kestävä kehitys liittyy eettiseen pohdintaan vastuusta ympäristöä, luontoa ja tulevia sukupolvia kohtaan. Oppilaat tarkastelevat globaalia vastuuta ja ympäristöetiikkaa uskontojen ja katsomusten näkökulmista. Oppiaine kannustaa oppilaita kestävään elämäntapaan ja pohtimaan omien valintojensa vaikutuksia kestävän tulevaisuuden kannalta.",
+          "en": "In religious education, sustainability relates to ethical reflection on responsibility towards the environment, nature and future generations. Pupils examine global responsibility and environmental ethics from the perspectives of religions and worldviews. The subject encourages pupils towards a sustainable way of life and to reflect on the impact of their own choices for a sustainable future."
+        }
+      }
+    ],
+    "basicSkills": [
+      {
+        "code": "GF1",
+        "name": {
+          "local": "Suulliset taidot",
+          "en": "Oral skills"
+        },
+        "description": {
+          "local": "Uskonnonopetuksessa suullisia taitoja harjoitellaan eettisistä kysymyksistä keskustelemalla, omien mielipiteiden esittämisellä ja perustelemisella sekä erilaisten näkemysten kuuntelemisella. Oppilaat oppivat ilmaisemaan ajatuksiaan ja tunteitaan rakentavasti uskontoihin ja katsomuksiin liittyvissä keskusteluissa.",
+          "en": "In religious education, oral skills are practised through discussing ethical questions, presenting and justifying one's own opinions, and listening to different perspectives. Pupils learn to express their thoughts and feelings constructively in discussions about religions and worldviews."
+        }
+      },
+      {
+        "code": "GF2",
+        "name": {
+          "local": "Kirjoittaminen",
+          "en": "Writing"
+        },
+        "description": {
+          "local": "Kirjoittamista käytetään uskonnonopetuksessa eettisten pohdintojen, omien näkemysten ja arvojen ilmaisemiseen sekä uskonnollisten ilmiöiden kuvaamiseen. Oppilaat harjoittelevat argumentointia ja jäsenneltyä kirjallista ilmaisua käsitellessään uskontoon ja etiikkaan liittyviä kysymyksiä.",
+          "en": "Writing is used in religious education for expressing ethical reflections, personal views and values, and for describing religious phenomena. Pupils practise argumentation and structured written expression when addressing questions related to religion and ethics."
+        }
+      },
+      {
+        "code": "GF3",
+        "name": {
+          "local": "Lukeminen",
+          "en": "Reading"
+        },
+        "description": {
+          "local": "Lukutaito on keskeistä uskonnonopetuksessa pyhien kirjojen, uskonnollisten kertomusten ja eettisten tekstien tulkinnassa. Oppilaat oppivat erottamaan uskonnollisen ja tieteellisen kielen piirteitä, tulkitsemaan vertauskuvallisuutta ja arvioimaan uskontoa koskevan tiedon luotettavuutta eri lähteistä.",
+          "en": "Reading skills are central to religious education for interpreting sacred texts, religious narratives and ethical texts. Pupils learn to distinguish features of religious and scientific language, to interpret figurative language, and to evaluate the reliability of information about religion from various sources."
+        }
+      },
+      {
+        "code": "GF4",
+        "name": {
+          "local": "Laskutaito",
+          "en": "Numeracy"
+        },
+        "description": {
+          "local": "Laskutaitoa hyödynnetään uskonnonopetuksessa tilastollisten tietojen tulkinnassa, kuten uskontojen levinneisyyden ja jäsenmäärien tarkastelussa. Oppilaat käyttävät numeerista tietoa vertaillessaan eri uskontojen ja katsomusten osuuksia väestöstä sekä hahmottaessaan uskontojen historiallista ja maantieteellistä ulottuvuutta.",
+          "en": "Numeracy is used in religious education for interpreting statistical data, such as examining the distribution and membership numbers of religions. Pupils use numerical information when comparing the proportions of different religions and worldviews in the population and when understanding the historical and geographical dimensions of religions."
+        }
+      },
+      {
+        "code": "GF5",
+        "name": {
+          "local": "Digitaaliset taidot",
+          "en": "Digital skills"
+        },
+        "description": {
+          "local": "Digitaalisia taitoja käytetään uskonnonopetuksessa uskontoa ja katsomuksia koskevan tiedon etsimisessä ja kriittisessä arvioinnissa, mediaesitysten analysoinnissa sekä uskontojen näkyvyyden tarkastelussa digitaalisessa mediassa. Oppilaat oppivat tunnistamaan uskonnollisia aiheita mediassa ja arvioimaan niiden käsittelyä kriittisesti.",
+          "en": "Digital skills are used in religious education for searching for and critically evaluating information about religions and worldviews, analysing media presentations, and examining the visibility of religions in digital media. Pupils learn to identify religious themes in media and to evaluate their treatment critically."
+        }
+      }
+    ],
     "gradeBands": [
       {
         "afterGrade": 2,
@@ -62,9 +159,9 @@
               "en": "T1 awaken the pupil's interest in the study of religion and guide them to become familiar with the religious and worldview background of their own family"
             },
             "coreElements": [
-              "S1 Suhde omaan uskontoon",
-              "S2 Uskontojen maailma",
-              "S3 Hyvä elämä"
+              "S1",
+              "S2",
+              "S3"
             ],
             "verbs": []
           },
@@ -75,7 +172,7 @@
               "en": "T2 guide the pupil to become acquainted with the key concepts, narratives and symbols of the religion being studied"
             },
             "coreElements": [
-              "S1 Suhde omaan uskontoon"
+              "S1"
             ],
             "verbs": []
           },
@@ -86,7 +183,7 @@
               "en": "T3 guide the pupil to become acquainted with the annual cycle, celebrations and customs of the religion being studied"
             },
             "coreElements": [
-              "S1 Suhde omaan uskontoon"
+              "S1"
             ],
             "verbs": []
           },
@@ -97,7 +194,7 @@
               "en": "T4 encourage the pupil to become acquainted with the customs and celebratory traditions of the religions and worldviews in their classroom, school and local environment"
             },
             "coreElements": [
-              "S2 Uskontojen maailma"
+              "S2"
             ],
             "verbs": []
           },
@@ -108,8 +205,8 @@
               "en": "T5 encourage the pupil to recognise and express their own thoughts and feelings"
             },
             "coreElements": [
-              "S1 Suhde omaan uskontoon",
-              "S3 Hyvä elämä"
+              "S1",
+              "S3"
             ],
             "verbs": []
           },
@@ -120,9 +217,9 @@
               "en": "T6 guide the pupil to act justly, to empathise with others, and to respect other people's thoughts, convictions and human rights"
             },
             "coreElements": [
-              "S1 Suhde omaan uskontoon",
-              "S2 Uskontojen maailma",
-              "S3 Hyvä elämä"
+              "S1",
+              "S2",
+              "S3"
             ],
             "verbs": []
           },
@@ -133,7 +230,7 @@
               "en": "T7 guide pupils towards ethical reflection and to perceive what responsibility for oneself, one's community, the environment and nature means"
             },
             "coreElements": [
-              "S3 Hyvä elämä"
+              "S3"
             ],
             "verbs": []
           },
@@ -144,8 +241,8 @@
               "en": "T8 create opportunities for the pupil to practise presenting and justifying their own opinions, and to listen to and understand different opinions"
             },
             "coreElements": [
-              "S1 Suhde omaan uskontoon",
-              "S3 Hyvä elämä"
+              "S1",
+              "S3"
             ],
             "verbs": []
           }
@@ -165,7 +262,7 @@
               "en": "T1 guide the pupil to explore the sacred texts, narratives and central teachings of the religion being studied"
             },
             "coreElements": [
-              "S1 Suhde omaan uskontoon"
+              "S1"
             ],
             "verbs": []
           },
@@ -176,7 +273,7 @@
               "en": "T2 guide the pupil to become acquainted with the rituals, customs, sacred places and buildings of the religion being studied"
             },
             "coreElements": [
-              "S1 Suhde omaan uskontoon"
+              "S1"
             ],
             "verbs": []
           },
@@ -187,8 +284,8 @@
               "en": "T3 help the pupil to recognise the distinctive features and figurative nature of religious language"
             },
             "coreElements": [
-              "S2 Uskontojen maailma",
-              "S1 Suhde omaan uskontoon"
+              "S2",
+              "S1"
             ],
             "verbs": []
           },
@@ -199,9 +296,9 @@
               "en": "T4 guide the pupil to seek, evaluate and use information about religion from various sources"
             },
             "coreElements": [
-              "S2 Uskontojen maailma",
-              "S3 Hyvä elämä",
-              "S1 Suhde omaan uskontoon"
+              "S2",
+              "S3",
+              "S1"
             ],
             "verbs": []
           },
@@ -212,8 +309,8 @@
               "en": "T5 guide the pupil to explore the religious and worldview roots and current state of Finland and Europe"
             },
             "coreElements": [
-              "S2 Uskontojen maailma",
-              "S1 Suhde omaan uskontoon"
+              "S2",
+              "S1"
             ],
             "verbs": []
           },
@@ -224,8 +321,8 @@
               "en": "T6 guide the pupil to become acquainted with Judaism, Christianity and Islam, and their influence and history in Europe"
             },
             "coreElements": [
-              "S2 Uskontojen maailma",
-              "S3 Hyvä elämä"
+              "S2",
+              "S3"
             ],
             "verbs": []
           },
@@ -236,9 +333,9 @@
               "en": "T7 encourage the pupil to respect what is sacred to oneself and others, and to behave appropriately in various religious occasions and situations"
             },
             "coreElements": [
-              "S2 Uskontojen maailma",
-              "S3 Hyvä elämä",
-              "S1 Suhde omaan uskontoon"
+              "S2",
+              "S3",
+              "S1"
             ],
             "verbs": []
           },
@@ -249,9 +346,9 @@
               "en": "T8 guide the pupil to explore the ethical teachings of the religion being studied and the ethical principles shared by different religions"
             },
             "coreElements": [
-              "S2 Uskontojen maailma",
-              "S3 Hyvä elämä",
-              "S1 Suhde omaan uskontoon"
+              "S2",
+              "S3",
+              "S1"
             ],
             "verbs": []
           },
@@ -262,8 +359,8 @@
               "en": "T9 guide the pupil to understand the values contained in human rights, and particularly in the UN Convention on the Rights of the Child, from both individual and community perspectives"
             },
             "coreElements": [
-              "S2 Uskontojen maailma",
-              "S3 Hyvä elämä"
+              "S2",
+              "S3"
             ],
             "verbs": []
           },
@@ -274,8 +371,8 @@
               "en": "T10 guide the pupil to evaluate the choices they make and to reflect on the values underlying their actions from the perspective of ethical principles and a sustainable future"
             },
             "coreElements": [
-              "S2 Uskontojen maailma",
-              "S3 Hyvä elämä"
+              "S2",
+              "S3"
             ],
             "verbs": []
           },
@@ -286,9 +383,9 @@
               "en": "T11 create opportunities for the pupil to discuss ethical questions, to express their thoughts and feelings constructively, and to practise justifying their own views"
             },
             "coreElements": [
-              "S2 Uskontojen maailma",
-              "S3 Hyvä elämä",
-              "S1 Suhde omaan uskontoon"
+              "S2",
+              "S3",
+              "S1"
             ],
             "verbs": []
           },
@@ -299,7 +396,7 @@
               "en": "T12 help and support the pupil in forming and strengthening a positive worldview, self-esteem and trust in life"
             },
             "coreElements": [
-              "S3 Hyvä elämä"
+              "S3"
             ],
             "verbs": []
           }
@@ -319,8 +416,8 @@
               "en": "T1 guide the pupil to observe the interaction between religion and culture and to recognise the diversity associated with religion"
             },
             "coreElements": [
-              "S1 Suhde omaan uskontoon",
-              "S2 Uskontojen maailma"
+              "S1",
+              "S2"
             ],
             "verbs": []
           },
@@ -331,7 +428,7 @@
               "en": "T2 guide the pupil to deepen their knowledge of the religion being studied and its influence"
             },
             "coreElements": [
-              "S1 Suhde omaan uskontoon"
+              "S1"
             ],
             "verbs": []
           },
@@ -342,7 +439,7 @@
               "en": "T3 guide the pupil to explore religions and worldviews around the world as well as non-religiousness"
             },
             "coreElements": [
-              "S2 Uskontojen maailma"
+              "S2"
             ],
             "verbs": []
           },
@@ -353,9 +450,9 @@
               "en": "T4 guide the pupil to know the customs and symbols of different religions and worldviews, and to recognise religious themes in media, world politics, art and popular culture"
             },
             "coreElements": [
-              "S1 Suhde omaan uskontoon",
-              "S2 Uskontojen maailma",
-              "S3 Hyvä elämä"
+              "S1",
+              "S2",
+              "S3"
             ],
             "verbs": []
           },
@@ -366,8 +463,8 @@
               "en": "T5 guide the pupil to observe and evaluate different forms of argumentation and the differences between religious and scientific language"
             },
             "coreElements": [
-              "S1 Suhde omaan uskontoon",
-              "S3 Hyvä elämä"
+              "S1",
+              "S3"
             ],
             "verbs": []
           },
@@ -378,7 +475,7 @@
               "en": "T6 guide the pupil to explore the key concepts of ethical thinking, human rights, and the ethical principles of the religion being studied as well as those of other religions and worldviews"
             },
             "coreElements": [
-              "S3 Hyvä elämä"
+              "S3"
             ],
             "verbs": []
           },
@@ -389,8 +486,8 @@
               "en": "T7 help the pupil to reflect on the global significance of religions and worldviews as the basis and guide for people's choices"
             },
             "coreElements": [
-              "S1 Suhde omaan uskontoon",
-              "S3 Hyvä elämä"
+              "S1",
+              "S3"
             ],
             "verbs": []
           },
@@ -401,8 +498,8 @@
               "en": "T8 encourage the pupil to reflect on existential questions related to being human, current ethical issues and the relationship of their own values to them"
             },
             "coreElements": [
-              "S2 Uskontojen maailma",
-              "S3 Hyvä elämä"
+              "S2",
+              "S3"
             ],
             "verbs": []
           },
@@ -413,8 +510,8 @@
               "en": "T9 inspire the pupil to examine the ethical dimensions of their own choices and their impact on well-being, and to encourage a sustainable way of life"
             },
             "coreElements": [
-              "S2 Uskontojen maailma",
-              "S3 Hyvä elämä"
+              "S2",
+              "S3"
             ],
             "verbs": []
           },
@@ -425,9 +522,9 @@
               "en": "T10 encourage pupils to encounter diverse people now and in the future in further studies, working life and leisure"
             },
             "coreElements": [
-              "S1 Suhde omaan uskontoon",
-              "S2 Uskontojen maailma",
-              "S3 Hyvä elämä"
+              "S1",
+              "S2",
+              "S3"
             ],
             "verbs": []
           }

@@ -4,13 +4,18 @@
     "api": "https://eperusteet.opintopolku.fi/eperusteet-service/api/external/peruste/419550/perusopetus/oppiaineet/502086",
     "curriculum": "POPS 2014",
     "license": "Open Government Data (Finland)",
-    "lastSynced": "2026-03-02T21:29:43Z"
+    "lastSynced": "2026-03-03T08:58:56Z",
+    "aiEnriched": ["description.en", "interdisciplinaryThemes", "basicSkills"]
   },
   "subject": {
     "code": "KO",
     "name": {
       "local": "Kotitalous",
       "en": "Home Economics"
+    },
+    "description": {
+      "local": "Kotitalouden opetuksen tehtävänä on kehittää kodin arjen hallinnan sekä kestävän ja hyvinvointia edistävän elämäntavan edellyttämiä tietoja, taitoja, asenteita ja toimintavalmiuksia. Opetuksessa edistetään kädentaitoja ja luovuutta sekä kykyä tehdä valintoja ja toimia kodin arjessa kestävästi. Opetuksessa luodaan perustaa oppilaiden kotitaloudelliselle osaamiselle, mikä merkitsee taitoa toimia eri ympäristöissä ja toteuttaa kotitalouden tehtäviä. Opetuksella tuetaan oppilaiden kasvua kodin arjen perusedellytysten ylläpitämisestä huolehtiviksi kuluttajiksi. Kotitalousopetuksessa kehitytään kanssaihmisistä huoltapitäviksi lähimmäisiksi ja kasvetaan perheen, kodin ja yhteiskunnan aktiivisiksi jäseniksi.\n\nOpetus antaa valmiuksia vuorovaikutukseen ja yhdessä elämiseen. Kotitalousopetuksessa luodaan perusta kestävään asumiseen, ruokaosaamiseen ja kuluttajuuteen. Oppilaat saavat käsityksen kodin teknologisoituvasta arjesta, kustannustietoisesta toiminnasta sekä tieto- ja viestintäteknologian hyödyntämisestä kotitalouden toiminnassa.\n\nKotitalouden keskeisten sisältöjen ja oppimistehtävien avulla kehitetään oppilaiden suunnittelu-, organisointi-, työskentely- ja voimavarojen hallinnan taitoja. Kotitalouden tehtävänä on vahvistaa valmiuksia pitkäjänteiseen työskentelyyn, yhdessä toimimiseen ja kriittiseen tiedonhallintaan. Erityistä huomiota kiinnitetään jokaisen oppilaan yhdenvertaiseen ja tasapuoliseen osallisuuteen oppimistilanteissa. Oppiaine kasvattaa toiminnallisuuteen ja yritteliäisyyteen sekä vastuullisuuteen ja taloudellisuuteen.\n\nOppiaine soveltaa toiminnaksi eri alojen tietoa, ja yhteistyö muiden oppiaineiden kanssa monipuolistaa oppimiskokemuksia. Eheyttävä opetus tukee erilaisten kodin arkeen liittyvien käsitteiden, asioiden tai ilmiöiden keskinäisten yhteyksien ja syy-seuraussuhteiden ymmärtämistä syventäen oppimista. Kotitalouden opetus kattaa laaja-alaisen osaamisen kaikki osa-alueet.\n\nKotitalousopetus rakennetaan suunnitelmalliseksi oppimista tukevaksi jatkumoksi, jolloin tiedot ja taidot syvenevät vaiheittain kokonaisuuksiksi. Oppilaiden itsenäisyys ja vastuu kasvavat vähitellen, ja opetus ohjaa ongelmanratkaisuun, tiedon ja taidon soveltamiseen ja luovuuteen. Opittua sovelletaan ja syvennetään omassa kodissa ja lähipiirissä kotitehtävien avulla.\n\nKotitalousopetusta voidaan opetuksen järjestäjän niin päättäessä antaa jo alemmilla vuosiluokilla. Tällöin noudatetaan kotitalouden oppimäärän opetussuunnitelman perusteita oppilaiden iän huomioon ottaen. Opetuksen tavoitteet, keskeiset sisältöalueet ja toteutus määritellään paikallisessa opetussuunnitelmassa opetussuunnitelman perusteita soveltaen.",
+      "en": "The task of home economics education is to develop the knowledge, skills, attitudes and capacities needed for managing everyday life at home and for a sustainable lifestyle that promotes well-being. Teaching promotes manual skills and creativity, as well as the ability to make choices and act sustainably in everyday home life. Teaching creates the foundation for pupils' home economics competence, which means the ability to function in different environments and carry out household tasks. Teaching supports pupils' growth into consumers who take care of the basic prerequisites of everyday home life. In home economics education, pupils develop into caring individuals who look after others and grow into active members of their families, homes and society.\n\nTeaching provides the skills for interaction and living together. Home economics education creates the foundation for sustainable housing, food competence and consumer skills. Pupils gain an understanding of the increasingly technology-driven everyday life of the home, cost-conscious practices, and the use of information and communication technology in household activities.\n\nThrough the core content and learning tasks of home economics, pupils develop their planning, organisational, working and resource management skills. The task of home economics is to strengthen the capacity for persistent work, collaboration, and critical information management. Particular attention is paid to the equal and equitable participation of every pupil in learning situations. The subject educates pupils in practical agency, enterprise, responsibility and economy.\n\nThe subject applies knowledge from different fields into practice, and collaboration with other subjects diversifies learning experiences. Integrative teaching supports understanding of the interrelationships and cause-and-effect relationships of concepts, phenomena and issues related to everyday home life, deepening learning. Home economics education covers all areas of transversal competence.\n\nHome economics education is built as a systematic continuum that supports learning, with knowledge and skills gradually deepening into coherent wholes. Pupils' independence and responsibility increase gradually, and teaching guides problem-solving, the application of knowledge and skills, and creativity. What has been learned is applied and deepened in one's own home and close circle through homework.\n\nHome economics education may, at the discretion of the education provider, be offered at lower grade levels. In such cases, the curriculum for the home economics syllabus is followed, taking the pupils' age into account. The objectives, core content areas and implementation of teaching are defined in the local curriculum, applying the national core curriculum."
     },
     "coreElements": [
       {
@@ -47,6 +52,98 @@
         }
       }
     ],
+    "interdisciplinaryThemes": [
+      {
+        "code": "TT1",
+        "name": {
+          "local": "Terveys ja elämänhallinta",
+          "en": "Health and life skills"
+        },
+        "description": {
+          "local": "Kotitaloudessa oppilaat oppivat ruoanvalmistus- ja ravitsemustaitoja, jotka edistävät terveellisiä ruokailu- ja elämäntapoja. Oppiaineessa harjoitellaan ajankäytön hallintaa, arjen organisointia ja voimavarojen tasapuolista jakamista, mikä tukee oppilaiden kokonaisvaltaista elämänhallintaa. Hygieeninen ja ergonominen työskentely kehittää oppilaiden kykyä huolehtia omasta ja muiden hyvinvoinnista.",
+          "en": "In home economics, pupils learn cooking and nutrition skills that promote healthy eating and lifestyle habits. The subject involves practising time management, organising everyday life and distributing resources equitably, which supports pupils' overall life management. Hygienic and ergonomic working practices develop pupils' ability to take care of their own and others' well-being."
+        }
+      },
+      {
+        "code": "TT2",
+        "name": {
+          "local": "Demokratia ja kansalaisuus",
+          "en": "Democracy and citizenship"
+        },
+        "description": {
+          "local": "Kotitalousopetus kasvattaa oppilaita aktiivisiksi yhteiskunnan jäseniksi kuluttaja- ja talousosaamisen kautta. Oppilaat oppivat tuntemaan oikeutensa ja vastuunsa kuluttajina sekä arvioimaan kriittisesti median ja vertaisryhmien vaikutusta omiin valintoihinsa. Yhdessä toimiminen ja tasapuolinen vastuunjako oppimistehtävissä vahvistavat demokraattisen osallistumisen taitoja.",
+          "en": "Home economics education develops pupils into active members of society through consumer and financial literacy. Pupils learn to know their rights and responsibilities as consumers and to critically evaluate the influence of media and peer groups on their own choices. Collaboration and equitable sharing of responsibility in learning tasks strengthen democratic participation skills."
+        }
+      },
+      {
+        "code": "TT3",
+        "name": {
+          "local": "Kestävä kehitys",
+          "en": "Sustainability"
+        },
+        "description": {
+          "local": "Kotitaloudessa kestävä kehitys näkyy ympäristö- ja kustannustietoisena toimintana arjen valinnoissa, kuten ruokaketjun ymmärtämisessä, materiaalien ja tekstiilien vastuullisessa hoidossa sekä energiaa säästävässä asumisessa. Oppilaat oppivat tekemään eettisesti ja ekologisesti kestäviä kulutusvalintoja. Opetus ohjaa oppilaita pohtimaan omien valintojen vaikutuksia ympäristöön ja tuleviin sukupolviin.",
+          "en": "In home economics, sustainability is reflected in environmentally and cost-conscious practices in everyday choices, such as understanding the food chain, responsible care of materials and textiles, and energy-efficient housing. Pupils learn to make ethically and ecologically sustainable consumption choices. Teaching guides pupils to reflect on the impact of their own choices on the environment and future generations."
+        }
+      }
+    ],
+    "basicSkills": [
+      {
+        "code": "GF1",
+        "name": {
+          "local": "Suulliset taidot",
+          "en": "Oral skills"
+        },
+        "description": {
+          "local": "Kotitaloudessa suullisia taitoja harjoitellaan kuuntelun, rakentavan keskustelun ja argumentoinnin avulla oppimistehtävien suunnittelussa ja toteuttamisessa. Oppilaat neuvottelevat työtehtävien jakamisesta, sopivat ajankäytöstä ja keskustelevat valinnoistaan ryhmässä. Hyvien tapojen mukainen vuorovaikutus erilaisissa tilanteissa kehittää oppilaiden sosiaalisia taitoja.",
+          "en": "In home economics, oral skills are practised through listening, constructive discussion and argumentation in the planning and carrying out of learning tasks. Pupils negotiate the division of tasks, agree on time use and discuss their choices in groups. Interaction according to good manners in various situations develops pupils' social skills."
+        }
+      },
+      {
+        "code": "GF2",
+        "name": {
+          "local": "Kirjoittaminen",
+          "en": "Writing"
+        },
+        "description": {
+          "local": "Kirjoittamista harjoitellaan kotitaloudessa esimerkiksi ateriasuunnitelmien, ostoslistojen ja työvaiheiden dokumentoinnin kautta. Oppilaat laativat kirjallisia suunnitelmia ja arvioivat omaa oppimistaan kirjallisesti. Kirjoittaminen tukee oppilaiden kykyä jäsentää ja organisoida kotitalouden toimintaa.",
+          "en": "Writing is practised in home economics through activities such as documenting meal plans, shopping lists and work stages. Pupils prepare written plans and evaluate their own learning in writing. Writing supports pupils' ability to structure and organise household activities."
+        }
+      },
+      {
+        "code": "GF3",
+        "name": {
+          "local": "Lukeminen",
+          "en": "Reading"
+        },
+        "description": {
+          "local": "Lukutaitoa tarvitaan kotitaloudessa reseptien, pakkausmerkintöjen, hoito-ohjeiden ja tuoteselosteiden lukemisessa ja tulkinnassa. Oppilaat oppivat arvioimaan kotitalouteen liittyvän tiedon luotettavuutta ja käyttämään erilaisia ohjeita ja symboleja arjessa. Kriittinen lukutaito tukee vastuullisten kulutusvalintojen tekemistä.",
+          "en": "Reading skills are needed in home economics for reading and interpreting recipes, packaging labels, care instructions and product descriptions. Pupils learn to evaluate the reliability of information related to home economics and to use various instructions and symbols in everyday life. Critical reading skills support making responsible consumption choices."
+        }
+      },
+      {
+        "code": "GF4",
+        "name": {
+          "local": "Laskutaito",
+          "en": "Numeracy"
+        },
+        "description": {
+          "local": "Laskutaitoa käytetään kotitaloudessa mittaamisessa, annosten skaalaamisessa, kustannusten laskemisessa ja kotitalouden budjetoinnissa. Oppilaat oppivat hahmottamaan taloudellisia kokonaisuuksia ja tekemään kustannustietoisia päätöksiä. Numeerinen osaaminen on välttämätöntä ruoanvalmistuksessa ja kodin resurssien hallinnassa.",
+          "en": "Numeracy is used in home economics for measuring, scaling portions, calculating costs and household budgeting. Pupils learn to understand financial wholes and to make cost-conscious decisions. Numerical competence is essential in cooking and managing household resources."
+        }
+      },
+      {
+        "code": "GF5",
+        "name": {
+          "local": "Digitaaliset taidot",
+          "en": "Digital skills"
+        },
+        "description": {
+          "local": "Digitaalisia taitoja hyödynnetään kotitaloudessa tiedonhaussa, reseptien ja tuotetietojen etsimisessä verkosta sekä tieto- ja viestintäteknologian käyttämisessä arjen työvälineenä. Oppilaat oppivat arvioimaan digitaalisten lähteiden luotettavuutta kuluttajatiedon hankkimisessa ja hyödyntämään kodin teknologisoituvaa arkea.",
+          "en": "Digital skills are used in home economics for information retrieval, searching for recipes and product information online, and using information and communication technology as an everyday tool. Pupils learn to evaluate the reliability of digital sources when acquiring consumer information and to make use of the increasingly technology-driven everyday life of the home."
+        }
+      }
+    ],
     "gradeBands": [
       {
         "afterGrade": 9,
@@ -62,8 +159,8 @@
               "en": "T1 guide the pupil to plan, organise and evaluate work and activities"
             },
             "coreElements": [
-              "S1 Ruokaosaaminen ja ruokakulttuuri",
-              "S2 Asuminen ja yhdessä eläminen"
+              "S1",
+              "S2"
             ],
             "verbs": []
           },
@@ -74,8 +171,8 @@
               "en": "T2 guide the pupil to practise the manual skills needed in household management and encourage creativity and attention to aesthetics"
             },
             "coreElements": [
-              "S1 Ruokaosaaminen ja ruokakulttuuri",
-              "S2 Asuminen ja yhdessä eläminen"
+              "S1",
+              "S2"
             ],
             "verbs": []
           },
@@ -86,9 +183,9 @@
               "en": "T3 guide and encourage the pupil to select and use materials, tools, appliances and information and communication technology in ways that promote well-being and sustainable consumption"
             },
             "coreElements": [
-              "S1 Ruokaosaaminen ja ruokakulttuuri",
-              "S2 Asuminen ja yhdessä eläminen",
-              "S3 Kuluttaja- ja talousosaaminen kodissa"
+              "S1",
+              "S2",
+              "S3"
             ],
             "verbs": []
           },
@@ -99,8 +196,8 @@
               "en": "T4 guide the pupil to plan their use of time and the progress of work and to maintain orderliness during learning tasks"
             },
             "coreElements": [
-              "S1 Ruokaosaaminen ja ruokakulttuuri",
-              "S2 Asuminen ja yhdessä eläminen"
+              "S1",
+              "S2"
             ],
             "verbs": []
           },
@@ -111,9 +208,9 @@
               "en": "T5 guide and motivate the pupil to work hygienically, safely and ergonomically, and to direct the pupil's attention to the resources available"
             },
             "coreElements": [
-              "S1 Ruokaosaaminen ja ruokakulttuuri",
-              "S2 Asuminen ja yhdessä eläminen",
-              "S3 Kuluttaja- ja talousosaaminen kodissa"
+              "S1",
+              "S2",
+              "S3"
             ],
             "verbs": []
           },
@@ -124,9 +221,9 @@
               "en": "T6 guide the pupil to practise listening, constructive discussion and argumentation in planning and carrying out learning tasks"
             },
             "coreElements": [
-              "S1 Ruokaosaaminen ja ruokakulttuuri",
-              "S2 Asuminen ja yhdessä eläminen",
-              "S3 Kuluttaja- ja talousosaaminen kodissa"
+              "S1",
+              "S2",
+              "S3"
             ],
             "verbs": []
           },
@@ -137,9 +234,9 @@
               "en": "T7 activate the pupil to recognise the structure of everyday life, culturally diverse operating environments and household traditions"
             },
             "coreElements": [
-              "S1 Ruokaosaaminen ja ruokakulttuuri",
-              "S2 Asuminen ja yhdessä eläminen",
-              "S3 Kuluttaja- ja talousosaaminen kodissa"
+              "S1",
+              "S2",
+              "S3"
             ],
             "verbs": []
           },
@@ -150,8 +247,8 @@
               "en": "T8 guide the pupil to work independently and in a group and to agree on the division of tasks and use of time"
             },
             "coreElements": [
-              "S1 Ruokaosaaminen ja ruokakulttuuri",
-              "S2 Asuminen ja yhdessä eläminen"
+              "S1",
+              "S2"
             ],
             "verbs": []
           },
@@ -162,9 +259,9 @@
               "en": "T9 encourage the pupil to act according to good manners in social interaction situations and to reflect on the significance of one's own behaviour in the functioning of a group and community"
             },
             "coreElements": [
-              "S1 Ruokaosaaminen ja ruokakulttuuri",
-              "S2 Asuminen ja yhdessä eläminen",
-              "S3 Kuluttaja- ja talousosaaminen kodissa"
+              "S1",
+              "S2",
+              "S3"
             ],
             "verbs": []
           },
@@ -175,9 +272,9 @@
               "en": "T10 encourage the pupil to acquire and evaluate information related to home economics and guide them to use reliable information as the basis for choices"
             },
             "coreElements": [
-              "S1 Ruokaosaaminen ja ruokakulttuuri",
-              "S2 Asuminen ja yhdessä eläminen",
-              "S3 Kuluttaja- ja talousosaaminen kodissa"
+              "S1",
+              "S2",
+              "S3"
             ],
             "verbs": []
           },
@@ -188,8 +285,8 @@
               "en": "T11 train the pupil to read, interpret and evaluate instructions as well as signs and symbols related to home economics and the local environment"
             },
             "coreElements": [
-              "S1 Ruokaosaaminen ja ruokakulttuuri",
-              "S2 Asuminen ja yhdessä eläminen"
+              "S1",
+              "S2"
             ],
             "verbs": []
           },
@@ -200,9 +297,9 @@
               "en": "T12 guide the pupil towards problem-solving and creativity in various situations and environments"
             },
             "coreElements": [
-              "S1 Ruokaosaaminen ja ruokakulttuuri",
-              "S2 Asuminen ja yhdessä eläminen",
-              "S3 Kuluttaja- ja talousosaaminen kodissa"
+              "S1",
+              "S2",
+              "S3"
             ],
             "verbs": []
           },
@@ -213,9 +310,9 @@
               "en": "T13 guide the pupil towards a sustainable way of life by directing the pupil's attention to environmental and cost awareness as part of everyday choices"
             },
             "coreElements": [
-              "S1 Ruokaosaaminen ja ruokakulttuuri",
-              "S2 Asuminen ja yhdessä eläminen",
-              "S3 Kuluttaja- ja talousosaaminen kodissa"
+              "S1",
+              "S2",
+              "S3"
             ],
             "verbs": []
           }

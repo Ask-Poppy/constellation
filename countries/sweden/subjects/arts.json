@@ -4,13 +4,18 @@
     "api": "https://api.skolverket.se/syllabus/v1/subjects/GRGRBIL01",
     "curriculum": "Lgr22",
     "license": "CC0",
-    "lastSynced": "2026-03-02T21:29:34Z"
+    "lastSynced": "2026-03-03T08:58:56Z",
+    "aiEnriched": ["description.en", "interdisciplinaryThemes", "basicSkills"]
   },
   "subject": {
     "code": "GRGRBIL01",
     "name": {
       "local": "Bild",
       "en": "Arts"
+    },
+    "description": {
+      "local": "Undervisningen i ämnet bild ska syfta till att eleverna utvecklar kunskaper om hur bilder skapas och tolkas. Genom undervisningen ska eleverna få erfarenheter av visuell kultur i form av film, fotografi, design, konst, arkitektur och miljöer. I undervisningen ska eleverna ges möjligheter att utveckla kunskaper om hur man framställer och presenterar egna bilder med olika metoder, material och uttrycksformer. Undervisningen ska bidra till att eleverna utvecklar sin kreativitet och sitt intresse för att skapa och kommunicera visuellt. Genom undervisningen ska eleverna ges förutsättningar att utveckla idéer samt överväga olika lösningar och tillvägagångssätt i det bildskapande arbetet. Eleverna ska också uppmuntras att ta egna initiativ och att arbeta på ett undersökande och problemlösande sätt. Undervisningen ska bidra till att eleverna utvecklar förståelse för hur bildbudskap utformas i olika medier. Undervisningen ska också ge eleverna möjligheter att diskutera och kritiskt granska olika bildbudskap och bidra till att eleverna utvecklar kunskaper om bilder i olika kulturer, både i nutid och historiskt. Genom undervisningen ska eleverna även ges möjlighet att använda sina kunskaper om olika typer av bilder i det egna bildskapandet. Undervisningen i ämnet bild ska ge eleverna förutsättningar att utveckla",
+      "en": "Teaching in the subject of arts shall aim to develop pupils' knowledge of how images are created and interpreted. Through teaching, pupils shall gain experience of visual culture in the form of film, photography, design, art, architecture and environments. In teaching, pupils shall be given opportunities to develop knowledge of how to produce and present their own images using different methods, materials and forms of expression. Teaching shall contribute to pupils developing their creativity and their interest in creating and communicating visually. Through teaching, pupils shall be given the conditions to develop ideas and to consider different solutions and approaches in image-making work. Pupils shall also be encouraged to take their own initiatives and to work in an exploratory and problem-solving way. Teaching shall contribute to pupils developing understanding of how visual messages are designed in different media. Teaching shall also give pupils opportunities to discuss and critically examine different visual messages and contribute to pupils developing knowledge of images in different cultures, both in the present and historically. Through teaching, pupils shall also be given the opportunity to use their knowledge of different types of images in their own image-making."
     },
     "coreElements": [
       {
@@ -55,6 +60,98 @@
         "description": {
           "local": "förmåga att analysera samtida och historiska bilders innehåll, uttryck och funktioner.",
           "en": "the ability to analyse the content, expression and functions of contemporary and historical images."
+        }
+      }
+    ],
+    "interdisciplinaryThemes": [
+      {
+        "code": "TT1",
+        "name": {
+          "local": "Hälsa och livskompetens",
+          "en": "Health and life skills"
+        },
+        "description": {
+          "local": "I bild bidrar det temaövergripande temat hälsa och livskompetens till att eleverna utvecklar sin kreativitet och förmåga att uttrycka tankar, känslor och upplevelser genom visuellt skapande. Bildskapande kan fungera som ett verktyg för självreflektion och emotionell bearbetning, vilket stärker elevernas välbefinnande. Genom att arbeta med bilder utvecklar eleverna tilltro till sin egen förmåga och förutsättningar att hantera utmaningar på ett kreativt sätt.",
+          "en": "In arts, the interdisciplinary theme of health and life skills contributes to pupils developing their creativity and ability to express thoughts, feelings and experiences through visual creation. Image-making can function as a tool for self-reflection and emotional processing, which strengthens pupils' wellbeing. By working with images, pupils develop confidence in their own ability and the conditions to handle challenges in a creative way."
+        }
+      },
+      {
+        "code": "TT2",
+        "name": {
+          "local": "Demokrati och medborgarskap",
+          "en": "Democracy and citizenship"
+        },
+        "description": {
+          "local": "I bild bidrar det temaövergripande temat demokrati och medborgarskap till att eleverna utvecklar förståelse för hur bilder används för att påverka opinioner och förmedla budskap i samhället. Genom att kritiskt granska mediebilder och visuell kommunikation får eleverna verktyg för att vara medvetna och aktiva medborgare. Ämnet ger eleverna möjlighet att använda bildskapande som en form av yttrande och delaktighet i demokratiska processer.",
+          "en": "In arts, the interdisciplinary theme of democracy and citizenship contributes to pupils developing understanding of how images are used to influence opinions and convey messages in society. By critically examining media images and visual communication, pupils gain tools for being conscious and active citizens. The subject gives pupils the opportunity to use image-making as a form of expression and participation in democratic processes."
+        }
+      },
+      {
+        "code": "TT3",
+        "name": {
+          "local": "Hållbar utveckling",
+          "en": "Sustainability"
+        },
+        "description": {
+          "local": "I bild bidrar det temaövergripande temat hållbar utveckling till att eleverna utvecklar medvetenhet om hur visuell kommunikation kan användas för att belysa miljöfrågor och hållbarhetsutmaningar. Genom att arbeta med återanvändning av material och kritiskt granska reklambilder och konsumtionsbudskap får eleverna perspektiv på hållbar konsumtion. Ämnet ger eleverna möjlighet att använda bildskapande för att gestalta och kommunicera visioner om en hållbar framtid.",
+          "en": "In arts, the interdisciplinary theme of sustainability contributes to pupils developing awareness of how visual communication can be used to illuminate environmental issues and sustainability challenges. By working with reuse of materials and critically examining advertising images and consumption messages, pupils gain perspective on sustainable consumption. The subject gives pupils the opportunity to use image-making to portray and communicate visions of a sustainable future."
+        }
+      }
+    ],
+    "basicSkills": [
+      {
+        "code": "GF1",
+        "name": {
+          "local": "Muntliga färdigheter",
+          "en": "Oral skills"
+        },
+        "description": {
+          "local": "Muntliga färdigheter i bild innebär att kunna samtala om och beskriva bilder, bildbudskap och bildskapande processer med hjälp av relevanta begrepp. Eleverna utvecklar förmågan att presentera sitt eget bildskapande och att ge och ta emot respons. Muntlig framställning övar eleverna i att analysera och diskutera bilders innehåll, uttryck och funktioner.",
+          "en": "Oral skills in arts involve being able to converse about and describe images, visual messages and image-making processes using relevant concepts. Pupils develop the ability to present their own image-making and to give and receive feedback. Oral presentation trains pupils in analysing and discussing the content, expression and functions of images."
+        }
+      },
+      {
+        "code": "GF2",
+        "name": {
+          "local": "Att kunna skriva",
+          "en": "Writing"
+        },
+        "description": {
+          "local": "Att kunna skriva i bild innebär att kunna formulera tankar och idéer kring bildskapande i skriftlig form, till exempel i projektbeskrivningar och bildanalyser. Eleverna utvecklar förmågan att dokumentera sina arbetsprocesser och att skriftligt reflektera över val av tekniker och uttryck. Skrivandet stödjer den analytiska förmågan att tolka och värdera bilder.",
+          "en": "Writing in arts involves being able to formulate thoughts and ideas about image-making in written form, for example in project descriptions and image analyses. Pupils develop the ability to document their work processes and to reflect in writing on choices of techniques and expressions. Writing supports the analytical ability to interpret and evaluate images."
+        }
+      },
+      {
+        "code": "GF3",
+        "name": {
+          "local": "Att kunna läsa",
+          "en": "Reading"
+        },
+        "description": {
+          "local": "Att kunna läsa i bild innebär att kunna tolka och analysera visuella budskap i olika typer av bilder, från konst till mediebilder och reklam. Eleverna utvecklar förmågan att avläsa symbolik, komposition och uttryck i bilder och att förstå bilders funktion i olika sammanhang. Läsförmågan är central för visuell litteracitet och kritisk granskning av bildbudskap.",
+          "en": "Reading in arts involves being able to interpret and analyse visual messages in different types of images, from art to media images and advertising. Pupils develop the ability to read symbolism, composition and expression in images and to understand the function of images in different contexts. Reading ability is central to visual literacy and critical examination of visual messages."
+        }
+      },
+      {
+        "code": "GF4",
+        "name": {
+          "local": "Att kunna räkna",
+          "en": "Numeracy"
+        },
+        "description": {
+          "local": "Att kunna räkna i bild innebär att kunna använda mått, proportioner, skalor och geometriska former i bildskapande arbete. Eleverna utvecklar förmågan att beräkna avstånd, förhållanden och rumsliga relationer vid exempelvis perspektivritning och konstruktion. Numeriska färdigheter bidrar till precision och medvetenhet i det praktiska bildarbetet.",
+          "en": "Numeracy in arts involves being able to use measurements, proportions, scales and geometric shapes in image-making work. Pupils develop the ability to calculate distances, ratios and spatial relationships in, for example, perspective drawing and construction. Numerical skills contribute to precision and awareness in practical image work."
+        }
+      },
+      {
+        "code": "GF5",
+        "name": {
+          "local": "Digitala färdigheter",
+          "en": "Digital skills"
+        },
+        "description": {
+          "local": "Digitala färdigheter i bild innebär att kunna använda digitala verktyg för bildskapande, fotografering, filmning och digital bildbehandling. Eleverna utvecklar förmågan att skapa och redigera bilder med hjälp av digitala program och att förstå hur digitala bilder produceras och sprids. Digitala färdigheter inkluderar även förståelse för rättigheter och etiska frågor kopplade till digital bildanvändning.",
+          "en": "Digital skills in arts involve being able to use digital tools for image-making, photography, filmmaking and digital image processing. Pupils develop the ability to create and edit images using digital programmes and to understand how digital images are produced and distributed. Digital skills also include understanding of rights and ethical issues connected to digital image use."
         }
       }
     ],

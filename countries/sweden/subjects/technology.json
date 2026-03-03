@@ -4,13 +4,18 @@
     "api": "https://api.skolverket.se/syllabus/v1/subjects/GRGRTEK01",
     "curriculum": "Lgr22",
     "license": "CC0",
-    "lastSynced": "2026-03-02T21:29:36Z"
+    "lastSynced": "2026-03-03T08:58:58Z",
+    "aiEnriched": ["description.en", "interdisciplinaryThemes", "basicSkills"]
   },
   "subject": {
     "code": "GRGRTEK01",
     "name": {
       "local": "Teknik",
       "en": "Technology"
+    },
+    "description": {
+      "local": "Undervisningen i ämnet teknik ska syfta till att eleverna utvecklar intresse för och kunskaper om tekniken som omger oss. Eleverna ska ges möjligheter att utveckla förståelse för att teknik har betydelse för och påverkar människan, samhället och miljön. På så sätt kan eleverna utveckla en teknisk medvetenhet och en förmåga att relatera tekniska lösningar och den egna användningen av teknik till frågor som rör hållbar utveckling. Undervisningen ska ge eleverna möjligheter att reflektera över teknikens historiska utveckling. Därmed får de bättre förutsättningar att förstå samtidens tekniska företeelser, hur tekniken och samhällsutvecklingen påverkar varandra samt hur teknik kan användas på ett ansvarsfullt sätt. I undervisningen ska eleverna ges möjligheter att använda ämnets begrepp och att utveckla kunskaper om hur tekniska lösningar används och fungerar. Genom att tekniska lösningar görs synliga och begripliga i undervisningen ges eleverna förutsättningar att orientera sig och agera i en teknikintensiv värld. Undervisningen ska ge eleverna förutsättningar att genomföra teknikutvecklings- och konstruktionsarbeten. När eleverna praktiskt får arbeta fram egna tekniska idéer och lösningar på problem och använda teknikens uttrycksformer bidrar det till att eleverna utvecklar förmåga att ta sig an tekniska utmaningar på ett medvetet och innovativt sätt. De ges därmed även möjligheter att utveckla kunskaper om teknikens arbetsmetoder. Undervisningen i ämnet teknik ska ge eleverna förutsättningar att utveckla",
+      "en": "Teaching in the subject of technology shall aim to develop pupils' interest in and knowledge of the technology that surrounds us. Pupils shall be given opportunities to develop an understanding that technology is significant for and affects people, society and the environment. In this way, pupils can develop a technological awareness and an ability to relate technical solutions and their own use of technology to issues concerning sustainable development. Teaching shall give pupils opportunities to reflect on the historical development of technology. This provides them with better conditions for understanding contemporary technological phenomena, how technology and societal development affect each other, and how technology can be used responsibly. In teaching, pupils shall be given opportunities to use the subject's terminology and to develop knowledge of how technical solutions are used and function. By making technical solutions visible and comprehensible in teaching, pupils are given the conditions to orient themselves and act in a technology-intensive world. Teaching shall give pupils the conditions to carry out technology development and construction work. When pupils practically work on developing their own technical ideas and solutions to problems and use the forms of expression of technology, it contributes to pupils developing the ability to take on technical challenges in a conscious and innovative way. They are thereby also given opportunities to develop knowledge of the working methods of technology."
     },
     "coreElements": [
       {
@@ -44,6 +49,98 @@
         "description": {
           "local": "förmåga att genomföra teknikutvecklings- och konstruktionsarbeten.",
           "en": "the ability to carry out technology development and construction work."
+        }
+      }
+    ],
+    "interdisciplinaryThemes": [
+      {
+        "code": "TT1",
+        "name": {
+          "local": "Hälsa och livskompetens",
+          "en": "Health and life skills"
+        },
+        "description": {
+          "local": "I teknik bidrar det tvärvetenskapliga temat hälsa och livskompetens till att eleverna utvecklar förståelse för hur tekniska lösningar påverkar människors vardag, säkerhet och välbefinnande. Eleverna lär sig att bedöma risker och möjligheter med teknikanvändning, vilket stärker deras förmåga att fatta medvetna beslut i en teknikintensiv tillvaro. Genom praktiskt konstruktionsarbete utvecklar eleverna problemlösningsförmåga, uthållighet och tilltro till sin egen innovativa kapacitet.",
+          "en": "In technology, the interdisciplinary theme of health and life skills contributes to pupils developing an understanding of how technical solutions affect people's everyday life, safety and wellbeing. Pupils learn to assess risks and opportunities associated with technology use, which strengthens their ability to make informed decisions in a technology-intensive world. Through practical construction work, pupils develop problem-solving skills, perseverance and confidence in their own innovative capacity."
+        }
+      },
+      {
+        "code": "TT2",
+        "name": {
+          "local": "Demokrati och medborgarskap",
+          "en": "Democracy and citizenship"
+        },
+        "description": {
+          "local": "I teknik bidrar det tvärvetenskapliga temat demokrati och medborgarskap till att eleverna utvecklar förmågan att kritiskt granska tekniska lösningar och deras konsekvenser för individ och samhälle. Genom att reflektera över hur föreställningar om teknik påverkar yrkesval och samhällsutveckling stärks elevernas demokratiska medvetenhet. Eleverna lär sig att ta ställning till teknikval utifrån ekologiska, ekonomiska och sociala perspektiv, vilket förbereder dem för aktivt medborgarskap.",
+          "en": "In technology, the interdisciplinary theme of democracy and citizenship contributes to pupils developing the ability to critically examine technical solutions and their consequences for individuals and society. By reflecting on how perceptions of technology affect career choices and societal development, pupils' democratic awareness is strengthened. Pupils learn to take a position on technology choices from ecological, economic and social perspectives, which prepares them for active citizenship."
+        }
+      },
+      {
+        "code": "TT3",
+        "name": {
+          "local": "Hållbar utveckling",
+          "en": "Sustainability"
+        },
+        "description": {
+          "local": "I teknik bidrar det tvärvetenskapliga temat hållbar utveckling till att eleverna analyserar konsekvenser av teknikval utifrån ekologiska, ekonomiska och sociala aspekter. Eleverna undersöker hur tekniska system påverkar människa och miljö, exempelvis genom att studera vatten- och avloppssystem, återvinning och industriella processer. Genom att jämföra olika tekniska lösningars för- och nackdelar utvecklar eleverna förmågan att göra ansvarsfulla och hållbara teknikval.",
+          "en": "In technology, the interdisciplinary theme of sustainability contributes to pupils analysing the consequences of technology choices from ecological, economic and social perspectives. Pupils investigate how technical systems affect people and the environment, for example by studying water and sewage systems, recycling and industrial processes. By comparing the advantages and disadvantages of different technical solutions, pupils develop the ability to make responsible and sustainable technology choices."
+        }
+      }
+    ],
+    "basicSkills": [
+      {
+        "code": "GF1",
+        "name": {
+          "local": "Muntliga färdigheter",
+          "en": "Oral skills"
+        },
+        "description": {
+          "local": "Muntliga färdigheter i teknik innebär att kunna beskriva och förklara tekniska lösningar, system och processer med hjälp av ämnesspecifika begrepp. Det omfattar att resonera om för- och nackdelar med olika tekniska lösningar samt att presentera och argumentera för egna konstruktionsidéer. Utvecklingen av muntliga färdigheter i teknik går från att namnge vardagliga tekniska föremål till att föra utvecklade resonemang om teknikens konsekvenser för individ, samhälle och miljö.",
+          "en": "Oral skills in technology involve being able to describe and explain technical solutions, systems and processes using subject-specific terminology. This includes reasoning about the advantages and disadvantages of different technical solutions as well as presenting and arguing for one's own construction ideas. The development of oral skills in technology progresses from naming everyday technical objects to presenting developed reasoning about the consequences of technology for individuals, society and the environment."
+        }
+      },
+      {
+        "code": "GF2",
+        "name": {
+          "local": "Att kunna skriva",
+          "en": "Writing"
+        },
+        "description": {
+          "local": "Att kunna skriva i teknik innebär att dokumentera tekniska lösningar genom skisser, ritningar, modeller och rapporter. Det omfattar att formulera arbetsbeskrivningar, redogöra för teknikutvecklingsprocesser och beskriva hur komponenter samverkar i tekniska system. Utvecklingen av skrivande i teknik går från att producera enkla skisser och bildbaserade dokumentationer till att skapa detaljerade ritningar med måttangivelser och skriftliga rapporter.",
+          "en": "Writing in technology involves documenting technical solutions through sketches, drawings, models and reports. This includes formulating work descriptions, accounting for technology development processes and describing how components interact in technical systems. The development of writing in technology progresses from producing simple sketches and image-based documentation to creating detailed drawings with dimensions and written reports."
+        }
+      },
+      {
+        "code": "GF3",
+        "name": {
+          "local": "Att kunna läsa",
+          "en": "Reading"
+        },
+        "description": {
+          "local": "Att kunna läsa i teknik innebär att tolka och förstå tekniska ritningar, instruktioner, scheman och beskrivningar av tekniska system. Det omfattar att avkoda symboler och begrepp i teknisk dokumentation samt att tillägna sig information om tekniska lösningar från olika källor. Utvecklingen av läsning i teknik går från att läsa enkla illustrerade instruktioner till att tolka komplexa tekniska ritningar, scheman och rapporter.",
+          "en": "Reading in technology involves interpreting and understanding technical drawings, instructions, diagrams and descriptions of technical systems. This includes decoding symbols and terminology in technical documentation as well as acquiring information about technical solutions from different sources. The development of reading in technology progresses from reading simple illustrated instructions to interpreting complex technical drawings, diagrams and reports."
+        }
+      },
+      {
+        "code": "GF4",
+        "name": {
+          "local": "Att kunna räkna",
+          "en": "Numeracy"
+        },
+        "description": {
+          "local": "Att kunna räkna i teknik innebär att använda matematiska beräkningar vid konstruktion, dimensionering och analys av tekniska lösningar. Det omfattar att mäta, beräkna hållfasthet och proportioner, arbeta med skala och måttangivelser samt att förstå grundläggande fysikaliska samband som kraft och rörelse. Utvecklingen av räknefärdigheter i teknik går från att mäta och jämföra enkla storheter till att tillämpa matematiska beräkningar vid konstruktion och problemlösning.",
+          "en": "Numeracy in technology involves using mathematical calculations in construction, dimensioning and analysis of technical solutions. This includes measuring, calculating strength and proportions, working with scale and dimensions as well as understanding basic physical relationships such as force and motion. The development of numeracy in technology progresses from measuring and comparing simple quantities to applying mathematical calculations in construction and problem-solving."
+        }
+      },
+      {
+        "code": "GF5",
+        "name": {
+          "local": "Digitala färdigheter",
+          "en": "Digital skills"
+        },
+        "description": {
+          "local": "Digitala färdigheter i teknik innebär att använda digitala verktyg för konstruktion, programmering, simulering och dokumentation av tekniska lösningar. Det omfattar att förstå hur datorer, nätverk och programvara fungerar samt att använda programmering för att styra och reglera tekniska konstruktioner. Utvecklingen av digitala färdigheter i teknik går från att använda enkla digitala modeller och programmera grundläggande styrning till att använda avancerade digitala verktyg för ritning, simulering och programmering.",
+          "en": "Digital skills in technology involve using digital tools for construction, programming, simulation and documentation of technical solutions. This includes understanding how computers, networks and software function as well as using programming to control and regulate technical constructions. The development of digital skills in technology progresses from using simple digital models and programming basic controls to using advanced digital tools for drawing, simulation and programming."
         }
       }
     ],

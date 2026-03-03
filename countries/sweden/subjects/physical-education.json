@@ -4,13 +4,18 @@
     "api": "https://api.skolverket.se/syllabus/v1/subjects/GRGRIDR01",
     "curriculum": "Lgr22",
     "license": "CC0",
-    "lastSynced": "2026-03-02T21:29:35Z"
+    "lastSynced": "2026-03-03T08:58:56Z",
+    "aiEnriched": ["description.en", "interdisciplinaryThemes", "basicSkills"]
   },
   "subject": {
     "code": "GRGRIDR01",
     "name": {
       "local": "Idrott och hälsa",
       "en": "Physical Education and Health"
+    },
+    "description": {
+      "local": "Undervisningen i ämnet idrott och hälsa ska syfta till att eleverna utvecklar allsidiga rörelseförmågor och intresse för att vara fysiskt aktiva och vistas i naturen. Eleverna ska genom undervisningen ges förutsättningar att utveckla goda levnadsvanor i syfte att kunna påverka sin hälsa genom livet. Undervisningen ska vara utformad så att alla elever kontinuerligt kan delta i undervisningens aktiviteter och ge eleverna förutsättningar att kunna delta i andra rörelseaktiviteter i skolan. Den ska också bidra till att eleverna utvecklar en god kroppsuppfattning och tilltro till sin egen fysiska förmåga. I undervisningen ska eleverna få möta olika slags aktiviteter i varierande miljöer och sammanhang samt få möjlighet att utveckla sin samarbetsförmåga och respekt för andra. Eleverna ska genom undervisningen ges möjlighet att utveckla förmåga att vistas utomhus och i naturen under olika årstider samt utveckla förståelse för värdet av ett aktivt friluftsliv. Undervisningen ska ge eleverna förutsättningar att utveckla kunskaper om vad som påverkar den fysiska förmågan samt kunskaper om hur rörelse och rörelseaktiviteter förhåller sig till fysisk, psykisk och social hälsa. Vidare ska eleverna ges möjligheter att planera och genomföra olika aktiviteter. Eleverna ska också ges möjligheter att utveckla kunskaper om ämnesspecifika begrepp. På så sätt får de förutsättningar att reflektera över sitt deltagande i aktiviteterna och ta ställning i frågor som handlar om idrott, hälsa och friluftsliv. Undervisningen ska också bidra till att eleverna utvecklar kunskaper om säkerhet samt förmåga att agera i nödsituationer och hantera risker i samband med olika aktiviteter. Undervisningen i ämnet idrott och hälsa ska ge eleverna förutsättningar att utveckla",
+      "en": "Teaching in the subject of physical education and health shall aim to develop pupils' versatile movement abilities and interest in being physically active and spending time in nature. Through teaching, pupils shall be given the conditions to develop good living habits in order to be able to influence their health throughout life. Teaching shall be designed so that all pupils can continuously participate in the activities and give pupils the conditions to be able to participate in other movement activities in school. It shall also contribute to pupils developing a good body awareness and confidence in their own physical ability. In teaching, pupils shall encounter different kinds of activities in varying environments and contexts, and be given the opportunity to develop their ability to cooperate and show respect for others. Through teaching, pupils shall be given the opportunity to develop the ability to spend time outdoors and in nature during different seasons, and develop understanding of the value of an active outdoor life. Teaching shall give pupils the conditions to develop knowledge of what affects physical ability, as well as knowledge of how movement and movement activities relate to physical, mental and social health. Furthermore, pupils shall be given opportunities to plan and carry out different activities. Pupils shall also be given opportunities to develop knowledge of subject-specific concepts. In this way, they are given the conditions to reflect on their participation in activities and take a stance on issues concerning sports, health and outdoor life. Teaching shall also contribute to pupils developing knowledge of safety and the ability to act in emergency situations and manage risks in connection with different activities."
     },
     "coreElements": [
       {
@@ -55,6 +60,98 @@
         "description": {
           "local": "förmåga att agera säkert och förebygga risker i samband med rörelse, friluftsliv och utevistelser samt att simma och hantera nödsituationer på land och i vatten.",
           "en": "the ability to act safely and prevent risks in connection with movement, outdoor recreation and outdoor activities, as well as to swim and handle emergency situations on land and in water."
+        }
+      }
+    ],
+    "interdisciplinaryThemes": [
+      {
+        "code": "TT1",
+        "name": {
+          "local": "Hälsa och livskompetens",
+          "en": "Health and life skills"
+        },
+        "description": {
+          "local": "I idrott och hälsa bidrar det temaövergripande temat hälsa och livskompetens direkt till att eleverna utvecklar goda levnadsvanor, rörelseförmåga och förståelse för sambanden mellan fysisk aktivitet och hälsa. Ämnet ger eleverna praktiska verktyg för att ta ansvar för sitt eget välbefinnande genom livet. Genom att arbeta med säkerhet, första hjälpen och riskförebyggande utvecklar eleverna livsviktig kompetens.",
+          "en": "In physical education and health, the interdisciplinary theme of health and life skills directly contributes to pupils developing good living habits, movement ability and understanding of the connections between physical activity and health. The subject gives pupils practical tools for taking responsibility for their own wellbeing throughout life. By working with safety, first aid and risk prevention, pupils develop vital life competence."
+        }
+      },
+      {
+        "code": "TT2",
+        "name": {
+          "local": "Demokrati och medborgarskap",
+          "en": "Democracy and citizenship"
+        },
+        "description": {
+          "local": "I idrott och hälsa bidrar det temaövergripande temat demokrati och medborgarskap till att eleverna utvecklar förmågan att samarbeta, visa hänsyn och respektera andras olikheter i rörelseaktiviteter. Genom att kritiskt granska normer kring kön, kropp och funktionalitet inom idrott får eleverna förståelse för inkludering och allas lika rätt till deltagande. Ämnet övar eleverna i att hantera regler, rättvisa och gemensamt ansvar.",
+          "en": "In physical education and health, the interdisciplinary theme of democracy and citizenship contributes to pupils developing the ability to cooperate, show consideration and respect others' differences in movement activities. By critically examining norms around gender, body and ability in sports, pupils gain understanding of inclusion and everyone's equal right to participation. The subject trains pupils in handling rules, fairness and shared responsibility."
+        }
+      },
+      {
+        "code": "TT3",
+        "name": {
+          "local": "Hållbar utveckling",
+          "en": "Sustainability"
+        },
+        "description": {
+          "local": "I idrott och hälsa bidrar det temaövergripande temat hållbar utveckling till att eleverna utvecklar förståelse för friluftslivets värde och allemansrättens betydelse för ett hållbart nyttjande av naturen. Genom att vistas i och lära sig om naturen under olika årstider stärks elevernas relation till miljön och deras engagemang för att bevara den. Ämnet ger perspektiv på hur fysisk aktivitet i natur och utomhusmiljöer kan bidra till en hållbar livsstil.",
+          "en": "In physical education and health, the interdisciplinary theme of sustainability contributes to pupils developing understanding of the value of outdoor life and the significance of the right of public access for sustainable use of nature. By spending time in and learning about nature during different seasons, pupils' relationship with the environment and their commitment to preserving it is strengthened. The subject provides perspective on how physical activity in nature and outdoor environments can contribute to a sustainable lifestyle."
+        }
+      }
+    ],
+    "basicSkills": [
+      {
+        "code": "GF1",
+        "name": {
+          "local": "Muntliga färdigheter",
+          "en": "Oral skills"
+        },
+        "description": {
+          "local": "Muntliga färdigheter i idrott och hälsa innebär att kunna samtala om och reflektera över olika aktiviteter, deras påverkan på hälsan och upplevelser i samband med rörelse och friluftsliv. Eleverna utvecklar förmågan att uttrycka sig om träningslära, säkerhet och normer kopplade till idrott. Muntlig framställning övar eleverna i att använda ämnesspecifika begrepp och delta i diskussioner om hälsa och rörelse.",
+          "en": "Oral skills in physical education and health involve being able to converse about and reflect on different activities, their impact on health and experiences in connection with movement and outdoor life. Pupils develop the ability to express themselves about training theory, safety and norms connected to sports. Oral presentation trains pupils in using subject-specific concepts and participating in discussions about health and movement."
+        }
+      },
+      {
+        "code": "GF2",
+        "name": {
+          "local": "Att kunna skriva",
+          "en": "Writing"
+        },
+        "description": {
+          "local": "Att kunna skriva i idrott och hälsa innebär att kunna dokumentera och planera träning, aktiviteter och friluftsupplevelser i skriftlig form. Eleverna utvecklar förmågan att skriftligt beskriva och värdera hur aktiviteter påverkar fysisk förmåga och hälsa. Skrivandet stödjer förmågan att reflektera över och utvärdera egna insatser och framsteg.",
+          "en": "Writing in physical education and health involves being able to document and plan training, activities and outdoor experiences in written form. Pupils develop the ability to describe and evaluate in writing how activities affect physical ability and health. Writing supports the ability to reflect on and evaluate one's own efforts and progress."
+        }
+      },
+      {
+        "code": "GF3",
+        "name": {
+          "local": "Att kunna läsa",
+          "en": "Reading"
+        },
+        "description": {
+          "local": "Att kunna läsa i idrott och hälsa innebär att kunna tolka kartor, instruktioner, regler och information om hälsa och träning. Eleverna utvecklar förmågan att läsa och följa orienteringskartor, träningsprogram och säkerhetsanvisningar. Läsförmågan är central för att kunna ta del av kunskap om hälsa, rörelse och friluftsliv.",
+          "en": "Reading in physical education and health involves being able to interpret maps, instructions, rules and information about health and training. Pupils develop the ability to read and follow orienteering maps, training programmes and safety instructions. Reading ability is central to being able to access knowledge about health, movement and outdoor life."
+        }
+      },
+      {
+        "code": "GF4",
+        "name": {
+          "local": "Att kunna räkna",
+          "en": "Numeracy"
+        },
+        "description": {
+          "local": "Att kunna räkna i idrott och hälsa innebär att kunna använda mätningar av tid, avstånd, puls och belastning för att planera och utvärdera aktiviteter. Eleverna utvecklar förmågan att tolka träningsdata och förstå samband mellan intensitet, duration och fysisk utveckling. Numeriska färdigheter bidrar till att kunna göra medvetna val kring träning och hälsa.",
+          "en": "Numeracy in physical education and health involves being able to use measurements of time, distance, heart rate and load to plan and evaluate activities. Pupils develop the ability to interpret training data and understand connections between intensity, duration and physical development. Numerical skills contribute to being able to make conscious choices regarding training and health."
+        }
+      },
+      {
+        "code": "GF5",
+        "name": {
+          "local": "Digitala färdigheter",
+          "en": "Digital skills"
+        },
+        "description": {
+          "local": "Digitala färdigheter i idrott och hälsa innebär att kunna använda digitala verktyg för att planera, genomföra och utvärdera rörelseaktiviteter och träning. Eleverna utvecklar förmågan att använda appar, pulsklockor och digitala kartor som stöd i aktiviteter. Digitala färdigheter inkluderar även förmågan att kritiskt granska digital information om hälsa, träning och kroppsideal.",
+          "en": "Digital skills in physical education and health involve being able to use digital tools to plan, carry out and evaluate movement activities and training. Pupils develop the ability to use apps, heart rate monitors and digital maps as support in activities. Digital skills also include the ability to critically examine digital information about health, training and body ideals."
         }
       }
     ],

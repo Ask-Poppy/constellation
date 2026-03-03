@@ -4,13 +4,18 @@
     "api": "https://api.skolverket.se/syllabus/v1/subjects/GRGRSVE01",
     "curriculum": "Lgr22",
     "license": "CC0",
-    "lastSynced": "2026-03-02T21:29:30Z"
+    "lastSynced": "2026-03-03T08:58:51Z",
+    "aiEnriched": ["description.en", "interdisciplinaryThemes", "basicSkills"]
   },
   "subject": {
     "code": "GRGRSVE01",
     "name": {
       "local": "Svenska",
       "en": "Swedish"
+    },
+    "description": {
+      "local": "Undervisningen i ämnet svenska ska syfta till att eleverna utvecklar kunskaper i och om svenska språket. Genom undervisningen ska eleverna ges förutsättningar att utveckla sitt tal- och skriftspråk så att de får tilltro till sin språkförmåga och kan uttrycka sig i olika sammanhang och för skilda syften. Därigenom ska eleverna ges möjlighet att utveckla språket för att tänka, kommunicera och lära. Undervisningen ska stimulera elevernas intresse för att läsa och skriva. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om hur man formulerar egna åsikter och tankar i olika slags texter och genom skilda medier. Undervisningen ska även syfta till att eleverna utvecklar förmågan att skapa och bearbeta texter, enskilt och tillsammans med andra. Eleverna ska ges möjlighet att kommunicera i digitala miljöer med interaktiva och föränderliga texter. Eleverna ska även stimuleras till att uttrycka sig genom olika estetiska uttrycksformer. Vidare ska undervisningen bidra till att eleverna utvecklar kunskaper om hur man söker och kritiskt värderar information från olika källor. I undervisningen ska eleverna möta samt få utveckla kunskaper om skönlitteratur från olika tider och skilda delar av världen. Eleverna ska ges möjlighet att läsa, analysera och resonera om skönlitterära verk i olika genrer. Undervisningen ska också bidra till att eleverna utvecklar kunskaper om olika former av sakprosa. I mötet med olika typer av texter, scenkonst och annat estetiskt berättande ska eleverna ges förutsättningar att utveckla sitt språk, den egna identiteten och sin förståelse för omvärlden. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om svenska språket, dess normer, uppbyggnad, historia och utveckling samt om hur språkbruk varierar beroende på sociala sammanhang och medier. På så sätt ska undervisningen bidra till att stärka elevernas medvetenhet om och tilltro till den egna språkliga och kommunikativa förmågan. Undervisningen ska också bidra till att eleverna får förståelse för att sättet man kommunicerar på kan få konsekvenser för en själv och för andra människor. Därigenom ska eleverna ges förutsättningar att ta ansvar för det egna språkbruket i olika sammanhang och medier. Undervisningen ska även bidra till att eleverna får möta och bekanta sig med såväl de nordiska grannspråken som de nationella minoritetsspråken. Undervisningen i ämnet svenska ska ge eleverna förutsättningar att utveckla",
+      "en": "Teaching in the subject of Swedish shall aim to help pupils develop knowledge in and about the Swedish language. Through teaching, pupils shall be given the conditions to develop their spoken and written language so that they gain confidence in their language ability and can express themselves in different contexts and for various purposes. In this way, pupils shall be given the opportunity to develop language for thinking, communicating and learning. Teaching shall stimulate pupils' interest in reading and writing. Through teaching, pupils shall be given the opportunity to develop knowledge of how to formulate their own opinions and thoughts in different types of texts and through various media. Teaching shall also aim to help pupils develop the ability to create and revise texts, individually and together with others. Pupils shall be given the opportunity to communicate in digital environments with interactive and changeable texts. Pupils shall also be encouraged to express themselves through various aesthetic forms of expression. Furthermore, teaching shall contribute to pupils developing knowledge of how to search for and critically evaluate information from different sources. In teaching, pupils shall encounter and develop knowledge of fiction from different periods and various parts of the world. Pupils shall be given the opportunity to read, analyse and reason about literary works in different genres. Teaching shall also contribute to pupils developing knowledge of different forms of non-fiction. In encounters with different types of texts, performing arts and other aesthetic narrative, pupils shall be given the conditions to develop their language, their own identity and their understanding of the world. Through teaching, pupils shall be given the opportunity to develop knowledge of the Swedish language, its norms, structure, history and development, and of how language use varies depending on social contexts and media. In this way, teaching shall contribute to strengthening pupils' awareness of and confidence in their own linguistic and communicative ability. Teaching shall also contribute to pupils gaining an understanding that the way one communicates can have consequences for oneself and for other people. Thereby, pupils shall be given the conditions to take responsibility for their own language use in different contexts and media. Teaching shall also contribute to pupils encountering and becoming familiar with both the Nordic neighbouring languages and the national minority languages."
     },
     "coreElements": [
       {
@@ -66,6 +71,98 @@
         "description": {
           "local": "kunskaper om språk och språkbruk i Sverige och Norden.",
           "en": "knowledge of language and language use in Sweden and the Nordic countries."
+        }
+      }
+    ],
+    "interdisciplinaryThemes": [
+      {
+        "code": "TT1",
+        "name": {
+          "local": "Hälsa och livskompetens",
+          "en": "Health and life skills"
+        },
+        "description": {
+          "local": "Svenska bidrar till hälsa och livskompetens genom att ge eleverna språkliga verktyg för att uttrycka tankar, känslor och upplevelser. Läsning av skönlitteratur stärker empati och självkännedom, medan förmågan att kommunicera effektivt är avgörande för att hantera relationer och livets utmaningar.",
+          "en": "Swedish contributes to health and life skills by giving pupils linguistic tools to express thoughts, feelings and experiences. Reading fiction strengthens empathy and self-awareness, while the ability to communicate effectively is essential for managing relationships and life's challenges."
+        }
+      },
+      {
+        "code": "TT2",
+        "name": {
+          "local": "Demokrati och medborgarskap",
+          "en": "Democracy and citizenship"
+        },
+        "description": {
+          "local": "Svenska stödjer demokrati och medborgarskap genom att utveckla elevernas förmåga att formulera och granska argument, delta i debatter och kritiskt värdera information i olika medier. Språklig medvetenhet och yttrandefrihet är grundläggande för aktivt demokratiskt deltagande.",
+          "en": "Swedish supports democracy and citizenship by developing pupils' ability to formulate and examine arguments, participate in debates and critically evaluate information in various media. Linguistic awareness and freedom of expression are fundamental to active democratic participation."
+        }
+      },
+      {
+        "code": "TT3",
+        "name": {
+          "local": "Hållbarhet",
+          "en": "Sustainability"
+        },
+        "description": {
+          "local": "Svenska bidrar till hållbarhet genom att eleverna lär sig att söka, tolka och kritiskt granska texter om miljö- och samhällsfrågor. Förmågan att kommunicera om hållbarhetsfrågor i tal och skrift är viktig för att kunna delta i samhällsdebatten och verka för en hållbar framtid.",
+          "en": "Swedish contributes to sustainability by teaching pupils to search for, interpret and critically examine texts about environmental and societal issues. The ability to communicate about sustainability issues in speech and writing is important for participating in public debate and working towards a sustainable future."
+        }
+      }
+    ],
+    "basicSkills": [
+      {
+        "code": "GF1",
+        "name": {
+          "local": "Muntliga färdigheter",
+          "en": "Oral skills"
+        },
+        "description": {
+          "local": "Muntliga färdigheter är centrala i svenska och innebär att kunna uttrycka sig tydligt i samtal, diskussioner och presentationer. Eleverna utvecklar förmågan att anpassa sitt talspråk efter syfte, mottagare och situation samt att lyssna aktivt och ge respons.",
+          "en": "Oral skills are central to Swedish and involve being able to express oneself clearly in conversations, discussions and presentations. Pupils develop the ability to adapt their spoken language to purpose, audience and situation, and to listen actively and provide feedback."
+        }
+      },
+      {
+        "code": "GF2",
+        "name": {
+          "local": "Att kunna skriva",
+          "en": "Writing"
+        },
+        "description": {
+          "local": "Att kunna skriva är en kärnkompetens i svenska och innebär att skapa texter i olika genrer med anpassning till syfte och mottagare. Eleverna utvecklar skrivprocessen från idé till färdig text, inklusive att bearbeta och förbättra sina texter.",
+          "en": "Writing is a core competence in Swedish, involving creating texts in different genres adapted to purpose and audience. Pupils develop the writing process from idea to finished text, including revising and improving their texts."
+        }
+      },
+      {
+        "code": "GF3",
+        "name": {
+          "local": "Att kunna läsa",
+          "en": "Reading"
+        },
+        "description": {
+          "local": "Att kunna läsa är grundläggande i svenska och omfattar att förstå, tolka och analysera både skönlitteratur och sakprosa. Eleverna utvecklar lässtrategier och förmågan att kritiskt granska texters budskap, trovärdighet och perspektiv.",
+          "en": "Reading is fundamental in Swedish, encompassing understanding, interpreting and analysing both fiction and non-fiction. Pupils develop reading strategies and the ability to critically examine the message, credibility and perspective of texts."
+        }
+      },
+      {
+        "code": "GF4",
+        "name": {
+          "local": "Att kunna räkna",
+          "en": "Numeracy"
+        },
+        "description": {
+          "local": "Att kunna räkna i svenska innebär att tolka och använda numerisk information i texter, såsom statistik, tabeller och diagram i sakprosa. Eleverna möter siffror och kvantitativa uppgifter vid informationssökning och källkritik.",
+          "en": "Numeracy in Swedish involves interpreting and using numerical information in texts, such as statistics, tables and graphs in non-fiction. Pupils encounter numbers and quantitative data when searching for information and evaluating sources critically."
+        }
+      },
+      {
+        "code": "GF5",
+        "name": {
+          "local": "Digitala färdigheter",
+          "en": "Digital skills"
+        },
+        "description": {
+          "local": "Digitala färdigheter i svenska innebär att kommunicera i digitala miljöer, skapa och bearbeta texter med digitala verktyg samt söka och kritiskt värdera information från digitala källor. Eleverna lär sig navigera interaktiva och föränderliga texter i digitala medier.",
+          "en": "Digital skills in Swedish involve communicating in digital environments, creating and revising texts using digital tools, and searching for and critically evaluating information from digital sources. Pupils learn to navigate interactive and changeable texts in digital media."
         }
       }
     ],

@@ -4,13 +4,18 @@
     "api": "https://api.skolverket.se/syllabus/v1/subjects/GRGRGEO01",
     "curriculum": "Lgr22",
     "license": "CC0",
-    "lastSynced": "2026-03-02T21:29:32Z"
+    "lastSynced": "2026-03-03T08:58:54Z",
+    "aiEnriched": ["description.en", "interdisciplinaryThemes", "basicSkills"]
   },
   "subject": {
     "code": "GRGRGEO01",
     "name": {
       "local": "Geografi",
       "en": "Geography"
+    },
+    "description": {
+      "local": "Undervisningen i ämnet geografi ska syfta till att eleverna utvecklar kunskaper om geografiska förhållanden och mönster på olika platser och i olika regioner. Undervisningen ska vidga och fördjupa elevernas kunskaper om naturgivna processer och människans verksamheter i olika delar av världen, och hur dessa påverkar landskap och livsmiljöer. Genom undervisningen ska eleverna ges förutsättningar att växla mellan olika rumsliga perspektiv: lokala, regionala och globala, liksom mellan olika tidsperspektiv. Undervisningen ska ge eleverna förutsättningar att utveckla kunskaper om miljö- och utvecklingsfrågor kopplade till klimatförändringar, människans tillgång till och användning av naturresurser, samt befolkningsfrågor och levnadsförhållanden i olika delar av världen. Därigenom ska eleverna ges förutsättningar att analysera och reflektera över olika lösningar på vår tids och framtidens globala utmaningar utifrån ekologiska, sociala och ekonomiska perspektiv på hållbar utveckling. Undervisningen ska ge eleverna kunskaper om kartan och kännedom om namn, lägen och storleksrelationer. Undervisningen ska även ge eleverna förutsättningar att utveckla kunskaper i att ställa geografiska frågor, analysera och dra slutsatser om natur- och kulturlandskap och om människors levnadsvillkor med hjälp av olika geografiska källor, metoder, verktyg och begrepp. Undervisningen i ämnet geografi ska ge eleverna förutsättningar att utveckla",
+      "en": "Teaching in the subject of geography shall aim to help pupils develop knowledge of geographical conditions and patterns in different places and regions. Teaching shall broaden and deepen pupils' knowledge of natural processes and human activities in different parts of the world, and how these affect landscapes and living environments. Through teaching, pupils shall be given the conditions to shift between different spatial perspectives: local, regional and global, as well as between different time perspectives. Teaching shall give pupils the conditions to develop knowledge of environmental and development issues linked to climate change, human access to and use of natural resources, and population issues and living conditions in different parts of the world. Thereby, pupils shall be given the conditions to analyse and reflect on different solutions to current and future global challenges from ecological, social and economic perspectives on sustainable development. Teaching shall give pupils knowledge of maps and familiarity with names, locations and size relationships. Teaching shall also give pupils the conditions to develop skills in posing geographical questions, analysing and drawing conclusions about natural and cultural landscapes and about people's living conditions using various geographical sources, methods, tools and concepts."
     },
     "coreElements": [
       {
@@ -44,6 +49,98 @@
         "description": {
           "local": "förmåga att utifrån geografiska frågor beskriva och analysera omvärlden med hjälp av geografins metoder och verktyg.",
           "en": "the ability to describe and analyse the surrounding world based on geographical questions using the methods and tools of geography."
+        }
+      }
+    ],
+    "interdisciplinaryThemes": [
+      {
+        "code": "TT1",
+        "name": {
+          "local": "Hälsa och livskompetens",
+          "en": "Health and life skills"
+        },
+        "description": {
+          "local": "Geografi bidrar till hälsa och livskompetens genom kunskap om hur levnadsförhållanden, naturresurser och miljöfaktorer påverkar människors hälsa och välbefinnande globalt. Eleverna lär sig förstå sambandet mellan livsmiljö, fattigdom och tillgång till grundläggande resurser som vatten och hälsovård.",
+          "en": "Geography contributes to health and life skills through knowledge of how living conditions, natural resources and environmental factors affect people's health and well-being globally. Pupils learn to understand the connection between living environments, poverty and access to basic resources such as water and healthcare."
+        }
+      },
+      {
+        "code": "TT2",
+        "name": {
+          "local": "Demokrati och medborgarskap",
+          "en": "Democracy and citizenship"
+        },
+        "description": {
+          "local": "Geografi stödjer demokrati och medborgarskap genom att ge eleverna förståelse för globala och lokala samhällsutmaningar som migration, urbanisering och resurskonflikter. Kunskaper om befolkningsfördelning och levnadsvillkor i världen ger underlag för kritiskt tänkande och informerat samhällsengagemang.",
+          "en": "Geography supports democracy and citizenship by giving pupils understanding of global and local societal challenges such as migration, urbanisation and resource conflicts. Knowledge of population distribution and living conditions in the world provides a basis for critical thinking and informed civic engagement."
+        }
+      },
+      {
+        "code": "TT3",
+        "name": {
+          "local": "Hållbarhet",
+          "en": "Sustainability"
+        },
+        "description": {
+          "local": "Geografi är ett kärnämne för hållbarhet genom undervisning om klimatförändringar, naturresursanvändning och globala utvecklingsfrågor. Eleverna lär sig analysera ekologiska, sociala och ekonomiska perspektiv på hållbar utveckling och utvärdera åtgärder på lokal, regional och global nivå.",
+          "en": "Geography is a core subject for sustainability through teaching about climate change, natural resource use and global development issues. Pupils learn to analyse ecological, social and economic perspectives on sustainable development and evaluate measures at local, regional and global levels."
+        }
+      }
+    ],
+    "basicSkills": [
+      {
+        "code": "GF1",
+        "name": {
+          "local": "Muntliga färdigheter",
+          "en": "Oral skills"
+        },
+        "description": {
+          "local": "Muntliga färdigheter i geografi innebär att kunna resonera om geografiska förhållanden, förklara samband mellan natur och samhälle samt diskutera hållbarhetsfrågor. Eleverna utvecklar förmågan att presentera geografiska analyser och argumentera med stöd i geografiska begrepp.",
+          "en": "Oral skills in geography involve being able to reason about geographical conditions, explain relationships between nature and society, and discuss sustainability issues. Pupils develop the ability to present geographical analyses and argue with support from geographical concepts."
+        }
+      },
+      {
+        "code": "GF2",
+        "name": {
+          "local": "Att kunna skriva",
+          "en": "Writing"
+        },
+        "description": {
+          "local": "Att kunna skriva i geografi innebär att beskriva och analysera platser och regioner, formulera resonemang om hållbar utveckling och dokumentera fältstudier. Eleverna lär sig använda geografiska begrepp och verktyg i skriftliga beskrivningar och analyser.",
+          "en": "Writing in geography involves describing and analysing places and regions, formulating reasoning about sustainable development and documenting field studies. Pupils learn to use geographical concepts and tools in written descriptions and analyses."
+        }
+      },
+      {
+        "code": "GF3",
+        "name": {
+          "local": "Att kunna läsa",
+          "en": "Reading"
+        },
+        "description": {
+          "local": "Att kunna läsa i geografi innebär att tolka kartor, diagram, tabeller och geografiska texter från olika källor. Eleverna utvecklar förmågan att hämta och kritiskt värdera geografisk information från analoga och digitala källor.",
+          "en": "Reading in geography involves interpreting maps, charts, tables and geographical texts from various sources. Pupils develop the ability to extract and critically evaluate geographical information from analogue and digital sources."
+        }
+      },
+      {
+        "code": "GF4",
+        "name": {
+          "local": "Att kunna räkna",
+          "en": "Numeracy"
+        },
+        "description": {
+          "local": "Att kunna räkna i geografi innebär att arbeta med kartskala, koordinater, befolkningsstatistik och klimatdata. Eleverna använder numeriska data för att analysera geografiska mönster och jämföra förhållanden i olika regioner.",
+          "en": "Numeracy in geography involves working with map scale, coordinates, population statistics and climate data. Pupils use numerical data to analyse geographical patterns and compare conditions in different regions."
+        }
+      },
+      {
+        "code": "GF5",
+        "name": {
+          "local": "Digitala färdigheter",
+          "en": "Digital skills"
+        },
+        "description": {
+          "local": "Digitala färdigheter i geografi innebär att använda digitala kartor, GIS och andra digitala verktyg för att undersöka och analysera geografiska förhållanden. Eleverna lär sig hantera geografiska informationssystem och använda digitala källor för att beskriva platser och regioner.",
+          "en": "Digital skills in geography involve using digital maps, GIS and other digital tools to investigate and analyse geographical conditions. Pupils learn to handle geographic information systems and use digital sources to describe places and regions."
         }
       }
     ],

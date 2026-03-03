@@ -4,13 +4,18 @@
     "api": "https://api.skolverket.se/syllabus/v1/subjects/GRGRMAT01",
     "curriculum": "Lgr22",
     "license": "CC0",
-    "lastSynced": "2026-03-02T21:29:29Z"
+    "lastSynced": "2026-03-03T08:58:51Z",
+    "aiEnriched": ["description.en", "interdisciplinaryThemes", "basicSkills"]
   },
   "subject": {
     "code": "GRGRMAT01",
     "name": {
       "local": "Matematik",
       "en": "Mathematics"
+    },
+    "description": {
+      "local": "Undervisningen i ämnet matematik ska syfta till att eleverna utvecklar kunskaper om matematik och matematikens användning i vardagen och inom olika ämnesområden. Undervisningen ska bidra till att eleverna utvecklar intresse för matematik och tilltro till sin förmåga att använda matematik i olika sammanhang. Den ska också ge eleverna möjlighet att uppleva estetiska värden i möten med matematiska mönster, former och samband. Genom undervisningen ska eleverna ges förutsättningar att utveckla förtrogenhet med grundläggande matematiska begrepp och metoder och deras användbarhet. Vidare ska eleverna genom undervisningen ges möjligheter att utveckla kunskaper i att använda digitala verktyg och programmering för att kunna undersöka problemställningar och matematiska begrepp, göra beräkningar samt för att presentera och tolka data. Undervisningen ska bidra till att eleverna utvecklar kunskaper för att kunna formulera och lösa problem samt reflektera över och värdera valda strategier, modeller och resultat. Eleverna ska även ges förutsättningar att utveckla kunskaper för att kunna tolka vardagliga och matematiska situationer samt för att kunna beskriva och formulera dessa med hjälp av matematikens uttrycksformer. Undervisningen ska bidra till att eleverna utvecklar förmågan att argumentera logiskt och föra matematiska resonemang. Eleverna ska genom undervisningen också ges möjlighet att utveckla en förtrogenhet med matematikens uttrycksformer och hur dessa kan användas för att kommunicera om matematik i vardagliga och matematiska sammanhang. Undervisningen ska ge eleverna förutsättningar att utveckla kunskaper om historiska sammanhang där viktiga begrepp och metoder i matematiken har utvecklats. Genom undervisningen ska eleverna även ges möjligheter att reflektera över matematikens betydelse, användning och begränsning i vardagslivet, i andra skolämnen och under historiska skeenden och därigenom kunna se matematikens sammanhang och relevans. Undervisningen i ämnet matematik ska ge eleverna förutsättningar att utveckla",
+      "en": "Teaching in the subject of mathematics shall aim to help pupils develop knowledge of mathematics and the use of mathematics in everyday life and across different subject areas. Teaching shall contribute to pupils developing an interest in mathematics and confidence in their ability to use mathematics in different contexts. It shall also give pupils the opportunity to experience aesthetic values in encounters with mathematical patterns, shapes and relationships. Through teaching, pupils shall be given the conditions to develop familiarity with fundamental mathematical concepts and methods and their applicability. Furthermore, through teaching, pupils shall be given opportunities to develop skills in using digital tools and programming to investigate problems and mathematical concepts, perform calculations, and present and interpret data. Teaching shall contribute to pupils developing the ability to formulate and solve problems, and to reflect on and evaluate chosen strategies, models and results. Pupils shall also be given the conditions to develop skills in interpreting everyday and mathematical situations and in describing and formulating these using the forms of expression of mathematics. Teaching shall contribute to pupils developing the ability to argue logically and conduct mathematical reasoning. Through teaching, pupils shall also be given the opportunity to develop familiarity with the forms of expression of mathematics and how these can be used to communicate about mathematics in everyday and mathematical contexts. Teaching shall give pupils the conditions to develop knowledge of historical contexts in which important concepts and methods in mathematics have been developed. Through teaching, pupils shall also be given opportunities to reflect on the significance, use and limitations of mathematics in everyday life, in other school subjects and during historical events, and thereby be able to see the context and relevance of mathematics."
     },
     "coreElements": [
       {
@@ -66,6 +71,98 @@
         "description": {
           "local": "förmåga att använda matematikens uttrycksformer för att samtala om och redogöra för frågeställningar, beräkningar och slutsatser.",
           "en": "ability to use mathematical forms of expression to discuss and account for questions, calculations and conclusions."
+        }
+      }
+    ],
+    "interdisciplinaryThemes": [
+      {
+        "code": "TT1",
+        "name": {
+          "local": "Hälsa och livskompetens",
+          "en": "Health and life skills"
+        },
+        "description": {
+          "local": "Matematik bidrar till hälsa och livskompetens genom att ge eleverna verktyg för att hantera vardagsekonomi, tolka statistik om hälsa och fatta välgrundade beslut. Förståelse för sannolikhet och riskbedömning stärker elevernas förmåga att göra medvetna val i frågor som rör deras välbefinnande.",
+          "en": "Mathematics contributes to health and life skills by giving pupils tools to manage personal finances, interpret health statistics and make well-informed decisions. Understanding probability and risk assessment strengthens pupils' ability to make conscious choices in matters concerning their well-being."
+        }
+      },
+      {
+        "code": "TT2",
+        "name": {
+          "local": "Demokrati och medborgarskap",
+          "en": "Democracy and citizenship"
+        },
+        "description": {
+          "local": "Matematik stödjer demokrati och medborgarskap genom att ge eleverna förmåga att kritiskt granska statistik, diagram och numeriska argument i samhällsdebatten. Logiskt tänkande och förmågan att föra matematiska resonemang stärker elevernas deltagande i demokratiska processer.",
+          "en": "Mathematics supports democracy and citizenship by giving pupils the ability to critically examine statistics, graphs and numerical arguments in public debate. Logical thinking and the ability to conduct mathematical reasoning strengthen pupils' participation in democratic processes."
+        }
+      },
+      {
+        "code": "TT3",
+        "name": {
+          "local": "Hållbarhet",
+          "en": "Sustainability"
+        },
+        "description": {
+          "local": "Matematik är centralt för hållbar utveckling genom att eleverna lär sig analysera data om resursförbrukning, klimatförändringar och befolkningsutveckling. Matematiska modeller och beräkningar ger eleverna verktyg att förstå och utvärdera lösningar på miljö- och samhällsutmaningar.",
+          "en": "Mathematics is central to sustainable development as pupils learn to analyse data on resource consumption, climate change and population trends. Mathematical models and calculations give pupils tools to understand and evaluate solutions to environmental and societal challenges."
+        }
+      }
+    ],
+    "basicSkills": [
+      {
+        "code": "GF1",
+        "name": {
+          "local": "Muntliga färdigheter",
+          "en": "Oral skills"
+        },
+        "description": {
+          "local": "Muntliga färdigheter i matematik innebär att kunna förklara lösningar, föra matematiska resonemang och argumentera för sina strategier i dialog med andra. Eleverna utvecklar förmågan att använda matematiskt språk i muntliga presentationer och samtal.",
+          "en": "Oral skills in mathematics involve being able to explain solutions, conduct mathematical reasoning and argue for one's strategies in dialogue with others. Pupils develop the ability to use mathematical language in oral presentations and conversations."
+        }
+      },
+      {
+        "code": "GF2",
+        "name": {
+          "local": "Att kunna skriva",
+          "en": "Writing"
+        },
+        "description": {
+          "local": "Att kunna skriva i matematik innebär att formulera lösningar, redovisa beräkningar och dokumentera matematiska resonemang på ett strukturerat sätt. Eleverna lär sig använda matematiska symboler, uttryck och notation i skriftlig kommunikation.",
+          "en": "Writing in mathematics involves formulating solutions, presenting calculations and documenting mathematical reasoning in a structured way. Pupils learn to use mathematical symbols, expressions and notation in written communication."
+        }
+      },
+      {
+        "code": "GF3",
+        "name": {
+          "local": "Att kunna läsa",
+          "en": "Reading"
+        },
+        "description": {
+          "local": "Att kunna läsa i matematik innebär att tolka och förstå matematiska texter, uppgifter, diagram, tabeller och symboler. Eleverna utvecklar förmågan att hämta relevant information ur olika typer av matematiskt material.",
+          "en": "Reading in mathematics involves interpreting and understanding mathematical texts, problems, graphs, tables and symbols. Pupils develop the ability to extract relevant information from various types of mathematical material."
+        }
+      },
+      {
+        "code": "GF4",
+        "name": {
+          "local": "Att kunna räkna",
+          "en": "Numeracy"
+        },
+        "description": {
+          "local": "Att kunna räkna är den mest centrala grundläggande färdigheten i matematik och omfattar att behärska aritmetik, använda matematiska metoder och lösa problem. Eleverna utvecklar taluppfattning, beräkningsstrategier och förmåga att tillämpa matematik i vardagliga och abstrakta sammanhang.",
+          "en": "Numeracy is the most central basic skill in mathematics, encompassing mastery of arithmetic, use of mathematical methods and problem-solving. Pupils develop number sense, calculation strategies and the ability to apply mathematics in everyday and abstract contexts."
+        }
+      },
+      {
+        "code": "GF5",
+        "name": {
+          "local": "Digitala färdigheter",
+          "en": "Digital skills"
+        },
+        "description": {
+          "local": "Digitala färdigheter i matematik innebär att använda digitala verktyg och programmering för att undersöka matematiska problem, göra beräkningar och presentera data. Eleverna lär sig att kritiskt värdera digitalt genererade resultat och använda teknologi som stöd i matematiskt arbete.",
+          "en": "Digital skills in mathematics involve using digital tools and programming to investigate mathematical problems, perform calculations and present data. Pupils learn to critically evaluate digitally generated results and use technology as support in mathematical work."
         }
       }
     ],

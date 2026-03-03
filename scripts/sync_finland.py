@@ -161,7 +161,12 @@ def build_kohdealue_map(kohdealueet: list[dict]) -> dict[int, str]:
 def process_vuosiluokkakokonaisuudet(
     vlk_list: list[dict],
     kohdealue_map: dict[int, str],
+    existing_bands: list[dict] | None = None,
 ) -> list[dict]:
+    existing_bands_map = {}
+    for eb in (existing_bands or []):
+        existing_bands_map[eb.get("afterGrade")] = eb
+
     grade_bands = []
 
     for vlk in vlk_list:
@@ -187,6 +192,11 @@ def process_vuosiluokkakokonaisuudet(
 
         sa_map = build_content_area_map(vlk.get("sisaltoalueet", []))
 
+        existing_band = existing_bands_map.get(vlk_info["afterGrade"], {})
+        existing_goals_map = {}
+        for eg in existing_band.get("competenceGoals", []):
+            existing_goals_map[eg.get("code", "")] = eg
+
         goals = []
         for t in vlk.get("tavoitteet", []):
             tavoite = t.get("tavoite", {})
@@ -210,11 +220,12 @@ def process_vuosiluokkakokonaisuudet(
                 if ka_id in kohdealue_map:
                     linked_kohdealueet.append(kohdealue_map[ka_id])
 
+            existing_goal = existing_goals_map.get(code, {})
             goals.append({
                 "code": code,
                 "text": {
                     "local": clean_html(tavoite_fi),
-                    "en": "",
+                    "en": existing_goal.get("text", {}).get("en", ""),
                 },
                 "coreElements": linked_content_areas,
                 "verbs": [],
@@ -254,6 +265,13 @@ def find_primary_oppimaaara(subject_data: dict, code: str) -> dict | None:
     return oppimaarat[0] if oppimaarat else None
 
 
+def load_existing(filepath: Path) -> dict | None:
+    if filepath.exists():
+        with open(filepath, "r", encoding="utf-8") as f:
+            return json.load(f)
+    return None
+
+
 def sync_subject(subject_meta: dict) -> dict | None:
     subject_id = subject_meta["id"]
     code = subject_meta["koodiArvo"]
@@ -266,6 +284,10 @@ def sync_subject(subject_meta: dict) -> dict | None:
         return None
 
     name_en = SUBJECT_NAMES_EN.get(code, "")
+
+    output_path = OUTPUT_DIR / f"{filename}.json"
+    existing = load_existing(output_path)
+    existing_subject = existing.get("subject", {}) if existing else {}
 
     print(f"\nFetching {code} — {name_fi}...")
 
@@ -301,6 +323,12 @@ def sync_subject(subject_meta: dict) -> dict | None:
         print(f"  No grade bands found for {code}")
         return None
 
+    existing_core_map = {}
+    for ce in existing_subject.get("coreElements", []):
+        local_key = ce.get("name", {}).get("local", "")
+        if local_key:
+            existing_core_map[local_key] = ce
+
     content_areas = []
     seen_areas = set()
     for vlk in vlk_list:
@@ -308,34 +336,51 @@ def sync_subject(subject_meta: dict) -> dict | None:
             nimi_fi = get_fi(sa.get("nimi", {}))
             if nimi_fi and nimi_fi not in seen_areas:
                 seen_areas.add(nimi_fi)
+                clean_name = clean_html(nimi_fi)
+                existing_ce = existing_core_map.get(clean_name, {})
                 content_areas.append({
                     "code": re.match(r"^(S\d+)\b", nimi_fi).group(1) if re.match(r"^(S\d+)\b", nimi_fi) else "",
-                    "name": {"local": clean_html(nimi_fi), "en": ""},
-                    "description": {"local": clean_html(get_fi(sa.get("kuvaus", {}))), "en": ""},
+                    "name": {"local": clean_name, "en": existing_ce.get("name", {}).get("en", "")},
+                    "description": {"local": clean_html(get_fi(sa.get("kuvaus", {}))), "en": existing_ce.get("description", {}).get("en", "")},
                 })
 
-    grade_bands = process_vuosiluokkakokonaisuudet(vlk_list, kohdealue_map)
+    grade_bands = process_vuosiluokkakokonaisuudet(
+        vlk_list, kohdealue_map, existing_subject.get("gradeBands")
+    )
     total_goals = sum(len(gb["competenceGoals"]) for gb in grade_bands)
+
+    existing_desc_en = existing_subject.get("description", {}).get("en", "")
+
+    source_block = {
+        "api": f"{BASE_URL}/peruste/{PERUSTE_ID}/perusopetus/oppiaineet/{subject_id}",
+        "curriculum": "POPS 2014",
+        "license": "Open Government Data (Finland)",
+        "lastSynced": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+    }
+    existing_source = existing.get("source", {}) if existing else {}
+    if "aiEnriched" in existing_source:
+        source_block["aiEnriched"] = existing_source["aiEnriched"]
+
+    new_subject = {
+        "code": code,
+        "name": {"local": source_name_fi, "en": name_en},
+        "description": {"local": description_fi, "en": existing_desc_en},
+        "coreElements": content_areas,
+    }
+
+    for extra_key in ("interdisciplinaryThemes", "basicSkills"):
+        if extra_key in existing_subject:
+            new_subject[extra_key] = existing_subject[extra_key]
+
+    new_subject["gradeBands"] = grade_bands
 
     subject_data = {
         "country": "finland",
-        "source": {
-            "api": f"{BASE_URL}/peruste/{PERUSTE_ID}/perusopetus/oppiaineet/{subject_id}",
-            "curriculum": "POPS 2014",
-            "license": "Open Government Data (Finland)",
-            "lastSynced": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
-        },
-        "subject": {
-            "code": code,
-            "name": {"local": source_name_fi, "en": name_en},
-            "description": {"local": description_fi, "en": ""},
-            "coreElements": content_areas,
-            "gradeBands": grade_bands,
-        },
+        "source": source_block,
+        "subject": new_subject,
     }
 
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-    output_path = OUTPUT_DIR / f"{filename}.json"
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(subject_data, f, ensure_ascii=False, indent=2)
 

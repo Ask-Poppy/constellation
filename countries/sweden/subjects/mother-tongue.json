@@ -4,13 +4,18 @@
     "api": "https://api.skolverket.se/syllabus/v1/subjects/GRGRMOD01",
     "curriculum": "Lgr22",
     "license": "CC0",
-    "lastSynced": "2026-03-02T21:29:37Z"
+    "lastSynced": "2026-03-03T08:58:59Z",
+    "aiEnriched": ["description.en", "interdisciplinaryThemes", "basicSkills"]
   },
   "subject": {
     "code": "GRGRMOD01",
     "name": {
       "local": "Modersmål",
       "en": "Mother Tongue"
+    },
+    "description": {
+      "local": "Undervisningen i ämnet modersmål ska syfta till att eleverna utvecklar kunskaper i och om modersmålet. Genom undervisningen ska eleverna ges möjlighet att utveckla sitt tal- och skriftspråk så att de får tilltro till sin språkförmåga och kan uttrycka sig i olika sammanhang och för skilda syften. Undervisningen ska bidra till att eleverna erövrar kunskaper om modersmålets uppbyggnad och blir medvetna om modersmålets betydelse för det egna lärandet i olika skolämnen. Undervisningen ska stimulera elevernas intresse för att samtala, läsa och skriva på modersmålet. Genom undervisningen ska eleverna ges möjlighet att läsa, analysera och resonera om skönlitterära verk i olika genrer. Därigenom ska eleverna ges möjlighet att utveckla sitt språk, sin identitet och förståelse för omvärlden. Undervisningen ska också bidra till att eleverna utvecklar kunskaper i att formulera egna åsikter och tankar i olika slags texter. De ska även stimuleras till att uttrycka sig genom andra estetiska uttrycksformer. Undervisningen ska ge eleverna förutsättningar att utveckla sin kulturella identitet och sin flerspråkighet. Genom undervisningen ska eleverna därför ges möjligheter att utveckla sina kunskaper om kulturer och områden där modersmålet talas. Undervisningen ska också bidra till att eleverna utvecklar ett jämförande förhållningssätt till kulturer och språk. Undervisningen i ämnet modersmål ska ge eleverna förutsättningar att utveckla",
+      "en": "Teaching in the subject of mother tongue shall aim to develop pupils' knowledge in and about their mother tongue. Through teaching, pupils shall be given the opportunity to develop their spoken and written language so that they gain confidence in their language ability and can express themselves in different contexts and for various purposes. Teaching shall contribute to pupils acquiring knowledge about the structure of their mother tongue and becoming aware of the significance of the mother tongue for their own learning in different school subjects. Teaching shall stimulate pupils' interest in speaking, reading and writing in their mother tongue. Through teaching, pupils shall be given the opportunity to read, analyse and reason about literary works in different genres. In this way, pupils shall be given the opportunity to develop their language, their identity and their understanding of the world around them. Teaching shall also contribute to pupils developing knowledge in formulating their own opinions and thoughts in different types of texts. They shall also be stimulated to express themselves through other aesthetic forms of expression. Teaching shall give pupils the conditions to develop their cultural identity and their multilingualism. Through teaching, pupils shall therefore be given opportunities to develop their knowledge of cultures and areas where the mother tongue is spoken. Teaching shall also contribute to pupils developing a comparative approach to cultures and languages."
     },
     "coreElements": [
       {
@@ -66,6 +71,98 @@
         "description": {
           "local": "kunskaper om traditioner, kulturella företeelser och samhällsfrågor i områden där modersmålet talas i jämförelse med förhållanden i Sverige.",
           "en": "knowledge of traditions, cultural phenomena and societal issues in areas where the mother tongue is spoken, in comparison with conditions in Sweden."
+        }
+      }
+    ],
+    "interdisciplinaryThemes": [
+      {
+        "code": "TT1",
+        "name": {
+          "local": "Hälsa och livskompetens",
+          "en": "Health and life skills"
+        },
+        "description": {
+          "local": "I modersmål bidrar det tvärvetenskapliga temat hälsa och livskompetens till att eleverna stärker sin identitet och självkänsla genom att utveckla sitt modersmål. Att behärska sitt modersmål ger eleverna trygghet i att uttrycka tankar, känslor och erfarenheter, vilket stödjer deras psykiska välbefinnande. Genom skönlitteratur och samtal på modersmålet utvecklar eleverna empati och förståelse för mänskliga erfarenheter från olika kulturer och sammanhang.",
+          "en": "In mother tongue, the interdisciplinary theme of health and life skills contributes to pupils strengthening their identity and self-esteem by developing their mother tongue. Mastering one's mother tongue gives pupils confidence in expressing thoughts, feelings and experiences, which supports their mental wellbeing. Through fiction and conversations in the mother tongue, pupils develop empathy and understanding of human experiences from different cultures and contexts."
+        }
+      },
+      {
+        "code": "TT2",
+        "name": {
+          "local": "Demokrati och medborgarskap",
+          "en": "Democracy and citizenship"
+        },
+        "description": {
+          "local": "I modersmål bidrar det tvärvetenskapliga temat demokrati och medborgarskap till att eleverna utvecklar förmågan att formulera egna åsikter och delta i samtal och diskussioner på sitt modersmål. Genom att jämföra traditioner, kulturella företeelser och samhällsfrågor i modersmålets områden med förhållanden i Sverige utvecklar eleverna interkulturell förståelse. Flerspråkighet och kulturell medvetenhet ger eleverna förutsättningar att verka som aktiva medborgare i ett mångkulturellt samhälle.",
+          "en": "In mother tongue, the interdisciplinary theme of democracy and citizenship contributes to pupils developing the ability to formulate their own opinions and participate in conversations and discussions in their mother tongue. By comparing traditions, cultural phenomena and societal issues in the areas where the mother tongue is spoken with conditions in Sweden, pupils develop intercultural understanding. Multilingualism and cultural awareness give pupils the conditions to act as active citizens in a multicultural society."
+        }
+      },
+      {
+        "code": "TT3",
+        "name": {
+          "local": "Hållbar utveckling",
+          "en": "Sustainability"
+        },
+        "description": {
+          "local": "I modersmål bidrar det tvärvetenskapliga temat hållbar utveckling till att eleverna kan ta del av och diskutera hållbarhetsfrågor utifrån olika kulturella perspektiv. Genom att jämföra hur samhällsfrågor och miljöfrågor uppfattas och hanteras i modersmålets områden och i Sverige utvecklar eleverna ett vidgat perspektiv på global hållbarhet. Modersmålet fungerar som en resurs för att nå och förstå information om hållbar utveckling från olika delar av världen.",
+          "en": "In mother tongue, the interdisciplinary theme of sustainability contributes to pupils being able to access and discuss sustainability issues from different cultural perspectives. By comparing how societal and environmental issues are perceived and handled in the areas where the mother tongue is spoken and in Sweden, pupils develop a broadened perspective on global sustainability. The mother tongue serves as a resource for accessing and understanding information about sustainable development from different parts of the world."
+        }
+      }
+    ],
+    "basicSkills": [
+      {
+        "code": "GF1",
+        "name": {
+          "local": "Muntliga färdigheter",
+          "en": "Oral skills"
+        },
+        "description": {
+          "local": "Muntliga färdigheter i modersmål innebär att kunna samtala, berätta, beskriva och argumentera på sitt modersmål i olika sammanhang. Det omfattar att anpassa talet efter syfte och mottagare, använda ett varierat ordförråd och delta i samtal om kultur, traditioner och samhällsfrågor. Utvecklingen av muntliga färdigheter i modersmål går från att samtala om vardagliga ämnen till att kunna föra utvecklade resonemang och presentera med anpassning till syfte och mottagare.",
+          "en": "Oral skills in mother tongue involve being able to converse, narrate, describe and argue in one's mother tongue in different contexts. This includes adapting speech to purpose and audience, using a varied vocabulary and participating in conversations about culture, traditions and societal issues. The development of oral skills in mother tongue progresses from conversing about everyday topics to being able to present developed reasoning and present with adaptation to purpose and audience."
+        }
+      },
+      {
+        "code": "GF2",
+        "name": {
+          "local": "Att kunna skriva",
+          "en": "Writing"
+        },
+        "description": {
+          "local": "Att kunna skriva i modersmål innebär att formulera sig i skrift på modersmålet för att berätta, beskriva, förklara och argumentera. Det omfattar att utveckla kunskaper om modersmålets skriftsystem, textstrukturer och genrer samt att bearbeta texter för ökad tydlighet och kvalitet. Utvecklingen av skrivande i modersmål går från att skriva enkla texter med grundläggande struktur till att producera sammanhängande texter i olika genrer med anpassning till syfte och mottagare.",
+          "en": "Writing in mother tongue involves expressing oneself in writing in one's mother tongue to narrate, describe, explain and argue. This includes developing knowledge of the mother tongue's writing system, text structures and genres as well as revising texts for increased clarity and quality. The development of writing in mother tongue progresses from writing simple texts with basic structure to producing coherent texts in different genres with adaptation to purpose and audience."
+        }
+      },
+      {
+        "code": "GF3",
+        "name": {
+          "local": "Att kunna läsa",
+          "en": "Reading"
+        },
+        "description": {
+          "local": "Att kunna läsa i modersmål innebär att kunna avkoda, förstå och tolka skönlitteratur och andra texter på modersmålet. Det omfattar att använda lässtrategier för att förstå och analysera texter i olika genrer samt att relatera texters innehåll till egna erfarenheter och kulturella sammanhang. Utvecklingen av läsning i modersmål går från att läsa enkla texter till att kunna läsa, analysera och resonera om texter av varierande komplexitet och genre.",
+          "en": "Reading in mother tongue involves being able to decode, understand and interpret fiction and other texts in one's mother tongue. This includes using reading strategies to understand and analyse texts in different genres as well as relating the content of texts to one's own experiences and cultural contexts. The development of reading in mother tongue progresses from reading simple texts to being able to read, analyse and reason about texts of varying complexity and genre."
+        }
+      },
+      {
+        "code": "GF4",
+        "name": {
+          "local": "Att kunna räkna",
+          "en": "Numeracy"
+        },
+        "description": {
+          "local": "Att kunna räkna i modersmål innebär att förstå och använda tal, datum, tider och andra numeriska uttryck på modersmålet. Det omfattar att jämföra hur numeriska system och matematiska begrepp uttrycks på modersmålet och på svenska, vilket stödjer elevernas begreppsförståelse. Utvecklingen av räknefärdigheter i modersmål går från att använda grundläggande tal och räkneord till att kunna jämföra och förklara matematiska begrepp på båda språken.",
+          "en": "Numeracy in mother tongue involves understanding and using numbers, dates, times and other numerical expressions in one's mother tongue. This includes comparing how numerical systems and mathematical concepts are expressed in the mother tongue and in Swedish, which supports pupils' conceptual understanding. The development of numeracy in mother tongue progresses from using basic numbers and numerals to being able to compare and explain mathematical concepts in both languages."
+        }
+      },
+      {
+        "code": "GF5",
+        "name": {
+          "local": "Digitala färdigheter",
+          "en": "Digital skills"
+        },
+        "description": {
+          "local": "Digitala färdigheter i modersmål innebär att använda digitala verktyg och medier för att läsa, skriva och kommunicera på modersmålet. Det omfattar att söka information på modersmålet i digitala källor, använda digitala skrivverktyg och kommunicera digitalt med modersmålstalare. Utvecklingen av digitala färdigheter i modersmål går från att använda enkla digitala verktyg för läsning och skrivning till att självständigt söka, värdera och använda digitala resurser på modersmålet.",
+          "en": "Digital skills in mother tongue involve using digital tools and media to read, write and communicate in one's mother tongue. This includes searching for information in the mother tongue from digital sources, using digital writing tools and communicating digitally with mother tongue speakers. The development of digital skills in mother tongue progresses from using simple digital tools for reading and writing to independently searching for, evaluating and using digital resources in the mother tongue."
         }
       }
     ],
@@ -632,7 +729,7 @@
           {
             "code": "ML-7-9-13",
             "text": {
-              "local": "Översättning av och jämförelser mellan ord, begrepp, fraser och texter på moder­målet och på svenska.",
+              "local": "Översättning av och jämförelser mellan ord, begrepp, fraser och texter på moder­smålet och på svenska.",
               "en": "Translation of and comparisons between words, concepts, phrases and texts in the mother tongue and in Swedish."
             },
             "coreElements": [

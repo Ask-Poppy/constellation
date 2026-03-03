@@ -4,13 +4,22 @@
     "api": "https://eperusteet.opintopolku.fi/eperusteet-service/api/external/peruste/419550/perusopetus/oppiaineet/466342",
     "curriculum": "POPS 2014",
     "license": "Open Government Data (Finland)",
-    "lastSynced": "2026-03-02T21:29:48Z"
+    "lastSynced": "2026-03-03T08:59:02Z",
+    "aiEnriched": [
+      "description.en",
+      "interdisciplinaryThemes",
+      "basicSkills"
+    ]
   },
   "subject": {
     "code": "KU",
     "name": {
       "local": "Kuvataide",
       "en": "Visual Arts"
+    },
+    "description": {
+      "local": "Kuvataiteen opetuksen tehtävä on ohjata oppilaita tutkimaan ja ilmaisemaan kulttuurisesti moninaista todellisuutta taiteen keinoin. Oppilaiden identiteettien rakentumista, kulttuurista osaamista ja yhteisöllisyyttä vahvistetaan kuvia tuottamalla ja tulkitsemalla. Oppilaiden omat kokemukset, mielikuvitus ja kokeileminen luovat perustan opetukselle. Kuvataiteen opetus kehittää kykyä ymmärtää taiteen, ympäristön ja muun visuaalisen kulttuurin ilmiöitä. Oppilaille tarjotaan tapoja arvottaa todellisuutta ja vaikuttaa siihen. Kulttuuriperinnön tuntemusta vahvistamalla tuetaan traditioiden välittymistä ja uudistumista. Opetus tukee oppilaiden kriittisen ajattelun kehittymistä sekä kannustaa heitä vaikuttamaan omaan elinympäristöön ja yhteiskuntaan. Kuvataiteen opetuksessa luodaan perustaa oppilaiden paikalliselle ja globaalille toimijuudelle.\n\nTaiteelle ominainen työskentely harjaannuttaa kokemukselliseen, moniaistiseen ja toiminnalliseen oppimiseen. Oppilaat tarkastelevat kuvataidetta ja muuta visuaalista kulttuuria historiallisista ja kulttuurisista näkökulmista. Opetuksessa tutustutaan erilaisiin näkemyksiin taiteen tehtävistä. Oppilaita ohjataan käyttämään monipuolisesti erilaisia välineitä, materiaaleja, teknologioita ja ilmaisun keinoja. Opetuksessa kannustetaan monilukutaidon kehittämiseen hyödyntämällä visuaalisuutta sekä muita tiedon tuottamisen ja esittämisen tapoja. Oppilaille tarjotaan mahdollisuuksia monialaisiin oppimiskokonaisuuksiin yhteistyössä muun opetuksen ja koulun ulkopuolisten toimijoiden kanssa. Opetuksessa tutustutaan museoihin ja muihin kulttuurikohteisiin sekä tarkastellaan kuvataiteen harrastusmahdollisuuksia.",
+      "en": "The task of visual arts education is to guide pupils to explore and express a culturally diverse reality through the means of art. The building of pupils' identities, cultural competence, and sense of community is strengthened through producing and interpreting images. Pupils' own experiences, imagination, and experimentation form the foundation for teaching. Visual arts education develops the ability to understand phenomena in art, the environment, and other visual culture. Pupils are offered ways to evaluate and influence reality. Knowledge of cultural heritage is strengthened to support the transmission and renewal of traditions. Teaching supports the development of pupils' critical thinking and encourages them to influence their own living environment and society. Visual arts education creates a foundation for pupils' local and global agency.\n\nWorking in ways characteristic of art trains pupils in experiential, multisensory, and action-based learning. Pupils examine visual arts and other visual culture from historical and cultural perspectives. Teaching introduces different views of the functions of art. Pupils are guided to use a diverse range of tools, materials, technologies, and means of expression. Teaching encourages the development of multiliteracy by utilising visuality and other ways of producing and presenting knowledge. Pupils are offered opportunities for multidisciplinary learning modules in collaboration with other teaching and actors outside the school. Teaching introduces museums and other cultural sites and examines possibilities for visual arts as a hobby."
     },
     "coreElements": [
       {
@@ -58,6 +67,98 @@
         }
       }
     ],
+    "interdisciplinaryThemes": [
+      {
+        "code": "TT1",
+        "name": {
+          "local": "Terveys ja elämänhallinta",
+          "en": "Health and life skills"
+        },
+        "description": {
+          "local": "Kuvataiteen opetuksessa terveys ja elämänhallinta -teema ilmenee oppilaiden identiteetin rakentumisen ja itsetuntemuksen tukemisena visuaalisen ilmaisun kautta. Kuvallinen työskentely tarjoaa välineitä tunteiden käsittelyyn, itsetutkiskeluun ja mielikuvituksen kehittämiseen. Pitkäjänteinen taiteellinen työskentely vahvistaa sinnikkyyttä, keskittymiskykyä ja myönteistä minäkuvaa.",
+          "en": "In visual arts education, the theme of health and life skills manifests through supporting the building of pupils' identities and self-knowledge through visual expression. Visual work provides tools for processing emotions, self-exploration, and developing imagination. Sustained artistic work strengthens perseverance, concentration, and a positive self-image."
+        }
+      },
+      {
+        "code": "TT2",
+        "name": {
+          "local": "Demokratia ja kansalaisuus",
+          "en": "Democracy and citizenship"
+        },
+        "description": {
+          "local": "Kuvataiteen opetuksessa demokratia ja kansalaisuus -teema näkyy oppilaiden ohjaamisena vaikuttamaan kuvien avulla ja ilmaisemaan mielipiteitään visuaalisesti. Oppilaat tarkastelevat kuvallisen viestinnän ja vaikuttamisen keinoja sekä pohtivat taiteessa ja visuaalisessa kulttuurissa ilmeneviä arvoja. Kuvataide kehittää oppilaiden kykyä osallistua yhteiskunnalliseen keskusteluun ja vaikuttaa omaan elinympäristöönsä.",
+          "en": "In visual arts education, the theme of democracy and citizenship manifests through guiding pupils to influence through images and express their opinions visually. Pupils examine the means of visual communication and influence, and reflect on values manifested in art and visual culture. Visual arts develop pupils' ability to participate in social discourse and influence their own living environment."
+        }
+      },
+      {
+        "code": "TT3",
+        "name": {
+          "local": "Kestävä kehitys",
+          "en": "Sustainability"
+        },
+        "description": {
+          "local": "Kuvataiteen opetuksessa kestävä kehitys -teema ilmenee kulttuurisen moninaisuuden arvostamisena, kestävän kehityksen huomioivina materiaalivalintoina ja ympäristön visuaalisen kulttuurin kriittisenä tarkasteluna. Oppilaat pohtivat kulttuuriperinnön säilyttämistä ja uudistamista sekä oman kuvailmaisunsa vaikutuksia. Kuvataide tarjoaa välineitä ympäristötietoisuuden lisäämiseen ja kestävän elämäntavan edistämiseen visuaalisen toiminnan kautta.",
+          "en": "In visual arts education, the theme of sustainability manifests through the appreciation of cultural diversity, material choices that take sustainable development into account, and the critical examination of the visual culture of the environment. Pupils reflect on the preservation and renewal of cultural heritage and the impacts of their own visual expression. Visual arts provide tools for increasing environmental awareness and promoting a sustainable way of life through visual activity."
+        }
+      }
+    ],
+    "basicSkills": [
+      {
+        "code": "GF1",
+        "name": {
+          "local": "Suulliset taidot",
+          "en": "Oral skills"
+        },
+        "description": {
+          "local": "Kuvataiteen opetuksessa suulliset taidot kehittyvät, kun oppilaat keskustelevat havainnoistaan, ajatuksistaan ja tulkinnoistaan taiteesta ja visuaalisesta kulttuurista. Oppilaat harjoittelevat näkemystensä perustelemista ja kuvataiteen käsitteistön käyttöä suullisessa ilmaisussa. Suullinen ilmaisu on keskeistä myös kuvien tulkinnassa ja niistä käytävässä arvokeskustelussa.",
+          "en": "In visual arts education, oral skills develop as pupils discuss their observations, thoughts, and interpretations of art and visual culture. Pupils practise justifying their viewpoints and using visual arts terminology in verbal expression. Oral expression is also central to interpreting images and engaging in value-based discussions about them."
+        }
+      },
+      {
+        "code": "GF2",
+        "name": {
+          "local": "Kirjoittaminen",
+          "en": "Writing"
+        },
+        "description": {
+          "local": "Kuvataiteen opetuksessa kirjoittamista harjoitellaan kuvatulkintojen, havaintojen dokumentoinnin ja luovien prosessien kuvaamisen kautta. Oppilaat oppivat ilmaisemaan ajatuksiaan kuvallisesti ja sanallisesti, yhdistäen visuaalista ja kirjallista ilmaisua. Kirjoittaminen tukee monilukutaidon kehittymistä ja oman taiteellisen työskentelyn reflektointia.",
+          "en": "In visual arts education, writing is practised through image interpretation, documentation of observations, and description of creative processes. Pupils learn to express their thoughts both visually and verbally, combining visual and written expression. Writing supports the development of multiliteracy and the reflection on one's own artistic work."
+        }
+      },
+      {
+        "code": "GF3",
+        "name": {
+          "local": "Lukeminen",
+          "en": "Reading"
+        },
+        "description": {
+          "local": "Kuvataiteen opetuksessa lukutaito kehittyy visuaalisten tekstien, kuten taideteosten, mediakuvien ja ympäristön visuaalisen kulttuurin, tulkintana. Oppilaat oppivat lukemaan kuvia eri lähtökohdista ja tunnistamaan kuvallisen viestinnän keinoja. Visuaalinen lukutaito laajenee kuvien todellisuuden ja fiktion suhteen pohdintaan sekä historiallisten ja kulttuuristen tekijöiden vaikutuksen ymmärtämiseen.",
+          "en": "In visual arts education, reading skills develop through the interpretation of visual texts, such as artworks, media images, and the visual culture of the environment. Pupils learn to read images from different starting points and to identify the means of visual communication. Visual literacy extends to reflecting on the relationship between reality and fiction in images and understanding the influence of historical and cultural factors."
+        }
+      },
+      {
+        "code": "GF4",
+        "name": {
+          "local": "Laskutaito",
+          "en": "Numeracy"
+        },
+        "description": {
+          "local": "Kuvataiteen opetuksessa laskutaito ilmenee mittasuhteiden, sommittelun ja avaruudellisen hahmottamisen yhteydessä. Oppilaat käyttävät numeerista tietoa ja mittoja suunnitellessaan ja toteuttaessaan visuaalisia teoksia. Matemaattinen ajattelu tukee perspektiivin, symmetrian ja muotojen välisten suhteiden ymmärtämistä kuvallisessa työskentelyssä.",
+          "en": "In visual arts education, numeracy manifests in connection with proportions, composition, and spatial perception. Pupils use numerical information and measurements when planning and creating visual works. Mathematical thinking supports the understanding of perspective, symmetry, and the relationships between forms in visual work."
+        }
+      },
+      {
+        "code": "GF5",
+        "name": {
+          "local": "Digitaaliset taidot",
+          "en": "Digital skills"
+        },
+        "description": {
+          "local": "Kuvataiteen opetuksessa digitaaliset taidot kehittyvät, kun oppilaat käyttävät monipuolisesti digitaalisia välineitä ja teknologioita kuvallisessa tuottamisessa ja ilmaisussa. Oppilaat hyödyntävät tieto- ja viestintäteknologiaa kuvien käsittelyssä, digitaalisessa taiteessa ja monialaisten kokonaisuuksien toteuttamisessa. Digitaalinen osaaminen tukee visuaalisen kulttuurin kriittistä tarkastelua ja luovaa tuottamista digitaalisissa ympäristöissä.",
+          "en": "In visual arts education, digital skills develop as pupils use a diverse range of digital tools and technologies in visual production and expression. Pupils utilise information and communication technology in image processing, digital art, and the creation of multidisciplinary modules. Digital competence supports the critical examination of visual culture and creative production in digital environments."
+        }
+      }
+    ],
     "gradeBands": [
       {
         "afterGrade": 2,
@@ -73,9 +174,9 @@
               "en": "T1 encourage the pupil to observe art, the environment, and other visual culture using multiple senses and by making images"
             },
             "coreElements": [
-              "S3 Taiteen maailmat:",
-              "S2 Ympäristön kuvakulttuurit",
-              "S1 Omat kuvakulttuurit"
+              "S3",
+              "S2",
+              "S1"
             ],
             "verbs": []
           },
@@ -86,9 +187,9 @@
               "en": "T2 encourage the pupil to discuss their observations and thoughts"
             },
             "coreElements": [
-              "S3 Taiteen maailmat:",
-              "S2 Ympäristön kuvakulttuurit",
-              "S1 Omat kuvakulttuurit"
+              "S3",
+              "S2",
+              "S1"
             ],
             "verbs": []
           },
@@ -99,9 +200,9 @@
               "en": "T3 inspire the pupil to express their observations and thoughts through various methods of visual production"
             },
             "coreElements": [
-              "S3 Taiteen maailmat:",
-              "S2 Ympäristön kuvakulttuurit",
-              "S1 Omat kuvakulttuurit"
+              "S3",
+              "S2",
+              "S1"
             ],
             "verbs": []
           },
@@ -112,9 +213,9 @@
               "en": "T4 inspire the pupil to experiment with different materials and techniques and to practise visual modes of expression"
             },
             "coreElements": [
-              "S3 Taiteen maailmat:",
-              "S2 Ympäristön kuvakulttuurit",
-              "S1 Omat kuvakulttuurit"
+              "S3",
+              "S2",
+              "S1"
             ],
             "verbs": []
           },
@@ -125,9 +226,9 @@
               "en": "T5 encourage the pupil to engage in sustained visual work alone and together with others"
             },
             "coreElements": [
-              "S3 Taiteen maailmat:",
-              "S2 Ympäristön kuvakulttuurit",
-              "S1 Omat kuvakulttuurit"
+              "S3",
+              "S2",
+              "S1"
             ],
             "verbs": []
           },
@@ -138,9 +239,9 @@
               "en": "T6 encourage the pupil to examine the means of visual influence in their own and others' images"
             },
             "coreElements": [
-              "S3 Taiteen maailmat:",
-              "S2 Ympäristön kuvakulttuurit",
-              "S1 Omat kuvakulttuurit"
+              "S3",
+              "S2",
+              "S1"
             ],
             "verbs": []
           },
@@ -151,9 +252,9 @@
               "en": "T7 guide the pupil to use visual arts terminology and to examine different types of images"
             },
             "coreElements": [
-              "S3 Taiteen maailmat:",
-              "S2 Ympäristön kuvakulttuurit",
-              "S1 Omat kuvakulttuurit"
+              "S3",
+              "S2",
+              "S1"
             ],
             "verbs": []
           },
@@ -164,9 +265,9 @@
               "en": "T8 encourage the pupil to recognise different products of art and other visual culture in their local environment"
             },
             "coreElements": [
-              "S3 Taiteen maailmat:",
-              "S2 Ympäristön kuvakulttuurit",
-              "S1 Omat kuvakulttuurit"
+              "S3",
+              "S2",
+              "S1"
             ],
             "verbs": []
           },
@@ -177,9 +278,9 @@
               "en": "T9 inspire the pupil to create images based on the examination of their own living environment, different eras, and different cultures"
             },
             "coreElements": [
-              "S3 Taiteen maailmat:",
-              "S2 Ympäristön kuvakulttuurit",
-              "S1 Omat kuvakulttuurit"
+              "S3",
+              "S2",
+              "S1"
             ],
             "verbs": []
           },
@@ -190,9 +291,9 @@
               "en": "T10 guide the pupil to recognise values manifested in art, the environment, and other visual culture"
             },
             "coreElements": [
-              "S3 Taiteen maailmat:",
-              "S2 Ympäristön kuvakulttuurit",
-              "S1 Omat kuvakulttuurit"
+              "S3",
+              "S2",
+              "S1"
             ],
             "verbs": []
           },
@@ -203,9 +304,9 @@
               "en": "T11 encourage the pupil to take cultural diversity and sustainable development into account in their visual expression"
             },
             "coreElements": [
-              "S3 Taiteen maailmat:",
-              "S2 Ympäristön kuvakulttuurit",
-              "S1 Omat kuvakulttuurit"
+              "S3",
+              "S2",
+              "S1"
             ],
             "verbs": []
           }
@@ -225,9 +326,9 @@
               "en": "T1 encourage the pupil to observe art, the environment, and other visual culture using multiple senses and utilising various visual tools"
             },
             "coreElements": [
-              "S3 Taiteen maailmat:",
-              "S1 Omat kuvakulttuurit",
-              "S2 Ympäristön kuvakulttuurit"
+              "S3",
+              "S1",
+              "S2"
             ],
             "verbs": []
           },
@@ -238,9 +339,9 @@
               "en": "T2 encourage the pupil to discuss their observations and thoughts and to practise justifying their viewpoints"
             },
             "coreElements": [
-              "S3 Taiteen maailmat:",
-              "S1 Omat kuvakulttuurit",
-              "S2 Ympäristön kuvakulttuurit"
+              "S3",
+              "S1",
+              "S2"
             ],
             "verbs": []
           },
@@ -251,9 +352,9 @@
               "en": "T3 inspire the pupil to express their observations and thoughts visually and using other ways of producing knowledge"
             },
             "coreElements": [
-              "S3 Taiteen maailmat:",
-              "S1 Omat kuvakulttuurit",
-              "S2 Ympäristön kuvakulttuurit"
+              "S3",
+              "S1",
+              "S2"
             ],
             "verbs": []
           },
@@ -264,9 +365,9 @@
               "en": "T4 guide the pupil to use a wide range of materials, techniques, and means of expression and to practise their image-making skills"
             },
             "coreElements": [
-              "S3 Taiteen maailmat:",
-              "S1 Omat kuvakulttuurit",
-              "S2 Ympäristön kuvakulttuurit"
+              "S3",
+              "S1",
+              "S2"
             ],
             "verbs": []
           },
@@ -277,9 +378,9 @@
               "en": "T5 guide the pupil towards goal-oriented development of visual skills alone and in cooperation with others"
             },
             "coreElements": [
-              "S3 Taiteen maailmat:",
-              "S1 Omat kuvakulttuurit",
-              "S2 Ympäristön kuvakulttuurit"
+              "S3",
+              "S1",
+              "S2"
             ],
             "verbs": []
           },
@@ -290,9 +391,9 @@
               "en": "T6 guide the pupil to explore different modes of visual communication and to use means of visual influence in their own images"
             },
             "coreElements": [
-              "S3 Taiteen maailmat:",
-              "S1 Omat kuvakulttuurit",
-              "S2 Ympäristön kuvakulttuurit"
+              "S3",
+              "S1",
+              "S2"
             ],
             "verbs": []
           },
@@ -303,9 +404,9 @@
               "en": "T7 guide the pupil to examine images from different starting points and in different contexts and to consider the relationship between reality and fiction"
             },
             "coreElements": [
-              "S3 Taiteen maailmat:",
-              "S1 Omat kuvakulttuurit",
-              "S2 Ympäristön kuvakulttuurit"
+              "S3",
+              "S1",
+              "S2"
             ],
             "verbs": []
           },
@@ -316,9 +417,9 @@
               "en": "T8 guide the pupil to examine art and other visual culture from the perspectives of the work, the maker, and the viewer, and to consider the influence of historical and cultural factors on images"
             },
             "coreElements": [
-              "S3 Taiteen maailmat:",
-              "S1 Omat kuvakulttuurit",
-              "S2 Ympäristön kuvakulttuurit"
+              "S3",
+              "S1",
+              "S2"
             ],
             "verbs": []
           },
@@ -329,9 +430,9 @@
               "en": "T9 inspire the pupil to experiment with visual expression methods of different eras and cultures in their own images"
             },
             "coreElements": [
-              "S3 Taiteen maailmat:",
-              "S1 Omat kuvakulttuurit",
-              "S2 Ympäristön kuvakulttuurit"
+              "S3",
+              "S1",
+              "S2"
             ],
             "verbs": []
           },
@@ -342,9 +443,9 @@
               "en": "T10 guide the pupil to discuss values manifested in art, the environment, and other visual culture"
             },
             "coreElements": [
-              "S3 Taiteen maailmat:",
-              "S1 Omat kuvakulttuurit",
-              "S2 Ympäristön kuvakulttuurit"
+              "S3",
+              "S1",
+              "S2"
             ],
             "verbs": []
           },
@@ -355,9 +456,9 @@
               "en": "T11 encourage the pupil to take cultural diversity and sustainable development into account when choosing the contents and methods of visual expression"
             },
             "coreElements": [
-              "S3 Taiteen maailmat:",
-              "S1 Omat kuvakulttuurit",
-              "S2 Ympäristön kuvakulttuurit"
+              "S3",
+              "S1",
+              "S2"
             ],
             "verbs": []
           }
@@ -377,9 +478,9 @@
               "en": "T1 encourage the pupil to observe art, the environment, and other visual culture using multiple senses and to use diverse methods of visual production"
             },
             "coreElements": [
-              "S3 Taiteen maailmat:",
-              "S1 Omat kuvakulttuurit",
-              "S2 Ympäristön kuvakulttuurit"
+              "S3",
+              "S1",
+              "S2"
             ],
             "verbs": []
           },
@@ -390,9 +491,9 @@
               "en": "T2 encourage the pupil to discuss their own and others' observations and thoughts and to justify their viewpoints"
             },
             "coreElements": [
-              "S3 Taiteen maailmat:",
-              "S1 Omat kuvakulttuurit",
-              "S2 Ympäristön kuvakulttuurit"
+              "S3",
+              "S1",
+              "S2"
             ],
             "verbs": []
           },
@@ -403,9 +504,9 @@
               "en": "T3 inspire the pupil to express their observations and thoughts visually, using various tools and ways of producing knowledge in different environments"
             },
             "coreElements": [
-              "S3 Taiteen maailmat:",
-              "S1 Omat kuvakulttuurit",
-              "S2 Ympäristön kuvakulttuurit"
+              "S3",
+              "S1",
+              "S2"
             ],
             "verbs": []
           },
@@ -416,9 +517,9 @@
               "en": "T4 guide the pupil to apply different materials, techniques, and means of expression and to deepen their visual production skills"
             },
             "coreElements": [
-              "S3 Taiteen maailmat:",
-              "S1 Omat kuvakulttuurit",
-              "S2 Ympäristön kuvakulttuurit"
+              "S3",
+              "S1",
+              "S2"
             ],
             "verbs": []
           },
@@ -429,9 +530,9 @@
               "en": "T5 guide the pupil towards an inquiry-based approach in independent and collaborative visual work"
             },
             "coreElements": [
-              "S3 Taiteen maailmat:",
-              "S1 Omat kuvakulttuurit",
-              "S2 Ympäristön kuvakulttuurit"
+              "S3",
+              "S1",
+              "S2"
             ],
             "verbs": []
           },
@@ -442,9 +543,9 @@
               "en": "T6 encourage the pupil to express their opinions and to apply means of visual communication and influence in their own images"
             },
             "coreElements": [
-              "S3 Taiteen maailmat:",
-              "S1 Omat kuvakulttuurit",
-              "S2 Ympäristön kuvakulttuurit"
+              "S3",
+              "S1",
+              "S2"
             ],
             "verbs": []
           },
@@ -455,9 +556,9 @@
               "en": "T7 guide the pupil to apply visual, verbal, and other methods of image interpretation"
             },
             "coreElements": [
-              "S3 Taiteen maailmat:",
-              "S1 Omat kuvakulttuurit",
-              "S2 Ympäristön kuvakulttuurit"
+              "S3",
+              "S1",
+              "S2"
             ],
             "verbs": []
           },
@@ -468,9 +569,9 @@
               "en": "T8 guide the pupil to examine the significance of art and other visual culture for the individual, the community, and society from historical and cultural perspectives"
             },
             "coreElements": [
-              "S3 Taiteen maailmat:",
-              "S1 Omat kuvakulttuurit",
-              "S2 Ympäristön kuvakulttuurit"
+              "S3",
+              "S1",
+              "S2"
             ],
             "verbs": []
           },
@@ -481,9 +582,9 @@
               "en": "T9 inspire the pupil to apply visual expression methods of different eras and cultures in their visual production"
             },
             "coreElements": [
-              "S3 Taiteen maailmat:",
-              "S1 Omat kuvakulttuurit",
-              "S2 Ympäristön kuvakulttuurit"
+              "S3",
+              "S1",
+              "S2"
             ],
             "verbs": []
           },
@@ -494,9 +595,9 @@
               "en": "T10 guide the pupil to take a stance on values manifested in art, the environment, and other visual culture"
             },
             "coreElements": [
-              "S3 Taiteen maailmat:",
-              "S1 Omat kuvakulttuurit",
-              "S2 Ympäristön kuvakulttuurit"
+              "S3",
+              "S1",
+              "S2"
             ],
             "verbs": []
           },
@@ -507,9 +608,9 @@
               "en": "T11 encourage the pupil to take cultural diversity and sustainable development into account in their visual expression and to influence through images"
             },
             "coreElements": [
-              "S3 Taiteen maailmat:",
-              "S1 Omat kuvakulttuurit",
-              "S2 Ympäristön kuvakulttuurit"
+              "S3",
+              "S1",
+              "S2"
             ],
             "verbs": []
           }

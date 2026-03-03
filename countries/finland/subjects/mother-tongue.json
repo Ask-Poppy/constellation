@@ -4,13 +4,18 @@
     "api": "https://eperusteet.opintopolku.fi/eperusteet-service/api/external/peruste/419550/perusopetus/oppiaineet/466340",
     "curriculum": "POPS 2014",
     "license": "Open Government Data (Finland)",
-    "lastSynced": "2026-03-02T21:29:40Z"
+    "lastSynced": "2026-03-03T08:58:54Z",
+    "aiEnriched": ["description.en", "interdisciplinaryThemes", "basicSkills"]
   },
   "subject": {
     "code": "AI",
     "name": {
       "local": "Suomen kieli ja kirjallisuus",
       "en": "Mother Tongue and Literature"
+    },
+    "description": {
+      "local": "Tehtäväkuvaus, oppimisympäristöihin ja työtapoihin liittyvät tavoitteet sekä ohjaus, eriyttäminen ja tuki sekä oppilaan oppimisen arviointi koskevat kaikkia äidinkieli ja kirjallisuus -oppiaineen oppimääriä.Äidinkielen ja kirjallisuuden opetuksen tehtävänä on kehittää oppilaiden kieli-, vuorovaikutus- ja tekstitaitoja ja ohjata heitä kiinnostumaan kielestä, kirjallisuudesta ja muusta kulttuurista ja tulemaan tietoiseksi itsestään viestijöinä ja kielenkäyttäjinä. Oppilaiden arjen kieli- ja tekstitaitoja laajennetaan niin, että he saavat valmiuksia havaintojen ja ilmiöiden käsitteellistämiseen, ajattelunsa kielentämiseen ja luovuutensa kehittämiseen.Äidinkielen ja kirjallisuuden opetus vastaa yhteistyössä muiden oppiaineiden ja kotien kanssa oppilaiden kielikasvatuksesta ja auttaa heitä rakentamaan kielellistä ja kulttuurista identiteettiä monikulttuurisessa ja medioituneessa yhteiskunnassa. Äidinkieli ja kirjallisuus on monitieteinen taito-, tieto- ja kulttuuriaine. Opetus perustuu laajaan tekstikäsitykseen. Keskeisiä ovat monimuotoisten tekstien tulkitsemisen ja tuottamisen sekä tiedon hankinnan ja jakamisen taidot. Ikäkaudelle ja kielitaidolle soveltuva kirjallisuus vahvistaa luovuuden ja mielikuvituksen monipuolista kehittymistä ja laajentaa oppilaiden käsitystä oman kielellisen ilmaisunsa mahdollisuuksista. Kirjallisuus yhdistää oppilaan kulttuuriinsa ja avartaa käsitystä muista kulttuureista.Oppilaita rohkaistaan rakentavaan ja vastuulliseen vuorovaikutukseen erilaisissa viestintäympäristöissä. Osana eettistä kasvatusta oppilaita ohjataan ymmärtämään omien kielellisten ja viestinnällisten valintojen vaikutuksia toisiin ihmisiin. Metakognitiivisista taidoista äidinkielen opetuksessa painottuvat tekstien tulkitsemisen ja tuottamisen strategiset taidot. Kielitiedon opetuksen tehtävänä on tukea ja kehittää kielitietoisuutta ja kielen havainnoinnin taitoja. Opetus perustuu yhteisölliseen ja funktionaaliseen näkemykseen kielestä: kielen rakenteita opiskellaan ikäkaudelle tyypillisten kielenkäyttötilanteiden ja tekstilajien yhteydessä. Opetuksessa edetään portaittain oppilaiden kehitysvaiheen mukaan.Opetus tutustuttaa moniin kulttuurisisältöihin, joista keskeisiä ovat sanataide, media, draama, teatteritaide sekä puhe- ja viestintäkulttuurit. Sanataiteeseen kuuluu kaunokirjallisten tekstien kirjoittaminen ja tulkitseminen. Kirjallisuuden opetuksen tehtävänä on lukemiseen innostaminen, elämysten saaminen ja jakaminen, kulttuurintuntemuksen syventäminen, eettisen kasvun tukeminen sekä oppilaiden kielen ja mielikuvituksen rikastaminen. Draama vahvistaa oppiaineen toiminnallista, kokemuksellista, elämyksellistä ja esteettistä luonnetta. Mediakasvatus tähtää mediasisältöjen tulkitsemiseen ja tuottamiseen ja niiden ymmärtämiseen kulttuurisena ilmiönä. Puhe- ja viestintäkulttuurien opetus vahvistaa vuorovaikutus- ja viestintätaitoja.Keskeisiä motivaatiotekijöitä äidinkielen ja kirjallisuuden oppimisessa ovat opittavien asioiden merkityksellisyys oppilaille ja osallisuuden kokemukset. Oppilaiden kiinnostusta vahvistetaan luomalla mahdollisuuksia aktiiviseen toimijuuteen ja omiin valintoihin sekä ottamalla huomioon oppilaiden tekstimaailma ja kokemukset sekä laajentamalla niitä. Opetuksessa, oppimisympäristön luomisessa ja opetusmenetelmien valinnassa otetaan huomioon oppilaiden erilaisuus, yhdenvertaisuus ja sukupuolten tasa-arvo ja tuetaan niin edistyneitä kuin oppimisvaikeuksien kanssa ponnistelevia. Äidinkielen ja kirjallisuuden oppimäärien opettajat tekevät yhteistyötä. Erityisesti suomen kieli ja kirjallisuus sekä suomi toisena kielenä ja kirjallisuus -oppimäärien yhteistyö vahvistaa suomen oppimisen jatkumoa. Tavoitteena on siirtyminen suomi toisena kielenä ja kirjallisuus -oppimäärästä suomen kieli ja kirjallisuus -oppimäärään, kun riittävä suomen kielen taito eri kielitaidon osa-alueilla ja eri tiedonalojen kielissä on saavutettu.",
+      "en": "The task description, objectives related to learning environments and working methods, as well as guidance, differentiation, support, and assessment of pupil learning apply to all syllabi of the Mother Tongue and Literature subject. The task of Mother Tongue and Literature education is to develop pupils' language, interaction, and text skills and to guide them to become interested in language, literature, and other culture, and to become aware of themselves as communicators and language users. Pupils' everyday language and text skills are expanded so that they gain the ability to conceptualise observations and phenomena, to verbalise their thinking, and to develop their creativity.\n\nMother Tongue and Literature education, in cooperation with other subjects and homes, is responsible for pupils' language education and helps them build their linguistic and cultural identity in a multicultural and media-saturated society. Mother Tongue and Literature is a multidisciplinary skill, knowledge, and cultural subject. Teaching is based on a broad concept of text. Central skills include interpreting and producing multimodal texts and acquiring and sharing information. Literature appropriate to the age group and language proficiency strengthens the versatile development of creativity and imagination and broadens pupils' understanding of the possibilities of their own linguistic expression. Literature connects the pupil to their culture and broadens their understanding of other cultures.\n\nPupils are encouraged to engage in constructive and responsible interaction in various communication environments. As part of ethical education, pupils are guided to understand the effects of their own linguistic and communicative choices on other people. Among metacognitive skills, Mother Tongue education emphasises the strategic skills of interpreting and producing texts. The task of language knowledge instruction is to support and develop language awareness and language observation skills. Teaching is based on a communal and functional view of language: language structures are studied in connection with language use situations and text genres typical of the age group. Teaching progresses in stages according to the pupils' developmental phase.\n\nTeaching introduces many cultural contents, of which the central ones are literary arts, media, drama, theatre arts, and speech and communication cultures. Literary arts include writing and interpreting literary texts. The task of literature education is to inspire reading, to provide and share experiences, to deepen cultural knowledge, to support ethical growth, and to enrich pupils' language and imagination. Drama strengthens the subject's active, experiential, and aesthetic nature. Media education aims at interpreting and producing media content and understanding it as a cultural phenomenon. Teaching of speech and communication cultures strengthens interaction and communication skills.\n\nKey motivational factors in learning Mother Tongue and Literature are the meaningfulness of the content to the pupils and experiences of participation. Pupils' interest is strengthened by creating opportunities for active agency and personal choices, and by taking into account and expanding pupils' text worlds and experiences. In teaching, in creating the learning environment, and in selecting teaching methods, pupils' diversity, equality, and gender equality are taken into account, and both advanced learners and those struggling with learning difficulties are supported. Teachers of different Mother Tongue and Literature syllabi collaborate. Cooperation between the Finnish Language and Literature and Finnish as a Second Language and Literature syllabi in particular strengthens the continuity of learning Finnish. The goal is to transition from the Finnish as a Second Language and Literature syllabus to the Finnish Language and Literature syllabus when sufficient Finnish language proficiency in all areas of language skills and in the languages of different fields of knowledge has been achieved."
     },
     "coreElements": [
       {
@@ -55,6 +60,98 @@
         "description": {
           "local": "Tutkitaan kielen vaihtelua tilanteen ja aiheen mukaan ja pohditaan sanojen, ilmaisutapojen ja tekstien merkityksiä. Tutkitaan tekstienvälisyyttä monimuotoisissa teksteissä. Tutustutaan oppilaan omaan ja muihin kulttuureihin ja kieliin ja vertaillaan suomea muiden, oppilaille tuttujen kielten piirteisiin. Tutustutaan oppilaille läheisiin kansanperinteen lajeihin ja niiden jatkajiin nykykulttuurissa. Hyödynnetään lapsille ja nuorille suunnattua media- ja kulttuuritarjontaa, esimerkiksi kirjastoa, elokuvia, teatteria ja museoita. Tarkastellaan mediakulttuurin ilmiöitä ja ikäkaudelle tarkoitettuja sisältöjä ja keskustellaan median roolista oppilaan arjessa. Suunnitellaan ja toteutetaan omia esityksiä. Kannustetaan ja tutustutaan kirjaston aktiiviseen ja monipuoliseen käyttöön, etsitään itseä kiinnostavaa luettavaa ja tuetaan omaehtoista lukemisen ja kirjoittamisen harrastamista. Luetaan koti- ja ulkomaista lapsille ja nuorille suunnattua kirjallisuutta nykykirjallisuudesta klassikoihin ja ikäkaudelle suunnattua tietokirjallisuutta ja pohditaan kirjallisuuden herättämiä kysymyksiä.",
           "en": "Variation of language according to situation and topic is examined, and the meanings of words, modes of expression, and texts are considered. Intertextuality in multimodal texts is examined. The pupil's own and other cultures and languages are explored, and Finnish is compared with features of other languages familiar to the pupils. Folk tradition genres familiar to the pupils and their continuations in contemporary culture are explored. Media and cultural offerings aimed at children and young people are utilised, for example libraries, films, theatre, and museums. Phenomena of media culture and age-appropriate content are examined and the role of media in the pupil's everyday life is discussed. Own performances are planned and carried out. Active and versatile use of the library is encouraged, reading material of personal interest is sought, and independent reading and writing as a hobby are supported. Domestic and foreign literature aimed at children and young people, from contemporary works to classics, as well as age-appropriate non-fiction, is read and questions raised by literature are discussed."
+        }
+      }
+    ],
+    "interdisciplinaryThemes": [
+      {
+        "code": "TT1",
+        "name": {
+          "local": "Terveys ja elämänhallinta",
+          "en": "Health and life skills"
+        },
+        "description": {
+          "local": "Äidinkielen ja kirjallisuuden opetuksessa terveys ja elämänhallinta toteutuvat oppilaiden kehittäessä tunnetaitojaan ja vuorovaikutustaitojaan erilaisten tekstien ja draaman avulla. Kirjallisuuden lukeminen tukee empatian ja itsetuntemuksen kehittymistä, mikä on keskeistä henkiselle hyvinvoinnille.",
+          "en": "In Mother Tongue and Literature education, health and life skills are realised as pupils develop their emotional and interaction skills through various texts and drama. Reading literature supports the development of empathy and self-awareness, which is essential for mental well-being."
+        }
+      },
+      {
+        "code": "TT2",
+        "name": {
+          "local": "Demokratia ja kansalaisuus",
+          "en": "Democracy and citizenship"
+        },
+        "description": {
+          "local": "Äidinkielen ja kirjallisuuden opetus tukee demokratiaa ja kansalaisuutta kehittämällä oppilaiden kykyä ilmaista mielipiteitään, perustella näkemyksiään ja arvioida kriittisesti eri tietolähteitä ja mediatekstejä. Monipuoliset vuorovaikutustaidot ovat yhteiskunnallisen osallistumisen perusta.",
+          "en": "Mother Tongue and Literature education supports democracy and citizenship by developing pupils' ability to express their opinions, justify their views, and critically evaluate various sources of information and media texts. Versatile interaction skills are the foundation of societal participation."
+        }
+      },
+      {
+        "code": "TT3",
+        "name": {
+          "local": "Kestävä kehitys",
+          "en": "Sustainability"
+        },
+        "description": {
+          "local": "Äidinkielen ja kirjallisuuden opetuksessa kestävä kehitys ilmenee oppilaiden oppiessa tarkastelemaan kriittisesti mediatekstejä ja kulttuurisia sisältöjä, jotka käsittelevät ympäristökysymyksiä ja globaaleja haasteita. Tiedonhankinnan ja lähdekriittisyyden taidot tukevat kestävien valintojen tekemistä.",
+          "en": "In Mother Tongue and Literature education, sustainability is manifested as pupils learn to critically examine media texts and cultural content that address environmental issues and global challenges. Information retrieval and source criticism skills support making sustainable choices."
+        }
+      }
+    ],
+    "basicSkills": [
+      {
+        "code": "GF1",
+        "name": {
+          "local": "Suulliset taidot",
+          "en": "Oral skills"
+        },
+        "description": {
+          "local": "Suulliset taidot ovat äidinkielen ja kirjallisuuden opetuksen ydintä. Oppilas harjoittelee esiintymistä, keskustelua, väittelyä ja draaman keinoja kehittäen kykyään ilmaista itseään selkeästi ja vakuuttavasti erilaisissa viestintätilanteissa.",
+          "en": "Oral skills are at the core of Mother Tongue and Literature education. The pupil practises presenting, discussing, debating, and using drama methods, developing their ability to express themselves clearly and persuasively in various communication situations."
+        }
+      },
+      {
+        "code": "GF2",
+        "name": {
+          "local": "Kirjoittaminen",
+          "en": "Writing"
+        },
+        "description": {
+          "local": "Kirjoittaminen on äidinkielen ja kirjallisuuden opetuksen keskeisimpiä osa-alueita. Oppilas harjoittelee kertovien, kuvaavien, ohjaavien ja kantaa ottavien tekstien tuottamista halliten tekstin rakenteen, oikeinkirjoituksen ja tyylilliset valinnat eri tekstilajien vaatimusten mukaisesti.",
+          "en": "Writing is one of the most central areas of Mother Tongue and Literature education. The pupil practises producing narrative, descriptive, instructional, and opinion texts, mastering text structure, spelling, and stylistic choices according to the requirements of different text genres."
+        }
+      },
+      {
+        "code": "GF3",
+        "name": {
+          "local": "Lukeminen",
+          "en": "Reading"
+        },
+        "description": {
+          "local": "Lukeminen on äidinkielen ja kirjallisuuden opetuksessa perustaitojen kehittämisen ytimessä. Oppilas kehittää sujuvaa lukutaitoa, tekstinymmärtämisen strategioita ja kriittistä lukutaitoa kaunokirjallisuuden, tietotekstien ja mediatekstien parissa.",
+          "en": "Reading is at the heart of developing fundamental skills in Mother Tongue and Literature education. The pupil develops fluent reading, text comprehension strategies, and critical literacy through fiction, non-fiction, and media texts."
+        }
+      },
+      {
+        "code": "GF4",
+        "name": {
+          "local": "Laskutaito",
+          "en": "Numeracy"
+        },
+        "description": {
+          "local": "Laskutaito äidinkielen ja kirjallisuuden opetuksessa ilmenee taulukoiden ja diagrammien tulkitsemisessa, lähdemerkintöjen hallinnassa sekä tekstien jäsentelyssä loogisesti ja rakenteellisesti. Oppilas oppii myös käsittelemään numeerista tietoa mediateksteissä.",
+          "en": "Numeracy in Mother Tongue and Literature education is manifested in interpreting tables and diagrams, managing source references, and organising texts logically and structurally. The pupil also learns to process numerical information in media texts."
+        }
+      },
+      {
+        "code": "GF5",
+        "name": {
+          "local": "Digitaaliset taidot",
+          "en": "Digital skills"
+        },
+        "description": {
+          "local": "Digitaaliset taidot äidinkielen ja kirjallisuuden opetuksessa tarkoittavat monimediaisten tekstien tuottamista ja tulkitsemista digitaalisissa ympäristöissä, tiedonhankintaa verkossa, lähdekriittisyyttä sekä eettistä toimintaa verkkoympäristöissä tekijänoikeuksia ja yksityisyyttä kunnioittaen.",
+          "en": "Digital skills in Mother Tongue and Literature education mean producing and interpreting multimodal texts in digital environments, retrieving information online, exercising source criticism, and acting ethically in online environments while respecting copyright and privacy."
         }
       }
     ],

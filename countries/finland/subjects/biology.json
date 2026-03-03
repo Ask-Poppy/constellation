@@ -4,13 +4,18 @@
     "api": "https://eperusteet.opintopolku.fi/eperusteet-service/api/external/peruste/419550/perusopetus/oppiaineet/478970",
     "curriculum": "POPS 2014",
     "license": "Open Government Data (Finland)",
-    "lastSynced": "2026-03-02T21:29:42Z"
+    "lastSynced": "2026-03-03T08:58:56Z",
+    "aiEnriched": ["description.en", "interdisciplinaryThemes", "basicSkills"]
   },
   "subject": {
     "code": "BI",
     "name": {
       "local": "Biologia",
       "en": "Biology"
+    },
+    "description": {
+      "local": "Biologian opetuksen tehtävänä on auttaa oppilaita ymmärtämään elämää ja sen kehittymistä, kartuttaa oppilaan luonnontuntemusta sekä ohjata oppilaita ymmärtämään ekosysteemien toimintaa, ihmisen elintoimintoja sekä perinnöllisyyden ja evoluution perusteita.\n\nBiologian opetuksessa työskennellään myös luonnossa ja ohjataan oppilaita tutkivan oppimisen avulla tutustumaan biologisen tiedonhankinnan luonteeseen. Luonnon tutkimisessa käytetään sekä maasto- että laboratoriotyömenetelmiä. Elämyksellinen ja kokemuksellinen oppiminen virittää oppimisen iloa ja herättää kiinnostusta tarkkailla elinympäristön tilaa ja siinä tapahtuvia muutoksia. Opiskelussa hyödynnetään monipuolisesti tieto- ja viestintäteknologiaa. Teknologian käyttö edistää oppilaiden yhdenvertaisuutta ja tasa-arvoa biologian opetuksessa.\n\nBiologian opetuksessa tuetaan oppilaiden ongelmanratkaisu- ja yhteistyötaitojen sekä yhteisöllisyyden kehittymistä ja annetaan valmiuksia biologiaa hyödyntävien alojen opiskeluun sekä työelämään.\n\nBiologian opetus auttaa oppilaita ymmärtämään, miten biologian tietoja ja taitoja voidaan soveltaa ja hyödyntää omassa elämässä, eettisissä pohdinnoissa, ajankohtaisten biologiaan liittyvien uutisten seurannassa sekä siinä, kuinka yhteiskunnalliseen päätöksentekoon voidaan vaikuttaa. Biologian opetus kehittää oppilaiden ympäristötietoisuutta ja halua vaalia luonnon monimuotoisuutta. Oppilaat saavat valmiuksia vaikuttaa ja osallistua oman lähiympäristönsä kehittämiseen ja sen säilymiseen elinvoimaisena. Oppilaita ohjataan kestävään elämäntapaan ja globaalin vastuun ymmärtämiseen.",
+      "en": "The task of biology education is to help pupils understand life and its development, to increase pupils' knowledge of nature, and to guide pupils in understanding the functioning of ecosystems, human vital functions, and the basics of heredity and evolution.\n\nIn biology education, pupils also work in nature and are guided through inquiry-based learning to become familiar with the nature of biological knowledge acquisition. Both field and laboratory methods are used in the study of nature. Experiential learning sparks the joy of learning and arouses interest in observing the state of the living environment and changes occurring in it. Information and communication technology is utilised in diverse ways in studying. The use of technology promotes pupils' equality and equity in biology education.\n\nBiology education supports the development of pupils' problem-solving and collaboration skills and a sense of community, and provides readiness for studies and working life in fields that utilise biology.\n\nBiology education helps pupils understand how biological knowledge and skills can be applied and utilised in one's own life, in ethical reflection, in following current biology-related news, and in influencing societal decision-making. Biology education develops pupils' environmental awareness and desire to cherish biodiversity. Pupils gain the ability to influence and participate in the development of their own local environment and in preserving its vitality. Pupils are guided towards a sustainable way of life and understanding global responsibility."
     },
     "coreElements": [
       {
@@ -80,6 +85,98 @@
         }
       }
     ],
+    "interdisciplinaryThemes": [
+      {
+        "code": "TT1",
+        "name": {
+          "local": "Terveys ja elämänhallinta",
+          "en": "Health and life skills"
+        },
+        "description": {
+          "local": "Biologian opetuksessa terveys ja elämänhallinta toteutuvat oppilaiden tutkiessa ihmiskehon rakennetta, elintoimintoja ja säätelyjärjestelmiä. Oppilaat oppivat ymmärtämään perimän ja ympäristön vaikutuksia terveyteen sekä kasvuun ja kehitykseen vaikuttavia biologisia tekijöitä.",
+          "en": "In biology education, health and life skills are realised as pupils investigate the structure, vital functions, and regulatory systems of the human body. Pupils learn to understand the effects of heredity and the environment on health, and the biological factors affecting growth and development."
+        }
+      },
+      {
+        "code": "TT2",
+        "name": {
+          "local": "Demokratia ja kansalaisuus",
+          "en": "Democracy and citizenship"
+        },
+        "description": {
+          "local": "Biologian opetuksessa demokratia ja kansalaisuus toteutuvat oppilaiden oppiessa soveltamaan biologian tietoja yhteiskunnallisessa keskustelussa ja päätöksenteossa. Oppilaat harjoittelevat eettisesti perusteltuja valintoja ja osallistuvat luonnonsuojelun ja kestävän kehityksen edistämiseen.",
+          "en": "In biology education, democracy and citizenship are realised as pupils learn to apply biological knowledge in societal discussion and decision-making. Pupils practise making ethically justified choices and participate in promoting nature conservation and sustainable development."
+        }
+      },
+      {
+        "code": "TT3",
+        "name": {
+          "local": "Kestävä kehitys",
+          "en": "Sustainability"
+        },
+        "description": {
+          "local": "Kestävä kehitys on biologian opetuksen keskeinen teema. Oppilaat tutkivat luonnon monimuotoisuuden säilyttämistä, ilmastonmuutosta, ekosysteemipalveluiden merkitystä ja luonnonvarojen kestävää käyttöä sekä oppivat toimimaan kestävän tulevaisuuden rakentamiseksi.",
+          "en": "Sustainability is a central theme in biology education. Pupils investigate the conservation of biodiversity, climate change, the significance of ecosystem services, and the sustainable use of natural resources, and learn to act in building a sustainable future."
+        }
+      }
+    ],
+    "basicSkills": [
+      {
+        "code": "GF1",
+        "name": {
+          "local": "Suulliset taidot",
+          "en": "Oral skills"
+        },
+        "description": {
+          "local": "Suulliset taidot biologiassa tarkoittavat tutkimustulosten, havaintojen ja johtopäätösten esittämistä sekä biologisten ilmiöiden selittämistä ja niistä keskustelemista käyttäen biologian käsitteitä. Oppilas oppii perustelemaan näkemyksiään esimerkiksi ympäristökysymyksissä.",
+          "en": "Oral skills in biology mean presenting research results, observations, and conclusions, as well as explaining and discussing biological phenomena using biological concepts. The pupil learns to justify their views on, for example, environmental issues."
+        }
+      },
+      {
+        "code": "GF2",
+        "name": {
+          "local": "Kirjoittaminen",
+          "en": "Writing"
+        },
+        "description": {
+          "local": "Kirjoittaminen biologiassa tarkoittaa tutkimusraporttien, eliökokoelmien dokumentoinnin ja biologisten selitysten tuottamista. Oppilas harjoittelee tieteellisen tekstin kirjoittamista kuvaillen lajien ominaisuuksia, ekosysteemien toimintaa ja ihmisen elintoimintoja.",
+          "en": "Writing in biology means producing research reports, documenting specimen collections, and writing biological explanations. The pupil practises scientific writing by describing the characteristics of species, the functioning of ecosystems, and human vital functions."
+        }
+      },
+      {
+        "code": "GF3",
+        "name": {
+          "local": "Lukeminen",
+          "en": "Reading"
+        },
+        "description": {
+          "local": "Lukeminen biologiassa tarkoittaa tieteellisten tekstien, tutkimusaineistojen ja biologiaan liittyvien ajankohtaisten uutisten lukemista ja tulkitsemista. Oppilas kehittää kykyään arvioida kriittisesti biologista tietoa ja ymmärtää tieteellisten tutkimusten johtopäätöksiä.",
+          "en": "Reading in biology means reading and interpreting scientific texts, research materials, and current news related to biology. The pupil develops their ability to critically evaluate biological information and understand the conclusions of scientific studies."
+        }
+      },
+      {
+        "code": "GF4",
+        "name": {
+          "local": "Laskutaito",
+          "en": "Numeracy"
+        },
+        "description": {
+          "local": "Laskutaito biologiassa ilmenee mittaustulosten käsittelyssä, populaatiokokojen arvioinnissa, tilastollisten aineistojen tulkinnassa ja ekologisten riippuvuussuhteiden hahmottamisessa. Oppilas oppii käyttämään numeerista tietoa biologisten ilmiöiden kuvaamiseen.",
+          "en": "Numeracy in biology is manifested in processing measurement results, estimating population sizes, interpreting statistical data, and understanding ecological dependencies. The pupil learns to use numerical data to describe biological phenomena."
+        }
+      },
+      {
+        "code": "GF5",
+        "name": {
+          "local": "Digitaaliset taidot",
+          "en": "Digital skills"
+        },
+        "description": {
+          "local": "Digitaaliset taidot biologiassa tarkoittavat tieto- ja viestintäteknologian käyttöä lajintunnistuksessa, tutkimusaineistojen keräämisessä ja käsittelyssä sekä tulosten esittämisessä. Oppilas hyödyntää digitaalisia työkaluja, kuten tunnistussovelluksia ja simulaatioita, biologisten ilmiöiden tutkimisessa.",
+          "en": "Digital skills in biology mean using information and communication technology for species identification, collecting and processing research data, and presenting results. The pupil utilises digital tools, such as identification applications and simulations, in investigating biological phenomena."
+        }
+      }
+    ],
     "gradeBands": [
       {
         "afterGrade": 9,
@@ -95,11 +192,11 @@
               "en": "T1 guide the pupil to understand the basic structure and function of ecosystems, to compare different ecosystems, and to identify species"
             },
             "coreElements": [
-              "S4 Mitä elämä on?",
-              "S6 Kohti kestävää tulevaisuutta",
-              "S1 Biologinen tutkimus",
-              "S3 Ekosysteemin perusrakenne ja toiminta",
-              "S2 Tutkimusretkiä luontoon ja lähiympäristöön"
+              "S4",
+              "S6",
+              "S1",
+              "S3",
+              "S2"
             ],
             "verbs": []
           },
@@ -110,11 +207,11 @@
               "en": "T2 help the pupil to describe the structures and vital functions of organisms and to understand the structure of the living world"
             },
             "coreElements": [
-              "S5 Ihminen",
-              "S4 Mitä elämä on?",
-              "S1 Biologinen tutkimus",
-              "S3 Ekosysteemin perusrakenne ja toiminta",
-              "S2 Tutkimusretkiä luontoon ja lähiympäristöön"
+              "S5",
+              "S4",
+              "S1",
+              "S3",
+              "S2"
             ],
             "verbs": []
           },
@@ -125,11 +222,11 @@
               "en": "T3 guide the pupil to investigate the adaptation of organisms to different habitats and to understand the significance of diverse habitats for biodiversity"
             },
             "coreElements": [
-              "S4 Mitä elämä on?",
-              "S6 Kohti kestävää tulevaisuutta",
-              "S1 Biologinen tutkimus",
-              "S3 Ekosysteemin perusrakenne ja toiminta",
-              "S2 Tutkimusretkiä luontoon ja lähiympäristöön"
+              "S4",
+              "S6",
+              "S1",
+              "S3",
+              "S2"
             ],
             "verbs": []
           },
@@ -140,9 +237,9 @@
               "en": "T4 guide the pupil to understand the basic principles of heredity and evolution"
             },
             "coreElements": [
-              "S5 Ihminen",
-              "S4 Mitä elämä on?",
-              "S1 Biologinen tutkimus"
+              "S5",
+              "S4",
+              "S1"
             ],
             "verbs": []
           },
@@ -153,7 +250,7 @@
               "en": "T5 guide the pupil to understand human development and the basic functions of the body"
             },
             "coreElements": [
-              "S5 Ihminen"
+              "S5"
             ],
             "verbs": []
           },
@@ -164,7 +261,7 @@
               "en": "T6 guide the pupil to assess changes occurring in the natural environment and human impact on the environment, and to understand the significance of ecosystem services"
             },
             "coreElements": [
-              "S6 Kohti kestävää tulevaisuutta"
+              "S6"
             ],
             "verbs": []
           },
@@ -175,12 +272,12 @@
               "en": "T7 guide the pupil to develop scientific thinking skills and the understanding of cause-and-effect relationships"
             },
             "coreElements": [
-              "S5 Ihminen",
-              "S4 Mitä elämä on?",
-              "S6 Kohti kestävää tulevaisuutta",
-              "S1 Biologinen tutkimus",
-              "S3 Ekosysteemin perusrakenne ja toiminta",
-              "S2 Tutkimusretkiä luontoon ja lähiympäristöön"
+              "S5",
+              "S4",
+              "S6",
+              "S1",
+              "S3",
+              "S2"
             ],
             "verbs": []
           },
@@ -191,11 +288,11 @@
               "en": "T8 instruct the pupil to use biological research equipment and information and communication technology"
             },
             "coreElements": [
-              "S5 Ihminen",
-              "S4 Mitä elämä on?",
-              "S1 Biologinen tutkimus",
-              "S3 Ekosysteemin perusrakenne ja toiminta",
-              "S2 Tutkimusretkiä luontoon ja lähiympäristöön"
+              "S5",
+              "S4",
+              "S1",
+              "S3",
+              "S2"
             ],
             "verbs": []
           },
@@ -206,11 +303,11 @@
               "en": "T9 guide the pupil to compile a specimen collection and grow plants in order to understand biological phenomena"
             },
             "coreElements": [
-              "S4 Mitä elämä on?",
-              "S6 Kohti kestävää tulevaisuutta",
-              "S1 Biologinen tutkimus",
-              "S3 Ekosysteemin perusrakenne ja toiminta",
-              "S2 Tutkimusretkiä luontoon ja lähiympäristöön"
+              "S4",
+              "S6",
+              "S1",
+              "S3",
+              "S2"
             ],
             "verbs": []
           },
@@ -221,12 +318,12 @@
               "en": "T10 guide the pupil to conduct investigations both in school and outside school"
             },
             "coreElements": [
-              "S5 Ihminen",
-              "S4 Mitä elämä on?",
-              "S6 Kohti kestävää tulevaisuutta",
-              "S1 Biologinen tutkimus",
-              "S3 Ekosysteemin perusrakenne ja toiminta",
-              "S2 Tutkimusretkiä luontoon ja lähiympäristöön"
+              "S5",
+              "S4",
+              "S6",
+              "S1",
+              "S3",
+              "S2"
             ],
             "verbs": []
           },
@@ -237,7 +334,7 @@
               "en": "T11 encourage the pupil to apply biological knowledge and skills in their own life and in societal discussion and decision-making"
             },
             "coreElements": [
-              "S6 Kohti kestävää tulevaisuutta"
+              "S6"
             ],
             "verbs": []
           },
@@ -248,12 +345,12 @@
               "en": "T12 inspire the pupil to deepen their interest in nature and its phenomena and to strengthen their relationship with nature and environmental awareness"
             },
             "coreElements": [
-              "S5 Ihminen",
-              "S4 Mitä elämä on?",
-              "S6 Kohti kestävää tulevaisuutta",
-              "S1 Biologinen tutkimus",
-              "S3 Ekosysteemin perusrakenne ja toiminta",
-              "S2 Tutkimusretkiä luontoon ja lähiympäristöön"
+              "S5",
+              "S4",
+              "S6",
+              "S1",
+              "S3",
+              "S2"
             ],
             "verbs": []
           },
@@ -264,7 +361,7 @@
               "en": "T13 guide the pupil to make ethically justified choices"
             },
             "coreElements": [
-              "S6 Kohti kestävää tulevaisuutta"
+              "S6"
             ],
             "verbs": []
           },
@@ -275,7 +372,7 @@
               "en": "T14 inspire the pupil to participate and act in building a sustainable future"
             },
             "coreElements": [
-              "S6 Kohti kestävää tulevaisuutta"
+              "S6"
             ],
             "verbs": []
           }

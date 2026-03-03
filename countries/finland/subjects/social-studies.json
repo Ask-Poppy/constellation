@@ -4,13 +4,22 @@
     "api": "https://eperusteet.opintopolku.fi/eperusteet-service/api/external/peruste/419550/perusopetus/oppiaineet/478972",
     "curriculum": "POPS 2014",
     "license": "Open Government Data (Finland)",
-    "lastSynced": "2026-03-02T21:29:49Z"
+    "lastSynced": "2026-03-03T08:59:02Z",
+    "aiEnriched": [
+      "description.en",
+      "interdisciplinaryThemes",
+      "basicSkills"
+    ]
   },
   "subject": {
     "code": "YH",
     "name": {
       "local": "Yhteiskuntaoppi",
       "en": "Social Studies"
+    },
+    "description": {
+      "local": "Yhteiskuntaopin opetuksen tehtävänä on tukea oppilaiden kasvua aktiivisiksi, vastuuntuntoisiksi ja yritteliäiksi kansalaisiksi. Oppilaita ohjataan toimimaan erilaisuutta ymmärtävässä, ihmisoikeuksia ja tasa-arvoa kunnioittavassa moniarvoisessa yhteiskunnassa demokratian arvojen ja periaatteiden mukaan. Oppiaineen tehtävänä on antaa yhteiskunnan toiminnasta ja kansalaisen vaikutusmahdollisuuksista tiedollinen perusta sekä rohkaista oppilaita kehittymään oma-aloitteisiksi yhteiskunnallisiksi ja taloudellisiksi toimijoiksi.\n\nYhteiskuntaopin opetuksessa oppilaita ohjataan seuraamaan ajankohtaisia kysymyksiä ja tapahtumia sekä ymmärtämään niiden yhteyksiä omaan elämään. Keskeistä on oppia hankkimaan ja arvioimaan kriittisesti erityyppisten toimijoiden tuottamaa tietoa sekä soveltamaan sitä kohtaamissaan tilanteissa. Oppilaita kannustetaan osallistumaan sekä toimimaan aktiivisesti ja rakentavasti erilaisissa tilanteissa ja yhteisöissä. Heitä ohjataan ymmärtämään, että yhteiskunnallinen päätöksenteko perustuu valintoihin, joita tehdään vaihtoehtoisten mahdollisuuksien välillä pyrkimyksenä löytää yhteisymmärrys.",
+      "en": "The task of social studies education is to support pupils' growth as active, responsible, and enterprising citizens. Pupils are guided to act in a pluralistic society that understands diversity and respects human rights and equality, in accordance with the values and principles of democracy. The task of the subject is to provide a knowledge base about the functioning of society and citizens' opportunities for influence, and to encourage pupils to develop as self-initiative social and economic actors.\n\nIn social studies education, pupils are guided to follow current issues and events and to understand their connections to their own lives. It is essential to learn to acquire and critically evaluate information produced by different types of actors and to apply it in situations they encounter. Pupils are encouraged to participate and to act actively and constructively in various situations and communities. They are guided to understand that social decision-making is based on choices made between alternative possibilities with the aim of finding consensus."
     },
     "coreElements": [
       {
@@ -58,6 +67,98 @@
         }
       }
     ],
+    "interdisciplinaryThemes": [
+      {
+        "code": "TT1",
+        "name": {
+          "local": "Terveys ja elämänhallinta",
+          "en": "Health and life skills"
+        },
+        "description": {
+          "local": "Yhteiskuntaopin opetuksessa terveys ja elämänhallinta -teema ilmenee arkielämän hallinnan ja oman talouden hoidon opettamisena. Oppilaat oppivat tekemään vastuullisia kulutusvalintoja, hallitsemaan henkilökohtaista talouttaan ja ymmärtämään työnteon merkityksen hyvinvoinnille. Oppiaine tukee oppilaiden kykyä tehdä tietoisia päätöksiä, jotka edistävät heidän omaa ja yhteisönsä hyvinvointia.",
+          "en": "In social studies education, the theme of health and life skills manifests through teaching everyday life management and personal financial planning. Pupils learn to make responsible consumer choices, manage their personal finances, and understand the significance of work for wellbeing. The subject supports pupils' ability to make informed decisions that promote their own and their community's welfare."
+        }
+      },
+      {
+        "code": "TT2",
+        "name": {
+          "local": "Demokratia ja kansalaisuus",
+          "en": "Democracy and citizenship"
+        },
+        "description": {
+          "local": "Yhteiskuntaopin opetuksessa demokratia ja kansalaisuus on oppiaineen ydinteema. Oppilaat perehtyvät demokraattisen yhteiskunnan toimintaperiaatteisiin, oikeusvaltion rakenteeseen, ihmisoikeuksiin ja kansalaisten vaikutusmahdollisuuksiin paikalliselta tasolta EU-tasolle. Oppiaine harjaannuttaa oppilaita aktiiviseen kansalaisuuteen, yhteiskunnalliseen osallistumiseen ja rakentavaan keskusteluun eri mielipiteistä.",
+          "en": "In social studies education, democracy and citizenship is the core theme of the subject. Pupils explore the operating principles of a democratic society, the structure of the rule of law, human rights, and citizens' opportunities for influence from the local level to the EU level. The subject trains pupils in active citizenship, civic participation, and constructive discussion of different opinions."
+        }
+      },
+      {
+        "code": "TT3",
+        "name": {
+          "local": "Kestävä kehitys",
+          "en": "Sustainability"
+        },
+        "description": {
+          "local": "Yhteiskuntaopin opetuksessa kestävä kehitys -teema näkyy vastuullisen kuluttamisen, kestävän taloudellisen toiminnan ja yhteiskunnallisen päätöksenteon tarkastelussa. Oppilaat pohtivat kulutusvalintojen ympäristövaikutuksia ja taloudellisen toiminnan yhteyttä kestävään kehitykseen. Oppiaine ohjaa oppilaita ymmärtämään, miten yhteiskunnalliset rakenteet ja kansalaisten valinnat vaikuttavat ekologiseen ja sosiaaliseen kestävyyteen.",
+          "en": "In social studies education, the theme of sustainability is evident in the examination of responsible consumption, sustainable economic activity, and social decision-making. Pupils reflect on the environmental impacts of consumer choices and the connection between economic activity and sustainable development. The subject guides pupils to understand how societal structures and citizens' choices affect ecological and social sustainability."
+        }
+      }
+    ],
+    "basicSkills": [
+      {
+        "code": "GF1",
+        "name": {
+          "local": "Suulliset taidot",
+          "en": "Oral skills"
+        },
+        "description": {
+          "local": "Yhteiskuntaopin opetuksessa suulliset taidot ovat keskeisiä, kun oppilaat harjoittelevat demokraattista keskustelua, väittelyä ja omien näkemysten perustelemista. Oppilaat oppivat esittämään yhteiskunnallisia kysymyksiä ja argumentoimaan eri näkökulmista rakentavasti. Suullinen ilmaisu kehittyy myös ajankohtaisten tapahtumien käsittelyssä ja ryhmäkeskusteluissa.",
+          "en": "In social studies education, oral skills are central as pupils practise democratic discussion, debate, and justification of their own views. Pupils learn to present social issues and argue constructively from different perspectives. Oral expression also develops through the examination of current events and group discussions."
+        }
+      },
+      {
+        "code": "GF2",
+        "name": {
+          "local": "Kirjoittaminen",
+          "en": "Writing"
+        },
+        "description": {
+          "local": "Yhteiskuntaopin opetuksessa kirjoittamista harjoitellaan yhteiskunnallisten kannanottojen, mielipidekirjoitusten ja analyysien laatimisena. Oppilaat oppivat jäsentämään yhteiskunnallista tietoa kirjallisesti ja muodostamaan perusteltuja näkemyksiä ajankohtaisista kysymyksistä. Kirjoittaminen on keskeinen taito myös vaikuttamisen ja kansalaistoiminnan harjoittelussa.",
+          "en": "In social studies education, writing is practised through composing social statements, opinion pieces, and analyses. Pupils learn to organise social knowledge in written form and to formulate reasoned views on current issues. Writing is also a central skill in practising civic influence and participation."
+        }
+      },
+      {
+        "code": "GF3",
+        "name": {
+          "local": "Lukeminen",
+          "en": "Reading"
+        },
+        "description": {
+          "local": "Yhteiskuntaopin opetuksessa lukutaito kehittyy, kun oppilaat lukevat ja arvioivat kriittisesti eri toimijoiden tuottamaa yhteiskunnallista tietoa, uutisia ja mediatekstejä. Oppilaat harjoittelevat tunnistamaan erilaisia arvoja, näkökulmia ja tarkoitusperiä teksteistä. Lukutaito on olennainen osa mediakriittisyyden ja tiedonhankinnan taitojen kehittämistä.",
+          "en": "In social studies education, reading skills develop as pupils read and critically evaluate social information produced by different actors, news, and media texts. Pupils practise identifying different values, perspectives, and purposes in texts. Reading is an essential part of developing media literacy and information acquisition skills."
+        }
+      },
+      {
+        "code": "GF4",
+        "name": {
+          "local": "Laskutaito",
+          "en": "Numeracy"
+        },
+        "description": {
+          "local": "Yhteiskuntaopin opetuksessa laskutaito ilmenee henkilökohtaisen talouden hallinnassa, budjetoinnissa sekä taloudellisten tilastojen ja diagrammien tulkinnassa. Oppilaat harjoittelevat rahankäyttöön, säästämiseen ja prosenttilaskuihin liittyviä taitoja arjen taloudellisissa tilanteissa. Numeerinen osaaminen auttaa oppilaita ymmärtämään yhteiskunnan taloudellisia rakenteita ja tekemään perusteltuja taloudellisia päätöksiä.",
+          "en": "In social studies education, numeracy manifests in personal financial management, budgeting, and the interpretation of economic statistics and diagrams. Pupils practise skills related to spending, saving, and percentage calculations in everyday financial situations. Numerical competence helps pupils understand the economic structures of society and make informed financial decisions."
+        }
+      },
+      {
+        "code": "GF5",
+        "name": {
+          "local": "Digitaaliset taidot",
+          "en": "Digital skills"
+        },
+        "description": {
+          "local": "Yhteiskuntaopin opetuksessa digitaaliset taidot kehittyvät, kun oppilaat käyttävät digitaalisia lähteitä yhteiskunnallisen tiedon hankintaan ja sen luotettavuuden arviointiin. Oppilaat harjoittelevat turvallista ja yhteiskunnallisesti tiedostavaa median käyttöä sekä digitaalista osallistumista. Tieto- ja viestintäteknologia mahdollistaa ajankohtaisten yhteiskunnallisten ilmiöiden seuraamisen ja niihin vaikuttamisen.",
+          "en": "In social studies education, digital skills develop as pupils use digital sources for acquiring social knowledge and evaluating its reliability. Pupils practise safe and socially aware media use as well as digital participation. Information and communication technology enables following and influencing current social phenomena."
+        }
+      }
+    ],
     "gradeBands": [
       {
         "afterGrade": 6,
@@ -73,10 +174,10 @@
               "en": "T1 guide the pupil to become interested in the surrounding society and social studies as a field of knowledge"
             },
             "coreElements": [
-              "S1 Arkielämä ja oman elämän hallinta",
-              "S2 Demokraattinen yhteiskunta",
-              "S3 Aktiivinen kansalaisuus ja vaikuttaminen",
-              "S4 Taloudellinen toiminta"
+              "S1",
+              "S2",
+              "S3",
+              "S4"
             ],
             "verbs": []
           },
@@ -87,10 +188,10 @@
               "en": "T2 support the pupil in developing their ethical judgement regarding various human, social and economic issues"
             },
             "coreElements": [
-              "S1 Arkielämä ja oman elämän hallinta",
-              "S2 Demokraattinen yhteiskunta",
-              "S3 Aktiivinen kansalaisuus ja vaikuttaminen",
-              "S4 Taloudellinen toiminta"
+              "S1",
+              "S2",
+              "S3",
+              "S4"
             ],
             "verbs": []
           },
@@ -101,9 +202,9 @@
               "en": "T3 guide the pupil to perceive themselves as an individual and as a member of various communities, to understand the significance of human rights and equality, and to grasp the legal principles of society"
             },
             "coreElements": [
-              "S1 Arkielämä ja oman elämän hallinta",
-              "S2 Demokraattinen yhteiskunta",
-              "S3 Aktiivinen kansalaisuus ja vaikuttaminen"
+              "S1",
+              "S2",
+              "S3"
             ],
             "verbs": []
           },
@@ -114,10 +215,10 @@
               "en": "T4 guide the pupil to examine the role and significance of media in their own daily life and in society"
             },
             "coreElements": [
-              "S1 Arkielämä ja oman elämän hallinta",
-              "S2 Demokraattinen yhteiskunta",
-              "S3 Aktiivinen kansalaisuus ja vaikuttaminen",
-              "S4 Taloudellinen toiminta"
+              "S1",
+              "S2",
+              "S3",
+              "S4"
             ],
             "verbs": []
           },
@@ -128,8 +229,8 @@
               "en": "T5 guide the pupil to realise the significance of work and entrepreneurship in their local community"
             },
             "coreElements": [
-              "S1 Arkielämä ja oman elämän hallinta",
-              "S4 Taloudellinen toiminta"
+              "S1",
+              "S4"
             ],
             "verbs": []
           },
@@ -140,9 +241,9 @@
               "en": "T6 support the pupil in understanding that social information produced by different actors involves different values, perspectives and purposes"
             },
             "coreElements": [
-              "S1 Arkielämä ja oman elämän hallinta",
-              "S2 Demokraattinen yhteiskunta",
-              "S3 Aktiivinen kansalaisuus ja vaikuttaminen"
+              "S1",
+              "S2",
+              "S3"
             ],
             "verbs": []
           },
@@ -153,9 +254,9 @@
               "en": "T7 encourage the pupil to practise basic skills of democratic participation and to discuss different opinions constructively"
             },
             "coreElements": [
-              "S1 Arkielämä ja oman elämän hallinta",
-              "S2 Demokraattinen yhteiskunta",
-              "S3 Aktiivinen kansalaisuus ja vaikuttaminen"
+              "S1",
+              "S2",
+              "S3"
             ],
             "verbs": []
           },
@@ -166,8 +267,8 @@
               "en": "T8 support the pupil in understanding the bases of personal money management and consumer choices, and in practising related skills"
             },
             "coreElements": [
-              "S1 Arkielämä ja oman elämän hallinta",
-              "S4 Taloudellinen toiminta"
+              "S1",
+              "S4"
             ],
             "verbs": []
           },
@@ -178,8 +279,8 @@
               "en": "T9 encourage the pupil to participate in the activities of various communities and to practise using media in a safe and socially aware manner"
             },
             "coreElements": [
-              "S1 Arkielämä ja oman elämän hallinta",
-              "S3 Aktiivinen kansalaisuus ja vaikuttaminen"
+              "S1",
+              "S3"
             ],
             "verbs": []
           }
@@ -199,10 +300,10 @@
               "en": "T1 guide the pupil to deepen their interest in the surrounding society and strengthen their interest in social studies as a field of knowledge"
             },
             "coreElements": [
-              "S4 Taloudellinen toiminta",
-              "S3 Aktiivinen kansalaisuus ja vaikuttaminen",
-              "S2 Demokraattinen yhteiskunta",
-              "S1 Arkielämä ja oman elämän hallinta"
+              "S4",
+              "S3",
+              "S2",
+              "S1"
             ],
             "verbs": []
           },
@@ -213,10 +314,10 @@
               "en": "T2 guide the pupil to develop their ethical judgement regarding various human, social and economic issues"
             },
             "coreElements": [
-              "S4 Taloudellinen toiminta",
-              "S3 Aktiivinen kansalaisuus ja vaikuttaminen",
-              "S2 Demokraattinen yhteiskunta",
-              "S1 Arkielämä ja oman elämän hallinta"
+              "S4",
+              "S3",
+              "S2",
+              "S1"
             ],
             "verbs": []
           },
@@ -227,8 +328,8 @@
               "en": "T3 guide the pupil to understand the principles of the rule of law, the universal significance of human rights, and to deepen their knowledge of how the Finnish legal system operates"
             },
             "coreElements": [
-              "S3 Aktiivinen kansalaisuus ja vaikuttaminen",
-              "S2 Demokraattinen yhteiskunta"
+              "S3",
+              "S2"
             ],
             "verbs": []
           },
@@ -239,9 +340,9 @@
               "en": "T4 guide the pupil to deepen and keep up to date their knowledge and skills regarding society, the functioning of the economy and personal finances, and to critically evaluate the role and significance of media"
             },
             "coreElements": [
-              "S3 Aktiivinen kansalaisuus ja vaikuttaminen",
-              "S2 Demokraattinen yhteiskunta",
-              "S1 Arkielämä ja oman elämän hallinta"
+              "S3",
+              "S2",
+              "S1"
             ],
             "verbs": []
           },
@@ -252,8 +353,8 @@
               "en": "T5 encourage the pupil to develop into an enterprising and responsible economic actor who is familiar with entrepreneurship and working life as well as the opportunities they offer, and who can plan their own future"
             },
             "coreElements": [
-              "S4 Taloudellinen toiminta",
-              "S1 Arkielämä ja oman elämän hallinta"
+              "S4",
+              "S1"
             ],
             "verbs": []
           },
@@ -264,9 +365,9 @@
               "en": "T6 guide the pupil to examine social activities as well as different communities and minority groups in a versatile and open-minded manner"
             },
             "coreElements": [
-              "S3 Aktiivinen kansalaisuus ja vaikuttaminen",
-              "S2 Demokraattinen yhteiskunta",
-              "S1 Arkielämä ja oman elämän hallinta"
+              "S3",
+              "S2",
+              "S1"
             ],
             "verbs": []
           },
@@ -277,9 +378,9 @@
               "en": "T7 guide the pupil to understand the principles of social decision-making and democratic procedures at the local, national and European Union levels as well as globally, and to act as an active citizen who contributes to developing their local community"
             },
             "coreElements": [
-              "S3 Aktiivinen kansalaisuus ja vaikuttaminen",
-              "S2 Demokraattinen yhteiskunta",
-              "S1 Arkielämä ja oman elämän hallinta"
+              "S3",
+              "S2",
+              "S1"
             ],
             "verbs": []
           },
@@ -290,8 +391,8 @@
               "en": "T8 guide the pupil to understand the basics of economics, to manage personal finances and to consume responsibly in accordance with the principles of sustainable development"
             },
             "coreElements": [
-              "S4 Taloudellinen toiminta",
-              "S1 Arkielämä ja oman elämän hallinta"
+              "S4",
+              "S1"
             ],
             "verbs": []
           },
@@ -302,10 +403,10 @@
               "en": "T9 guide the pupil to broaden their views, to participate in social activities and discussion, and to use their media skills and knowledge of society in forming their own opinions and acting as a citizen"
             },
             "coreElements": [
-              "S4 Taloudellinen toiminta",
-              "S3 Aktiivinen kansalaisuus ja vaikuttaminen",
-              "S2 Demokraattinen yhteiskunta",
-              "S1 Arkielämä ja oman elämän hallinta"
+              "S4",
+              "S3",
+              "S2",
+              "S1"
             ],
             "verbs": []
           }

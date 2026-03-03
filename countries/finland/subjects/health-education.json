@@ -4,13 +4,22 @@
     "api": "https://eperusteet.opintopolku.fi/eperusteet-service/api/external/peruste/419550/perusopetus/oppiaineet/478973",
     "curriculum": "POPS 2014",
     "license": "Open Government Data (Finland)",
-    "lastSynced": "2026-03-02T21:29:45Z"
+    "lastSynced": "2026-03-03T08:58:59Z",
+    "aiEnriched": [
+      "description.en",
+      "interdisciplinaryThemes",
+      "basicSkills"
+    ]
   },
   "subject": {
     "code": "TE",
     "name": {
       "local": "Terveystieto",
       "en": "Health Education"
+    },
+    "description": {
+      "local": "Terveystieto on monitieteiseen tietoperustaan pohjautuva oppiaine. Terveystiedon opetuksen tehtävänä on oppilaiden monipuolisen terveysosaamisen kehittäminen. Lähtökohtana on elämän kunnioittaminen ja ihmisoikeuksien mukainen arvokas elämä. Terveyteen, hyvinvointiin ja turvallisuuteen liittyviä ilmiöitä tarkastellaan ikäkaudelle sopivalla tavalla terveysosaamisen eri osa-alueiden kautta. Näitä ovat terveyteen liittyvät tiedot, taidot, itsetuntemus, kriittinen ajattelu sekä eettinen vastuullisuus.\n\nOpetuksessa huomioidaan terveyteen liittyvien ilmiöiden moniulotteisuus ja -tasoisuus: terveyttä tukevat ja kuluttavat fyysiset, psyykkiset ja sosiaaliset tekijät sekä näiden väliset yhteydet ja syy-seuraussuhteet. Terveyttä tarkastellaan ihmisen elämänkulun eri vaiheissa, yksilön, perheen, yhteisön ja yhteiskunnan tasolla sekä soveltuvin osin myös globaalisti. Oppilaiden kehittyessä ja elinpiirin kasvaessa terveyteen liittyvien kysymysten tarkastelu laajenee ja syvenee. Keskeistä on ohjata oppilaita ymmärtämään terveyttä voimavarana jokapäiväisessä elämässä, elinympäristössä ja yhteiskunnassa. Opetuksen tulee tukea oppilaiden yksilöllistä ja yhteisöllistä tiedon hankintaa, rakentamista, arviointia ja käyttämistä. Lisäksi tuetaan turvallisuustaitoihin, sosiaalisiin taitoihin sekä tunteiden tunnistamiseen ja säätelyyn liittyvien valmiuksien kehittymistä.\n\nTerveysosaamisen avulla oppilaat hahmottavat terveyden laaja-alaisuutta ja saavat valmiuksia tehdä tarkoituksenmukaisia ja perusteltuja terveyteen liittyviä valintoja ja päätöksiä. Terveysosaaminen lisää kykyä tunnistaa ja muokata tekijöitä, jotka mahdollistavat oppilaiden oman ja ympäristönsä terveyden ja hyvinvoinnin arvostamisen, ylläpitämisen ja edistämisen. Opetuksessa hyödynnetään mahdollisuuksia havainnoida ja tutkia terveyteen ja turvallisuuteen liittyviä ilmiöitä omassa elin-, ja oppimisympäristössä, tehdä yhteistyötä eri oppiaineiden kanssa sekä harjoitella ja soveltaa osaamista käytännössä.\n\nTerveystietoa opetetaan vuosiluokilla 1-6 osana ympäristöoppia. Vuosiluokilla 7-9 opetuksessa syvennetään ja laajennetaan alempien vuosiluokkien aikana käsiteltyjä teemoja ikäkauden mukaisesti. Opetuksessa pyritään aiempaa tarkempaan tiedonalakohtaiseen käsitteiden käyttöön ja vahvistetaan kriittiseen ajatteluun, itsetuntemukseen ja eettiseen pohdintaan liittyvää osaamista ikäkauden mukaisesti. Opetuksessa eri vuosiluokilla otetaan huomioon opetettavan aineksen ja siihen liittyvän osaamisen merkitys oppilaiden ikäkauden ja kehitysvaiheen näkökulmasta.",
+      "en": "Health education is a subject based on a multidisciplinary knowledge base. The task of health education is to develop pupils' comprehensive health competence. The starting point is respect for life and a dignified life in accordance with human rights. Phenomena related to health, wellbeing, and safety are examined in an age-appropriate manner through the different areas of health competence. These include health-related knowledge, skills, self-knowledge, critical thinking, and ethical responsibility.\n\nTeaching takes into account the multidimensionality and multi-level nature of health-related phenomena: the physical, psychological, and social factors that support and undermine health, as well as the connections and cause-and-effect relationships between them. Health is examined at different stages of the human life course, at the levels of the individual, the family, the community, and society, and where applicable, also globally. As pupils develop and their sphere of life expands, the examination of health-related issues broadens and deepens. It is essential to guide pupils to understand health as a resource in everyday life, in the living environment, and in society. Teaching must support pupils' individual and communal acquisition, construction, evaluation, and use of knowledge. In addition, the development of competencies related to safety skills, social skills, and the recognition and regulation of emotions is supported.\n\nThrough health competence, pupils perceive the broad scope of health and gain readiness to make purposeful and informed health-related choices and decisions. Health competence increases the ability to identify and modify factors that enable pupils to value, maintain, and promote the health and wellbeing of themselves and their environment. Teaching makes use of opportunities to observe and investigate health- and safety-related phenomena in one's own living and learning environment, to cooperate with other subjects, and to practise and apply competence in practice.\n\nHealth education is taught in grades 1-6 as part of environmental studies. In grades 7-9, the themes addressed in the lower grades are deepened and broadened in an age-appropriate manner. Teaching aims for more precise use of discipline-specific concepts and strengthens competence related to critical thinking, self-knowledge, and ethical reflection in an age-appropriate manner. At different grade levels, the significance of the content and related competence is considered from the perspective of the pupils' age and stage of development."
     },
     "coreElements": [
       {
@@ -47,6 +56,98 @@
         }
       }
     ],
+    "interdisciplinaryThemes": [
+      {
+        "code": "TT1",
+        "name": {
+          "local": "Terveys ja elämänhallinta",
+          "en": "Health and life skills"
+        },
+        "description": {
+          "local": "Terveystiedon opetuksessa terveys ja elämänhallinta on oppiaineen ydinteema. Oppilaat kehittävät kokonaisvaltaista terveysosaamistaan, johon kuuluu fyysisen, psyykkisen ja sosiaalisen terveyden ymmärtäminen, terveyttä edistävien valintojen tekeminen sekä oman hyvinvoinnin ylläpitäminen. Oppiaine tukee oppilaiden tunne- ja vuorovaikutustaitojen, turvataitojen sekä stressinhallintakyvyn kehittymistä koko elämänkaaren näkökulmasta.",
+          "en": "In health education, health and life skills is the core theme of the subject. Pupils develop their comprehensive health competence, which includes understanding physical, psychological, and social health, making health-promoting choices, and maintaining personal wellbeing. The subject supports the development of pupils' emotional and social interaction skills, safety skills, and stress management abilities from a life-course perspective."
+        }
+      },
+      {
+        "code": "TT2",
+        "name": {
+          "local": "Demokratia ja kansalaisuus",
+          "en": "Democracy and citizenship"
+        },
+        "description": {
+          "local": "Terveystiedon opetuksessa demokratia ja kansalaisuus -teema näkyy oppilaiden ohjaamisena tunnistamaan omia oikeuksiaan ja vastuuttaan terveyttä ja turvallisuutta koskevissa asioissa. Oppilaat pohtivat yhdenvertaisuutta, kansalaisten osallisuutta ja ihmisoikeuksien merkitystä terveyden edistämisessä. Oppiaine kehittää oppilaiden valmiuksia arvioida kriittisesti terveyteen liittyvää viestintää ja vaikuttaa lähiyhteisönsä hyvinvointiin.",
+          "en": "In health education, the theme of democracy and citizenship manifests through guiding pupils to recognise their own rights and responsibilities in matters concerning health and safety. Pupils reflect on equality, civic participation, and the significance of human rights in health promotion. The subject develops pupils' readiness to critically evaluate health-related communication and to influence the wellbeing of their local community."
+        }
+      },
+      {
+        "code": "TT3",
+        "name": {
+          "local": "Kestävä kehitys",
+          "en": "Sustainability"
+        },
+        "description": {
+          "local": "Terveystiedon opetuksessa kestävä kehitys -teema ilmenee kestävän elämäntavan, sosiaalisen kestävyyden ja vastuullisen kuluttamisen tarkastelussa terveyden näkökulmasta. Oppilaat pohtivat elinympäristön terveysvaikutuksia ja ympäristön terveysriskejä sekä kulttuurin merkitystä terveyden edistämisessä. Oppiaine auttaa oppilaita ymmärtämään terveyden ja ympäristön välisen yhteyden sekä omien valintojen vaikutuksen kestävään hyvinvointiin.",
+          "en": "In health education, the theme of sustainability manifests in the examination of sustainable lifestyle, social sustainability, and responsible consumption from a health perspective. Pupils reflect on the health effects of the living environment and environmental health risks, as well as the significance of culture in health promotion. The subject helps pupils understand the connection between health and the environment and the impact of personal choices on sustainable wellbeing."
+        }
+      }
+    ],
+    "basicSkills": [
+      {
+        "code": "GF1",
+        "name": {
+          "local": "Suulliset taidot",
+          "en": "Oral skills"
+        },
+        "description": {
+          "local": "Terveystiedon opetuksessa suulliset taidot kehittyvät, kun oppilaat keskustelevat terveyteen ja hyvinvointiin liittyvistä aiheista, ilmaisevat tunteitaan ja harjoittelevat vuorovaikutustaitoja. Oppilaat oppivat kuvaamaan suullisesti terveyteen liittyviä ilmiöitä käyttäen terveystiedon käsitteistöä. Suullinen ilmaisu on keskeistä myös ristiriitojen rakentavassa käsittelyssä ja avun hakemisen harjoittelussa.",
+          "en": "In health education, oral skills develop as pupils discuss topics related to health and wellbeing, express their emotions, and practise interaction skills. Pupils learn to describe health-related phenomena orally using health education terminology. Oral expression is also central to the constructive handling of conflicts and practising how to seek help."
+        }
+      },
+      {
+        "code": "GF2",
+        "name": {
+          "local": "Kirjoittaminen",
+          "en": "Writing"
+        },
+        "description": {
+          "local": "Terveystiedon opetuksessa kirjoittamista harjoitellaan terveyteen liittyvien pohdintojen, analyysien ja itsearvioinnin kautta. Oppilaat oppivat jäsentämään terveyteen liittyvää tietoa kirjallisesti ja perustelemaan terveyteen liittyviä valintojaan. Kirjoittaminen tukee itsetuntemuksen kehittymistä ja kriittisen ajattelun harjoittelua terveystiedon kontekstissa.",
+          "en": "In health education, writing is practised through health-related reflections, analyses, and self-evaluation. Pupils learn to organise health-related information in written form and to justify their health-related choices. Writing supports the development of self-knowledge and the practice of critical thinking in the context of health education."
+        }
+      },
+      {
+        "code": "GF3",
+        "name": {
+          "local": "Lukeminen",
+          "en": "Reading"
+        },
+        "description": {
+          "local": "Terveystiedon opetuksessa lukutaito kehittyy, kun oppilaat lukevat ja arvioivat kriittisesti terveyteen liittyvää tietoa eri lähteistä, kuten tutkimuksista, mediateksteistä ja terveysmarkkinoinnin materiaaleista. Oppilaat harjoittelevat tunnistamaan luotettavaa ja epäluotettavaa terveystietoa. Lukutaito on olennainen osa terveysosaamisen kehittämistä ja tietoisten valintojen tekemistä.",
+          "en": "In health education, reading skills develop as pupils read and critically evaluate health-related information from various sources, such as research, media texts, and health marketing materials. Pupils practise identifying reliable and unreliable health information. Reading is an essential part of developing health competence and making informed choices."
+        }
+      },
+      {
+        "code": "GF4",
+        "name": {
+          "local": "Laskutaito",
+          "en": "Numeracy"
+        },
+        "description": {
+          "local": "Terveystiedon opetuksessa laskutaito ilmenee terveystilastojen, ravitsemustietojen ja liikuntasuositusten numeeristen tietojen tulkinnassa. Oppilaat oppivat lukemaan ja tulkitsemaan terveyteen liittyviä tilastoja, diagrammeja ja prosenttilukuja. Numeerinen osaaminen auttaa oppilaita arvioimaan terveyteen liittyviä riskejä ja tekemään perusteltuja terveyspäätöksiä.",
+          "en": "In health education, numeracy manifests in the interpretation of numerical data in health statistics, nutritional information, and physical activity recommendations. Pupils learn to read and interpret health-related statistics, diagrams, and percentages. Numerical competence helps pupils evaluate health-related risks and make informed health decisions."
+        }
+      },
+      {
+        "code": "GF5",
+        "name": {
+          "local": "Digitaaliset taidot",
+          "en": "Digital skills"
+        },
+        "description": {
+          "local": "Terveystiedon opetuksessa digitaaliset taidot kehittyvät, kun oppilaat etsivät ja arvioivat terveyteen liittyvää tietoa digitaalisista lähteistä ja tunnistavat terveysmarkkinoinnin keinoja verkossa. Oppilaat harjoittelevat tieto- ja viestintäteknologian turvallista käyttöä terveyden ja hyvinvoinnin näkökulmasta. Digitaalinen osaaminen tukee oppilaiden kykyä hyödyntää terveyspalveluja ja terveystietoa vastuullisesti.",
+          "en": "In health education, digital skills develop as pupils search for and evaluate health-related information from digital sources and identify health marketing techniques online. Pupils practise safe use of information and communication technology from the perspective of health and wellbeing. Digital competence supports pupils' ability to utilise health services and health information responsibly."
+        }
+      }
+    ],
     "gradeBands": [
       {
         "afterGrade": 9,
@@ -62,9 +163,9 @@
               "en": "T1 guide the pupil to understand the multidimensional nature of health, health promotion, and the life course, growth, and development from a resource-based perspective"
             },
             "coreElements": [
-              "S3 Terveys, yhteisöt, yhteiskunta ja kulttuuri",
-              "S2 Terveyttä tukevat ja kuluttavat tekijät sekä sairauksien ehkäisy",
-              "S1 Terveyttä tukeva kasvu ja kehitys"
+              "S3",
+              "S2",
+              "S1"
             ],
             "verbs": []
           },
@@ -75,7 +176,7 @@
               "en": "T2 guide the pupil to develop their competencies in emotional and social interaction skills and the ability to act in various conflict and crisis situations"
             },
             "coreElements": [
-              "S1 Terveyttä tukeva kasvu ja kehitys"
+              "S1"
             ],
             "verbs": []
           },
@@ -86,7 +187,7 @@
               "en": "T3 guide the pupil to develop their self-knowledge, the ability to recognise their own values and attitudes as well as bodily and mental signals, and to regulate factors that support their behaviour, learning, and studying"
             },
             "coreElements": [
-              "S1 Terveyttä tukeva kasvu ja kehitys"
+              "S1"
             ],
             "verbs": []
           },
@@ -97,8 +198,8 @@
               "en": "T4 guide the pupil to reflect on questions related to individuality, community, and equality from a health perspective, and to support the pupil's ability to create responsible solutions in interpersonal interaction situations"
             },
             "coreElements": [
-              "S3 Terveys, yhteisöt, yhteiskunta ja kulttuuri",
-              "S1 Terveyttä tukeva kasvu ja kehitys"
+              "S3",
+              "S1"
             ],
             "verbs": []
           },
@@ -109,9 +210,9 @@
               "en": "T5 guide the pupil to deepen their understanding of physical, psychological, and social health and the factors and mechanisms that strengthen and jeopardise them, and to support the pupil's ability to use related concepts appropriately"
             },
             "coreElements": [
-              "S3 Terveys, yhteisöt, yhteiskunta ja kulttuuri",
-              "S2 Terveyttä tukevat ja kuluttavat tekijät sekä sairauksien ehkäisy",
-              "S1 Terveyttä tukeva kasvu ja kehitys"
+              "S3",
+              "S2",
+              "S1"
             ],
             "verbs": []
           },
@@ -119,11 +220,11 @@
             "code": "",
             "text": {
               "local": "T 6 tukea oppilaan kehittymistä terveyteen ja sairauteen liittyvän tiedon hankkijana ja käyttäjänä sekä edistää valmiuksia toimia tarkoituksenmukaisesti terveyteen, turvallisuuteen ja sairauksiin liittyvissä tilanteissa",
-              "en": "T6 support the pupil's development as an acquirer and user of health- and illness-related information, and promote the ability to act appropriately in situations related to health, safety, and illness"
+              "en": "T12 support the pupil's ability to critically evaluate health- and illness-related communication and to analyse the individual's rights, responsibilities, and means of influence in matters concerning health and safety in their own learning environment and local communities"
             },
             "coreElements": [
-              "S3 Terveys, yhteisöt, yhteiskunta ja kulttuuri",
-              "S2 Terveyttä tukevat ja kuluttavat tekijät sekä sairauksien ehkäisy"
+              "S3",
+              "S2"
             ],
             "verbs": []
           },
@@ -134,8 +235,8 @@
               "en": "T7 guide the pupil to recognise and evaluate their own health- and safety-related habits, choices, and the reasoning behind them, and to encourage the pupil to reflect on resources that are significant for their own health"
             },
             "coreElements": [
-              "S2 Terveyttä tukevat ja kuluttavat tekijät sekä sairauksien ehkäisy",
-              "S1 Terveyttä tukeva kasvu ja kehitys"
+              "S2",
+              "S1"
             ],
             "verbs": []
           },
@@ -143,12 +244,12 @@
             "code": "",
             "text": {
               "local": "T 8 ohjata oppilasta tunnistamaan ja tarkastelemaan kriittisesti terveyteen ja sairauteen liittyviä ilmiöitä, niihin liittyviä arvoja ja normeja sekä arvioimaan tiedon luotettavuutta ja merkitystä",
-              "en": "T8 guide the pupil to identify and critically examine phenomena related to health and illness, the values and norms associated with them, and to evaluate the reliability and significance of information"
+              "en": "T12 support the pupil's ability to critically evaluate health- and illness-related communication and to analyse the individual's rights, responsibilities, and means of influence in matters concerning health and safety in their own learning environment and local communities"
             },
             "coreElements": [
-              "S3 Terveys, yhteisöt, yhteiskunta ja kulttuuri",
-              "S2 Terveyttä tukevat ja kuluttavat tekijät sekä sairauksien ehkäisy",
-              "S1 Terveyttä tukeva kasvu ja kehitys"
+              "S3",
+              "S2",
+              "S1"
             ],
             "verbs": []
           },
@@ -156,10 +257,10 @@
             "code": "",
             "text": {
               "local": "T 9 ohjata oppilasta ymmärtämään ympäristön, yhteisöjen, kulttuurin, ja tieto- ja viestintäteknologian merkitystä terveydelle ja hyvinvoinnille",
-              "en": "T9 guide the pupil to understand the significance of the environment, communities, culture, and information and communication technology for health and well-being"
+              "en": "T12 support the pupil's ability to critically evaluate health- and illness-related communication and to analyse the individual's rights, responsibilities, and means of influence in matters concerning health and safety in their own learning environment and local communities"
             },
             "coreElements": [
-              "S3 Terveys, yhteisöt, yhteiskunta ja kulttuuri"
+              "S3"
             ],
             "verbs": []
           },
@@ -167,11 +268,11 @@
             "code": "",
             "text": {
               "local": "T 10 ohjata oppilasta luomaan perustaa opiskelu-, toiminta- ja työkyvylle ja sen ylläpitämiselle sekä kuvaamaan terveyspalvelujen asianmukaista käyttöä",
-              "en": "T10 guide the pupil to build a foundation for and maintain study, functional, and work capacity, and to describe the appropriate use of health services"
+              "en": "T12 support the pupil's ability to critically evaluate health- and illness-related communication and to analyse the individual's rights, responsibilities, and means of influence in matters concerning health and safety in their own learning environment and local communities"
             },
             "coreElements": [
-              "S2 Terveyttä tukevat ja kuluttavat tekijät sekä sairauksien ehkäisy",
-              "S1 Terveyttä tukeva kasvu ja kehitys"
+              "S2",
+              "S1"
             ],
             "verbs": []
           },
@@ -179,12 +280,12 @@
             "code": "",
             "text": {
               "local": "T 11 ohjata oppilasta ymmärtämään ja arvioimaan perheen ja omaan elämänpiiriin kuuluvien ihmisten ja yhteisöjen edustamia terveyskäsityksiä, tunnistamaan niiden merkitystä itselle sekä muodostamaan kuvaa itselle sopivista oppimisen keinoista.",
-              "en": "T11 guide the pupil to understand and evaluate the health conceptions held by the family and people and communities in their own sphere of life, to recognise their significance for oneself, and to form a picture of suitable learning strategies for themselves"
+              "en": "T12 support the pupil's ability to critically evaluate health- and illness-related communication and to analyse the individual's rights, responsibilities, and means of influence in matters concerning health and safety in their own learning environment and local communities"
             },
             "coreElements": [
-              "S3 Terveys, yhteisöt, yhteiskunta ja kulttuuri",
-              "S2 Terveyttä tukevat ja kuluttavat tekijät sekä sairauksien ehkäisy",
-              "S1 Terveyttä tukeva kasvu ja kehitys"
+              "S3",
+              "S2",
+              "S1"
             ],
             "verbs": []
           },
@@ -195,7 +296,7 @@
               "en": "T12 support the pupil's ability to critically evaluate health- and illness-related communication and to analyse the individual's rights, responsibilities, and means of influence in matters concerning health and safety in their own learning environment and local communities"
             },
             "coreElements": [
-              "S3 Terveys, yhteisöt, yhteiskunta ja kulttuuri"
+              "S3"
             ],
             "verbs": []
           }

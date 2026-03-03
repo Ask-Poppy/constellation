@@ -4,13 +4,18 @@
     "api": "https://api.skolverket.se/syllabus/v1/subjects/GRGRENG01",
     "curriculum": "Lgr22",
     "license": "CC0",
-    "lastSynced": "2026-03-02T21:29:30Z"
+    "lastSynced": "2026-03-03T08:58:52Z",
+    "aiEnriched": ["description.en", "interdisciplinaryThemes", "basicSkills"]
   },
   "subject": {
     "code": "GRGRENG01",
     "name": {
       "local": "Engelska",
       "en": "English"
+    },
+    "description": {
+      "local": "Undervisningen i ämnet engelska ska syfta till att eleverna utvecklar kunskaper i engelska språket och kunskaper om områden och sammanhang där engelska används. Undervisningen ska ge eleverna förutsättningar att utveckla sin flerspråkighet samt tilltro till sin förmåga att använda språket i olika situationer och för skilda syften. Genom undervisningen ska eleverna ges möjlighet att utveckla en allsidig kommunikativ förmåga. Denna förmåga innebär att förstå talat och skrivet språk, att kunna formulera sig och samspela med andra i tal och skrift och att kunna anpassa sitt språk till olika situationer, syften och mottagare. I den kommunikativa förmågan ingår även språklig säkerhet och att kunna använda olika strategier för att underlätta kommunikationen när språkkunskaperna inte räcker till. I mötet med talat språk och texter ska eleverna ges möjlighet att utveckla förmågan att sätta innehållet i relation till egna erfarenheter, livsvillkor och intressen. Undervisningen ska även ge eleverna möjligheter att utveckla förståelse av olika livsvillkor samt kulturella och sociala förhållanden i områden och i sammanhang där engelska används. Undervisningen ska bidra till att eleverna utvecklar kunskaper i att söka, värdera, välja och tillägna sig innehållet i talat språk och texter från olika källor. De ska också ges förutsättningar att kunna använda olika hjälpmedel för lärande, förståelse, skapande och kommunikation. Undervisningen ska stimulera elevernas intresse för språk och kulturer och förmedla nyttan av språkkunskaper. Undervisningen i ämnet engelska ska ge eleverna förutsättningar att utveckla",
+      "en": "Teaching in the subject of English shall aim to help pupils develop knowledge of the English language and knowledge of areas and contexts where English is used. Teaching shall give pupils the conditions to develop their multilingualism and confidence in their ability to use the language in different situations and for various purposes. Through teaching, pupils shall be given the opportunity to develop a comprehensive communicative ability. This ability entails understanding spoken and written language, being able to express oneself and interact with others in speech and writing, and being able to adapt one's language to different situations, purposes and audiences. The communicative ability also includes linguistic confidence and being able to use different strategies to facilitate communication when language skills are insufficient. In encounters with spoken language and texts, pupils shall be given the opportunity to develop the ability to relate content to their own experiences, living conditions and interests. Teaching shall also give pupils opportunities to develop understanding of different living conditions and cultural and social circumstances in areas and contexts where English is used. Teaching shall contribute to pupils developing skills in searching for, evaluating, selecting and assimilating content in spoken language and texts from different sources. They shall also be given the conditions to use different tools for learning, understanding, creating and communicating. Teaching shall stimulate pupils' interest in languages and cultures and convey the benefits of language skills."
     },
     "coreElements": [
       {
@@ -55,6 +60,98 @@
         "description": {
           "local": "förståelse av kulturella och sociala förhållanden i olika sammanhang och områden där engelska används.",
           "en": "understanding of cultural and social conditions in different contexts and areas where English is used."
+        }
+      }
+    ],
+    "interdisciplinaryThemes": [
+      {
+        "code": "TT1",
+        "name": {
+          "local": "Hälsa och livskompetens",
+          "en": "Health and life skills"
+        },
+        "description": {
+          "local": "Engelska bidrar till hälsa och livskompetens genom att ge eleverna tillgång till information och kommunikation på ett globalt språk. Förmågan att förstå och uttrycka sig på engelska stärker elevernas självförtroende och möjlighet att ta del av internationella resurser om hälsa och välbefinnande.",
+          "en": "English contributes to health and life skills by giving pupils access to information and communication in a global language. The ability to understand and express oneself in English strengthens pupils' self-confidence and opportunity to access international resources on health and well-being."
+        }
+      },
+      {
+        "code": "TT2",
+        "name": {
+          "local": "Demokrati och medborgarskap",
+          "en": "Democracy and citizenship"
+        },
+        "description": {
+          "local": "Engelska stödjer demokrati och medborgarskap genom att öppna för förståelse av olika kulturers perspektiv och levnadsvillkor. Förmågan att kommunicera på engelska ger eleverna möjlighet att delta i internationella sammanhang och kritiskt granska information från globala medier.",
+          "en": "English supports democracy and citizenship by opening up understanding of different cultures' perspectives and living conditions. The ability to communicate in English gives pupils the opportunity to participate in international contexts and critically examine information from global media."
+        }
+      },
+      {
+        "code": "TT3",
+        "name": {
+          "local": "Hållbarhet",
+          "en": "Sustainability"
+        },
+        "description": {
+          "local": "Engelska bidrar till hållbarhet genom att ge eleverna tillgång till internationella perspektiv på miljö- och utvecklingsfrågor. Att kunna läsa och kommunicera om globala hållbarhetsutmaningar på engelska är avgörande för att delta i det internationella arbetet för en hållbar framtid.",
+          "en": "English contributes to sustainability by giving pupils access to international perspectives on environmental and development issues. Being able to read about and communicate on global sustainability challenges in English is essential for participating in the international effort towards a sustainable future."
+        }
+      }
+    ],
+    "basicSkills": [
+      {
+        "code": "GF1",
+        "name": {
+          "local": "Muntliga färdigheter",
+          "en": "Oral skills"
+        },
+        "description": {
+          "local": "Muntliga färdigheter i engelska innebär att kunna förstå talad engelska och uttrycka sig muntligt i samtal, diskussioner och presentationer. Eleverna utvecklar uttal, flyt och förmåga att anpassa sitt talspråk efter olika kommunikativa situationer.",
+          "en": "Oral skills in English involve being able to understand spoken English and express oneself orally in conversations, discussions and presentations. Pupils develop pronunciation, fluency and the ability to adapt their spoken language to different communicative situations."
+        }
+      },
+      {
+        "code": "GF2",
+        "name": {
+          "local": "Att kunna skriva",
+          "en": "Writing"
+        },
+        "description": {
+          "local": "Att kunna skriva i engelska innebär att formulera sig i skrift för olika syften och mottagare, från enkla meddelanden till sammanhängande texter. Eleverna utvecklar stavning, grammatik och förmåga att strukturera och bearbeta sina skriftliga framställningar.",
+          "en": "Writing in English involves expressing oneself in writing for different purposes and audiences, from simple messages to coherent texts. Pupils develop spelling, grammar and the ability to structure and revise their written productions."
+        }
+      },
+      {
+        "code": "GF3",
+        "name": {
+          "local": "Att kunna läsa",
+          "en": "Reading"
+        },
+        "description": {
+          "local": "Att kunna läsa i engelska innebär att förstå och tolka texter av olika slag, från berättelser och dikter till informationstexter och nyhetsartiklar. Eleverna utvecklar lässtrategier och ordförråd för att kunna tillgodogöra sig allt mer avancerade texter.",
+          "en": "Reading in English involves understanding and interpreting texts of various kinds, from stories and poems to informational texts and news articles. Pupils develop reading strategies and vocabulary to be able to comprehend increasingly advanced texts."
+        }
+      },
+      {
+        "code": "GF4",
+        "name": {
+          "local": "Att kunna räkna",
+          "en": "Numeracy"
+        },
+        "description": {
+          "local": "Att kunna räkna i engelska innebär att förstå och använda numerisk information på engelska, till exempel i tidtabeller, prisuppgifter och statistik. Eleverna möter siffror och kvantitativa uttryck i autentiska engelskspråkiga texter och situationer.",
+          "en": "Numeracy in English involves understanding and using numerical information in English, for example in timetables, prices and statistics. Pupils encounter numbers and quantitative expressions in authentic English-language texts and situations."
+        }
+      },
+      {
+        "code": "GF5",
+        "name": {
+          "local": "Digitala färdigheter",
+          "en": "Digital skills"
+        },
+        "description": {
+          "local": "Digitala färdigheter i engelska innebär att använda digitala verktyg och resurser för att ta del av engelskspråkigt material, kommunicera digitalt och söka information. Eleverna lär sig navigera engelskspråkiga digitala miljöer och använda hjälpmedel för språkutveckling.",
+          "en": "Digital skills in English involve using digital tools and resources to access English-language material, communicate digitally and search for information. Pupils learn to navigate English-language digital environments and use tools for language development."
         }
       }
     ],

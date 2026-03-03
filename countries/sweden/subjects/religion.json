@@ -4,13 +4,18 @@
     "api": "https://api.skolverket.se/syllabus/v1/subjects/GRGRREL01",
     "curriculum": "Lgr22",
     "license": "CC0",
-    "lastSynced": "2026-03-02T21:29:33Z"
+    "lastSynced": "2026-03-03T08:58:55Z",
+    "aiEnriched": ["description.en", "interdisciplinaryThemes", "basicSkills"]
   },
   "subject": {
     "code": "GRGRREL01",
     "name": {
       "local": "Religionskunskap",
       "en": "Religion"
+    },
+    "description": {
+      "local": "Undervisningen i ämnet religionskunskap ska syfta till att eleverna utvecklar kunskaper om religion och livsåskådning i det svenska samhället och i olika delar av världen. Genom undervisningen ska eleverna få förståelse för hur människor inom olika religiösa traditioner lever med och uttrycker sin religion på olika sätt. Eleverna ska också ges möjlighet att reflektera över vad religion och livsåskådning kan betyda för människors identitet och hur egna utgångspunkter påverkar förståelsen av religion och livsåskådning. Undervisningen ska allsidigt belysa vilken roll religion kan spela i samhället och hur samhällsförhållanden påverkar utvecklingen av religioner och andra livsåskådningar. Genom undervisningen ska eleverna få kunskaper om hur kristna traditioner har påverkat det svenska samhället och hur kristendomens roll i samhällslivet har förändrats över tid. Undervisningen ska stimulera eleverna att reflektera över olika livsfrågor och etiska förhållningssätt samt ge eleverna verktyg för att kunna analysera och ta ställning i etiska och moraliska frågor. På så sätt ska undervisningen bidra till elevernas möjligheter att utveckla en personlig livshållning och beredskap att handla ansvarsfullt i förhållande till sig själva och sin omgivning. Undervisningen i ämnet religionskunskap ska ge eleverna förutsättningar att utveckla",
+      "en": "Teaching in the subject of religion shall aim to develop pupils' knowledge of religion and worldviews in Swedish society and in different parts of the world. Through teaching, pupils shall gain understanding of how people within different religious traditions live with and express their religion in different ways. Pupils shall also be given the opportunity to reflect on what religion and worldviews can mean for people's identity and how one's own starting points affect the understanding of religion and worldviews. Teaching shall comprehensively illuminate the role religion can play in society and how societal conditions influence the development of religions and other worldviews. Through teaching, pupils shall gain knowledge of how Christian traditions have influenced Swedish society and how the role of Christianity in social life has changed over time. Teaching shall stimulate pupils to reflect on different existential questions and ethical approaches, and give pupils tools for analysing and taking a stance on ethical and moral issues. In this way, teaching shall contribute to pupils' opportunities to develop a personal outlook on life and a readiness to act responsibly in relation to themselves and their surroundings."
     },
     "coreElements": [
       {
@@ -44,6 +49,98 @@
         "description": {
           "local": "förmåga att resonera om etik, moraliska frågor och livsfrågor utifrån olika perspektiv.",
           "en": "the ability to reason about ethics, moral questions and existential questions from different perspectives."
+        }
+      }
+    ],
+    "interdisciplinaryThemes": [
+      {
+        "code": "TT1",
+        "name": {
+          "local": "Hälsa och livskompetens",
+          "en": "Health and life skills"
+        },
+        "description": {
+          "local": "I religionskunskap bidrar det temaövergripande temat hälsa och livskompetens till att eleverna utvecklar förmågan att reflektera över livsfrågor, identitet och etiska ställningstaganden. Genom att utforska olika religioners och livsåskådningars syn på livet, döden och meningen med tillvaron får eleverna verktyg för att hantera existentiella frågor. Ämnet stärker elevernas förmåga att utveckla en personlig livshållning och att visa respekt för andras val och övertygelser.",
+          "en": "In religion, the interdisciplinary theme of health and life skills contributes to pupils developing the ability to reflect on existential questions, identity and ethical positions. By exploring different religions' and worldviews' perspectives on life, death and the meaning of existence, pupils gain tools for dealing with existential questions. The subject strengthens pupils' ability to develop a personal outlook on life and to show respect for others' choices and convictions."
+        }
+      },
+      {
+        "code": "TT2",
+        "name": {
+          "local": "Demokrati och medborgarskap",
+          "en": "Democracy and citizenship"
+        },
+        "description": {
+          "local": "I religionskunskap bidrar det temaövergripande temat demokrati och medborgarskap till att eleverna utvecklar förståelse för religionsfrihet som en grundläggande mänsklig rättighet och dess betydelse i ett demokratiskt samhälle. Genom att studera relationen mellan religion och samhälle får eleverna insikt i hur religiösa och sekulära värderingar samverkar och ibland står i konflikt. Ämnet stärker elevernas förmåga att delta i respektfulla samtal om tro, värderingar och mångfald.",
+          "en": "In religion, the interdisciplinary theme of democracy and citizenship contributes to pupils developing understanding of freedom of religion as a fundamental human right and its significance in a democratic society. By studying the relationship between religion and society, pupils gain insight into how religious and secular values interact and sometimes conflict. The subject strengthens pupils' ability to participate in respectful conversations about faith, values and diversity."
+        }
+      },
+      {
+        "code": "TT3",
+        "name": {
+          "local": "Hållbar utveckling",
+          "en": "Sustainability"
+        },
+        "description": {
+          "local": "I religionskunskap bidrar det temaövergripande temat hållbar utveckling till att eleverna utforskar hur olika religioner och livsåskådningar förhåller sig till naturen, miljöansvar och global rättvisa. Genom att studera etiska perspektiv på hållbarhet från olika traditioner får eleverna bredare förståelse för de värderingsmässiga grunderna i hållbarhetsarbetet. Ämnet ger eleverna möjlighet att reflektera över hur tro och livsåskådning kan motivera engagemang för en hållbar framtid.",
+          "en": "In religion, the interdisciplinary theme of sustainability contributes to pupils exploring how different religions and worldviews relate to nature, environmental responsibility and global justice. By studying ethical perspectives on sustainability from different traditions, pupils gain a broader understanding of the value-based foundations of sustainability work. The subject gives pupils the opportunity to reflect on how faith and worldviews can motivate commitment to a sustainable future."
+        }
+      }
+    ],
+    "basicSkills": [
+      {
+        "code": "GF1",
+        "name": {
+          "local": "Muntliga färdigheter",
+          "en": "Oral skills"
+        },
+        "description": {
+          "local": "Muntliga färdigheter i religionskunskap innebär att kunna samtala om och diskutera religiösa traditioner, etiska frågor och livsfrågor med respekt för olika perspektiv. Eleverna utvecklar förmågan att uttrycka och argumentera för egna ståndpunkter samt att lyssna till och bemöta andras uppfattningar. Muntlig framställning övar eleverna i att använda relevanta begrepp inom religion och etik.",
+          "en": "Oral skills in religion involve being able to converse about and discuss religious traditions, ethical questions and existential questions with respect for different perspectives. Pupils develop the ability to express and argue for their own positions and to listen to and respond to others' views. Oral presentation trains pupils in using relevant concepts within religion and ethics."
+        }
+      },
+      {
+        "code": "GF2",
+        "name": {
+          "local": "Att kunna skriva",
+          "en": "Writing"
+        },
+        "description": {
+          "local": "Att kunna skriva i religionskunskap innebär att kunna formulera resonemang om religioner, livsåskådningar och etiska frågor på ett sammanhängande sätt. Eleverna utvecklar förmågan att jämföra och analysera olika religiösa traditioner och etiska modeller i skriftlig form. Skrivandet är ett verktyg för att bearbeta och fördjupa förståelsen av komplexa frågor om tro, moral och mening.",
+          "en": "Writing in religion involves being able to formulate reasoning about religions, worldviews and ethical questions in a coherent way. Pupils develop the ability to compare and analyse different religious traditions and ethical models in written form. Writing is a tool for processing and deepening understanding of complex questions about faith, morality and meaning."
+        }
+      },
+      {
+        "code": "GF3",
+        "name": {
+          "local": "Att kunna läsa",
+          "en": "Reading"
+        },
+        "description": {
+          "local": "Att kunna läsa i religionskunskap innebär att kunna tolka och kritiskt granska religiösa texter, berättelser och andra källor som uttrycker religiösa och livsåskådningsmässiga perspektiv. Eleverna utvecklar förmågan att urskilja symbolik, budskap och kontext i religiösa urkunder och i mediala framställningar av religion. Läsförmågan är central för att kunna förstå och jämföra olika tolkningar inom och mellan religioner.",
+          "en": "Reading in religion involves being able to interpret and critically examine religious texts, narratives and other sources that express religious and worldview perspectives. Pupils develop the ability to identify symbolism, messages and context in religious scriptures and in media portrayals of religion. Reading ability is central to being able to understand and compare different interpretations within and between religions."
+        }
+      },
+      {
+        "code": "GF4",
+        "name": {
+          "local": "Att kunna räkna",
+          "en": "Numeracy"
+        },
+        "description": {
+          "local": "Att kunna räkna i religionskunskap innebär att kunna använda kvantitativa uppgifter om religioners utbredning, medlemstal och demografiska förändringar. Eleverna utvecklar förmågan att tolka statistik och diagram som belyser religiös tillhörighet och sekularisering i Sverige och i världen. Numeriska färdigheter bidrar till att förstå samhällsförändringar kopplade till religion.",
+          "en": "Numeracy in religion involves being able to use quantitative data about the spread of religions, membership numbers and demographic changes. Pupils develop the ability to interpret statistics and diagrams that illuminate religious affiliation and secularisation in Sweden and in the world. Numerical skills contribute to understanding societal changes connected to religion."
+        }
+      },
+      {
+        "code": "GF5",
+        "name": {
+          "local": "Digitala färdigheter",
+          "en": "Digital skills"
+        },
+        "description": {
+          "local": "Digitala färdigheter i religionskunskap innebär att kunna söka, värdera och använda digitala källor för att undersöka religiösa traditioner och livsåskådningar. Eleverna utvecklar förmågan att kritiskt granska hur religion framställs i digitala medier och att skilja mellan tillförlitlig information och partiska framställningar. Digitala verktyg används också för att utforska religiös mångfald och presentera kunskaper om religioner.",
+          "en": "Digital skills in religion involve being able to search for, evaluate and use digital sources to investigate religious traditions and worldviews. Pupils develop the ability to critically examine how religion is portrayed in digital media and to distinguish between reliable information and biased presentations. Digital tools are also used to explore religious diversity and present knowledge about religions."
         }
       }
     ],

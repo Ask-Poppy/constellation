@@ -4,13 +4,18 @@
     "api": "https://eperusteet.opintopolku.fi/eperusteet-service/api/external/peruste/419550/perusopetus/oppiaineet/466347",
     "curriculum": "POPS 2014",
     "license": "Open Government Data (Finland)",
-    "lastSynced": "2026-03-02T21:29:41Z"
+    "lastSynced": "2026-03-03T08:58:54Z",
+    "aiEnriched": ["description.en", "interdisciplinaryThemes", "basicSkills"]
   },
   "subject": {
     "code": "KE",
     "name": {
       "local": "Kemia",
       "en": "Chemistry"
+    },
+    "description": {
+      "local": "Kemian opetuksen tehtävänä on tukea oppilaiden luonnontieteellisen ajattelun sekä maailmankuvan kehittymistä. Kemian opetus auttaa ymmärtämään kemian ja sen sovellusten merkitystä jokapäiväisessä elämässä, elinympäristössä, yhteiskunnassa ja teknologiassa. Opetus tukee oppilaiden valmiuksia tehdä valintoja sekä käyttää tietoja ja taitoja elämän eri tilanteissa. Opetus välittää kuvaa kemian merkityksestä kestävän tulevaisuuden rakentamisessa: kemiaa tarvitaan uusien ratkaisujen kehittämisessä sekä ympäristön ja ihmisten hyvinvoinnin turvaamisessa. Opetus ohjaa oppilaita ottamaan vastuuta ympäristöstään.\n\nKemian opetuksen tehtävänä on tukea kemiaan liittyvien käsitteiden rakentumista sekä ilmiöiden ymmärtämistä. Vuosiluokilla 7-9 opiskelun pääpaino on makroskooppisella tasolla, mutta oppilaiden abstraktin ajattelun kehittyessä yhteyttä submikroskooppisiin ja symbolisiin malleihin vahvistetaan. Oppilaiden aikaisemmista kokemuksista ja havainnoista edetään ilmiöiden kuvaamiseen ja selittämiseen sekä aineen rakenteen ja kemiallisten reaktioiden mallintamiseen kemian merkkikielellä. Opetus ohjaa luonnontieteille ominaiseen ajatteluun, tiedonhankintaan, tietojen käyttämiseen, ideointiin, vuorovaikutukseen sekä tiedon luotettavuuden ja merkityksen arviointiin eri tilanteissa.\n\nKemian opetuksen lähtökohtana on elinympäristöön liittyvien aineiden ja ilmiöiden havainnointi ja tutkiminen. Tutkimusten tekemisellä on oleellinen merkitys käsitteiden sisäistämisessä, tutkimisen taitojen oppimisessa ja luonnontieteiden luonteen hahmottamisessa. Tutkimusten tekeminen kehittää työskentelyn ja yhteistyön taitoja, luovaa ja kriittistä ajattelua sekä innostaa oppilaita kemian opiskeluun.\n\nOpetuksen tehtävänä on ohjata oppilaita hahmottamaan kemian osaamisen merkitystä myös jatko-opintojen ja työelämän kannalta. Yhdenvertaisuutta ja tasa-arvoa edistetään tarjoamalla oppilaille mahdollisuuksia soveltaa kemiaa erilaisissa konteksteissa sekä tutustua monipuolisesti ammatteihin, joissa tarvitaan kemian osaamista.",
+      "en": "The task of chemistry education is to support the development of pupils' scientific thinking and worldview. Chemistry education helps pupils understand the significance of chemistry and its applications in everyday life, in the living environment, in society, and in technology. Teaching supports pupils' readiness to make choices and to use knowledge and skills in various life situations. Teaching conveys an image of the significance of chemistry in building a sustainable future: chemistry is needed in developing new solutions and in securing the well-being of the environment and people. Teaching guides pupils to take responsibility for their environment.\n\nThe task of chemistry education is to support the construction of chemistry-related concepts and the understanding of phenomena. In grades 7-9, the main focus of study is at a macroscopic level, but as pupils' abstract thinking develops, the connection to submicroscopic and symbolic models is strengthened. From pupils' earlier experiences and observations, teaching progresses to describing and explaining phenomena and to modelling the structure of matter and chemical reactions using the language of chemistry. Teaching guides pupils towards scientific thinking, information acquisition, use of knowledge, ideation, interaction, and the evaluation of the reliability and significance of information in different situations.\n\nThe starting point of chemistry education is the observation and investigation of substances and phenomena in the living environment. Conducting investigations has an essential role in internalising concepts, in learning research skills, and in understanding the nature of natural sciences. Conducting investigations develops working and collaboration skills, creative and critical thinking, and inspires pupils to study chemistry.\n\nThe task of teaching is to guide pupils in understanding the significance of chemistry competence also from the perspective of further studies and working life. Equality and equity are promoted by offering pupils opportunities to apply chemistry in various contexts and to become familiar with a range of professions that require chemistry competence."
     },
     "coreElements": [
       {
@@ -80,6 +85,98 @@
         }
       }
     ],
+    "interdisciplinaryThemes": [
+      {
+        "code": "TT1",
+        "name": {
+          "local": "Terveys ja elämänhallinta",
+          "en": "Health and life skills"
+        },
+        "description": {
+          "local": "Kemian opetuksessa terveys ja elämänhallinta toteutuvat oppilaiden tutkiessa kodin kemikaaleja, paloturvallisuutta ja aineiden ominaisuuksia terveyden ja turvallisuuden näkökulmista. Oppilas oppii tunnistamaan haitallisia aineita ja tekemään turvallisia valintoja arjessaan.",
+          "en": "In chemistry education, health and life skills are realised as pupils investigate household chemicals, fire safety, and the properties of substances from the perspectives of health and safety. The pupil learns to identify harmful substances and make safe choices in their everyday life."
+        }
+      },
+      {
+        "code": "TT2",
+        "name": {
+          "local": "Demokratia ja kansalaisuus",
+          "en": "Democracy and citizenship"
+        },
+        "description": {
+          "local": "Kemian opetuksessa demokratia ja kansalaisuus toteutuvat oppilaiden oppiessa arvioimaan kriittisesti kemian sovelluksiin ja ympäristökysymyksiin liittyvää tietoa sekä perustelemaan näkemyksiään. Luonnonvarojen kestävän käytön ja tuotteiden elinkaariajattelun ymmärtäminen tukee tietoista kansalaisuutta.",
+          "en": "In chemistry education, democracy and citizenship are realised as pupils learn to critically evaluate information related to chemistry applications and environmental issues, and to justify their views. Understanding the sustainable use of natural resources and product life-cycle thinking supports informed citizenship."
+        }
+      },
+      {
+        "code": "TT3",
+        "name": {
+          "local": "Kestävä kehitys",
+          "en": "Sustainability"
+        },
+        "description": {
+          "local": "Kemian opetuksessa kestävä kehitys näkyy luonnonvarojen kestävän käytön, tuotteiden elinkaariajattelun, hiilen kiertokulun ja aineen säilymisen periaatteen tutkimisessa. Oppilas oppii arvioimaan omia valintojaan ympäristön ja kestävän tulevaisuuden kannalta.",
+          "en": "In chemistry education, sustainability is reflected in the investigation of the sustainable use of natural resources, product life-cycle thinking, the carbon cycle, and the principle of conservation of matter. The pupil learns to evaluate their own choices from the perspective of the environment and a sustainable future."
+        }
+      }
+    ],
+    "basicSkills": [
+      {
+        "code": "GF1",
+        "name": {
+          "local": "Suulliset taidot",
+          "en": "Oral skills"
+        },
+        "description": {
+          "local": "Suulliset taidot kemiassa tarkoittavat kokeellisten tutkimusten tulosten ja kemiallisten ilmiöiden selittämistä sekä näkemysten perustelemista kemian käsittein. Oppilas oppii keskustelemaan aineiden ominaisuuksista, reaktioista ja kemian sovelluksista.",
+          "en": "Oral skills in chemistry mean explaining the results of experimental investigations and chemical phenomena, and justifying views using chemistry concepts. The pupil learns to discuss the properties of substances, reactions, and chemistry applications."
+        }
+      },
+      {
+        "code": "GF2",
+        "name": {
+          "local": "Kirjoittaminen",
+          "en": "Writing"
+        },
+        "description": {
+          "local": "Kirjoittaminen kemiassa tarkoittaa tutkimusraporttien, havaintojen dokumentoinnin ja kemiallisten selitysten tuottamista. Oppilas harjoittelee kemian merkkikielen, reaktioyhtälöiden ja tutkimusprosessin vaiheiden kirjallista esittämistä.",
+          "en": "Writing in chemistry means producing research reports, documenting observations, and writing chemical explanations. The pupil practises the written presentation of chemical notation, reaction equations, and the stages of the research process."
+        }
+      },
+      {
+        "code": "GF3",
+        "name": {
+          "local": "Lukeminen",
+          "en": "Reading"
+        },
+        "description": {
+          "local": "Lukeminen kemiassa tarkoittaa kemian tekstien, jaksollisen järjestelmän, reaktioyhtälöiden, turvallisuusmerkintöjen ja ajankohtaisten uutisten lukemista ja tulkitsemista. Oppilas kehittää kriittistä lukutaitoaan kemian tietolähteiden arvioinnissa.",
+          "en": "Reading in chemistry means reading and interpreting chemistry texts, the periodic table, reaction equations, safety markings, and current news. The pupil develops their critical literacy in evaluating chemistry sources of information."
+        }
+      },
+      {
+        "code": "GF4",
+        "name": {
+          "local": "Laskutaito",
+          "en": "Numeracy"
+        },
+        "description": {
+          "local": "Laskutaito kemiassa ilmenee pitoisuuksien laskemisessa, mittaustulosten käsittelyssä, aineiden massojen ja tilavuuksien määrittämisessä sekä reaktioyhtälöiden tasapainottamisessa. Oppilas oppii käyttämään numeerista tietoa kemiallisten ilmiöiden kuvaamiseen.",
+          "en": "Numeracy in chemistry is manifested in calculating concentrations, processing measurement results, determining masses and volumes of substances, and balancing reaction equations. The pupil learns to use numerical data to describe chemical phenomena."
+        }
+      },
+      {
+        "code": "GF5",
+        "name": {
+          "local": "Digitaaliset taidot",
+          "en": "Digital skills"
+        },
+        "description": {
+          "local": "Digitaaliset taidot kemiassa tarkoittavat tieto- ja viestintäteknologian käyttöä tutkimustulosten käsittelyssä ja esittämisessä, molekyylimallien ja simulaatioiden hyödyntämistä sekä tiedonhankintaa kemian sovelluksista. Oppilas käyttää digitaalisia työkaluja kokeellisen tutkimuksen ja oppimisen tukena.",
+          "en": "Digital skills in chemistry mean using information and communication technology for processing and presenting research results, utilising molecular models and simulations, and retrieving information about chemistry applications. The pupil uses digital tools to support experimental investigation and learning."
+        }
+      }
+    ],
     "gradeBands": [
       {
         "afterGrade": 9,
@@ -95,12 +192,12 @@
               "en": "T1 encourage and inspire the pupil to study chemistry"
             },
             "coreElements": [
-              "S5 Aineiden ominaisuudet ja rakenne",
-              "S6 Aineiden ominaisuudet ja muutokset",
-              "S4 Kemia maailmankuvan rakentajana",
-              "S3 Kemia yhteiskunnassa",
-              "S2 Kemia omassa elämässä ja elinympäristössä",
-              "S1 Luonnontieteellinen tutkimus"
+              "S5",
+              "S6",
+              "S4",
+              "S3",
+              "S2",
+              "S1"
             ],
             "verbs": []
           },
@@ -111,12 +208,12 @@
               "en": "T2 guide and encourage the pupil to recognise their own chemistry competence, to set goals for their own work, and to work with perseverance"
             },
             "coreElements": [
-              "S5 Aineiden ominaisuudet ja rakenne",
-              "S6 Aineiden ominaisuudet ja muutokset",
-              "S4 Kemia maailmankuvan rakentajana",
-              "S3 Kemia yhteiskunnassa",
-              "S2 Kemia omassa elämässä ja elinympäristössä",
-              "S1 Luonnontieteellinen tutkimus"
+              "S5",
+              "S6",
+              "S4",
+              "S3",
+              "S2",
+              "S1"
             ],
             "verbs": []
           },
@@ -127,12 +224,12 @@
               "en": "T3 guide the pupil to understand the significance of chemistry competence in their own life, living environment, and society"
             },
             "coreElements": [
-              "S5 Aineiden ominaisuudet ja rakenne",
-              "S6 Aineiden ominaisuudet ja muutokset",
-              "S4 Kemia maailmankuvan rakentajana",
-              "S3 Kemia yhteiskunnassa",
-              "S2 Kemia omassa elämässä ja elinympäristössä",
-              "S1 Luonnontieteellinen tutkimus"
+              "S5",
+              "S6",
+              "S4",
+              "S3",
+              "S2",
+              "S1"
             ],
             "verbs": []
           },
@@ -143,12 +240,12 @@
               "en": "T4 guide the pupil to use their chemistry competence in building a sustainable future and to evaluate their own choices in terms of sustainable use of natural resources and product life cycle"
             },
             "coreElements": [
-              "S5 Aineiden ominaisuudet ja rakenne",
-              "S6 Aineiden ominaisuudet ja muutokset",
-              "S4 Kemia maailmankuvan rakentajana",
-              "S3 Kemia yhteiskunnassa",
-              "S2 Kemia omassa elämässä ja elinympäristössä",
-              "S1 Luonnontieteellinen tutkimus"
+              "S5",
+              "S6",
+              "S4",
+              "S3",
+              "S2",
+              "S1"
             ],
             "verbs": []
           },
@@ -159,12 +256,12 @@
               "en": "T5 encourage the pupil to formulate questions about the phenomena under consideration and to further develop questions as starting points for investigations and other activities"
             },
             "coreElements": [
-              "S5 Aineiden ominaisuudet ja rakenne",
-              "S6 Aineiden ominaisuudet ja muutokset",
-              "S4 Kemia maailmankuvan rakentajana",
-              "S3 Kemia yhteiskunnassa",
-              "S2 Kemia omassa elämässä ja elinympäristössä",
-              "S1 Luonnontieteellinen tutkimus"
+              "S5",
+              "S6",
+              "S4",
+              "S3",
+              "S2",
+              "S1"
             ],
             "verbs": []
           },
@@ -175,12 +272,12 @@
               "en": "T6 guide the pupil to carry out experimental investigations in cooperation with others and to work safely and systematically"
             },
             "coreElements": [
-              "S5 Aineiden ominaisuudet ja rakenne",
-              "S6 Aineiden ominaisuudet ja muutokset",
-              "S4 Kemia maailmankuvan rakentajana",
-              "S3 Kemia yhteiskunnassa",
-              "S2 Kemia omassa elämässä ja elinympäristössä",
-              "S1 Luonnontieteellinen tutkimus"
+              "S5",
+              "S6",
+              "S4",
+              "S3",
+              "S2",
+              "S1"
             ],
             "verbs": []
           },
@@ -191,12 +288,12 @@
               "en": "T7 guide the pupil to process, interpret, and present the results of their own investigations and to evaluate them and the entire research process"
             },
             "coreElements": [
-              "S5 Aineiden ominaisuudet ja rakenne",
-              "S6 Aineiden ominaisuudet ja muutokset",
-              "S4 Kemia maailmankuvan rakentajana",
-              "S3 Kemia yhteiskunnassa",
-              "S2 Kemia omassa elämässä ja elinympäristössä",
-              "S1 Luonnontieteellinen tutkimus"
+              "S5",
+              "S6",
+              "S4",
+              "S3",
+              "S2",
+              "S1"
             ],
             "verbs": []
           },
@@ -207,12 +304,12 @@
               "en": "T8 guide the pupil to understand the application of chemistry in technology and to participate in the ideation, planning, development, and application of solutions that apply chemistry, in cooperation with others"
             },
             "coreElements": [
-              "S5 Aineiden ominaisuudet ja rakenne",
-              "S6 Aineiden ominaisuudet ja muutokset",
-              "S4 Kemia maailmankuvan rakentajana",
-              "S3 Kemia yhteiskunnassa",
-              "S2 Kemia omassa elämässä ja elinympäristössä",
-              "S1 Luonnontieteellinen tutkimus"
+              "S5",
+              "S6",
+              "S4",
+              "S3",
+              "S2",
+              "S1"
             ],
             "verbs": []
           },
@@ -223,12 +320,12 @@
               "en": "T9 guide the pupil to use information and communication technology for acquiring, processing, and presenting information and research results, and to support the pupil's learning through illustrative simulations"
             },
             "coreElements": [
-              "S5 Aineiden ominaisuudet ja rakenne",
-              "S6 Aineiden ominaisuudet ja muutokset",
-              "S4 Kemia maailmankuvan rakentajana",
-              "S3 Kemia yhteiskunnassa",
-              "S2 Kemia omassa elämässä ja elinympäristössä",
-              "S1 Luonnontieteellinen tutkimus"
+              "S5",
+              "S6",
+              "S4",
+              "S3",
+              "S2",
+              "S1"
             ],
             "verbs": []
           },
@@ -239,12 +336,12 @@
               "en": "T10 guide the pupil to use chemistry concepts precisely and to structure their own conceptual frameworks towards conceptions consistent with scientific theories"
             },
             "coreElements": [
-              "S5 Aineiden ominaisuudet ja rakenne",
-              "S6 Aineiden ominaisuudet ja muutokset",
-              "S4 Kemia maailmankuvan rakentajana",
-              "S3 Kemia yhteiskunnassa",
-              "S2 Kemia omassa elämässä ja elinympäristössä",
-              "S1 Luonnontieteellinen tutkimus"
+              "S5",
+              "S6",
+              "S4",
+              "S3",
+              "S2",
+              "S1"
             ],
             "verbs": []
           },
@@ -255,12 +352,12 @@
               "en": "T11 guide the pupil to use various models to describe and explain the structure of matter and chemical phenomena"
             },
             "coreElements": [
-              "S5 Aineiden ominaisuudet ja rakenne",
-              "S6 Aineiden ominaisuudet ja muutokset",
-              "S4 Kemia maailmankuvan rakentajana",
-              "S3 Kemia yhteiskunnassa",
-              "S2 Kemia omassa elämässä ja elinympäristössä",
-              "S1 Luonnontieteellinen tutkimus"
+              "S5",
+              "S6",
+              "S4",
+              "S3",
+              "S2",
+              "S1"
             ],
             "verbs": []
           },
@@ -271,12 +368,12 @@
               "en": "T12 guide the pupil to use and critically evaluate different sources of information and to express and justify various viewpoints in a manner characteristic of chemistry"
             },
             "coreElements": [
-              "S5 Aineiden ominaisuudet ja rakenne",
-              "S6 Aineiden ominaisuudet ja muutokset",
-              "S4 Kemia maailmankuvan rakentajana",
-              "S3 Kemia yhteiskunnassa",
-              "S2 Kemia omassa elämässä ja elinympäristössä",
-              "S1 Luonnontieteellinen tutkimus"
+              "S5",
+              "S6",
+              "S4",
+              "S3",
+              "S2",
+              "S1"
             ],
             "verbs": []
           },
@@ -287,8 +384,8 @@
               "en": "T13 guide the pupil to understand the nature and development of scientific knowledge and scientific ways of producing knowledge"
             },
             "coreElements": [
-              "S4 Kemia maailmankuvan rakentajana",
-              "S1 Luonnontieteellinen tutkimus"
+              "S4",
+              "S1"
             ],
             "verbs": []
           },
@@ -299,8 +396,8 @@
               "en": "T14 guide the pupil to understand the basic principles of the properties and structure of matter and changes of substances"
             },
             "coreElements": [
-              "S5 Aineiden ominaisuudet ja rakenne",
-              "S6 Aineiden ominaisuudet ja muutokset"
+              "S5",
+              "S6"
             ],
             "verbs": []
           },
@@ -311,12 +408,12 @@
               "en": "T15 guide the pupil to apply their chemistry knowledge and skills in multidisciplinary learning modules and to offer opportunities to explore the application of chemistry in various contexts such as nature, business, organisations, or the scientific community"
             },
             "coreElements": [
-              "S5 Aineiden ominaisuudet ja rakenne",
-              "S6 Aineiden ominaisuudet ja muutokset",
-              "S4 Kemia maailmankuvan rakentajana",
-              "S3 Kemia yhteiskunnassa",
-              "S2 Kemia omassa elämässä ja elinympäristössä",
-              "S1 Luonnontieteellinen tutkimus"
+              "S5",
+              "S6",
+              "S4",
+              "S3",
+              "S2",
+              "S1"
             ],
             "verbs": []
           }

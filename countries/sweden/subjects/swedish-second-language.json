@@ -4,13 +4,18 @@
     "api": "https://api.skolverket.se/syllabus/v1/subjects/GRGRSVA01",
     "curriculum": "Lgr22",
     "license": "CC0",
-    "lastSynced": "2026-03-02T21:29:37Z"
+    "lastSynced": "2026-03-03T08:58:59Z",
+    "aiEnriched": ["description.en", "interdisciplinaryThemes", "basicSkills"]
   },
   "subject": {
     "code": "GRGRSVA01",
     "name": {
       "local": "Svenska som andraspråk",
       "en": "Swedish as a Second Language"
+    },
+    "description": {
+      "local": "Undervisningen i ämnet svenska som andraspråk ska syfta till att eleverna utvecklar kunskaper i och om svenska språket. Genom att undervisningen utgår från ett andraspråksperspektiv ska eleverna ges förutsättningar att utveckla sitt svenska tal- och skriftspråk så att de får tilltro till sin språkförmåga och kan och vågar uttrycka sig i olika sammanhang och för skilda syften. Därigenom ska eleverna ges möjlighet att utveckla sitt svenska språk för att tänka, kommunicera och lära. Eleverna ska även ges möjlighet att utveckla olika strategier för hur man lär sig språk samt strategier för att stödja den egna kommunikationen. I undervisningen ska eleverna stimuleras att utveckla och uttrycka komplexa tankar utifrån sin kunskapsnivå och sina språkliga resurser. Kraven på språklig korrekthet ska relateras till olika stadier i andraspråksutvecklingen och till den innehållsliga och tankemässiga komplexiteten. Det innebär att undervisningen ska ge eleverna rika möjligheter att kommunicera i tal och skrift på svenska, utan att det ställs för tidiga krav på språklig korrekthet. Undervisningen ska stimulera elevernas intresse för att läsa och skriva på svenska. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om hur man formulerar egna åsikter och tankar i olika slags texter och genom skilda medier. Undervisningen ska även syfta till att eleverna utvecklar förmågan att skapa och bearbeta texter, enskilt och tillsammans med andra. Eleverna ska ges möjlighet att kommunicera i digitala miljöer med interaktiva och föränderliga texter. Eleverna ska även stimuleras till att uttrycka sig genom olika estetiska uttrycksformer. Vidare ska undervisningen bidra till att eleverna utvecklar kunskaper om hur man söker och kritiskt värderar information från olika källor. I undervisningen ska eleverna möta samt få utveckla kunskaper om skönlitteratur från olika tider och skilda delar av världen. Eleverna ska ges möjlighet att läsa, analysera och resonera om skönlitterära verk i olika genrer. Undervisningen ska också bidra till att eleverna utvecklar kunskaper om olika former av sakprosa. I mötet med olika typer av texter, scenkonst och annat estetiskt berättande ska eleverna ges förutsättningar att utveckla sitt svenska språk, den egna identiteten och sin förståelse för omvärlden. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om svenska språket, dess normer, uppbyggnad, uttal, ord och begrepp samt om hur språkbruk varierar beroende på sociala sammanhang och medier. På så sätt ska undervisningen bidra till att stärka elevernas medvetenhet om och tilltro till den egna språkliga och kommunikativa förmågan. Undervisningen ska också bidra till att eleverna får förståelse för att sättet man kommunicerar på kan få konsekvenser för en själv och för andra människor. Därigenom ska eleverna ges förutsättningar att ta ansvar för det egna språkbruket i olika sammanhang och medier. Undervisningen i ämnet svenska som andraspråk ska ge eleverna förutsättningar att utveckla",
+      "en": "Teaching in the subject of Swedish as a second language shall aim to develop pupils' knowledge in and about the Swedish language. By taking a second language perspective as its starting point, teaching shall give pupils the conditions to develop their spoken and written Swedish so that they gain confidence in their language ability and can and dare to express themselves in different contexts and for various purposes. In this way, pupils shall be given the opportunity to develop their Swedish language for thinking, communicating and learning. Pupils shall also be given the opportunity to develop different strategies for language learning as well as strategies to support their own communication. In teaching, pupils shall be stimulated to develop and express complex thoughts based on their level of knowledge and linguistic resources. Requirements for linguistic correctness shall be related to different stages of second language development and to the complexity of content and thought. This means that teaching shall give pupils ample opportunities to communicate in spoken and written Swedish without premature demands for linguistic correctness. Teaching shall stimulate pupils' interest in reading and writing in Swedish. Through teaching, pupils shall be given the opportunity to develop knowledge of how to formulate their own opinions and thoughts in different types of texts and through various media. Teaching shall also aim to develop pupils' ability to create and revise texts, individually and together with others. Pupils shall be given the opportunity to communicate in digital environments with interactive and changeable texts. Pupils shall also be stimulated to express themselves through different aesthetic forms of expression. Furthermore, teaching shall contribute to pupils developing skills in searching for and critically evaluating information from different sources. In teaching, pupils shall encounter and develop knowledge of fiction from different times and various parts of the world. Pupils shall be given the opportunity to read, analyse and reason about literary works in different genres. Teaching shall also contribute to pupils developing knowledge of different forms of non-fiction. In encountering different types of texts, performing arts and other aesthetic storytelling, pupils shall be given the conditions to develop their Swedish language, their own identity and their understanding of the world around them. Through teaching, pupils shall be given the opportunity to develop knowledge of the Swedish language, its norms, structure, pronunciation, words and concepts, as well as how language use varies depending on social contexts and media. In this way, teaching shall contribute to strengthening pupils' awareness of and confidence in their own linguistic and communicative ability. Teaching shall also contribute to pupils gaining an understanding that the way one communicates can have consequences for oneself and for other people. Through this, pupils shall be given the conditions to take responsibility for their own language use in different contexts and media."
     },
     "coreElements": [
       {
@@ -55,6 +60,98 @@
         "description": {
           "local": "förmåga att söka information från olika källor och värdera dessa.",
           "en": "the ability to search for information from different sources and evaluate them."
+        }
+      }
+    ],
+    "interdisciplinaryThemes": [
+      {
+        "code": "TT1",
+        "name": {
+          "local": "Hälsa och livskompetens",
+          "en": "Health and life skills"
+        },
+        "description": {
+          "local": "I svenska som andraspråk bidrar det tvärvetenskapliga temat hälsa och livskompetens till att eleverna utvecklar tilltro till sin språkförmåga och vågar uttrycka sig i olika sammanhang. Att kunna kommunicera på svenska stärker elevernas möjligheter att delta i samhället, bygga relationer och hantera vardagliga situationer. Genom möten med skönlitteratur och olika texter utvecklar eleverna sin identitet, empati och förståelse för mänskliga erfarenheter.",
+          "en": "In Swedish as a second language, the interdisciplinary theme of health and life skills contributes to pupils developing confidence in their language ability and daring to express themselves in different contexts. Being able to communicate in Swedish strengthens pupils' opportunities to participate in society, build relationships and handle everyday situations. Through encounters with fiction and different texts, pupils develop their identity, empathy and understanding of human experiences."
+        }
+      },
+      {
+        "code": "TT2",
+        "name": {
+          "local": "Demokrati och medborgarskap",
+          "en": "Democracy and citizenship"
+        },
+        "description": {
+          "local": "I svenska som andraspråk bidrar det tvärvetenskapliga temat demokrati och medborgarskap till att eleverna utvecklar förmågan att formulera egna åsikter, argumentera och delta i demokratiska samtal. Genom att söka och kritiskt värdera information från olika källor stärks elevernas förmåga att vara aktiva och informerade medborgare. Eleverna lär sig också att ta ansvar för sitt eget språkbruk och förstå hur kommunikation kan påverka andra människor.",
+          "en": "In Swedish as a second language, the interdisciplinary theme of democracy and citizenship contributes to pupils developing the ability to formulate their own opinions, argue and participate in democratic conversations. By searching for and critically evaluating information from different sources, pupils' ability to be active and informed citizens is strengthened. Pupils also learn to take responsibility for their own language use and understand how communication can affect other people."
+        }
+      },
+      {
+        "code": "TT3",
+        "name": {
+          "local": "Hållbar utveckling",
+          "en": "Sustainability"
+        },
+        "description": {
+          "local": "I svenska som andraspråk bidrar det tvärvetenskapliga temat hållbar utveckling till att eleverna kan läsa, diskutera och skriva om hållbarhetsfrågor på svenska. Genom att möta texter och samtal om miljö, samhälle och framtidsfrågor utvecklar eleverna ett ordförråd och en kommunikativ förmåga som gör dem delaktiga i samhällsdebatten om hållbar utveckling. Ämnet ger eleverna språkliga redskap att ta del av och bidra till ett hållbart samhälle.",
+          "en": "In Swedish as a second language, the interdisciplinary theme of sustainability contributes to pupils being able to read, discuss and write about sustainability issues in Swedish. By encountering texts and conversations about the environment, society and future issues, pupils develop a vocabulary and communicative ability that enables them to participate in the societal debate on sustainable development. The subject provides pupils with linguistic tools to access and contribute to a sustainable society."
+        }
+      }
+    ],
+    "basicSkills": [
+      {
+        "code": "GF1",
+        "name": {
+          "local": "Muntliga färdigheter",
+          "en": "Oral skills"
+        },
+        "description": {
+          "local": "Muntliga färdigheter i svenska som andraspråk innebär att kunna uttrycka sig, samtala och samspela muntligt på svenska i olika sammanhang. Det omfattar att utveckla uttal, ordförråd och förmågan att anpassa talet efter syfte och mottagare samt att använda strategier för att stödja kommunikationen. Utvecklingen av muntliga färdigheter går från att delta i enkla samtal om vardagliga ämnen till att kunna föra utvecklade resonemang, argumentera och presentera med anpassning till syfte och mottagare.",
+          "en": "Oral skills in Swedish as a second language involve being able to express oneself, converse and interact orally in Swedish in different contexts. This includes developing pronunciation, vocabulary and the ability to adapt speech to purpose and audience as well as using strategies to support communication. The development of oral skills progresses from participating in simple conversations about everyday topics to being able to present developed reasoning, argue and present with adaptation to purpose and audience."
+        }
+      },
+      {
+        "code": "GF2",
+        "name": {
+          "local": "Att kunna skriva",
+          "en": "Writing"
+        },
+        "description": {
+          "local": "Att kunna skriva i svenska som andraspråk innebär att formulera sig i skrift på svenska för att kommunicera, berätta, beskriva och argumentera. Det omfattar att utveckla kunskaper om skriftspråkets normer, textstrukturer och genrer samt att bearbeta texter enskilt och tillsammans med andra. Utvecklingen av skrivande går från att skriva enkla texter med stöd av bilder och samtal till att kunna producera sammanhängande texter i olika genrer med allt större språklig korrekthet och variation.",
+          "en": "Writing in Swedish as a second language involves expressing oneself in written Swedish to communicate, narrate, describe and argue. This includes developing knowledge of the norms of written language, text structures and genres as well as revising texts individually and together with others. The development of writing progresses from writing simple texts with support from images and conversations to being able to produce coherent texts in different genres with increasing linguistic correctness and variation."
+        }
+      },
+      {
+        "code": "GF3",
+        "name": {
+          "local": "Att kunna läsa",
+          "en": "Reading"
+        },
+        "description": {
+          "local": "Att kunna läsa i svenska som andraspråk innebär att kunna avkoda, förstå och tolka skönlitteratur och andra texter på svenska. Det omfattar att använda lässtrategier anpassade efter textens form och innehåll, att utveckla ordförrådet genom läsning samt att relatera texters innehåll till egna erfarenheter och kunskaper. Utvecklingen av läsning går från att avkoda och förstå enkla texter till att kunna läsa, analysera och reflektera över texter i olika genrer för skilda syften.",
+          "en": "Reading in Swedish as a second language involves being able to decode, understand and interpret fiction and other texts in Swedish. This includes using reading strategies adapted to the form and content of the text, developing vocabulary through reading, and relating the content of texts to one's own experiences and knowledge. The development of reading progresses from decoding and understanding simple texts to being able to read, analyse and reflect on texts in different genres for various purposes."
+        }
+      },
+      {
+        "code": "GF4",
+        "name": {
+          "local": "Att kunna räkna",
+          "en": "Numeracy"
+        },
+        "description": {
+          "local": "Att kunna räkna i svenska som andraspråk innebär att förstå och använda numeriska uttryck, tabeller och diagram som förekommer i texter på svenska. Det omfattar att kunna tolka och kommunicera om information som presenteras i numerisk form, exempelvis i nyheter, faktatexter och vardagliga sammanhang. Utvecklingen av räknefärdigheter går från att förstå enkla tal och mått i texter till att kunna tolka och diskutera statistik och numerisk information i mer komplexa sammanhang.",
+          "en": "Numeracy in Swedish as a second language involves understanding and using numerical expressions, tables and diagrams that appear in Swedish texts. This includes being able to interpret and communicate about information presented in numerical form, for example in news, factual texts and everyday contexts. The development of numeracy progresses from understanding simple numbers and measurements in texts to being able to interpret and discuss statistics and numerical information in more complex contexts."
+        }
+      },
+      {
+        "code": "GF5",
+        "name": {
+          "local": "Digitala färdigheter",
+          "en": "Digital skills"
+        },
+        "description": {
+          "local": "Digitala färdigheter i svenska som andraspråk innebär att använda digitala verktyg för att söka information, kommunicera och skapa texter på svenska. Det omfattar att navigera i digitala miljöer, kritiskt värdera digitala källor och använda interaktiva och föränderliga texter. Utvecklingen av digitala färdigheter går från att använda enkla digitala verktyg för att skriva och söka information till att självständigt söka, värdera och använda digitala resurser samt skapa och kommunicera med texter i digitala miljöer.",
+          "en": "Digital skills in Swedish as a second language involve using digital tools to search for information, communicate and create texts in Swedish. This includes navigating digital environments, critically evaluating digital sources and using interactive and changeable texts. The development of digital skills progresses from using simple digital tools for writing and searching for information to independently searching for, evaluating and using digital resources as well as creating and communicating with texts in digital environments."
         }
       }
     ],

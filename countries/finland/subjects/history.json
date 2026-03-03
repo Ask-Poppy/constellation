@@ -4,13 +4,22 @@
     "api": "https://eperusteet.opintopolku.fi/eperusteet-service/api/external/peruste/419550/perusopetus/oppiaineet/466345",
     "curriculum": "POPS 2014",
     "license": "Open Government Data (Finland)",
-    "lastSynced": "2026-03-02T21:29:46Z"
+    "lastSynced": "2026-03-03T08:58:59Z",
+    "aiEnriched": [
+      "description.en",
+      "interdisciplinaryThemes",
+      "basicSkills"
+    ]
   },
   "subject": {
     "code": "HI",
     "name": {
       "local": "Historia",
       "en": "History"
+    },
+    "description": {
+      "local": "Historian opetuksen tehtävänä on kehittää oppilaiden historiatietoisuutta ja kulttuurien tuntemusta sekä kannustaa heitä omaksumaan vastuullisen kansalaisuuden periaatteet. Menneisyyttä koskevan tiedon avulla oppilaita ohjataan ymmärtämään nykyisyyteen johtanutta kehitystä, henkisen ja aineellisen työn arvoa sekä pohtimaan tulevaisuuden valintoja. Oppilaita ohjataan näkemään yksilön merkitys historiallisena toimijana sekä oivaltamaan toiminnan taustalla esiintyviä tekijöitä ja ihmisten motiiveja. Tarkoituksena on tukea oppilaiden identiteetin rakentumista sekä edistää heidän kasvuaan aktiivisiksi ja erilaisuutta ymmärtäviksi yhteiskunnan jäseniksi.\n\nHistorianopetuksessa oppilaat paneutuvat erilaisten toimijoiden tuottaman tiedon kriittiseen käsittelyyn ja historiallisen lähdeaineiston ulottuvuuksiin. Opetuksessa syvennytään lisäksi historiantutkimuksen lähtökohtaan, jonka mukaan menneestä pyritään muodostamaan mahdollisimman luotettava kuva saatavilla olevan todistusaineiston perusteella. Opetuksen tavoitteena on kehittää historian tekstitaitoja: taitoa lukea ja analysoida menneisyyden toimijoiden tuottamia lähteitä sekä tehdä päteviä tulkintoja niiden tarkoituksesta ja merkityksestä.\n\nOppilaita ohjataan ymmärtämään historiatiedon tulkinnallisuutta ja moniperspektiivisyyttä sekä selittämään historiallisessa kehityksessä ilmenevää muutosta ja jatkuvuutta. Historianopetus auttaa oppilaita tunnistamaan yhteiskunnassa olevia arvoja, arvojännitteitä ja niissä tapahtuneita muutoksia eri aikoina.",
+      "en": "The task of history education is to develop pupils's historical consciousness and knowledge of cultures, and to encourage them to adopt the principles of responsible citizenship. Through knowledge of the past, pupils are guided to understand the developments that have led to the present, the value of intellectual and material work, and to consider future choices. Pupils are guided to see the significance of the individual as a historical actor and to recognise the factors and motives behind human actions. The aim is to support the building of pupils' identities and to promote their growth as active members of society who understand diversity.\n\nIn history education, pupils engage in the critical examination of information produced by various actors and the dimensions of historical source material. Teaching also delves into the starting point of historical research, according to which a picture of the past that is as reliable as possible is constructed on the basis of available evidence. The aim of teaching is to develop historical literacy: the ability to read and analyse sources produced by past actors and to make valid interpretations of their purpose and significance.\n\nPupils are guided to understand the interpretive and multi-perspective nature of historical knowledge and to explain change and continuity in historical development. History education helps pupils to identify values present in society, value tensions, and the changes that have occurred in them over different periods."
     },
     "coreElements": [
       {
@@ -135,6 +144,98 @@
         }
       }
     ],
+    "interdisciplinaryThemes": [
+      {
+        "code": "TT1",
+        "name": {
+          "local": "Terveys ja elämänhallinta",
+          "en": "Health and life skills"
+        },
+        "description": {
+          "local": "Historian opetuksessa terveys ja elämänhallinta -teema ilmenee oppilaiden identiteetin rakentumisen tukemisena ja itsetuntemuksen vahvistamisena historiallisen tiedon avulla. Menneisyyden tapahtumien ja ihmiskohtaloiden tarkastelu auttaa oppilaita ymmärtämään inhimillisiä kokemuksia ja kehittämään empatiaa sekä tunnetaitoja. Historia tarjoaa välineitä elämän merkityksellisyyden pohdintaan ja oman paikan hahmottamiseen yhteiskunnan jatkumossa.",
+          "en": "In history education, the theme of health and life skills manifests through supporting the building of pupils' identities and strengthening self-knowledge through historical knowledge. Examining past events and human destinies helps pupils understand human experiences and develop empathy and emotional skills. History provides tools for reflecting on the meaningfulness of life and understanding one's place in the continuum of society."
+        }
+      },
+      {
+        "code": "TT2",
+        "name": {
+          "local": "Demokratia ja kansalaisuus",
+          "en": "Democracy and citizenship"
+        },
+        "description": {
+          "local": "Historian opetuksessa demokratia ja kansalaisuus -teema on keskeisessä asemassa, sillä oppiaine käsittelee demokratian syntyä ja kehitystä antiikista nykypäivään. Oppilaat tutustuvat kansalaisoikeuksien, ihmisoikeuksien ja demokraattisten instituutioiden historialliseen kehitykseen sekä pohtivat aktiivisen kansalaisuuden merkitystä eri aikakausina. Historiallinen tieto auttaa oppilaita ymmärtämään demokraattisten arvojen merkitystä ja niiden puolustamisen tärkeyttä.",
+          "en": "In history education, the theme of democracy and citizenship holds a central position, as the subject addresses the birth and development of democracy from antiquity to the present day. Pupils explore the historical development of civil rights, human rights, and democratic institutions, and reflect on the significance of active citizenship across different eras. Historical knowledge helps pupils understand the importance of democratic values and the necessity of defending them."
+        }
+      },
+      {
+        "code": "TT3",
+        "name": {
+          "local": "Kestävä kehitys",
+          "en": "Sustainability"
+        },
+        "description": {
+          "local": "Historian opetuksessa kestävä kehitys -teema näkyy ihmisen ja luonnon suhteen tarkastelussa eri aikakausina, erityisesti teollistumisen ja kaupungistumisen yhteydessä. Oppilaat pohtivat, miten historialliset valinnat ovat vaikuttaneet ympäristöön ja luonnonvarojen käyttöön, ja miten menneisyyden kokemukset voivat ohjata kestävämpiä tulevaisuuden valintoja. Historiallinen perspektiivi auttaa ymmärtämään yhteiskunnallisten muutosten pitkäaikaisia seurauksia ekologiselle ja sosiaaliselle kestävyydelle.",
+          "en": "In history education, the theme of sustainability is evident in the examination of the relationship between humans and nature across different eras, particularly in connection with industrialisation and urbanisation. Pupils reflect on how historical choices have affected the environment and the use of natural resources, and how past experiences can guide more sustainable future choices. A historical perspective helps in understanding the long-term consequences of societal changes for ecological and social sustainability."
+        }
+      }
+    ],
+    "basicSkills": [
+      {
+        "code": "GF1",
+        "name": {
+          "local": "Suulliset taidot",
+          "en": "Oral skills"
+        },
+        "description": {
+          "local": "Historian opetuksessa suulliset taidot kehittyvät, kun oppilaat keskustelevat historiallisista tapahtumista, esittävät tulkintojaan ja perustelevat näkemyksiään suullisesti. Oppilaat harjoittelevat historiallisten argumenttien muodostamista ja erilaisten näkökulmien puolustamista keskusteluissa ja esitelmissä. Suullinen ilmaisu on keskeistä myös historiallisten lähteiden analysoinnin tulosten jakamisessa.",
+          "en": "In history education, oral skills develop as pupils discuss historical events, present their interpretations, and justify their views orally. Pupils practise forming historical arguments and defending different perspectives in discussions and presentations. Oral expression is also central to sharing the results of historical source analysis."
+        }
+      },
+      {
+        "code": "GF2",
+        "name": {
+          "local": "Kirjoittaminen",
+          "en": "Writing"
+        },
+        "description": {
+          "local": "Historian opetuksessa kirjoittaminen on keskeinen taito, kun oppilaat laativat historiallisia tulkintoja, kirjoittavat lähdeanalyysejä ja muodostavat perusteltuja argumentteja kirjallisesti. Oppilaat harjoittelevat historiallisen tekstin tuottamista, jossa hyödynnetään lähteitä ja rakennetaan johdonmukaisia selityksiä menneisyyden tapahtumille. Kirjallinen ilmaisu kehittyy erilaisten historiallisten tekstilajien, kuten esseiden ja tutkielmien, kautta.",
+          "en": "In history education, writing is a central skill as pupils compose historical interpretations, write source analyses, and form reasoned arguments in written form. Pupils practise producing historical texts that draw on sources and construct coherent explanations of past events. Written expression develops through various historical text genres, such as essays and research papers."
+        }
+      },
+      {
+        "code": "GF3",
+        "name": {
+          "local": "Lukeminen",
+          "en": "Reading"
+        },
+        "description": {
+          "local": "Historian opetuksessa lukutaito on olennainen osa oppimista, sillä oppilaat lukevat ja tulkitsevat erilaisia historiallisia lähteitä, kuten alkuperäislähteitä, oppikirjatekstejä ja tutkimuskirjallisuutta. Oppilaat kehittävät kriittistä lukutaitoa arvioimalla lähteiden luotettavuutta, tarkoitusta ja kontekstia. Historiallisten tekstien lukeminen edellyttää kykyä tunnistaa eri näkökulmia ja ymmärtää tekstien tulkinnallisuutta.",
+          "en": "In history education, reading is an essential part of learning, as pupils read and interpret various historical sources, including primary sources, textbook content, and research literature. Pupils develop critical reading skills by evaluating the reliability, purpose, and context of sources. Reading historical texts requires the ability to identify different perspectives and understand the interpretive nature of texts."
+        }
+      },
+      {
+        "code": "GF4",
+        "name": {
+          "local": "Laskutaito",
+          "en": "Numeracy"
+        },
+        "description": {
+          "local": "Historian opetuksessa laskutaito ilmenee aikajanojen, kronologian ja ajanjaksojen hahmottamisena sekä tilastollisen aineiston tulkintana. Oppilaat käyttävät numeerista tietoa analysoidessaan väestönmuutoksia, taloudellisia kehityskulkuja ja muita historiallisia ilmiöitä. Laskutaito auttaa oppilaita ymmärtämään historiallisten muutosten mittakaavaa ja ajallista ulottuvuutta.",
+          "en": "In history education, numeracy manifests in the comprehension of timelines, chronology, and time periods, as well as in the interpretation of statistical material. Pupils use numerical data when analysing population changes, economic developments, and other historical phenomena. Numeracy helps pupils understand the scale and temporal dimension of historical changes."
+        }
+      },
+      {
+        "code": "GF5",
+        "name": {
+          "local": "Digitaaliset taidot",
+          "en": "Digital skills"
+        },
+        "description": {
+          "local": "Historian opetuksessa digitaaliset taidot kehittyvät, kun oppilaat hyödyntävät digitaalisia arkistoja, tietokantoja ja verkkolähteitä historiallisen tiedon hankinnassa. Oppilaat oppivat arvioimaan verkossa olevan historiallisen tiedon luotettavuutta ja käyttämään digitaalisia välineitä esitysten, aikajanojen ja tutkielmien laatimiseen. Tieto- ja viestintäteknologia mahdollistaa myös historiallisten aineistojen monipuolisen käsittelyn ja jakamisen.",
+          "en": "In history education, digital skills develop as pupils utilise digital archives, databases, and online sources for acquiring historical knowledge. Pupils learn to evaluate the reliability of historical information found online and to use digital tools for creating presentations, timelines, and research papers. Information and communication technology also enables versatile processing and sharing of historical materials."
+        }
+      }
+    ],
     "gradeBands": [
       {
         "afterGrade": 6,
@@ -150,11 +251,11 @@
               "en": "T1 guide the pupil to become interested in history as a field of knowledge and as a subject that builds identity"
             },
             "coreElements": [
-              "S3 Suomea luodaan, rakennetaan ja puolustetaan",
-              "S4 Suurten sotien aika",
-              "S1 Teollisuusyhteiskunnan synty ja kehitys",
-              "S2 Ihmiset muuttavat maailmaa",
-              "S5 Hyvinvointiyhteiskunnan rakentaminen"
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S5"
             ],
             "verbs": []
           },
@@ -165,11 +266,11 @@
               "en": "T2 lead the pupil to recognise different types of historical sources"
             },
             "coreElements": [
-              "S3 Suomea luodaan, rakennetaan ja puolustetaan",
-              "S4 Suurten sotien aika",
-              "S1 Teollisuusyhteiskunnan synty ja kehitys",
-              "S2 Ihmiset muuttavat maailmaa",
-              "S5 Hyvinvointiyhteiskunnan rakentaminen"
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S5"
             ],
             "verbs": []
           },
@@ -180,11 +281,11 @@
               "en": "T3 guide the pupil to notice the interpretive nature of historical knowledge"
             },
             "coreElements": [
-              "S3 Suomea luodaan, rakennetaan ja puolustetaan",
-              "S4 Suurten sotien aika",
-              "S1 Teollisuusyhteiskunnan synty ja kehitys",
-              "S2 Ihmiset muuttavat maailmaa",
-              "S5 Hyvinvointiyhteiskunnan rakentaminen"
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S5"
             ],
             "verbs": []
           },
@@ -195,11 +296,11 @@
               "en": "T4 help the pupil understand different ways of dividing history into periods and to use related historical concepts"
             },
             "coreElements": [
-              "S3 Suomea luodaan, rakennetaan ja puolustetaan",
-              "S4 Suurten sotien aika",
-              "S1 Teollisuusyhteiskunnan synty ja kehitys",
-              "S2 Ihmiset muuttavat maailmaa",
-              "S5 Hyvinvointiyhteiskunnan rakentaminen"
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S5"
             ],
             "verbs": []
           },
@@ -210,11 +311,11 @@
               "en": "T5 guide the pupil to understand the motives behind human actions"
             },
             "coreElements": [
-              "S3 Suomea luodaan, rakennetaan ja puolustetaan",
-              "S4 Suurten sotien aika",
-              "S1 Teollisuusyhteiskunnan synty ja kehitys",
-              "S2 Ihmiset muuttavat maailmaa",
-              "S5 Hyvinvointiyhteiskunnan rakentaminen"
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S5"
             ],
             "verbs": []
           },
@@ -225,11 +326,11 @@
               "en": "T6 lead the pupil to identify various causes and consequences of historical events and phenomena"
             },
             "coreElements": [
-              "S3 Suomea luodaan, rakennetaan ja puolustetaan",
-              "S4 Suurten sotien aika",
-              "S1 Teollisuusyhteiskunnan synty ja kehitys",
-              "S2 Ihmiset muuttavat maailmaa",
-              "S5 Hyvinvointiyhteiskunnan rakentaminen"
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S5"
             ],
             "verbs": []
           },
@@ -240,11 +341,11 @@
               "en": "T7 help the pupil identify changes in the history of their own family or community and understand how the same changes may have meant different things to different people"
             },
             "coreElements": [
-              "S3 Suomea luodaan, rakennetaan ja puolustetaan",
-              "S4 Suurten sotien aika",
-              "S1 Teollisuusyhteiskunnan synty ja kehitys",
-              "S2 Ihmiset muuttavat maailmaa",
-              "S5 Hyvinvointiyhteiskunnan rakentaminen"
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S5"
             ],
             "verbs": []
           },
@@ -255,11 +356,11 @@
               "en": "T8 practise the pupil in perceiving continuities in history"
             },
             "coreElements": [
-              "S3 Suomea luodaan, rakennetaan ja puolustetaan",
-              "S4 Suurten sotien aika",
-              "S1 Teollisuusyhteiskunnan synty ja kehitys",
-              "S2 Ihmiset muuttavat maailmaa",
-              "S5 Hyvinvointiyhteiskunnan rakentaminen"
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S5"
             ],
             "verbs": []
           },
@@ -270,11 +371,11 @@
               "en": "T9 guide the pupil to present reasons for changes"
             },
             "coreElements": [
-              "S3 Suomea luodaan, rakennetaan ja puolustetaan",
-              "S4 Suurten sotien aika",
-              "S1 Teollisuusyhteiskunnan synty ja kehitys",
-              "S2 Ihmiset muuttavat maailmaa",
-              "S5 Hyvinvointiyhteiskunnan rakentaminen"
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S5"
             ],
             "verbs": []
           },
@@ -285,11 +386,11 @@
               "en": "T10 guide the pupil to explain how interpretations may change with new sources or approaches"
             },
             "coreElements": [
-              "S3 Suomea luodaan, rakennetaan ja puolustetaan",
-              "S4 Suurten sotien aika",
-              "S1 Teollisuusyhteiskunnan synty ja kehitys",
-              "S2 Ihmiset muuttavat maailmaa",
-              "S5 Hyvinvointiyhteiskunnan rakentaminen"
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S5"
             ],
             "verbs": []
           },
@@ -300,11 +401,11 @@
               "en": "T11 guide the pupil to explain human actions"
             },
             "coreElements": [
-              "S3 Suomea luodaan, rakennetaan ja puolustetaan",
-              "S4 Suurten sotien aika",
-              "S1 Teollisuusyhteiskunnan synty ja kehitys",
-              "S2 Ihmiset muuttavat maailmaa",
-              "S5 Hyvinvointiyhteiskunnan rakentaminen"
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S5"
             ],
             "verbs": []
           }
@@ -324,12 +425,12 @@
               "en": "T1 strengthen the pupil's interest in history as a field of knowledge and as a subject that builds identity"
             },
             "coreElements": [
-              "S6 Nykyisen maailmanpolitiikan juuret",
-              "S1 Teollisuusyhteiskunnan synty ja kehitys",
-              "S3 Suomea luodaan, rakennetaan ja puolustetaan",
-              "S2 Ihmiset muuttavat maailmaa",
-              "S5 Hyvinvointiyhteiskunnan rakentaminen",
-              "S4 Suurten sotien aika"
+              "S6",
+              "S1",
+              "S3",
+              "S2",
+              "S5",
+              "S4"
             ],
             "verbs": []
           },
@@ -340,12 +441,12 @@
               "en": "T2 activate the pupil to acquire historical knowledge and to evaluate the reliability of sources"
             },
             "coreElements": [
-              "S6 Nykyisen maailmanpolitiikan juuret",
-              "S1 Teollisuusyhteiskunnan synty ja kehitys",
-              "S3 Suomea luodaan, rakennetaan ja puolustetaan",
-              "S2 Ihmiset muuttavat maailmaa",
-              "S5 Hyvinvointiyhteiskunnan rakentaminen",
-              "S4 Suurten sotien aika"
+              "S6",
+              "S1",
+              "S3",
+              "S2",
+              "S5",
+              "S4"
             ],
             "verbs": []
           },
@@ -356,12 +457,12 @@
               "en": "T3 help the pupil understand that historical knowledge can be interpreted in different ways"
             },
             "coreElements": [
-              "S6 Nykyisen maailmanpolitiikan juuret",
-              "S1 Teollisuusyhteiskunnan synty ja kehitys",
-              "S3 Suomea luodaan, rakennetaan ja puolustetaan",
-              "S2 Ihmiset muuttavat maailmaa",
-              "S5 Hyvinvointiyhteiskunnan rakentaminen",
-              "S4 Suurten sotien aika"
+              "S6",
+              "S1",
+              "S3",
+              "S2",
+              "S5",
+              "S4"
             ],
             "verbs": []
           },
@@ -372,12 +473,12 @@
               "en": "T4 strengthen the pupil's ability to understand historical time and related concepts"
             },
             "coreElements": [
-              "S6 Nykyisen maailmanpolitiikan juuret",
-              "S1 Teollisuusyhteiskunnan synty ja kehitys",
-              "S3 Suomea luodaan, rakennetaan ja puolustetaan",
-              "S2 Ihmiset muuttavat maailmaa",
-              "S5 Hyvinvointiyhteiskunnan rakentaminen",
-              "S4 Suurten sotien aika"
+              "S6",
+              "S1",
+              "S3",
+              "S2",
+              "S5",
+              "S4"
             ],
             "verbs": []
           },
@@ -388,12 +489,12 @@
               "en": "T5 guide the pupil to understand the factors that have influenced human actions and decision-making in various historical situations"
             },
             "coreElements": [
-              "S6 Nykyisen maailmanpolitiikan juuret",
-              "S1 Teollisuusyhteiskunnan synty ja kehitys",
-              "S3 Suomea luodaan, rakennetaan ja puolustetaan",
-              "S2 Ihmiset muuttavat maailmaa",
-              "S5 Hyvinvointiyhteiskunnan rakentaminen",
-              "S4 Suurten sotien aika"
+              "S6",
+              "S1",
+              "S3",
+              "S2",
+              "S5",
+              "S4"
             ],
             "verbs": []
           },
@@ -404,12 +505,12 @@
               "en": "T6 help the pupil evaluate various causes of historical events and phenomena"
             },
             "coreElements": [
-              "S6 Nykyisen maailmanpolitiikan juuret",
-              "S1 Teollisuusyhteiskunnan synty ja kehitys",
-              "S3 Suomea luodaan, rakennetaan ja puolustetaan",
-              "S2 Ihmiset muuttavat maailmaa",
-              "S5 Hyvinvointiyhteiskunnan rakentaminen",
-              "S4 Suurten sotien aika"
+              "S6",
+              "S1",
+              "S3",
+              "S2",
+              "S5",
+              "S4"
             ],
             "verbs": []
           },
@@ -420,12 +521,12 @@
               "en": "T7 guide the pupil to analyse historical change and continuity"
             },
             "coreElements": [
-              "S6 Nykyisen maailmanpolitiikan juuret",
-              "S1 Teollisuusyhteiskunnan synty ja kehitys",
-              "S3 Suomea luodaan, rakennetaan ja puolustetaan",
-              "S2 Ihmiset muuttavat maailmaa",
-              "S5 Hyvinvointiyhteiskunnan rakentaminen",
-              "S4 Suurten sotien aika"
+              "S6",
+              "S1",
+              "S3",
+              "S2",
+              "S5",
+              "S4"
             ],
             "verbs": []
           },
@@ -436,12 +537,12 @@
               "en": "T8 encourage the pupil to make interpretations"
             },
             "coreElements": [
-              "S6 Nykyisen maailmanpolitiikan juuret",
-              "S1 Teollisuusyhteiskunnan synty ja kehitys",
-              "S3 Suomea luodaan, rakennetaan ja puolustetaan",
-              "S2 Ihmiset muuttavat maailmaa",
-              "S5 Hyvinvointiyhteiskunnan rakentaminen",
-              "S4 Suurten sotien aika"
+              "S6",
+              "S1",
+              "S3",
+              "S2",
+              "S5",
+              "S4"
             ],
             "verbs": []
           },
@@ -452,12 +553,12 @@
               "en": "T9 guide the pupil to explain the purposes behind human actions"
             },
             "coreElements": [
-              "S6 Nykyisen maailmanpolitiikan juuret",
-              "S1 Teollisuusyhteiskunnan synty ja kehitys",
-              "S3 Suomea luodaan, rakennetaan ja puolustetaan",
-              "S2 Ihmiset muuttavat maailmaa",
-              "S5 Hyvinvointiyhteiskunnan rakentaminen",
-              "S4 Suurten sotien aika"
+              "S6",
+              "S1",
+              "S3",
+              "S2",
+              "S5",
+              "S4"
             ],
             "verbs": []
           },
@@ -468,12 +569,12 @@
               "en": "T10 guide the pupil to explain why historical knowledge can be interpreted and used differently in different situations and to critically evaluate the reliability of interpretations"
             },
             "coreElements": [
-              "S6 Nykyisen maailmanpolitiikan juuret",
-              "S1 Teollisuusyhteiskunnan synty ja kehitys",
-              "S3 Suomea luodaan, rakennetaan ja puolustetaan",
-              "S2 Ihmiset muuttavat maailmaa",
-              "S5 Hyvinvointiyhteiskunnan rakentaminen",
-              "S4 Suurten sotien aika"
+              "S6",
+              "S1",
+              "S3",
+              "S2",
+              "S5",
+              "S4"
             ],
             "verbs": []
           },
@@ -484,12 +585,12 @@
               "en": "T11 train the pupil to use different sources, compare them and form their own reasoned interpretation based on them"
             },
             "coreElements": [
-              "S6 Nykyisen maailmanpolitiikan juuret",
-              "S1 Teollisuusyhteiskunnan synty ja kehitys",
-              "S3 Suomea luodaan, rakennetaan ja puolustetaan",
-              "S2 Ihmiset muuttavat maailmaa",
-              "S5 Hyvinvointiyhteiskunnan rakentaminen",
-              "S4 Suurten sotien aika"
+              "S6",
+              "S1",
+              "S3",
+              "S2",
+              "S5",
+              "S4"
             ],
             "verbs": []
           },
@@ -500,12 +601,12 @@
               "en": "T12 guide the pupil to evaluate future alternatives using their knowledge of history"
             },
             "coreElements": [
-              "S6 Nykyisen maailmanpolitiikan juuret",
-              "S1 Teollisuusyhteiskunnan synty ja kehitys",
-              "S3 Suomea luodaan, rakennetaan ja puolustetaan",
-              "S2 Ihmiset muuttavat maailmaa",
-              "S5 Hyvinvointiyhteiskunnan rakentaminen",
-              "S4 Suurten sotien aika"
+              "S6",
+              "S1",
+              "S3",
+              "S2",
+              "S5",
+              "S4"
             ],
             "verbs": []
           }

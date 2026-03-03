@@ -97,14 +97,36 @@ Each subject file follows a common format:
 |-------|-------------|-----------|
 | `description` | Subject purpose and relevance | Norway, Sweden, Finland |
 | `coreElements` | Key knowledge areas within the subject | All |
-| `interdisciplinaryThemes` | Cross-subject themes (health, democracy, sustainability) | Norway |
-| `basicSkills` | Foundational skills applied in the subject (oral, reading, writing, numeracy, digital) | Norway |
+| `interdisciplinaryThemes` | Cross-subject themes (health, democracy, sustainability) | All |
+| `basicSkills` | Foundational skills applied in the subject (oral, reading, writing, numeracy, digital) | All |
 | `gradeBands[].assessment` | Assessment arrangements (coursework, exams) for the grade band | Norway |
 | `gradeBands[].knowledgeCriteria` | Graded knowledge requirements (E through A) | Sweden |
 
 ### Bilingual Text
 
 All text fields use `{ "local": "...", "en": "..." }` where `local` is the country's language (Norwegian Bokmål, Swedish, or Finnish) and `en` is the English translation.
+
+### Data Provenance
+
+Norway's fields are sourced entirely from the UDIR API. For Sweden and Finland, where government APIs don't provide equivalent cross-curricular data, some fields are AI-generated. Each subject's `source` block includes an `aiEnriched` array listing which fields were AI-generated:
+
+```json
+"source": {
+  "api": "https://api.skolverket.se/syllabus/v1/subjects/GRGRMAT01",
+  "curriculum": "Lgr22",
+  "license": "CC0",
+  "lastSynced": "2026-03-03T...",
+  "aiEnriched": ["description.en", "interdisciplinaryThemes", "basicSkills"]
+}
+```
+
+| Country | `description.local` | `description.en` | `interdisciplinaryThemes` | `basicSkills` |
+|---------|---------------------|-------------------|---------------------------|---------------|
+| Norway | UDIR API | UDIR API | UDIR API | UDIR API |
+| Sweden | Skolverket API | AI-translated | AI-generated | AI-generated |
+| Finland | ePerusteet API | AI-translated | AI-generated | AI-generated |
+
+Files without `aiEnriched` contain only official API data.
 
 ## Usage
 

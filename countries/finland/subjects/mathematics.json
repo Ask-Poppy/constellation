@@ -4,13 +4,18 @@
     "api": "https://eperusteet.opintopolku.fi/eperusteet-service/api/external/peruste/419550/perusopetus/oppiaineet/466344",
     "curriculum": "POPS 2014",
     "license": "Open Government Data (Finland)",
-    "lastSynced": "2026-03-02T21:29:44Z"
+    "lastSynced": "2026-03-03T08:58:57Z",
+    "aiEnriched": ["description.en", "interdisciplinaryThemes", "basicSkills"]
   },
   "subject": {
     "code": "MA",
     "name": {
       "local": "Matematiikka",
       "en": "Mathematics"
+    },
+    "description": {
+      "local": "Matematiikan opetuksen tehtävänä on kehittää oppilaiden loogista, täsmällistä ja luovaa matemaattista ajattelua. Opetus luo pohjan matemaattisten käsitteiden ja rakenteiden ymmärtämiselle sekä kehittää oppilaiden kykyä käsitellä tietoa ja ratkaista ongelmia. Matematiikan kumulatiivisesta luonteesta johtuen opetus etenee systemaattisesti. Konkretia ja toiminnallisuus ovat keskeinen osa matematiikan opetusta ja opiskelua. Oppimista tuetaan hyödyntämällä tieto- ja viestintäteknologiaa.\n\nMatematiikan opetus tukee oppilaiden myönteistä asennetta matematiikkaa kohtaan sekä positiivista minäkuvaa matematiikan oppijoina. Se kehittää myös viestintä-, vuorovaikutus- ja yhteistyötaitoja. Matematiikan opiskelu on tavoitteellista ja pitkäjänteistä toimintaa, jossa oppilaat ottavat vastuuta omasta oppimisestaan.\n\nOpetus ohjaa oppilaita ymmärtämään matematiikan hyödyllisyyden omassa elämässään ja laajemmin yhteiskunnassa. Opetus kehittää oppilaiden kykyä käyttää ja soveltaa matematiikkaa monipuolisesti.",
+      "en": "The task of mathematics education is to develop pupils' logical, precise, and creative mathematical thinking. Teaching creates a foundation for understanding mathematical concepts and structures and develops pupils' ability to process information and solve problems. Due to the cumulative nature of mathematics, teaching progresses systematically. Concrete and hands-on activities are a central part of mathematics teaching and learning. Learning is supported by utilising information and communication technology.\n\nMathematics education supports pupils' positive attitude towards mathematics and a positive self-image as learners of mathematics. It also develops communication, interaction, and collaboration skills. The study of mathematics is a goal-oriented and sustained activity in which pupils take responsibility for their own learning.\n\nTeaching guides pupils to understand the usefulness of mathematics in their own lives and more broadly in society. Teaching develops pupils' ability to use and apply mathematics in versatile ways."
     },
     "coreElements": [
       {
@@ -132,6 +137,98 @@
         "description": {
           "local": "Kehitetään oppilaiden taitoja kerätä tietoa järjestelmällisesti kiinnostavista aihepiireistä. Tallennetaan ja esitetään tietoa taulukoiden ja diagrammien avulla. Käsitellään tilastollisista tunnusluvuista suurin ja pienin arvo, keskiarvo ja tyyppiarvo.\n\nTutustutaan todennäköisyyteen arkitilanteiden perusteella päättelemällä, onko tapahtuma mahdoton, mahdollinen vai varma.",
           "en": "Pupils' skills in collecting data systematically on topics of interest are developed. Data is recorded and presented using tables and diagrams. The statistical measures of maximum and minimum value, mean, and mode are covered.\n\nProbability is introduced by reasoning from everyday situations whether an event is impossible, possible, or certain."
+        }
+      }
+    ],
+    "interdisciplinaryThemes": [
+      {
+        "code": "TT1",
+        "name": {
+          "local": "Terveys ja elämänhallinta",
+          "en": "Health and life skills"
+        },
+        "description": {
+          "local": "Matematiikan opetus tukee oppilaiden kykyä hallita arkielämää kehittämällä ongelmanratkaisutaitoja, tilastollista lukutaitoa ja henkilökohtaisen talouden ymmärrystä. Prosenttilaskennan, budjetoinnin ja tilastollisten tunnuslukujen osaaminen auttaa oppilaita tekemään vastuullisia päätöksiä omassa elämässään.",
+          "en": "Mathematics education supports pupils' ability to manage everyday life by developing problem-solving skills, statistical literacy, and understanding of personal finances. Competence in percentage calculations, budgeting, and statistical measures helps pupils make responsible decisions in their own lives."
+        }
+      },
+      {
+        "code": "TT2",
+        "name": {
+          "local": "Demokratia ja kansalaisuus",
+          "en": "Democracy and citizenship"
+        },
+        "description": {
+          "local": "Matematiikan opetuksessa demokratia ja kansalaisuus toteutuvat oppilaiden oppiessa analysoimaan tilastoja, tulkitsemaan diagrammeja ja arvioimaan kriittisesti matemaattisten mallien luotettavuutta. Nämä taidot ovat välttämättömiä yhteiskunnalliseen keskusteluun osallistumisessa ja tietoon perustuvien päätösten tekemisessä.",
+          "en": "In mathematics education, democracy and citizenship are realised as pupils learn to analyse statistics, interpret diagrams, and critically evaluate the reliability of mathematical models. These skills are essential for participating in societal discussion and making informed decisions."
+        }
+      },
+      {
+        "code": "TT3",
+        "name": {
+          "local": "Kestävä kehitys",
+          "en": "Sustainability"
+        },
+        "description": {
+          "local": "Matematiikan opetuksessa kestävä kehitys näkyy oppilaiden oppiessa mallintamaan ja analysoimaan ympäristöilmiöitä, kuten resurssien kulutusta ja väestönkasvua, matemaattisten työkalujen avulla. Tilastolliset taidot ja funktioiden ymmärtäminen auttavat oppilaita hahmottamaan kestävän kehityksen haasteita.",
+          "en": "In mathematics education, sustainability is reflected as pupils learn to model and analyse environmental phenomena, such as resource consumption and population growth, using mathematical tools. Statistical skills and understanding of functions help pupils comprehend the challenges of sustainable development."
+        }
+      }
+    ],
+    "basicSkills": [
+      {
+        "code": "GF1",
+        "name": {
+          "local": "Suulliset taidot",
+          "en": "Oral skills"
+        },
+        "description": {
+          "local": "Suulliset taidot matematiikassa tarkoittavat matemaattisten ajatusten ja ratkaisujen esittämistä, perustelemista ja keskustelemista muiden kanssa. Oppilas kehittyy arkikielisistä ilmauksista kohti täsmällistä matemaattista kieltä käyttäen oikeita käsitteitä ja merkintätapoja.",
+          "en": "Oral skills in mathematics mean presenting, justifying, and discussing mathematical ideas and solutions with others. The pupil develops from everyday language expressions towards precise mathematical language, using correct concepts and notations."
+        }
+      },
+      {
+        "code": "GF2",
+        "name": {
+          "local": "Kirjoittaminen",
+          "en": "Writing"
+        },
+        "description": {
+          "local": "Kirjoittaminen matematiikassa tarkoittaa matemaattisten ratkaisujen, päätelmien ja perustelujen tuottamista kirjallisesti. Oppilas oppii käyttämään matemaattista merkintätapaa, esittämään ratkaisut jäsennellysti ja tuottamaan matemaattista tekstiä yhdistäen symboleja ja sanallisia selityksiä.",
+          "en": "Writing in mathematics means producing mathematical solutions, conclusions, and justifications in written form. The pupil learns to use mathematical notation, present solutions in a structured manner, and produce mathematical text combining symbols and verbal explanations."
+        }
+      },
+      {
+        "code": "GF3",
+        "name": {
+          "local": "Lukeminen",
+          "en": "Reading"
+        },
+        "description": {
+          "local": "Lukeminen matematiikassa tarkoittaa matemaattisten tekstien, tehtävänantojen, taulukoiden, diagrammien ja symbolisten ilmausten tulkitsemista ja ymmärtämistä. Oppilas oppii lukemaan ja erittelemään monimutkaisia sanallisia tehtäviä sekä tulkitsemaan matemaattisia esityksiä.",
+          "en": "Reading in mathematics means interpreting and understanding mathematical texts, task instructions, tables, diagrams, and symbolic expressions. The pupil learns to read and analyse complex word problems and to interpret mathematical representations."
+        }
+      },
+      {
+        "code": "GF4",
+        "name": {
+          "local": "Laskutaito",
+          "en": "Numeracy"
+        },
+        "description": {
+          "local": "Laskutaito on matematiikan ydinosaamisaluetta. Oppilas kehittää sujuvan peruslaskutaidon luonnollisilla luvuilla, murtoluvuilla, desimaaliluvuilla ja prosenteilla sekä oppii soveltamaan algebrallista laskentaa, geometrista mittaamista ja tilastollisia menetelmiä.",
+          "en": "Numeracy is a core competence area of mathematics. The pupil develops fluent basic calculation skills with natural numbers, fractions, decimals, and percentages, and learns to apply algebraic computation, geometric measurement, and statistical methods."
+        }
+      },
+      {
+        "code": "GF5",
+        "name": {
+          "local": "Digitaaliset taidot",
+          "en": "Digital skills"
+        },
+        "description": {
+          "local": "Digitaaliset taidot matematiikassa tarkoittavat tieto- ja viestintäteknologian hyödyntämistä laskennassa, ohjelmoinnissa, funktioiden kuvaajien piirtämisessä sekä tilastollisten aineistojen käsittelyssä. Oppilas käyttää simulaatioita, laskentataulukoita ja ohjelmointiympäristöjä matemaattisen ymmärryksen syventämiseen.",
+          "en": "Digital skills in mathematics mean utilising information and communication technology in computation, programming, drawing function graphs, and processing statistical data. The pupil uses simulations, spreadsheets, and programming environments to deepen mathematical understanding."
         }
       }
     ],

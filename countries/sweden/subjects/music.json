@@ -4,13 +4,18 @@
     "api": "https://api.skolverket.se/syllabus/v1/subjects/GRGRMUS01",
     "curriculum": "Lgr22",
     "license": "CC0",
-    "lastSynced": "2026-03-02T21:29:34Z"
+    "lastSynced": "2026-03-03T08:58:56Z",
+    "aiEnriched": ["description.en", "interdisciplinaryThemes", "basicSkills"]
   },
   "subject": {
     "code": "GRGRMUS01",
     "name": {
       "local": "Musik",
       "en": "Music"
+    },
+    "description": {
+      "local": "Undervisningen i ämnet musik ska syfta till att eleverna utvecklar kunskaper som gör det möjligt att delta i musikaliska sammanhang, både genom att själva musicera och genom att lyssna till musik. Undervisningen ska ge eleverna förutsättningar att tillägna sig musik som meningsbärande uttrycksform och kommunikationsmedel. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper i att använda röst, musikinstrument, digitala verktyg samt musikaliska begrepp och symboler i olika musikaliska former och sammanhang. Undervisningen ska ge eleverna förutsättningar att utveckla en musikalisk lyhördhet som gör det möjligt att i eget musicerande och i samarbete med andra skapa, bearbeta och framföra musik i olika former. Undervisningen ska ge eleverna både möjlighet att utveckla en tilltro till sin förmåga att sjunga och spela samt ett intresse för att utveckla sin musikaliska kreativitet. Genom undervisningen ska eleverna ges möjlighet att utveckla förmågan att uppleva och reflektera över musik från olika sammanhang. Elevernas erfarenheter av musik ska utmanas och fördjupas i mötet med andras musikaliska erfarenheter. Därigenom ska undervisningen bidra till att eleverna utvecklar förståelse för olika musikkulturer, såväl den egna som andras. Undervisningen i ämnet musik ska ge eleverna förutsättningar att utveckla",
+      "en": "Teaching in the subject of music shall aim to develop knowledge that enables pupils to participate in musical contexts, both by making music themselves and by listening to music. Teaching shall give pupils the conditions to acquire music as a meaningful form of expression and means of communication. Through teaching, pupils shall be given the opportunity to develop knowledge of using the voice, musical instruments, digital tools and musical concepts and symbols in different musical forms and contexts. Teaching shall give pupils the conditions to develop a musical sensitivity that makes it possible to create, process and perform music in different forms, both individually and in collaboration with others. Teaching shall give pupils both the opportunity to develop confidence in their ability to sing and play, as well as an interest in developing their musical creativity. Through teaching, pupils shall be given the opportunity to develop the ability to experience and reflect on music from different contexts. Pupils' experiences of music shall be challenged and deepened through encounters with others' musical experiences. In this way, teaching shall contribute to pupils developing understanding of different music cultures, both their own and others'."
     },
     "coreElements": [
       {
@@ -44,6 +49,98 @@
         "description": {
           "local": "förmåga att uppleva och reflektera över musikens innehåll, funktion och be­tydelse i olika sociala, kulturella och historiska sammanhang.",
           "en": "the ability to experience and reflect on the content, function and significance of music in different social, cultural and historical contexts."
+        }
+      }
+    ],
+    "interdisciplinaryThemes": [
+      {
+        "code": "TT1",
+        "name": {
+          "local": "Hälsa och livskompetens",
+          "en": "Health and life skills"
+        },
+        "description": {
+          "local": "I musik bidrar det temaövergripande temat hälsa och livskompetens till att eleverna utvecklar förmågan att uttrycka sig genom sång, spel och andra musikaliska aktiviteter, vilket stärker självkänsla och välbefinnande. Gemenskapen kring musicerande bygger relationer och ger en känsla av tillhörighet och meningsfullhet. Musik fungerar som en resurs för att hantera känslor och upplevelser i både vardag och mer utmanande situationer.",
+          "en": "In music, the interdisciplinary theme of health and life skills contributes to pupils developing the ability to express themselves through singing, playing and other musical activities, which strengthens self-esteem and wellbeing. The sense of community around music-making builds relationships and provides a feeling of belonging and meaningfulness. Music functions as a resource for managing emotions and experiences in both everyday life and more challenging situations."
+        }
+      },
+      {
+        "code": "TT2",
+        "name": {
+          "local": "Demokrati och medborgarskap",
+          "en": "Democracy and citizenship"
+        },
+        "description": {
+          "local": "I musik bidrar det temaövergripande temat demokrati och medborgarskap till att eleverna utvecklar förståelse för hur musik kan vara en demokratisk resurs och ett medel för att uttrycka åsikter och identiteter. Genom att studera hur musik har använts i olika samhällen och tider för att påverka och mobilisera får eleverna insikt i musikens politiska och sociala betydelse. Ämnet övar eleverna i att respektera musikalisk mångfald och att hantera olikheter i smak och uttryck.",
+          "en": "In music, the interdisciplinary theme of democracy and citizenship contributes to pupils developing understanding of how music can be a democratic resource and a means of expressing opinions and identities. By studying how music has been used in different societies and times to influence and mobilise, pupils gain insight into the political and social significance of music. The subject trains pupils in respecting musical diversity and handling differences in taste and expression."
+        }
+      },
+      {
+        "code": "TT3",
+        "name": {
+          "local": "Hållbar utveckling",
+          "en": "Sustainability"
+        },
+        "description": {
+          "local": "I musik bidrar det temaövergripande temat hållbar utveckling till att eleverna utvecklar medvetenhet om musikens roll i att bevara och förmedla kulturella traditioner och kulturarv. Genom att utforska musik från olika kulturer och tidsperioder får eleverna förståelse för kulturell mångfald som en del av hållbar samhällsutveckling. Ämnet ger perspektiv på hur musikproduktion och musikkonsumtion kan relateras till frågor om resurser och hållbarhet.",
+          "en": "In music, the interdisciplinary theme of sustainability contributes to pupils developing awareness of the role of music in preserving and transmitting cultural traditions and cultural heritage. By exploring music from different cultures and time periods, pupils gain understanding of cultural diversity as part of sustainable societal development. The subject provides perspective on how music production and music consumption can be related to questions of resources and sustainability."
+        }
+      }
+    ],
+    "basicSkills": [
+      {
+        "code": "GF1",
+        "name": {
+          "local": "Muntliga färdigheter",
+          "en": "Oral skills"
+        },
+        "description": {
+          "local": "Muntliga färdigheter i musik innebär att kunna använda rösten på varierade sätt i sång och andra vokala uttryck samt att kunna samtala om musikaliska upplevelser och processer. Eleverna utvecklar förmågan att beskriva och diskutera musik med hjälp av musikaliska begrepp. Muntlig framställning övar eleverna i att reflektera över och förmedla musikaliska erfarenheter.",
+          "en": "Oral skills in music involve being able to use the voice in varied ways in singing and other vocal expressions, and being able to converse about musical experiences and processes. Pupils develop the ability to describe and discuss music using musical concepts. Oral presentation trains pupils in reflecting on and conveying musical experiences."
+        }
+      },
+      {
+        "code": "GF2",
+        "name": {
+          "local": "Att kunna skriva",
+          "en": "Writing"
+        },
+        "description": {
+          "local": "Att kunna skriva i musik innebär att kunna använda olika former av notation, såsom grafisk notation, noter och ackordbeteckningar, för att dokumentera och förmedla musikaliska idéer. Eleverna utvecklar förmågan att skriftligt beskriva musikaliska processer och resultat. Skrivandet stödjer förmågan att utforska, komma ihåg och dela musikaliskt material.",
+          "en": "Writing in music involves being able to use different forms of notation, such as graphic notation, musical notation and chord symbols, to document and convey musical ideas. Pupils develop the ability to describe musical processes and results in writing. Writing supports the ability to explore, remember and share musical material."
+        }
+      },
+      {
+        "code": "GF3",
+        "name": {
+          "local": "Att kunna läsa",
+          "en": "Reading"
+        },
+        "description": {
+          "local": "Att kunna läsa i musik innebär att kunna tolka och förstå musikaliska symboler, noter och andra former av notation. Eleverna utvecklar förmågan att avläsa och följa musikaliska anvisningar i samband med musicerande. Läsförmågan är central för att kunna ta del av och förstå musikaliska texter och verk i allt mer komplexa sammanhang.",
+          "en": "Reading in music involves being able to interpret and understand musical symbols, notation and other forms of musical text. Pupils develop the ability to read and follow musical instructions in connection with music-making. Reading ability is central to being able to engage with and understand musical texts and works in increasingly complex contexts."
+        }
+      },
+      {
+        "code": "GF4",
+        "name": {
+          "local": "Att kunna räkna",
+          "en": "Numeracy"
+        },
+        "description": {
+          "local": "Att kunna räkna i musik innebär att förstå och använda musikens grundelement, såsom puls, takt, rytm och tonhöjd, vilka bygger på matematiska strukturer och mönster. Eleverna utvecklar förmågan att hantera tidsindelning, frasering och musikalisk form genom att arbeta med numeriska relationer. Numeriska färdigheter bidrar till precision och förståelse i både musicerande och musikskapande.",
+          "en": "Numeracy in music involves understanding and using the basic elements of music, such as pulse, beat, rhythm and pitch, which are built on mathematical structures and patterns. Pupils develop the ability to handle time division, phrasing and musical form by working with numerical relationships. Numerical skills contribute to precision and understanding in both music-making and music creation."
+        }
+      },
+      {
+        "code": "GF5",
+        "name": {
+          "local": "Digitala färdigheter",
+          "en": "Digital skills"
+        },
+        "description": {
+          "local": "Digitala färdigheter i musik innebär att kunna använda digitala verktyg och program för musicerande, musikskapande och musiklyssnande. Eleverna utvecklar förmågan att spela in, redigera och producera musik med hjälp av digital teknik. Digitala färdigheter inkluderar även förståelse för rättigheter och skyldigheter vid användning av musik i digitala sammanhang.",
+          "en": "Digital skills in music involve being able to use digital tools and programmes for music-making, music creation and music listening. Pupils develop the ability to record, edit and produce music using digital technology. Digital skills also include understanding of rights and obligations when using music in digital contexts."
         }
       }
     ],

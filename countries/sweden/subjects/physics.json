@@ -4,13 +4,18 @@
     "api": "https://api.skolverket.se/syllabus/v1/subjects/GRGRFYS01",
     "curriculum": "Lgr22",
     "license": "CC0",
-    "lastSynced": "2026-03-02T21:29:31Z"
+    "lastSynced": "2026-03-03T08:58:53Z",
+    "aiEnriched": ["description.en", "interdisciplinaryThemes", "basicSkills"]
   },
   "subject": {
     "code": "GRGRFYS01",
     "name": {
       "local": "Fysik",
       "en": "Physics"
+    },
+    "description": {
+      "local": "Undervisningen i ämnet fysik ska syfta till att eleverna utvecklar nyfikenhet på och intresse för att veta mer om omvärlden. Eleverna ska därför ges möjligheter att ställa frågor om fysikaliska företeelser utifrån egna upplevelser och aktuella händelser. Undervisningen ska bidra till att eleverna utvecklar kunskaper om fysiken i naturen och samhället samt ge dem förutsättningar att använda fysikens begrepp och förklaringsmodeller för att beskriva och förklara fysikaliska fenomen. Eleverna kan på så sätt utveckla sin förmåga att skilja mellan naturvetenskapliga och andra sätt att beskriva och förklara omvärlden. Genom undervisningen ska eleverna ges möjligheter att använda kunskaper i fysik för att formulera egna och granska andras argument. Därigenom ska eleverna utveckla sin förmåga att kommunicera samt hantera praktiska och etiska valsituationer i frågor som rör energi, teknik och miljö. Eleverna ska även ges förutsättningar att söka svar på ämnesspecifika frågor med hjälp av olika typer av källor. På så sätt ska undervisningen bidra till att eleverna utvecklar ett kritiskt tänkande och tilltro till sin förmåga att hantera frågor som rör naturvetenskap och har betydelse för dem själva och samhället. Undervisningen ska även ge eleverna förutsättningar att söka svar på frågor om fysikaliska fenomen med hjälp av egna systematiska undersökningar. På så sätt ska eleverna ges möjligheter att utveckla förståelse för att påståenden kan prövas och att kunskaper i fysik växer fram med hjälp av naturvetenskapliga arbetsmetoder. I det praktiska arbetet ska eleverna även ges möjligheter att utveckla färdigheter i att hantera material, utrustning och digitala verktyg. Undervisningen i ämnet fysik ska ge eleverna förutsättningar att utveckla",
+      "en": "Teaching in the subject of physics shall aim to help pupils develop curiosity about and interest in learning more about the world around them. Pupils shall therefore be given opportunities to ask questions about physical phenomena based on their own experiences and current events. Teaching shall contribute to pupils developing knowledge of physics in nature and society, and give them the conditions to use the concepts and explanatory models of physics to describe and explain physical phenomena. Pupils can thus develop their ability to distinguish between scientific and other ways of describing and explaining the world. Through teaching, pupils shall be given opportunities to use knowledge of physics to formulate their own arguments and examine those of others. In doing so, pupils shall develop their ability to communicate and to handle practical and ethical choices in matters concerning energy, technology and the environment. Pupils shall also be given the conditions to seek answers to subject-specific questions using different types of sources. In this way, teaching shall contribute to pupils developing critical thinking and confidence in their ability to handle questions concerning natural science that are important for themselves and for society. Teaching shall also give pupils the conditions to seek answers to questions about physical phenomena through their own systematic investigations. In this way, pupils shall be given opportunities to develop understanding that claims can be tested and that knowledge in physics develops through scientific working methods. In practical work, pupils shall also be given opportunities to develop skills in handling materials, equipment and digital tools."
     },
     "coreElements": [
       {
@@ -44,6 +49,98 @@
         "description": {
           "local": "förmåga att genomföra systematiska undersökningar i fysik.",
           "en": "ability to carry out systematic investigations in physics."
+        }
+      }
+    ],
+    "interdisciplinaryThemes": [
+      {
+        "code": "TT1",
+        "name": {
+          "local": "Hälsa och livskompetens",
+          "en": "Health and life skills"
+        },
+        "description": {
+          "local": "Fysik bidrar till hälsa och livskompetens genom kunskap om strålning och dess risker, trafiksäkerhet samt hur energi används i vardagen. Förståelse för fysikaliska fenomen ger eleverna verktyg att fatta välgrundade beslut om säkerhet och hälsa i sin vardag.",
+          "en": "Physics contributes to health and life skills through knowledge of radiation and its risks, traffic safety, and how energy is used in everyday life. Understanding physical phenomena gives pupils tools to make well-informed decisions about safety and health in their daily lives."
+        }
+      },
+      {
+        "code": "TT2",
+        "name": {
+          "local": "Demokrati och medborgarskap",
+          "en": "Democracy and citizenship"
+        },
+        "description": {
+          "local": "Fysik stödjer demokrati och medborgarskap genom att ge eleverna förmåga att kritiskt granska information och ta ställning i frågor som rör energi, teknik och miljö. Kunskaper om energikällor och klimatförändringar är centrala för informerat deltagande i samhällsdebatten.",
+          "en": "Physics supports democracy and citizenship by giving pupils the ability to critically examine information and take positions on issues concerning energy, technology and the environment. Knowledge of energy sources and climate change is central to informed participation in public debate."
+        }
+      },
+      {
+        "code": "TT3",
+        "name": {
+          "local": "Hållbarhet",
+          "en": "Sustainability"
+        },
+        "description": {
+          "local": "Fysik är centralt för hållbarhet genom undervisning om energikällor, energins flöde och klimatförändringar. Eleverna lär sig förstå jordens strålningsbalans och växthuseffekten samt utvärdera olika energikällors för- och nackdelar för samhället och miljön.",
+          "en": "Physics is central to sustainability through teaching about energy sources, energy flow and climate change. Pupils learn to understand the Earth's radiation balance and the greenhouse effect, and to evaluate the advantages and disadvantages of different energy sources for society and the environment."
+        }
+      }
+    ],
+    "basicSkills": [
+      {
+        "code": "GF1",
+        "name": {
+          "local": "Muntliga färdigheter",
+          "en": "Oral skills"
+        },
+        "description": {
+          "local": "Muntliga färdigheter i fysik innebär att kunna diskutera och argumentera i frågor om energi, teknik och miljö med naturvetenskaplig underbyggnad. Eleverna utvecklar förmågan att förklara fysikaliska fenomen och presentera resultat från undersökningar.",
+          "en": "Oral skills in physics involve being able to discuss and argue on issues concerning energy, technology and the environment with a scientific basis. Pupils develop the ability to explain physical phenomena and present results from investigations."
+        }
+      },
+      {
+        "code": "GF2",
+        "name": {
+          "local": "Att kunna skriva",
+          "en": "Writing"
+        },
+        "description": {
+          "local": "Att kunna skriva i fysik innebär att dokumentera undersökningar med rapporter, diagram och tabeller samt att formulera argument i frågor om energi och miljö. Eleverna lär sig använda fysikens symbolspråk och enheter i sin skriftliga dokumentation.",
+          "en": "Writing in physics involves documenting investigations with reports, charts and tables, and formulating arguments on issues concerning energy and the environment. Pupils learn to use the symbolic language and units of physics in their written documentation."
+        }
+      },
+      {
+        "code": "GF3",
+        "name": {
+          "local": "Att kunna läsa",
+          "en": "Reading"
+        },
+        "description": {
+          "local": "Att kunna läsa i fysik innebär att tolka och kritiskt granska information från olika källor om fysik, energi och teknik. Eleverna utvecklar förmågan att läsa vetenskapliga texter, diagram och tabeller samt bedöma källors trovärdighet.",
+          "en": "Reading in physics involves interpreting and critically examining information from various sources about physics, energy and technology. Pupils develop the ability to read scientific texts, charts and tables, and to assess the credibility of sources."
+        }
+      },
+      {
+        "code": "GF4",
+        "name": {
+          "local": "Att kunna räkna",
+          "en": "Numeracy"
+        },
+        "description": {
+          "local": "Att kunna räkna i fysik innebär att utföra beräkningar av fysikaliska storheter som densitet, hastighet och kraft samt att använda mätvärden och formler. Eleverna arbetar med enheter, diagram och kvantitativa analyser i samband med experiment och undersökningar.",
+          "en": "Numeracy in physics involves performing calculations of physical quantities such as density, speed and force, and using measured values and formulae. Pupils work with units, charts and quantitative analyses in connection with experiments and investigations."
+        }
+      },
+      {
+        "code": "GF5",
+        "name": {
+          "local": "Digitala färdigheter",
+          "en": "Digital skills"
+        },
+        "description": {
+          "local": "Digitala färdigheter i fysik innebär att använda digitala verktyg för att genomföra undersökningar, samla in mätdata och presentera resultat. Eleverna lär sig hantera digitala mätinstrument, simuleringar och programvara för att analysera fysikaliska fenomen.",
+          "en": "Digital skills in physics involve using digital tools to carry out investigations, collect measurement data and present results. Pupils learn to handle digital measuring instruments, simulations and software for analysing physical phenomena."
         }
       }
     ],

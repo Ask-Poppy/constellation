@@ -4,13 +4,18 @@
     "api": "https://eperusteet.opintopolku.fi/eperusteet-service/api/external/peruste/419550/perusopetus/oppiaineet/605632",
     "curriculum": "POPS 2014",
     "license": "Open Government Data (Finland)",
-    "lastSynced": "2026-03-02T21:29:42Z"
+    "lastSynced": "2026-03-03T08:58:55Z",
+    "aiEnriched": ["description.en", "interdisciplinaryThemes", "basicSkills"]
   },
   "subject": {
     "code": "OP",
     "name": {
       "local": "Oppilaanohjaus",
       "en": "Guidance Counselling"
+    },
+    "description": {
+      "local": "Oppilaanohjauksella on keskeinen merkitys sekä oppilaiden, koulun että yhteiskunnan näkökulmasta. Ohjaustoiminnan tulee muodostaa koko perusopetuksen ajan kestävä, perusopetuksen jälkeisiin opintoihin ulottuva jatkumo. Oppilaanohjauksella edistetään oppilaiden koulutyön onnistumista, opintojen sujumista sekä koulutuksen tuloksellisuutta ja vaikuttavuutta.\n\nOppilaanohjauksen tehtävänä on edistää oppilaiden kasvua ja kehitystä siten, että jokainen oppilas pystyy kehittämään opiskeluvalmiuksiaan ja vuorovaikutustaitojaan sekä oppimaan elämässä tarvittavia tietoja ja taitoja. Oppilaanohjaus tukee oppilaita tekemään omiin valmiuksiinsa, arvoihinsa ja lähtökohtiinsa sekä kiinnostukseensa perustuvia arkielämää, opiskelua, jatko-opintoja sekä tulevaisuutta koskevia päätöksiä ja valintoja. Ohjauksen avulla oppilaat oppivat tiedostamaan mahdollisuutensa vaikuttaa oman elämänsä suunnitteluun ja päätöksentekoon. Oppilaita kannustetaan pohtimaan ja kyseenalaistamaan koulutukseen ja ammatteihin liittyviä ennakkokäsityksiä ja tekemään valintansa omia vahvuuksiaan ja kiinnostuksen kohteitaan vastaten. Oppilaanohjausta toteutetaan yhteistyössä huoltajien kanssa.\n\nKoulun ohjaussuunnitelmassa kuvataan oppilaanohjauksen järjestämisen rakenteet, toimintatavat, työn- ja vastuunjako sekä monialaiset verkostot, joita tarvitaan ohjauksen tavoitteiden toteutumiseksi. Suunnitelmassa kuvataan myös kodin ja koulun ohjausyhteistyö, koulun työelämäyhteistyö sekä työelämään tutustumisen järjestelyt. Ohjaussuunnitelman tavoitteiden toteutumista arvioidaan systemaattisesti. Oppilaiden opintojen sujuvuutta nivelvaiheissa edistetään perusopetuksen aikana ja jatko-opintoihin siirryttäessä opettajien välisellä ja opinto-ohjaajien keskinäisellä sekä tarvittaessa moniammatillisella yhteistyöllä. Opettajat hyödyntävät työssään ajantasaista tietoa jatko-opinnoista, työelämästä ja työtehtävistä sekä niissä tapahtuvista muutoksista.\n\nOppilaanohjaus yhdistää koulua yhteiskuntaan ja työelämään. Sen avulla edistetään oikeudenmukaisuuden, yhdenvertaisuuden, tasa-arvon ja osallisuuden toteutumista sekä ehkäistään syrjäytymistä koulutuksesta ja työelämästä. Oppilaanohjauksessa kehittyvät tiedot ja taidot edistävät osaltaan osaavan työvoiman saatavuutta sekä osaamisen kysynnän ja tarjonnan yhteensovittamista tulevaisuuden työelämässä.",
+      "en": "Guidance counselling has a central significance from the perspectives of pupils, the school and society. Guidance activities must form a continuum lasting throughout the entire period of basic education, extending to post-basic education studies. Guidance counselling promotes the success of pupils' schoolwork, the smooth progress of studies, and the effectiveness and impact of education.\n\nThe task of guidance counselling is to promote pupils' growth and development so that every pupil can develop their study skills and interaction abilities, and learn the knowledge and skills needed in life. Guidance counselling supports pupils in making decisions and choices about everyday life, studies, further education and the future based on their own abilities, values, starting points and interests. Through guidance, pupils learn to become aware of their opportunities to influence the planning of their own lives and decision-making. Pupils are encouraged to reflect on and question preconceptions related to education and occupations, and to make choices that match their own strengths and interests. Guidance counselling is carried out in cooperation with guardians.\n\nThe school's guidance plan describes the structures, practices, division of labour and responsibility, and multidisciplinary networks needed to achieve the goals of guidance. The plan also describes the guidance cooperation between home and school, the school's working life cooperation, and the arrangements for workplace introduction periods. The achievement of the guidance plan's objectives is evaluated systematically. The smooth progress of pupils' studies at transition points is promoted during basic education and when transitioning to further studies through collaboration between teachers, between guidance counsellors, and where necessary through multiprofessional cooperation. Teachers utilise up-to-date information about further studies, working life and work tasks, as well as the changes occurring in them.\n\nGuidance counselling connects the school to society and working life. It promotes the realisation of justice, equity, equality and inclusion, and prevents exclusion from education and working life. The knowledge and skills developed in guidance counselling contribute to the availability of skilled labour and the alignment of supply and demand of competencies in the future working life."
     },
     "coreElements": [
       {
@@ -69,6 +74,98 @@
         }
       }
     ],
+    "interdisciplinaryThemes": [
+      {
+        "code": "TT1",
+        "name": {
+          "local": "Terveys ja elämänhallinta",
+          "en": "Health and life skills"
+        },
+        "description": {
+          "local": "Oppilaanohjauksessa tuetaan oppilaiden itsetuntemusta, elämänhallintataitoja ja kykyä asettaa tavoitteita omalle opiskelulleen ja tulevaisuudelleen. Oppilaat oppivat tunnistamaan omia vahvuuksiaan, arvostamaan itseään ja tekemään hyvinvointia tukevia päätöksiä. Ohjaus auttaa oppilaita löytämään tasapainoa opiskelun, vapaa-ajan ja henkilökohtaisen elämän välillä.",
+          "en": "In guidance counselling, pupils' self-knowledge, life management skills and ability to set goals for their studies and future are supported. Pupils learn to identify their own strengths, to value themselves and to make decisions that support well-being. Guidance helps pupils find a balance between studies, leisure and personal life."
+        }
+      },
+      {
+        "code": "TT2",
+        "name": {
+          "local": "Demokratia ja kansalaisuus",
+          "en": "Democracy and citizenship"
+        },
+        "description": {
+          "local": "Oppilaanohjaus edistää oikeudenmukaisuuden, yhdenvertaisuuden ja tasa-arvon toteutumista koulutuksessa ja työelämässä. Oppilaat oppivat tunnistamaan koulutukseen ja ammatteihin liittyviä ennakkokäsityksiä ja kyseenalaistamaan niitä. Ohjaus ehkäisee syrjäytymistä ja tukee oppilaiden kasvua aktiivisiksi yhteiskunnan jäseniksi, jotka ymmärtävät työn merkityksen yksilölle ja yhteiskunnalle.",
+          "en": "Guidance counselling promotes the realisation of justice, equity and equality in education and working life. Pupils learn to identify and question preconceptions related to education and occupations. Guidance prevents exclusion and supports pupils' growth into active members of society who understand the significance of work for the individual and for society."
+        }
+      },
+      {
+        "code": "TT3",
+        "name": {
+          "local": "Kestävä kehitys",
+          "en": "Sustainability"
+        },
+        "description": {
+          "local": "Oppilaanohjauksessa kestävä kehitys kytkeytyy oppilaiden tulevaisuuden suunnitteluun ja vastuulliseen päätöksentekoon. Oppilaat tutustuvat eri ammattialoihin ja oppivat arvioimaan oman osaamisensa merkitystä kestävän yhteiskunnan rakentamisessa. Elinikäisen oppimisen valmiudet ja kyky sopeutua muuttuvaan työelämään tukevat sosiaalisesti kestävää kehitystä.",
+          "en": "In guidance counselling, sustainability is connected to pupils' future planning and responsible decision-making. Pupils explore different professional fields and learn to assess the significance of their own competencies in building a sustainable society. The capacity for lifelong learning and the ability to adapt to a changing working life support socially sustainable development."
+        }
+      }
+    ],
+    "basicSkills": [
+      {
+        "code": "GF1",
+        "name": {
+          "local": "Suulliset taidot",
+          "en": "Oral skills"
+        },
+        "description": {
+          "local": "Oppilaanohjauksessa suullisia taitoja harjoitellaan henkilökohtaisissa ohjauskeskusteluissa, ryhmäkeskusteluissa ja työelämään tutustumisjaksoilla. Oppilaat oppivat esittelemään itseään, kertomaan vahvuuksistaan ja keskustelemaan tulevaisuuden suunnitelmistaan. Vuorovaikutustaitojen kehittäminen on keskeistä työelämä- ja opiskelutaitojen kannalta.",
+          "en": "In guidance counselling, oral skills are practised in personal guidance discussions, group discussions and workplace introduction periods. Pupils learn to present themselves, to talk about their strengths and to discuss their future plans. Developing interaction skills is central to working life and study skills."
+        }
+      },
+      {
+        "code": "GF2",
+        "name": {
+          "local": "Kirjoittaminen",
+          "en": "Writing"
+        },
+        "description": {
+          "local": "Kirjoittamista hyödynnetään oppilaanohjauksessa esimerkiksi ansioluetteloiden laatimisessa, jatko-opintohakemusten kirjoittamisessa ja omien tavoitteiden dokumentoinnissa. Oppilaat harjoittelevat asiakirjojen tuottamista ja oman osaamisen kuvaamista kirjallisesti. Kirjoittaminen tukee oppilaiden itsearviointitaitojen kehittymistä.",
+          "en": "Writing is used in guidance counselling for activities such as preparing CVs, writing further education applications and documenting personal goals. Pupils practise producing documents and describing their own competencies in writing. Writing supports the development of pupils' self-assessment skills."
+        }
+      },
+      {
+        "code": "GF3",
+        "name": {
+          "local": "Lukeminen",
+          "en": "Reading"
+        },
+        "description": {
+          "local": "Lukutaitoa tarvitaan oppilaanohjauksessa koulutusjärjestelmää, jatko-opintomahdollisuuksia ja työelämää koskevan tiedon hankkimisessa ja arvioimisessa. Oppilaat lukevat koulutusoppaita, ammattiesittelyjä ja hakuohjeita sekä arvioivat tiedon luotettavuutta ja tarkoituksenmukaisuutta urasuunnittelun näkökulmasta.",
+          "en": "Reading skills are needed in guidance counselling for acquiring and evaluating information about the education system, further study opportunities and working life. Pupils read education guides, profession descriptions and application instructions, and evaluate the reliability and appropriateness of information from the perspective of career planning."
+        }
+      },
+      {
+        "code": "GF4",
+        "name": {
+          "local": "Laskutaito",
+          "en": "Numeracy"
+        },
+        "description": {
+          "local": "Laskutaitoa hyödynnetään oppilaanohjauksessa esimerkiksi opintojen suunnittelussa, kurssimäärien ja opintopisteiden hahmottamisessa sekä hakupisteiden laskemisessa. Oppilaat käyttävät numeerista tietoa vertaillessaan eri koulutusvaihtoehtojen vaatimuksia ja arvioidessaan omia mahdollisuuksiaan.",
+          "en": "Numeracy is used in guidance counselling for activities such as study planning, understanding course quantities and credit points, and calculating application scores. Pupils use numerical information when comparing the requirements of different education options and assessing their own opportunities."
+        }
+      },
+      {
+        "code": "GF5",
+        "name": {
+          "local": "Digitaaliset taidot",
+          "en": "Digital skills"
+        },
+        "description": {
+          "local": "Digitaalisia taitoja käytetään oppilaanohjauksessa monikanavaisten tieto-, neuvonta- ja ohjauspalveluiden hyödyntämisessä, sähköisten hakujärjestelmien käytössä ja koulutus- sekä työelämätiedon etsimisessä verkosta. Oppilaat oppivat arvioimaan eri digitaalisten tietolähteiden luotettavuutta urasuunnittelussaan.",
+          "en": "Digital skills are used in guidance counselling for utilising multichannel information, advisory and guidance services, using electronic application systems, and searching for education and working life information online. Pupils learn to evaluate the reliability of different digital information sources in their career planning."
+        }
+      }
+    ],
     "gradeBands": [
       {
         "afterGrade": 2,
@@ -100,8 +197,8 @@
               "en": "T1 help the pupil to form an overall understanding of the practices and study environment of grades 7-9, develop the pupil's ability to function in that environment and in different groups, and support the pupil in independent action and taking responsibility for their studies and the choices they make"
             },
             "coreElements": [
-              "S2 Itsetuntemus ja elinikäinen urasuunnittelu",
-              "S1 Oppiminen ja opiskelu"
+              "S2",
+              "S1"
             ],
             "verbs": []
           },
@@ -112,7 +209,7 @@
               "en": "T2 encourage and guide pupils to develop their study skills and their learning-to-learn skills"
             },
             "coreElements": [
-              "S1 Oppiminen ja opiskelu"
+              "S1"
             ],
             "verbs": []
           },
@@ -123,8 +220,8 @@
               "en": "T3 create conditions for the pupil's desire to learn, to assess their competencies, to identify and utilise their skills and strengths, to develop their ability to recognise areas for learning, and to provide the readiness to modify their plans and approaches when necessary"
             },
             "coreElements": [
-              "S2 Itsetuntemus ja elinikäinen urasuunnittelu",
-              "S1 Oppiminen ja opiskelu"
+              "S2",
+              "S1"
             ],
             "verbs": []
           },
@@ -135,7 +232,7 @@
               "en": "T4 guide the pupil to identify factors that influence their own choices and to align their actions with their abilities, prerequisites, and interests"
             },
             "coreElements": [
-              "S2 Itsetuntemus ja elinikäinen urasuunnittelu"
+              "S2"
             ],
             "verbs": []
           },
@@ -146,8 +243,8 @@
               "en": "T5 guide pupils to set both long-term and short-term goals, to make plans for achieving them, and to evaluate their fulfilment"
             },
             "coreElements": [
-              "S2 Itsetuntemus ja elinikäinen urasuunnittelu",
-              "S5 Jatko-opinnot ja niihin hakeutuminen"
+              "S2",
+              "S5"
             ],
             "verbs": []
           },
@@ -158,9 +255,9 @@
               "en": "T6 help the pupil to understand the significance of work for their own life and for society, and to promote the pupil's ability to recognise the significance of the subjects studied for future studies and for the competencies needed in working life and employment"
             },
             "coreElements": [
-              "S2 Itsetuntemus ja elinikäinen urasuunnittelu",
-              "S5 Jatko-opinnot ja niihin hakeutuminen",
-              "S3 Opiskelussa ja työelämässä tarvittavat taidot"
+              "S2",
+              "S5",
+              "S3"
             ],
             "verbs": []
           },
@@ -171,10 +268,10 @@
               "en": "T7 guide the pupil to develop their ability to evaluate the competencies needed in different work tasks, interaction and communication skills, and professional fields suitable for themselves, and to strengthen the readiness to seek information about acquiring the required competencies after basic education"
             },
             "coreElements": [
-              "S2 Itsetuntemus ja elinikäinen urasuunnittelu",
-              "S5 Jatko-opinnot ja niihin hakeutuminen",
-              "S4 Työelämään tutustuminen",
-              "S3 Opiskelussa ja työelämässä tarvittavat taidot"
+              "S2",
+              "S5",
+              "S4",
+              "S3"
             ],
             "verbs": []
           },
@@ -185,8 +282,8 @@
               "en": "T8 provide the pupil and guardian with information about the main features of the Finnish education system and its opportunities, and support the pupil's ability to seek education and working life information both from Finland and abroad"
             },
             "coreElements": [
-              "S5 Jatko-opinnot ja niihin hakeutuminen",
-              "S4 Työelämään tutustuminen"
+              "S5",
+              "S4"
             ],
             "verbs": []
           },
@@ -197,9 +294,9 @@
               "en": "T9 guide the pupil to use multichannel information, advisory, and guidance services, and to evaluate the reliability and appropriateness of information obtained through different sources from the perspective of career planning"
             },
             "coreElements": [
-              "S2 Itsetuntemus ja elinikäinen urasuunnittelu",
-              "S5 Jatko-opinnot ja niihin hakeutuminen",
-              "S3 Opiskelussa ja työelämässä tarvittavat taidot"
+              "S2",
+              "S5",
+              "S3"
             ],
             "verbs": []
           },
@@ -210,8 +307,8 @@
               "en": "T10 support the pupil's ability to recognise their cultural background and to function in intercultural encounters and collaborative situations, and to guide the pupil in acquiring and assimilating information about study and work opportunities in multinational work environments and abroad"
             },
             "coreElements": [
-              "S5 Jatko-opinnot ja niihin hakeutuminen",
-              "S4 Työelämään tutustuminen"
+              "S5",
+              "S4"
             ],
             "verbs": []
           }

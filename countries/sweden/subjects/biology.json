@@ -4,13 +4,18 @@
     "api": "https://api.skolverket.se/syllabus/v1/subjects/GRGRBIO01",
     "curriculum": "Lgr22",
     "license": "CC0",
-    "lastSynced": "2026-03-02T21:29:31Z"
+    "lastSynced": "2026-03-03T08:58:52Z",
+    "aiEnriched": ["description.en", "interdisciplinaryThemes", "basicSkills"]
   },
   "subject": {
     "code": "GRGRBIO01",
     "name": {
       "local": "Biologi",
       "en": "Biology"
+    },
+    "description": {
+      "local": "Undervisningen i ämnet biologi ska syfta till att eleverna utvecklar nyfikenhet på och intresse för att veta mer om sig själva och omvärlden. Eleverna ska därför ges möjligheter att ställa frågor om naturen och människan utifrån egna upplevelser och aktuella händelser. Undervisningen ska bidra till att eleverna utvecklar kunskaper om naturen och människokroppen samt ge dem förutsättningar att använda biologins begrepp och förklaringsmodeller för att beskriva och förklara biologiska samband. Eleverna ska få inblick i naturvetenskapens världsbild med evolutionsteorin som grund och kan på så sätt utveckla sin förmåga att skilja mellan naturvetenskapliga och andra sätt att beskriva och förklara omvärlden. Genom undervisningen ska eleverna ges möjligheter att använda kunskaper i biologi för att formulera egna och granska andras argument. Därigenom ska eleverna utveckla sin förmåga att kommunicera samt hantera praktiska och etiska valsituationer i frågor som rör miljö och hälsa. Eleverna ska även ges förutsättningar att söka svar på ämnesspecifika frågor med hjälp av olika typer av källor. På så sätt ska undervisningen bidra till att eleverna utvecklar ett kritiskt tänkande och tilltro till sin förmåga att hantera frågor som rör naturvetenskap och som har betydelse för dem själva och samhället. Undervisningen ska även ge eleverna förutsättningar att söka svar på frågor om naturen och människan med hjälp av egna systematiska undersökningar. På så sätt ska eleverna ges möjligheter att utveckla förståelse för att påståenden kan prövas och att kunskaper i biologi växer fram med hjälp av naturvetenskapliga arbetsmetoder. I det praktiska arbetet ska eleverna även ges möjligheter att utveckla färdigheter i att hantera material, utrustning och digitala verktyg. Undervisningen i ämnet biologi ska ge eleverna förutsättningar att utveckla",
+      "en": "Teaching in the subject of biology shall aim to help pupils develop curiosity about and interest in learning more about themselves and the world around them. Pupils shall therefore be given opportunities to ask questions about nature and humans based on their own experiences and current events. Teaching shall contribute to pupils developing knowledge of nature and the human body, and give them the conditions to use the concepts and explanatory models of biology to describe and explain biological relationships. Pupils shall gain insight into the scientific worldview with the theory of evolution as its foundation, and can thus develop their ability to distinguish between scientific and other ways of describing and explaining the world. Through teaching, pupils shall be given opportunities to use knowledge of biology to formulate their own arguments and examine those of others. In doing so, pupils shall develop their ability to communicate and to handle practical and ethical choices in matters concerning the environment and health. Pupils shall also be given the conditions to seek answers to subject-specific questions using different types of sources. In this way, teaching shall contribute to pupils developing critical thinking and confidence in their ability to handle questions concerning natural science that are important for themselves and for society. Teaching shall also give pupils the conditions to seek answers to questions about nature and humans through their own systematic investigations. In this way, pupils shall be given opportunities to develop understanding that claims can be tested and that knowledge in biology develops through scientific working methods. In practical work, pupils shall also be given opportunities to develop skills in handling materials, equipment and digital tools."
     },
     "coreElements": [
       {
@@ -44,6 +49,98 @@
         "description": {
           "local": "förmåga att genomföra systematiska undersökningar i biologi.",
           "en": "ability to carry out systematic investigations in biology."
+        }
+      }
+    ],
+    "interdisciplinaryThemes": [
+      {
+        "code": "TT1",
+        "name": {
+          "local": "Hälsa och livskompetens",
+          "en": "Health and life skills"
+        },
+        "description": {
+          "local": "Biologi bidrar direkt till hälsa och livskompetens genom undervisning om människokroppen, kost, motion, sömn och psykisk hälsa. Eleverna utvecklar kunskaper om pubertet, sexualitet, relationer och beroendeframkallande medel som är avgörande för ett hälsosamt liv.",
+          "en": "Biology contributes directly to health and life skills through teaching about the human body, diet, exercise, sleep and mental health. Pupils develop knowledge of puberty, sexuality, relationships and addictive substances that is essential for a healthy life."
+        }
+      },
+      {
+        "code": "TT2",
+        "name": {
+          "local": "Demokrati och medborgarskap",
+          "en": "Democracy and citizenship"
+        },
+        "description": {
+          "local": "Biologi stödjer demokrati och medborgarskap genom att utveckla elevernas förmåga att kritiskt granska information och ta ställning i frågor om miljö och hälsa. Kunskap om genteknik och dess etiska dimensioner ger eleverna underlag för att delta i samhällsdebatten.",
+          "en": "Biology supports democracy and citizenship by developing pupils' ability to critically examine information and take positions on issues concerning the environment and health. Knowledge of genetic engineering and its ethical dimensions provides pupils with a basis for participating in public debate."
+        }
+      },
+      {
+        "code": "TT3",
+        "name": {
+          "local": "Hållbarhet",
+          "en": "Sustainability"
+        },
+        "description": {
+          "local": "Biologi är centralt för hållbarhet genom undervisning om ekosystem, biologisk mångfald, kretslopp och ekosystemtjänster. Eleverna lär sig förstå människans påverkan på naturen och hur hållbar utveckling kan främjas på individ- och samhällsnivå.",
+          "en": "Biology is central to sustainability through teaching about ecosystems, biodiversity, natural cycles and ecosystem services. Pupils learn to understand human impact on nature and how sustainable development can be promoted at individual and societal level."
+        }
+      }
+    ],
+    "basicSkills": [
+      {
+        "code": "GF1",
+        "name": {
+          "local": "Muntliga färdigheter",
+          "en": "Oral skills"
+        },
+        "description": {
+          "local": "Muntliga färdigheter i biologi innebär att kunna diskutera och argumentera i frågor som rör miljö och hälsa med naturvetenskaplig underbyggnad. Eleverna utvecklar förmågan att presentera undersökningsresultat och föra resonemang om biologiska samband.",
+          "en": "Oral skills in biology involve being able to discuss and argue on issues concerning the environment and health with a scientific basis. Pupils develop the ability to present investigation results and reason about biological relationships."
+        }
+      },
+      {
+        "code": "GF2",
+        "name": {
+          "local": "Att kunna skriva",
+          "en": "Writing"
+        },
+        "description": {
+          "local": "Att kunna skriva i biologi innebär att dokumentera undersökningar med rapporter, tabeller och diagram samt att formulera argument i frågor om miljö och hälsa. Eleverna lär sig använda vetenskapligt språk och struktur i sina skriftliga framställningar.",
+          "en": "Writing in biology involves documenting investigations with reports, tables and charts, and formulating arguments on issues concerning the environment and health. Pupils learn to use scientific language and structure in their written productions."
+        }
+      },
+      {
+        "code": "GF3",
+        "name": {
+          "local": "Att kunna läsa",
+          "en": "Reading"
+        },
+        "description": {
+          "local": "Att kunna läsa i biologi innebär att tolka och kritiskt granska information från olika källor om biologi, miljö och hälsa. Eleverna utvecklar förmågan att läsa vetenskapliga texter och bedöma informationens trovärdighet och relevans.",
+          "en": "Reading in biology involves interpreting and critically examining information from various sources about biology, the environment and health. Pupils develop the ability to read scientific texts and assess the credibility and relevance of information."
+        }
+      },
+      {
+        "code": "GF4",
+        "name": {
+          "local": "Att kunna räkna",
+          "en": "Numeracy"
+        },
+        "description": {
+          "local": "Att kunna räkna i biologi innebär att använda mätresultat, tabeller och diagram vid systematiska undersökningar samt att tolka kvantitativa data om populationer och ekosystem. Eleverna arbetar med beräkningar i samband med experiment och fältstudier.",
+          "en": "Numeracy in biology involves using measurement results, tables and charts in systematic investigations, and interpreting quantitative data about populations and ecosystems. Pupils work with calculations in connection with experiments and field studies."
+        }
+      },
+      {
+        "code": "GF5",
+        "name": {
+          "local": "Digitala färdigheter",
+          "en": "Digital skills"
+        },
+        "description": {
+          "local": "Digitala färdigheter i biologi innebär att använda digitala verktyg för att genomföra undersökningar, dokumentera resultat och söka information. Eleverna lär sig hantera digitala mätinstrument, presentera data digitalt och kritiskt granska digitala informationskällor.",
+          "en": "Digital skills in biology involve using digital tools to carry out investigations, document results and search for information. Pupils learn to handle digital measuring instruments, present data digitally and critically examine digital information sources."
         }
       }
     ],

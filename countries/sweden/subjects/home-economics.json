@@ -4,13 +4,18 @@
     "api": "https://api.skolverket.se/syllabus/v1/subjects/GRGRHKK01",
     "curriculum": "Lgr22",
     "license": "CC0",
-    "lastSynced": "2026-03-02T21:29:52Z"
+    "lastSynced": "2026-03-03T08:58:57Z",
+    "aiEnriched": ["description.en", "interdisciplinaryThemes", "basicSkills"]
   },
   "subject": {
     "code": "GRGRHKK01",
     "name": {
       "local": "Hem- och konsumentkunskap",
       "en": "Home and Consumer Studies"
+    },
+    "description": {
+      "local": "Undervisningen i ämnet hem- och konsumentkunskap ska syfta till att eleverna utvecklar kunskaper om och intresse för arbete, ekonomi och konsumtionsval i hemmet. I en process där tanke, sinnesupplevelse och handling samverkar ska eleverna ges möjlighet att utveckla kunskaper som rör mat och måltider. Undervisningen ska därigenom bidra till att eleverna utvecklar sin initiativförmåga och kreativitet vid matlagning, skapande av måltider och andra uppgifter i hemmet. Genom undervisningen ska eleverna få möjlighet att utveckla medvetenhet om vilka konsekvenser valen i hushållet får för hälsa, välbefinnande och gemensamma resurser. Undervisningen ska också bidra till att eleverna utvecklar kunskaper om konsumtionens villkor samt om betalning, sparande, krediter och lån. På så sätt ska eleverna ges förutsättningar att göra välgrundade val när det gäller privatekonomi och kunna hantera olika problem och situationer som en ung konsument kan ställas inför. Undervisningen ska bidra till att eleverna utvecklar kunskaper om och ges möjligheter att reflektera över normer, jämställdhet och arbetsfördelning i hemmet. Undervisningen ska även ge eleverna förutsättningar att utveckla kunskaper om kulturella variationer och traditioner i olika hushåll. Undervisningen i ämnet hem- och konsumentkunskap ska ge eleverna förutsättningar att utveckla",
+      "en": "Teaching in the subject of home and consumer studies shall aim to develop pupils' knowledge of and interest in work, finances and consumption choices in the home. In a process where thought, sensory experience and action interact, pupils shall be given the opportunity to develop knowledge relating to food and meals. Teaching shall thereby contribute to pupils developing their initiative and creativity in cooking, creating meals and other tasks in the home. Through teaching, pupils shall be given the opportunity to develop awareness of the consequences that choices in the household have for health, wellbeing and shared resources. Teaching shall also contribute to pupils developing knowledge of the conditions of consumption, as well as payment, saving, credit and loans. In this way, pupils shall be given the conditions to make well-informed choices regarding personal finances and to handle different problems and situations that a young consumer may face. Teaching shall contribute to pupils developing knowledge of and being given opportunities to reflect on norms, gender equality and the division of labour in the home. Teaching shall also give pupils the conditions to develop knowledge of cultural variations and traditions in different households."
     },
     "coreElements": [
       {
@@ -44,6 +49,98 @@
         "description": {
           "local": "förmåga att värdera val och handlingar som förekommer i ett hem utifrån hur de påverkar hälsa, ekonomi och miljö.",
           "en": "the ability to evaluate choices and actions that occur in a home based on how they affect health, finances and the environment."
+        }
+      }
+    ],
+    "interdisciplinaryThemes": [
+      {
+        "code": "TT1",
+        "name": {
+          "local": "Hälsa och livskompetens",
+          "en": "Health and life skills"
+        },
+        "description": {
+          "local": "I hem- och konsumentkunskap bidrar det temaövergripande temat hälsa och livskompetens till att eleverna utvecklar praktiska kunskaper om matlagning, näring och goda levnadsvanor som är centrala för hälsa och välbefinnande. Ämnet ger eleverna verktyg för att hantera vardagliga utmaningar kring privatekonomi, konsumtion och hushållsarbete. Genom praktiskt arbete utvecklar eleverna initiativförmåga, kreativitet och förmåga att fatta välgrundade beslut i sin vardag.",
+          "en": "In home and consumer studies, the interdisciplinary theme of health and life skills contributes to pupils developing practical knowledge of cooking, nutrition and good living habits that are central to health and wellbeing. The subject gives pupils tools for handling everyday challenges regarding personal finances, consumption and household work. Through practical work, pupils develop initiative, creativity and the ability to make well-informed decisions in their everyday lives."
+        }
+      },
+      {
+        "code": "TT2",
+        "name": {
+          "local": "Demokrati och medborgarskap",
+          "en": "Democracy and citizenship"
+        },
+        "description": {
+          "local": "I hem- och konsumentkunskap bidrar det temaövergripande temat demokrati och medborgarskap till att eleverna utvecklar förståelse för konsumenträttigheter och konsumentens roll i samhället. Genom att studera jämställdhet och arbetsfördelning i hemmet får eleverna insikt i normer och maktstrukturer som påverkar vardagslivet. Ämnet stärker elevernas förmåga att göra medvetna och ansvarsfulla val som konsumenter och medborgare.",
+          "en": "In home and consumer studies, the interdisciplinary theme of democracy and citizenship contributes to pupils developing understanding of consumer rights and the role of the consumer in society. By studying gender equality and the division of labour in the home, pupils gain insight into norms and power structures that affect everyday life. The subject strengthens pupils' ability to make conscious and responsible choices as consumers and citizens."
+        }
+      },
+      {
+        "code": "TT3",
+        "name": {
+          "local": "Hållbar utveckling",
+          "en": "Sustainability"
+        },
+        "description": {
+          "local": "I hem- och konsumentkunskap bidrar det temaövergripande temat hållbar utveckling till att eleverna utvecklar medvetenhet om hur konsumtion, matval och resurshushållning påverkar miljön. Genom att arbeta med frågor om livsmedelsproduktion, avfallshantering och hållbara val i hemmet får eleverna praktiska kunskaper om hållbar utveckling. Ämnet ger eleverna förutsättningar att reflektera över och förändra sina egna konsumtionsmönster i en mer hållbar riktning.",
+          "en": "In home and consumer studies, the interdisciplinary theme of sustainability contributes to pupils developing awareness of how consumption, food choices and resource management affect the environment. By working with issues of food production, waste management and sustainable choices in the home, pupils gain practical knowledge of sustainable development. The subject gives pupils the conditions to reflect on and change their own consumption patterns in a more sustainable direction."
+        }
+      }
+    ],
+    "basicSkills": [
+      {
+        "code": "GF1",
+        "name": {
+          "local": "Muntliga färdigheter",
+          "en": "Oral skills"
+        },
+        "description": {
+          "local": "Muntliga färdigheter i hem- och konsumentkunskap innebär att kunna samtala om smak, doft och konsistens samt diskutera val och konsekvenser kopplade till mat, hälsa och konsumtion. Eleverna utvecklar förmågan att uttrycka upplevelser från det praktiska arbetet och att samarbeta muntligt vid planering och genomförande av måltider. Muntlig framställning övar eleverna i att använda ämnesspecifika begrepp för matlagning och konsumtion.",
+          "en": "Oral skills in home and consumer studies involve being able to converse about taste, smell and texture, and discuss choices and consequences related to food, health and consumption. Pupils develop the ability to express experiences from practical work and to collaborate orally when planning and preparing meals. Oral presentation trains pupils in using subject-specific concepts for cooking and consumption."
+        }
+      },
+      {
+        "code": "GF2",
+        "name": {
+          "local": "Att kunna skriva",
+          "en": "Writing"
+        },
+        "description": {
+          "local": "Att kunna skriva i hem- och konsumentkunskap innebär att kunna läsa och följa recept och instruktioner samt att kunna dokumentera arbetsprocesser och utvärderingar. Eleverna utvecklar förmågan att skriftligt planera måltider, göra budgetar och formulera resonemang om konsumtionsval. Skrivandet stödjer förmågan att strukturera och reflektera över det praktiska arbetet.",
+          "en": "Writing in home and consumer studies involves being able to read and follow recipes and instructions, as well as being able to document work processes and evaluations. Pupils develop the ability to plan meals, make budgets and formulate reasoning about consumption choices in writing. Writing supports the ability to structure and reflect on practical work."
+        }
+      },
+      {
+        "code": "GF3",
+        "name": {
+          "local": "Att kunna läsa",
+          "en": "Reading"
+        },
+        "description": {
+          "local": "Att kunna läsa i hem- och konsumentkunskap innebär att kunna tolka recept, förpackningsinformation, innehållsförteckningar och konsumentinformation. Eleverna utvecklar förmågan att läsa och förstå märkningar, certifieringar och jämförpriser på livsmedel och andra varor. Läsförmågan är central för att kunna göra informerade val som konsument.",
+          "en": "Reading in home and consumer studies involves being able to interpret recipes, packaging information, ingredient lists and consumer information. Pupils develop the ability to read and understand labels, certifications and unit prices on food and other products. Reading ability is central to being able to make informed choices as a consumer."
+        }
+      },
+      {
+        "code": "GF4",
+        "name": {
+          "local": "Att kunna räkna",
+          "en": "Numeracy"
+        },
+        "description": {
+          "local": "Att kunna räkna i hem- och konsumentkunskap innebär att kunna använda mått, vikt, tid och temperatur vid matlagning samt att hantera budgetar, jämförpriser och ekonomiska beräkningar. Eleverna utvecklar förmågan att beräkna kostnader, anpassa recept och förstå ekonomiska samband kring sparande, lån och konsumtion. Numeriska färdigheter är centrala för att kunna planera och genomföra praktiskt arbete i hemmet.",
+          "en": "Numeracy in home and consumer studies involves being able to use measurements, weight, time and temperature in cooking, as well as handling budgets, unit prices and financial calculations. Pupils develop the ability to calculate costs, adapt recipes and understand financial relationships regarding saving, loans and consumption. Numerical skills are central to being able to plan and carry out practical work in the home."
+        }
+      },
+      {
+        "code": "GF5",
+        "name": {
+          "local": "Digitala färdigheter",
+          "en": "Digital skills"
+        },
+        "description": {
+          "local": "Digitala färdigheter i hem- och konsumentkunskap innebär att kunna använda digitala verktyg för att söka recept, jämföra priser och hitta konsumentinformation. Eleverna utvecklar förmågan att kritiskt granska digital reklam och information om livsmedel och produkter. Digitala färdigheter inkluderar även förmågan att använda digitala betalningslösningar och att förstå risker och möjligheter med digital konsumtion.",
+          "en": "Digital skills in home and consumer studies involve being able to use digital tools to search for recipes, compare prices and find consumer information. Pupils develop the ability to critically examine digital advertising and information about food and products. Digital skills also include the ability to use digital payment solutions and to understand the risks and opportunities of digital consumption."
         }
       }
     ],

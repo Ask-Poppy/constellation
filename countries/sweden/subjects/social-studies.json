@@ -4,13 +4,18 @@
     "api": "https://api.skolverket.se/syllabus/v1/subjects/GRGRSAM01",
     "curriculum": "Lgr22",
     "license": "CC0",
-    "lastSynced": "2026-03-02T21:29:33Z"
+    "lastSynced": "2026-03-03T08:58:55Z",
+    "aiEnriched": ["description.en", "interdisciplinaryThemes", "basicSkills"]
   },
   "subject": {
     "code": "GRGRSAM01",
     "name": {
       "local": "Samhällskunskap",
       "en": "Social Studies"
+    },
+    "description": {
+      "local": "Undervisningen i ämnet samhällskunskap ska syfta till att eleverna utvecklar förtrogenhet med demokrati och mänskliga rättigheter. Den ska bidra till att eleverna tillägnar sig kunskaper om värden och principer som utmärker ett demokratiskt samhälle samt om demokratiska processer och arbetssätt. På så sätt ska undervisningen ge eleverna förståelse för vad det innebär att vara en aktiv och ansvarstagande medborgare. Undervisningen ska bidra till att eleverna utvecklar förståelse för hur individen och samhället påverkar varandra. Därför ska eleverna ges förutsättningar att utveckla kunskaper om sociala, ekonomiska, politiska, rättsliga och mediala förhållanden och strukturer i samhället. Vidare ska undervisningen ge eleverna förutsättningar att utveckla förståelse för sina egna och andras levnadsvillkor och hur de kan påverkas av faktorer som kön och socioekonomisk bakgrund. Undervisningen ska ge eleverna förutsättningar att analysera samhällsfrågor ur olika perspektiv samt möjlighet att utveckla förståelse för hur olika intressen och åsikter uppstår och kommer till uttryck. Eleverna ska också ges verktyg att kritiskt granska hur olika aktörer försöker påverka samhällsutvecklingen genom information, ståndpunkter och argument i olika sammanhang och källor. Genom undervisningen ska eleverna vidare ges möjlighet att uttrycka och pröva sina ställningstaganden i möten med andra uppfattningar. Därigenom ska eleverna stimuleras att engagera sig och delta i ett öppet meningsutbyte om samhällsfrågor. Undervisningen i ämnet samhällskunskap ska ge eleverna förutsättningar att utveckla",
+      "en": "Teaching in the subject of social studies shall aim to develop pupils' familiarity with democracy and human rights. It shall contribute to pupils acquiring knowledge of the values and principles that characterise a democratic society, as well as democratic processes and working methods. In this way, teaching shall give pupils understanding of what it means to be an active and responsible citizen. Teaching shall contribute to pupils developing understanding of how the individual and society influence each other. Therefore, pupils shall be given the conditions to develop knowledge of social, economic, political, legal and media-related conditions and structures in society. Furthermore, teaching shall give pupils the conditions to develop understanding of their own and others' living conditions and how these can be influenced by factors such as gender and socioeconomic background. Teaching shall give pupils the conditions to analyse social issues from different perspectives, as well as the opportunity to develop understanding of how different interests and opinions arise and are expressed. Pupils shall also be given tools to critically examine how different actors try to influence societal development through information, positions and arguments in different contexts and sources. Through teaching, pupils shall further be given the opportunity to express and test their positions in encounters with other views. In this way, pupils shall be stimulated to engage and participate in an open exchange of opinions on social issues."
     },
     "coreElements": [
       {
@@ -44,6 +49,98 @@
         "description": {
           "local": "förmåga att analysera samhällsfrågor ur olika perspektiv och kritiskt granska hur de framställs i olika källor.",
           "en": "the ability to analyse social issues from different perspectives and critically examine how they are presented in different sources."
+        }
+      }
+    ],
+    "interdisciplinaryThemes": [
+      {
+        "code": "TT1",
+        "name": {
+          "local": "Hälsa och livskompetens",
+          "en": "Health and life skills"
+        },
+        "description": {
+          "local": "I samhällskunskap bidrar det temaövergripande temat hälsa och livskompetens till att eleverna utvecklar förståelse för hur samhällsstrukturer påverkar individers hälsa och välbefinnande. Genom att studera sociala, ekonomiska och rättsliga förhållanden får eleverna kunskap om hur de kan påverka sin egen livssituation och fatta välgrundade beslut. Ämnet ger verktyg för att förstå konsumenträttigheter, arbetsmarknad och välfärdssystem som är centrala för livskompetens.",
+          "en": "In social studies, the interdisciplinary theme of health and life skills contributes to pupils developing understanding of how societal structures affect individuals' health and wellbeing. By studying social, economic and legal conditions, pupils gain knowledge of how they can influence their own life situation and make well-informed decisions. The subject provides tools for understanding consumer rights, the labour market and welfare systems that are central to life skills."
+        }
+      },
+      {
+        "code": "TT2",
+        "name": {
+          "local": "Demokrati och medborgarskap",
+          "en": "Democracy and citizenship"
+        },
+        "description": {
+          "local": "I samhällskunskap bidrar det temaövergripande temat demokrati och medborgarskap till att eleverna utvecklar djup förståelse för demokratiska värden, beslutsprocesser och mänskliga rättigheter. Eleverna får kunskaper om politiska system, rättsväsende och medborgarnas roller och ansvar i ett demokratiskt samhälle. Ämnet ger eleverna förutsättningar att analysera samhällsfrågor, delta i demokratiska processer och kritiskt granska information och maktstrukturer.",
+          "en": "In social studies, the interdisciplinary theme of democracy and citizenship contributes to pupils developing a deep understanding of democratic values, decision-making processes and human rights. Pupils gain knowledge of political systems, the justice system and the roles and responsibilities of citizens in a democratic society. The subject gives pupils the conditions to analyse social issues, participate in democratic processes and critically examine information and power structures."
+        }
+      },
+      {
+        "code": "TT3",
+        "name": {
+          "local": "Hållbar utveckling",
+          "en": "Sustainability"
+        },
+        "description": {
+          "local": "I samhällskunskap bidrar det temaövergripande temat hållbar utveckling till att eleverna utvecklar förståelse för sambanden mellan ekonomi, samhälle och miljö. Genom att analysera hur politiska beslut, konsumtionsmönster och globala strukturer påverkar miljön får eleverna underlag för att ta ställning i hållbarhetsfrågor. Ämnet ger perspektiv på hur internationellt samarbete och samhällsplanering kan bidra till en mer hållbar framtid.",
+          "en": "In social studies, the interdisciplinary theme of sustainability contributes to pupils developing understanding of the connections between economy, society and the environment. By analysing how political decisions, consumption patterns and global structures affect the environment, pupils gain a basis for taking a stance on sustainability issues. The subject provides perspective on how international cooperation and societal planning can contribute to a more sustainable future."
+        }
+      }
+    ],
+    "basicSkills": [
+      {
+        "code": "GF1",
+        "name": {
+          "local": "Muntliga färdigheter",
+          "en": "Oral skills"
+        },
+        "description": {
+          "local": "Muntliga färdigheter i samhällskunskap innebär att kunna uttrycka, diskutera och argumentera kring samhällsfrågor i samtal och debatter. Eleverna utvecklar förmågan att presentera egna ståndpunkter, lyssna till andras argument och delta i demokratiska samtal. Muntlig framställning övar eleverna i att använda samhällsvetenskapliga begrepp och att kommunicera kring komplexa frågeställningar.",
+          "en": "Oral skills in social studies involve being able to express, discuss and argue about social issues in conversations and debates. Pupils develop the ability to present their own positions, listen to others' arguments and participate in democratic conversations. Oral presentation trains pupils in using social science concepts and communicating about complex issues."
+        }
+      },
+      {
+        "code": "GF2",
+        "name": {
+          "local": "Att kunna skriva",
+          "en": "Writing"
+        },
+        "description": {
+          "local": "Att kunna skriva i samhällskunskap innebär att kunna formulera underbyggda resonemang om samhällsförhållanden och samhällsfrågor. Eleverna utvecklar förmågan att skriva utredande och argumenterande texter som använder relevanta begrepp och bygger på källmaterial. Skrivandet är ett verktyg för att strukturera analyser och redovisa ställningstaganden på ett tydligt sätt.",
+          "en": "Writing in social studies involves being able to formulate well-supported reasoning about societal conditions and social issues. Pupils develop the ability to write investigative and argumentative texts that use relevant concepts and build on source material. Writing is a tool for structuring analyses and presenting positions in a clear manner."
+        }
+      },
+      {
+        "code": "GF3",
+        "name": {
+          "local": "Att kunna läsa",
+          "en": "Reading"
+        },
+        "description": {
+          "local": "Att kunna läsa i samhällskunskap innebär att kunna tolka och kritiskt granska olika typer av samhällsinformation, såsom nyhetsartiklar, statistik, lagtexter och digitala källor. Eleverna utvecklar förmågan att urskilja fakta från åsikter och att identifiera avsändare, syfte och perspektiv i olika framställningar. Läsförmågan är central för att kunna delta som informerad medborgare i samhället.",
+          "en": "Reading in social studies involves being able to interpret and critically examine different types of societal information, such as news articles, statistics, legal texts and digital sources. Pupils develop the ability to distinguish facts from opinions and to identify the sender, purpose and perspective in different presentations. Reading ability is central to being able to participate as an informed citizen in society."
+        }
+      },
+      {
+        "code": "GF4",
+        "name": {
+          "local": "Att kunna räkna",
+          "en": "Numeracy"
+        },
+        "description": {
+          "local": "Att kunna räkna i samhällskunskap innebär att kunna tolka och använda statistik, tabeller och diagram för att analysera samhällsförhållanden. Eleverna utvecklar förmågan att förstå ekonomiska samband, budgetar och procentuella förändringar i samhällsvetenskapliga sammanhang. Numeriska färdigheter bidrar till att kunna granska påståenden och fatta välgrundade beslut.",
+          "en": "Numeracy in social studies involves being able to interpret and use statistics, tables and diagrams to analyse societal conditions. Pupils develop the ability to understand economic relationships, budgets and percentage changes in social science contexts. Numerical skills contribute to being able to examine claims and make well-informed decisions."
+        }
+      },
+      {
+        "code": "GF5",
+        "name": {
+          "local": "Digitala färdigheter",
+          "en": "Digital skills"
+        },
+        "description": {
+          "local": "Digitala färdigheter i samhällskunskap innebär att kunna söka, kritiskt granska och använda digital information för att undersöka samhällsfrågor. Eleverna utvecklar förmågan att värdera digitala källors trovärdighet och att förstå hur digitala medier påverkar opinionsbildning och demokrati. Digitala verktyg används också för att presentera och kommunicera samhällsvetenskapliga resonemang.",
+          "en": "Digital skills in social studies involve being able to search for, critically examine and use digital information to investigate social issues. Pupils develop the ability to evaluate the credibility of digital sources and to understand how digital media influence public opinion and democracy. Digital tools are also used to present and communicate social science reasoning."
         }
       }
     ],

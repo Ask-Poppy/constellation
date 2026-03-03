@@ -4,13 +4,18 @@
     "api": "https://eperusteet.opintopolku.fi/eperusteet-service/api/external/peruste/419550/perusopetus/oppiaineet/428820",
     "curriculum": "POPS 2014",
     "license": "Open Government Data (Finland)",
-    "lastSynced": "2026-03-02T21:29:43Z"
+    "lastSynced": "2026-03-03T08:58:57Z",
+    "aiEnriched": ["description.en", "interdisciplinaryThemes", "basicSkills"]
   },
   "subject": {
     "code": "YL",
     "name": {
       "local": "Ympäristöoppi",
       "en": "Environmental Studies"
+    },
+    "description": {
+      "local": "Ympäristöoppi on biologian, maantiedon, fysiikan, kemian ja terveystiedon tiedonaloista koostuva integroitu oppiaine, jonka opetukseen sisältyy kestävän kehityksen näkökulma. Ympäristöopissa yhdistyy sekä luonnon- että ihmistieteellisiä näkökulmia. Ympäristöopissa oppilaat nähdään osana ympäristöä, jossa he elävät. Lähtökohtana on luonnon kunnioittaminen ja ihmisoikeuksien mukainen arvokas elämä.\n\nYmpäristöopin opetus tukee oppilaiden ympäristösuhteen rakentumista, maailmankuvan kehittymistä sekä kasvua ihmisenä. Ympäristöopin opetuksen tavoitteena on ohjata oppilaita tuntemaan ja ymmärtämään luontoa ja rakennettua ympäristöä, niiden ilmiöitä, itseään ja muita ihmisiä sekä terveyden ja hyvinvoinnin merkitystä. Ympäristöopin monitieteinen perusta edellyttää, että oppilaat harjaantuvat hankkimaan, käsittelemään, tuottamaan, esittämään, arvioimaan ja arvottamaan tietoa erilaisissa tilanteissa. Tieteellistä tietoa käytetään opetuksen perustana ja kriittisen ajattelun kehittämiseen kiinnitetään huomiota. Ympäristöopissa kiinnitetään huomiota kestävän kehityksen ekologiseen, kulttuuriseen, sosiaaliseen ja taloudelliseen ulottuvuuteen. Ympäristöopin keskeisenä tavoitteena on ohjata ymmärtämään ihmisten tekemien valintojen vaikutuksia elämälle ja ympäristölle nyt sekä tulevaisuudessa.\n\nYmpäristöopissa rakennetaan perustaa ympäristöopin eri tiedonalojen osaamiselle. Tavoitteena on tunnistaa niiden merkitys ympäristössä, teknologiassa, jokapäiväisessä elämässä, ihmisessä ja ihmisen toiminnassa. Biologian kannalta keskeistä on oppia tuntemaan ja ymmärtämään luonnonympäristöä, ihmistä, elämää, sen kehittymistä ja reunaehtoja maapallolla. Maantiedon kannalta keskeistä on tutkia omaa lähiympäristöä sekä ymmärtää erilaisia alueita maapallolla, niillä esiintyviä ilmiöitä ja alueilla asuvien ihmisten elämää. Fysiikan kannalta keskeistä on ymmärtää luonnon perusrakenteita ja ilmiöitä, ja selittää näitä ilmiöitä käyttäen myös omissa tutkimuksissa saatavaa tietoa. Kemian kannalta keskeistä on havaita erilaisia aineita ympärillämme sekä tutkia, kuvailla ja selittää niiden ominaisuuksia, rakenteita ja niissä tapahtuvia muutoksia. Terveystiedon kannalta keskeistä on oppia ymmärtämään terveyttä tukevia ja suojaavia tekijöitä ympäristössä ja ihmisten toiminnassa, ja edistää terveyttä, hyvinvointia ja turvallisuutta tukevaa osaamista.\n\nOpetuksen tavoitteena on herättää ja syventää oppilaiden kiinnostusta ympäristöopin eri tiedonaloja kohtaan. Yhdenvertaisuutta ja tasa-arvoa edistetään tarjoamalla jokaiselle oppilaalle mahdollisuuksia tutustua monipuolisesti kaikkiin ympäristöopin tiedonaloihin sekä niihin liittyvään teknologiaan ja koulutuspolkuihin.",
+      "en": "Environmental Studies is an integrated subject composed of the fields of biology, geography, physics, chemistry, and health education, and its teaching includes the perspective of sustainable development. Environmental Studies combines both natural science and human science perspectives. In Environmental Studies, pupils are seen as part of the environment in which they live. The starting point is respect for nature and a dignified life in accordance with human rights.\n\nEnvironmental Studies teaching supports the building of pupils' relationship with the environment, the development of their worldview, and their growth as human beings. The goal of Environmental Studies teaching is to guide pupils to know and understand nature and the built environment, their phenomena, themselves and other people, and the significance of health and well-being. The multidisciplinary foundation of Environmental Studies requires that pupils practise acquiring, processing, producing, presenting, evaluating, and valuing information in various situations. Scientific knowledge is used as the basis of teaching, and attention is paid to the development of critical thinking. In Environmental Studies, attention is paid to the ecological, cultural, social, and economic dimensions of sustainable development. A central goal of Environmental Studies is to guide understanding of the impact of human choices on life and the environment now and in the future.\n\nIn Environmental Studies, a foundation is built for competence in the different fields of knowledge within the subject. The goal is to recognise their significance in the environment, technology, everyday life, in humans, and in human activity. From the perspective of biology, it is essential to learn to know and understand the natural environment, human beings, life, its development, and the boundary conditions on Earth. From the perspective of geography, it is essential to investigate one's own local environment and to understand different regions on Earth, the phenomena that occur there, and the lives of the people living in those regions. From the perspective of physics, it is essential to understand the basic structures and phenomena of nature and to explain these phenomena also using information obtained from one's own investigations. From the perspective of chemistry, it is essential to observe different substances around us and to investigate, describe, and explain their properties, structures, and changes occurring in them. From the perspective of health education, it is essential to learn to understand the factors that support and protect health in the environment and in human activity, and to promote competence that supports health, well-being, and safety.\n\nThe goal of teaching is to arouse and deepen pupils' interest in the different fields of knowledge within Environmental Studies. Equality and equity are promoted by offering every pupil opportunities to become familiar in a versatile way with all fields of knowledge in Environmental Studies and with the related technology and educational pathways."
     },
     "coreElements": [
       {
@@ -146,6 +151,98 @@
         }
       }
     ],
+    "interdisciplinaryThemes": [
+      {
+        "code": "TT1",
+        "name": {
+          "local": "Terveys ja elämänhallinta",
+          "en": "Health and life skills"
+        },
+        "description": {
+          "local": "Ympäristöopin opetuksessa terveys ja elämänhallinta ovat keskeisessä asemassa, sillä oppiaine sisältää terveystiedon tiedonalan. Oppilaat perehtyvät terveyden osa-alueisiin, arjen terveystottumuksiin, tunnetaitoihin ja turvataitoihin sekä harjoittelevat itsehoitotaitoja ja hyvinvointia edistäviä elämäntapoja.",
+          "en": "In Environmental Studies education, health and life skills hold a central position because the subject includes the field of health education. Pupils explore the dimensions of health, everyday health habits, emotional skills, and safety skills, and practise self-care skills and lifestyles that promote well-being."
+        }
+      },
+      {
+        "code": "TT2",
+        "name": {
+          "local": "Demokratia ja kansalaisuus",
+          "en": "Democracy and citizenship"
+        },
+        "description": {
+          "local": "Ympäristöopin opetuksessa demokratia ja kansalaisuus toteutuvat oppilaiden harjoitellessa yhteisössä toimimista, vaikuttamista lähiympäristössä ja vastuullista päätöksentekoa. Oppilaat toteuttavat vaikuttamisprojekteja ja oppivat arvioimaan kriittisesti tietolähteitä ja näkökulmia.",
+          "en": "In Environmental Studies education, democracy and citizenship are realised as pupils practise acting in communities, influencing their local environment, and making responsible decisions. Pupils carry out advocacy projects and learn to critically evaluate sources of information and perspectives."
+        }
+      },
+      {
+        "code": "TT3",
+        "name": {
+          "local": "Kestävä kehitys",
+          "en": "Sustainability"
+        },
+        "description": {
+          "local": "Kestävä kehitys on ympäristöopin opetuksen läpileikkaava teema. Oppilaat tutkivat luonnon monimuotoisuutta, ilmastonmuutosta, luonnonvarojen kestävää käyttöä ja ihmistoiminnan vaikutuksia ympäristöön sekä harjoittelevat ympäristövastuullista toimintaa omassa lähiympäristössään.",
+          "en": "Sustainability is a cross-cutting theme in Environmental Studies education. Pupils investigate biodiversity, climate change, the sustainable use of natural resources, and the effects of human activity on the environment, and practise environmentally responsible action in their local surroundings."
+        }
+      }
+    ],
+    "basicSkills": [
+      {
+        "code": "GF1",
+        "name": {
+          "local": "Suulliset taidot",
+          "en": "Oral skills"
+        },
+        "description": {
+          "local": "Suulliset taidot ympäristöopissa tarkoittavat havaintojen, tutkimustulosten ja näkemysten esittämistä ja perustelemista suullisesti. Oppilas oppii ilmaisemaan itseään eri tiedonalojen käsitteillä ja osallistumaan keskusteluihin ympäristöön ja terveyteen liittyvistä aiheista.",
+          "en": "Oral skills in Environmental Studies mean presenting and justifying observations, research results, and viewpoints orally. The pupil learns to express themselves using concepts from different fields of knowledge and to participate in discussions about environmental and health-related topics."
+        }
+      },
+      {
+        "code": "GF2",
+        "name": {
+          "local": "Kirjoittaminen",
+          "en": "Writing"
+        },
+        "description": {
+          "local": "Kirjoittaminen ympäristöopissa tarkoittaa tutkimusraporttien, havaintomuistiinpanojen ja pienten selvitysten tuottamista. Oppilas harjoittelee tulosten ja johtopäätösten kirjallista esittämistä sekä oppii käyttämään ympäristöopin eri tiedonalojen käsitteitä kirjallisissa töissään.",
+          "en": "Writing in Environmental Studies means producing research reports, observation notes, and small studies. The pupil practises presenting results and conclusions in written form and learns to use concepts from different fields of knowledge in their written work."
+        }
+      },
+      {
+        "code": "GF3",
+        "name": {
+          "local": "Lukeminen",
+          "en": "Reading"
+        },
+        "description": {
+          "local": "Lukeminen ympäristöopissa tarkoittaa tietotekstien, karttojen, diagrammien ja tutkimusaineistojen lukemista ja tulkitsemista. Oppilas kehittää taitojaan hankkia tietoa eri lähteistä ja arvioimaan lähteiden luotettavuutta.",
+          "en": "Reading in Environmental Studies means reading and interpreting non-fiction texts, maps, diagrams, and research materials. The pupil develops their skills in acquiring information from various sources and evaluating the reliability of sources."
+        }
+      },
+      {
+        "code": "GF4",
+        "name": {
+          "local": "Laskutaito",
+          "en": "Numeracy"
+        },
+        "description": {
+          "local": "Laskutaito ympäristöopissa ilmenee mittausten tekemisessä, mittaustulosten käsittelyssä, yksinkertaisten tilastojen laatimisessa ja lämpötilojen, pituuksien sekä tilavuuksien vertailussa. Oppilas oppii käyttämään mittayksiköitä ja tulkitsemaan numeerista tietoa luonnonilmiöistä.",
+          "en": "Numeracy in Environmental Studies is manifested in carrying out measurements, processing measurement results, compiling simple statistics, and comparing temperatures, lengths, and volumes. The pupil learns to use units of measurement and interpret numerical data about natural phenomena."
+        }
+      },
+      {
+        "code": "GF5",
+        "name": {
+          "local": "Digitaaliset taidot",
+          "en": "Digital skills"
+        },
+        "description": {
+          "local": "Digitaaliset taidot ympäristöopissa tarkoittavat tieto- ja viestintäteknologian käyttöä tiedonhankinnassa, havaintojen tallentamisessa, tulosten esittämisessä ja geomedian hyödyntämisessä. Oppilas oppii käyttämään digitaalisia työkaluja turvallisesti ja vastuullisesti tutkimustensa tukena.",
+          "en": "Digital skills in Environmental Studies mean using information and communication technology for information retrieval, recording observations, presenting results, and utilising geomedia. The pupil learns to use digital tools safely and responsibly to support their investigations."
+        }
+      }
+    ],
     "gradeBands": [
       {
         "afterGrade": 2,
@@ -161,12 +258,12 @@
               "en": "T1 offer the pupil opportunities to exercise their natural curiosity and help the pupil experience environmental studies topics as meaningful to themselves"
             },
             "coreElements": [
-              "S6 Kestävän elämäntavan harjoitteleminen",
-              "S5 Elämän perusedellytysten pohtiminen",
-              "S1 Kasvu ja kehitys",
-              "S4 Tutkiminen ja kokeileminen",
-              "S3 Lähiympäristön ja sen muutosten havainnointi",
-              "S2 Kotona ja koulussa toimiminen"
+              "S6",
+              "S5",
+              "S1",
+              "S4",
+              "S3",
+              "S2"
             ],
             "verbs": []
           },
@@ -177,12 +274,12 @@
               "en": "T2 encourage the pupil to enjoy learning environmental studies, their own competence, and new challenges, and to practise sustained work"
             },
             "coreElements": [
-              "S6 Kestävän elämäntavan harjoitteleminen",
-              "S5 Elämän perusedellytysten pohtiminen",
-              "S1 Kasvu ja kehitys",
-              "S4 Tutkiminen ja kokeileminen",
-              "S3 Lähiympäristön ja sen muutosten havainnointi",
-              "S2 Kotona ja koulussa toimiminen"
+              "S6",
+              "S5",
+              "S1",
+              "S4",
+              "S3",
+              "S2"
             ],
             "verbs": []
           },
@@ -193,12 +290,12 @@
               "en": "T3 support the development of the pupil's environmental sensitivity and guide the pupil to act in a sustainable manner in the local environment and school community"
             },
             "coreElements": [
-              "S6 Kestävän elämäntavan harjoitteleminen",
-              "S5 Elämän perusedellytysten pohtiminen",
-              "S1 Kasvu ja kehitys",
-              "S4 Tutkiminen ja kokeileminen",
-              "S3 Lähiympäristön ja sen muutosten havainnointi",
-              "S2 Kotona ja koulussa toimiminen"
+              "S6",
+              "S5",
+              "S1",
+              "S4",
+              "S3",
+              "S2"
             ],
             "verbs": []
           },
@@ -209,10 +306,10 @@
               "en": "T4 guide the pupil to investigate and act, and to move about and go on excursions in their local environment"
             },
             "coreElements": [
-              "S6 Kestävän elämäntavan harjoitteleminen",
-              "S4 Tutkiminen ja kokeileminen",
-              "S3 Lähiympäristön ja sen muutosten havainnointi",
-              "S2 Kotona ja koulussa toimiminen"
+              "S6",
+              "S4",
+              "S3",
+              "S2"
             ],
             "verbs": []
           },
@@ -223,12 +320,12 @@
               "en": "T5 encourage the pupil to wonder and ask questions and to use shared reflections as a starting point for small investigations and other activities"
             },
             "coreElements": [
-              "S6 Kestävän elämäntavan harjoitteleminen",
-              "S5 Elämän perusedellytysten pohtiminen",
-              "S1 Kasvu ja kehitys",
-              "S4 Tutkiminen ja kokeileminen",
-              "S3 Lähiympäristön ja sen muutosten havainnointi",
-              "S2 Kotona ja koulussa toimiminen"
+              "S6",
+              "S5",
+              "S1",
+              "S4",
+              "S3",
+              "S2"
             ],
             "verbs": []
           },
@@ -239,12 +336,12 @@
               "en": "T6 guide the pupil to make observations and experiments in school and the local environment using different senses and simple research tools, and to present their results in different ways"
             },
             "coreElements": [
-              "S6 Kestävän elämäntavan harjoitteleminen",
-              "S5 Elämän perusedellytysten pohtiminen",
-              "S1 Kasvu ja kehitys",
-              "S4 Tutkiminen ja kokeileminen",
-              "S3 Lähiympäristön ja sen muutosten havainnointi",
-              "S2 Kotona ja koulussa toimiminen"
+              "S6",
+              "S5",
+              "S1",
+              "S4",
+              "S3",
+              "S2"
             ],
             "verbs": []
           },
@@ -255,12 +352,12 @@
               "en": "T7 guide the pupil to describe, compare, and classify organisms, habitats, phenomena, materials, and situations in diverse ways and to name them"
             },
             "coreElements": [
-              "S6 Kestävän elämäntavan harjoitteleminen",
-              "S5 Elämän perusedellytysten pohtiminen",
-              "S1 Kasvu ja kehitys",
-              "S4 Tutkiminen ja kokeileminen",
-              "S3 Lähiympäristön ja sen muutosten havainnointi",
-              "S2 Kotona ja koulussa toimiminen"
+              "S6",
+              "S5",
+              "S1",
+              "S4",
+              "S3",
+              "S2"
             ],
             "verbs": []
           },
@@ -271,12 +368,12 @@
               "en": "T8 instruct the pupil to act safely, to follow given instructions, and to understand their justifications"
             },
             "coreElements": [
-              "S6 Kestävän elämäntavan harjoitteleminen",
-              "S5 Elämän perusedellytysten pohtiminen",
-              "S1 Kasvu ja kehitys",
-              "S4 Tutkiminen ja kokeileminen",
-              "S3 Lähiympäristön ja sen muutosten havainnointi",
-              "S2 Kotona ja koulussa toimiminen"
+              "S6",
+              "S5",
+              "S1",
+              "S4",
+              "S3",
+              "S2"
             ],
             "verbs": []
           },
@@ -287,9 +384,9 @@
               "en": "T9 guide the pupil to explore everyday technology in diverse ways and to inspire pupils to experiment, invent, build, and create something new through collaborative action"
             },
             "coreElements": [
-              "S6 Kestävän elämäntavan harjoitteleminen",
-              "S4 Tutkiminen ja kokeileminen",
-              "S2 Kotona ja koulussa toimiminen"
+              "S6",
+              "S4",
+              "S2"
             ],
             "verbs": []
           },
@@ -300,12 +397,12 @@
               "en": "T10 guide the pupil to practise group work skills and emotional skills and to strengthen the valuing of oneself and others"
             },
             "coreElements": [
-              "S6 Kestävän elämäntavan harjoitteleminen",
-              "S5 Elämän perusedellytysten pohtiminen",
-              "S1 Kasvu ja kehitys",
-              "S4 Tutkiminen ja kokeileminen",
-              "S3 Lähiympäristön ja sen muutosten havainnointi",
-              "S2 Kotona ja koulussa toimiminen"
+              "S6",
+              "S5",
+              "S1",
+              "S4",
+              "S3",
+              "S2"
             ],
             "verbs": []
           },
@@ -316,12 +413,12 @@
               "en": "T11 guide the pupil to use information and communication technology for acquiring information and for recording and presenting observations"
             },
             "coreElements": [
-              "S6 Kestävän elämäntavan harjoitteleminen",
-              "S5 Elämän perusedellytysten pohtiminen",
-              "S1 Kasvu ja kehitys",
-              "S4 Tutkiminen ja kokeileminen",
-              "S3 Lähiympäristön ja sen muutosten havainnointi",
-              "S2 Kotona ja koulussa toimiminen"
+              "S6",
+              "S5",
+              "S1",
+              "S4",
+              "S3",
+              "S2"
             ],
             "verbs": []
           },
@@ -332,12 +429,12 @@
               "en": "T12 guide the pupil to structure the environment, human activity, and related phenomena using concepts from different fields of knowledge in environmental studies"
             },
             "coreElements": [
-              "S6 Kestävän elämäntavan harjoitteleminen",
-              "S5 Elämän perusedellytysten pohtiminen",
-              "S1 Kasvu ja kehitys",
-              "S4 Tutkiminen ja kokeileminen",
-              "S3 Lähiympäristön ja sen muutosten havainnointi",
-              "S2 Kotona ja koulussa toimiminen"
+              "S6",
+              "S5",
+              "S1",
+              "S4",
+              "S3",
+              "S2"
             ],
             "verbs": []
           },
@@ -348,12 +445,12 @@
               "en": "T13 guide the pupil to understand simple pictures, models, and maps as representations of the environment"
             },
             "coreElements": [
-              "S6 Kestävän elämäntavan harjoitteleminen",
-              "S5 Elämän perusedellytysten pohtiminen",
-              "S1 Kasvu ja kehitys",
-              "S4 Tutkiminen ja kokeileminen",
-              "S3 Lähiympäristön ja sen muutosten havainnointi",
-              "S2 Kotona ja koulussa toimiminen"
+              "S6",
+              "S5",
+              "S1",
+              "S4",
+              "S3",
+              "S2"
             ],
             "verbs": []
           },
@@ -364,12 +461,12 @@
               "en": "T14 encourage the pupil to express themselves and to practise justifying their viewpoints"
             },
             "coreElements": [
-              "S6 Kestävän elämäntavan harjoitteleminen",
-              "S5 Elämän perusedellytysten pohtiminen",
-              "S1 Kasvu ja kehitys",
-              "S4 Tutkiminen ja kokeileminen",
-              "S3 Lähiympäristön ja sen muutosten havainnointi",
-              "S2 Kotona ja koulussa toimiminen"
+              "S6",
+              "S5",
+              "S1",
+              "S4",
+              "S3",
+              "S2"
             ],
             "verbs": []
           },
@@ -380,8 +477,8 @@
               "en": "T15 guide the pupil to consider factors that support growth and development, health, and well-being, as well as the basic prerequisites for life"
             },
             "coreElements": [
-              "S5 Elämän perusedellytysten pohtiminen",
-              "S1 Kasvu ja kehitys"
+              "S5",
+              "S1"
             ],
             "verbs": []
           }
@@ -401,12 +498,12 @@
               "en": "T1 generate and maintain the pupil's interest in the environment and the study of environmental studies, and help the pupil experience all fields of knowledge in environmental studies as meaningful to themselves"
             },
             "coreElements": [
-              "S5 Elämän perusedellytysten pohtiminen",
-              "S3 Lähiympäristön ja sen muutosten havainnointi",
-              "S4 Tutkiminen ja kokeileminen",
-              "S1 Kasvu ja kehitys",
-              "S2 Kotona ja koulussa toimiminen",
-              "S6 Kestävän elämäntavan harjoitteleminen"
+              "S5",
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S6"
             ],
             "verbs": []
           },
@@ -417,12 +514,12 @@
               "en": "T2 guide and encourage the pupil to set their own learning goals and to work with perseverance to achieve them, and to recognise their own competence in environmental studies"
             },
             "coreElements": [
-              "S5 Elämän perusedellytysten pohtiminen",
-              "S3 Lähiympäristön ja sen muutosten havainnointi",
-              "S4 Tutkiminen ja kokeileminen",
-              "S1 Kasvu ja kehitys",
-              "S2 Kotona ja koulussa toimiminen",
-              "S6 Kestävän elämäntavan harjoitteleminen"
+              "S5",
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S6"
             ],
             "verbs": []
           },
@@ -433,12 +530,12 @@
               "en": "T3 support the development of the pupil's environmental awareness and guide the pupil to act and exert influence in their local environment and communities to promote sustainable development, and to value the significance of sustainable development for oneself and the world"
             },
             "coreElements": [
-              "S5 Elämän perusedellytysten pohtiminen",
-              "S3 Lähiympäristön ja sen muutosten havainnointi",
-              "S4 Tutkiminen ja kokeileminen",
-              "S1 Kasvu ja kehitys",
-              "S2 Kotona ja koulussa toimiminen",
-              "S6 Kestävän elämäntavan harjoitteleminen"
+              "S5",
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S6"
             ],
             "verbs": []
           },
@@ -449,12 +546,12 @@
               "en": "T4 encourage the pupil to formulate questions from different topics and to use them as a starting point for investigations and other activities"
             },
             "coreElements": [
-              "S5 Elämän perusedellytysten pohtiminen",
-              "S3 Lähiympäristön ja sen muutosten havainnointi",
-              "S4 Tutkiminen ja kokeileminen",
-              "S1 Kasvu ja kehitys",
-              "S2 Kotona ja koulussa toimiminen",
-              "S6 Kestävän elämäntavan harjoitteleminen"
+              "S5",
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S6"
             ],
             "verbs": []
           },
@@ -465,12 +562,12 @@
               "en": "T5 guide the pupil to plan and carry out small investigations, to make observations and measurements in diverse learning environments using different senses and research and measuring tools"
             },
             "coreElements": [
-              "S5 Elämän perusedellytysten pohtiminen",
-              "S3 Lähiympäristön ja sen muutosten havainnointi",
-              "S4 Tutkiminen ja kokeileminen",
-              "S1 Kasvu ja kehitys",
-              "S2 Kotona ja koulussa toimiminen",
-              "S6 Kestävän elämäntavan harjoitteleminen"
+              "S5",
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S6"
             ],
             "verbs": []
           },
@@ -481,12 +578,12 @@
               "en": "T6 guide the pupil to identify cause-and-effect relationships, to draw conclusions from their results, and to present their results and investigations in different ways"
             },
             "coreElements": [
-              "S5 Elämän perusedellytysten pohtiminen",
-              "S3 Lähiympäristön ja sen muutosten havainnointi",
-              "S4 Tutkiminen ja kokeileminen",
-              "S1 Kasvu ja kehitys",
-              "S2 Kotona ja koulussa toimiminen",
-              "S6 Kestävän elämäntavan harjoitteleminen"
+              "S5",
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S6"
             ],
             "verbs": []
           },
@@ -497,11 +594,11 @@
               "en": "T7 guide the pupil to understand the use, significance, and operating principles of everyday technological applications and to inspire pupils to experiment, invent, and create something new through collaborative action"
             },
             "coreElements": [
-              "S5 Elämän perusedellytysten pohtiminen",
-              "S3 Lähiympäristön ja sen muutosten havainnointi",
-              "S4 Tutkiminen ja kokeileminen",
-              "S2 Kotona ja koulussa toimiminen",
-              "S6 Kestävän elämäntavan harjoitteleminen"
+              "S5",
+              "S3",
+              "S4",
+              "S2",
+              "S6"
             ],
             "verbs": []
           },
@@ -512,12 +609,12 @@
               "en": "T8 encourage the pupil to promote well-being and safety in their activities and local environment, and guide the pupil to act safely, appropriately, responsibly, and in a self-protective manner"
             },
             "coreElements": [
-              "S5 Elämän perusedellytysten pohtiminen",
-              "S3 Lähiympäristön ja sen muutosten havainnointi",
-              "S4 Tutkiminen ja kokeileminen",
-              "S1 Kasvu ja kehitys",
-              "S2 Kotona ja koulussa toimiminen",
-              "S6 Kestävän elämäntavan harjoitteleminen"
+              "S5",
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S6"
             ],
             "verbs": []
           },
@@ -528,11 +625,11 @@
               "en": "T9 guide the pupil to investigate and act, and to move about and go on excursions in nature and the built environment"
             },
             "coreElements": [
-              "S5 Elämän perusedellytysten pohtiminen",
-              "S3 Lähiympäristön ja sen muutosten havainnointi",
-              "S4 Tutkiminen ja kokeileminen",
-              "S2 Kotona ja koulussa toimiminen",
-              "S6 Kestävän elämäntavan harjoitteleminen"
+              "S5",
+              "S3",
+              "S4",
+              "S2",
+              "S6"
             ],
             "verbs": []
           },
@@ -543,12 +640,12 @@
               "en": "T10 offer the pupil opportunities to practise working in a group in different roles and interaction situations, inspire the pupil to express themselves and listen to others, and support the pupil's readiness to recognise, express, and regulate their emotions."
             },
             "coreElements": [
-              "S5 Elämän perusedellytysten pohtiminen",
-              "S3 Lähiympäristön ja sen muutosten havainnointi",
-              "S4 Tutkiminen ja kokeileminen",
-              "S1 Kasvu ja kehitys",
-              "S2 Kotona ja koulussa toimiminen",
-              "S6 Kestävän elämäntavan harjoitteleminen"
+              "S5",
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S6"
             ],
             "verbs": []
           },
@@ -559,12 +656,12 @@
               "en": "T11 guide the pupil to use information and communication technology for acquiring, processing, and presenting information, and as a tool for interaction in a responsible, safe, and ergonomic manner"
             },
             "coreElements": [
-              "S5 Elämän perusedellytysten pohtiminen",
-              "S3 Lähiympäristön ja sen muutosten havainnointi",
-              "S4 Tutkiminen ja kokeileminen",
-              "S1 Kasvu ja kehitys",
-              "S2 Kotona ja koulussa toimiminen",
-              "S6 Kestävän elämäntavan harjoitteleminen"
+              "S5",
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S6"
             ],
             "verbs": []
           },
@@ -575,12 +672,12 @@
               "en": "T12 guide the pupil to perceive the environment, human activity, and related phenomena using environmental studies concepts, and to develop their conceptual structures from preconceptions towards precise use of concepts"
             },
             "coreElements": [
-              "S5 Elämän perusedellytysten pohtiminen",
-              "S3 Lähiympäristön ja sen muutosten havainnointi",
-              "S4 Tutkiminen ja kokeileminen",
-              "S1 Kasvu ja kehitys",
-              "S2 Kotona ja koulussa toimiminen",
-              "S6 Kestävän elämäntavan harjoitteleminen"
+              "S5",
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S6"
             ],
             "verbs": []
           },
@@ -591,12 +688,12 @@
               "en": "T13 guide the pupil to understand, use, and create various models that can be used to interpret and explain humans, the environment, and their phenomena"
             },
             "coreElements": [
-              "S5 Elämän perusedellytysten pohtiminen",
-              "S3 Lähiympäristön ja sen muutosten havainnointi",
-              "S4 Tutkiminen ja kokeileminen",
-              "S1 Kasvu ja kehitys",
-              "S2 Kotona ja koulussa toimiminen",
-              "S6 Kestävän elämäntavan harjoitteleminen"
+              "S5",
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S6"
             ],
             "verbs": []
           },
@@ -607,12 +704,12 @@
               "en": "T14 guide the pupil to obtain reliable information, to express different viewpoints with justification, and to critically interpret and evaluate sources of information and perspectives"
             },
             "coreElements": [
-              "S5 Elämän perusedellytysten pohtiminen",
-              "S3 Lähiympäristön ja sen muutosten havainnointi",
-              "S4 Tutkiminen ja kokeileminen",
-              "S1 Kasvu ja kehitys",
-              "S2 Kotona ja koulussa toimiminen",
-              "S6 Kestävän elämäntavan harjoitteleminen"
+              "S5",
+              "S3",
+              "S4",
+              "S1",
+              "S2",
+              "S6"
             ],
             "verbs": []
           },
@@ -623,11 +720,11 @@
               "en": "T15 guide the pupil to investigate nature, to identify organisms and habitats, and to think ecologically, as well as guide the pupil to understand human anatomy, vital functions, and development"
             },
             "coreElements": [
-              "S5 Elämän perusedellytysten pohtiminen",
-              "S3 Lähiympäristön ja sen muutosten havainnointi",
-              "S4 Tutkiminen ja kokeileminen",
-              "S1 Kasvu ja kehitys",
-              "S6 Kestävän elämäntavan harjoitteleminen"
+              "S5",
+              "S3",
+              "S4",
+              "S1",
+              "S6"
             ],
             "verbs": []
           },
@@ -638,10 +735,10 @@
               "en": "T16 guide the pupil towards geographical thinking, to perceive their own environment and the whole world, and to practise map-reading and other geomedia skills"
             },
             "coreElements": [
-              "S5 Elämän perusedellytysten pohtiminen",
-              "S3 Lähiympäristön ja sen muutosten havainnointi",
-              "S4 Tutkiminen ja kokeileminen",
-              "S6 Kestävän elämäntavan harjoitteleminen"
+              "S5",
+              "S3",
+              "S4",
+              "S6"
             ],
             "verbs": []
           },
@@ -652,10 +749,10 @@
               "en": "T17 guide the pupil to investigate, describe, and explain physical phenomena in everyday life, nature, and technology, and to build a foundation for understanding the principle of conservation of energy"
             },
             "coreElements": [
-              "S5 Elämän perusedellytysten pohtiminen",
-              "S4 Tutkiminen ja kokeileminen",
-              "S2 Kotona ja koulussa toimiminen",
-              "S6 Kestävän elämäntavan harjoitteleminen"
+              "S5",
+              "S4",
+              "S2",
+              "S6"
             ],
             "verbs": []
           },
@@ -666,10 +763,10 @@
               "en": "T18 guide the pupil to investigate, describe, and explain chemical phenomena, properties of substances, and changes, and to build a foundation for understanding the principle of conservation of matter"
             },
             "coreElements": [
-              "S5 Elämän perusedellytysten pohtiminen",
-              "S4 Tutkiminen ja kokeileminen",
-              "S2 Kotona ja koulussa toimiminen",
-              "S6 Kestävän elämäntavan harjoitteleminen"
+              "S5",
+              "S4",
+              "S2",
+              "S6"
             ],
             "verbs": []
           },
@@ -680,10 +777,10 @@
               "en": "T19 guide the pupil to understand the dimensions of health, the significance of everyday health habits, the life course, and the individual growth and development during childhood and adolescence, and encourage the pupil to practise and apply their health literacy in everyday life"
             },
             "coreElements": [
-              "S3 Lähiympäristön ja sen muutosten havainnointi",
-              "S1 Kasvu ja kehitys",
-              "S2 Kotona ja koulussa toimiminen",
-              "S6 Kestävän elämäntavan harjoitteleminen"
+              "S3",
+              "S1",
+              "S2",
+              "S6"
             ],
             "verbs": []
           }

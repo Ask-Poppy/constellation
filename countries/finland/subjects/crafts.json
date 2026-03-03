@@ -4,13 +4,22 @@
     "api": "https://eperusteet.opintopolku.fi/eperusteet-service/api/external/peruste/419550/perusopetus/oppiaineet/530524",
     "curriculum": "POPS 2014",
     "license": "Open Government Data (Finland)",
-    "lastSynced": "2026-03-02T21:29:49Z"
+    "lastSynced": "2026-03-03T08:59:03Z",
+    "aiEnriched": [
+      "description.en",
+      "interdisciplinaryThemes",
+      "basicSkills"
+    ]
   },
   "subject": {
     "code": "KS",
     "name": {
       "local": "Käsityö",
       "en": "Crafts"
+    },
+    "description": {
+      "local": "Käsityön oppiaineen tehtävänä on ohjata oppilaita kokonaiseen käsityöprosessin hallintaan. Käsityö on monimateriaalinen oppiaine, jossa toteutetaan käsityöilmaisuun, muotoiluun ja teknologiaan perustuvaa toimintaa. Tähän kuuluu tuotteen tai teoksen itsenäinen tai yhteisöllinen suunnittelu, valmistus ja oman tai yhteisen käsityöprosessin arviointi. Käsityön tekeminen on tutkivaa, keksivää ja kokeilevaa toimintaa ja siinä toteutetaan ennakkoluulottomasti erilaisia visuaalisia, materiaalisia, teknisiä sekä valmistusmenetelmällisiä ratkaisuja. Käsityössä opetellaan ymmärtämään, arvioimaan ja kehittämään erilaisia teknologisia sovelluksia sekä käyttämään opittuja tietoja ja taitoja arjessa. Käsityössä kehitetään oppilaiden avaruudellista hahmottamista, tuntoaistia ja käsillä tekemistä, jotka edistävät motorisia taitoja, luovuutta ja suunnitteluosaamista. Opetuksella vahvistetaan edellytyksiä monipuoliseen työskentelyyn. Käsityön merkitys on pitkäjänteisessä ja innovatiivisessa työskentelyprosessissa sekä itsetuntoa vahvistavassa, mielihyvää tuottavassa kokemuksessa.\n\nOpetuksessa painotetaan oppilaiden erilaisia kiinnostuksen kohteita ja korostetaan yhteisöllistä toimintaa. Käsityössä lähtökohtana on erilaisten laaja-alaisten teemojen kokonaisvaltainen tarkastelu oppiainerajat luontevasti ylittäen. Ympäröivän materiaalisen maailman tuntemus luo perustaa kestävälle elämäntavalle ja kehitykselle. Tähän sisältyy myös oppilaiden oma elämänpiiri, paikallinen kulttuuriperintö sekä yhteisön kulttuurinen moninaisuus. Käsityö kasvattaa eettisiä, tiedostavia, osallistuvia sekä osaavia ja yritteliäitä kansalaisia, jotka arvostavat itseään tekijöinä ja joilla on taito käsityöilmaisuun sekä halu ylläpitää ja kehittää käsityökulttuuria.",
+      "en": "The task of the crafts subject is to guide pupils towards managing the complete craft process. Crafts is a multi-material subject in which activities based on craft expression, design, and technology are carried out. This includes the independent or collaborative design and production of a product or work, and the evaluation of one's own or a shared craft process. Craft-making is investigative, inventive, and experimental, and it implements various visual, material, technical, and manufacturing solutions without preconceptions. In crafts, pupils learn to understand, evaluate, and develop various technological applications and to use the knowledge and skills learned in everyday life. Crafts develop pupils' spatial perception, sense of touch, and manual skills, which promote motor skills, creativity, and design competence. Teaching strengthens the prerequisites for versatile work. The significance of crafts lies in the persistent and innovative working process and in the experience that strengthens self-esteem and brings satisfaction.\n\nTeaching emphasises pupils' different interests and highlights collaborative activity. In crafts, the starting point is a holistic examination of various cross-curricular themes that naturally crosses subject boundaries. Knowledge of the surrounding material world creates a foundation for a sustainable way of life and development. This also includes the pupils' own sphere of life, local cultural heritage, and the cultural diversity of the community. Crafts educates ethical, aware, participatory, competent, and enterprising citizens who value themselves as makers and who have the skill for craft expression and the desire to maintain and develop craft culture."
     },
     "coreElements": [
       {
@@ -201,6 +210,98 @@
         }
       }
     ],
+    "interdisciplinaryThemes": [
+      {
+        "code": "TT1",
+        "name": {
+          "local": "Terveys ja elämänhallinta",
+          "en": "Health and life skills"
+        },
+        "description": {
+          "local": "Käsityön opetuksessa terveys ja elämänhallinta -teema ilmenee itsetuntoa vahvistavina onnistumisen ja oivaltamisen kokemuksina käsin tekemisessä. Pitkäjänteinen käsityöprosessi kehittää sinnikkyyttä, keskittymiskykyä ja kykyä hallita kokonaisia työskentelyprosesseja. Turvallisten työtapojen oppiminen ja työturvallisuudesta huolehtiminen ovat olennainen osa käsityön opetusta ja elämänhallintataitojen kehittymistä.",
+          "en": "In crafts education, the theme of health and life skills manifests through self-esteem-building experiences of success and discovery in making things by hand. The sustained craft process develops perseverance, concentration, and the ability to manage complete working processes. Learning safe working methods and ensuring work safety are an essential part of crafts education and the development of life management skills."
+        }
+      },
+      {
+        "code": "TT2",
+        "name": {
+          "local": "Demokratia ja kansalaisuus",
+          "en": "Democracy and citizenship"
+        },
+        "description": {
+          "local": "Käsityön opetuksessa demokratia ja kansalaisuus -teema näkyy yhteisöllisessä suunnittelussa ja työskentelyssä, jossa oppilaat harjoittelevat yhdessä päättämistä ja toisten ideoiden kunnioittamista. Käsityö kasvattaa osallistuvia ja yritteliäitä kansalaisia, jotka arvostavat käsityökulttuuria ja ymmärtävät kädentaitojen merkityksen yhteiskunnalle. Oppilaat oppivat vaikuttamaan ja viestimään käsityön keinoin.",
+          "en": "In crafts education, the theme of democracy and citizenship manifests through collaborative design and working, where pupils practise shared decision-making and respect for others' ideas. Crafts educates participatory and enterprising citizens who value craft culture and understand the significance of manual skills for society. Pupils learn to influence and communicate through crafts."
+        }
+      },
+      {
+        "code": "TT3",
+        "name": {
+          "local": "Kestävä kehitys",
+          "en": "Sustainability"
+        },
+        "description": {
+          "local": "Käsityön opetuksessa kestävä kehitys -teema on keskeisessä asemassa materiaalivalinnoissa, kulutus- ja tuotantotapojen kriittisessä arvioinnissa sekä laadukkaiden ja kestävien tuotteiden valmistamisessa. Oppilaat pohtivat materiaalisen maailman tuntemuksen merkitystä kestävälle elämäntavalle ja oppivat hyödyntämään kierrätysmateriaaleja. Käsityö auttaa ymmärtämään tuotteiden elinkaarta ja omien valintojen vaikutusta ympäristöön.",
+          "en": "In crafts education, the theme of sustainability holds a central position in material choices, the critical evaluation of consumption and production practices, and the production of high-quality and durable products. Pupils reflect on the significance of knowledge of the material world for a sustainable way of life and learn to utilise recycled materials. Crafts help pupils understand the life cycle of products and the environmental impact of their own choices."
+        }
+      }
+    ],
+    "basicSkills": [
+      {
+        "code": "GF1",
+        "name": {
+          "local": "Suulliset taidot",
+          "en": "Oral skills"
+        },
+        "description": {
+          "local": "Käsityön opetuksessa suulliset taidot kehittyvät, kun oppilaat kuvailevat omaa käsityöprosessiaan, suunnitelmiaan ja valmiita tuotteitaan suullisesti. Oppilaat harjoittelevat käsityön käsitteistön käyttöä ja oppivat antamaan palautetta toisilleen itse- ja vertaisarvioinnin yhteydessä. Suullinen ilmaisu on keskeistä myös yhteisöllisessä suunnittelussa ja ideoiden jakamisessa.",
+          "en": "In crafts education, oral skills develop as pupils describe their own craft process, plans, and finished products orally. Pupils practise using craft terminology and learn to give feedback to each other during self-assessment and peer assessment. Oral expression is also central to collaborative design and the sharing of ideas."
+        }
+      },
+      {
+        "code": "GF2",
+        "name": {
+          "local": "Kirjoittaminen",
+          "en": "Writing"
+        },
+        "description": {
+          "local": "Käsityön opetuksessa kirjoittamista harjoitellaan suunnitelmien dokumentoinnissa sanallisesti ja visuaalisesti sekä käsityöprosessin kuvailussa. Oppilaat oppivat laatimaan työsuunnitelmia ja dokumentoimaan käsityöprosessinsa vaiheita kirjallisesti. Kirjoittaminen tukee kokonaisen käsityöprosessin hallintaa ja itsearvioinnin kehittymistä.",
+          "en": "In crafts education, writing is practised through documenting plans verbally and visually, and through describing the craft process. Pupils learn to draw up work plans and to document the stages of their craft process in written form. Writing supports the management of the complete craft process and the development of self-assessment."
+        }
+      },
+      {
+        "code": "GF3",
+        "name": {
+          "local": "Lukeminen",
+          "en": "Reading"
+        },
+        "description": {
+          "local": "Käsityön opetuksessa lukutaito kehittyy, kun oppilaat lukevat ja tulkitsevat työohjeita, kaavoja, piirustuksia ja käsityön merkkejä ja symboleja. Oppilaat oppivat ymmärtämään teknisiä piirustuksia, mittakaavoja ja materiaalitietoja. Lukutaito on olennainen osa suunnitelmien toteuttamista ja käsityön käsitteistön omaksumista.",
+          "en": "In crafts education, reading skills develop as pupils read and interpret work instructions, patterns, drawings, and craft signs and symbols. Pupils learn to understand technical drawings, scales, and material information. Reading is an essential part of carrying out plans and mastering craft terminology."
+        }
+      },
+      {
+        "code": "GF4",
+        "name": {
+          "local": "Laskutaito",
+          "en": "Numeracy"
+        },
+        "description": {
+          "local": "Käsityön opetuksessa laskutaito ilmenee mittojen, määrien ja mittakaavojen käytössä suunnittelussa ja valmistuksessa. Oppilaat harjoittelevat mittaamista, materiaalimäärien laskemista ja avaruudellista hahmottamista. Numeerinen osaaminen on keskeistä tarkkojen ja laadukkaiden käsityötuotteiden valmistamisessa sekä rakenteiden suunnittelussa.",
+          "en": "In crafts education, numeracy manifests in the use of measurements, quantities, and scales in design and production. Pupils practise measuring, calculating material quantities, and spatial perception. Numerical competence is central to producing precise and high-quality craft products and designing structures."
+        }
+      },
+      {
+        "code": "GF5",
+        "name": {
+          "local": "Digitaaliset taidot",
+          "en": "Digital skills"
+        },
+        "description": {
+          "local": "Käsityön opetuksessa digitaaliset taidot kehittyvät, kun oppilaat käyttävät tieto- ja viestintäteknologiaa käsityön ideoinnissa, suunnittelussa, valmistuksessa ja dokumentoinnissa. Oppilaat harjoittelevat ohjelmointia robotiikan ja automaation yhteydessä sekä hyödyntävät digitaalisia välineitä suunnitelmien laatimisessa. Digitaalinen osaaminen tukee yhteisöllistä tiedon tuottamista ja jakamista käsityöprosessissa.",
+          "en": "In crafts education, digital skills develop as pupils use information and communication technology in craft ideation, design, production, and documentation. Pupils practise programming in connection with robotics and automation, and utilise digital tools in drawing up plans. Digital competence supports collaborative knowledge creation and sharing in the craft process."
+        }
+      }
+    ],
     "gradeBands": [
       {
         "afterGrade": 2,
@@ -216,10 +317,10 @@
               "en": "T1 encourage the pupil to become interested in and enthusiastic about making things by hand, and to awaken curiosity towards inventive and experimental crafts"
             },
             "coreElements": [
-              "S2 Muotoilu",
-              "S1 Innovointi",
-              "S4 Dokumentointi ja arviointi",
-              "S3 Suunnittelu"
+              "S2",
+              "S1",
+              "S4",
+              "S3"
             ],
             "verbs": []
           },
@@ -230,9 +331,9 @@
               "en": "T2 guide the pupil through the complete craft process and to present their own ideas visually, as well as to describe the making process and the finished product"
             },
             "coreElements": [
-              "S2 Muotoilu",
-              "S1 Innovointi",
-              "S3 Suunnittelu"
+              "S2",
+              "S1",
+              "S3"
             ],
             "verbs": []
           },
@@ -243,11 +344,11 @@
               "en": "T3 guide the pupil to design and produce craft products or works, trusting in their own aesthetic and technical solutions"
             },
             "coreElements": [
-              "S2 Muotoilu",
-              "S1 Innovointi",
-              "S4 Dokumentointi ja arviointi",
-              "S3 Suunnittelu",
-              "S5 Tekeminen"
+              "S2",
+              "S1",
+              "S4",
+              "S3",
+              "S5"
             ],
             "verbs": []
           },
@@ -258,9 +359,9 @@
               "en": "T4 instruct the pupil to explore many different materials and how to work with them, and to guide them to act responsibly and safely"
             },
             "coreElements": [
-              "S2 Muotoilu",
-              "S4 Dokumentointi ja arviointi",
-              "S3 Suunnittelu"
+              "S2",
+              "S4",
+              "S3"
             ],
             "verbs": []
           },
@@ -271,12 +372,12 @@
               "en": "T5 support the development of the pupil's self-esteem through experiences of success, discovery, and invention in crafts"
             },
             "coreElements": [
-              "S2 Muotoilu",
-              "S1 Innovointi",
-              "S4 Dokumentointi ja arviointi",
-              "S3 Suunnittelu",
-              "S6 Työturvallisuus",
-              "S5 Tekeminen"
+              "S2",
+              "S1",
+              "S4",
+              "S3",
+              "S6",
+              "S5"
             ],
             "verbs": []
           }
@@ -296,12 +397,12 @@
               "en": "T1 strengthen the pupil's interest in making things by hand and inspire inventive, experimental crafts that utilise local resources"
             },
             "coreElements": [
-              "S2 Muotoilu",
-              "S1 Innovointi",
-              "S3 Suunnittelu",
-              "S4 Dokumentointi ja arviointi",
-              "S6 Työturvallisuus",
-              "S5 Tekeminen"
+              "S2",
+              "S1",
+              "S3",
+              "S4",
+              "S6",
+              "S5"
             ],
             "verbs": []
           },
@@ -312,12 +413,12 @@
               "en": "T2 guide the pupil to perceive and manage the complete craft process and its documentation"
             },
             "coreElements": [
-              "S2 Muotoilu",
-              "S1 Innovointi",
-              "S3 Suunnittelu",
-              "S4 Dokumentointi ja arviointi",
-              "S6 Työturvallisuus",
-              "S5 Tekeminen"
+              "S2",
+              "S1",
+              "S3",
+              "S4",
+              "S6",
+              "S5"
             ],
             "verbs": []
           },
@@ -328,10 +429,10 @@
               "en": "T3 instruct the pupil to design and produce a craft product or work independently or collaboratively, trusting in their own aesthetic and technical solutions"
             },
             "coreElements": [
-              "S2 Muotoilu",
-              "S1 Innovointi",
-              "S3 Suunnittelu",
-              "S4 Dokumentointi ja arviointi"
+              "S2",
+              "S1",
+              "S3",
+              "S4"
             ],
             "verbs": []
           },
@@ -342,8 +443,8 @@
               "en": "T4 guide the pupil to recognise terminology and to become familiar with many different materials and to work with them appropriately"
             },
             "coreElements": [
-              "S3 Suunnittelu",
-              "S5 Tekeminen"
+              "S3",
+              "S5"
             ],
             "verbs": []
           },
@@ -354,11 +455,11 @@
               "en": "T5 encourage the pupil to work persistently and responsibly, to ensure safe working practices, and to select and use tools appropriate for the task"
             },
             "coreElements": [
-              "S2 Muotoilu",
-              "S1 Innovointi",
-              "S3 Suunnittelu",
-              "S4 Dokumentointi ja arviointi",
-              "S5 Tekeminen"
+              "S2",
+              "S1",
+              "S3",
+              "S4",
+              "S5"
             ],
             "verbs": []
           },
@@ -369,9 +470,9 @@
               "en": "T6 instruct the pupil to use information and communication technology in craft design, production, and documentation of the craft process"
             },
             "coreElements": [
-              "S2 Muotoilu",
-              "S1 Innovointi",
-              "S6 Työturvallisuus"
+              "S2",
+              "S1",
+              "S6"
             ],
             "verbs": []
           },
@@ -382,7 +483,7 @@
               "en": "T7 guide the pupil to assess, appreciate, and examine their own and others' complete craft processes through interaction"
             },
             "coreElements": [
-              "S6 Työturvallisuus"
+              "S6"
             ],
             "verbs": []
           },
@@ -393,10 +494,10 @@
               "en": "T8 prompt the pupil to critically evaluate consumption and production practices"
             },
             "coreElements": [
-              "S2 Muotoilu",
-              "S1 Innovointi",
-              "S3 Suunnittelu",
-              "S5 Tekeminen"
+              "S2",
+              "S1",
+              "S3",
+              "S5"
             ],
             "verbs": []
           }
@@ -416,11 +517,11 @@
               "en": "T1 guide the pupil to plan their work and to ideate, investigate, and experiment with an entrepreneurial attitude"
             },
             "coreElements": [
-              "S1 Innovointi",
-              "S2 Muotoilu",
-              "S4 Dokumentointi ja arviointi",
-              "S3 Suunnittelu",
-              "S5 Tekeminen"
+              "S1",
+              "S2",
+              "S4",
+              "S3",
+              "S5"
             ],
             "verbs": []
           },
@@ -431,11 +532,11 @@
               "en": "T2 guide the pupil to set their own learning and working goals for crafts, to carry out a complete craft process based on these goals, and to assess their learning"
             },
             "coreElements": [
-              "S1 Innovointi",
-              "S2 Muotoilu",
-              "S4 Dokumentointi ja arviointi",
-              "S3 Suunnittelu",
-              "S5 Tekeminen"
+              "S1",
+              "S2",
+              "S4",
+              "S3",
+              "S5"
             ],
             "verbs": []
           },
@@ -446,11 +547,11 @@
               "en": "T3 instruct the pupil to become familiar with and use a wide range of tools, materials, and appropriate working methods, and to develop innovations"
             },
             "coreElements": [
-              "S1 Innovointi",
-              "S2 Muotoilu",
-              "S4 Dokumentointi ja arviointi",
-              "S3 Suunnittelu",
-              "S5 Tekeminen"
+              "S1",
+              "S2",
+              "S4",
+              "S3",
+              "S5"
             ],
             "verbs": []
           },
@@ -461,11 +562,11 @@
               "en": "T4 guide the pupil to fluently use craft concepts, signs, and symbols, and to strengthen their visual, material, and technological expression"
             },
             "coreElements": [
-              "S1 Innovointi",
-              "S2 Muotoilu",
-              "S4 Dokumentointi ja arviointi",
-              "S3 Suunnittelu",
-              "S5 Tekeminen"
+              "S1",
+              "S2",
+              "S4",
+              "S3",
+              "S5"
             ],
             "verbs": []
           },
@@ -476,7 +577,7 @@
               "en": "T5 guide the pupil to observe, anticipate, and respond to risk factors related to work situations and to act safely in the craft process"
             },
             "coreElements": [
-              "S6 Työturvallisuus"
+              "S6"
             ],
             "verbs": []
           },
@@ -487,11 +588,11 @@
               "en": "T6 guide the pupil to use the possibilities of information and communication technology in craft design, production, and documentation, as well as in collaborative knowledge creation and sharing"
             },
             "coreElements": [
-              "S1 Innovointi",
-              "S2 Muotoilu",
-              "S4 Dokumentointi ja arviointi",
-              "S3 Suunnittelu",
-              "S5 Tekeminen"
+              "S1",
+              "S2",
+              "S4",
+              "S3",
+              "S5"
             ],
             "verbs": []
           },
@@ -502,7 +603,7 @@
               "en": "T7 guide the pupil to understand the significance of crafts, manual skills, and technological development in their own life, in society, in entrepreneurship, and in other areas of working life"
             },
             "coreElements": [
-              "S7 Yrittäjämäinen oppiminen"
+              "S7"
             ],
             "verbs": []
           },
@@ -513,7 +614,7 @@
               "en": "T8 guide pupils towards economic thinking and to develop choices related to the craft process that promote a sustainable way of life"
             },
             "coreElements": [
-              "S8 Tiedostaminen ja osallistuminen"
+              "S8"
             ],
             "verbs": []
           }

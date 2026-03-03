@@ -4,13 +4,22 @@
     "api": "https://eperusteet.opintopolku.fi/eperusteet-service/api/external/peruste/419550/perusopetus/oppiaineet/466343",
     "curriculum": "POPS 2014",
     "license": "Open Government Data (Finland)",
-    "lastSynced": "2026-03-02T21:29:45Z"
+    "lastSynced": "2026-03-03T08:58:58Z",
+    "aiEnriched": [
+      "description.en",
+      "interdisciplinaryThemes",
+      "basicSkills"
+    ]
   },
   "subject": {
     "code": "MU",
     "name": {
       "local": "Musiikki",
       "en": "Music"
+    },
+    "description": {
+      "local": "Musiikin opetuksen tehtävänä on luoda edellytykset monipuoliseen musiikilliseen toimintaan ja aktiiviseen kulttuuriseen osallisuuteen. Opetus ohjaa oppilaita tulkitsemaan musiikin monia merkityksiä eri kulttuureissa sekä yksilöiden ja yhteisöjen toiminnoissa. Oppilaiden musiikillinen osaaminen laajenee, mikä vahvistaa myönteistä suhdetta musiikkiin ja luo pohjaa musiikin elinikäiselle harrastamiselle. Musiikin opetus rakentaa arvostavaa ja uteliasta suhtautumista musiikkiin ja kulttuuriseen monimuotoisuuteen.\n\nToiminnallinen musiikin opetus ja opiskelu edistävät oppilaiden musiikillisten taitojen ja ymmärryksen kehittymistä, kokonaisvaltaista kasvua ja kykyä toimia yhteistyössä muiden kanssa. Näitä vahvistetaan ottamalla musiikin opetuksessa huomioon oppilaiden musiikilliset kiinnostuksen kohteet, muut oppiaineet, eheyttävät teemat, koulun juhlat ja tapahtumat sekä koulun ulkopuolella tapahtuva toiminta. Oppilaiden ajattelua ja oivalluskykyä kehitetään tarjoamalla säännöllisesti mahdollisuuksia äänen ja musiikin parissa toimimiseen, säveltämiseen sekä muuhun luovaan tuottamiseen. Musiikin opetuksessa oppilaat opiskelevat musiikkia monipuolisesti, mikä edesauttaa heidän ilmaisutaitojensa kehittymistä.",
+      "en": "The task of music education is to create the prerequisites for diverse musical activity and active cultural participation. Teaching guides pupils to interpret the many meanings of music in different cultures and in the activities of individuals and communities. Pupils' musical competence expands, which strengthens a positive relationship with music and creates a foundation for lifelong engagement with music. Music education builds an appreciative and curious attitude towards music and cultural diversity.\n\nAction-based music teaching and learning promote the development of pupils' musical skills and understanding, holistic growth, and the ability to work collaboratively with others. These are strengthened by taking into account in music education the pupils' musical interests, other subjects, integrative themes, school celebrations and events, and activities taking place outside the school. Pupils' thinking and capacity for insight are developed by regularly providing opportunities for working with sound and music, composing, and other creative production. In music education, pupils study music in a versatile manner, which contributes to the development of their expressive skills."
     },
     "coreElements": [
       {
@@ -69,6 +78,98 @@
         }
       }
     ],
+    "interdisciplinaryThemes": [
+      {
+        "code": "TT1",
+        "name": {
+          "local": "Terveys ja elämänhallinta",
+          "en": "Health and life skills"
+        },
+        "description": {
+          "local": "Musiikin opetuksessa terveys ja elämänhallinta -teema ilmenee musiikin hyvinvointivaikutusten tunnistamisena ja tunteiden ilmaisun kehittämisenä musiikillisen toiminnan kautta. Yhteismusisointi rakentaa yhteisöllisyyttä, vahvistaa myönteistä minäkuvaa ja tukee oppilaiden psyykkistä hyvinvointia. Musiikki tarjoaa välineitä tunteiden käsittelyyn ja itseilmaisuun, mikä edistää kokonaisvaltaista elämänhallintaa.",
+          "en": "In music education, the theme of health and life skills manifests through recognising the wellbeing effects of music and developing emotional expression through musical activity. Collective music-making builds a sense of community, strengthens a positive self-image, and supports pupils' psychological wellbeing. Music provides tools for processing emotions and self-expression, which promotes holistic life management."
+        }
+      },
+      {
+        "code": "TT2",
+        "name": {
+          "local": "Demokratia ja kansalaisuus",
+          "en": "Democracy and citizenship"
+        },
+        "description": {
+          "local": "Musiikin opetuksessa demokratia ja kansalaisuus -teema näkyy yhteismusisointiin osallistumisena ja rakentavana toimintana musiikillisissa yhteisöissä. Oppilaat oppivat kunnioittamaan kulttuurista monimuotoisuutta tutustumalla eri kulttuurien ja aikakausien musiikkiin. Musiikki toimii viestinnän ja vaikuttamisen välineenä, ja oppilaat pohtivat musiikin käyttöä yhteiskunnallisissa ja kulttuurisissa konteksteissa.",
+          "en": "In music education, the theme of democracy and citizenship manifests through participation in collective music-making and constructive action in musical communities. Pupils learn to respect cultural diversity by exploring music from different cultures and eras. Music serves as a tool for communication and influence, and pupils reflect on the use of music in social and cultural contexts."
+        }
+      },
+      {
+        "code": "TT3",
+        "name": {
+          "local": "Kestävä kehitys",
+          "en": "Sustainability"
+        },
+        "description": {
+          "local": "Musiikin opetuksessa kestävä kehitys -teema ilmenee kulttuuriperinnön vaalimisena ja musiikillisen monimuotoisuuden arvostamisena. Oppilaat tutustuvat eri kulttuurien musiikkitraditioihin ja pohtivat kulttuurisen kestävyyden merkitystä. Musiikki-instrumenttien ja ääniympäristön vastuullinen käyttö sekä kuulonsuojelu tukevat kestävän elämäntavan periaatteita.",
+          "en": "In music education, the theme of sustainability manifests through the preservation of cultural heritage and the appreciation of musical diversity. Pupils explore music traditions from different cultures and reflect on the significance of cultural sustainability. The responsible use of musical instruments and the sound environment, as well as hearing protection, support the principles of a sustainable way of life."
+        }
+      }
+    ],
+    "basicSkills": [
+      {
+        "code": "GF1",
+        "name": {
+          "local": "Suulliset taidot",
+          "en": "Oral skills"
+        },
+        "description": {
+          "local": "Musiikin opetuksessa suulliset taidot kehittyvät laulamisen, äänenkäytön ja suullisen ilmaisun kautta. Oppilaat harjoittelevat luontevaa äänenkäyttöä ja laulamista ryhmän jäsenenä sekä oppivat keskustelemaan musiikista käyttäen musiikkikäsitteitä ja terminologiaa. Suullinen ilmaisu on keskeistä myös omien musiikillisten kokemusten ja havaintojen jakamisessa.",
+          "en": "In music education, oral skills develop through singing, voice use, and verbal expression. Pupils practise natural voice use and singing as group members, and learn to discuss music using musical concepts and terminology. Oral expression is also central to sharing personal musical experiences and observations."
+        }
+      },
+      {
+        "code": "GF2",
+        "name": {
+          "local": "Kirjoittaminen",
+          "en": "Writing"
+        },
+        "description": {
+          "local": "Musiikin opetuksessa kirjoittaminen ilmenee musiikin merkintätapojen oppimisena sekä säveltämisen ja sovittamisen dokumentointina. Oppilaat harjoittelevat nuottikirjoituksen perusteita ja käyttävät erilaisia merkintätapoja musiikillisten ideoidensa tallentamiseen. Kirjoittaminen tukee myös musiikillisten kokemusten reflektointia ja luovien prosessien dokumentointia.",
+          "en": "In music education, writing manifests through learning music notation and documenting composing and arranging. Pupils practise the basics of musical notation and use various notation methods to record their musical ideas. Writing also supports the reflection on musical experiences and the documentation of creative processes."
+        }
+      },
+      {
+        "code": "GF3",
+        "name": {
+          "local": "Lukeminen",
+          "en": "Reading"
+        },
+        "description": {
+          "local": "Musiikin opetuksessa lukutaito kehittyy musiikin merkintätapojen ja nuottien lukemisen kautta. Oppilaat oppivat tulkitsemaan erilaisia musiikillisia symboleja, merkkejä ja nuottikirjoitusta musisointitilanteissa. Lukutaito laajenee myös musiikkiin liittyvien tekstien, kuten laulun sanojen ja musiikkiarvioiden, ymmärtämiseen.",
+          "en": "In music education, reading skills develop through reading music notation and musical symbols. Pupils learn to interpret various musical symbols, signs, and notation in music-making situations. Reading also extends to understanding music-related texts, such as song lyrics and music reviews."
+        }
+      },
+      {
+        "code": "GF4",
+        "name": {
+          "local": "Laskutaito",
+          "en": "Numeracy"
+        },
+        "description": {
+          "local": "Musiikin opetuksessa laskutaito ilmenee musiikin peruselementtien, kuten rytmin, tahdin ja tempon, matemaattisten rakenteiden ymmärtämisenä. Oppilaat hahmottavat musiikin ajallisia ja rakenteellisia suhteita, kuten tahtilajien jakamista ja nuottien kestoja. Numeerinen osaaminen tukee musiikillisten kaavojen ja muotorakenteiden tunnistamista.",
+          "en": "In music education, numeracy manifests in understanding the mathematical structures of music's basic elements, such as rhythm, time signature, and tempo. Pupils perceive the temporal and structural relationships in music, such as dividing time signatures and note durations. Numerical competence supports the recognition of musical patterns and formal structures."
+        }
+      },
+      {
+        "code": "GF5",
+        "name": {
+          "local": "Digitaaliset taidot",
+          "en": "Digital skills"
+        },
+        "description": {
+          "local": "Musiikin opetuksessa digitaaliset taidot kehittyvät tieto- ja viestintäteknologian luovassa käytössä musiikintekemisessä, tallentamisessa ja säveltämisessä. Oppilaat oppivat käyttämään musiikkiteknologiaa ilmaisullisesti ja hyödyntämään digitaalisia välineitä musiikillisten tuotosten luomisessa ja dokumentoinnissa. Digitaalinen osaaminen on osa monipuolista musiikillista työskentelyä ja monialaisia oppimiskokonaisuuksia.",
+          "en": "In music education, digital skills develop through the creative use of information and communication technology in music-making, recording, and composing. Pupils learn to use music technology expressively and to utilise digital tools for creating and documenting musical productions. Digital competence is part of versatile musical work and multidisciplinary learning modules."
+        }
+      }
+    ],
     "gradeBands": [
       {
         "afterGrade": 2,
@@ -84,10 +185,10 @@
               "en": "T1 guide the pupil to function as a member of a musical group while building the pupil's positive self-image"
             },
             "coreElements": [
-              "S1 Miten musiikissa toimitaan",
-              "S2 Mistä musiikki muodostuu",
-              "S3 Musiikki omassa elämässä, yhteisössä ja yhteiskunnassa",
-              "S4 Ohjelmisto"
+              "S1",
+              "S2",
+              "S3",
+              "S4"
             ],
             "verbs": []
           },
@@ -98,10 +199,10 @@
               "en": "T2 guide the pupil towards natural voice use and towards singing and playing as a group member"
             },
             "coreElements": [
-              "S1 Miten musiikissa toimitaan",
-              "S2 Mistä musiikki muodostuu",
-              "S3 Musiikki omassa elämässä, yhteisössä ja yhteiskunnassa",
-              "S4 Ohjelmisto"
+              "S1",
+              "S2",
+              "S3",
+              "S4"
             ],
             "verbs": []
           },
@@ -112,10 +213,10 @@
               "en": "T3 encourage the pupil to experience and perceive the sound environment, sound, music and musical concepts through movement and listening"
             },
             "coreElements": [
-              "S1 Miten musiikissa toimitaan",
-              "S2 Mistä musiikki muodostuu",
-              "S3 Musiikki omassa elämässä, yhteisössä ja yhteiskunnassa",
-              "S4 Ohjelmisto"
+              "S1",
+              "S2",
+              "S3",
+              "S4"
             ],
             "verbs": []
           },
@@ -126,10 +227,10 @@
               "en": "T4 give space for pupils' own musical ideas and improvisation, and guide them to plan and create small-scale compositions or other works using vocal, movement-based, visual, technological or other means of expression"
             },
             "coreElements": [
-              "S1 Miten musiikissa toimitaan",
-              "S2 Mistä musiikki muodostuu",
-              "S3 Musiikki omassa elämässä, yhteisössä ja yhteiskunnassa",
-              "S4 Ohjelmisto"
+              "S1",
+              "S2",
+              "S3",
+              "S4"
             ],
             "verbs": []
           },
@@ -140,10 +241,10 @@
               "en": "T5 inspire the pupil to explore their musical cultural heritage through games, singing and movement, and to enjoy the aesthetic, cultural and historical diversity of music"
             },
             "coreElements": [
-              "S1 Miten musiikissa toimitaan",
-              "S2 Mistä musiikki muodostuu",
-              "S3 Musiikki omassa elämässä, yhteisössä ja yhteiskunnassa",
-              "S4 Ohjelmisto"
+              "S1",
+              "S2",
+              "S3",
+              "S4"
             ],
             "verbs": []
           },
@@ -154,10 +255,10 @@
               "en": "T6 help the pupil understand the basic principles of music notation in connection with music-making"
             },
             "coreElements": [
-              "S1 Miten musiikissa toimitaan",
-              "S2 Mistä musiikki muodostuu",
-              "S3 Musiikki omassa elämässä, yhteisössä ja yhteiskunnassa",
-              "S4 Ohjelmisto"
+              "S1",
+              "S2",
+              "S3",
+              "S4"
             ],
             "verbs": []
           },
@@ -168,10 +269,10 @@
               "en": "T7 guide the pupil to act responsibly in music-making"
             },
             "coreElements": [
-              "S1 Miten musiikissa toimitaan",
-              "S2 Mistä musiikki muodostuu",
-              "S3 Musiikki omassa elämässä, yhteisössä ja yhteiskunnassa",
-              "S4 Ohjelmisto"
+              "S1",
+              "S2",
+              "S3",
+              "S4"
             ],
             "verbs": []
           },
@@ -182,10 +283,10 @@
               "en": "T8 provide the pupils with experiences of the importance of setting goals and practising together in learning music"
             },
             "coreElements": [
-              "S1 Miten musiikissa toimitaan",
-              "S2 Mistä musiikki muodostuu",
-              "S3 Musiikki omassa elämässä, yhteisössä ja yhteiskunnassa",
-              "S4 Ohjelmisto"
+              "S1",
+              "S2",
+              "S3",
+              "S4"
             ],
             "verbs": []
           }
@@ -205,10 +306,10 @@
               "en": "T1 encourage the pupil to participate in collective music-making and to build a positive team spirit in their community"
             },
             "coreElements": [
-              "S1 Miten musiikissa toimitaan",
-              "S3 Musiikki omassa elämässä, yhteisössä ja yhteiskunnassa",
-              "S2 Mistä musiikki muodostuu",
-              "S4 Ohjelmisto"
+              "S1",
+              "S3",
+              "S2",
+              "S4"
             ],
             "verbs": []
           },
@@ -219,10 +320,10 @@
               "en": "T2 guide the pupil towards natural voice use and singing, and to develop their skills in playing body percussion, rhythm, melody and chord instruments as a member of a music-making group"
             },
             "coreElements": [
-              "S1 Miten musiikissa toimitaan",
-              "S3 Musiikki omassa elämässä, yhteisössä ja yhteiskunnassa",
-              "S2 Mistä musiikki muodostuu",
-              "S4 Ohjelmisto"
+              "S1",
+              "S3",
+              "S2",
+              "S4"
             ],
             "verbs": []
           },
@@ -233,10 +334,10 @@
               "en": "T3 encourage the pupil to express music, images, stories and emotional states bodily through holistic movement"
             },
             "coreElements": [
-              "S1 Miten musiikissa toimitaan",
-              "S3 Musiikki omassa elämässä, yhteisössä ja yhteiskunnassa",
-              "S2 Mistä musiikki muodostuu",
-              "S4 Ohjelmisto"
+              "S1",
+              "S3",
+              "S2",
+              "S4"
             ],
             "verbs": []
           },
@@ -247,10 +348,10 @@
               "en": "T4 provide the pupil with opportunities for experiential listening to the sound environment and music, and guide them to structure what they hear and to describe it"
             },
             "coreElements": [
-              "S1 Miten musiikissa toimitaan",
-              "S3 Musiikki omassa elämässä, yhteisössä ja yhteiskunnassa",
-              "S2 Mistä musiikki muodostuu",
-              "S4 Ohjelmisto"
+              "S1",
+              "S3",
+              "S2",
+              "S4"
             ],
             "verbs": []
           },
@@ -261,10 +362,10 @@
               "en": "T5 encourage the pupil to improvise and to plan and create small-scale compositions or multi-arts works using various means, including information and communication technology"
             },
             "coreElements": [
-              "S1 Miten musiikissa toimitaan",
-              "S3 Musiikki omassa elämässä, yhteisössä ja yhteiskunnassa",
-              "S2 Mistä musiikki muodostuu",
-              "S4 Ohjelmisto"
+              "S1",
+              "S3",
+              "S2",
+              "S4"
             ],
             "verbs": []
           },
@@ -275,10 +376,10 @@
               "en": "T6 guide the pupil to examine their musical experiences and the aesthetic, cultural and historical diversity of the musical world"
             },
             "coreElements": [
-              "S1 Miten musiikissa toimitaan",
-              "S3 Musiikki omassa elämässä, yhteisössä ja yhteiskunnassa",
-              "S2 Mistä musiikki muodostuu",
-              "S4 Ohjelmisto"
+              "S1",
+              "S3",
+              "S2",
+              "S4"
             ],
             "verbs": []
           },
@@ -289,10 +390,10 @@
               "en": "T7 guide the pupil to understand musical concepts and the principles of music notation in connection with music-making"
             },
             "coreElements": [
-              "S1 Miten musiikissa toimitaan",
-              "S3 Musiikki omassa elämässä, yhteisössä ja yhteiskunnassa",
-              "S2 Mistä musiikki muodostuu",
-              "S4 Ohjelmisto"
+              "S1",
+              "S3",
+              "S2",
+              "S4"
             ],
             "verbs": []
           },
@@ -303,9 +404,9 @@
               "en": "T8 guide the pupil to recognise the effects of music on well-being and to take care of the safety of the music-making and sound environment"
             },
             "coreElements": [
-              "S1 Miten musiikissa toimitaan",
-              "S3 Musiikki omassa elämässä, yhteisössä ja yhteiskunnassa",
-              "S2 Mistä musiikki muodostuu"
+              "S1",
+              "S3",
+              "S2"
             ],
             "verbs": []
           },
@@ -316,10 +417,10 @@
               "en": "T9 guide the pupil to develop their musical skills through practice, to participate in setting goals and to evaluate their progress in relation to their goals"
             },
             "coreElements": [
-              "S1 Miten musiikissa toimitaan",
-              "S3 Musiikki omassa elämässä, yhteisössä ja yhteiskunnassa",
-              "S2 Mistä musiikki muodostuu",
-              "S4 Ohjelmisto"
+              "S1",
+              "S3",
+              "S2",
+              "S4"
             ],
             "verbs": []
           }
@@ -339,10 +440,10 @@
               "en": "T1 encourage the pupil towards constructive participation as a member of a music-making group and musical communities"
             },
             "coreElements": [
-              "S1 Miten musiikissa toimitaan",
-              "S4 Ohjelmisto",
-              "S3 Musiikki omassa elämässä, yhteisössä ja yhteiskunnassa",
-              "S2 Mistä musiikki muodostuu"
+              "S1",
+              "S4",
+              "S3",
+              "S2"
             ],
             "verbs": []
           },
@@ -353,10 +454,10 @@
               "en": "T2 guide the pupil to maintain their voice use and singing skills and to further develop them as members of a music-making group"
             },
             "coreElements": [
-              "S1 Miten musiikissa toimitaan",
-              "S4 Ohjelmisto",
-              "S3 Musiikki omassa elämässä, yhteisössä ja yhteiskunnassa",
-              "S2 Mistä musiikki muodostuu"
+              "S1",
+              "S4",
+              "S3",
+              "S2"
             ],
             "verbs": []
           },
@@ -367,10 +468,10 @@
               "en": "T3 encourage the pupil to further develop their playing and ensemble skills using body percussion, rhythm, melody and chord instruments"
             },
             "coreElements": [
-              "S1 Miten musiikissa toimitaan",
-              "S4 Ohjelmisto",
-              "S3 Musiikki omassa elämässä, yhteisössä ja yhteiskunnassa",
-              "S2 Mistä musiikki muodostuu"
+              "S1",
+              "S4",
+              "S3",
+              "S2"
             ],
             "verbs": []
           },
@@ -381,10 +482,10 @@
               "en": "T4 encourage the pupil towards versatile music and movement experiences and expression"
             },
             "coreElements": [
-              "S1 Miten musiikissa toimitaan",
-              "S4 Ohjelmisto",
-              "S3 Musiikki omassa elämässä, yhteisössä ja yhteiskunnassa",
-              "S2 Mistä musiikki muodostuu"
+              "S1",
+              "S4",
+              "S3",
+              "S2"
             ],
             "verbs": []
           },
@@ -395,10 +496,10 @@
               "en": "T5 provide the pupil with opportunities for experiential listening to and observing the sound environment and music, and guide them to discuss their observations"
             },
             "coreElements": [
-              "S1 Miten musiikissa toimitaan",
-              "S4 Ohjelmisto",
-              "S3 Musiikki omassa elämässä, yhteisössä ja yhteiskunnassa",
-              "S2 Mistä musiikki muodostuu"
+              "S1",
+              "S4",
+              "S3",
+              "S2"
             ],
             "verbs": []
           },
@@ -409,10 +510,10 @@
               "en": "T6 encourage the pupil to build a creative relationship with music and guide them in improvisation, arranging and composing, as well as interdisciplinary arts work"
             },
             "coreElements": [
-              "S1 Miten musiikissa toimitaan",
-              "S4 Ohjelmisto",
-              "S3 Musiikki omassa elämässä, yhteisössä ja yhteiskunnassa",
-              "S2 Mistä musiikki muodostuu"
+              "S1",
+              "S4",
+              "S3",
+              "S2"
             ],
             "verbs": []
           },
@@ -423,10 +524,10 @@
               "en": "T7 guide the pupil in recording music and in the creative and expressive use of information and communication technology both in making music and as part of multidisciplinary modules"
             },
             "coreElements": [
-              "S1 Miten musiikissa toimitaan",
-              "S4 Ohjelmisto",
-              "S3 Musiikki omassa elämässä, yhteisössä ja yhteiskunnassa",
-              "S2 Mistä musiikki muodostuu"
+              "S1",
+              "S4",
+              "S3",
+              "S2"
             ],
             "verbs": []
           },
@@ -437,10 +538,10 @@
               "en": "T8 guide the pupil to examine music as an art form and to understand how music is used for communication and influence in different cultures"
             },
             "coreElements": [
-              "S1 Miten musiikissa toimitaan",
-              "S4 Ohjelmisto",
-              "S3 Musiikki omassa elämässä, yhteisössä ja yhteiskunnassa",
-              "S2 Mistä musiikki muodostuu"
+              "S1",
+              "S4",
+              "S3",
+              "S2"
             ],
             "verbs": []
           },
@@ -451,10 +552,10 @@
               "en": "T9 encourage and guide the pupil to discuss music using musical concepts and terminology"
             },
             "coreElements": [
-              "S1 Miten musiikissa toimitaan",
-              "S4 Ohjelmisto",
-              "S3 Musiikki omassa elämässä, yhteisössä ja yhteiskunnassa",
-              "S2 Mistä musiikki muodostuu"
+              "S1",
+              "S4",
+              "S3",
+              "S2"
             ],
             "verbs": []
           },
@@ -465,10 +566,10 @@
               "en": "T10 guide the pupil to recognise the effects of music on emotions and well-being"
             },
             "coreElements": [
-              "S1 Miten musiikissa toimitaan",
-              "S4 Ohjelmisto",
-              "S3 Musiikki omassa elämässä, yhteisössä ja yhteiskunnassa",
-              "S2 Mistä musiikki muodostuu"
+              "S1",
+              "S4",
+              "S3",
+              "S2"
             ],
             "verbs": []
           },
@@ -479,10 +580,10 @@
               "en": "T11 guide the pupil to take care of their hearing and the safety of the music-making and sound environment"
             },
             "coreElements": [
-              "S1 Miten musiikissa toimitaan",
-              "S4 Ohjelmisto",
-              "S3 Musiikki omassa elämässä, yhteisössä ja yhteiskunnassa",
-              "S2 Mistä musiikki muodostuu"
+              "S1",
+              "S4",
+              "S3",
+              "S2"
             ],
             "verbs": []
           },
@@ -493,10 +594,10 @@
               "en": "T12 guide the pupil to develop their musical skills through practice, to set goals for their musical learning and to evaluate their progress in relation to their goals"
             },
             "coreElements": [
-              "S1 Miten musiikissa toimitaan",
-              "S4 Ohjelmisto",
-              "S3 Musiikki omassa elämässä, yhteisössä ja yhteiskunnassa",
-              "S2 Mistä musiikki muodostuu"
+              "S1",
+              "S4",
+              "S3",
+              "S2"
             ],
             "verbs": []
           }

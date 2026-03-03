@@ -4,13 +4,18 @@
     "api": "https://api.skolverket.se/syllabus/v1/subjects/GRGRSLJ01",
     "curriculum": "Lgr22",
     "license": "CC0",
-    "lastSynced": "2026-03-02T21:29:35Z"
+    "lastSynced": "2026-03-03T08:58:57Z",
+    "aiEnriched": ["description.en", "interdisciplinaryThemes", "basicSkills"]
   },
   "subject": {
     "code": "GRGRSLJ01",
     "name": {
       "local": "Slöjd",
       "en": "Crafts"
+    },
+    "description": {
+      "local": "Undervisningen i ämnet slöjd ska syfta till att eleverna utvecklar förmågan att formge och framställa föremål genom att arbeta med olika material och hantverkstekniker. Eleverna ska i arbetet ges möjligheter att utveckla sin skicklighet i en process där tanke, sinnesupplevelse och handling samverkar. Genom undervisningen ska eleverna även ges förutsättningar att arbeta med färg, form och funktion för att skapa olika estetiska och kulturella uttryck. Undervisningen ska ge eleverna förutsättningar att utveckla idéer samt överväga olika lösningar och tillvägagångssätt i slöjdarbetet. På så sätt ska undervisningen väcka elevernas nyfikenhet och lust att undersöka och experimentera med olika material, hantverkstekniker och uttryck, samt att ta sig an uppgifter på ett kreativt sätt. I undervisningen ska eleverna även få möta såväl äldre tiders hantverksföremål och slöjdtraditioner som nutida design för att inspireras i det egna skapandet. Vidare ska undervisningen bidra till att eleverna utvecklar förmågan att använda slöjdspecifika begrepp som beskriver arbetsprocesser, material, verktyg och hantverkstekniker. I undervisningen ska eleverna ges möjligheter att reflektera över arbetsprocesser och resultat för att fördjupa sitt lärande. Genom reflektion både i arbetet och när det är slutfört kan eleverna utveckla medvetenhet om vad som kännetecknar kvalitet i utförande och resultat. Eleverna ska också ges förutsättningar att utveckla förmågan att välja och hantera material för att främja hållbar utveckling. Därigenom kan undervisningen bidra till att eleverna utvecklar ett miljömedvetet förhållningssätt. Eleverna ska även ges möjligheter att utveckla kunskaper om arbetsmiljö- och säkerhetsfrågor i samband med slöjdarbete. Undervisningen i ämnet slöjd ska ge eleverna förutsättningar att utveckla",
+      "en": "Teaching in the subject of crafts shall aim to develop pupils' ability to design and produce objects by working with different materials and craft techniques. In this work, pupils shall be given opportunities to develop their skills in a process where thought, sensory experience and action interact. Through teaching, pupils shall also be given the conditions to work with colour, form and function to create different aesthetic and cultural expressions. Teaching shall give pupils the conditions to develop ideas and consider different solutions and approaches in craft work. In this way, teaching shall awaken pupils' curiosity and desire to explore and experiment with different materials, craft techniques and expressions, and to take on tasks in a creative way. In teaching, pupils shall also encounter both historical craft objects and craft traditions as well as contemporary design to inspire their own creative work. Furthermore, teaching shall contribute to pupils developing the ability to use craft-specific terminology that describes work processes, materials, tools and craft techniques. In teaching, pupils shall be given opportunities to reflect on work processes and results to deepen their learning. Through reflection both during and after the completion of work, pupils can develop awareness of what characterises quality in execution and results. Pupils shall also be given the conditions to develop the ability to choose and handle materials to promote sustainable development. In this way, teaching can contribute to pupils developing an environmentally conscious approach. Pupils shall also be given opportunities to develop knowledge of work environment and safety issues in connection with craft work."
     },
     "coreElements": [
       {
@@ -44,6 +49,98 @@
         "description": {
           "local": "förmåga att reflektera över arbetsprocesser och resultat utifrån kvalitet, uttryck och hållbar utveckling.",
           "en": "the ability to reflect on work processes and results in terms of quality, expression and sustainable development."
+        }
+      }
+    ],
+    "interdisciplinaryThemes": [
+      {
+        "code": "TT1",
+        "name": {
+          "local": "Hälsa och livskompetens",
+          "en": "Health and life skills"
+        },
+        "description": {
+          "local": "I slöjd bidrar det tvärvetenskapliga temat hälsa och livskompetens till att eleverna utvecklar praktiska färdigheter, kreativitet och uthållighet genom skapande processer. Att arbeta med händerna stärker elevernas självbild och ger dem verktyg att uttrycka idéer och känslor genom material och form. Slöjdarbetet främjar problemlösningsförmåga och tålamod, vilket stödjer elevernas psykiska välbefinnande och känsla av meningsfullhet i vardagen.",
+          "en": "In crafts, the interdisciplinary theme of health and life skills contributes to pupils developing practical abilities, creativity and perseverance through creative processes. Working with their hands strengthens pupils' self-image and provides them with tools to express ideas and emotions through materials and form. Craft work promotes problem-solving skills and patience, which supports pupils' mental wellbeing and sense of meaningfulness in everyday life."
+        }
+      },
+      {
+        "code": "TT2",
+        "name": {
+          "local": "Demokrati och medborgarskap",
+          "en": "Democracy and citizenship"
+        },
+        "description": {
+          "local": "I slöjd bidrar det tvärvetenskapliga temat demokrati och medborgarskap till att eleverna möter hantverkstraditioner från olika kulturer och tidsperioder, vilket utvecklar förståelse för kulturell mångfald. Genom att reflektera över estetiska och etiska val i det egna skapandet utvecklar eleverna förmågan att uttrycka sig och ta ställning. Slöjdarbetets kollaborativa processer stärker elevernas förmåga att samarbeta, lyssna på andras perspektiv och delta aktivt i gemensamma projekt.",
+          "en": "In crafts, the interdisciplinary theme of democracy and citizenship enables pupils to encounter craft traditions from different cultures and time periods, developing understanding of cultural diversity. By reflecting on aesthetic and ethical choices in their own creative work, pupils develop the ability to express themselves and take a stand. The collaborative processes of craft work strengthen pupils' ability to cooperate, listen to others' perspectives and participate actively in shared projects."
+        }
+      },
+      {
+        "code": "TT3",
+        "name": {
+          "local": "Hållbar utveckling",
+          "en": "Sustainability"
+        },
+        "description": {
+          "local": "I slöjd bidrar det tvärvetenskapliga temat hållbar utveckling till att eleverna utvecklar kunskap om materials ursprung, framställning och miljöpåverkan. Genom att arbeta med återbruk, reparation och resurshushållning får eleverna praktisk erfarenhet av hållbara förhållningssätt. Eleverna lär sig att jämföra natur- och konstmaterial samt förnybara och icke förnybara resurser, vilket ger dem redskap att göra medvetna och miljöansvariga val.",
+          "en": "In crafts, the interdisciplinary theme of sustainability contributes to pupils developing knowledge about the origins, production and environmental impact of materials. By working with reuse, repair and resource conservation, pupils gain practical experience of sustainable approaches. Pupils learn to compare natural and synthetic materials as well as renewable and non-renewable resources, giving them the tools to make conscious and environmentally responsible choices."
+        }
+      }
+    ],
+    "basicSkills": [
+      {
+        "code": "GF1",
+        "name": {
+          "local": "Muntliga färdigheter",
+          "en": "Oral skills"
+        },
+        "description": {
+          "local": "Muntliga färdigheter i slöjd innebär att kunna sätta ord på och reflektera över skapande processer, materialval och hantverkstekniker. Det omfattar att använda slöjdspecifika begrepp i samtal, presentationer och gemensamma diskussioner om arbetsprocesser och resultat. Utvecklingen av muntliga färdigheter i slöjd går från att beskriva enkla steg i sitt arbete till att kunna föra utvecklade resonemang om kvalitet, uttryck och hållbarhet.",
+          "en": "Oral skills in crafts involve being able to articulate and reflect on creative processes, material choices and craft techniques. This includes using craft-specific terminology in conversations, presentations and shared discussions about work processes and results. The development of oral skills in crafts progresses from describing simple steps in one's work to being able to present developed reasoning about quality, expression and sustainability."
+        }
+      },
+      {
+        "code": "GF2",
+        "name": {
+          "local": "Att kunna skriva",
+          "en": "Writing"
+        },
+        "description": {
+          "local": "Att kunna skriva i slöjd innebär att dokumentera arbetsprocesser genom skisser, arbetsbeskrivningar och reflektioner. Det omfattar att formulera idéer, beskriva tillvägagångssätt och motivera val av material och tekniker i skriftlig form. Utvecklingen av skrivande i slöjd går från att skapa enkla skisser och arbetsbeskrivningar till att producera detaljerade mönster, ritningar och reflekterande texter om skapandeprocessen.",
+          "en": "Writing in crafts involves documenting work processes through sketches, work descriptions and reflections. This includes formulating ideas, describing approaches and justifying choices of materials and techniques in written form. The development of writing in crafts progresses from creating simple sketches and work descriptions to producing detailed patterns, drawings and reflective texts about the creative process."
+        }
+      },
+      {
+        "code": "GF3",
+        "name": {
+          "local": "Att kunna läsa",
+          "en": "Reading"
+        },
+        "description": {
+          "local": "Att kunna läsa i slöjd innebär att tolka och förstå skisser, mönster, arbetsbeskrivningar och instruktioner. Det omfattar att avkoda tekniska ritningar, symboler och mått samt att tillägna sig information om material och hantverkstekniker från olika källor. Utvecklingen av läsning i slöjd går från att förstå enkla bildbaserade instruktioner till att kunna tolka komplexa två- och tredimensionella ritningar med måttangivelser.",
+          "en": "Reading in crafts involves interpreting and understanding sketches, patterns, work descriptions and instructions. This includes decoding technical drawings, symbols and measurements as well as acquiring information about materials and craft techniques from different sources. The development of reading in crafts progresses from understanding simple image-based instructions to being able to interpret complex two- and three-dimensional drawings with dimensions."
+        }
+      },
+      {
+        "code": "GF4",
+        "name": {
+          "local": "Att kunna räkna",
+          "en": "Numeracy"
+        },
+        "description": {
+          "local": "Att kunna räkna i slöjd innebär att använda matematiska metoder vid mätning, beräkning av materialåtgång och arbete med proportioner och skala. Det omfattar att ta exakta mått, beräkna ytor och volymer samt att förstå geometriska former och symmetri i konstruktionsarbete. Utvecklingen av räknefärdigheter i slöjd går från att använda enkla mått och former till att beräkna materialåtgång och arbeta med skalenliga modeller.",
+          "en": "Numeracy in crafts involves using mathematical methods for measuring, calculating material consumption and working with proportions and scale. This includes taking exact measurements, calculating areas and volumes as well as understanding geometric shapes and symmetry in construction work. The development of numeracy in crafts progresses from using simple measurements and shapes to calculating material requirements and working with scaled models."
+        }
+      },
+      {
+        "code": "GF5",
+        "name": {
+          "local": "Digitala färdigheter",
+          "en": "Digital skills"
+        },
+        "description": {
+          "local": "Digitala färdigheter i slöjd innebär att använda digitala verktyg för att skapa skisser, modeller och ritningar samt att söka inspiration och information om material och tekniker. Det omfattar användning av digitala designprogram och dokumentation av arbetsprocesser med digitala medier. Utvecklingen av digitala färdigheter i slöjd går från att använda enkla digitala verktyg för dokumentation till att skapa två- och tredimensionella skisser och modeller med hjälp av digitala designverktyg.",
+          "en": "Digital skills in crafts involve using digital tools to create sketches, models and drawings as well as to seek inspiration and information about materials and techniques. This includes the use of digital design programs and documentation of work processes with digital media. The development of digital skills in crafts progresses from using simple digital tools for documentation to creating two- and three-dimensional sketches and models using digital design tools."
         }
       }
     ],
